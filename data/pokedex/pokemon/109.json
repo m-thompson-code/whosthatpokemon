@@ -1,0 +1,394 @@
+{
+  "id": 109,
+  "slug": "koffing",
+  "name": "Koffing",
+  "generation": 1,
+  "genus": "Poison Gas Pokémon",
+  "types": [
+    "poison"
+  ],
+  "imagePath": "/assets/pokemon/109.png",
+  "entryCount": 28,
+  "color": "purple",
+  "shape": "ball",
+  "habitat": "urban",
+  "eggGroups": [
+    "indeterminate"
+  ],
+  "evolutionChainId": 49,
+  "evolvesFromId": null,
+  "evolutionStage": 1,
+  "height": 6,
+  "weight": 10,
+  "stats": [
+    40,
+    65,
+    95,
+    60,
+    45,
+    35
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "The poisonous gases it contains are a little bit lighter than air, keeping it slight­ ly airborne.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "If one gets close enough to it when it expels poison­ ous gas, the gas swirling inside it can be seen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "If KOFFING becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This POKéMON may also overinflate its round body, then explode.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "KOFFING embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this POKéMON.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "Getting up close to a KOFFING will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pokémon.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
+      "revealsName": true
+    }
+  ],
+  "similarPokemonIds": [
+    110,
+    88,
+    32,
+    41,
+    23,
+    316,
+    29,
+    1025,
+    451,
+    92,
+    89,
+    803,
+    434,
+    33,
+    690,
+    747,
+    453,
+    317,
+    757,
+    30,
+    568,
+    944,
+    42,
+    34,
+    336,
+    24,
+    90,
+    435,
+    31,
+    452,
+    169,
+    132,
+    854,
+    200,
+    351,
+    353,
+    969,
+    48,
+    454,
+    1015
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      88,
+      32,
+      23,
+      316,
+      29,
+      803,
+      568,
+      336,
+      41,
+      451,
+      92,
+      434,
+      690,
+      747,
+      453,
+      757
+    ],
+    "stats-and-role": [
+      366,
+      90,
+      710,
+      451,
+      304,
+      690,
+      140,
+      104,
+      564,
+      747,
+      102,
+      679,
+      769,
+      568,
+      201,
+      138
+    ],
+    "shape-and-size": [
+      90,
+      132,
+      353,
+      200,
+      92,
+      204,
+      268,
+      854,
+      946,
+      429,
+      969,
+      201,
+      351,
+      710,
+      855,
+      100
+    ],
+    "ecology": [
+      88,
+      89,
+      353,
+      316,
+      92,
+      317,
+      280,
+      132,
+      281,
+      854,
+      354,
+      200,
+      351,
+      100,
+      710,
+      479
+    ],
+    "generation": [
+      88,
+      92,
+      23,
+      32,
+      29,
+      41,
+      43,
+      1,
+      48,
+      72,
+      69,
+      90,
+      100,
+      132,
+      140,
+      102
+    ]
+  }
+}

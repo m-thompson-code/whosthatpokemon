@@ -1,0 +1,386 @@
+{
+  "id": 100,
+  "slug": "voltorb",
+  "name": "Voltorb",
+  "generation": 1,
+  "genus": "Ball Pokémon",
+  "types": [
+    "electric"
+  ],
+  "imagePath": "/assets/pokemon/100.png",
+  "entryCount": 27,
+  "color": "red",
+  "shape": "ball",
+  "habitat": "urban",
+  "eggGroups": [
+    "mineral"
+  ],
+  "evolutionChainId": 44,
+  "evolvesFromId": null,
+  "evolutionStage": 1,
+  "height": 5,
+  "weight": 104,
+  "stats": [
+    40,
+    30,
+    50,
+    55,
+    55,
+    100
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "It is said to camouflage itself as a POKé BALL. It will self-destruct with very little stimulus.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "It was discovered when POKé BALLS were introduced. It is said that there is some connection.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "During the study of this POKéMON, it was discovered that its compo­ nents are not found in nature.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "VOLTORB was first sighted at a company that manufactures POKé BALLS. The link between that sighting and the fact that this POKéMON looks very similar to a POKé BALL remains a mystery.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "VOLTORB is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a POKé BALL was exposed to a powerful pulse of energy.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "It bears an uncanny and unexplained resemblance to a POKé BALL. Because it explodes at the slightest shock, even veteran TRAINERS treat it with caution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "A life-form whose identity is unknown. It is said to SCREECH or suddenly SELFDESTRUCT.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "Usually found in power plants. Easily mistaken for a POKé BALL, it has zapped many people.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on contact.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on contact.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Voltorb is extremely sensitive—it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
+      "revealsName": false
+    },
+    {
+      "versionId": 39,
+      "version": "legends-arceus",
+      "versionDisplayName": "Legends: Arceus",
+      "versionGroup": "legends-arceus",
+      "text": "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    101,
+    479,
+    81,
+    938,
+    309,
+    312,
+    179,
+    311,
+    417,
+    694,
+    940,
+    25,
+    403,
+    587,
+    702,
+    239,
+    602,
+    82,
+    522,
+    921,
+    877,
+    835,
+    172,
+    777,
+    26,
+    125,
+    135,
+    180,
+    871,
+    145,
+    848,
+    922,
+    310,
+    989,
+    404,
+    880,
+    462,
+    881,
+    695,
+    243
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      938,
+      309,
+      312,
+      179,
+      311,
+      417,
+      403,
+      602,
+      522,
+      921,
+      835,
+      479,
+      871,
+      81,
+      796,
+      694
+    ],
+    "stats-and-role": [
+      370,
+      120,
+      225,
+      694,
+      309,
+      940,
+      742,
+      595,
+      60,
+      456,
+      170,
+      757,
+      177,
+      52,
+      522,
+      4
+    ],
+    "shape-and-size": [
+      479,
+      938,
+      616,
+      201,
+      204,
+      932,
+      837,
+      969,
+      109,
+      132,
+      353,
+      597,
+      710,
+      90,
+      266,
+      200
+    ],
+    "ecology": [
+      81,
+      137,
+      82,
+      135,
+      233,
+      132,
+      462,
+      109,
+      338,
+      1012,
+      854,
+      969,
+      353,
+      837,
+      707,
+      932
+    ],
+    "generation": [
+      81,
+      109,
+      92,
+      90,
+      132,
+      118,
+      4,
+      98,
+      133,
+      120,
+      54,
+      102,
+      1,
+      96,
+      72,
+      43
+    ]
+  }
+}

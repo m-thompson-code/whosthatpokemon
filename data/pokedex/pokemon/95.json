@@ -1,0 +1,403 @@
+{
+  "id": 95,
+  "slug": "onix",
+  "name": "Onix",
+  "generation": 1,
+  "genus": "Rock Snake Pokémon",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "imagePath": "/assets/pokemon/095.png",
+  "entryCount": 29,
+  "color": "gray",
+  "shape": "squiggle",
+  "habitat": "cave",
+  "eggGroups": [
+    "mineral"
+  ],
+  "evolutionChainId": 41,
+  "evolvesFromId": null,
+  "evolutionStage": 1,
+  "height": 88,
+  "weight": 2100,
+  "stats": [
+    35,
+    45,
+    160,
+    30,
+    45,
+    70
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its mas­ sive, rugged body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "There is a magnet in its brain that prevents an ONIX from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "As it grows, the stone portions of its body harden to become similar to black-colored diamonds.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "When it travels underground, it causes rumbling and tremors. It can move at 50 mph.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "It squirms through the ground using its long and rugged body. It always eats while burrowing.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 39,
+      "version": "legends-arceus",
+      "versionDisplayName": "Legends: Arceus",
+      "versionGroup": "legends-arceus",
+      "text": "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    74,
+    247,
+    75,
+    299,
+    76,
+    246,
+    208,
+    338,
+    874,
+    703,
+    337,
+    140,
+    410,
+    138,
+    774,
+    347,
+    932,
+    524,
+    837,
+    185,
+    142,
+    805,
+    969,
+    476,
+    345,
+    1022,
+    950,
+    111,
+    377,
+    934,
+    688,
+    696,
+    933,
+    141,
+    139,
+    411,
+    838,
+    744,
+    348,
+    408
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      74,
+      246,
+      111,
+      299,
+      338,
+      874,
+      703,
+      337,
+      140,
+      410,
+      138,
+      774,
+      347,
+      932,
+      524,
+      837
+    ],
+    "stats-and-role": [
+      299,
+      410,
+      140,
+      138,
+      227,
+      207,
+      74,
+      950,
+      304,
+      774,
+      696,
+      104,
+      451,
+      564,
+      968,
+      303
+    ],
+    "shape-and-size": [
+      130,
+      350,
+      780,
+      844,
+      247,
+      24,
+      968,
+      148,
+      770,
+      497,
+      982,
+      336,
+      843,
+      23,
+      368,
+      367
+    ],
+    "ecology": [
+      299,
+      338,
+      337,
+      74,
+      75,
+      76,
+      874,
+      703,
+      774,
+      932,
+      524,
+      837,
+      361,
+      185,
+      969,
+      476
+    ],
+    "generation": [
+      74,
+      140,
+      138,
+      111,
+      142,
+      104,
+      27,
+      137,
+      50,
+      108,
+      83,
+      81,
+      77,
+      100,
+      147,
+      109
+    ]
+  }
+}

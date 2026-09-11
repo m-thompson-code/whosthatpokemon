@@ -1,0 +1,82 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function room(roomId) {
+      return get(/databases/$(database)/documents/rooms/$(roomId));
+    }
+
+    function isHost(roomId) {
+      return signedIn() && room(roomId).data.hostId == request.auth.uid;
+    }
+
+    function isPlayer(roomId) {
+      return signedIn() && exists(/databases/$(database)/documents/rooms/$(roomId)/players/$(request.auth.uid));
+    }
+
+    match /users/{userId} {
+      allow read: if signedIn() && request.auth.uid == userId;
+      allow create, update: if signedIn()
+        && request.auth.uid == userId
+        && request.resource.data.uid == request.auth.uid;
+      allow delete: if signedIn() && request.auth.uid == userId;
+    }
+
+    match /games/{gameId} {
+      allow read: if true;
+      allow write: if false;
+
+      match /entries/{pokemonId} {
+        allow read: if true;
+        allow write: if false;
+      }
+    }
+
+    match /joinCodes/{joinCode} {
+      allow read: if signedIn();
+      allow write: if false;
+    }
+
+    match /rooms/{roomId} {
+      allow create: if signedIn() && request.resource.data.hostId == request.auth.uid;
+      allow read: if isHost(roomId) || isPlayer(roomId);
+      allow update, delete: if isHost(roomId);
+
+      match /players/{playerId} {
+        allow read: if isHost(roomId) || isPlayer(roomId);
+        allow create: if signedIn()
+          && playerId == request.auth.uid
+          && request.resource.data.uid == request.auth.uid
+          && request.resource.data.score == 0
+          && request.resource.data.team == 'none'
+          && request.resource.data.eliminated == false;
+        allow update: if playerId == request.auth.uid
+          && request.resource.data.diff(resource.data).affectedKeys()
+            .hasOnly(['displayName', 'connected', 'lastSeenAt']);
+        allow delete: if playerId == request.auth.uid || isHost(roomId);
+      }
+
+      match /rounds/{roundId} {
+        allow read, write: if isHost(roomId);
+
+        match /answers/{playerId} {
+          allow read: if isHost(roomId);
+          allow create: if playerId == request.auth.uid
+            && isPlayer(roomId)
+            && request.resource.data.playerId == request.auth.uid
+            && !request.resource.data.keys().hasAny(['isCorrect', 'pointsAwarded']);
+          allow update, delete: if false;
+        }
+      }
+
+      match /publicRounds/{roundId} {
+        allow read: if isHost(roomId) || isPlayer(roomId);
+        allow write: if isHost(roomId);
+      }
+    }
+  }
+}

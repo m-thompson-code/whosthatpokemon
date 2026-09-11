@@ -1,0 +1,395 @@
+{
+  "id": 4,
+  "slug": "charmander",
+  "name": "Charmander",
+  "generation": 1,
+  "genus": "Lizard Pokémon",
+  "types": [
+    "fire"
+  ],
+  "imagePath": "/assets/pokemon/004.png",
+  "entryCount": 28,
+  "color": "red",
+  "shape": "upright",
+  "habitat": "mountain",
+  "eggGroups": [
+    "monster",
+    "dragon"
+  ],
+  "evolutionChainId": 2,
+  "evolvesFromId": null,
+  "evolutionStage": 1,
+  "height": 6,
+  "weight": 85,
+  "stats": [
+    39,
+    52,
+    43,
+    60,
+    50,
+    65
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "The flame on its tail indicates CHARMANDER's life force. If it is healthy, the flame burns brightly.",
+      "revealsName": true
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "If it's healthy, the flame on the tip of its tail will burn vigor­ ously, even if it gets a bit wet.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is happy, and blazes when it is enraged.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "The flame on its tail indicates CHARMANDER’s life force. If it is healthy, the flame burns brightly.",
+      "revealsName": true
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "The flame on its tail indicates Charmander’s life force. If it is healthy, the flame burns brightly.",
+      "revealsName": true
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    5,
+    6,
+    513,
+    776,
+    909,
+    390,
+    240,
+    813,
+    256,
+    126,
+    631,
+    255,
+    37,
+    155,
+    654,
+    218,
+    58,
+    653,
+    725,
+    910,
+    77,
+    391,
+    935,
+    850,
+    498,
+    514,
+    257,
+    499,
+    814,
+    322,
+    655,
+    741,
+    467,
+    554,
+    667,
+    392,
+    727,
+    500,
+    252,
+    815
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      513,
+      909,
+      390,
+      813,
+      631,
+      255,
+      37,
+      155,
+      218,
+      58,
+      653,
+      725,
+      77,
+      935,
+      498,
+      554
+    ],
+    "stats-and-role": [
+      155,
+      390,
+      513,
+      653,
+      252,
+      725,
+      255,
+      37,
+      813,
+      850,
+      54,
+      511,
+      515,
+      656,
+      694,
+      757
+    ],
+    "shape-and-size": [
+      513,
+      909,
+      390,
+      814,
+      256,
+      654,
+      813,
+      991,
+      158,
+      252,
+      7,
+      694,
+      216,
+      610,
+      559,
+      27
+    ],
+    "ecology": [
+      776,
+      252,
+      104,
+      126,
+      694,
+      443,
+      246,
+      757,
+      610,
+      218,
+      696,
+      621,
+      253,
+      322,
+      105,
+      444
+    ],
+    "generation": [
+      37,
+      58,
+      77,
+      7,
+      104,
+      54,
+      56,
+      66,
+      63,
+      27,
+      1,
+      147,
+      116,
+      118,
+      23,
+      79
+    ]
+  }
+}

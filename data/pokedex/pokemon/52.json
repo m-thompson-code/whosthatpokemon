@@ -1,0 +1,426 @@
+{
+  "id": 52,
+  "slug": "meowth",
+  "name": "Meowth",
+  "generation": 1,
+  "genus": "Scratch Cat Pokémon",
+  "types": [
+    "normal"
+  ],
+  "imagePath": "/assets/pokemon/052.png",
+  "entryCount": 32,
+  "color": "yellow",
+  "shape": "quadruped",
+  "habitat": "urban",
+  "eggGroups": [
+    "ground"
+  ],
+  "evolutionChainId": 22,
+  "evolvesFromId": null,
+  "evolutionStage": 1,
+  "height": 4,
+  "weight": 42,
+  "stats": [
+    40,
+    45,
+    35,
+    40,
+    40,
+    90
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "It loves anything that shines. It especially adores coins that it picks up and se­ cretly hoards.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "MEOWTH withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this POKéMON loves shiny coins that glitter with light.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "MEOWTH withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this POKéMON loves shiny coins that glitter with light.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "MEOWTH withdraw their sharp claws into their paws to silently sneak about. For some reason, this POKéMON loves shiny coins that glitter with light.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It is fascinated by round objects. It can’t stop playing with them until it tires and falls asleep.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
+      "revealsName": true
+    },
+    {
+      "versionId": 27,
+      "version": "sun",
+      "versionDisplayName": "Sun",
+      "versionGroup": "sun-moon",
+      "text": "It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change.",
+      "revealsName": false
+    },
+    {
+      "versionId": 28,
+      "version": "moon",
+      "versionDisplayName": "Moon",
+      "versionGroup": "sun-moon",
+      "text": "It loves shiny things. It often fights with Murkrow over prey they’re both trying to catch.",
+      "revealsName": false
+    },
+    {
+      "versionId": 29,
+      "version": "ultra-sun",
+      "versionDisplayName": "Ultra Sun",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "When visiting a junkyard, you may catch sight of it having an intense fight with Murkrow over shiny objects.",
+      "revealsName": false
+    },
+    {
+      "versionId": 30,
+      "version": "ultra-moon",
+      "versionDisplayName": "Ultra Moon",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "It loves coins, so if you give it one, you can make friends with Meowth easily. But it’s fickle, so you can’t count on that friendship lasting.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Appears to be more active at night. It loves round and shiny things. It can’t stop itself from picking them up.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Appears to be more active at night. It loves round and shiny things. It can’t stop itself from picking them up.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.",
+      "revealsName": true
+    }
+  ],
+  "similarPokemonIds": [
+    19,
+    53,
+    133,
+    203,
+    431,
+    263,
+    300,
+    161,
+    572,
+    287,
+    506,
+    585,
+    831,
+    399,
+    734,
+    504,
+    915,
+    759,
+    128,
+    234,
+    20,
+    676,
+    162,
+    264,
+    301,
+    190,
+    206,
+    83,
+    216,
+    427,
+    327,
+    235,
+    21,
+    507,
+    573,
+    432,
+    924,
+    16,
+    626,
+    293
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      19,
+      133,
+      431,
+      263,
+      300,
+      161,
+      572,
+      287,
+      506,
+      831,
+      399,
+      734,
+      504,
+      915,
+      128,
+      234
+    ],
+    "stats-and-role": [
+      431,
+      572,
+      924,
+      276,
+      60,
+      19,
+      944,
+      661,
+      21,
+      522,
+      506,
+      509,
+      742,
+      585,
+      694,
+      300
+    ],
+    "shape-and-size": [
+      19,
+      572,
+      506,
+      133,
+      431,
+      734,
+      263,
+      759,
+      915,
+      25,
+      831,
+      504,
+      300,
+      921,
+      573,
+      399
+    ],
+    "ecology": [
+      133,
+      235,
+      19,
+      203,
+      431,
+      263,
+      300,
+      161,
+      572,
+      287,
+      506,
+      585,
+      831,
+      399,
+      734,
+      504
+    ],
+    "generation": [
+      19,
+      133,
+      132,
+      21,
+      84,
+      16,
+      83,
+      137,
+      108,
+      37,
+      128,
+      32,
+      29,
+      27,
+      1,
+      23
+    ]
+  }
+}

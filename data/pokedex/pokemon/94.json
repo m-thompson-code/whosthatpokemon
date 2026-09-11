@@ -1,0 +1,435 @@
+{
+  "id": 94,
+  "slug": "gengar",
+  "name": "Gengar",
+  "generation": 1,
+  "genus": "Shadow Pokémon",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "imagePath": "/assets/pokemon/094.png",
+  "entryCount": 33,
+  "color": "purple",
+  "shape": "upright",
+  "habitat": "cave",
+  "eggGroups": [
+    "indeterminate"
+  ],
+  "evolutionChainId": 40,
+  "evolvesFromId": 93,
+  "evolutionStage": 3,
+  "height": 15,
+  "weight": 405,
+  "stats": [
+    60,
+    65,
+    60,
+    130,
+    75,
+    110
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+      "revealsName": true
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "It steals heat from its surround­ ings. If you feel a sudden chill, it is certain that a GENGAR appeared.",
+      "revealsName": true
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "On the night of a full moon, if shadows move on their own and laugh, it must be GENGAR’s doing.",
+      "revealsName": true
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "It hides in shadows. It is said that if GENGAR is hiding, it cools the area by nearly 10 degrees F.",
+      "revealsName": true
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey’s life force.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.",
+      "revealsName": true
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a GENGAR appeared.",
+      "revealsName": true
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "To steal the life of its target, it slips into the prey’s shadow and silently waits for an opportunity.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "revealsName": true
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "revealsName": true
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "revealsName": true
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "revealsName": true
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
+      "revealsName": true
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "Hiding in people’s shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "revealsName": true
+    },
+    {
+      "versionId": 27,
+      "version": "sun",
+      "versionDisplayName": "Sun",
+      "versionGroup": "sun-moon",
+      "text": "Should you feel yourself attacked by a sudden chill, it is evidence of an approaching Gengar. There is no escaping it. Give up.",
+      "revealsName": true
+    },
+    {
+      "versionId": 28,
+      "version": "moon",
+      "versionDisplayName": "Moon",
+      "versionGroup": "sun-moon",
+      "text": "It apparently wishes for a traveling companion. Since it was once human itself, it tries to create one by taking the lives of other humans.",
+      "revealsName": false
+    },
+    {
+      "versionId": 29,
+      "version": "ultra-sun",
+      "versionDisplayName": "Ultra Sun",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "You can hear tales told all over the world about how Gengar will pay a visit to children who are naughty.",
+      "revealsName": true
+    },
+    {
+      "versionId": 30,
+      "version": "ultra-moon",
+      "versionDisplayName": "Ultra Moon",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "Even your home isn’t safe. Gengar will lurk in whatever dark corner of a room it can find and wait for its chance to catch its prey.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+      "revealsName": true
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+      "revealsName": true
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.",
+      "revealsName": true
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+      "revealsName": false
+    },
+    {
+      "versionId": 39,
+      "version": "legends-arceus",
+      "versionDisplayName": "Legends: Arceus",
+      "versionGroup": "legends-arceus",
+      "text": "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    93,
+    92,
+    354,
+    609,
+    429,
+    200,
+    34,
+    855,
+    426,
+    425,
+    477,
+    854,
+    442,
+    31,
+    353,
+    356,
+    608,
+    887,
+    355,
+    709,
+    711,
+    778,
+    710,
+    708,
+    769,
+    563,
+    770,
+    607,
+    562,
+    987,
+    849,
+    26,
+    972,
+    36,
+    897,
+    864,
+    971,
+    6,
+    169,
+    254
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      609,
+      34,
+      477,
+      31,
+      887,
+      169,
+      71,
+      45,
+      15,
+      3,
+      407,
+      269,
+      724,
+      979,
+      911,
+      681
+    ],
+    "stats-and-role": [
+      65,
+      818,
+      609,
+      407,
+      254,
+      655,
+      26,
+      6,
+      474,
+      34,
+      157,
+      282,
+      467,
+      658,
+      392,
+      3
+    ],
+    "shape-and-size": [
+      849,
+      34,
+      620,
+      210,
+      655,
+      36,
+      908,
+      862,
+      31,
+      903,
+      815,
+      126,
+      141,
+      354,
+      254,
+      288
+    ],
+    "ecology": [
+      200,
+      354,
+      609,
+      429,
+      855,
+      426,
+      425,
+      477,
+      854,
+      442,
+      353,
+      356,
+      608,
+      887,
+      355,
+      709
+    ],
+    "generation": [
+      34,
+      31,
+      71,
+      45,
+      3,
+      26,
+      36,
+      6,
+      15,
+      65,
+      9,
+      18,
+      62,
+      68,
+      76,
+      149
+    ]
+  }
+}

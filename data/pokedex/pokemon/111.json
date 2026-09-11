@@ -1,0 +1,404 @@
+{
+  "id": 111,
+  "slug": "rhyhorn",
+  "name": "Rhyhorn",
+  "generation": 1,
+  "genus": "Spikes Pokémon",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "imagePath": "/assets/pokemon/111.png",
+  "entryCount": 29,
+  "color": "gray",
+  "shape": "quadruped",
+  "habitat": "rough-terrain",
+  "eggGroups": [
+    "monster",
+    "ground"
+  ],
+  "evolutionChainId": 50,
+  "evolvesFromId": null,
+  "evolutionStage": 1,
+  "height": 10,
+  "weight": 1150,
+  "stats": [
+    80,
+    85,
+    95,
+    30,
+    30,
+    25
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "A POKéMON with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "It doesn't care if there is anything in its way. It just charges and destroys all ob­ stacles.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "RHYHORN runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This POKéMON may feel some pain from the collision the next day, however.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "RHYHORN’s brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "Once it starts running, it doesn’t stop. Its tiny brain makes it so stupid that it can’t remember why it started running in the first place.",
+      "revealsName": false
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "Strong, but not too bright, this POKéMON can shatter even a skyscraper with its charging TACKLES.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "Its massive bones are 1,000 times harder than human bones. Its TACKLE can knock a semitrailer flying.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It doesn’t care if there is anything in its way. It just charges and destroys all obstacles.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Rhyhorn’s brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "A Pokémon with a one-track mind. Once it charges, it won’t stop running until it falls asleep.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "A Pokémon with a one-track mind. Once it charges, it won’t stop running until it falls asleep.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+      "revealsName": false
+    },
+    {
+      "versionId": 39,
+      "version": "legends-arceus",
+      "versionDisplayName": "Legends: Arceus",
+      "versionGroup": "legends-arceus",
+      "text": "Ludicrously strong—when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    112,
+    464,
+    231,
+    232,
+    749,
+    449,
+    551,
+    27,
+    104,
+    990,
+    450,
+    552,
+    529,
+    984,
+    750,
+    50,
+    304,
+    901,
+    207,
+    28,
+    843,
+    105,
+    622,
+    328,
+    246,
+    410,
+    305,
+    343,
+    220,
+    51,
+    322,
+    530,
+    247,
+    29,
+    553,
+    32,
+    74,
+    618,
+    179,
+    698
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      246,
+      231,
+      74,
+      749,
+      449,
+      95,
+      551,
+      27,
+      104,
+      990,
+      529,
+      984,
+      50,
+      304,
+      207,
+      843
+    ],
+    "stats-and-role": [
+      449,
+      304,
+      231,
+      27,
+      749,
+      564,
+      712,
+      104,
+      79,
+      696,
+      74,
+      843,
+      674,
+      679,
+      942,
+      878
+    ],
+    "shape-and-size": [
+      232,
+      749,
+      305,
+      916,
+      834,
+      712,
+      372,
+      878,
+      388,
+      411,
+      933,
+      449,
+      128,
+      943,
+      1010,
+      304
+    ],
+    "ecology": [
+      231,
+      232,
+      27,
+      28,
+      749,
+      449,
+      29,
+      32,
+      551,
+      179,
+      104,
+      228,
+      33,
+      450,
+      552,
+      529
+    ],
+    "generation": [
+      104,
+      27,
+      50,
+      74,
+      95,
+      140,
+      138,
+      58,
+      79,
+      133,
+      1,
+      29,
+      32,
+      37,
+      86,
+      52
+    ]
+  }
+}

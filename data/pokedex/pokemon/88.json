@@ -1,0 +1,410 @@
+{
+  "id": 88,
+  "slug": "grimer",
+  "name": "Grimer",
+  "generation": 1,
+  "genus": "Sludge Pokémon",
+  "types": [
+    "poison"
+  ],
+  "imagePath": "/assets/pokemon/088.png",
+  "entryCount": 30,
+  "color": "purple",
+  "shape": "arms",
+  "habitat": "urban",
+  "eggGroups": [
+    "indeterminate"
+  ],
+  "evolutionChainId": 38,
+  "evolvesFromId": null,
+  "evolutionStage": 1,
+  "height": 9,
+  "weight": 300,
+  "stats": [
+    80,
+    80,
+    50,
+    40,
+    50,
+    25
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "Made of hardened sludge. It smells too putrid to touch. Even weeds won't grow in its path.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "As it moves, it loses bits of its body from which new GRIMER emerge. This worsens the stench around it.",
+      "revealsName": true
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again.",
+      "revealsName": true
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "When two of these POKéMON's bodies are combined together, new poisons are created.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "GRIMER’s sludgy and rubbery body can be forced through any opening, however small it may be. This POKéMON enters sewer pipes to drink filthy wastewater.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "GRIMER emerged from the sludge that settled on a polluted seabed. This POKéMON loves anything filthy. It constantly leaks a horribly germ- infested fluid from all over its body.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "Born from polluted sludge in the sea, GRIMER’s favorite food is anything filthy. They feed on wastewater pumped out from factories.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "Sludge exposed to X rays from the moon transformed into GRIMER. It loves feeding on filthy things.",
+      "revealsName": true
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "As it moves, it loses bits of its body, from which new GRIMER emerge. This worsens the stench around it.",
+      "revealsName": true
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again.",
+      "revealsName": true
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "Sludge exposed to X-rays from the moon transformed into Grimer. It loves feeding on filthy things.",
+      "revealsName": true
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Grimer’s sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Grimer emerged from the sludge that settled on a polluted seabed. This Pokémon loves anything filthy. It constantly leaks a horribly germ-infested fluid from all over its body.",
+      "revealsName": true
+    },
+    {
+      "versionId": 27,
+      "version": "sun",
+      "versionDisplayName": "Sun",
+      "versionGroup": "sun-moon",
+      "text": "Its main source of food is the slimy industrial waste of factories. This Pokémon’s numbers have been decreasing in recent years.",
+      "revealsName": false
+    },
+    {
+      "versionId": 28,
+      "version": "moon",
+      "versionDisplayName": "Moon",
+      "versionGroup": "sun-moon",
+      "text": "It was born from sludge transformed by exposure to X-rays from the moon. When its internal load of germs decreases, it dies.",
+      "revealsName": false
+    },
+    {
+      "versionId": 29,
+      "version": "ultra-sun",
+      "versionDisplayName": "Ultra Sun",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "It was born from sludge on the ocean floor. In a sterile environment, the germs within its body can’t multiply, and it dies.",
+      "revealsName": false
+    },
+    {
+      "versionId": 30,
+      "version": "ultra-moon",
+      "versionDisplayName": "Ultra Moon",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "The wastewater coming from factories is clean these days, so Grimer have nothing to eat. They’re said to be on the verge of extinction.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    89,
+    316,
+    109,
+    317,
+    32,
+    41,
+    23,
+    29,
+    110,
+    434,
+    451,
+    33,
+    803,
+    453,
+    42,
+    30,
+    568,
+    690,
+    336,
+    34,
+    747,
+    24,
+    944,
+    757,
+    435,
+    31,
+    93,
+    169,
+    452,
+    48,
+    454,
+    590,
+    92,
+    425,
+    1025,
+    1016,
+    945,
+    1015,
+    758,
+    355
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      316,
+      109,
+      32,
+      23,
+      29,
+      803,
+      568,
+      336,
+      41,
+      434,
+      451,
+      453,
+      690,
+      747,
+      944,
+      757
+    ],
+    "stats-and-role": [
+      316,
+      878,
+      66,
+      216,
+      79,
+      690,
+      231,
+      209,
+      48,
+      590,
+      532,
+      422,
+      759,
+      434,
+      449,
+      387
+    ],
+    "shape-and-size": [
+      316,
+      325,
+      355,
+      426,
+      474,
+      609,
+      589,
+      579,
+      617,
+      425,
+      343,
+      74,
+      591,
+      93,
+      478,
+      608
+    ],
+    "ecology": [
+      109,
+      110,
+      316,
+      317,
+      353,
+      280,
+      93,
+      281,
+      92,
+      354,
+      425,
+      355,
+      282,
+      708,
+      562,
+      94
+    ],
+    "generation": [
+      109,
+      23,
+      32,
+      29,
+      41,
+      92,
+      48,
+      43,
+      1,
+      72,
+      69,
+      81,
+      74,
+      79,
+      96,
+      133
+    ]
+  }
+}

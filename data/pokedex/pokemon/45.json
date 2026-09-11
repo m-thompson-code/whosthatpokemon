@@ -1,0 +1,395 @@
+{
+  "id": 45,
+  "slug": "vileplume",
+  "name": "Vileplume",
+  "generation": 1,
+  "genus": "Flower Pokémon",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "imagePath": "/assets/pokemon/045.png",
+  "entryCount": 28,
+  "color": "red",
+  "shape": "humanoid",
+  "habitat": "grassland",
+  "eggGroups": [
+    "plant"
+  ],
+  "evolutionChainId": 18,
+  "evolvesFromId": 44,
+  "evolutionStage": 3,
+  "height": 12,
+  "weight": 186,
+  "stats": [
+    75,
+    80,
+    85,
+    110,
+    90,
+    50
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poi­ sonous pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "By shaking its big petals, it scat­ ters toxic pollen into the air, turning the air yellow.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "VILEPLUME’s toxic pollen triggers atrocious allergy attacks. That’s why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "VILEPLUME has the world’s largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this POKéMON catches and devours them.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "In seasons when it produces more pollen, the air around a VILEPLUME turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "Its petals are the largest in the world. It fiendishly scatters allergy-causing pollen from its petals.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Vileplume’s toxic pollen triggers atrocious allergy attacks. That’s why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Vileplume has the world’s largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this Pokémon catches and devours them.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    44,
+    182,
+    407,
+    69,
+    71,
+    315,
+    43,
+    3,
+    275,
+    930,
+    763,
+    192,
+    2,
+    70,
+    1,
+    812,
+    754,
+    274,
+    332,
+    756,
+    331,
+    929,
+    591,
+    189,
+    547,
+    154,
+    465,
+    762,
+    406,
+    590,
+    153,
+    114,
+    908,
+    389,
+    1019,
+    103,
+    102,
+    455,
+    152,
+    497
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      407,
+      71,
+      3,
+      275,
+      930,
+      763,
+      812,
+      189,
+      154,
+      908,
+      389,
+      1019,
+      497,
+      272,
+      724,
+      254
+    ],
+    "stats-and-role": [
+      930,
+      71,
+      3,
+      272,
+      181,
+      407,
+      186,
+      36,
+      866,
+      275,
+      576,
+      154,
+      724,
+      395,
+      1019,
+      31
+    ],
+    "shape-and-size": [
+      763,
+      407,
+      754,
+      756,
+      274,
+      542,
+      192,
+      69,
+      930,
+      271,
+      308,
+      275,
+      929,
+      547,
+      762,
+      40
+    ],
+    "ecology": [
+      315,
+      3,
+      192,
+      2,
+      1,
+      189,
+      407,
+      154,
+      153,
+      114,
+      69,
+      71,
+      152,
+      188,
+      187,
+      275
+    ],
+    "generation": [
+      71,
+      3,
+      94,
+      31,
+      34,
+      62,
+      15,
+      65,
+      76,
+      68,
+      36,
+      40,
+      26,
+      18,
+      6,
+      9
+    ]
+  }
+}

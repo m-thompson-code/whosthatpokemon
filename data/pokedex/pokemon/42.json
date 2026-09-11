@@ -1,0 +1,435 @@
+{
+  "id": 42,
+  "slug": "golbat",
+  "name": "Golbat",
+  "generation": 1,
+  "genus": "Bat Pokémon",
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "imagePath": "/assets/pokemon/042.png",
+  "entryCount": 33,
+  "color": "purple",
+  "shape": "wings",
+  "habitat": "cave",
+  "eggGroups": [
+    "flying"
+  ],
+  "evolutionChainId": 17,
+  "evolvesFromId": 41,
+  "evolutionStage": 2,
+  "height": 16,
+  "weight": 550,
+  "stats": [
+    75,
+    80,
+    70,
+    65,
+    75,
+    90
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "When it plunges its fangs into its prey, it instantly draws and gulps down more than ten ounces of blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "GOLBAT loves to drink the blood of living things. It is particularly active in the pitch black of night. This POKéMON flits around in the night skies, seeking fresh blood.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "GOLBAT bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and POKéMON.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and POKéMON. It flits about in darkness and strikes from behind.",
+      "revealsName": false
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "It clamps down on its prey with needle- sharp fangs and drains over 10 ounces of blood in one gulp.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "It loves the blood of humans and Pokémon. It flies around at night in search of neck veins.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "However hard its victim’s hide may be, it punctures with sharp fangs and gorges itself with blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.",
+      "revealsName": true
+    },
+    {
+      "versionId": 27,
+      "version": "sun",
+      "versionDisplayName": "Sun",
+      "versionGroup": "sun-moon",
+      "text": "Its thick fangs are hollow like straws, making them unexpectedly fragile. These fangs are specialized for sucking blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 28,
+      "version": "moon",
+      "versionDisplayName": "Moon",
+      "versionGroup": "sun-moon",
+      "text": "Sometimes they drink so much blood, they can’t fly anymore. Then they fall to the ground and become food for other Pokémon.",
+      "revealsName": false
+    },
+    {
+      "versionId": 29,
+      "version": "ultra-sun",
+      "versionDisplayName": "Ultra Sun",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "Every once in a while, you’ll see a Golbat that’s missing some fangs. This happens when hunger drives it to try biting a Steel-type Pokémon.",
+      "revealsName": true
+    },
+    {
+      "versionId": 30,
+      "version": "ultra-moon",
+      "versionDisplayName": "Ultra Moon",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "They can suck down over 10 ounces of blood in one go. They have been known to drink so much blood that they can no longer fly.",
+      "revealsName": false
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
+      "revealsName": false
+    },
+    {
+      "versionId": 39,
+      "version": "legends-arceus",
+      "versionDisplayName": "Legends: Arceus",
+      "versionGroup": "legends-arceus",
+      "text": "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    41,
+    169,
+    24,
+    33,
+    804,
+    89,
+    110,
+    317,
+    452,
+    435,
+    22,
+    30,
+    34,
+    17,
+    454,
+    178,
+    164,
+    142,
+    715,
+    31,
+    88,
+    334,
+    945,
+    23,
+    569,
+    279,
+    277,
+    32,
+    18,
+    109,
+    758,
+    581,
+    628,
+    691,
+    1016,
+    397,
+    941,
+    630,
+    662,
+    472
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      24,
+      33,
+      804,
+      89,
+      110,
+      317,
+      452,
+      435,
+      22,
+      30,
+      17,
+      454,
+      178,
+      164,
+      715,
+      334
+    ],
+    "stats-and-role": [
+      24,
+      22,
+      569,
+      581,
+      178,
+      457,
+      49,
+      435,
+      119,
+      945,
+      57,
+      317,
+      288,
+      432,
+      925,
+      454
+    ],
+    "shape-and-size": [
+      142,
+      164,
+      715,
+      227,
+      472,
+      18,
+      628,
+      962,
+      973,
+      207,
+      941,
+      22,
+      468,
+      166,
+      567,
+      724
+    ],
+    "ecology": [
+      22,
+      17,
+      178,
+      164,
+      142,
+      715,
+      334,
+      279,
+      277,
+      18,
+      581,
+      628,
+      397,
+      941,
+      630,
+      662
+    ],
+    "generation": [
+      24,
+      22,
+      110,
+      89,
+      33,
+      49,
+      85,
+      30,
+      17,
+      93,
+      73,
+      2,
+      44,
+      70,
+      130,
+      57
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "id": 47,
+  "slug": "parasect",
+  "name": "Parasect",
+  "generation": 1,
+  "genus": "Mushroom Pokémon",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "imagePath": "/assets/pokemon/047.png",
+  "entryCount": 31,
+  "color": "red",
+  "shape": "armor",
+  "habitat": "forest",
+  "eggGroups": [
+    "bug",
+    "plant"
+  ],
+  "evolutionChainId": 19,
+  "evolvesFromId": 46,
+  "evolutionStage": 2,
+  "height": 10,
+  "weight": 295,
+  "stats": [
+    60,
+    95,
+    80,
+    60,
+    80,
+    30
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "The larger the mushroom on its back grows, the stronger the mush­ room spores it scatters.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "PARASECT are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "It scatters toxic spores from the mushroom cap. In China, the spores are used as herbal medicine.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.",
+      "revealsName": true
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "It is controlled by a mushroom grown larger than the bug body. It is said to prefer damp places.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.",
+      "revealsName": true
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushroom on its back.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
+      "revealsName": true
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
+      "revealsName": true
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
+      "revealsName": true
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
+      "revealsName": true
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
+      "revealsName": true
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+      "revealsName": true
+    },
+    {
+      "versionId": 27,
+      "version": "sun",
+      "versionDisplayName": "Sun",
+      "versionGroup": "sun-moon",
+      "text": "The large mushroom on its back controls it. It often fights over territory with Shiinotic.",
+      "revealsName": false
+    },
+    {
+      "versionId": 28,
+      "version": "moon",
+      "versionDisplayName": "Moon",
+      "versionGroup": "sun-moon",
+      "text": "It scatters toxic spores from its mushroom cap. Once harvested, these spores can be steeped and boiled down to prepare herbal medicines.",
+      "revealsName": false
+    },
+    {
+      "versionId": 29,
+      "version": "ultra-sun",
+      "versionDisplayName": "Ultra Sun",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
+      "revealsName": false
+    },
+    {
+      "versionId": 30,
+      "version": "ultra-moon",
+      "versionDisplayName": "Ultra Moon",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "Its poisonous spores are also used in traditional medicine. Apparently, spores produced in Alola are not of very good quality.",
+      "revealsName": false
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
+      "revealsName": false
+    },
+    {
+      "versionId": 39,
+      "version": "legends-arceus",
+      "versionDisplayName": "Legends: Arceus",
+      "versionGroup": "legends-arceus",
+      "text": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions.",
+      "revealsName": true
+    }
+  ],
+  "similarPokemonIds": [
+    46,
+    168,
+    918,
+    540,
+    558,
+    413,
+    825,
+    541,
+    954,
+    596,
+    265,
+    167,
+    557,
+    166,
+    402,
+    10,
+    13,
+    636,
+    543,
+    212,
+    290,
+    49,
+    283,
+    14,
+    11,
+    416,
+    736,
+    953,
+    542,
+    545,
+    737,
+    632,
+    595,
+    414,
+    738,
+    284,
+    917,
+    205,
+    589,
+    268
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      413,
+      541,
+      168,
+      918,
+      558,
+      825,
+      954,
+      596,
+      166,
+      402,
+      212,
+      49,
+      14,
+      11,
+      416,
+      737
+    ],
+    "stats-and-role": [
+      168,
+      918,
+      737,
+      388,
+      541,
+      603,
+      413,
+      259,
+      247,
+      153,
+      44,
+      67,
+      159,
+      651,
+      723,
+      2
+    ],
+    "shape-and-size": [
+      168,
+      918,
+      636,
+      342,
+      596,
+      557,
+      825,
+      213,
+      543,
+      265,
+      167,
+      632,
+      738,
+      451,
+      290,
+      99
+    ],
+    "ecology": [
+      168,
+      265,
+      167,
+      166,
+      10,
+      13,
+      290,
+      49,
+      14,
+      11,
+      205,
+      268,
+      266,
+      48,
+      193,
+      15
+    ],
+    "generation": [
+      49,
+      2,
+      44,
+      70,
+      14,
+      11,
+      5,
+      103,
+      8,
+      67,
+      99,
+      20,
+      105,
+      119,
+      93,
+      148
+    ]
+  }
+}

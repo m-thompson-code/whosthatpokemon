@@ -1,0 +1,396 @@
+{
+  "id": 6,
+  "slug": "charizard",
+  "name": "Charizard",
+  "generation": 1,
+  "genus": "Flame Pokémon",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "imagePath": "/assets/pokemon/006.png",
+  "entryCount": 28,
+  "color": "red",
+  "shape": "upright",
+  "habitat": "mountain",
+  "eggGroups": [
+    "monster",
+    "dragon"
+  ],
+  "evolutionChainId": 2,
+  "evolvesFromId": 5,
+  "evolutionStage": 3,
+  "height": 17,
+  "weight": 905,
+  "stats": [
+    78,
+    84,
+    78,
+    109,
+    85,
+    100
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "If CHARIZARD be­ comes furious, the flame at the tip of its tail flares up in a whitish- blue color.",
+      "revealsName": true
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "Breathing intense, hot flames, it can melt almost any­ thing. Its breath inflicts terrible pain on enemies.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "It uses its wings to fly high. The temperature of its fire increases as it gains exper­ ience in battle.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "A CHARIZARD flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "Its wings can carry this POKéMON close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.",
+      "revealsName": true
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.",
+      "revealsName": true
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.",
+      "revealsName": true
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "If CHARIZARD becomes furious, the flame at the tip of its tail flares up in a light blue shade.",
+      "revealsName": true
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
+      "revealsName": true
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
+      "revealsName": true
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
+      "revealsName": true
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
+      "revealsName": true
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+      "revealsName": true
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    5,
+    4,
+    467,
+    257,
+    655,
+    727,
+    126,
+    776,
+    392,
+    500,
+    663,
+    157,
+    815,
+    631,
+    256,
+    514,
+    499,
+    654,
+    741,
+    910,
+    146,
+    240,
+    391,
+    513,
+    662,
+    911,
+    78,
+    909,
+    149,
+    814,
+    136,
+    390,
+    250,
+    59,
+    936,
+    254,
+    219,
+    38,
+    813,
+    323
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      663,
+      467,
+      257,
+      655,
+      727,
+      392,
+      500,
+      157,
+      815,
+      911,
+      149,
+      189,
+      373,
+      18,
+      169,
+      12
+    ],
+    "stats-and-role": [
+      157,
+      655,
+      392,
+      467,
+      254,
+      257,
+      3,
+      230,
+      584,
+      9,
+      474,
+      818,
+      34,
+      911,
+      330,
+      663
+    ],
+    "shape-and-size": [
+      727,
+      467,
+      257,
+      9,
+      553,
+      445,
+      631,
+      395,
+      655,
+      295,
+      652,
+      612,
+      260,
+      500,
+      784,
+      55
+    ],
+    "ecology": [
+      776,
+      126,
+      254,
+      445,
+      612,
+      248,
+      621,
+      253,
+      105,
+      306,
+      444,
+      697,
+      246,
+      695,
+      252,
+      219
+    ],
+    "generation": [
+      149,
+      9,
+      18,
+      34,
+      3,
+      31,
+      94,
+      26,
+      36,
+      12,
+      62,
+      45,
+      68,
+      65,
+      71,
+      76
+    ]
+  }
+}

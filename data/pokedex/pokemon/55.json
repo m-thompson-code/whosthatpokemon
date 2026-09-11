@@ -1,0 +1,435 @@
+{
+  "id": 55,
+  "slug": "golduck",
+  "name": "Golduck",
+  "generation": 1,
+  "genus": "Duck Pokémon",
+  "types": [
+    "water"
+  ],
+  "imagePath": "/assets/pokemon/055.png",
+  "entryCount": 33,
+  "color": "blue",
+  "shape": "upright",
+  "habitat": "waters-edge",
+  "eggGroups": [
+    "water1",
+    "ground"
+  ],
+  "evolutionChainId": 23,
+  "evolvesFromId": 54,
+  "evolutionStage": 2,
+  "height": 17,
+  "weight": 766,
+  "stats": [
+    80,
+    82,
+    78,
+    95,
+    80,
+    85
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "Its slim and long limbs end in broad flippers. They are used for swim­ ming gracefully in lakes.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "When it swims at full speed using its long, webbed limbs, its fore­ head somehow be­ gins to glow.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "It appears by waterways at dusk. It may use tele­ kinetic powers if its forehead glows mysteriously.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "The webbed flippers on its forelegs and hind legs and the streamlined body of GOLDUCK give it frightening speed. This POKéMON is definitely much faster than even the most athletic swimmer.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "GOLDUCK is the fastest swimmer among all POKéMON. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "A GOLDUCK is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "Often seen swimming elegantly by lakeshores. It is often mistaken for the Japanese monster Kappa.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "A Pokémon that lives in lakes. It swims faster than any human swimming champion.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "The flippers of its well-developed limbs give it shocking speed. It is the best swimmer among Pokémon.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "When its forehead shines mysteriously, Golduck can use the full extent of its power.",
+      "revealsName": true
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "When its forehead shines mysteriously, Golduck can use the full extent of its power.",
+      "revealsName": true
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+      "revealsName": true
+    },
+    {
+      "versionId": 27,
+      "version": "sun",
+      "versionDisplayName": "Sun",
+      "versionGroup": "sun-moon",
+      "text": "It is said that the red part of its forehead grants supernatural powers to those who possess one, so it was over-hunted in the past.",
+      "revealsName": false
+    },
+    {
+      "versionId": 28,
+      "version": "moon",
+      "versionDisplayName": "Moon",
+      "versionGroup": "sun-moon",
+      "text": "It swims along the banks of lakes and catches fish Pokémon. It takes them to the shore and quietly eats them up.",
+      "revealsName": false
+    },
+    {
+      "versionId": 29,
+      "version": "ultra-sun",
+      "versionDisplayName": "Ultra Sun",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "Even fast-swimming fish Pokémon can be disabled by Golduck. It brings them to a standstill and seizes them.",
+      "revealsName": true
+    },
+    {
+      "versionId": 30,
+      "version": "ultra-moon",
+      "versionDisplayName": "Ultra Moon",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "A professional swimmer, it can continue swimming for two days straight by waving its long tail skillfully.",
+      "revealsName": false
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
+      "revealsName": true
+    },
+    {
+      "versionId": 39,
+      "version": "legends-arceus",
+      "versionDisplayName": "Legends: Arceus",
+      "versionGroup": "legends-arceus",
+      "text": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves.",
+      "revealsName": true
+    }
+  ],
+  "similarPokemonIds": [
+    195,
+    394,
+    8,
+    54,
+    817,
+    159,
+    80,
+    395,
+    259,
+    9,
+    199,
+    516,
+    160,
+    502,
+    565,
+    913,
+    818,
+    536,
+    260,
+    183,
+    87,
+    184,
+    914,
+    7,
+    117,
+    134,
+    158,
+    61,
+    729,
+    367,
+    419,
+    73,
+    964,
+    62,
+    693,
+    515,
+    224,
+    86,
+    501,
+    121
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      394,
+      8,
+      817,
+      159,
+      516,
+      502,
+      913,
+      117,
+      134,
+      61,
+      729,
+      195,
+      367,
+      419,
+      964,
+      693
+    ],
+    "stats-and-role": [
+      516,
+      87,
+      693,
+      581,
+      126,
+      121,
+      512,
+      362,
+      514,
+      849,
+      460,
+      457,
+      38,
+      125,
+      78,
+      73
+    ],
+    "shape-and-size": [
+      395,
+      195,
+      9,
+      260,
+      80,
+      914,
+      565,
+      199,
+      818,
+      160,
+      295,
+      571,
+      875,
+      409,
+      6,
+      727
+    ],
+    "ecology": [
+      195,
+      8,
+      159,
+      80,
+      394,
+      194,
+      259,
+      9,
+      199,
+      817,
+      160,
+      395,
+      260,
+      183,
+      184,
+      818
+    ],
+    "generation": [
+      80,
+      87,
+      134,
+      73,
+      8,
+      121,
+      117,
+      141,
+      99,
+      119,
+      91,
+      130,
+      139,
+      61,
+      126,
+      112
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "id": 11,
+  "slug": "metapod",
+  "name": "Metapod",
+  "generation": 1,
+  "genus": "Cocoon Pokémon",
+  "types": [
+    "bug"
+  ],
+  "imagePath": "/assets/pokemon/011.png",
+  "entryCount": 32,
+  "color": "green",
+  "shape": "squiggle",
+  "habitat": "forest",
+  "eggGroups": [
+    "bug"
+  ],
+  "evolutionChainId": 4,
+  "evolvesFromId": 10,
+  "evolutionStage": 2,
+  "height": 7,
+  "weight": 99,
+  "stats": [
+    50,
+    20,
+    55,
+    25,
+    25,
+    30
+  ],
+  "isBaby": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "entries": [
+    {
+      "versionId": 1,
+      "version": "red",
+      "versionDisplayName": "Red",
+      "versionGroup": "red-blue",
+      "text": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 2,
+      "version": "blue",
+      "versionDisplayName": "Blue",
+      "versionGroup": "red-blue",
+      "text": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 3,
+      "version": "yellow",
+      "versionDisplayName": "Yellow",
+      "versionGroup": "yellow",
+      "text": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
+      "revealsName": false
+    },
+    {
+      "versionId": 4,
+      "version": "gold",
+      "versionDisplayName": "Gold",
+      "versionGroup": "gold-silver",
+      "text": "Inside the shell, it is soft and weak as it pre­ pares to evolve. It stays motion­ less in the shell.",
+      "revealsName": false
+    },
+    {
+      "versionId": 5,
+      "version": "silver",
+      "versionDisplayName": "Silver",
+      "versionGroup": "gold-silver",
+      "text": "It prepares for evolution by har­ dening its shell as much as possi­ ble to protect its soft body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 6,
+      "version": "crystal",
+      "versionDisplayName": "Crystal",
+      "versionGroup": "crystal",
+      "text": "This is its pre- evolved form. At this stage, it can only harden, so it remains motionless to avoid attack.",
+      "revealsName": false
+    },
+    {
+      "versionId": 7,
+      "version": "ruby",
+      "versionDisplayName": "Ruby",
+      "versionGroup": "ruby-sapphire",
+      "text": "The shell covering this POKéMON’s body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+      "revealsName": true
+    },
+    {
+      "versionId": 8,
+      "version": "sapphire",
+      "versionDisplayName": "Sapphire",
+      "versionGroup": "ruby-sapphire",
+      "text": "The shell covering this POKéMON’s body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+      "revealsName": true
+    },
+    {
+      "versionId": 9,
+      "version": "emerald",
+      "versionDisplayName": "Emerald",
+      "versionGroup": "emerald",
+      "text": "Its shell is as hard as an iron slab. A METAPOD does not move very much because it is preparing its soft innards for evolution inside the shell.",
+      "revealsName": true
+    },
+    {
+      "versionId": 10,
+      "version": "firered",
+      "versionDisplayName": "FireRed",
+      "versionGroup": "firered-leafgreen",
+      "text": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+      "revealsName": false
+    },
+    {
+      "versionId": 11,
+      "version": "leafgreen",
+      "versionDisplayName": "LeafGreen",
+      "versionGroup": "firered-leafgreen",
+      "text": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 12,
+      "version": "diamond",
+      "versionDisplayName": "Diamond",
+      "versionGroup": "diamond-pearl",
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 13,
+      "version": "pearl",
+      "versionDisplayName": "Pearl",
+      "versionGroup": "diamond-pearl",
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 14,
+      "version": "platinum",
+      "versionDisplayName": "Platinum",
+      "versionGroup": "platinum",
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 15,
+      "version": "heartgold",
+      "versionDisplayName": "HeartGold",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.",
+      "revealsName": false
+    },
+    {
+      "versionId": 16,
+      "version": "soulsilver",
+      "versionDisplayName": "SoulSilver",
+      "versionGroup": "heartgold-soulsilver",
+      "text": "It prepares for evolution by hardening its shell as much as possible to protect its soft body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 17,
+      "version": "black",
+      "versionDisplayName": "Black",
+      "versionGroup": "black-white",
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 18,
+      "version": "white",
+      "versionDisplayName": "White",
+      "versionGroup": "black-white",
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 21,
+      "version": "black-2",
+      "versionDisplayName": "Black 2",
+      "versionGroup": "black-2-white-2",
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 22,
+      "version": "white-2",
+      "versionDisplayName": "White 2",
+      "versionGroup": "black-2-white-2",
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 23,
+      "version": "x",
+      "versionDisplayName": "X",
+      "versionGroup": "x-y",
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 24,
+      "version": "y",
+      "versionDisplayName": "Y",
+      "versionGroup": "x-y",
+      "text": "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "revealsName": false
+    },
+    {
+      "versionId": 25,
+      "version": "omega-ruby",
+      "versionDisplayName": "Omega Ruby",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "The shell covering this Pokémon’s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+      "revealsName": true
+    },
+    {
+      "versionId": 26,
+      "version": "alpha-sapphire",
+      "versionDisplayName": "Alpha Sapphire",
+      "versionGroup": "omega-ruby-alpha-sapphire",
+      "text": "The shell covering this Pokémon’s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+      "revealsName": true
+    },
+    {
+      "versionId": 27,
+      "version": "sun",
+      "versionDisplayName": "Sun",
+      "versionGroup": "sun-moon",
+      "text": "Its shell is filled with its soft innards. It doesn’t move much because of the risk it might carelessly spill its innards out.",
+      "revealsName": false
+    },
+    {
+      "versionId": 28,
+      "version": "moon",
+      "versionDisplayName": "Moon",
+      "versionGroup": "sun-moon",
+      "text": "Its shell is hard, but it’s still just a bug shell. It’s been known to break, so intense battles with it should be avoided.",
+      "revealsName": false
+    },
+    {
+      "versionId": 29,
+      "version": "ultra-sun",
+      "versionDisplayName": "Ultra Sun",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "Its shell is filled with a thick liquid. All of the cells throughout its body are being rebuilt in preparation for evolution.",
+      "revealsName": false
+    },
+    {
+      "versionId": 30,
+      "version": "ultra-moon",
+      "versionDisplayName": "Ultra Moon",
+      "versionGroup": "ultra-sun-ultra-moon",
+      "text": "Its hard shell doesn’t crack a bit even if Pikipek pecks at it, but it will tip over, spilling out its insides.",
+      "revealsName": false
+    },
+    {
+      "versionId": 31,
+      "version": "lets-go-pikachu",
+      "versionDisplayName": "Let’s Go, Pikachu!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
+      "revealsName": false
+    },
+    {
+      "versionId": 32,
+      "version": "lets-go-eevee",
+      "versionDisplayName": "Let’s Go, Eevee!",
+      "versionGroup": "lets-go-pikachu-lets-go-eevee",
+      "text": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
+      "revealsName": false
+    },
+    {
+      "versionId": 33,
+      "version": "sword",
+      "versionDisplayName": "Sword",
+      "versionGroup": "sword-shield",
+      "text": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+      "revealsName": false
+    },
+    {
+      "versionId": 34,
+      "version": "shield",
+      "versionDisplayName": "Shield",
+      "versionGroup": "sword-shield",
+      "text": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+      "revealsName": false
+    }
+  ],
+  "similarPokemonIds": [
+    14,
+    737,
+    10,
+    266,
+    268,
+    665,
+    47,
+    541,
+    167,
+    49,
+    413,
+    12,
+    168,
+    918,
+    13,
+    412,
+    166,
+    284,
+    954,
+    402,
+    48,
+    46,
+    825,
+    204,
+    469,
+    414,
+    265,
+    291,
+    165,
+    269,
+    290,
+    205,
+    401,
+    920,
+    283,
+    544,
+    416,
+    292,
+    596,
+    123
+  ],
+  "similarityPools": {
+    "type-and-stage": [
+      266,
+      268,
+      665,
+      14,
+      918,
+      402,
+      737,
+      617,
+      47,
+      541,
+      49,
+      413,
+      168,
+      166,
+      284,
+      954
+    ],
+    "stats-and-role": [
+      14,
+      665,
+      266,
+      268,
+      183,
+      292,
+      762,
+      281,
+      39,
+      825,
+      35,
+      271,
+      329,
+      188,
+      544,
+      17
+    ],
+    "shape-and-size": [
+      737,
+      14,
+      885,
+      872,
+      705,
+      840,
+      218,
+      422,
+      423,
+      704,
+      771,
+      219,
+      778,
+      206,
+      693,
+      147
+    ],
+    "ecology": [
+      14,
+      266,
+      268,
+      47,
+      167,
+      49,
+      168,
+      13,
+      166,
+      48,
+      46,
+      204,
+      265,
+      291,
+      165,
+      269
+    ],
+    "generation": [
+      14,
+      47,
+      49,
+      39,
+      35,
+      25,
+      17,
+      30,
+      33,
+      70,
+      148,
+      61,
+      2,
+      44,
+      8,
+      5
+    ]
+  }
+}
