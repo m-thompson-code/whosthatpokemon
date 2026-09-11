@@ -10,6 +10,49 @@
   ],
   "imagePath": "/assets/pokemon/002.png",
   "entryCount": 28,
+  "entryTraits": [
+    "luminous"
+  ],
+  "entryKeywords": [
+    "blossom",
+    "spending",
+    "adds",
+    "swelling",
+    "indicate",
+    "support",
+    "bulb",
+    "ready",
+    "evidence",
+    "lying",
+    "trunk",
+    "drawing",
+    "blooms",
+    "wafts",
+    "pleasant",
+    "lose",
+    "weight",
+    "spends",
+    "exposure",
+    "coming",
+    "bud",
+    "soon",
+    "sign",
+    "smell",
+    "bloom",
+    "hind",
+    "stand",
+    "absorbs",
+    "plant",
+    "starts",
+    "larger",
+    "nutrients",
+    "sturdy",
+    "aroma",
+    "flower",
+    "strength",
+    "sun",
+    "sunlight"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -40,7 +83,14 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bulb",
+        "lose",
+        "hind",
+        "stand"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +98,14 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bulb",
+        "lose",
+        "hind",
+        "stand"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +113,15 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bulb",
+        "ready",
+        "drawing",
+        "bloom",
+        "aroma"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +129,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Exposure to sun­ light adds to its strength. Sunlight also makes the bud on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "adds",
+        "exposure",
+        "bud",
+        "larger",
+        "strength",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +149,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "evidence",
+        "bud",
+        "soon",
+        "smell",
+        "bloom",
+        "starts",
+        "flower"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +167,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bulb",
+        "blooms",
+        "pleasant",
+        "absorbs",
+        "nutrients",
+        "aroma"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +184,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "There is a bud on this POKéMON’s back. To support its weight, IVYSAUR’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "spending",
+        "support",
+        "lying",
+        "trunk",
+        "weight",
+        "bud",
+        "soon",
+        "sign",
+        "bloom",
+        "starts",
+        "flower",
+        "sunlight"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +207,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "There is a bud on this POKéMON’s back. To support its weight, IVYSAUR’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "spending",
+        "support",
+        "lying",
+        "trunk",
+        "weight",
+        "bud",
+        "soon",
+        "sign",
+        "bloom",
+        "starts",
+        "flower",
+        "sunlight"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +230,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "To support its bulb, IVYSAUR’s legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "support",
+        "bulb",
+        "lying",
+        "spends",
+        "bud",
+        "soon",
+        "bloom",
+        "sturdy",
+        "flower",
+        "sunlight"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +251,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blossom",
+        "bulb",
+        "absorbs",
+        "plant",
+        "nutrients",
+        "flower"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +268,14 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bulb",
+        "lose",
+        "hind",
+        "stand"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +283,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swelling",
+        "indicate",
+        "wafts",
+        "coming",
+        "bud",
+        "bloom",
+        "starts",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +303,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swelling",
+        "indicate",
+        "wafts",
+        "coming",
+        "bud",
+        "bloom",
+        "starts",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +323,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swelling",
+        "indicate",
+        "wafts",
+        "coming",
+        "bud",
+        "bloom",
+        "starts",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +343,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "adds",
+        "exposure",
+        "bud",
+        "larger",
+        "strength",
+        "sunlight"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +360,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "evidence",
+        "bud",
+        "soon",
+        "smell",
+        "bloom",
+        "starts",
+        "flower"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +378,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swelling",
+        "indicate",
+        "wafts",
+        "coming",
+        "bud",
+        "bloom",
+        "starts",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +398,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swelling",
+        "indicate",
+        "wafts",
+        "coming",
+        "bud",
+        "bloom",
+        "starts",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +418,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swelling",
+        "indicate",
+        "wafts",
+        "coming",
+        "bud",
+        "bloom",
+        "starts",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +438,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swelling",
+        "indicate",
+        "wafts",
+        "coming",
+        "bud",
+        "bloom",
+        "starts",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +458,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blossom",
+        "bulb",
+        "absorbs",
+        "plant",
+        "nutrients",
+        "flower"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +475,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swelling",
+        "indicate",
+        "wafts",
+        "coming",
+        "bud",
+        "bloom",
+        "starts",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +495,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "spending",
+        "support",
+        "lying",
+        "trunk",
+        "weight",
+        "bud",
+        "soon",
+        "sign",
+        "bloom",
+        "starts",
+        "flower",
+        "sunlight"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +518,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "spending",
+        "support",
+        "lying",
+        "trunk",
+        "weight",
+        "bud",
+        "soon",
+        "sign",
+        "bloom",
+        "starts",
+        "flower",
+        "sunlight"
+      ]
     },
     {
       "versionId": 31,
@@ -232,7 +541,15 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The bud on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ready",
+        "drawing",
+        "bud",
+        "bloom",
+        "aroma"
+      ]
     },
     {
       "versionId": 32,
@@ -240,7 +557,15 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The bud on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ready",
+        "drawing",
+        "bud",
+        "bloom",
+        "aroma"
+      ]
     },
     {
       "versionId": 33,
@@ -248,7 +573,14 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bulb",
+        "lose",
+        "hind",
+        "stand"
+      ]
     },
     {
       "versionId": 34,
@@ -256,7 +588,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "adds",
+        "exposure",
+        "bud",
+        "larger",
+        "strength",
+        "sunlight"
+      ]
     }
   ],
   "similarPokemonIds": [

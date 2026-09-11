@@ -9,6 +9,46 @@
   ],
   "imagePath": "/assets/pokemon/325.png",
   "entryCount": 18,
+  "entryTraits": [
+    "tail",
+    "cave-dwelling",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "pumping",
+    "afford",
+    "manipulates",
+    "pump",
+    "functions",
+    "therefore",
+    "clamperl",
+    "beating",
+    "dies",
+    "pearl",
+    "constant",
+    "psychokinetic",
+    "amplify",
+    "bouncing",
+    "bounces",
+    "mushrooms",
+    "stops",
+    "bigger",
+    "spring",
+    "asleep",
+    "top",
+    "cannot",
+    "shock",
+    "carries",
+    "heart",
+    "constantly",
+    "stop",
+    "keeps",
+    "underground",
+    "eating",
+    "search",
+    "doesn",
+    "apparently"
+  ],
   "color": "black",
   "shape": "arms",
   "habitat": "mountain",
@@ -38,7 +78,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this POKéMON cannot afford to stop bouncing - if it stops, its heart will stop.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "afford",
+        "pump",
+        "bouncing",
+        "bounces",
+        "stops",
+        "cannot",
+        "shock",
+        "heart",
+        "stop"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +100,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SPOINK keeps a pearl on top of its head. The pearl functions to amplify this POKéMON’s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "functions",
+        "therefore",
+        "pearl",
+        "constant",
+        "psychokinetic",
+        "amplify",
+        "bigger",
+        "top",
+        "keeps",
+        "search"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +121,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A POKéMON that manipulates psychic power at will. It doesn’t stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "psychic"
+      ],
+      "keywords": [
+        "manipulates",
+        "bouncing",
+        "mushrooms",
+        "asleep",
+        "stop",
+        "underground",
+        "eating",
+        "doesn"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +143,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It apparently dies if it stops bouncing about. It carries a pearl from CLAMPERL on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clamperl",
+        "dies",
+        "pearl",
+        "bouncing",
+        "stops",
+        "carries",
+        "apparently"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +161,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It apparently dies if it stops bouncing about. It carries a pearl from CLAMPERL on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clamperl",
+        "dies",
+        "pearl",
+        "bouncing",
+        "stops",
+        "carries",
+        "apparently"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +179,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "beating",
+        "bouncing",
+        "bounces",
+        "spring",
+        "shock",
+        "heart",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +200,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "beating",
+        "bouncing",
+        "bounces",
+        "spring",
+        "shock",
+        "heart",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +221,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "beating",
+        "bouncing",
+        "bounces",
+        "spring",
+        "shock",
+        "heart",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +242,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It bounces around on its tail to keep its heart pumping. It carries a pearl from CLAMPERL on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pumping",
+        "clamperl",
+        "pearl",
+        "bounces",
+        "carries",
+        "heart"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +261,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It bounces around on its tail to keep its heart pumping. It carries a pearl from CLAMPERL on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pumping",
+        "clamperl",
+        "pearl",
+        "bounces",
+        "carries",
+        "heart"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +280,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "beating",
+        "bouncing",
+        "bounces",
+        "spring",
+        "shock",
+        "heart",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +301,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "beating",
+        "bouncing",
+        "bounces",
+        "spring",
+        "shock",
+        "heart",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +322,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "beating",
+        "dies",
+        "bouncing",
+        "stops",
+        "spring",
+        "heart",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +343,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "beating",
+        "dies",
+        "bouncing",
+        "stops",
+        "spring",
+        "heart",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +364,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "beating",
+        "bouncing",
+        "bounces",
+        "spring",
+        "shock",
+        "heart",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +385,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pumping",
+        "clamperl",
+        "pearl",
+        "bounces",
+        "carries",
+        "heart"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +404,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing—if it stops, its heart will stop.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "afford",
+        "pump",
+        "bouncing",
+        "bounces",
+        "stops",
+        "cannot",
+        "shock",
+        "heart",
+        "stop"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +426,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon’s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "functions",
+        "therefore",
+        "pearl",
+        "constant",
+        "psychokinetic",
+        "amplify",
+        "bigger",
+        "top",
+        "keeps",
+        "search"
+      ]
     }
   ],
   "similarPokemonIds": [

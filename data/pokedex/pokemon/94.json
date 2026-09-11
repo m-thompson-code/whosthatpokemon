@@ -10,6 +10,123 @@
   ],
   "imagePath": "/assets/pokemon/094.png",
   "entryCount": 33,
+  "entryTraits": [
+    "fiery",
+    "hunting",
+    "nocturnal",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "ings",
+    "naughty",
+    "posthaste",
+    "shadowy",
+    "charm",
+    "companion",
+    "fright",
+    "rooms",
+    "yourself",
+    "lurking",
+    "surround",
+    "chances",
+    "pay",
+    "startlingly",
+    "visit",
+    "casting",
+    "delighting",
+    "leer",
+    "potential",
+    "streetlight",
+    "wishes",
+    "belongs",
+    "cast",
+    "room",
+    "traveling",
+    "laugh",
+    "chill",
+    "slips",
+    "lay",
+    "pretending",
+    "corners",
+    "curse",
+    "curses",
+    "lurk",
+    "shadow",
+    "told",
+    "victims",
+    "approaching",
+    "corner",
+    "thrown",
+    "evidence",
+    "mimic",
+    "escaping",
+    "overtake",
+    "awaits",
+    "cools",
+    "opportunity",
+    "tales",
+    "emerge",
+    "possesses",
+    "shadows",
+    "appeared",
+    "hiding",
+    "hold",
+    "safe",
+    "chance",
+    "sudden",
+    "wait",
+    "shake",
+    "taking",
+    "steals",
+    "whatever",
+    "certain",
+    "target",
+    "effort",
+    "isn",
+    "protective",
+    "silently",
+    "hear",
+    "tries",
+    "nearly",
+    "begins",
+    "trying",
+    "doing",
+    "floats",
+    "suddenly",
+    "steal",
+    "waits",
+    "home",
+    "f",
+    "past",
+    "find",
+    "children",
+    "feel",
+    "area",
+    "absorbs",
+    "humans",
+    "likes",
+    "running",
+    "actually",
+    "moon",
+    "since",
+    "catch",
+    "lost",
+    "causes",
+    "human",
+    "force",
+    "10",
+    "dark",
+    "attacked",
+    "surroundings",
+    "darkness",
+    "fahrenheit",
+    "create",
+    "hides",
+    "full",
+    "heat",
+    "close",
+    "apparently"
+  ],
   "color": "purple",
   "shape": "upright",
   "habitat": "cave",
@@ -39,7 +156,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fright",
+        "laugh",
+        "mimic",
+        "shadows",
+        "likes",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +174,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fright",
+        "laugh",
+        "mimic",
+        "shadows",
+        "likes",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +192,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "chill",
+        "lay",
+        "curse",
+        "sudden",
+        "trying",
+        "feel",
+        "close"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +210,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It steals heat from its surround­ ings. If you feel a sudden chill, it is certain that a GENGAR appeared.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "ings",
+        "surround",
+        "chill",
+        "appeared",
+        "sudden",
+        "steals",
+        "certain",
+        "feel",
+        "heat"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +232,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "slips",
+        "shadow",
+        "opportunity",
+        "target",
+        "silently",
+        "steal",
+        "waits"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +252,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "chill",
+        "victims",
+        "shadows",
+        "hiding",
+        "shake",
+        "absorbs",
+        "causes",
+        "heat"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +274,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "startlingly",
+        "streetlight",
+        "pretending",
+        "shadow",
+        "thrown",
+        "overtake",
+        "suddenly",
+        "past",
+        "running",
+        "actually",
+        "dark"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +298,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "startlingly",
+        "streetlight",
+        "pretending",
+        "shadow",
+        "thrown",
+        "overtake",
+        "suddenly",
+        "past",
+        "running",
+        "actually",
+        "dark"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +322,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "streetlight",
+        "cast",
+        "pretending",
+        "shadow",
+        "overtake",
+        "suddenly",
+        "past",
+        "running",
+        "actually"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +344,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "emerge",
+        "steal",
+        "lost",
+        "darkness"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +361,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "On the night of a full moon, if shadows move on their own and laugh, it must be GENGAR’s doing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "laugh",
+        "shadows",
+        "doing",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +379,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It hides in shadows. It is said that if GENGAR is hiding, it cools the area by nearly 10 degrees F.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cools",
+        "shadows",
+        "hiding",
+        "nearly",
+        "f",
+        "area",
+        "10",
+        "hides"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +398,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey’s life force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "shadowy",
+        "rooms",
+        "lurking",
+        "chances",
+        "corners",
+        "awaits",
+        "steal",
+        "force"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +419,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "casting",
+        "delighting",
+        "leer",
+        "belongs",
+        "curses",
+        "floats",
+        "darkness"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +437,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a GENGAR appeared.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "chill",
+        "appeared",
+        "sudden",
+        "steals",
+        "certain",
+        "feel",
+        "surroundings",
+        "heat"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +458,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "To steal the life of its target, it slips into the prey’s shadow and silently waits for an opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "slips",
+        "shadow",
+        "opportunity",
+        "target",
+        "silently",
+        "steal",
+        "waits"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +478,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "casting",
+        "delighting",
+        "leer",
+        "belongs",
+        "curses",
+        "floats",
+        "darkness"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +496,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "casting",
+        "delighting",
+        "leer",
+        "belongs",
+        "curses",
+        "floats",
+        "darkness"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +514,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "casting",
+        "delighting",
+        "leer",
+        "belongs",
+        "curses",
+        "floats",
+        "darkness"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +532,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "casting",
+        "delighting",
+        "leer",
+        "belongs",
+        "curses",
+        "floats",
+        "darkness"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +550,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cools",
+        "shadows",
+        "hiding",
+        "nearly",
+        "area",
+        "10",
+        "fahrenheit",
+        "hides"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +569,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Hiding in people’s shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "chill",
+        "victims",
+        "shadows",
+        "hiding",
+        "shake",
+        "absorbs",
+        "causes",
+        "heat"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +591,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "startlingly",
+        "streetlight",
+        "pretending",
+        "shadow",
+        "thrown",
+        "overtake",
+        "suddenly",
+        "past",
+        "running",
+        "actually",
+        "dark"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +615,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "startlingly",
+        "streetlight",
+        "pretending",
+        "shadow",
+        "thrown",
+        "overtake",
+        "suddenly",
+        "past",
+        "running",
+        "actually",
+        "dark"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +639,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Should you feel yourself attacked by a sudden chill, it is evidence of an approaching Gengar. There is no escaping it. Give up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "yourself",
+        "chill",
+        "approaching",
+        "evidence",
+        "escaping",
+        "sudden",
+        "feel",
+        "attacked"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +658,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It apparently wishes for a traveling companion. Since it was once human itself, it tries to create one by taking the lives of other humans.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "companion",
+        "wishes",
+        "traveling",
+        "taking",
+        "tries",
+        "humans",
+        "since",
+        "human",
+        "create",
+        "apparently"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +679,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "You can hear tales told all over the world about how Gengar will pay a visit to children who are naughty.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "naughty",
+        "pay",
+        "visit",
+        "told",
+        "tales",
+        "hear",
+        "children"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +697,24 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Even your home isn’t safe. Gengar will lurk in whatever dark corner of a room it can find and wait for its chance to catch its prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "room",
+        "lurk",
+        "corner",
+        "safe",
+        "chance",
+        "wait",
+        "whatever",
+        "isn",
+        "home",
+        "find",
+        "catch",
+        "dark"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +722,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "chill",
+        "lay",
+        "curse",
+        "sudden",
+        "trying",
+        "feel",
+        "close"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +740,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "chill",
+        "lay",
+        "curse",
+        "sudden",
+        "trying",
+        "feel",
+        "close"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +758,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "laugh",
+        "shadows",
+        "doing",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +776,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "emerge",
+        "steal",
+        "lost",
+        "darkness"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +793,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "posthaste",
+        "charm",
+        "potential",
+        "laugh",
+        "shadow",
+        "victims",
+        "possesses",
+        "shadows",
+        "hold",
+        "effort",
+        "protective",
+        "begins",
+        "steal"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,68 @@
   ],
   "imagePath": "/assets/pokemon/179.png",
   "entryCount": 23,
+  "entryTraits": [
+    "sky-dwelling",
+    "fur",
+    "tail",
+    "electric",
+    "luminous",
+    "cold-climate",
+    "icy",
+    "arms"
+  ],
+  "entryKeywords": [
+    "elec",
+    "tricity",
+    "doubles",
+    "lightbulb",
+    "painful",
+    "clothing",
+    "bare",
+    "swells",
+    "pet",
+    "process",
+    "shocking",
+    "lots",
+    "fleece",
+    "summer",
+    "week",
+    "wool",
+    "allowing",
+    "continually",
+    "rubbing",
+    "double",
+    "volume",
+    "want",
+    "increases",
+    "cool",
+    "rubs",
+    "winter",
+    "shed",
+    "brightly",
+    "charged",
+    "touching",
+    "stay",
+    "cute",
+    "fully",
+    "slightly",
+    "ll",
+    "static",
+    "charge",
+    "hand",
+    "fluffy",
+    "coat",
+    "glows",
+    "generates",
+    "builds",
+    "soft",
+    "size",
+    "shock",
+    "weather",
+    "special",
+    "stores",
+    "tip"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -39,7 +101,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If static elec­ tricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "elec",
+        "tricity",
+        "doubles",
+        "fleece",
+        "volume",
+        "touching",
+        "static",
+        "builds",
+        "shock"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +121,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fleece",
+        "summer",
+        "week",
+        "continually",
+        "shed",
+        "fully"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +138,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "lots",
+        "summer",
+        "allowing",
+        "cool",
+        "winter",
+        "stay",
+        "soft",
+        "stores"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +160,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MAREEP’s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "lightbulb",
+        "wool",
+        "rubs",
+        "brightly",
+        "charged",
+        "static",
+        "charge",
+        "fluffy",
+        "coat",
+        "builds",
+        "tip"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +185,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MAREEP’s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "lightbulb",
+        "wool",
+        "rubs",
+        "brightly",
+        "charged",
+        "static",
+        "charge",
+        "fluffy",
+        "coat",
+        "builds",
+        "tip"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +210,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "luminous"
+      ],
+      "keywords": [
+        "lightbulb",
+        "wool",
+        "rubs",
+        "brightly",
+        "charged",
+        "static",
+        "charge",
+        "fluffy",
+        "glows",
+        "builds",
+        "tip"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +235,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fleece",
+        "summer",
+        "week",
+        "continually",
+        "shed",
+        "fully"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +252,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "doubles",
+        "fleece",
+        "volume",
+        "touching",
+        "static",
+        "builds",
+        "shock"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +272,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "swells",
+        "shocking",
+        "double",
+        "touching",
+        "static",
+        "fluffy",
+        "coat",
+        "builds"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +293,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "swells",
+        "shocking",
+        "double",
+        "touching",
+        "static",
+        "fluffy",
+        "coat",
+        "builds"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +314,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "swells",
+        "shocking",
+        "double",
+        "touching",
+        "static",
+        "fluffy",
+        "coat",
+        "builds"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +335,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "doubles",
+        "fleece",
+        "volume",
+        "touching",
+        "static",
+        "builds",
+        "shock"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +355,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fleece",
+        "summer",
+        "week",
+        "continually",
+        "shed",
+        "fully"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +372,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "swells",
+        "shocking",
+        "double",
+        "touching",
+        "static",
+        "fluffy",
+        "coat",
+        "builds"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +393,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "swells",
+        "shocking",
+        "double",
+        "touching",
+        "static",
+        "fluffy",
+        "coat",
+        "builds"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +414,25 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "tail",
+        "electric",
+        "icy",
+        "luminous"
+      ],
+      "keywords": [
+        "doubles",
+        "wool",
+        "increases",
+        "slightly",
+        "static",
+        "glows",
+        "size",
+        "weather",
+        "tip"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +440,25 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "tail",
+        "electric",
+        "icy",
+        "luminous"
+      ],
+      "keywords": [
+        "doubles",
+        "wool",
+        "increases",
+        "slightly",
+        "static",
+        "glows",
+        "size",
+        "weather",
+        "tip"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +466,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "swells",
+        "shocking",
+        "double",
+        "touching",
+        "static",
+        "fluffy",
+        "coat",
+        "builds"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +487,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "lots",
+        "summer",
+        "allowing",
+        "cool",
+        "winter",
+        "stay",
+        "soft",
+        "stores"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +509,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Mareep’s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "lightbulb",
+        "wool",
+        "rubs",
+        "brightly",
+        "charged",
+        "static",
+        "charge",
+        "fluffy",
+        "coat",
+        "glows",
+        "builds",
+        "tip"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +536,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Mareep’s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "lightbulb",
+        "wool",
+        "rubs",
+        "brightly",
+        "charged",
+        "static",
+        "charge",
+        "fluffy",
+        "coat",
+        "glows",
+        "builds",
+        "tip"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +563,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Clothing made from Mareep’s fleece is easily charged with static electricity, so a special process is used on it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "clothing",
+        "process",
+        "fleece",
+        "charged",
+        "static",
+        "special"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +582,24 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Rubbing its fleece generates electricity. You’ll want to pet it because it’s cute, but if you use your bare hand, you’ll get a painful shock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "painful",
+        "bare",
+        "pet",
+        "fleece",
+        "rubbing",
+        "want",
+        "cute",
+        "ll",
+        "hand",
+        "generates",
+        "shock"
+      ]
     }
   ],
   "similarPokemonIds": [

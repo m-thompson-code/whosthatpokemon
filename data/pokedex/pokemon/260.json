@@ -10,6 +10,53 @@
   ],
   "imagePath": "/assets/pokemon/260.png",
   "entryCount": 18,
+  "entryTraits": [
+    "aquatic",
+    "sonic",
+    "arms"
+  ],
+  "entryKeywords": [
+    "piling",
+    "batter",
+    "predicts",
+    "seaside",
+    "ski",
+    "differences",
+    "piles",
+    "weighing",
+    "towing",
+    "sensing",
+    "bashes",
+    "storms",
+    "subtle",
+    "approaching",
+    "ship",
+    "tidal",
+    "vision",
+    "drag",
+    "wave",
+    "pieces",
+    "murky",
+    "ton",
+    "boulder",
+    "approach",
+    "swing",
+    "beaches",
+    "storm",
+    "jet",
+    "sounds",
+    "break",
+    "protects",
+    "winds",
+    "swim",
+    "fins",
+    "beautiful",
+    "boulders",
+    "lets",
+    "fast",
+    "swims",
+    "rock"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -40,7 +87,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POKéMON also has powerful vision that lets it see even in murky water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "weighing",
+        "vision",
+        "drag",
+        "murky",
+        "ton",
+        "boulder",
+        "lets"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +107,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SWAMPERT predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "predicts",
+        "differences",
+        "piles",
+        "sensing",
+        "storms",
+        "subtle",
+        "approaching",
+        "tidal",
+        "storm",
+        "sounds",
+        "winds",
+        "fins",
+        "boulders"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +134,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "piling",
+        "seaside",
+        "ski",
+        "tidal",
+        "wave",
+        "approach",
+        "storm",
+        "jet",
+        "protects",
+        "boulders",
+        "fast",
+        "swims"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +159,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its arms are rock-hard. With one swing, they can batter down its foe. It makes its nest on beautiful beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "batter",
+        "swing",
+        "beaches",
+        "beautiful",
+        "rock"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +177,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its arms are rock-hard. With one swing, they can batter down its foe. It makes its nest on beautiful beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "batter",
+        "swing",
+        "beaches",
+        "beautiful",
+        "rock"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +195,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "towing",
+        "bashes",
+        "ship",
+        "swing",
+        "swim"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +214,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "towing",
+        "bashes",
+        "ship",
+        "swing",
+        "swim"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +233,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "towing",
+        "bashes",
+        "ship",
+        "swing",
+        "swim"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +252,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its arms are hard as rock. With one swing, it can break a boulder into pieces.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "pieces",
+        "boulder",
+        "swing",
+        "break",
+        "rock"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +270,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its arms are hard as rock. With one swing, it can break a boulder into pieces.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "pieces",
+        "boulder",
+        "swing",
+        "break",
+        "rock"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +288,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "towing",
+        "bashes",
+        "ship",
+        "swing",
+        "swim"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +307,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "towing",
+        "bashes",
+        "ship",
+        "swing",
+        "swim"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +326,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "towing",
+        "bashes",
+        "ship",
+        "swing",
+        "swim"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +345,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "towing",
+        "bashes",
+        "ship",
+        "swing",
+        "swim"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +364,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its arms are hard as rock. With one swing, it can break a boulder into pieces.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "pieces",
+        "boulder",
+        "swing",
+        "break",
+        "rock"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +382,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "towing",
+        "bashes",
+        "ship",
+        "swing",
+        "swim"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +401,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "weighing",
+        "vision",
+        "drag",
+        "murky",
+        "ton",
+        "boulder",
+        "lets"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +421,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "predicts",
+        "differences",
+        "piles",
+        "sensing",
+        "storms",
+        "subtle",
+        "approaching",
+        "tidal",
+        "storm",
+        "sounds",
+        "winds",
+        "fins",
+        "boulders"
+      ]
     }
   ],
   "similarPokemonIds": [

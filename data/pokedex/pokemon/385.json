@@ -10,6 +10,49 @@
   ],
   "imagePath": "/assets/pokemon/385.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sleeping",
+    "shell"
+  ],
+  "entryKeywords": [
+    "rouse",
+    "envelops",
+    "purity",
+    "awakening",
+    "note",
+    "perpetual",
+    "slumber",
+    "wishes",
+    "awake",
+    "written",
+    "awakens",
+    "desire",
+    "states",
+    "awaken",
+    "crystalline",
+    "notes",
+    "wakes",
+    "grant",
+    "week",
+    "wish",
+    "generations",
+    "sing",
+    "attached",
+    "thousand",
+    "true",
+    "voice",
+    "pure",
+    "singing",
+    "legend",
+    "believed",
+    "seven",
+    "year",
+    "1",
+    "near",
+    "days",
+    "sleeps",
+    "tough"
+  ],
   "color": "yellow",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -39,7 +82,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POKéMON senses danger, it will fight without awakening.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "awakening",
+        "written",
+        "awakens",
+        "states",
+        "notes",
+        "wish",
+        "attached",
+        "true",
+        "legend"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +102,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "JIRACHI will awaken from its sleep of a thousand years if you sing to it in a voice of purity. It is said to make true any wish that people desire.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "purity",
+        "desire",
+        "awaken",
+        "wish",
+        "sing",
+        "thousand",
+        "true",
+        "voice"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +123,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "JIRACHI is said to make wishes come true. While it sleeps, a tough crystalline shell envelops the body to protect it from enemies.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "sleeping"
+      ],
+      "keywords": [
+        "envelops",
+        "wishes",
+        "crystalline",
+        "true",
+        "sleeps",
+        "tough"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +143,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is said to make any wish come true. It is awake for only seven days out of a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "awake",
+        "wish",
+        "thousand",
+        "true",
+        "seven",
+        "days"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +160,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is said to make any wish come true. It is awake for only seven days out of a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "awake",
+        "wish",
+        "thousand",
+        "true",
+        "seven",
+        "days"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +177,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is said to have the ability to grant any wish for just one week every thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grant",
+        "week",
+        "wish",
+        "thousand"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +192,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is said to have the ability to grant any wish for just one week every thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grant",
+        "week",
+        "wish",
+        "thousand"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +207,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is said to have the ability to grant any wish for just one week every thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grant",
+        "week",
+        "wish",
+        "thousand"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +222,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Generations have believed that any wish written on a note on its head will come true when it awakens.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "note",
+        "written",
+        "awakens",
+        "wish",
+        "generations",
+        "true",
+        "believed"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +240,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Generations have believed that any wish written on a note on its head will come true when it awakens.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "note",
+        "written",
+        "awakens",
+        "wish",
+        "generations",
+        "true",
+        "believed"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +258,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is said to have the ability to grant any wish for just one week every thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grant",
+        "week",
+        "wish",
+        "thousand"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +273,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said to have the ability to grant any wish for just one week every thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grant",
+        "week",
+        "wish",
+        "thousand"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +288,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said to have the ability to grant any wish for just one week every thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grant",
+        "week",
+        "wish",
+        "thousand"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +303,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said to have the ability to grant any wish for just one week every thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grant",
+        "week",
+        "wish",
+        "thousand"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +318,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Generations have believed that any wish written on a note on its head will come true when it awakens.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "note",
+        "written",
+        "awakens",
+        "wish",
+        "generations",
+        "true",
+        "believed"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +336,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is said to have the ability to grant any wish for just one week every thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grant",
+        "week",
+        "wish",
+        "thousand"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +351,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "A legend states that Jirachi will make true any wish that is written on notes attached to its head when it awakens. If this Pokémon senses danger, it will fight without awakening.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "awakening",
+        "written",
+        "awakens",
+        "states",
+        "notes",
+        "wish",
+        "attached",
+        "true",
+        "legend"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +371,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Jirachi will awaken from its sleep of a thousand years if you sing to it in a voice of purity. It is said to make true any wish that people desire.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "purity",
+        "desire",
+        "awaken",
+        "wish",
+        "sing",
+        "thousand",
+        "true",
+        "voice"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +392,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Once every 1,000 years, the singing of a pure voice will rouse this Pokémon from its near- perpetual slumber. It wakes for only seven days.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "rouse",
+        "perpetual",
+        "slumber",
+        "wakes",
+        "voice",
+        "pure",
+        "singing",
+        "seven",
+        "1",
+        "near",
+        "days"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +416,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "slumber",
+        "wishes",
+        "written",
+        "notes",
+        "wakes",
+        "grant",
+        "attached",
+        "believed",
+        "year",
+        "1"
+      ]
     }
   ],
   "similarPokemonIds": [

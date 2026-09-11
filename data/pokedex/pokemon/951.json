@@ -9,6 +9,28 @@
   ],
   "imagePath": "/assets/pokemon/951.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fangs"
+  ],
+  "entryKeywords": [
+    "dishes",
+    "paldean",
+    "spicier",
+    "include",
+    "chemicals",
+    "bathes",
+    "produced",
+    "thus",
+    "ingredients",
+    "traditional",
+    "spicy",
+    "shed",
+    "teeth",
+    "front",
+    "among",
+    "sunlight",
+    "extremely"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +60,17 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spicier",
+        "chemicals",
+        "bathes",
+        "produced",
+        "thus",
+        "spicy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +78,23 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "dishes",
+        "paldean",
+        "include",
+        "ingredients",
+        "traditional",
+        "spicy",
+        "shed",
+        "teeth",
+        "front",
+        "among",
+        "extremely"
+      ]
     }
   ],
   "similarPokemonIds": [

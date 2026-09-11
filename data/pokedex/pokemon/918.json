@@ -9,6 +9,25 @@
   ],
   "imagePath": "/assets/pokemon/918.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting",
+    "sonic",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "notices",
+    "intruders",
+    "threads",
+    "traps",
+    "clings",
+    "ceilings",
+    "covers",
+    "set",
+    "sticky",
+    "branches",
+    "tough",
+    "takes"
+  ],
   "color": "green",
   "shape": "armor",
   "habitat": null,
@@ -38,7 +57,19 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "notices",
+        "threads",
+        "clings",
+        "ceilings",
+        "branches",
+        "takes"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +77,19 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Spidops covers its territory in tough, sticky threads to set up traps for intruders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "intruders",
+        "threads",
+        "traps",
+        "covers",
+        "set",
+        "sticky",
+        "tough"
+      ]
     }
   ],
   "similarPokemonIds": [

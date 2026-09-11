@@ -9,6 +9,44 @@
   ],
   "imagePath": "/assets/pokemon/154.png",
   "entryCount": 21,
+  "entryTraits": [
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "refreshed",
+    "beside",
+    "blunt",
+    "becalming",
+    "relaxing",
+    "substance",
+    "fantastic",
+    "revive",
+    "soothes",
+    "calms",
+    "rises",
+    "sunny",
+    "again",
+    "dead",
+    "fragrance",
+    "healthy",
+    "aggressive",
+    "stands",
+    "contains",
+    "breath",
+    "feelings",
+    "fighting",
+    "petals",
+    "forest",
+    "flowers",
+    "emotions",
+    "plants",
+    "scent",
+    "anyone",
+    "aroma",
+    "flower",
+    "spirit",
+    "grass"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -39,7 +77,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "substance",
+        "calms",
+        "rises",
+        "aggressive",
+        "contains",
+        "feelings",
+        "petals",
+        "aroma"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +96,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "MEGANIUM's breath has the power to revive dead grass and plants. It can make them healthy again.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "revive",
+        "again",
+        "dead",
+        "healthy",
+        "breath",
+        "plants",
+        "grass"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +114,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "refreshed",
+        "beside",
+        "relaxing",
+        "sunny",
+        "stands",
+        "forest",
+        "anyone"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +134,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The fragrance of MEGANIUM’s flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe’s fighting spirit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "blunt",
+        "becalming",
+        "soothes",
+        "calms",
+        "fragrance",
+        "fighting",
+        "emotions",
+        "scent",
+        "flower",
+        "spirit"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +155,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "The fragrance of MEGANIUM’s flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe’s fighting spirit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "blunt",
+        "becalming",
+        "soothes",
+        "calms",
+        "fragrance",
+        "fighting",
+        "emotions",
+        "scent",
+        "flower",
+        "spirit"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +176,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The fragrance of a MEGANIUM’s flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe’s fighting spirit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "blunt",
+        "becalming",
+        "soothes",
+        "calms",
+        "fragrance",
+        "fighting",
+        "emotions",
+        "scent",
+        "flower",
+        "spirit"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +197,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "MEGANIUM’s breath has the power to revive dead grass and plants. It can make them healthy again.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "revive",
+        "again",
+        "dead",
+        "healthy",
+        "breath",
+        "plants",
+        "grass"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +215,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "substance",
+        "calms",
+        "rises",
+        "aggressive",
+        "contains",
+        "feelings",
+        "petals",
+        "aroma"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +234,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fantastic",
+        "revive",
+        "dead",
+        "breath",
+        "flowers",
+        "plants"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +251,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fantastic",
+        "revive",
+        "dead",
+        "breath",
+        "flowers",
+        "plants"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +268,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fantastic",
+        "revive",
+        "dead",
+        "breath",
+        "flowers",
+        "plants"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +285,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "substance",
+        "calms",
+        "rises",
+        "aggressive",
+        "contains",
+        "feelings",
+        "petals",
+        "aroma"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +304,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "MEGANIUM’s breath has the power to revive dead grass and plants. It can make them healthy again.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "revive",
+        "again",
+        "dead",
+        "healthy",
+        "breath",
+        "plants",
+        "grass"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +322,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fantastic",
+        "revive",
+        "dead",
+        "breath",
+        "flowers",
+        "plants"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +339,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fantastic",
+        "revive",
+        "dead",
+        "breath",
+        "flowers",
+        "plants"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +356,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fantastic",
+        "revive",
+        "dead",
+        "breath",
+        "flowers",
+        "plants"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +373,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fantastic",
+        "revive",
+        "dead",
+        "breath",
+        "flowers",
+        "plants"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +390,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "substance",
+        "calms",
+        "rises",
+        "aggressive",
+        "contains",
+        "feelings",
+        "petals",
+        "aroma"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +409,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Meganium’s breath has the power to revive dead grass and plants. It can make them healthy again.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "revive",
+        "again",
+        "dead",
+        "healthy",
+        "breath",
+        "plants",
+        "grass"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +427,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "blunt",
+        "becalming",
+        "soothes",
+        "calms",
+        "fragrance",
+        "fighting",
+        "emotions",
+        "scent",
+        "flower",
+        "spirit"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +448,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "blunt",
+        "becalming",
+        "soothes",
+        "calms",
+        "fragrance",
+        "fighting",
+        "emotions",
+        "scent",
+        "flower",
+        "spirit"
+      ]
     }
   ],
   "similarPokemonIds": [

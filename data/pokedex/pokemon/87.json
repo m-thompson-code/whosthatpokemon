@@ -10,6 +10,81 @@
   ],
   "imagePath": "/assets/pokemon/087.png",
   "entryCount": 28,
+  "entryTraits": [
+    "aquatic",
+    "cold-climate",
+    "icy",
+    "tail",
+    "nocturnal",
+    "sleeping",
+    "fur",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "digestion",
+    "meals",
+    "sunbathes",
+    "fond",
+    "friskier",
+    "8",
+    "mariner",
+    "snooze",
+    "thermal",
+    "bitterly",
+    "mistakenly",
+    "streamlined",
+    "wishiwashi",
+    "glacier",
+    "unharmed",
+    "especially",
+    "mermaid",
+    "steady",
+    "colder",
+    "beach",
+    "resistance",
+    "floes",
+    "obscures",
+    "knots",
+    "drag",
+    "searching",
+    "low",
+    "oceans",
+    "eight",
+    "powerfully",
+    "shallow",
+    "rise",
+    "helps",
+    "snowy",
+    "icy",
+    "frigid",
+    "pure",
+    "intensely",
+    "waters",
+    "predators",
+    "covering",
+    "white",
+    "coat",
+    "sight",
+    "sleeping",
+    "intense",
+    "direction",
+    "change",
+    "weather",
+    "snow",
+    "little",
+    "active",
+    "ocean",
+    "sleeps",
+    "entire",
+    "swims",
+    "thought",
+    "stores",
+    "swimming",
+    "quickly",
+    "seas",
+    "covered",
+    "temperature"
+  ],
   "color": "white",
   "shape": "fish",
   "habitat": "sea",
@@ -40,7 +115,22 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "8",
+        "thermal",
+        "steady",
+        "knots",
+        "intensely",
+        "waters",
+        "swims",
+        "stores"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +138,22 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "8",
+        "thermal",
+        "steady",
+        "knots",
+        "intensely",
+        "waters",
+        "swims",
+        "stores"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +161,23 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "unharmed",
+        "powerfully",
+        "snowy",
+        "icy",
+        "waters",
+        "white",
+        "intense",
+        "entire",
+        "swims"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +185,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "friskier",
+        "streamlined",
+        "colder",
+        "drag",
+        "little",
+        "temperature"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +204,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "tail",
+        "icy"
+      ],
+      "keywords": [
+        "floes",
+        "frigid",
+        "direction",
+        "change",
+        "swimming",
+        "quickly",
+        "seas"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +227,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It sleeps under shallow ocean waters during the day, then looks for food at night when it's cold.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "nocturnal",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "shallow",
+        "waters",
+        "ocean",
+        "sleeps"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +248,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DEWGONG loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "mariner",
+        "snooze",
+        "bitterly",
+        "mistakenly",
+        "glacier",
+        "mermaid",
+        "sight",
+        "sleeping",
+        "thought"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +272,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DEWGONG loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "mariner",
+        "snooze",
+        "bitterly",
+        "mistakenly",
+        "glacier",
+        "mermaid",
+        "sight",
+        "sleeping",
+        "thought"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +296,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "mariner",
+        "snooze",
+        "bitterly",
+        "mistakenly",
+        "glacier",
+        "mermaid",
+        "sight",
+        "sleeping",
+        "thought"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +320,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "colder",
+        "pure",
+        "white",
+        "weather",
+        "active",
+        "covered"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +339,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It stores thermal energy in the body. It swims at a steady eight knots even in intensely cold waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "thermal",
+        "steady",
+        "knots",
+        "eight",
+        "intensely",
+        "waters",
+        "swims",
+        "stores"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +362,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "In snow, the pure white coat covering its body obscures it from predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "obscures",
+        "pure",
+        "predators",
+        "covering",
+        "white",
+        "coat",
+        "snow"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +382,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "In snow, the pure white coat covering its body obscures it from predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "obscures",
+        "pure",
+        "predators",
+        "covering",
+        "white",
+        "coat",
+        "snow"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +402,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "In snow, the pure white coat covering its body obscures it from predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "obscures",
+        "pure",
+        "predators",
+        "covering",
+        "white",
+        "coat",
+        "snow"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +422,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "friskier",
+        "streamlined",
+        "colder",
+        "drag",
+        "little",
+        "temperature"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +441,22 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "tail",
+        "icy"
+      ],
+      "keywords": [
+        "floes",
+        "frigid",
+        "direction",
+        "change",
+        "swimming",
+        "quickly",
+        "seas"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +464,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "In snow, the pure white coat covering its body obscures it from predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "obscures",
+        "pure",
+        "predators",
+        "covering",
+        "white",
+        "coat",
+        "snow"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +484,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "In snow, the pure white coat covering its body obscures it from predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "obscures",
+        "pure",
+        "predators",
+        "covering",
+        "white",
+        "coat",
+        "snow"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +504,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "streamlined",
+        "resistance",
+        "knots",
+        "low",
+        "oceans",
+        "eight",
+        "swims"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +526,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "streamlined",
+        "resistance",
+        "knots",
+        "low",
+        "oceans",
+        "eight",
+        "swims"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +548,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "colder",
+        "pure",
+        "white",
+        "weather",
+        "active",
+        "covered"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +567,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "friskier",
+        "streamlined",
+        "colder",
+        "drag",
+        "little",
+        "temperature"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +586,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "mariner",
+        "snooze",
+        "bitterly",
+        "mistakenly",
+        "glacier",
+        "mermaid",
+        "sight",
+        "sleeping",
+        "thought"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +610,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "mariner",
+        "snooze",
+        "bitterly",
+        "mistakenly",
+        "glacier",
+        "mermaid",
+        "sight",
+        "sleeping",
+        "thought"
+      ]
     },
     {
       "versionId": 29,
@@ -232,7 +634,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It swims through the ocean at a speed of eight knots, searching for Pokémon that will become its prey. It’s especially fond of Wishiwashi.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "fond",
+        "wishiwashi",
+        "especially",
+        "knots",
+        "searching",
+        "eight",
+        "ocean",
+        "swims"
+      ]
     },
     {
       "versionId": 30,
@@ -240,7 +656,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sunbathes on the beach after meals. The rise in its body temperature helps its digestion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "digestion",
+        "meals",
+        "sunbathes",
+        "beach",
+        "rise",
+        "helps",
+        "temperature"
+      ]
     },
     {
       "versionId": 31,
@@ -248,7 +674,23 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "unharmed",
+        "powerfully",
+        "snowy",
+        "icy",
+        "waters",
+        "white",
+        "intense",
+        "entire",
+        "swims"
+      ]
     },
     {
       "versionId": 32,
@@ -256,7 +698,23 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "unharmed",
+        "powerfully",
+        "snowy",
+        "icy",
+        "waters",
+        "white",
+        "intense",
+        "entire",
+        "swims"
+      ]
     }
   ],
   "similarPokemonIds": [

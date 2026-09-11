@@ -10,6 +10,70 @@
   ],
   "imagePath": "/assets/pokemon/221.png",
   "entryCount": 24,
+  "entryTraits": [
+    "sonic",
+    "cold-climate",
+    "icy",
+    "burrowing",
+    "fur"
+  ],
+  "entryKeywords": [
+    "harshly",
+    "sensi",
+    "snows",
+    "thicken",
+    "tive",
+    "slipping",
+    "shaggy",
+    "checks",
+    "resist",
+    "charging",
+    "endure",
+    "conditions",
+    "defeat",
+    "obscures",
+    "enduring",
+    "excellent",
+    "hooves",
+    "hairs",
+    "allowing",
+    "repeatedly",
+    "icy",
+    "rugged",
+    "buried",
+    "unable",
+    "frigid",
+    "frozen",
+    "covers",
+    "limbs",
+    "mushrooms",
+    "dig",
+    "prevent",
+    "freezing",
+    "straight",
+    "smell",
+    "enables",
+    "white",
+    "coat",
+    "sensitive",
+    "instead",
+    "sight",
+    "charges",
+    "stand",
+    "find",
+    "hair",
+    "tusks",
+    "short",
+    "able",
+    "against",
+    "keeps",
+    "surroundings",
+    "nose",
+    "sense",
+    "ears",
+    "although",
+    "covered"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "cave",
@@ -39,7 +103,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "charging",
+        "obscures",
+        "repeatedly",
+        "sight",
+        "hair",
+        "keeps"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +120,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensi­ tive to sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "sensi",
+        "tive",
+        "hairs",
+        "straight",
+        "charges",
+        "stand"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +139,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "slipping",
+        "hooves",
+        "icy",
+        "rugged",
+        "prevent",
+        "short",
+        "although"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +160,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "burrowing",
+        "icy"
+      ],
+      "keywords": [
+        "endure",
+        "buried",
+        "dig",
+        "freezing",
+        "enables",
+        "coat",
+        "hair",
+        "tusks",
+        "covered"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +184,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "burrowing",
+        "icy"
+      ],
+      "keywords": [
+        "endure",
+        "buried",
+        "dig",
+        "freezing",
+        "enables",
+        "coat",
+        "hair",
+        "tusks",
+        "covered"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +208,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A PILOSWINE is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "burrowing",
+        "icy"
+      ],
+      "keywords": [
+        "enduring",
+        "buried",
+        "dig",
+        "freezing",
+        "coat",
+        "hair",
+        "tusks",
+        "covered"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +231,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hairs",
+        "straight",
+        "sensitive",
+        "charges",
+        "stand"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +249,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "charging",
+        "obscures",
+        "repeatedly",
+        "sight",
+        "hair",
+        "keeps"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +266,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shaggy",
+        "checks",
+        "unable",
+        "coat",
+        "sensitive",
+        "instead",
+        "surroundings",
+        "nose"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +285,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shaggy",
+        "checks",
+        "unable",
+        "coat",
+        "sensitive",
+        "instead",
+        "surroundings",
+        "nose"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +304,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "snows",
+        "thicken",
+        "shaggy",
+        "coat",
+        "tusks",
+        "against",
+        "covered"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +325,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "charging",
+        "obscures",
+        "repeatedly",
+        "sight",
+        "hair",
+        "keeps"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +342,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hairs",
+        "straight",
+        "sensitive",
+        "charges",
+        "stand"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +360,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "snows",
+        "thicken",
+        "shaggy",
+        "coat",
+        "tusks",
+        "against",
+        "covered"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +381,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "snows",
+        "thicken",
+        "shaggy",
+        "coat",
+        "tusks",
+        "against",
+        "covered"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +402,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "With its excellent sense of smell, it’s even able to find mushrooms that are buried under frozen ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "excellent",
+        "buried",
+        "frozen",
+        "mushrooms",
+        "smell",
+        "find",
+        "able",
+        "sense"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +424,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "With its excellent sense of smell, it’s even able to find mushrooms that are buried under frozen ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "excellent",
+        "buried",
+        "frozen",
+        "mushrooms",
+        "smell",
+        "find",
+        "able",
+        "sense"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +446,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "slipping",
+        "hooves",
+        "icy",
+        "rugged",
+        "prevent",
+        "short",
+        "although"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +467,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "charging",
+        "obscures",
+        "repeatedly",
+        "sight",
+        "hair",
+        "keeps"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +484,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "burrowing",
+        "icy"
+      ],
+      "keywords": [
+        "endure",
+        "buried",
+        "dig",
+        "freezing",
+        "enables",
+        "coat",
+        "hair",
+        "tusks",
+        "covered"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +508,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "burrowing",
+        "icy"
+      ],
+      "keywords": [
+        "endure",
+        "buried",
+        "dig",
+        "freezing",
+        "enables",
+        "coat",
+        "hair",
+        "tusks",
+        "covered"
+      ]
     },
     {
       "versionId": 33,
@@ -207,7 +532,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hairs",
+        "straight",
+        "sensitive",
+        "charges",
+        "stand"
+      ]
     },
     {
       "versionId": 34,
@@ -215,7 +550,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "slipping",
+        "hooves",
+        "icy",
+        "rugged",
+        "prevent",
+        "short",
+        "although"
+      ]
     },
     {
       "versionId": 39,
@@ -223,7 +571,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "The long fur of this Pokémon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pokémon's white tusks can be used to defeat its enemies.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "harshly",
+        "resist",
+        "conditions",
+        "defeat",
+        "allowing",
+        "frigid",
+        "covers",
+        "limbs",
+        "white",
+        "tusks",
+        "ears"
+      ]
     }
   ],
   "similarPokemonIds": [

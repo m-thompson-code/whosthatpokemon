@@ -10,6 +10,51 @@
   ],
   "imagePath": "/assets/pokemon/647.png",
   "entryCount": 10,
+  "entryTraits": [
+    "aquatic",
+    "horns"
+  ],
+  "entryKeywords": [
+    "blasting",
+    "opportunities",
+    "cobalion",
+    "scenic",
+    "virizion",
+    "waterfronts",
+    "leg",
+    "resolute",
+    "surfaces",
+    "terrakion",
+    "excels",
+    "crosses",
+    "develop",
+    "taught",
+    "awaken",
+    "swifter",
+    "glide",
+    "further",
+    "hooves",
+    "jumps",
+    "dashes",
+    "oceans",
+    "battling",
+    "fills",
+    "follow",
+    "true",
+    "forehead",
+    "fully",
+    "seeking",
+    "training",
+    "survive",
+    "battles",
+    "harsh",
+    "rivers",
+    "say",
+    "running",
+    "across",
+    "fast",
+    "horn"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +84,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "blasting",
+        "leg",
+        "excels",
+        "glide",
+        "hooves",
+        "battling",
+        "across"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +104,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scenic",
+        "waterfronts",
+        "surfaces",
+        "crosses",
+        "oceans",
+        "rivers",
+        "running"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +122,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "resolute",
+        "swifter",
+        "jumps",
+        "fills",
+        "follow",
+        "fast"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +139,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "resolute",
+        "swifter",
+        "jumps",
+        "fills",
+        "follow",
+        "fast"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +156,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scenic",
+        "waterfronts",
+        "surfaces",
+        "crosses",
+        "oceans",
+        "rivers",
+        "running"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +174,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "resolute",
+        "swifter",
+        "jumps",
+        "fills",
+        "follow",
+        "fast"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +191,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scenic",
+        "waterfronts",
+        "surfaces",
+        "crosses",
+        "oceans",
+        "rivers",
+        "running"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +209,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "resolute",
+        "swifter",
+        "jumps",
+        "fills",
+        "follow",
+        "fast"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +226,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Cobalion, Terrakion, and Virizion taught this Pokémon how to fight. It dashes across the world, seeking more opportunities to further its training.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "opportunities",
+        "cobalion",
+        "virizion",
+        "terrakion",
+        "taught",
+        "further",
+        "dashes",
+        "seeking",
+        "training",
+        "across"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +247,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "develop",
+        "awaken",
+        "true",
+        "forehead",
+        "fully",
+        "survive",
+        "battles",
+        "harsh",
+        "say",
+        "horn"
+      ]
     }
   ],
   "similarPokemonIds": [

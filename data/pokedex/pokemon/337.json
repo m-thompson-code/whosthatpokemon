@@ -10,6 +10,57 @@
   ],
   "imagePath": "/assets/pokemon/337.png",
   "entryCount": 20,
+  "entryTraits": [
+    "nocturnal",
+    "luminous",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "meteoroid",
+    "brims",
+    "cycle",
+    "ebbs",
+    "transfixed",
+    "meteorite",
+    "phase",
+    "theorize",
+    "intimidating",
+    "phases",
+    "lunar",
+    "prove",
+    "theory",
+    "link",
+    "site",
+    "stare",
+    "flows",
+    "effect",
+    "lull",
+    "meteor",
+    "location",
+    "midair",
+    "40",
+    "fell",
+    "floating",
+    "health",
+    "fear",
+    "exposed",
+    "instead",
+    "nights",
+    "discovered",
+    "strike",
+    "walking",
+    "space",
+    "came",
+    "able",
+    "first",
+    "far",
+    "moon",
+    "turns",
+    "active",
+    "red",
+    "full",
+    "apparently"
+  ],
   "color": "yellow",
   "shape": "ball",
   "habitat": "cave",
@@ -39,7 +90,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POKéMON came from space. However, no one has been able to prove this theory so far.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "meteorite",
+        "theorize",
+        "prove",
+        "theory",
+        "location",
+        "fell",
+        "discovered",
+        "space",
+        "came",
+        "able",
+        "far"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +112,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LUNATONE becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The POKéMON’s intimidating red eyes cause all those who see it to become transfixed with fear.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "transfixed",
+        "intimidating",
+        "midair",
+        "floating",
+        "fear",
+        "instead",
+        "walking",
+        "moon",
+        "active",
+        "red",
+        "full"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +134,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It becomes very active on the night of a full moon. This POKéMON was first discovered 40 years ago at the site of a meteor strike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "site",
+        "meteor",
+        "40",
+        "discovered",
+        "strike",
+        "first",
+        "moon",
+        "active",
+        "full"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +156,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its health ebbs and flows with the lunar cycle. It brims with power when exposed to the light of the full moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "brims",
+        "cycle",
+        "ebbs",
+        "lunar",
+        "flows",
+        "health",
+        "exposed",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +178,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its health ebbs and flows with the lunar cycle. It brims with power when exposed to the light of the full moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "brims",
+        "cycle",
+        "ebbs",
+        "lunar",
+        "flows",
+        "health",
+        "exposed",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +200,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phases",
+        "lunar",
+        "link",
+        "nights",
+        "moon",
+        "turns",
+        "active",
+        "full"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +221,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phases",
+        "lunar",
+        "link",
+        "nights",
+        "moon",
+        "turns",
+        "active",
+        "full"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +242,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phases",
+        "lunar",
+        "link",
+        "nights",
+        "moon",
+        "turns",
+        "active",
+        "full"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +263,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "site",
+        "stare",
+        "lull",
+        "meteor",
+        "40",
+        "discovered",
+        "strike"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +283,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "site",
+        "stare",
+        "lull",
+        "meteor",
+        "40",
+        "discovered",
+        "strike"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +303,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phases",
+        "lunar",
+        "link",
+        "nights",
+        "moon",
+        "turns",
+        "active",
+        "full"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +324,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phases",
+        "lunar",
+        "link",
+        "nights",
+        "moon",
+        "turns",
+        "active",
+        "full"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +345,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The phase of the moon apparently has some effect on its power. It’s active on the night of a full moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phase",
+        "effect",
+        "moon",
+        "active",
+        "full",
+        "apparently"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +364,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The phase of the moon apparently has some effect on its power. It’s active on the night of a full moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phase",
+        "effect",
+        "moon",
+        "active",
+        "full",
+        "apparently"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +383,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phases",
+        "lunar",
+        "link",
+        "nights",
+        "moon",
+        "turns",
+        "active",
+        "full"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +404,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "site",
+        "stare",
+        "lull",
+        "meteor",
+        "40",
+        "discovered",
+        "strike"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +424,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lunatone was discovered at a location where a meteoroid fell. As a result, some people theorize that this Pokémon came from space. However, no one has been able to prove this theory so far.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "meteoroid",
+        "theorize",
+        "prove",
+        "theory",
+        "location",
+        "fell",
+        "discovered",
+        "space",
+        "came",
+        "able",
+        "far"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +446,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lunatone becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The Pokémon’s intimidating red eyes cause all those who see it to become transfixed with fear.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "transfixed",
+        "intimidating",
+        "midair",
+        "floating",
+        "fear",
+        "instead",
+        "walking",
+        "moon",
+        "active",
+        "red",
+        "full"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +468,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The phase of the moon apparently has some effect on its power. It’s active on the night of a full moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "phase",
+        "effect",
+        "moon",
+        "active",
+        "full",
+        "apparently"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +487,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "site",
+        "stare",
+        "lull",
+        "meteor",
+        "40",
+        "discovered",
+        "strike"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,56 @@
   ],
   "imagePath": "/assets/pokemon/469.png",
   "entryCount": 14,
+  "entryTraits": [
+    "aquatic",
+    "wings",
+    "tail",
+    "forest-dwelling",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "dislodges",
+    "bravery",
+    "aiming",
+    "balanced",
+    "legged",
+    "transporting",
+    "churning",
+    "tame",
+    "critical",
+    "manage",
+    "wastes",
+    "none",
+    "inflict",
+    "accidentally",
+    "injuries",
+    "vulnerable",
+    "beat",
+    "hunting",
+    "jaw",
+    "adult",
+    "incredible",
+    "biting",
+    "adept",
+    "stay",
+    "flight",
+    "apart",
+    "internal",
+    "grown",
+    "violent",
+    "help",
+    "instantly",
+    "six",
+    "shock",
+    "prefers",
+    "spots",
+    "capable",
+    "creates",
+    "full",
+    "takes",
+    "extremely",
+    "heads"
+  ],
   "color": "green",
   "shape": "bug-wings",
   "habitat": null,
@@ -39,7 +89,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "churning",
+        "critical",
+        "inflict",
+        "injuries",
+        "internal",
+        "shock",
+        "creates"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +110,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "churning",
+        "critical",
+        "inflict",
+        "injuries",
+        "internal",
+        "shock",
+        "creates"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +131,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jaw",
+        "incredible",
+        "biting",
+        "adept",
+        "apart"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +147,22 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "wings"
+      ],
+      "keywords": [
+        "balanced",
+        "legged",
+        "transporting",
+        "adult",
+        "stay",
+        "flight",
+        "help",
+        "six",
+        "capable"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +170,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The beat of its wings is so powerful that it accidentally dislodges full-grown trees when it takes off in flight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "dislodges",
+        "accidentally",
+        "beat",
+        "flight",
+        "grown",
+        "full",
+        "takes"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +191,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jaw",
+        "incredible",
+        "biting",
+        "adept",
+        "apart"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +207,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jaw",
+        "incredible",
+        "biting",
+        "adept",
+        "apart"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +223,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It prefers to battle by biting apart foes’ heads instantly while flying by at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "biting",
+        "apart",
+        "instantly",
+        "prefers",
+        "heads"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +239,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It prefers to battle by biting apart foes’ heads instantly while flying by at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "biting",
+        "apart",
+        "instantly",
+        "prefers",
+        "heads"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +255,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It prefers to battle by biting apart foes’ heads instantly while flying by at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "biting",
+        "apart",
+        "instantly",
+        "prefers",
+        "heads"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +271,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "wings"
+      ],
+      "keywords": [
+        "balanced",
+        "legged",
+        "transporting",
+        "adult",
+        "stay",
+        "flight",
+        "help",
+        "six",
+        "capable"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +294,15 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It prefers to battle by biting apart foes’ heads instantly while flying by at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "biting",
+        "apart",
+        "instantly",
+        "prefers",
+        "heads"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +310,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "wings"
+      ],
+      "keywords": [
+        "balanced",
+        "legged",
+        "transporting",
+        "adult",
+        "stay",
+        "flight",
+        "help",
+        "six",
+        "capable"
+      ]
     },
     {
       "versionId": 39,
@@ -143,7 +333,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "bravery",
+        "aiming",
+        "tame",
+        "manage",
+        "wastes",
+        "none",
+        "vulnerable",
+        "hunting",
+        "incredible",
+        "violent",
+        "spots",
+        "extremely"
+      ]
     }
   ],
   "similarPokemonIds": [

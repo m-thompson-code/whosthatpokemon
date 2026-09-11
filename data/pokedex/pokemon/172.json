@@ -9,6 +9,93 @@
   ],
   "imagePath": "/assets/pokemon/172.png",
   "entryCount": 28,
+  "entryTraits": [
+    "electric",
+    "sky-dwelling",
+    "tail"
+  ],
+  "entryKeywords": [
+    "immature",
+    "inadvertently",
+    "retaining",
+    "unskilled",
+    "spontaneously",
+    "energetically",
+    "unintentionally",
+    "receiving",
+    "amused",
+    "courage",
+    "jolts",
+    "handling",
+    "setting",
+    "zap",
+    "event",
+    "surprises",
+    "discharge",
+    "surprised",
+    "test",
+    "flash",
+    "inept",
+    "prepare",
+    "accidentally",
+    "crackling",
+    "jolt",
+    "holding",
+    "controlling",
+    "shocked",
+    "shower",
+    "creating",
+    "older",
+    "want",
+    "adult",
+    "plays",
+    "sacs",
+    "thunderclouds",
+    "rather",
+    "begin",
+    "agitated",
+    "excited",
+    "leaks",
+    "pouches",
+    "crying",
+    "dry",
+    "startled",
+    "store",
+    "storing",
+    "better",
+    "charged",
+    "touching",
+    "hear",
+    "coming",
+    "cute",
+    "fully",
+    "cheeks",
+    "send",
+    "yet",
+    "static",
+    "skilled",
+    "discharges",
+    "sparks",
+    "charges",
+    "despite",
+    "short",
+    "size",
+    "humans",
+    "cannot",
+    "end",
+    "re",
+    "appearance",
+    "shock",
+    "little",
+    "days",
+    "causes",
+    "electric",
+    "another",
+    "still",
+    "tails",
+    "well",
+    "stores"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "forest",
@@ -38,7 +125,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "amused",
+        "jolt",
+        "startled",
+        "storing",
+        "send",
+        "yet",
+        "skilled"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +145,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zap",
+        "surprises",
+        "adult",
+        "despite",
+        "size",
+        "humans"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +162,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "unskilled",
+        "spontaneously",
+        "discharge",
+        "storing",
+        "shock",
+        "causes",
+        "electric"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +182,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PICHU charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "crackling",
+        "thunderclouds",
+        "dry",
+        "hear",
+        "coming",
+        "static",
+        "charges",
+        "days"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +204,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When PICHU plays with others, it may short out electricity with another PICHU, creating a shower of sparks. In that event, this POKéMON will begin crying, startled by the flash of sparks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "event",
+        "flash",
+        "shower",
+        "creating",
+        "plays",
+        "begin",
+        "crying",
+        "startled",
+        "sparks",
+        "short",
+        "another"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +228,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "retaining",
+        "inept",
+        "accidentally",
+        "holding",
+        "older",
+        "startled",
+        "better",
+        "discharges",
+        "still"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +250,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zap",
+        "surprises",
+        "adult",
+        "despite",
+        "size",
+        "humans"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +267,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "amused",
+        "jolt",
+        "startled",
+        "storing",
+        "send",
+        "yet",
+        "skilled"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +287,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The electric pouches on its cheeks are still small. They cannot store much electricity yet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "pouches",
+        "store",
+        "cheeks",
+        "yet",
+        "cannot",
+        "electric",
+        "still"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +307,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "courage",
+        "setting",
+        "test",
+        "plays",
+        "touching",
+        "sparks",
+        "tails"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +327,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shocked",
+        "sacs",
+        "leaks",
+        "cheeks",
+        "little",
+        "electric"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +346,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "amused",
+        "jolt",
+        "startled",
+        "storing",
+        "send",
+        "yet",
+        "skilled"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +366,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zap",
+        "surprises",
+        "adult",
+        "despite",
+        "size",
+        "humans"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +383,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shocked",
+        "sacs",
+        "leaks",
+        "cheeks",
+        "little",
+        "electric"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +402,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shocked",
+        "sacs",
+        "leaks",
+        "cheeks",
+        "little",
+        "electric"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +421,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shocked",
+        "sacs",
+        "leaks",
+        "cheeks",
+        "little",
+        "electric"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +440,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shocked",
+        "sacs",
+        "leaks",
+        "cheeks",
+        "little",
+        "electric"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +459,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "courage",
+        "setting",
+        "test",
+        "plays",
+        "touching",
+        "sparks",
+        "tails"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +479,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "amused",
+        "jolt",
+        "startled",
+        "storing",
+        "send",
+        "yet",
+        "skilled"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +499,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "crackling",
+        "thunderclouds",
+        "dry",
+        "hear",
+        "coming",
+        "static",
+        "charges",
+        "days"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +521,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "event",
+        "flash",
+        "shower",
+        "creating",
+        "plays",
+        "begin",
+        "crying",
+        "startled",
+        "sparks",
+        "short",
+        "another"
+      ]
     },
     {
       "versionId": 27,
@@ -206,7 +545,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It is not yet skilled at controlling electricity. If you take your eyes off it, it may shock itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "controlling",
+        "yet",
+        "skilled",
+        "shock"
+      ]
     },
     {
       "versionId": 28,
@@ -214,7 +562,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Despite this Pokémon’s cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "receiving",
+        "jolts",
+        "prepare",
+        "want",
+        "cute",
+        "despite",
+        "end",
+        "appearance",
+        "electric"
+      ]
     },
     {
       "versionId": 29,
@@ -222,7 +584,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It still can’t use electricity well. When it’s surprised or excited, it discharges electricity unintentionally.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "unintentionally",
+        "surprised",
+        "excited",
+        "discharges",
+        "still",
+        "well"
+      ]
     },
     {
       "versionId": 30,
@@ -230,7 +603,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has electric sacs in its cheeks. When they’re fully charged, Pichu plays very energetically.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "energetically",
+        "plays",
+        "sacs",
+        "charged",
+        "fully",
+        "cheeks",
+        "re",
+        "electric"
+      ]
     },
     {
       "versionId": 33,
@@ -238,7 +624,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zap",
+        "surprises",
+        "adult",
+        "despite",
+        "size",
+        "humans"
+      ]
     },
     {
       "versionId": 34,
@@ -246,7 +641,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shocked",
+        "sacs",
+        "leaks",
+        "cheeks",
+        "little",
+        "electric"
+      ]
     },
     {
       "versionId": 39,
@@ -254,7 +660,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pokémon's handling of electricity is rather inept.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "immature",
+        "inadvertently",
+        "handling",
+        "inept",
+        "sacs",
+        "rather",
+        "agitated",
+        "excited",
+        "cheeks",
+        "yet",
+        "discharges",
+        "stores"
+      ]
     }
   ],
   "similarPokemonIds": [

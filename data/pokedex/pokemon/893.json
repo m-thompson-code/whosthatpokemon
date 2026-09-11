@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/893.png",
   "entryCount": 2,
+  "entryTraits": [
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "dense",
+    "helps",
+    "incredibly",
+    "tear",
+    "fear",
+    "aggressive",
+    "vines",
+    "pack",
+    "forest",
+    "forests",
+    "nutrients",
+    "within",
+    "soil",
+    "plants"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +58,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Within dense forests, this Pokémon lives in a pack with others of its kind. It’s incredibly aggressive, and the other Pokémon of the forest fear it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dense",
+        "incredibly",
+        "fear",
+        "aggressive",
+        "pack",
+        "forest",
+        "forests",
+        "within"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +79,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "helps",
+        "tear",
+        "vines",
+        "forest",
+        "nutrients",
+        "soil",
+        "plants"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,50 @@
   ],
   "imagePath": "/assets/pokemon/289.png",
   "entryCount": 18,
+  "entryTraits": [
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "hordes",
+    "diameter",
+    "lolling",
+    "ripened",
+    "reluctantly",
+    "exert",
+    "pent",
+    "horrifying",
+    "lounging",
+    "saving",
+    "prone",
+    "slothful",
+    "yard",
+    "laziest",
+    "grassy",
+    "releasing",
+    "lying",
+    "patiently",
+    "fruits",
+    "wherever",
+    "wait",
+    "striking",
+    "rings",
+    "season",
+    "spends",
+    "side",
+    "rolls",
+    "reach",
+    "spot",
+    "growing",
+    "left",
+    "fields",
+    "fall",
+    "actually",
+    "within",
+    "another",
+    "grass",
+    "gather",
+    "eat"
+  ],
   "color": "brown",
   "shape": "humanoid",
   "habitat": "forest",
@@ -38,7 +82,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lolling",
+        "reluctantly",
+        "lying",
+        "spends",
+        "reach",
+        "spot",
+        "growing",
+        "within",
+        "another",
+        "grass"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +103,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Wherever SLAKING live, rings of over a yard in diameter appear in grassy fields. They are made by the POKéMON as it eats all the grass within reach while lying prone on the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "diameter",
+        "prone",
+        "yard",
+        "grassy",
+        "lying",
+        "wherever",
+        "rings",
+        "reach",
+        "fields",
+        "within",
+        "grass"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +125,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Hordes of SLAKING gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "hordes",
+        "ripened",
+        "patiently",
+        "fruits",
+        "wait",
+        "season",
+        "fall",
+        "gather"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +146,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is the world’s most slothful POKéMON. However, it can exert horrifying power by releasing pent-up energy all at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exert",
+        "pent",
+        "horrifying",
+        "slothful",
+        "releasing"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +162,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is the world’s most slothful POKéMON. However, it can exert horrifying power by releasing pent-up energy all at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exert",
+        "pent",
+        "horrifying",
+        "slothful",
+        "releasing"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +178,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lounging",
+        "saving",
+        "laziest",
+        "striking",
+        "actually"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +194,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lounging",
+        "saving",
+        "laziest",
+        "striking",
+        "actually"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +210,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lounging",
+        "saving",
+        "laziest",
+        "striking",
+        "actually"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +226,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The world’s laziest Pokémon. It moves to another spot when there’s no food left within its reach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "laziest",
+        "reach",
+        "spot",
+        "left",
+        "within",
+        "another"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +243,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The world’s laziest Pokémon. It moves to another spot when there’s no food left within its reach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "laziest",
+        "reach",
+        "spot",
+        "left",
+        "within",
+        "another"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +260,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lounging",
+        "saving",
+        "laziest",
+        "striking",
+        "actually"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +276,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lounging",
+        "saving",
+        "laziest",
+        "striking",
+        "actually"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +292,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lying",
+        "side",
+        "rolls",
+        "grass",
+        "eat"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +308,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lying",
+        "side",
+        "rolls",
+        "grass",
+        "eat"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +324,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The world’s laziest Pokémon. It moves to another spot when there’s no food left within its reach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "laziest",
+        "reach",
+        "spot",
+        "left",
+        "within",
+        "another"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +341,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is the world’s most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exert",
+        "pent",
+        "horrifying",
+        "slothful",
+        "releasing"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +357,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pokémon reluctantly moves to another spot.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lolling",
+        "reluctantly",
+        "lying",
+        "spends",
+        "reach",
+        "spot",
+        "growing",
+        "within",
+        "another",
+        "grass"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +378,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "diameter",
+        "prone",
+        "yard",
+        "grassy",
+        "lying",
+        "wherever",
+        "rings",
+        "reach",
+        "fields",
+        "within",
+        "grass"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,90 @@
   ],
   "imagePath": "/assets/pokemon/063.png",
   "entryCount": 33,
+  "entryTraits": [
+    "sleeping",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "evokes",
+    "farther",
+    "impend",
+    "seated",
+    "teleportations",
+    "randomly",
+    "copies",
+    "hypnotizes",
+    "eighteen",
+    "extrasensory",
+    "observation",
+    "panics",
+    "contents",
+    "maintains",
+    "remaining",
+    "strain",
+    "telekinetic",
+    "awake",
+    "decides",
+    "illusion",
+    "teleports",
+    "actual",
+    "affect",
+    "telepathic",
+    "wakes",
+    "minds",
+    "impending",
+    "situation",
+    "wields",
+    "identify",
+    "revealed",
+    "whether",
+    "know",
+    "teleport",
+    "read",
+    "simply",
+    "treetops",
+    "hour",
+    "threatened",
+    "escapes",
+    "radar",
+    "location",
+    "variety",
+    "18",
+    "presence",
+    "want",
+    "immediately",
+    "deeply",
+    "ing",
+    "clear",
+    "spends",
+    "mind",
+    "safety",
+    "pick",
+    "various",
+    "approach",
+    "approaches",
+    "needs",
+    "hours",
+    "dreams",
+    "loses",
+    "sleeping",
+    "created",
+    "strike",
+    "tell",
+    "asleep",
+    "change",
+    "catch",
+    "brain",
+    "attacked",
+    "sleeps",
+    "berries",
+    "still",
+    "sense",
+    "creates",
+    "doesn",
+    "apparently",
+    "eat"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "urban",
@@ -38,7 +122,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minds",
+        "impending",
+        "identify",
+        "teleport",
+        "read",
+        "safety"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +139,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minds",
+        "impending",
+        "identify",
+        "teleport",
+        "read",
+        "safety"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +156,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "teleport",
+        "18",
+        "safety",
+        "hours",
+        "sleeps"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +174,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It senses impend­ ing attacks and TELEPORTS away to safety before the actual attacks can strike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "impend",
+        "teleports",
+        "actual",
+        "ing",
+        "safety",
+        "strike"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +191,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If it decides to TELEPORT randomly, it creates the illusion that it has created copies of itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "randomly",
+        "copies",
+        "decides",
+        "illusion",
+        "teleport",
+        "created",
+        "creates"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +209,13 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It hypnotizes itself so that it can teleport away when it senses danger, even if it is asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hypnotizes",
+        "teleport",
+        "asleep"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +223,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ABRA sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this POKéMON immediately teleports to safety.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "eighteen",
+        "teleports",
+        "situation",
+        "presence",
+        "immediately",
+        "safety",
+        "hours",
+        "sleeping",
+        "sleeps",
+        "sense"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +246,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ABRA needs to sleep for eighteen hours a day. If it doesn’t, this POKéMON loses its ability to use telekinetic powers. If it is attacked, ABRA escapes using TELEPORT while it is still sleeping.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "eighteen",
+        "telekinetic",
+        "teleport",
+        "escapes",
+        "needs",
+        "hours",
+        "loses",
+        "sleeping",
+        "attacked",
+        "still",
+        "doesn"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +270,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A POKéMON that sleeps 18 hours a day. Observation revealed that it uses TELEPORT to change its location once every hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "observation",
+        "revealed",
+        "teleport",
+        "hour",
+        "location",
+        "18",
+        "hours",
+        "change",
+        "sleeps"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +292,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "extrasensory",
+        "variety",
+        "18",
+        "hours",
+        "asleep",
+        "sleeps"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +311,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Using its ability to read minds, it will sense impending danger and TELEPORT to safety.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minds",
+        "impending",
+        "teleport",
+        "read",
+        "safety",
+        "sense"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +328,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It sleeps for 18 hours a day. Even when awake, it teleports itself while remaining seated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "seated",
+        "remaining",
+        "awake",
+        "teleports",
+        "18",
+        "hours",
+        "sleeps"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +348,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Even while asleep, it maintains a telepathic radar. It teleports when it is threatened.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "maintains",
+        "teleports",
+        "telepathic",
+        "threatened",
+        "radar",
+        "asleep"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +365,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "strain",
+        "18",
+        "needs",
+        "hours",
+        "brain"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +384,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "teleports",
+        "actual",
+        "impending",
+        "safety",
+        "strike"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +400,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it decides to teleport randomly, it evokes the illusion that it has created copies of itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "evokes",
+        "randomly",
+        "copies",
+        "decides",
+        "illusion",
+        "teleport",
+        "created"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +418,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "strain",
+        "18",
+        "needs",
+        "hours",
+        "brain"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +437,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "strain",
+        "18",
+        "needs",
+        "hours",
+        "brain"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +456,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "strain",
+        "18",
+        "needs",
+        "hours",
+        "brain"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +475,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "strain",
+        "18",
+        "needs",
+        "hours",
+        "brain"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +494,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "extrasensory",
+        "variety",
+        "18",
+        "hours",
+        "asleep",
+        "sleeps"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +513,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "teleports",
+        "actual",
+        "impending",
+        "safety",
+        "strike"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +529,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "eighteen",
+        "teleports",
+        "situation",
+        "presence",
+        "immediately",
+        "safety",
+        "hours",
+        "sleeping",
+        "sleeps",
+        "sense"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +552,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Abra needs to sleep for eighteen hours a day. If it doesn’t, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "eighteen",
+        "telekinetic",
+        "teleport",
+        "escapes",
+        "needs",
+        "hours",
+        "loses",
+        "sleeping",
+        "attacked",
+        "still",
+        "doesn"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +576,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It sleeps 18 hours a day. Even while sleeping, it will teleport itself to treetops and pick and eat berries there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "teleport",
+        "treetops",
+        "18",
+        "pick",
+        "hours",
+        "sleeping",
+        "sleeps",
+        "berries",
+        "eat"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +598,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It can teleport itself to safety while it’s asleep, but when it wakes, it doesn’t know where it is, so it panics.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "panics",
+        "wakes",
+        "know",
+        "teleport",
+        "safety",
+        "asleep",
+        "doesn"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +616,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It uses various psychic powers even while it’s sleeping, so you can’t tell whether or not it’s awake.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "awake",
+        "whether",
+        "various",
+        "sleeping",
+        "tell"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +635,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It can read others’ minds and will teleport away when danger approaches. You must clear your mind if you want to catch it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "minds",
+        "teleport",
+        "read",
+        "want",
+        "clear",
+        "mind",
+        "approaches",
+        "catch"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +656,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "teleport",
+        "18",
+        "safety",
+        "hours",
+        "sleeps"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +674,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "teleport",
+        "18",
+        "safety",
+        "hours",
+        "sleeps"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +692,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "contents",
+        "affect",
+        "wields",
+        "dreams",
+        "sleeps"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +711,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "farther",
+        "teleportations",
+        "teleport",
+        "deeply",
+        "sleeps",
+        "apparently"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +730,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers—should danger approach, the Pokémon will simply teleport away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "teleport",
+        "simply",
+        "18",
+        "spends",
+        "approach",
+        "hours",
+        "sleeping",
+        "asleep"
+      ]
     }
   ],
   "similarPokemonIds": [

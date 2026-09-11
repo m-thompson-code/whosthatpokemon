@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/721.png",
   "entryCount": 4,
+  "entryTraits": [
+    "mountain-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "tread",
+    "billows",
+    "disappears",
+    "fog",
+    "steam",
+    "dense",
+    "expels",
+    "internal",
+    "blow",
+    "do",
+    "humans",
+    "lets",
+    "mountain"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +58,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lets out billows of steam and disappears into the dense fog. It’s said to live in mountains where humans do not tread.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "tread",
+        "billows",
+        "disappears",
+        "fog",
+        "steam",
+        "dense",
+        "do",
+        "humans",
+        "lets"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +80,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "steam",
+        "expels",
+        "internal",
+        "blow",
+        "mountain"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +99,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It lets out billows of steam and disappears into the dense fog. It’s said to live in mountains where humans do not tread.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "tread",
+        "billows",
+        "disappears",
+        "fog",
+        "steam",
+        "dense",
+        "do",
+        "humans",
+        "lets"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +121,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "steam",
+        "expels",
+        "internal",
+        "blow",
+        "mountain"
+      ]
     }
   ],
   "similarPokemonIds": [

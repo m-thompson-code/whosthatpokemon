@@ -9,6 +9,35 @@
   ],
   "imagePath": "/assets/pokemon/677.png",
   "entryCount": 6,
+  "entryTraits": [
+    "psychic"
+  ],
+  "entryKeywords": [
+    "blank",
+    "sheltered",
+    "expression",
+    "struggle",
+    "leaking",
+    "troublesome",
+    "controlled",
+    "wrestler",
+    "stare",
+    "devastating",
+    "blast",
+    "organ",
+    "contain",
+    "300",
+    "send",
+    "intense",
+    "finds",
+    "behind",
+    "everything",
+    "within",
+    "changes",
+    "emits",
+    "though",
+    "ears"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +67,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "sheltered",
+        "leaking",
+        "organ",
+        "intense",
+        "emits",
+        "ears"
+      ]
     },
     {
       "versionId": 24,
@@ -46,7 +86,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "blast",
+        "300",
+        "everything",
+        "within"
+      ]
     },
     {
       "versionId": 25,
@@ -54,7 +103,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "sheltered",
+        "leaking",
+        "organ",
+        "intense",
+        "emits",
+        "ears"
+      ]
     },
     {
       "versionId": 26,
@@ -62,7 +122,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "blast",
+        "300",
+        "everything",
+        "within"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +139,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Though Espurr’s expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "blank",
+        "expression",
+        "struggle",
+        "stare",
+        "devastating",
+        "contain",
+        "intense",
+        "behind",
+        "changes",
+        "though"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +162,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "There’s enough psychic power in Espurr to send a wrestler flying, but because this power can’t be controlled, Espurr finds it troublesome.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "troublesome",
+        "controlled",
+        "wrestler",
+        "send",
+        "finds"
+      ]
     }
   ],
   "similarPokemonIds": [

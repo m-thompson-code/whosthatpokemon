@@ -9,6 +9,83 @@
   ],
   "imagePath": "/assets/pokemon/438.png",
   "entryCount": 20,
+  "entryTraits": [
+    "aquatic",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "bitterness",
+    "deceived",
+    "elicit",
+    "expulsion",
+    "greenery",
+    "physiological",
+    "sweating",
+    "sympathy",
+    "eliminating",
+    "locales",
+    "mechanism",
+    "salty",
+    "lack",
+    "luster",
+    "excess",
+    "noticeably",
+    "reminiscent",
+    "deal",
+    "spheres",
+    "tend",
+    "dull",
+    "merely",
+    "expel",
+    "die",
+    "adjust",
+    "adjusting",
+    "effective",
+    "rocky",
+    "process",
+    "slight",
+    "sweat",
+    "exudes",
+    "levels",
+    "environments",
+    "green",
+    "expels",
+    "increases",
+    "composition",
+    "damp",
+    "health",
+    "leaks",
+    "crying",
+    "dry",
+    "guard",
+    "tears",
+    "keeping",
+    "getting",
+    "level",
+    "fluids",
+    "stands",
+    "liquid",
+    "arid",
+    "atmosphere",
+    "discharges",
+    "let",
+    "order",
+    "moisture",
+    "similar",
+    "do",
+    "areas",
+    "actually",
+    "little",
+    "prefers",
+    "since",
+    "look",
+    "human",
+    "surroundings",
+    "fluid",
+    "good",
+    "well",
+    "apparently"
+  ],
   "color": "brown",
   "shape": "legs",
   "habitat": null,
@@ -38,7 +115,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It looks as if it is always crying. It is actually adjusting its body’s fluid levels by eliminating excess.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "eliminating",
+        "excess",
+        "adjusting",
+        "levels",
+        "crying",
+        "actually",
+        "fluid"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +133,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It prefers arid environments. It leaks water from its eyes to adjust its body’s fluid levels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjust",
+        "levels",
+        "environments",
+        "leaks",
+        "arid",
+        "prefers",
+        "fluid"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +153,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjusting",
+        "leaks",
+        "tears",
+        "level",
+        "arid",
+        "atmosphere",
+        "moisture",
+        "prefers"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +174,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjust",
+        "exudes",
+        "crying",
+        "level",
+        "fluids",
+        "order"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +193,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjust",
+        "exudes",
+        "crying",
+        "level",
+        "fluids",
+        "order"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +212,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjusting",
+        "leaks",
+        "tears",
+        "level",
+        "arid",
+        "atmosphere",
+        "moisture",
+        "prefers"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +233,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjusting",
+        "leaks",
+        "tears",
+        "level",
+        "arid",
+        "atmosphere",
+        "moisture",
+        "prefers"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +254,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjusting",
+        "leaks",
+        "tears",
+        "level",
+        "arid",
+        "atmosphere",
+        "moisture",
+        "prefers"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +275,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjusting",
+        "leaks",
+        "tears",
+        "level",
+        "arid",
+        "atmosphere",
+        "moisture",
+        "prefers"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +296,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It prefers arid environments. It leaks water from its eyes to adjust its body’s fluid levels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjust",
+        "levels",
+        "environments",
+        "leaks",
+        "arid",
+        "prefers",
+        "fluid"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +316,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjusting",
+        "leaks",
+        "tears",
+        "level",
+        "arid",
+        "atmosphere",
+        "moisture",
+        "prefers"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +337,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It prefers arid environments. It leaks water from its eyes to adjust its body’s fluid levels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjust",
+        "levels",
+        "environments",
+        "leaks",
+        "arid",
+        "prefers",
+        "fluid"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +357,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adjusting",
+        "leaks",
+        "tears",
+        "level",
+        "arid",
+        "atmosphere",
+        "moisture",
+        "prefers"
+      ]
     },
     {
       "versionId": 27,
@@ -142,7 +378,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It does not deal well with water, so it lives in dry locales. Since its surroundings tend to lack greenery, it stands out noticeably.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "greenery",
+        "locales",
+        "lack",
+        "noticeably",
+        "deal",
+        "tend",
+        "dry",
+        "stands",
+        "since",
+        "surroundings",
+        "well"
+      ]
     },
     {
       "versionId": 28,
@@ -150,7 +402,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "From its eyes, it can expel excess moisture from its body. This liquid is similar in composition to human sweat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "excess",
+        "expel",
+        "sweat",
+        "composition",
+        "liquid",
+        "moisture",
+        "similar",
+        "human"
+      ]
     },
     {
       "versionId": 29,
@@ -158,7 +421,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It discharges moisture from its eyes, making it look like it’s crying—apparently an effective way of getting enemies to let down their guard.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "effective",
+        "crying",
+        "guard",
+        "getting",
+        "discharges",
+        "let",
+        "moisture",
+        "look",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -166,7 +441,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If its body gets too damp, it will die. So, in a process reminiscent of sweating, its eyes expel moisture.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sweating",
+        "reminiscent",
+        "expel",
+        "die",
+        "process",
+        "damp",
+        "moisture"
+      ]
     },
     {
       "versionId": 33,
@@ -174,7 +459,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It expels both sweat and tears from its eyes. The sweat is a little salty, while the tears have a slight bitterness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bitterness",
+        "salty",
+        "slight",
+        "sweat",
+        "expels",
+        "tears",
+        "little"
+      ]
     },
     {
       "versionId": 34,
@@ -182,7 +477,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon lives in dry, rocky areas. As its green spheres dry out, their dull luster increases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "luster",
+        "spheres",
+        "dull",
+        "rocky",
+        "green",
+        "increases",
+        "dry",
+        "areas"
+      ]
     },
     {
       "versionId": 39,
@@ -190,7 +498,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its tears elicit sympathy from those who see them, but do not be deceived! This expulsion of body water is merely a physiological mechanism for keeping itself in good health.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deceived",
+        "elicit",
+        "expulsion",
+        "physiological",
+        "sympathy",
+        "mechanism",
+        "merely",
+        "health",
+        "tears",
+        "keeping",
+        "do",
+        "good"
+      ]
     }
   ],
   "similarPokemonIds": [

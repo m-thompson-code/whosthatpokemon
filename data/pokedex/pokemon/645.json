@@ -10,6 +10,43 @@
   ],
   "imagePath": "/assets/pokemon/645.png",
   "entryCount": 9,
+  "entryTraits": [
+    "tail",
+    "electric"
+  ],
+  "entryKeywords": [
+    "abate",
+    "tempests",
+    "clash",
+    "incarnations",
+    "pouring",
+    "hailed",
+    "quell",
+    "bountiful",
+    "harvests",
+    "abundant",
+    "visited",
+    "blessed",
+    "forces",
+    "grant",
+    "conflict",
+    "thunderbolts",
+    "crops",
+    "guardian",
+    "arrives",
+    "increases",
+    "nutrition",
+    "lands",
+    "sure",
+    "great",
+    "fields",
+    "size",
+    "wind",
+    "nutrients",
+    "soil",
+    "creates",
+    "lightning"
+  ],
   "color": "brown",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +76,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "hailed",
+        "bountiful",
+        "visited",
+        "grant",
+        "crops",
+        "guardian",
+        "lands",
+        "fields"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +95,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pouring",
+        "crops",
+        "increases",
+        "nutrition",
+        "great",
+        "size",
+        "soil"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +115,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "abundant",
+        "forces",
+        "wind",
+        "nutrients",
+        "soil",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +135,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "abundant",
+        "forces",
+        "wind",
+        "nutrients",
+        "soil",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +155,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "hailed",
+        "bountiful",
+        "visited",
+        "grant",
+        "crops",
+        "guardian",
+        "lands",
+        "fields"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +174,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "abundant",
+        "forces",
+        "wind",
+        "nutrients",
+        "soil",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +194,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "hailed",
+        "bountiful",
+        "visited",
+        "grant",
+        "crops",
+        "guardian",
+        "lands",
+        "fields"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +213,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "abundant",
+        "forces",
+        "wind",
+        "nutrients",
+        "soil",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 39,
@@ -103,7 +233,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "abate",
+        "tempests",
+        "clash",
+        "incarnations",
+        "quell",
+        "bountiful",
+        "harvests",
+        "blessed",
+        "conflict",
+        "thunderbolts",
+        "arrives",
+        "sure",
+        "wind",
+        "lightning"
+      ]
     }
   ],
   "similarPokemonIds": [

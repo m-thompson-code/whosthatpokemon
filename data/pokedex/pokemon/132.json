@@ -9,6 +9,89 @@
   ],
   "imagePath": "/assets/pokemon/132.png",
   "entryCount": 32,
+  "entryTraits": [
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "encount",
+    "fect",
+    "metamorphosis",
+    "reorganize",
+    "strengths",
+    "transformations",
+    "weaknesses",
+    "astonishing",
+    "disguise",
+    "recombine",
+    "ers",
+    "nent",
+    "oppo",
+    "transfigures",
+    "manages",
+    "relying",
+    "rearranges",
+    "transforming",
+    "duplicate",
+    "individual",
+    "details",
+    "relies",
+    "wrong",
+    "capacity",
+    "laugh",
+    "copy",
+    "depends",
+    "reconstitute",
+    "relaxes",
+    "copying",
+    "code",
+    "normal",
+    "exactly",
+    "transformation",
+    "transforms",
+    "cell",
+    "fellow",
+    "quality",
+    "based",
+    "fails",
+    "memory",
+    "returns",
+    "encounters",
+    "maintain",
+    "per",
+    "perfect",
+    "shapes",
+    "cellular",
+    "transform",
+    "whatever",
+    "stone",
+    "thing",
+    "isn",
+    "genetic",
+    "tries",
+    "structure",
+    "sees",
+    "forms",
+    "front",
+    "faster",
+    "right",
+    "change",
+    "almost",
+    "instantly",
+    "avoid",
+    "cells",
+    "something",
+    "changes",
+    "spots",
+    "another",
+    "attacked",
+    "sleeps",
+    "along",
+    "freely",
+    "capable",
+    "entire",
+    "well",
+    "apparently"
+  ],
   "color": "purple",
   "shape": "ball",
   "habitat": "urban",
@@ -38,7 +121,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "duplicate",
+        "copying",
+        "code",
+        "transform",
+        "genetic",
+        "instantly",
+        "capable"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +139,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "duplicate",
+        "copying",
+        "code",
+        "transform",
+        "genetic",
+        "instantly",
+        "capable"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +157,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "When it spots an enemy, its body transfigures into an almost perfect copy of its oppo­ nent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nent",
+        "oppo",
+        "transfigures",
+        "copy",
+        "perfect",
+        "almost",
+        "spots"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +175,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "transform",
+        "stone",
+        "avoid",
+        "changes",
+        "attacked",
+        "sleeps"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +194,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its transformation ability is per­ fect. However, if made to laugh, it can't maintain its disguise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fect",
+        "disguise",
+        "laugh",
+        "transformation",
+        "maintain",
+        "per"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +211,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it encount­ ers another DITTO, it will move faster than normal to duplicate that opponent exactly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "encount",
+        "ers",
+        "duplicate",
+        "normal",
+        "exactly",
+        "faster",
+        "another"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +229,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this POKéMON manages to get details wrong.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "manages",
+        "relying",
+        "rearranges",
+        "details",
+        "wrong",
+        "cell",
+        "memory",
+        "shapes",
+        "transform",
+        "tries",
+        "structure",
+        "something"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +252,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this POKéMON manages to get details wrong.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "manages",
+        "relying",
+        "rearranges",
+        "details",
+        "wrong",
+        "cell",
+        "memory",
+        "shapes",
+        "transform",
+        "tries",
+        "structure",
+        "something"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +275,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A DITTO rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "rearranges",
+        "details",
+        "wrong",
+        "cell",
+        "based",
+        "memory",
+        "transform",
+        "tries",
+        "structure",
+        "change"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +296,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It can freely recombine its own cellular structure to transform into other life- forms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recombine",
+        "cellular",
+        "transform",
+        "structure",
+        "forms",
+        "freely"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +313,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Capable of copying an opponent’s genetic code to instantly transform itself into a duplicate of the enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "duplicate",
+        "copying",
+        "code",
+        "transform",
+        "genetic",
+        "instantly",
+        "capable"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +331,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "cellular",
+        "transform",
+        "whatever",
+        "structure",
+        "sees",
+        "entire"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +349,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "cellular",
+        "transform",
+        "whatever",
+        "structure",
+        "sees",
+        "entire"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +367,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "cellular",
+        "transform",
+        "whatever",
+        "structure",
+        "sees",
+        "entire"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +385,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "transform",
+        "stone",
+        "avoid",
+        "changes",
+        "attacked",
+        "sleeps"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +404,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disguise",
+        "laugh",
+        "transformation",
+        "maintain",
+        "perfect"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +420,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "cellular",
+        "transform",
+        "whatever",
+        "structure",
+        "sees",
+        "entire"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +438,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "cellular",
+        "transform",
+        "whatever",
+        "structure",
+        "sees",
+        "entire"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +456,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "relaxes",
+        "normal",
+        "returns",
+        "cellular",
+        "structure",
+        "sees",
+        "change",
+        "entire"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +476,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "relaxes",
+        "normal",
+        "returns",
+        "cellular",
+        "structure",
+        "sees",
+        "change",
+        "entire"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +496,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "cellular",
+        "transform",
+        "whatever",
+        "structure",
+        "sees",
+        "entire"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +514,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can freely recombine its own cellular structure to transform into other life-forms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recombine",
+        "cellular",
+        "transform",
+        "structure",
+        "forms",
+        "freely"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +531,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "manages",
+        "relying",
+        "rearranges",
+        "details",
+        "wrong",
+        "cell",
+        "memory",
+        "shapes",
+        "transform",
+        "tries",
+        "structure",
+        "something"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +554,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "manages",
+        "relying",
+        "rearranges",
+        "details",
+        "wrong",
+        "cell",
+        "memory",
+        "shapes",
+        "transform",
+        "tries",
+        "structure",
+        "something"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +577,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It can reorganize its cells to make itself into a duplicate of anything it sees. The quality of the duplicate depends on the individual.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reorganize",
+        "duplicate",
+        "individual",
+        "depends",
+        "quality",
+        "sees",
+        "cells"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +595,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "With its astonishing capacity for metamorphosis, it can get along with anything. It does not get along well with its fellow Ditto.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "metamorphosis",
+        "astonishing",
+        "capacity",
+        "fellow",
+        "along",
+        "well"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +612,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "strengths",
+        "transformations",
+        "weaknesses",
+        "transform",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +628,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It transforms into whatever it sees. If the thing it’s transforming into isn’t right in front of it, Ditto relies on its memory—so sometimes it fails.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "transforming",
+        "relies",
+        "transforms",
+        "fails",
+        "memory",
+        "whatever",
+        "thing",
+        "isn",
+        "sees",
+        "front",
+        "right"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +650,15 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "transfigures",
+        "copy",
+        "perfect",
+        "almost",
+        "spots"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +666,15 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "transfigures",
+        "copy",
+        "perfect",
+        "almost",
+        "spots"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +682,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reconstitute",
+        "relaxes",
+        "normal",
+        "returns",
+        "cellular",
+        "structure",
+        "sees",
+        "change",
+        "entire"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +702,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "duplicate",
+        "normal",
+        "exactly",
+        "encounters",
+        "faster",
+        "another"
+      ]
     }
   ],
   "similarPokemonIds": [

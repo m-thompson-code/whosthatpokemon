@@ -10,6 +10,85 @@
   ],
   "imagePath": "/assets/pokemon/183.png",
   "entryCount": 23,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "fur",
+    "forest-dwelling",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "bottoms",
+    "slowed",
+    "bobbing",
+    "preserver",
+    "wa",
+    "diving",
+    "tains",
+    "ter",
+    "buoy",
+    "configured",
+    "indication",
+    "repellent",
+    "functions",
+    "naturally",
+    "con",
+    "resistance",
+    "lighter",
+    "stream",
+    "trunk",
+    "dries",
+    "drowning",
+    "aquatic",
+    "current",
+    "flexible",
+    "turned",
+    "acts",
+    "currents",
+    "plays",
+    "feed",
+    "dives",
+    "underwater",
+    "dry",
+    "edge",
+    "fishing",
+    "oil",
+    "repels",
+    "stretch",
+    "river",
+    "serves",
+    "stay",
+    "float",
+    "why",
+    "beneath",
+    "soon",
+    "floats",
+    "vicious",
+    "sure",
+    "wraps",
+    "fine",
+    "contains",
+    "round",
+    "filled",
+    "rivers",
+    "almost",
+    "end",
+    "likes",
+    "swim",
+    "running",
+    "nutrients",
+    "surface",
+    "plants",
+    "keeps",
+    "lets",
+    "fast",
+    "eating",
+    "swims",
+    "tip",
+    "ball",
+    "covered"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -40,7 +119,23 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The tip of its tail, which con­ tains oil that is lighter than wa­ ter, lets it swim without drowning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "wa",
+        "tains",
+        "ter",
+        "con",
+        "lighter",
+        "drowning",
+        "oil",
+        "swim",
+        "lets",
+        "tip"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +143,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "buoy",
+        "drowning",
+        "current",
+        "serves",
+        "vicious",
+        "end",
+        "keeps"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +163,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fur"
+      ],
+      "keywords": [
+        "naturally",
+        "plays",
+        "dry",
+        "repels",
+        "stay"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +182,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MARILL’s oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water’s surface, it’s a sure indication that this POKéMON is diving beneath the water to feed on aquatic plants.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "bobbing",
+        "preserver",
+        "diving",
+        "indication",
+        "aquatic",
+        "acts",
+        "feed",
+        "oil",
+        "beneath",
+        "sure",
+        "filled",
+        "surface",
+        "plants"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +209,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When fishing for food at the edge of a fast-running stream, MARILL wraps its tail around the trunk of a tree. This POKéMON’s tail is flexible and configured to stretch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "configured",
+        "stream",
+        "trunk",
+        "flexible",
+        "edge",
+        "fishing",
+        "stretch",
+        "wraps",
+        "running",
+        "fast"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +234,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water’s resistance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fur"
+      ],
+      "keywords": [
+        "slowed",
+        "repellent",
+        "resistance",
+        "swim",
+        "covered"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +253,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "buoy",
+        "drowning",
+        "current",
+        "serves",
+        "vicious",
+        "end",
+        "keeps"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +273,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lighter",
+        "drowning",
+        "oil",
+        "contains",
+        "swim",
+        "lets",
+        "tip"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +294,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Using its tail as a float, it dives underwater. It likes eating plants that grow on river bottoms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "bottoms",
+        "dives",
+        "underwater",
+        "river",
+        "float",
+        "likes",
+        "plants",
+        "eating"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +316,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The tip of its tail is filled with oil that is lighter than water, so it acts as a float.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lighter",
+        "acts",
+        "oil",
+        "float",
+        "filled",
+        "tip"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +336,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "drowning",
+        "current",
+        "oil",
+        "floats",
+        "filled",
+        "end",
+        "keeps"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +357,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lighter",
+        "drowning",
+        "oil",
+        "contains",
+        "swim",
+        "lets",
+        "tip"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +378,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "buoy",
+        "drowning",
+        "current",
+        "serves",
+        "vicious",
+        "end",
+        "keeps"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +398,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "drowning",
+        "current",
+        "oil",
+        "floats",
+        "filled",
+        "end",
+        "keeps"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +419,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "drowning",
+        "current",
+        "oil",
+        "floats",
+        "filled",
+        "end",
+        "keeps"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +440,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The oil-filled tail functions as a buoy, so it’s fine even in rivers with strong currents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "buoy",
+        "functions",
+        "currents",
+        "oil",
+        "fine",
+        "filled",
+        "rivers"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +460,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The oil-filled tail functions as a buoy, so it’s fine even in rivers with strong currents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "buoy",
+        "functions",
+        "currents",
+        "oil",
+        "fine",
+        "filled",
+        "rivers"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +480,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fur"
+      ],
+      "keywords": [
+        "naturally",
+        "plays",
+        "dry",
+        "repels",
+        "stay"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +499,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The tip of its tail is filled with oil that is lighter than water, so it acts as a float.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lighter",
+        "acts",
+        "oil",
+        "float",
+        "filled",
+        "tip"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +519,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Marill’s oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water’s surface, it’s a sure indication that this Pokémon is diving beneath the water to feed on aquatic plants.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "bobbing",
+        "preserver",
+        "diving",
+        "indication",
+        "aquatic",
+        "acts",
+        "feed",
+        "oil",
+        "beneath",
+        "sure",
+        "filled",
+        "surface",
+        "plants"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +546,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon’s tail is flexible and configured to stretch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "configured",
+        "stream",
+        "trunk",
+        "flexible",
+        "edge",
+        "fishing",
+        "stretch",
+        "wraps",
+        "running",
+        "fast"
+      ]
     },
     {
       "versionId": 33,
@@ -208,7 +571,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon uses its round tail as a float. The ball of Marill’s tail is filled with nutrients that have been turned into an oil.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "turned",
+        "oil",
+        "float",
+        "round",
+        "filled",
+        "nutrients",
+        "ball"
+      ]
     },
     {
       "versionId": 34,
@@ -216,7 +591,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Even after Marill swims in a cold sea, its water- repellent fur dries almost as soon as Marill leaves the water. That’s why this Pokémon is never cold.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "repellent",
+        "dries",
+        "why",
+        "soon",
+        "almost",
+        "swims"
+      ]
     }
   ],
   "similarPokemonIds": [

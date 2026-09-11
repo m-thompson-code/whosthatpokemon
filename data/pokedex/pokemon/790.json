@@ -9,6 +9,56 @@
   ],
   "imagePath": "/assets/pokemon/790.png",
   "entryCount": 6,
+  "entryTraits": [
+    "shell",
+    "luminous",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "absorption",
+    "altar",
+    "frantically",
+    "fuels",
+    "worship",
+    "antiquity",
+    "golden",
+    "preparation",
+    "ruled",
+    "accumulating",
+    "encases",
+    "continues",
+    "astounding",
+    "faintly",
+    "rate",
+    "growth",
+    "starlight",
+    "material",
+    "surprisingly",
+    "built",
+    "building",
+    "king",
+    "cocoon",
+    "motionless",
+    "distant",
+    "solid",
+    "sucks",
+    "think",
+    "alola",
+    "dead",
+    "dust",
+    "harder",
+    "past",
+    "stars",
+    "absorbs",
+    "core",
+    "touch",
+    "called",
+    "something",
+    "within",
+    "black",
+    "another",
+    "evolution"
+  ],
   "color": "blue",
   "shape": "ball",
   "habitat": null,
@@ -38,7 +88,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "faintly",
+        "cocoon",
+        "motionless",
+        "distant",
+        "dead",
+        "past",
+        "stars",
+        "touch",
+        "called"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +108,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "There’s something accumulating around the black core within its hard shell. People think this Pokémon may come from another world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "accumulating",
+        "think",
+        "core",
+        "something",
+        "within",
+        "black",
+        "another"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +128,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "altar",
+        "worship",
+        "antiquity",
+        "ruled",
+        "built",
+        "king",
+        "cocoon",
+        "alola",
+        "stars",
+        "called"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +149,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "luminous"
+      ],
+      "keywords": [
+        "golden",
+        "continues",
+        "surprisingly",
+        "solid",
+        "absorbs"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +168,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The absorption of starlight fuels this Pokémon’s growth. The shell that encases it is harder than any known material.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "absorption",
+        "fuels",
+        "encases",
+        "growth",
+        "starlight",
+        "material",
+        "harder"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +188,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "frantically",
+        "preparation",
+        "astounding",
+        "rate",
+        "building",
+        "sucks",
+        "dust",
+        "core",
+        "within",
+        "evolution"
+      ]
     }
   ],
   "similarPokemonIds": [

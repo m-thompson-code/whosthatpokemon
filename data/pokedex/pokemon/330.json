@@ -10,6 +10,64 @@
   ],
   "imagePath": "/assets/pokemon/330.png",
   "entryCount": 24,
+  "entryTraits": [
+    "desert-dwelling",
+    "sky-dwelling",
+    "wings",
+    "sonic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "elemental",
+    "lured",
+    "enchanting",
+    "krookodile",
+    "series",
+    "seldom",
+    "songs",
+    "detection",
+    "stranded",
+    "sandstorm",
+    "shield",
+    "conceal",
+    "stolen",
+    "woman",
+    "notes",
+    "beating",
+    "continue",
+    "enveloped",
+    "sandstorms",
+    "team",
+    "nicknamed",
+    "becoming",
+    "cloud",
+    "splits",
+    "whip",
+    "hearts",
+    "kicking",
+    "heard",
+    "whips",
+    "thing",
+    "singing",
+    "covers",
+    "prevent",
+    "sounds",
+    "themselves",
+    "flapping",
+    "find",
+    "flaps",
+    "desert",
+    "something",
+    "catch",
+    "heart",
+    "causes",
+    "red",
+    "sand",
+    "spirit",
+    "create",
+    "creates",
+    "hides"
+  ],
   "color": "green",
   "shape": "wings",
   "habitat": "rough-terrain",
@@ -40,7 +98,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "FLYGON is nicknamed “the elemental spirit of the desert.” Because its flapping wings whip up a cloud of sand, this POKéMON is always enveloped in a sandstorm while flying.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "elemental",
+        "sandstorm",
+        "enveloped",
+        "nicknamed",
+        "cloud",
+        "whip",
+        "flapping",
+        "desert",
+        "sand",
+        "spirit"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +123,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "FLYGON whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the “singing” is the only thing that can be heard in a sandstorm, this POKéMON is said to be the desert spirit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "series",
+        "sandstorm",
+        "notes",
+        "heard",
+        "whips",
+        "thing",
+        "singing",
+        "flapping",
+        "desert",
+        "spirit",
+        "create"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +149,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The flapping of its wings sounds like singing. To prevent detection by enemies, it hides itself by flapping up a cloud of desert sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "sky-dwelling",
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "detection",
+        "cloud",
+        "singing",
+        "prevent",
+        "sounds",
+        "flapping",
+        "desert",
+        "sand",
+        "hides"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +174,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "shield",
+        "kicking",
+        "covers",
+        "desert",
+        "red",
+        "sand",
+        "hides"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +195,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "shield",
+        "kicking",
+        "covers",
+        "desert",
+        "red",
+        "sand",
+        "hides"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +216,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "sandstorms",
+        "whips",
+        "flaps",
+        "desert",
+        "spirit"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +235,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "sandstorms",
+        "whips",
+        "flaps",
+        "desert",
+        "spirit"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +254,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "sandstorms",
+        "whips",
+        "flaps",
+        "desert",
+        "spirit"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +273,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is nicknamed “The Desert Spirit” because the flapping of its wings sounds like a woman singing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "woman",
+        "nicknamed",
+        "singing",
+        "sounds",
+        "flapping",
+        "desert",
+        "spirit"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +295,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is nicknamed “The Desert Spirit” because the flapping of its wings sounds like a woman singing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "woman",
+        "nicknamed",
+        "singing",
+        "sounds",
+        "flapping",
+        "desert",
+        "spirit"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +317,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "sandstorms",
+        "whips",
+        "flaps",
+        "desert",
+        "spirit"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +336,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "sandstorms",
+        "whips",
+        "flaps",
+        "desert",
+        "spirit"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +355,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Known as “The Desert Spirit,” this Pokémon hides in the sandstorms it causes by beating its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "beating",
+        "sandstorms",
+        "desert",
+        "causes",
+        "spirit",
+        "hides"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +375,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Known as “The Desert Spirit,” this Pokémon hides in the sandstorms it causes by beating its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "beating",
+        "sandstorms",
+        "desert",
+        "causes",
+        "spirit",
+        "hides"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +395,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "shield",
+        "kicking",
+        "covers",
+        "desert",
+        "red",
+        "sand",
+        "hides"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +416,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Known as “The Desert Spirit,” this Pokémon hides in the sandstorms it causes by beating its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "beating",
+        "sandstorms",
+        "desert",
+        "causes",
+        "spirit",
+        "hides"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +436,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Flygon is nicknamed “the elemental spirit of the desert.” Because its flapping wings whip up a cloud of sand, this Pokémon is always enveloped in a sandstorm while flying.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "elemental",
+        "sandstorm",
+        "enveloped",
+        "nicknamed",
+        "cloud",
+        "whip",
+        "flapping",
+        "desert",
+        "sand",
+        "spirit"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +461,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Flygon whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the “singing” is the only thing that can be heard in a sandstorm, this Pokémon is said to be the desert spirit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "series",
+        "sandstorm",
+        "notes",
+        "heard",
+        "whips",
+        "thing",
+        "singing",
+        "flapping",
+        "desert",
+        "spirit",
+        "create"
+      ]
     },
     {
       "versionId": 27,
@@ -184,7 +487,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The flapping of its wings sounds something like singing. Those lured by the sound are enveloped in a sandstorm, becoming Flygon’s prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "lured",
+        "sandstorm",
+        "enveloped",
+        "becoming",
+        "singing",
+        "sounds",
+        "flapping",
+        "something"
+      ]
     },
     {
       "versionId": 28,
@@ -192,7 +510,15 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seldom",
+        "sandstorms",
+        "heart",
+        "creates",
+        "hides"
+      ]
     },
     {
       "versionId": 29,
@@ -200,7 +526,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "By flapping their wings, Flygon cause sandstorms that conceal Krookodile. The team then splits the prey they catch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "krookodile",
+        "conceal",
+        "sandstorms",
+        "team",
+        "splits",
+        "flapping",
+        "catch"
+      ]
     },
     {
       "versionId": 30,
@@ -208,7 +547,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "People continue to have their hearts stolen by its enchanting songs and find themselves stranded in the desert.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "enchanting",
+        "songs",
+        "stranded",
+        "stolen",
+        "continue",
+        "hearts",
+        "themselves",
+        "find",
+        "desert"
+      ]
     },
     {
       "versionId": 33,
@@ -216,7 +569,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seldom",
+        "sandstorms",
+        "heart",
+        "creates",
+        "hides"
+      ]
     },
     {
       "versionId": 34,
@@ -224,7 +585,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "woman",
+        "nicknamed",
+        "singing",
+        "sounds",
+        "flapping",
+        "desert",
+        "spirit"
+      ]
     }
   ],
   "similarPokemonIds": [

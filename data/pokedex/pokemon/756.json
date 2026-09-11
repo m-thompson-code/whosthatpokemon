@@ -10,6 +10,58 @@
   ],
   "imagePath": "/assets/pokemon/756.png",
   "entryCount": 6,
+  "entryTraits": [
+    "nocturnal",
+    "hunting",
+    "sleeping",
+    "arms",
+    "territorial",
+    "forest-dwelling",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "succumb",
+    "treacherous",
+    "snoozing",
+    "siphons",
+    "confused",
+    "flickering",
+    "coated",
+    "sending",
+    "parasect",
+    "drowsiness",
+    "fingertips",
+    "sucking",
+    "weakened",
+    "lure",
+    "vitality",
+    "drains",
+    "lights",
+    "enter",
+    "again",
+    "helps",
+    "put",
+    "completely",
+    "puts",
+    "don",
+    "strange",
+    "feeds",
+    "home",
+    "find",
+    "spores",
+    "asleep",
+    "area",
+    "fall",
+    "fighting",
+    "forest",
+    "near",
+    "starts",
+    "forests",
+    "emits",
+    "fast",
+    "entire",
+    "tip"
+  ],
   "color": "purple",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +91,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Forests where Shiinotic live are treacherous to enter at night. People confused by its strange lights can never find their way home again.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "treacherous",
+        "confused",
+        "lights",
+        "enter",
+        "again",
+        "strange",
+        "home",
+        "find",
+        "forests"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +113,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sleeping"
+      ],
+      "keywords": [
+        "succumb",
+        "flickering",
+        "drowsiness",
+        "sucking",
+        "feeds",
+        "spores",
+        "emits"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +134,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It puts its prey to sleep and siphons off their vitality through the tip of its arms. If one of its kind is weakened, it helps by sending it vitality.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting",
+        "sleeping"
+      ],
+      "keywords": [
+        "siphons",
+        "sending",
+        "weakened",
+        "vitality",
+        "helps",
+        "puts",
+        "tip"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +156,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "coated",
+        "parasect",
+        "completely",
+        "spores",
+        "area",
+        "fighting",
+        "starts",
+        "entire"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +177,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sleeping"
+      ],
+      "keywords": [
+        "snoozing",
+        "flickering",
+        "fingertips",
+        "lure",
+        "vitality",
+        "drains",
+        "put",
+        "spores"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +199,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If you see a light deep in a forest at night, don’t go near. Shiinotic will make you fall fast asleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "don",
+        "asleep",
+        "fall",
+        "forest",
+        "near",
+        "fast"
+      ]
     }
   ],
   "similarPokemonIds": [

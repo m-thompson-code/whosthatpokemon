@@ -10,6 +10,78 @@
   ],
   "imagePath": "/assets/pokemon/279.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic",
+    "mountain-dwelling",
+    "beak",
+    "hunting",
+    "wings"
+  ],
+  "entryKeywords": [
+    "capacious",
+    "delivery",
+    "service",
+    "spacious",
+    "scoop",
+    "transporter",
+    "beaks",
+    "bobs",
+    "skimming",
+    "skims",
+    "fit",
+    "messenger",
+    "dips",
+    "wishiwashi",
+    "scoops",
+    "devour",
+    "numerous",
+    "tops",
+    "resting",
+    "steep",
+    "gulp",
+    "wave",
+    "bill",
+    "males",
+    "gathering",
+    "30",
+    "acts",
+    "facing",
+    "carrying",
+    "waiting",
+    "taking",
+    "store",
+    "rest",
+    "child",
+    "cliffs",
+    "safety",
+    "knows",
+    "searches",
+    "waters",
+    "flight",
+    "skies",
+    "calm",
+    "work",
+    "beak",
+    "massive",
+    "swallows",
+    "victim",
+    "builds",
+    "carry",
+    "right",
+    "young",
+    "protects",
+    "carries",
+    "days",
+    "everything",
+    "eggs",
+    "spots",
+    "surface",
+    "huge",
+    "along",
+    "places",
+    "whole",
+    "big"
+  ],
   "color": "yellow",
   "shape": "wings",
   "habitat": "sea",
@@ -40,7 +112,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PELIPPER is a flying transporter that carries small POKéMON and eggs inside its massive bill. This POKéMON builds its nest on steep cliffs facing the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "transporter",
+        "steep",
+        "bill",
+        "facing",
+        "cliffs",
+        "massive",
+        "builds",
+        "carries",
+        "eggs"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +135,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PELIPPER searches for food while in flight by skimming the wave tops. This POKéMON dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "scoop",
+        "skimming",
+        "dips",
+        "tops",
+        "gulp",
+        "wave",
+        "bill",
+        "searches",
+        "flight",
+        "swallows",
+        "everything",
+        "big"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +160,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "scoop",
+        "skims",
+        "tops",
+        "beak",
+        "victim",
+        "protects",
+        "eggs",
+        "spots"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +183,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is a flying transporter that carries small POKéMON in its beak. It bobs on the waves to rest its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "transporter",
+        "bobs",
+        "rest",
+        "beak",
+        "carries"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +203,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is a flying transporter that carries small POKéMON in its beak. It bobs on the waves to rest its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "transporter",
+        "bobs",
+        "rest",
+        "beak",
+        "carries"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +223,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "dips",
+        "scoops",
+        "numerous",
+        "bill",
+        "along"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +242,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "delivery",
+        "service",
+        "bobs",
+        "bill",
+        "acts",
+        "carrying",
+        "rest"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +262,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "messenger",
+        "bill",
+        "carrying",
+        "safety",
+        "skies",
+        "eggs"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +279,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "beak"
+      ],
+      "keywords": [
+        "bobs",
+        "resting",
+        "waters",
+        "calm",
+        "beak",
+        "young",
+        "protects",
+        "days"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +301,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "beak"
+      ],
+      "keywords": [
+        "bobs",
+        "resting",
+        "waters",
+        "calm",
+        "beak",
+        "young",
+        "protects",
+        "days"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +323,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "messenger",
+        "bill",
+        "carrying",
+        "safety",
+        "skies",
+        "eggs"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +340,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "messenger",
+        "bill",
+        "carrying",
+        "safety",
+        "skies",
+        "eggs"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +357,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "skimming",
+        "dips",
+        "scoops",
+        "bill",
+        "carries",
+        "surface"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +376,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "skimming",
+        "dips",
+        "scoops",
+        "bill",
+        "carries",
+        "surface"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +395,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "dips",
+        "scoops",
+        "numerous",
+        "bill",
+        "along"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +414,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "messenger",
+        "bill",
+        "carrying",
+        "safety",
+        "skies",
+        "eggs"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +431,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "transporter",
+        "steep",
+        "bill",
+        "facing",
+        "cliffs",
+        "massive",
+        "builds",
+        "carries",
+        "eggs"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +454,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "scoop",
+        "skimming",
+        "dips",
+        "tops",
+        "gulp",
+        "wave",
+        "bill",
+        "searches",
+        "flight",
+        "swallows",
+        "everything",
+        "big"
+      ]
     },
     {
       "versionId": 27,
@@ -184,7 +479,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its spacious beak is large enough for a small child to fit right inside.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak"
+      ],
+      "keywords": [
+        "spacious",
+        "fit",
+        "child",
+        "beak",
+        "right"
+      ]
     },
     {
       "versionId": 28,
@@ -192,7 +497,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak"
+      ],
+      "keywords": [
+        "capacious",
+        "beaks",
+        "males",
+        "gathering",
+        "waiting",
+        "store",
+        "work",
+        "carry",
+        "young"
+      ]
     },
     {
       "versionId": 29,
@@ -200,7 +519,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It places small Pokémon into its spacious beak and carries them around. No one knows where it’s taking them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak"
+      ],
+      "keywords": [
+        "spacious",
+        "taking",
+        "knows",
+        "beak",
+        "carries",
+        "places"
+      ]
     },
     {
       "versionId": 30,
@@ -208,7 +538,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak"
+      ],
+      "keywords": [
+        "wishiwashi",
+        "scoops",
+        "devour",
+        "30",
+        "beak",
+        "swallows",
+        "huge",
+        "whole"
+      ]
     },
     {
       "versionId": 33,
@@ -216,7 +559,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "messenger",
+        "bill",
+        "carrying",
+        "safety",
+        "skies",
+        "eggs"
+      ]
     },
     {
       "versionId": 34,
@@ -224,7 +576,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "skimming",
+        "dips",
+        "scoops",
+        "bill",
+        "carries",
+        "surface"
+      ]
     }
   ],
   "similarPokemonIds": [

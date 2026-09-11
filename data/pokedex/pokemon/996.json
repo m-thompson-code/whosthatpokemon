@@ -10,6 +10,26 @@
   ],
   "imagePath": "/assets/pokemon/996.png",
   "entryCount": 2,
+  "entryTraits": [
+    "cold-climate",
+    "fiery",
+    "icy"
+  ],
+  "entryKeywords": [
+    "refrigerator",
+    "craggy",
+    "converts",
+    "higher",
+    "cools",
+    "dorsal",
+    "fin",
+    "absorbs",
+    "areas",
+    "forests",
+    "stores",
+    "heat",
+    "temperature"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +60,22 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "converts",
+        "higher",
+        "dorsal",
+        "fin",
+        "absorbs",
+        "stores",
+        "heat",
+        "temperature"
+      ]
     },
     {
       "versionId": 41,
@@ -48,7 +83,17 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "refrigerator",
+        "craggy",
+        "cools",
+        "dorsal",
+        "fin",
+        "areas",
+        "forests"
+      ]
     }
   ],
   "similarPokemonIds": [

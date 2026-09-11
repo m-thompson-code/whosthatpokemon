@@ -9,6 +9,92 @@
   ],
   "imagePath": "/assets/pokemon/086.png",
   "entryCount": 28,
+  "entryTraits": [
+    "cold-climate",
+    "horns",
+    "icy",
+    "aquatic",
+    "fur",
+    "luminous",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "14f",
+    "cially",
+    "cli",
+    "espe",
+    "iceberg",
+    "supposed",
+    "14",
+    "joyfully",
+    "minus",
+    "relishes",
+    "underneath",
+    "sheets",
+    "bother",
+    "bashing",
+    "mate",
+    "pretty",
+    "seabed",
+    "especially",
+    "icebergs",
+    "protruding",
+    "shown",
+    "colder",
+    "fat",
+    "conditions",
+    "graceful",
+    "climate",
+    "section",
+    "oceans",
+    "bitter",
+    "hunts",
+    "breathe",
+    "point",
+    "shallow",
+    "mystery",
+    "nostrils",
+    "tired",
+    "sharply",
+    "40",
+    "floating",
+    "thanks",
+    "walk",
+    "better",
+    "frigid",
+    "daytime",
+    "hunt",
+    "covers",
+    "swimmer",
+    "alola",
+    "protected",
+    "waters",
+    "don",
+    "needs",
+    "blue",
+    "freezing",
+    "hole",
+    "having",
+    "break",
+    "filled",
+    "asleep",
+    "feels",
+    "active",
+    "against",
+    "hide",
+    "keeps",
+    "punches",
+    "tough",
+    "fahrenheit",
+    "swims",
+    "well",
+    "although",
+    "swimming",
+    "horn",
+    "close",
+    "seas",
+    "covered"
+  ],
   "color": "white",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +125,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "horns",
+        "icy"
+      ],
+      "keywords": [
+        "bashing",
+        "protruding",
+        "horn"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +143,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "horns",
+        "icy"
+      ],
+      "keywords": [
+        "bashing",
+        "protruding",
+        "horn"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +161,22 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Loves freezing cold conditions. Relishes swimming in a frigid cli­ mate of around 14F degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "14f",
+        "cli",
+        "relishes",
+        "mate",
+        "conditions",
+        "frigid",
+        "freezing",
+        "swimming"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +184,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Although it can't walk well on land, it is a graceful swimmer. It espe­ cially loves being in frigid seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cially",
+        "espe",
+        "graceful",
+        "walk",
+        "frigid",
+        "swimmer",
+        "well",
+        "although",
+        "seas"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +204,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "seabed",
+        "shallow",
+        "nostrils",
+        "daytime",
+        "waters",
+        "asleep",
+        "swims",
+        "close"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +225,23 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The light blue fur that covers it keeps it protected against the cold. It loves iceberg- filled oceans.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy",
+        "luminous"
+      ],
+      "keywords": [
+        "iceberg",
+        "oceans",
+        "covers",
+        "protected",
+        "blue",
+        "filled",
+        "against",
+        "keeps"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +249,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "underneath",
+        "sheets",
+        "protruding",
+        "section",
+        "hunts",
+        "breathe",
+        "sharply",
+        "frigid",
+        "needs",
+        "hole",
+        "punches"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +276,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "underneath",
+        "sheets",
+        "protruding",
+        "section",
+        "hunts",
+        "breathe",
+        "sharply",
+        "frigid",
+        "needs",
+        "hole",
+        "punches"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +303,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "SEEL hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "protruding",
+        "section",
+        "breathe",
+        "sharply",
+        "frigid",
+        "hunt",
+        "needs",
+        "hole",
+        "punches",
+        "seas",
+        "covered"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +329,24 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of minus 40 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy",
+        "luminous"
+      ],
+      "keywords": [
+        "minus",
+        "bitter",
+        "40",
+        "blue",
+        "active",
+        "hide",
+        "tough",
+        "fahrenheit",
+        "covered"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +354,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The protruding horn on its head is very hard. It is used for bashing through thick icebergs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "bashing",
+        "icebergs",
+        "protruding",
+        "horn"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +371,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "icebergs",
+        "point",
+        "break",
+        "swims"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +390,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "icebergs",
+        "point",
+        "break",
+        "swims"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +409,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "icebergs",
+        "point",
+        "break",
+        "swims"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +428,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Although it can’t walk well on land, it is a graceful swimmer. It especially loves being in frigid seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "especially",
+        "graceful",
+        "walk",
+        "frigid",
+        "swimmer",
+        "well",
+        "although",
+        "seas"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +447,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "seabed",
+        "shallow",
+        "nostrils",
+        "daytime",
+        "waters",
+        "asleep",
+        "swims",
+        "close"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +468,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "icebergs",
+        "point",
+        "break",
+        "swims"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +487,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "icebergs",
+        "point",
+        "break",
+        "swims"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +506,22 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "joyfully",
+        "colder",
+        "oceans",
+        "floating",
+        "better",
+        "filled",
+        "feels",
+        "swims"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +529,22 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "joyfully",
+        "colder",
+        "oceans",
+        "floating",
+        "better",
+        "filled",
+        "feels",
+        "swims"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +552,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "icebergs",
+        "point",
+        "break",
+        "swims"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +571,23 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy",
+        "luminous"
+      ],
+      "keywords": [
+        "bitter",
+        "40",
+        "blue",
+        "active",
+        "hide",
+        "tough",
+        "fahrenheit",
+        "covered"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +595,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "underneath",
+        "sheets",
+        "protruding",
+        "section",
+        "hunts",
+        "breathe",
+        "sharply",
+        "frigid",
+        "needs",
+        "hole",
+        "punches"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +622,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "underneath",
+        "sheets",
+        "protruding",
+        "section",
+        "hunts",
+        "breathe",
+        "sharply",
+        "frigid",
+        "needs",
+        "hole",
+        "punches"
+      ]
     },
     {
       "versionId": 29,
@@ -231,7 +649,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has always been supposed that Seel live only in cold seas. Their having shown up in Alola is a mystery.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "supposed",
+        "shown",
+        "mystery",
+        "alola",
+        "having",
+        "seas"
+      ]
     },
     {
       "versionId": 30,
@@ -239,7 +669,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Thanks to its thick fat, cold seas don’t bother it at all, but it gets tired pretty easily in warm waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "bother",
+        "pretty",
+        "fat",
+        "tired",
+        "thanks",
+        "waters",
+        "don",
+        "seas"
+      ]
     },
     {
       "versionId": 31,
@@ -247,7 +691,22 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "14",
+        "relishes",
+        "conditions",
+        "climate",
+        "frigid",
+        "freezing",
+        "fahrenheit",
+        "swimming"
+      ]
     },
     {
       "versionId": 32,
@@ -255,7 +714,22 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "14",
+        "relishes",
+        "conditions",
+        "climate",
+        "frigid",
+        "freezing",
+        "fahrenheit",
+        "swimming"
+      ]
     }
   ],
   "similarPokemonIds": [

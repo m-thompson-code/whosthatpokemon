@@ -9,6 +9,51 @@
   ],
   "imagePath": "/assets/pokemon/331.png",
   "entryCount": 18,
+  "entryTraits": [
+    "hunting",
+    "arms",
+    "aquatic",
+    "desert-dwelling"
+  ],
+  "entryKeywords": [
+    "fragrant",
+    "spiked",
+    "thorny",
+    "pretty",
+    "deserts",
+    "rainfall",
+    "yellow",
+    "thorns",
+    "environments",
+    "dweller",
+    "blooms",
+    "locations",
+    "30",
+    "virtually",
+    "swinging",
+    "wildly",
+    "storing",
+    "attract",
+    "survive",
+    "arid",
+    "environment",
+    "bloom",
+    "battles",
+    "victim",
+    "bring",
+    "harsh",
+    "releases",
+    "year",
+    "desert",
+    "shoots",
+    "near",
+    "days",
+    "stored",
+    "prefers",
+    "flowers",
+    "aroma",
+    "flower"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": "rough-terrain",
@@ -39,7 +84,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POKéMON shoots sharp thorns from its body to bring the victim down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "deserts",
+        "thorns",
+        "locations",
+        "attract",
+        "arid",
+        "victim",
+        "bring",
+        "releases",
+        "shoots",
+        "near",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +109,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "The more arid and harsh the environment, the more pretty and fragrant a flower CACNEA grows. This POKéMON battles by wildly swinging its thorny arms.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "fragrant",
+        "thorny",
+        "pretty",
+        "swinging",
+        "wildly",
+        "arid",
+        "environment",
+        "battles",
+        "harsh",
+        "flower"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +132,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "CACNEA live in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms. Once a year, a yellow flower blooms.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "spiked",
+        "deserts",
+        "rainfall",
+        "yellow",
+        "blooms",
+        "virtually",
+        "swinging",
+        "battles",
+        "year",
+        "flower"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +155,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deserts",
+        "environments",
+        "30",
+        "survive",
+        "harsh",
+        "days",
+        "stored",
+        "prefers"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +176,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deserts",
+        "environments",
+        "30",
+        "survive",
+        "harsh",
+        "days",
+        "stored",
+        "prefers"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +197,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "dweller",
+        "30",
+        "storing",
+        "survive",
+        "desert",
+        "days"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +217,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "dweller",
+        "30",
+        "storing",
+        "survive",
+        "desert",
+        "days"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +237,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "dweller",
+        "30",
+        "storing",
+        "survive",
+        "desert",
+        "days"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +257,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in arid locations. Its yellow flowers bloom once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "yellow",
+        "locations",
+        "arid",
+        "bloom",
+        "year",
+        "flowers"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +274,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in arid locations. Its yellow flowers bloom once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "yellow",
+        "locations",
+        "arid",
+        "bloom",
+        "year",
+        "flowers"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +291,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "dweller",
+        "30",
+        "storing",
+        "survive",
+        "desert",
+        "days"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +311,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "dweller",
+        "30",
+        "storing",
+        "survive",
+        "desert",
+        "days"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +331,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "dweller",
+        "30",
+        "storing",
+        "survive",
+        "desert",
+        "days"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +351,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "dweller",
+        "30",
+        "storing",
+        "survive",
+        "desert",
+        "days"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +371,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives in arid locations. Its yellow flowers bloom once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "yellow",
+        "locations",
+        "arid",
+        "bloom",
+        "year",
+        "flowers"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +388,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deserts",
+        "environments",
+        "30",
+        "survive",
+        "harsh",
+        "days",
+        "stored",
+        "prefers"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +409,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cacnea lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this Pokémon shoots sharp thorns from its body to bring the victim down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "deserts",
+        "thorns",
+        "locations",
+        "attract",
+        "arid",
+        "victim",
+        "bring",
+        "releases",
+        "shoots",
+        "near",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +434,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "fragrant",
+        "thorny",
+        "pretty",
+        "swinging",
+        "wildly",
+        "arid",
+        "environment",
+        "battles",
+        "harsh",
+        "flower"
+      ]
     }
   ],
   "similarPokemonIds": [

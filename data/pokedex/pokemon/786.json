@@ -10,6 +10,43 @@
   ],
   "imagePath": "/assets/pokemon/786.png",
   "entryCount": 4,
+  "entryTraits": [
+    "luminous"
+  ],
+  "entryKeywords": [
+    "guilelessly",
+    "guilt",
+    "akala",
+    "sprinkling",
+    "devoid",
+    "fragrant",
+    "incarnate",
+    "worshiped",
+    "heals",
+    "sparkling",
+    "strangely",
+    "restore",
+    "cruel",
+    "glowing",
+    "wounds",
+    "described",
+    "flutters",
+    "deity",
+    "guardian",
+    "health",
+    "touching",
+    "disposition",
+    "source",
+    "spot",
+    "scatters",
+    "called",
+    "flowers",
+    "scales",
+    "aroma",
+    "good",
+    "nature",
+    "although"
+  ],
   "color": "pink",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +76,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "This guardian deity of Akala is guilelessly cruel. The fragrant aroma of flowers is the source of its energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "guilelessly",
+        "akala",
+        "fragrant",
+        "cruel",
+        "deity",
+        "guardian",
+        "source",
+        "flowers",
+        "aroma"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +96,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "As it flutters about, it scatters its strangely glowing scales. Touching them is said to restore good health on the spot.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "strangely",
+        "restore",
+        "glowing",
+        "flutters",
+        "health",
+        "touching",
+        "spot",
+        "scatters",
+        "scales",
+        "good"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +119,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "akala",
+        "sprinkling",
+        "worshiped",
+        "heals",
+        "sparkling",
+        "wounds",
+        "deity",
+        "guardian",
+        "scales"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +139,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "guilt",
+        "devoid",
+        "incarnate",
+        "cruel",
+        "described",
+        "deity",
+        "guardian",
+        "disposition",
+        "called",
+        "nature",
+        "although"
+      ]
     }
   ],
   "similarPokemonIds": [

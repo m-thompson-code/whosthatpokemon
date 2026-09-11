@@ -10,6 +10,76 @@
   ],
   "imagePath": "/assets/pokemon/306.png",
   "entryCount": 20,
+  "entryTraits": [
+    "mountain-dwelling",
+    "territorial",
+    "forest-dwelling",
+    "fiery",
+    "horns",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "channel",
+    "mementos",
+    "wore",
+    "gouges",
+    "landslide",
+    "perforate",
+    "ravaged",
+    "topsoil",
+    "vigilantly",
+    "violate",
+    "violates",
+    "meant",
+    "patrols",
+    "haul",
+    "thrashes",
+    "helmet",
+    "ramming",
+    "sheets",
+    "worn",
+    "sole",
+    "restore",
+    "length",
+    "battled",
+    "lightly",
+    "mercilessly",
+    "resemble",
+    "beautifully",
+    "surprisingly",
+    "wounds",
+    "bedrock",
+    "breaking",
+    "beats",
+    "tunnels",
+    "king",
+    "claims",
+    "brings",
+    "determine",
+    "pride",
+    "protective",
+    "age",
+    "don",
+    "longer",
+    "seeking",
+    "environment",
+    "trying",
+    "battles",
+    "armor",
+    "tell",
+    "area",
+    "digs",
+    "space",
+    "first",
+    "plant",
+    "little",
+    "strength",
+    "iron",
+    "mountain",
+    "entire",
+    "horns",
+    "horn"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": "mountain",
@@ -39,7 +109,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "AGGRON claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This POKéMON vigilantly patrols its territory at all times.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "vigilantly",
+        "violates",
+        "patrols",
+        "mercilessly",
+        "beats",
+        "claims",
+        "environment",
+        "mountain",
+        "entire"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +132,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "AGGRON is surprisingly protective of its environment. If its mountain is ravaged by a landslide or a fire, this POKéMON will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "mountain-dwelling",
+        "territorial",
+        "fiery"
+      ],
+      "keywords": [
+        "landslide",
+        "ravaged",
+        "topsoil",
+        "haul",
+        "restore",
+        "beautifully",
+        "surprisingly",
+        "protective",
+        "environment",
+        "area",
+        "plant",
+        "mountain"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +160,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its iron horns grow longer a little at a time. They are used to determine the AGGRON’s age. The gouges in its armor are worn with pride as mementos from battles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "mementos",
+        "gouges",
+        "worn",
+        "determine",
+        "pride",
+        "age",
+        "longer",
+        "battles",
+        "armor",
+        "little",
+        "iron",
+        "horns"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +185,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It claims a large mountain as its sole territory. It mercilessly thrashes those that violate its space.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "violate",
+        "thrashes",
+        "sole",
+        "mercilessly",
+        "claims",
+        "space",
+        "mountain"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +206,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It claims a large mountain as its sole territory. It mercilessly thrashes those that violate its space.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "violate",
+        "thrashes",
+        "sole",
+        "mercilessly",
+        "claims",
+        "space",
+        "mountain"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +227,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "burrowing"
+      ],
+      "keywords": [
+        "bedrock",
+        "breaking",
+        "tunnels",
+        "seeking",
+        "digs",
+        "iron",
+        "horns"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +248,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "burrowing"
+      ],
+      "keywords": [
+        "bedrock",
+        "breaking",
+        "tunnels",
+        "seeking",
+        "digs",
+        "iron",
+        "horns"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +269,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "burrowing"
+      ],
+      "keywords": [
+        "bedrock",
+        "breaking",
+        "tunnels",
+        "seeking",
+        "digs",
+        "iron",
+        "horns"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +290,22 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "You can tell its age by the length of its iron horns. It claims an entire mountain as its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "horns",
+        "territorial"
+      ],
+      "keywords": [
+        "length",
+        "claims",
+        "age",
+        "tell",
+        "iron",
+        "mountain",
+        "entire",
+        "horns"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +313,22 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "You can tell its age by the length of its iron horns. It claims an entire mountain as its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "horns",
+        "territorial"
+      ],
+      "keywords": [
+        "length",
+        "claims",
+        "age",
+        "tell",
+        "iron",
+        "mountain",
+        "entire",
+        "horns"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +336,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "burrowing"
+      ],
+      "keywords": [
+        "bedrock",
+        "breaking",
+        "tunnels",
+        "seeking",
+        "digs",
+        "iron",
+        "horns"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +357,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "burrowing"
+      ],
+      "keywords": [
+        "bedrock",
+        "breaking",
+        "tunnels",
+        "seeking",
+        "digs",
+        "iron",
+        "horns"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +378,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don’t take it lightly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "battled",
+        "lightly",
+        "wounds",
+        "claims",
+        "don",
+        "mountain",
+        "entire"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +398,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don’t take it lightly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "battled",
+        "lightly",
+        "wounds",
+        "claims",
+        "don",
+        "mountain",
+        "entire"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +418,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don’t take it lightly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "battled",
+        "lightly",
+        "wounds",
+        "claims",
+        "don",
+        "mountain",
+        "entire"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +438,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "burrowing"
+      ],
+      "keywords": [
+        "bedrock",
+        "breaking",
+        "tunnels",
+        "seeking",
+        "digs",
+        "iron",
+        "horns"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +459,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Aggron claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This Pokémon vigilantly patrols its territory at all times.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "vigilantly",
+        "violates",
+        "patrols",
+        "mercilessly",
+        "beats",
+        "claims",
+        "environment",
+        "mountain",
+        "entire"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +482,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "mountain-dwelling",
+        "territorial",
+        "fiery"
+      ],
+      "keywords": [
+        "landslide",
+        "ravaged",
+        "topsoil",
+        "haul",
+        "restore",
+        "beautifully",
+        "protective",
+        "environment",
+        "area",
+        "plant",
+        "mountain"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +509,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "perforate",
+        "ramming",
+        "sheets",
+        "brings",
+        "first",
+        "iron",
+        "horn"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +529,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokémon’s strength.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "channel",
+        "wore",
+        "meant",
+        "helmet",
+        "resemble",
+        "king",
+        "trying",
+        "strength"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,70 @@
   ],
   "imagePath": "/assets/pokemon/219.png",
   "entryCount": 21,
+  "entryTraits": [
+    "shell",
+    "fiery",
+    "volcanic",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "cir",
+    "culate",
+    "cloaking",
+    "cooling",
+    "raindrops",
+    "vaporized",
+    "circulate",
+    "cooled",
+    "fragile",
+    "billowing",
+    "spent",
+    "original",
+    "fog",
+    "approximately",
+    "brittle",
+    "crumble",
+    "dipping",
+    "steam",
+    "tens",
+    "craters",
+    "slight",
+    "breaks",
+    "gaps",
+    "burst",
+    "lava",
+    "returns",
+    "spout",
+    "roughly",
+    "turned",
+    "caught",
+    "18",
+    "thousands",
+    "throughout",
+    "contact",
+    "volcanic",
+    "touching",
+    "spouts",
+    "hardened",
+    "turn",
+    "occasionally",
+    "apart",
+    "intense",
+    "f",
+    "area",
+    "size",
+    "rain",
+    "touch",
+    "instantly",
+    "actually",
+    "magma",
+    "causes",
+    "living",
+    "fahrenheit",
+    "skin",
+    "hot",
+    "temperature"
+  ],
   "color": "red",
   "shape": "squiggle",
   "habitat": "mountain",
@@ -39,7 +103,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "cooled",
+        "slight",
+        "breaks",
+        "hardened",
+        "touch",
+        "skin"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +122,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its brittle shell occasionally spouts intense flames that cir­ culate throughout its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "cir",
+        "culate",
+        "brittle",
+        "throughout",
+        "spouts",
+        "occasionally",
+        "intense"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +143,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "billowing",
+        "burst",
+        "lava",
+        "occasionally",
+        "hot"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +163,27 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MAGCARGO’s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile - just touching it causes it to crumble apart. This POKéMON returns to its original size by dipping itself in magma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "cooling",
+        "fragile",
+        "original",
+        "brittle",
+        "crumble",
+        "dipping",
+        "returns",
+        "touching",
+        "hardened",
+        "apart",
+        "size",
+        "actually",
+        "magma",
+        "causes",
+        "skin"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +191,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MAGCARGO’s body temperature is approximately 18,000 degrees F. Water is vaporized on contact. If this POKéMON is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cloaking",
+        "raindrops",
+        "vaporized",
+        "fog",
+        "approximately",
+        "steam",
+        "caught",
+        "18",
+        "contact",
+        "turn",
+        "f",
+        "area",
+        "rain",
+        "instantly",
+        "temperature"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +219,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned MAGCARGO’s bodies into magma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "shell"
+      ],
+      "keywords": [
+        "spent",
+        "tens",
+        "craters",
+        "turned",
+        "thousands",
+        "volcanic",
+        "hardened",
+        "magma",
+        "living"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +242,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "circulate",
+        "brittle",
+        "throughout",
+        "spouts",
+        "occasionally",
+        "intense"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +262,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "cooled",
+        "slight",
+        "breaks",
+        "hardened",
+        "touch",
+        "skin"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +281,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "gaps",
+        "spout",
+        "roughly",
+        "18",
+        "hardened",
+        "f",
+        "temperature"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +302,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "gaps",
+        "spout",
+        "roughly",
+        "18",
+        "hardened",
+        "f",
+        "temperature"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +323,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "gaps",
+        "spout",
+        "roughly",
+        "18",
+        "hardened",
+        "f",
+        "temperature"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +344,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "cooled",
+        "slight",
+        "breaks",
+        "hardened",
+        "touch",
+        "skin"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +363,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "circulate",
+        "brittle",
+        "throughout",
+        "spouts",
+        "occasionally",
+        "intense"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +383,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "gaps",
+        "spout",
+        "roughly",
+        "18",
+        "hardened",
+        "f",
+        "temperature"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +404,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "gaps",
+        "spout",
+        "roughly",
+        "18",
+        "hardened",
+        "f",
+        "temperature"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +425,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "gaps",
+        "spout",
+        "roughly",
+        "18",
+        "hardened",
+        "f",
+        "temperature"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +446,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "gaps",
+        "spout",
+        "roughly",
+        "18",
+        "hardened",
+        "f",
+        "temperature"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +467,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "circulate",
+        "brittle",
+        "throughout",
+        "spouts",
+        "occasionally",
+        "intense"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +487,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "billowing",
+        "burst",
+        "lava",
+        "occasionally",
+        "hot"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +507,27 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magcargo’s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "cooling",
+        "fragile",
+        "original",
+        "brittle",
+        "crumble",
+        "dipping",
+        "returns",
+        "touching",
+        "hardened",
+        "apart",
+        "size",
+        "actually",
+        "magma",
+        "causes",
+        "skin"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +535,27 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cloaking",
+        "raindrops",
+        "vaporized",
+        "fog",
+        "approximately",
+        "steam",
+        "caught",
+        "18",
+        "contact",
+        "turn",
+        "area",
+        "rain",
+        "instantly",
+        "fahrenheit",
+        "temperature"
+      ]
     }
   ],
   "similarPokemonIds": [

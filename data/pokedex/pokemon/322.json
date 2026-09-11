@@ -10,6 +10,64 @@
   ],
   "imagePath": "/assets/pokemon/322.png",
   "entryCount": 18,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "pound",
+    "cauldron",
+    "seething",
+    "served",
+    "220",
+    "transport",
+    "load",
+    "hump",
+    "humped",
+    "slows",
+    "dull",
+    "event",
+    "flaming",
+    "boiling",
+    "slowing",
+    "tremendous",
+    "courses",
+    "reaches",
+    "hunger",
+    "witted",
+    "cools",
+    "sluggish",
+    "smaller",
+    "wet",
+    "200",
+    "hardy",
+    "2",
+    "notice",
+    "type",
+    "hit",
+    "second",
+    "hardens",
+    "intensely",
+    "source",
+    "movement",
+    "work",
+    "f",
+    "stand",
+    "humans",
+    "rain",
+    "almost",
+    "since",
+    "within",
+    "magma",
+    "movements",
+    "fahrenheit",
+    "stores",
+    "hot",
+    "doesn",
+    "heavy",
+    "extremely"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "mountain",
@@ -39,7 +97,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "NUMEL is extremely dull witted - it doesn’t notice being hit. However, it can’t stand hunger for even a second. This POKéMON’s body is a seething cauldron of boiling magma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cauldron",
+        "seething",
+        "dull",
+        "boiling",
+        "hunger",
+        "witted",
+        "notice",
+        "hit",
+        "second",
+        "stand",
+        "magma",
+        "doesn",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +121,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "NUMEL stores magma of almost 2,200 degrees F within its body. If it gets wet, the magma cools and hardens. In that event, the POKéMON’s body grows heavy and its movements become sluggish.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "event",
+        "cools",
+        "sluggish",
+        "wet",
+        "200",
+        "2",
+        "hardens",
+        "f",
+        "almost",
+        "within",
+        "magma",
+        "movements",
+        "stores",
+        "heavy"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +146,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A NUMEL stores boiling magma in the hump on its back. It is a hardy POKéMON that can transport a 220-pound load. It has served humans at work since long ago.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "pound",
+        "served",
+        "220",
+        "transport",
+        "load",
+        "hump",
+        "boiling",
+        "hardy",
+        "work",
+        "humans",
+        "since",
+        "magma",
+        "stores"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +170,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "slows",
+        "courses",
+        "200",
+        "2",
+        "hardens",
+        "almost",
+        "magma",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +192,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "slows",
+        "courses",
+        "200",
+        "2",
+        "hardens",
+        "almost",
+        "magma",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +214,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "humped",
+        "slowing",
+        "cools",
+        "intensely",
+        "movement",
+        "rain",
+        "magma",
+        "stores",
+        "hot"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +236,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "humped",
+        "slowing",
+        "cools",
+        "intensely",
+        "movement",
+        "rain",
+        "magma",
+        "stores",
+        "hot"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +258,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "humped",
+        "slowing",
+        "cools",
+        "intensely",
+        "movement",
+        "rain",
+        "magma",
+        "stores",
+        "hot"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +280,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The flaming magma it stores in the hump on its back is the source of its tremendous power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hump",
+        "flaming",
+        "tremendous",
+        "source",
+        "magma",
+        "stores"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +297,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The flaming magma it stores in the hump on its back is the source of its tremendous power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hump",
+        "flaming",
+        "tremendous",
+        "source",
+        "magma",
+        "stores"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +314,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "humped",
+        "slowing",
+        "cools",
+        "intensely",
+        "movement",
+        "rain",
+        "magma",
+        "stores",
+        "hot"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +336,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "humped",
+        "slowing",
+        "cools",
+        "intensely",
+        "movement",
+        "rain",
+        "magma",
+        "stores",
+        "hot"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +358,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The magma in its body reaches 2,200 degrees F. Its hump gets smaller when it uses Fire-type moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hump",
+        "reaches",
+        "smaller",
+        "200",
+        "2",
+        "type",
+        "f",
+        "magma"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +379,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The magma in its body reaches 2,200 degrees F. Its hump gets smaller when it uses Fire-type moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hump",
+        "reaches",
+        "smaller",
+        "200",
+        "2",
+        "type",
+        "f",
+        "magma"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +400,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "humped",
+        "slowing",
+        "cools",
+        "intensely",
+        "movement",
+        "rain",
+        "magma",
+        "stores",
+        "hot"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +422,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The magma in its body reaches 2,200 degrees Fahrenheit. Its hump gets smaller when it uses Fire-type moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hump",
+        "reaches",
+        "smaller",
+        "200",
+        "2",
+        "type",
+        "magma",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +443,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Numel is extremely dull witted—it doesn’t notice being hit. However, it can’t stand hunger for even a second. This Pokémon’s body is a seething cauldron of boiling magma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cauldron",
+        "seething",
+        "dull",
+        "boiling",
+        "hunger",
+        "witted",
+        "notice",
+        "hit",
+        "second",
+        "stand",
+        "magma",
+        "doesn",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +467,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "event",
+        "cools",
+        "sluggish",
+        "wet",
+        "200",
+        "2",
+        "hardens",
+        "almost",
+        "within",
+        "magma",
+        "movements",
+        "fahrenheit",
+        "stores",
+        "heavy"
+      ]
     }
   ],
   "similarPokemonIds": [

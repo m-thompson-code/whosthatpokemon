@@ -10,6 +10,37 @@
   ],
   "imagePath": "/assets/pokemon/694.png",
   "entryCount": 6,
+  "entryTraits": [
+    "electric"
+  ],
+  "entryKeywords": [
+    "interruption",
+    "panels",
+    "stresses",
+    "requirement",
+    "generation",
+    "basking",
+    "frills",
+    "weakness",
+    "either",
+    "spread",
+    "process",
+    "generating",
+    "deserts",
+    "point",
+    "solar",
+    "act",
+    "side",
+    "exposed",
+    "home",
+    "generate",
+    "cells",
+    "behind",
+    "electric",
+    "eating",
+    "sun",
+    "sunlight"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +71,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "requirement",
+        "basking",
+        "deserts",
+        "home",
+        "generate",
+        "eating",
+        "sun"
+      ]
     },
     {
       "versionId": 24,
@@ -48,7 +89,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "frills",
+        "either",
+        "side",
+        "exposed",
+        "generate",
+        "cells",
+        "sunlight"
+      ]
     },
     {
       "versionId": 25,
@@ -56,7 +109,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "requirement",
+        "basking",
+        "deserts",
+        "home",
+        "generate",
+        "eating",
+        "sun"
+      ]
     },
     {
       "versionId": 26,
@@ -64,7 +127,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "frills",
+        "either",
+        "side",
+        "exposed",
+        "generate",
+        "cells",
+        "sunlight"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +147,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon’s electric moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "panels",
+        "frills",
+        "spread",
+        "generating",
+        "solar",
+        "act",
+        "behind",
+        "electric"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +168,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "interruption",
+        "stresses",
+        "generation",
+        "weakness",
+        "process",
+        "point",
+        "sun"
+      ]
     }
   ],
   "similarPokemonIds": [

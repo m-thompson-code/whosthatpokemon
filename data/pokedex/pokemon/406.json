@@ -10,6 +10,63 @@
   ],
   "imagePath": "/assets/pokemon/406.png",
   "entryCount": 16,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "poisonous",
+    "aquatic",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "runny",
+    "sneezing",
+    "budding",
+    "induces",
+    "toxicity",
+    "strengthens",
+    "begun",
+    "increased",
+    "releasing",
+    "corner",
+    "endures",
+    "atop",
+    "pools",
+    "alongside",
+    "raised",
+    "temperatures",
+    "blooms",
+    "ponds",
+    "closes",
+    "winter",
+    "noses",
+    "changing",
+    "release",
+    "clear",
+    "season",
+    "opens",
+    "means",
+    "bud",
+    "sign",
+    "bloom",
+    "sensitive",
+    "contains",
+    "scatters",
+    "spring",
+    "harsh",
+    "releases",
+    "clean",
+    "open",
+    "right",
+    "pollen",
+    "feels",
+    "touch",
+    "starts",
+    "changes",
+    "highly",
+    "toxic",
+    "sun",
+    "temperature"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +96,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "endures",
+        "closes",
+        "winter",
+        "opens",
+        "bud",
+        "spring",
+        "releases",
+        "pollen"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +118,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "runny",
+        "sneezing",
+        "induces",
+        "alongside",
+        "ponds",
+        "noses",
+        "clear",
+        "scatters",
+        "harsh",
+        "pollen"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +139,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "changing",
+        "bud",
+        "bloom",
+        "sensitive",
+        "feels",
+        "touch",
+        "sun",
+        "temperature"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +158,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it feels the sun’s warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pools",
+        "alongside",
+        "release",
+        "clear",
+        "opens",
+        "bud",
+        "pollen",
+        "feels",
+        "touch",
+        "sun"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +179,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it feels the sun’s warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pools",
+        "alongside",
+        "release",
+        "clear",
+        "opens",
+        "bud",
+        "pollen",
+        "feels",
+        "touch",
+        "sun"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +200,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "changing",
+        "bud",
+        "bloom",
+        "sensitive",
+        "feels",
+        "touch",
+        "sun",
+        "temperature"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +219,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "changing",
+        "bud",
+        "bloom",
+        "sensitive",
+        "feels",
+        "touch",
+        "sun",
+        "temperature"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +238,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Sensitive to changing temperatures, the bud blooms when it’s warm, releasing toxic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "releasing",
+        "temperatures",
+        "blooms",
+        "changing",
+        "bud",
+        "sensitive",
+        "pollen",
+        "toxic"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +259,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Sensitive to changing temperatures, the bud blooms when it’s warm, releasing toxic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "releasing",
+        "temperatures",
+        "blooms",
+        "changing",
+        "bud",
+        "sensitive",
+        "pollen",
+        "toxic"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +280,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When it feels the sun’s warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pools",
+        "alongside",
+        "release",
+        "clear",
+        "opens",
+        "bud",
+        "pollen",
+        "feels",
+        "touch",
+        "sun"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +301,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "endures",
+        "closes",
+        "winter",
+        "opens",
+        "bud",
+        "spring",
+        "releases",
+        "pollen"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +323,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When it feels the sun’s warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pools",
+        "alongside",
+        "release",
+        "clear",
+        "opens",
+        "bud",
+        "pollen",
+        "feels",
+        "touch",
+        "sun"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +344,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "endures",
+        "closes",
+        "winter",
+        "opens",
+        "bud",
+        "spring",
+        "releases",
+        "pollen"
+      ]
     },
     {
       "versionId": 33,
@@ -143,7 +366,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison’s toxicity is increased.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "toxicity",
+        "increased",
+        "raised",
+        "contains",
+        "releases",
+        "clean",
+        "pollen"
+      ]
     },
     {
       "versionId": 34,
@@ -151,7 +387,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corner",
+        "means",
+        "bud",
+        "sensitive",
+        "spring",
+        "open",
+        "right",
+        "starts",
+        "changes",
+        "highly",
+        "temperature"
+      ]
     },
     {
       "versionId": 39,
@@ -159,7 +409,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "When the sun's light strengthens, the bud atop this Pokémon's head opens. This is a sign to the people that the harsh winter is over, and the season of budding has begun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "budding",
+        "strengthens",
+        "begun",
+        "atop",
+        "winter",
+        "season",
+        "opens",
+        "bud",
+        "sign",
+        "harsh",
+        "sun"
+      ]
     }
   ],
   "similarPokemonIds": [

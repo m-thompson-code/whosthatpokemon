@@ -10,6 +10,24 @@
   ],
   "imagePath": "/assets/pokemon/825.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "shell",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "monitor",
+    "awakened",
+    "prepare",
+    "alive",
+    "outside",
+    "barely",
+    "hiding",
+    "abilities",
+    "seems",
+    "still",
+    "evolution"
+  ],
   "color": "yellow",
   "shape": "armor",
   "habitat": null,
@@ -39,7 +57,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell",
+        "psychic"
+      ],
+      "keywords": [
+        "awakened",
+        "alive",
+        "barely",
+        "hiding",
+        "seems",
+        "still"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +78,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "psychic"
+      ],
+      "keywords": [
+        "monitor",
+        "prepare",
+        "outside",
+        "abilities",
+        "evolution"
+      ]
     }
   ],
   "similarPokemonIds": [

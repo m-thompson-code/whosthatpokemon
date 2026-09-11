@@ -10,6 +10,69 @@
   ],
   "imagePath": "/assets/pokemon/166.png",
   "entryCount": 25,
+  "entryTraits": [
+    "sky-dwelling",
+    "nocturnal",
+    "luminous",
+    "sleeping",
+    "arms"
+  ],
+  "entryKeywords": [
+    "piddly",
+    "sprinkling",
+    "aims",
+    "relationship",
+    "slumber",
+    "flicker",
+    "quantity",
+    "individual",
+    "unclear",
+    "details",
+    "sparkly",
+    "win",
+    "happen",
+    "related",
+    "starlight",
+    "provides",
+    "glowing",
+    "quality",
+    "countless",
+    "scattering",
+    "fill",
+    "smaller",
+    "numbers",
+    "flutters",
+    "number",
+    "star",
+    "sticks",
+    "remain",
+    "rather",
+    "curls",
+    "daytime",
+    "depending",
+    "drifts",
+    "powder",
+    "lands",
+    "believed",
+    "dust",
+    "throws",
+    "spot",
+    "according",
+    "blow",
+    "leaf",
+    "clean",
+    "stars",
+    "reason",
+    "larger",
+    "four",
+    "patterns",
+    "punches",
+    "berries",
+    "grass",
+    "good",
+    "big",
+    "eat"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": "forest",
@@ -39,7 +102,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "flicker",
+        "glowing",
+        "scattering",
+        "flutters",
+        "powder",
+        "stars"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +123,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "smaller",
+        "number",
+        "star",
+        "depending",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +144,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "In the daytime when it gets warm, it curls up inside a big leaf and drifts off into a deep slumber.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "slumber",
+        "curls",
+        "daytime",
+        "drifts",
+        "leaf",
+        "big"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +163,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the POKéMON uses the light of the stars as its energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "countless",
+        "fill",
+        "numbers",
+        "lands",
+        "clean",
+        "stars",
+        "reason",
+        "good"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +185,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the POKéMON uses the light of the stars as its energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "countless",
+        "fill",
+        "numbers",
+        "lands",
+        "clean",
+        "stars",
+        "reason",
+        "good"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +207,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is said that in lands with clean air, where the stars fill the sky, there live many LEDIAN. For good reason, they use the light of the stars as energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "fill",
+        "lands",
+        "clean",
+        "stars",
+        "reason",
+        "good"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +227,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "smaller",
+        "number",
+        "star",
+        "depending",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +248,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "flicker",
+        "glowing",
+        "scattering",
+        "flutters",
+        "powder",
+        "stars"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +269,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "starlight",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +286,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "starlight",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +303,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "starlight",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +320,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "flicker",
+        "glowing",
+        "scattering",
+        "flutters",
+        "powder",
+        "stars"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +341,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "smaller",
+        "number",
+        "depending",
+        "spot",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +362,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "starlight",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +379,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "starlight",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +396,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "starlight",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +413,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "starlight",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +430,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "flicker",
+        "glowing",
+        "scattering",
+        "flutters",
+        "powder",
+        "stars"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +451,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "smaller",
+        "number",
+        "depending",
+        "spot",
+        "stars",
+        "larger",
+        "patterns"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +472,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "countless",
+        "fill",
+        "numbers",
+        "lands",
+        "clean",
+        "stars",
+        "reason",
+        "good"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +494,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "countless",
+        "fill",
+        "numbers",
+        "lands",
+        "clean",
+        "stars",
+        "reason",
+        "good"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +516,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "While it’s believed that starlight provides it with energy, this Pokémon also loves to eat berries. In the daytime, it curls up in the grass to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "starlight",
+        "provides",
+        "curls",
+        "daytime",
+        "believed",
+        "berries",
+        "grass",
+        "eat"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +537,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "In battle, it throws punches with all four arms. The power of each individual blow is piddly, so it aims to win by quantity rather than quality.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "piddly",
+        "aims",
+        "quantity",
+        "individual",
+        "win",
+        "quality",
+        "rather",
+        "throws",
+        "blow",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +561,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s said that the patterns on its back are related to the stars in the night sky, but the details of that relationship remain unclear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "relationship",
+        "unclear",
+        "details",
+        "related",
+        "remain",
+        "stars",
+        "patterns"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +582,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "sprinkling",
+        "sparkly",
+        "happen",
+        "sticks",
+        "dust",
+        "according",
+        "good"
+      ]
     }
   ],
   "similarPokemonIds": [

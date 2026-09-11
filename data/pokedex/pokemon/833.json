@@ -9,6 +9,27 @@
   ],
   "imagePath": "/assets/pokemon/833.png",
   "entryCount": 2,
+  "entryTraits": [
+    "horns"
+  ],
+  "entryKeywords": [
+    "impels",
+    "teething",
+    "itch",
+    "flinches",
+    "snap",
+    "soon",
+    "bites",
+    "attacking",
+    "battles",
+    "front",
+    "jaws",
+    "starts",
+    "lets",
+    "rock",
+    "horn",
+    "apparently"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +60,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "impels",
+        "teething",
+        "itch",
+        "snap",
+        "front",
+        "jaws",
+        "apparently"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +78,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "flinches",
+        "soon",
+        "bites",
+        "attacking",
+        "battles",
+        "starts",
+        "lets",
+        "rock",
+        "horn"
+      ]
     }
   ],
   "similarPokemonIds": [

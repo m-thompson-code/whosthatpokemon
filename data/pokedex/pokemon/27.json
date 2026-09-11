@@ -9,6 +9,113 @@
   ],
   "imagePath": "/assets/pokemon/027.png",
   "entryCount": 32,
+  "entryTraits": [
+    "aquatic",
+    "cave-dwelling",
+    "burrowing",
+    "hunting",
+    "cold-climate",
+    "nocturnal",
+    "icy",
+    "desert-dwelling",
+    "sleeping",
+    "volcanic",
+    "fiery",
+    "claws"
+  ],
+  "entryKeywords": [
+    "grit",
+    "impede",
+    "rids",
+    "wrinkled",
+    "zones",
+    "bathe",
+    "disliking",
+    "harmlessly",
+    "limited",
+    "emerges",
+    "configured",
+    "waste",
+    "geothermal",
+    "height",
+    "tunneling",
+    "flat",
+    "bathing",
+    "digging",
+    "clinging",
+    "save",
+    "coated",
+    "sandy",
+    "dew",
+    "deserts",
+    "lot",
+    "minimal",
+    "rainfall",
+    "dries",
+    "threatened",
+    "roll",
+    "stones",
+    "locations",
+    "turned",
+    "dirt",
+    "lies",
+    "fell",
+    "attackers",
+    "enabling",
+    "shatter",
+    "bouncing",
+    "dry",
+    "solid",
+    "withstand",
+    "curls",
+    "bounce",
+    "repels",
+    "type",
+    "hunt",
+    "volcano",
+    "approaches",
+    "regions",
+    "rolling",
+    "survive",
+    "arid",
+    "rolls",
+    "absorb",
+    "fine",
+    "spot",
+    "bug",
+    "home",
+    "speeds",
+    "moisture",
+    "burrows",
+    "great",
+    "protection",
+    "soft",
+    "stomach",
+    "digs",
+    "fall",
+    "rain",
+    "areas",
+    "holes",
+    "instantly",
+    "desert",
+    "carries",
+    "far",
+    "prefers",
+    "catch",
+    "hide",
+    "living",
+    "sand",
+    "tough",
+    "underground",
+    "create",
+    "places",
+    "heat",
+    "skin",
+    "usually",
+    "ball",
+    "extremely",
+    "heads"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": "rough-terrain",
@@ -38,7 +145,22 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cave-dwelling",
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "emerges",
+        "locations",
+        "hunt",
+        "arid",
+        "burrows",
+        "far",
+        "underground"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +168,22 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cave-dwelling",
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "emerges",
+        "locations",
+        "hunt",
+        "arid",
+        "burrows",
+        "far",
+        "underground"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +191,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "nocturnal",
+        "icy"
+      ],
+      "keywords": [
+        "coated",
+        "dew",
+        "dry",
+        "fine",
+        "hide"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +211,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If it fell from a great height, this POKéMON could save itself by rolling into a ball and bouncing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "height",
+        "save",
+        "fell",
+        "bouncing",
+        "rolling",
+        "great",
+        "ball"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +229,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "burrowing"
+      ],
+      "keywords": [
+        "disliking",
+        "roll",
+        "arid",
+        "burrows",
+        "areas",
+        "instantly",
+        "ball"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +250,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It prefers dry, sandy places because it uses the sand to protect itself when threatened.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "sandy",
+        "threatened",
+        "dry",
+        "prefers",
+        "sand",
+        "places"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +269,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SANDSHREW’s body is configured to absorb water without waste, enabling it to survive in an arid desert. This POKéMON curls up to protect itself from its enemies.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "configured",
+        "waste",
+        "enabling",
+        "curls",
+        "survive",
+        "arid",
+        "absorb",
+        "desert"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +291,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SANDSHREW has a very dry hide that is extremely tough. The POKéMON can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "roll",
+        "dry",
+        "repels",
+        "burrows",
+        "desert",
+        "hide",
+        "sand",
+        "tough",
+        "ball",
+        "extremely"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +317,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "harmlessly",
+        "turned",
+        "solid",
+        "curls",
+        "bounce",
+        "desert",
+        "hide",
+        "living",
+        "tough",
+        "ball"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +340,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "threatened",
+        "curls",
+        "burrows",
+        "protection",
+        "underground",
+        "ball"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +360,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Burrows deep underground in arid locations far from water. It only emerges to hunt for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cave-dwelling",
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "emerges",
+        "locations",
+        "hunt",
+        "arid",
+        "burrows",
+        "far",
+        "underground"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +383,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minimal",
+        "rainfall",
+        "attackers",
+        "curls",
+        "regions",
+        "arid",
+        "ball"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +401,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minimal",
+        "rainfall",
+        "attackers",
+        "curls",
+        "regions",
+        "arid",
+        "ball"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +419,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minimal",
+        "rainfall",
+        "attackers",
+        "curls",
+        "regions",
+        "arid",
+        "ball"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +437,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "height",
+        "save",
+        "fell",
+        "bouncing",
+        "rolling",
+        "great",
+        "ball"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +455,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "burrowing"
+      ],
+      "keywords": [
+        "disliking",
+        "roll",
+        "arid",
+        "burrows",
+        "areas",
+        "instantly",
+        "ball"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +476,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minimal",
+        "rainfall",
+        "attackers",
+        "curls",
+        "regions",
+        "arid",
+        "ball"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +494,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minimal",
+        "rainfall",
+        "attackers",
+        "curls",
+        "regions",
+        "arid",
+        "ball"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +512,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "withstand",
+        "rolls",
+        "burrows",
+        "digs"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +529,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "withstand",
+        "rolls",
+        "burrows",
+        "digs"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +546,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "threatened",
+        "curls",
+        "burrows",
+        "protection",
+        "underground",
+        "ball"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +566,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "burrowing"
+      ],
+      "keywords": [
+        "disliking",
+        "roll",
+        "arid",
+        "burrows",
+        "areas",
+        "instantly",
+        "ball"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +587,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sandshrew’s body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "configured",
+        "waste",
+        "enabling",
+        "curls",
+        "survive",
+        "arid",
+        "absorb",
+        "desert"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +609,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "roll",
+        "dry",
+        "repels",
+        "burrows",
+        "desert",
+        "hide",
+        "sand",
+        "tough",
+        "ball",
+        "extremely"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +635,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It can roll its body into a ball. It moves through the desert by rolling at high speeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "roll",
+        "rolling",
+        "speeds",
+        "desert",
+        "ball"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +653,24 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It usually makes its home in deserts and arid zones, where rain does not fall. It digs holes to catch Bug-type Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "zones",
+        "deserts",
+        "type",
+        "arid",
+        "bug",
+        "home",
+        "digs",
+        "fall",
+        "rain",
+        "holes",
+        "catch",
+        "usually"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +678,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect its soft stomach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "limited",
+        "rainfall",
+        "curls",
+        "approaches",
+        "soft",
+        "stomach",
+        "areas",
+        "ball"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +697,25 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When its skin gets wrinkled from moisture, it heads for a volcano. It lies flat on a spot with a lot of geothermal heat and dries itself out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "wrinkled",
+        "geothermal",
+        "flat",
+        "lot",
+        "dries",
+        "lies",
+        "volcano",
+        "spot",
+        "moisture",
+        "heat",
+        "skin",
+        "heads"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +723,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "nocturnal",
+        "icy"
+      ],
+      "keywords": [
+        "coated",
+        "dew",
+        "dry",
+        "fine",
+        "hide"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +743,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "nocturnal",
+        "icy"
+      ],
+      "keywords": [
+        "coated",
+        "dew",
+        "dry",
+        "fine",
+        "hide"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +763,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "grit",
+        "rids",
+        "bathe",
+        "bathing",
+        "clinging",
+        "sandy",
+        "dirt",
+        "dry",
+        "moisture",
+        "areas",
+        "sand"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +787,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "burrowing"
+      ],
+      "keywords": [
+        "impede",
+        "tunneling",
+        "digging",
+        "stones",
+        "shatter",
+        "burrows",
+        "carries",
+        "create"
+      ]
     }
   ],
   "similarPokemonIds": [

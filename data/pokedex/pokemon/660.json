@@ -10,6 +10,45 @@
   ],
   "imagePath": "/assets/pokemon/660.png",
   "entryCount": 6,
+  "entryTraits": [
+    "burrowing",
+    "cave-dwelling",
+    "fur",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "exceptionally",
+    "lounges",
+    "excavator",
+    "tunnel",
+    "finished",
+    "lazily",
+    "sites",
+    "clothing",
+    "retains",
+    "digging",
+    "rubble",
+    "heft",
+    "bedrock",
+    "construction",
+    "equal",
+    "reduce",
+    "dense",
+    "ease",
+    "ton",
+    "winter",
+    "shed",
+    "dig",
+    "help",
+    "boulders",
+    "huge",
+    "ears",
+    "belly",
+    "well",
+    "heat",
+    "big",
+    "heavy"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +78,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sites",
+        "heft",
+        "construction",
+        "ease",
+        "ton",
+        "help",
+        "boulders",
+        "ears",
+        "big"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +98,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it’s finished digging, it lounges lazily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "lounges",
+        "excavator",
+        "finished",
+        "lazily",
+        "digging",
+        "rubble",
+        "bedrock",
+        "reduce",
+        "dense",
+        "ears"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +121,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sites",
+        "heft",
+        "construction",
+        "ease",
+        "ton",
+        "help",
+        "boulders",
+        "ears",
+        "big"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +141,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it’s finished digging, it lounges lazily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "lounges",
+        "excavator",
+        "finished",
+        "lazily",
+        "digging",
+        "rubble",
+        "bedrock",
+        "reduce",
+        "dense",
+        "ears"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +164,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "With power equal to an excavator, it can dig through dense bedrock. It’s a huge help during tunnel construction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "excavator",
+        "tunnel",
+        "bedrock",
+        "construction",
+        "equal",
+        "dense",
+        "dig",
+        "help",
+        "huge"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +187,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "exceptionally",
+        "clothing",
+        "retains",
+        "winter",
+        "shed",
+        "belly",
+        "well",
+        "heat",
+        "heavy"
+      ]
     }
   ],
   "similarPokemonIds": [

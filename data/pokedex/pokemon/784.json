@@ -10,6 +10,54 @@
   ],
   "imagePath": "/assets/pokemon/784.png",
   "entryCount": 6,
+  "entryTraits": [
+    "tail",
+    "hunting",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "celebrating",
+    "clatters",
+    "commodities",
+    "rigid",
+    "specializes",
+    "uppercuts",
+    "valiantly",
+    "panic",
+    "steadfast",
+    "unnerve",
+    "jingling",
+    "warriors",
+    "paintings",
+    "function",
+    "metallic",
+    "threatens",
+    "comrades",
+    "processed",
+    "wearing",
+    "crack",
+    "offense",
+    "finishing",
+    "armored",
+    "howls",
+    "display",
+    "ruins",
+    "defense",
+    "fists",
+    "heard",
+    "flee",
+    "certain",
+    "weapons",
+    "battles",
+    "sounds",
+    "past",
+    "stand",
+    "armor",
+    "weak",
+    "scales",
+    "spots",
+    "face"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +87,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "panic",
+        "jingling",
+        "threatens",
+        "crack",
+        "flee",
+        "weak",
+        "scales",
+        "spots"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +108,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "commodities",
+        "rigid",
+        "function",
+        "processed",
+        "offense",
+        "defense",
+        "weapons",
+        "past",
+        "scales"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +128,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it howls after finishing off its prey, the metallic sounds of its celebrating comrades can be heard from all around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "celebrating",
+        "metallic",
+        "comrades",
+        "finishing",
+        "howls",
+        "heard",
+        "sounds"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +149,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "specializes",
+        "uppercuts",
+        "valiantly",
+        "armored",
+        "fists",
+        "battles",
+        "scales"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +167,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "clatters",
+        "steadfast",
+        "unnerve",
+        "display",
+        "stand",
+        "scales",
+        "face"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +187,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "warriors",
+        "paintings",
+        "wearing",
+        "ruins",
+        "certain",
+        "armor",
+        "scales"
+      ]
     }
   ],
   "similarPokemonIds": [

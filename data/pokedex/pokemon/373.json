@@ -10,6 +10,88 @@
   ],
   "imagePath": "/assets/pokemon/373.png",
   "entryCount": 24,
+  "entryTraits": [
+    "wings",
+    "sky-dwelling",
+    "fiery",
+    "claws",
+    "mountain-dwelling",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "fervent",
+    "menace",
+    "overjoyed",
+    "wishing",
+    "express",
+    "gushes",
+    "triggered",
+    "destruction",
+    "wheels",
+    "generally",
+    "realizes",
+    "shredding",
+    "sprout",
+    "wishes",
+    "mutated",
+    "angers",
+    "basking",
+    "finally",
+    "desire",
+    "last",
+    "unusual",
+    "scorching",
+    "passes",
+    "uncontrollable",
+    "spouting",
+    "continue",
+    "destroys",
+    "underwent",
+    "rampages",
+    "evolving",
+    "mutation",
+    "exhausted",
+    "held",
+    "tired",
+    "burning",
+    "cellular",
+    "sudden",
+    "magnificent",
+    "thanks",
+    "changed",
+    "joy",
+    "angered",
+    "grew",
+    "completely",
+    "dream",
+    "structure",
+    "needs",
+    "flight",
+    "enraged",
+    "loses",
+    "growing",
+    "causing",
+    "grown",
+    "fields",
+    "evolve",
+    "spirits",
+    "came",
+    "able",
+    "happiness",
+    "cells",
+    "something",
+    "everything",
+    "turns",
+    "heart",
+    "place",
+    "constantly",
+    "keeps",
+    "sense",
+    "thought",
+    "usually",
+    "hot",
+    "doesn"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": "rough-terrain",
@@ -39,7 +121,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POKéMON’s cells, causing it to sprout its magnificent wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "triggered",
+        "sprout",
+        "desire",
+        "mutation",
+        "held",
+        "sudden",
+        "magnificent",
+        "dream",
+        "growing",
+        "causing",
+        "came",
+        "cells"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +146,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "By evolving into SALAMENCE, this POKéMON finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "express",
+        "wheels",
+        "realizes",
+        "finally",
+        "spouting",
+        "evolving",
+        "held",
+        "joy",
+        "dream",
+        "growing"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +171,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "underwent",
+        "rampages",
+        "mutation",
+        "cellular",
+        "sudden",
+        "angered",
+        "structure",
+        "loses",
+        "thought"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +193,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "fiery"
+      ],
+      "keywords": [
+        "shredding",
+        "uncontrollable",
+        "destroys",
+        "enraged",
+        "everything"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +212,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "fiery"
+      ],
+      "keywords": [
+        "shredding",
+        "uncontrollable",
+        "destroys",
+        "enraged",
+        "everything"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +231,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "held",
+        "cellular",
+        "changed",
+        "grew",
+        "dream",
+        "structure"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +250,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "held",
+        "cellular",
+        "changed",
+        "grew",
+        "dream",
+        "structure"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +269,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "held",
+        "cellular",
+        "changed",
+        "grew",
+        "dream",
+        "structure"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +288,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "scorching",
+        "uncontrollable",
+        "spouting",
+        "enraged",
+        "fields"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +307,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "scorching",
+        "uncontrollable",
+        "spouting",
+        "enraged",
+        "fields"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +326,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "held",
+        "cellular",
+        "changed",
+        "grew",
+        "dream",
+        "structure"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +345,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "held",
+        "cellular",
+        "changed",
+        "grew",
+        "dream",
+        "structure"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +364,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "held",
+        "cellular",
+        "changed",
+        "grew",
+        "dream",
+        "structure"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +383,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "held",
+        "cellular",
+        "changed",
+        "grew",
+        "dream",
+        "structure"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +402,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "fiery"
+      ],
+      "keywords": [
+        "shredding",
+        "uncontrollable",
+        "destroys",
+        "enraged",
+        "everything"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +421,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It’s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "scorching",
+        "uncontrollable",
+        "spouting",
+        "enraged",
+        "fields"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +440,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Salamence came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this Pokémon’s cells, causing it to sprout its magnificent wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "triggered",
+        "sprout",
+        "desire",
+        "mutation",
+        "held",
+        "sudden",
+        "magnificent",
+        "dream",
+        "growing",
+        "causing",
+        "came",
+        "cells"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +465,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "express",
+        "wheels",
+        "realizes",
+        "finally",
+        "spouting",
+        "evolving",
+        "held",
+        "joy",
+        "dream",
+        "growing"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +490,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When angered, it loses all sense of itself and destroys everything around it. The destruction will continue until Salamence has tired itself out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "destruction",
+        "continue",
+        "destroys",
+        "tired",
+        "angered",
+        "loses",
+        "everything",
+        "sense"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +509,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up the fields it passes over.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "gushes",
+        "last",
+        "passes",
+        "burning",
+        "grown",
+        "fields",
+        "happiness",
+        "hot"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +531,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Overjoyed at finally being able to fly, it flies all over the place and usually doesn’t land until it’s completely exhausted and needs to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "overjoyed",
+        "finally",
+        "exhausted",
+        "completely",
+        "needs",
+        "able",
+        "place",
+        "usually",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +553,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Thanks to its fervent wishes, the cells in its body finally mutated, and at last it has its heart’s desire—wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fervent",
+        "wishes",
+        "mutated",
+        "finally",
+        "desire",
+        "last",
+        "thanks",
+        "cells",
+        "heart"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +575,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Salamence is an unusual Pokémon in that it was able to evolve a body with wings just by constantly wishing to be able to fly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "wishing",
+        "unusual",
+        "evolve",
+        "able",
+        "constantly"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +593,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "While basking in the joy of flight generally keeps this Pokémon in high spirits, Salamence turns into an uncontrollable menace if something angers it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "menace",
+        "generally",
+        "angers",
+        "basking",
+        "uncontrollable",
+        "joy",
+        "flight",
+        "spirits",
+        "something",
+        "turns",
+        "keeps"
+      ]
     }
   ],
   "similarPokemonIds": [

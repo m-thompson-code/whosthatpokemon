@@ -10,6 +10,39 @@
   ],
   "imagePath": "/assets/pokemon/785.png",
   "entryCount": 4,
+  "entryTraits": [
+    "electric"
+  ],
+  "entryKeywords": [
+    "melemele",
+    "wielding",
+    "malevolent",
+    "summons",
+    "temper",
+    "confuses",
+    "trigger",
+    "brimming",
+    "curiosity",
+    "later",
+    "mood",
+    "follow",
+    "deity",
+    "guardian",
+    "instant",
+    "thunderclouds",
+    "bad",
+    "forgets",
+    "puts",
+    "person",
+    "eye",
+    "hair",
+    "angry",
+    "called",
+    "stores",
+    "although",
+    "lightning",
+    "quickly"
+  ],
   "color": "yellow",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +72,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "melemele",
+        "summons",
+        "brimming",
+        "curiosity",
+        "deity",
+        "guardian",
+        "thunderclouds",
+        "stores",
+        "lightning"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +94,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It confuses its enemies by flying too quickly for the eye to follow. It has a hair-trigger temper but forgets what made it angry an instant later.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "temper",
+        "confuses",
+        "trigger",
+        "later",
+        "follow",
+        "instant",
+        "forgets",
+        "eye",
+        "hair",
+        "angry",
+        "quickly"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +116,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "malevolent",
+        "mood",
+        "deity",
+        "guardian",
+        "bad",
+        "puts",
+        "person",
+        "called",
+        "although"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +136,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "melemele",
+        "wielding",
+        "brimming",
+        "curiosity",
+        "deity",
+        "guardian",
+        "lightning"
+      ]
     }
   ],
   "similarPokemonIds": [

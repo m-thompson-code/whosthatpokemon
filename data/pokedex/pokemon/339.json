@@ -10,6 +10,86 @@
   ],
   "imagePath": "/assets/pokemon/339.png",
   "entryCount": 25,
+  "entryTraits": [
+    "hunting",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "festivals",
+    "freedom",
+    "grasping",
+    "visibility",
+    "barehanded",
+    "flavors",
+    "murkiest",
+    "slides",
+    "barrier",
+    "coating",
+    "pecked",
+    "slippery",
+    "probes",
+    "entering",
+    "nerves",
+    "riverbeds",
+    "swamps",
+    "squirm",
+    "coats",
+    "slime",
+    "slips",
+    "muddy",
+    "grasp",
+    "compete",
+    "grabbed",
+    "locate",
+    "germs",
+    "taste",
+    "gooey",
+    "grabs",
+    "grip",
+    "provide",
+    "slip",
+    "detect",
+    "dries",
+    "radar",
+    "poor",
+    "film",
+    "location",
+    "murky",
+    "acts",
+    "superb",
+    "system",
+    "serve",
+    "leaving",
+    "whiskers",
+    "slimy",
+    "waters",
+    "predators",
+    "hardened",
+    "prevent",
+    "difficult",
+    "person",
+    "mud",
+    "smells",
+    "exposed",
+    "sensitive",
+    "waits",
+    "home",
+    "filled",
+    "region",
+    "protects",
+    "tongue",
+    "catch",
+    "weak",
+    "along",
+    "nose",
+    "entire",
+    "fluid",
+    "sense",
+    "hides",
+    "bird",
+    "covered",
+    "born"
+  ],
   "color": "gray",
   "shape": "fish",
   "habitat": "waters-edge",
@@ -39,7 +119,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "BARBOACH’s sensitive whiskers serve as a superb radar system. This POKéMON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "radar",
+        "superb",
+        "system",
+        "serve",
+        "leaving",
+        "whiskers",
+        "mud",
+        "exposed",
+        "sensitive",
+        "waits",
+        "along",
+        "hides"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +144,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BARBOACH’s body is covered with a slimy film. If a foe grabs it, this POKéMON just slips out of the enemy’s grip. This POKéMON grows weak if the slimy coating dries up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "coating",
+        "slips",
+        "grabs",
+        "grip",
+        "dries",
+        "film",
+        "slimy",
+        "weak",
+        "covered"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +164,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the BARBOACH’s body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "barrier",
+        "entering",
+        "muddy",
+        "germs",
+        "film",
+        "acts",
+        "slimy",
+        "prevent",
+        "covered"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +186,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "probes",
+        "riverbeds",
+        "muddy",
+        "film",
+        "whiskers",
+        "slimy",
+        "protects"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +204,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "probes",
+        "riverbeds",
+        "muddy",
+        "film",
+        "whiskers",
+        "slimy",
+        "protects"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +222,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squirm",
+        "coats",
+        "grabbed",
+        "slip",
+        "slimy",
+        "entire",
+        "fluid"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +240,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "murkiest",
+        "locate",
+        "radar",
+        "superb",
+        "whiskers"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +259,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grasp",
+        "slimy",
+        "hardened",
+        "mud",
+        "region",
+        "born"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +276,14 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "BARBOACH uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "taste",
+        "whiskers",
+        "person",
+        "tongue"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +291,14 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "BARBOACH uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "taste",
+        "whiskers",
+        "person",
+        "tongue"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +306,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grasp",
+        "slimy",
+        "hardened",
+        "mud",
+        "region",
+        "born"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +323,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grasp",
+        "slimy",
+        "hardened",
+        "mud",
+        "region",
+        "born"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +340,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grasp",
+        "slimy",
+        "hardened",
+        "mud",
+        "region",
+        "born"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +357,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grasp",
+        "slimy",
+        "hardened",
+        "mud",
+        "region",
+        "born"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +374,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squirm",
+        "coats",
+        "grabbed",
+        "slip",
+        "slimy",
+        "entire",
+        "fluid"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +392,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "murkiest",
+        "locate",
+        "radar",
+        "superb",
+        "whiskers"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +411,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Barboach’s sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "radar",
+        "superb",
+        "system",
+        "serve",
+        "leaving",
+        "whiskers",
+        "mud",
+        "exposed",
+        "sensitive",
+        "waits",
+        "along",
+        "hides"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +436,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Barboach’s body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy’s grip. This Pokémon grows weak if the slimy coating dries up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "coating",
+        "slips",
+        "grabs",
+        "grip",
+        "dries",
+        "film",
+        "slimy",
+        "weak",
+        "covered"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +456,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey’s location.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "muddy",
+        "provide",
+        "detect",
+        "radar",
+        "location",
+        "whiskers",
+        "waters",
+        "sensitive"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +477,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "festivals",
+        "barehanded",
+        "slippery",
+        "grasp",
+        "compete",
+        "catch"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +494,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its entire body is gooey. When pecked at by bird Pokémon, it slips and slides its way to freedom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "freedom",
+        "slides",
+        "pecked",
+        "slips",
+        "gooey",
+        "entire",
+        "bird"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +512,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its whiskers are filled with nerves. They can sense smells and flavors just as a person’s nose or tongue would.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flavors",
+        "nerves",
+        "whiskers",
+        "person",
+        "smells",
+        "filled",
+        "tongue",
+        "nose",
+        "sense"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +532,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grasp",
+        "slimy",
+        "hardened",
+        "mud",
+        "region",
+        "born"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +549,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "probes",
+        "riverbeds",
+        "muddy",
+        "film",
+        "whiskers",
+        "slimy",
+        "protects"
+      ]
     },
     {
       "versionId": 39,
@@ -231,7 +567,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "grasping",
+        "visibility",
+        "swamps",
+        "slime",
+        "poor",
+        "murky",
+        "predators",
+        "difficult",
+        "home",
+        "hides"
+      ]
     }
   ],
   "similarPokemonIds": [

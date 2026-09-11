@@ -10,6 +10,43 @@
   ],
   "imagePath": "/assets/pokemon/635.png",
   "entryCount": 10,
+  "entryTraits": [
+    "wings",
+    "arms",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "slew",
+    "triggering",
+    "villages",
+    "brutal",
+    "destroyed",
+    "responds",
+    "stories",
+    "headed",
+    "sinking",
+    "path",
+    "consume",
+    "devours",
+    "scary",
+    "destroy",
+    "teeth",
+    "travels",
+    "target",
+    "slow",
+    "movement",
+    "skies",
+    "bites",
+    "attacking",
+    "brains",
+    "seems",
+    "do",
+    "six",
+    "everything",
+    "turns",
+    "won",
+    "heads"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +76,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "This brutal Pokémon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "triggering",
+        "brutal",
+        "travels",
+        "skies",
+        "seems",
+        "six"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +95,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "consume",
+        "destroy",
+        "brains",
+        "do",
+        "everything",
+        "heads"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +114,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "responds",
+        "headed",
+        "path",
+        "devours",
+        "scary",
+        "movement",
+        "attacking",
+        "everything"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +133,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "responds",
+        "headed",
+        "path",
+        "devours",
+        "scary",
+        "movement",
+        "attacking",
+        "everything"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +152,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "consume",
+        "destroy",
+        "brains",
+        "do",
+        "everything",
+        "heads"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +171,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "responds",
+        "headed",
+        "path",
+        "devours",
+        "scary",
+        "movement",
+        "attacking",
+        "everything"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +190,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "consume",
+        "destroy",
+        "brains",
+        "do",
+        "everything",
+        "heads"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +209,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "responds",
+        "headed",
+        "path",
+        "devours",
+        "scary",
+        "movement",
+        "attacking",
+        "everything"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +228,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "slew",
+        "villages",
+        "destroyed",
+        "stories",
+        "bites"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +244,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The three heads take turns sinking their teeth into the opponent. Their attacks won’t slow until their target goes down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "sinking",
+        "teeth",
+        "target",
+        "slow",
+        "turns",
+        "won",
+        "heads"
+      ]
     }
   ],
   "similarPokemonIds": [

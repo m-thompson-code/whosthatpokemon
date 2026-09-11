@@ -10,6 +10,80 @@
   ],
   "imagePath": "/assets/pokemon/084.png",
   "entryCount": 26,
+  "entryTraits": [
+    "wings",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "ficult",
+    "vigilant",
+    "plain",
+    "dif",
+    "balances",
+    "inches",
+    "lowering",
+    "strides",
+    "reported",
+    "examples",
+    "headed",
+    "plains",
+    "stable",
+    "identical",
+    "possessing",
+    "telepathic",
+    "alternately",
+    "grassy",
+    "footprints",
+    "pace",
+    "study",
+    "scientific",
+    "hour",
+    "threatened",
+    "mutation",
+    "flees",
+    "poor",
+    "watch",
+    "occasions",
+    "raising",
+    "per",
+    "sudden",
+    "contain",
+    "leaving",
+    "lower",
+    "ing",
+    "races",
+    "giant",
+    "completely",
+    "sets",
+    "foot",
+    "sees",
+    "difficult",
+    "sign",
+    "60",
+    "brains",
+    "instead",
+    "sleeping",
+    "communicate",
+    "discovered",
+    "short",
+    "remains",
+    "running",
+    "rare",
+    "runs",
+    "mph",
+    "four",
+    "miles",
+    "turns",
+    "emotions",
+    "different",
+    "sleeps",
+    "fast",
+    "eating",
+    "same",
+    "bird",
+    "developed",
+    "heads"
+  ],
   "color": "brown",
   "shape": "legs",
   "habitat": "grassland",
@@ -39,7 +113,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "footprints",
+        "poor",
+        "giant",
+        "foot",
+        "fast",
+        "bird"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +130,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "footprints",
+        "poor",
+        "giant",
+        "foot",
+        "fast",
+        "bird"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +147,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its short wings make flying dif­ ficult. Instead, this POKéMON runs at high speed on developed legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "ficult",
+        "dif",
+        "instead",
+        "short",
+        "runs",
+        "developed"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +166,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "By alternately raising and lower­ ing its two heads, it balances itself to be more stable while running.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "balances",
+        "stable",
+        "alternately",
+        "raising",
+        "lower",
+        "ing",
+        "running",
+        "heads"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +185,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It races through grassy plains with powerful strides, leaving footprints up to four inches deep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inches",
+        "strides",
+        "plains",
+        "grassy",
+        "footprints",
+        "leaving",
+        "races",
+        "four"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +204,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It lives on a grassy plain where it can see a long way. If it sees an enemy, it runs away at 60 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "plain",
+        "grassy",
+        "sees",
+        "60",
+        "runs",
+        "mph"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +221,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DODUO’s two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "watch",
+        "sleeping",
+        "turns",
+        "sleeps",
+        "same",
+        "heads"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +240,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DODUO’s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this POKéMON possessing different sets of brains.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reported",
+        "examples",
+        "identical",
+        "possessing",
+        "study",
+        "scientific",
+        "occasions",
+        "contain",
+        "completely",
+        "sets",
+        "brains",
+        "rare",
+        "different",
+        "heads"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +265,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "vigilant",
+        "hour",
+        "threatened",
+        "flees",
+        "per",
+        "sign",
+        "60",
+        "sleeping",
+        "remains",
+        "miles",
+        "eating",
+        "heads"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +290,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A two-headed POKéMON that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "headed",
+        "pace",
+        "hour",
+        "mutation",
+        "per",
+        "sudden",
+        "60",
+        "discovered",
+        "runs",
+        "miles"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +311,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "footprints",
+        "poor",
+        "giant",
+        "foot",
+        "fast",
+        "bird"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +328,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "brains",
+        "communicate",
+        "emotions",
+        "heads"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +344,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "brains",
+        "communicate",
+        "emotions",
+        "heads"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +360,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "brains",
+        "communicate",
+        "emotions",
+        "heads"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +376,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "balances",
+        "lowering",
+        "stable",
+        "alternately",
+        "raising",
+        "running",
+        "heads"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +394,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It races through grassy plains with powerful strides, leaving footprints up to four inches deep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inches",
+        "strides",
+        "plains",
+        "grassy",
+        "footprints",
+        "leaving",
+        "races",
+        "four"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +413,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "brains",
+        "communicate",
+        "emotions",
+        "heads"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +429,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "brains",
+        "communicate",
+        "emotions",
+        "heads"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +445,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "brains",
+        "communicate",
+        "emotions",
+        "heads"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +461,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "brains",
+        "communicate",
+        "emotions",
+        "heads"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +477,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A two-headed Pokémon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "headed",
+        "pace",
+        "hour",
+        "mutation",
+        "per",
+        "sudden",
+        "60",
+        "discovered",
+        "runs",
+        "miles"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +498,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "brains",
+        "communicate",
+        "emotions",
+        "heads"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +514,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Doduo’s two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "watch",
+        "sleeping",
+        "turns",
+        "sleeps",
+        "same",
+        "heads"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +533,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Doduo’s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pokémon possessing different sets of brains.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reported",
+        "examples",
+        "identical",
+        "possessing",
+        "study",
+        "scientific",
+        "occasions",
+        "contain",
+        "completely",
+        "sets",
+        "brains",
+        "rare",
+        "different",
+        "heads"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +558,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "difficult",
+        "instead",
+        "short",
+        "runs",
+        "developed"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +576,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "difficult",
+        "instead",
+        "short",
+        "runs",
+        "developed"
+      ]
     }
   ],
   "similarPokemonIds": [

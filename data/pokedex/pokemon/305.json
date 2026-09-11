@@ -10,6 +10,68 @@
   ],
   "imagePath": "/assets/pokemon/305.png",
   "entryCount": 20,
+  "entryTraits": [
+    "aquatic",
+    "mountain-dwelling",
+    "territorial",
+    "sonic",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "dents",
+    "inspection",
+    "mining",
+    "tempers",
+    "collision",
+    "collide",
+    "mineral",
+    "steely",
+    "brimming",
+    "clashes",
+    "ramming",
+    "bashing",
+    "disputes",
+    "reveals",
+    "bloated",
+    "springwater",
+    "smashes",
+    "conflict",
+    "slamming",
+    "contained",
+    "meet",
+    "ore",
+    "springs",
+    "drinking",
+    "nutritious",
+    "habitually",
+    "scratches",
+    "territorial",
+    "buried",
+    "shows",
+    "wild",
+    "feeds",
+    "sparks",
+    "delicious",
+    "spring",
+    "past",
+    "armor",
+    "digs",
+    "size",
+    "came",
+    "groups",
+    "humans",
+    "carries",
+    "miles",
+    "boulders",
+    "against",
+    "another",
+    "highly",
+    "strength",
+    "iron",
+    "creates",
+    "close",
+    "rocks"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": "mountain",
@@ -39,7 +101,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POKéMON makes its nest close to springs of delicious water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "tempers",
+        "mineral",
+        "bloated",
+        "springwater",
+        "springs",
+        "drinking",
+        "nutritious",
+        "delicious",
+        "highly",
+        "close"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +124,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LAIRON feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the POKéMON often clashes with humans mining the iron ore.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "mining",
+        "clashes",
+        "contained",
+        "ore",
+        "buried",
+        "feeds",
+        "humans",
+        "iron",
+        "rocks"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +147,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When two LAIRON meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial",
+        "sonic"
+      ],
+      "keywords": [
+        "collision",
+        "bashing",
+        "meet",
+        "wild",
+        "carries",
+        "miles"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +167,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ramming",
+        "habitually",
+        "shows",
+        "sparks",
+        "size",
+        "boulders",
+        "strength",
+        "creates"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +186,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ramming",
+        "habitually",
+        "shows",
+        "sparks",
+        "size",
+        "boulders",
+        "strength",
+        "creates"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +205,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "territorial"
+      ],
+      "keywords": [
+        "steely",
+        "smashes",
+        "ore",
+        "digs",
+        "against",
+        "iron"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +225,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "territorial"
+      ],
+      "keywords": [
+        "steely",
+        "smashes",
+        "ore",
+        "digs",
+        "against",
+        "iron"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +245,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "territorial"
+      ],
+      "keywords": [
+        "steely",
+        "smashes",
+        "ore",
+        "digs",
+        "against",
+        "iron"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +265,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "bashing",
+        "ore",
+        "groups",
+        "another",
+        "iron"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +283,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "bashing",
+        "ore",
+        "groups",
+        "another",
+        "iron"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +301,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "territorial"
+      ],
+      "keywords": [
+        "steely",
+        "smashes",
+        "ore",
+        "digs",
+        "against",
+        "iron"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +321,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "territorial"
+      ],
+      "keywords": [
+        "steely",
+        "smashes",
+        "ore",
+        "digs",
+        "against",
+        "iron"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +341,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Lairon fight over territory, and when their steel bodies collide, sparks fly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "collide",
+        "sparks"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +356,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Lairon fight over territory, and when their steel bodies collide, sparks fly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "collide",
+        "sparks"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +371,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "bashing",
+        "ore",
+        "groups",
+        "another",
+        "iron"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +389,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ramming",
+        "habitually",
+        "shows",
+        "sparks",
+        "size",
+        "boulders",
+        "strength",
+        "creates"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +408,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lairon tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This Pokémon makes its nest close to springs of delicious water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "tempers",
+        "mineral",
+        "bloated",
+        "springwater",
+        "springs",
+        "drinking",
+        "nutritious",
+        "delicious",
+        "highly",
+        "close"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +431,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "mining",
+        "clashes",
+        "contained",
+        "ore",
+        "buried",
+        "feeds",
+        "humans",
+        "iron",
+        "rocks"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +454,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Lairon live in mountains brimming with spring water and iron ore, so these Pokémon often came into conflict with humans in the past.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "brimming",
+        "conflict",
+        "ore",
+        "spring",
+        "past",
+        "came",
+        "humans",
+        "iron"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +476,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "During territorial disputes, Lairon fight by slamming into each other. Close inspection of their steel armor reveals scratches and dents.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "dents",
+        "inspection",
+        "disputes",
+        "reveals",
+        "slamming",
+        "scratches",
+        "territorial",
+        "armor",
+        "close"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,90 @@
   ],
   "imagePath": "/assets/pokemon/705.png",
   "entryCount": 11,
+  "entryTraits": [
+    "horns",
+    "sonic",
+    "hunting",
+    "aquatic",
+    "shell"
+  ],
+  "entryKeywords": [
+    "caustic",
+    "gloves",
+    "nicely",
+    "reacting",
+    "sluggishly",
+    "steer",
+    "swirly",
+    "calmly",
+    "devolved",
+    "excreting",
+    "melancholy",
+    "protrusion",
+    "slurps",
+    "toothless",
+    "mucous",
+    "lump",
+    "metallic",
+    "dissolved",
+    "performance",
+    "slime",
+    "mucus",
+    "drives",
+    "suspect",
+    "coated",
+    "crawls",
+    "gooey",
+    "escaping",
+    "drawing",
+    "hisui",
+    "given",
+    "organs",
+    "radar",
+    "system",
+    "dissolve",
+    "thinks",
+    "rather",
+    "creature",
+    "put",
+    "going",
+    "i",
+    "clear",
+    "line",
+    "melt",
+    "isn",
+    "sprays",
+    "trouble",
+    "predators",
+    "sticky",
+    "liquid",
+    "smells",
+    "sure",
+    "tiny",
+    "contains",
+    "sounds",
+    "filled",
+    "between",
+    "friends",
+    "try",
+    "re",
+    "touch",
+    "four",
+    "brain",
+    "along",
+    "nose",
+    "iron",
+    "entire",
+    "sense",
+    "ears",
+    "well",
+    "skin",
+    "although",
+    "horns",
+    "developed",
+    "covered",
+    "eat"
+  ],
   "color": "purple",
   "shape": "squiggle",
   "habitat": null,
@@ -38,7 +122,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "devolved",
+        "excreting",
+        "drives",
+        "dissolve",
+        "sticky",
+        "liquid"
+      ]
     },
     {
       "versionId": 24,
@@ -46,7 +139,24 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "sonic"
+      ],
+      "keywords": [
+        "performance",
+        "radar",
+        "system",
+        "rather",
+        "smells",
+        "sounds",
+        "four",
+        "nose",
+        "sense",
+        "ears",
+        "horns"
+      ]
     },
     {
       "versionId": 25,
@@ -54,7 +164,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "devolved",
+        "excreting",
+        "drives",
+        "dissolve",
+        "sticky",
+        "liquid"
+      ]
     },
     {
       "versionId": 26,
@@ -62,7 +181,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "sonic"
+      ],
+      "keywords": [
+        "performance",
+        "radar",
+        "system",
+        "rather",
+        "smells",
+        "sounds",
+        "four",
+        "nose",
+        "sense",
+        "ears",
+        "horns"
+      ]
     },
     {
       "versionId": 27,
@@ -70,7 +206,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "calmly",
+        "drawing",
+        "line",
+        "melt",
+        "trouble",
+        "between",
+        "friends",
+        "try",
+        "along",
+        "well",
+        "eat"
+      ]
     },
     {
       "versionId": 28,
@@ -78,7 +228,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon’s mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they’re nicely dissolved, it slurps them up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "nicely",
+        "slurps",
+        "toothless",
+        "mucous",
+        "dissolved",
+        "dissolve",
+        "sprays",
+        "re"
+      ]
     },
     {
       "versionId": 29,
@@ -86,7 +249,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sluggishly",
+        "swirly",
+        "protrusion",
+        "crawls",
+        "organs",
+        "filled",
+        "brain",
+        "along"
+      ]
     },
     {
       "versionId": 30,
@@ -94,7 +268,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you’re going to touch it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gloves",
+        "mucus",
+        "gooey",
+        "dissolve",
+        "put",
+        "going",
+        "sure",
+        "re",
+        "touch",
+        "entire",
+        "covered"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +290,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Although this Pokémon isn’t very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "caustic",
+        "steer",
+        "slime",
+        "coated",
+        "clear",
+        "melt",
+        "isn",
+        "predators",
+        "although"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +310,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lump",
+        "escaping",
+        "thinks",
+        "tiny",
+        "contains",
+        "brain"
+      ]
     },
     {
       "versionId": 39,
@@ -118,7 +327,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui's water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "reacting",
+        "melancholy",
+        "metallic",
+        "mucus",
+        "suspect",
+        "hisui",
+        "given",
+        "creature",
+        "i",
+        "iron",
+        "skin",
+        "developed"
+      ]
     }
   ],
   "similarPokemonIds": [

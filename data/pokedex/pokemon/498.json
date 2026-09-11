@@ -9,6 +9,31 @@
   ],
   "imagePath": "/assets/pokemon/498.png",
   "entryCount": 8,
+  "entryTraits": [
+    "cold-climate",
+    "fiery",
+    "icy"
+  ],
+  "entryKeywords": [
+    "roasted",
+    "crisp",
+    "roasts",
+    "dodge",
+    "smoke",
+    "pitch",
+    "deftly",
+    "excited",
+    "fireballs",
+    "blows",
+    "catches",
+    "shooting",
+    "instead",
+    "black",
+    "burns",
+    "berries",
+    "nose",
+    "eat"
+  ],
   "color": "red",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +63,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roasts",
+        "dodge",
+        "deftly",
+        "fireballs",
+        "shooting",
+        "berries",
+        "nose"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +81,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "smoke",
+        "pitch",
+        "blows",
+        "catches",
+        "instead",
+        "black",
+        "nose"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +103,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roasted",
+        "crisp",
+        "excited",
+        "burns",
+        "berries",
+        "eat"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +120,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roasted",
+        "crisp",
+        "excited",
+        "burns",
+        "berries",
+        "eat"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +137,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roasts",
+        "dodge",
+        "deftly",
+        "fireballs",
+        "shooting",
+        "berries",
+        "nose"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +155,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roasted",
+        "crisp",
+        "excited",
+        "burns",
+        "berries",
+        "eat"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +172,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roasts",
+        "dodge",
+        "deftly",
+        "fireballs",
+        "shooting",
+        "berries",
+        "nose"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +190,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roasted",
+        "crisp",
+        "excited",
+        "burns",
+        "berries",
+        "eat"
+      ]
     }
   ],
   "similarPokemonIds": [

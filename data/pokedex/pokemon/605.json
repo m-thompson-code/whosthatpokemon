@@ -9,6 +9,51 @@
   ],
   "imagePath": "/assets/pokemon/605.png",
   "entryCount": 12,
+  "entryTraits": [
+    "psychic",
+    "desert-dwelling",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "screen",
+    "unendurable",
+    "exert",
+    "reports",
+    "squeeze",
+    "mistaking",
+    "origin",
+    "shrouded",
+    "tv",
+    "scenery",
+    "ufo",
+    "crash",
+    "sightings",
+    "site",
+    "tremendous",
+    "rumors",
+    "50",
+    "linked",
+    "alien",
+    "appeared",
+    "mystery",
+    "fell",
+    "headaches",
+    "stands",
+    "strange",
+    "enables",
+    "causing",
+    "home",
+    "discovered",
+    "had",
+    "controls",
+    "desert",
+    "actually",
+    "near",
+    "far",
+    "brain",
+    "highly",
+    "developed"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +83,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It uses its strong psychic power to squeeze its opponent’s brain, causing unendurable headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "unendurable",
+        "squeeze",
+        "headaches",
+        "causing",
+        "brain"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +101,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "This Pokémon had never been seen until it appeared from far in the desert 50 years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "50",
+        "appeared",
+        "had",
+        "desert",
+        "far"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +119,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "origin",
+        "ufo",
+        "crash",
+        "site",
+        "rumors",
+        "50",
+        "linked",
+        "desert"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +140,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "origin",
+        "ufo",
+        "crash",
+        "site",
+        "rumors",
+        "50",
+        "linked",
+        "desert"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +161,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It uses its strong psychic power to squeeze its opponent’s brain, causing unendurable headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "unendurable",
+        "squeeze",
+        "headaches",
+        "causing",
+        "brain"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +179,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "origin",
+        "ufo",
+        "crash",
+        "site",
+        "rumors",
+        "50",
+        "linked",
+        "desert"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +200,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It uses its strong psychic power to squeeze its opponent’s brain, causing unendurable headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "unendurable",
+        "squeeze",
+        "headaches",
+        "causing",
+        "brain"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +218,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "origin",
+        "ufo",
+        "crash",
+        "site",
+        "rumors",
+        "50",
+        "linked",
+        "desert"
+      ]
     },
     {
       "versionId": 29,
@@ -102,7 +239,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "reports",
+        "mistaking",
+        "sightings",
+        "tremendous",
+        "alien",
+        "controls",
+        "actually"
+      ]
     },
     {
       "versionId": 30,
@@ -110,7 +259,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon is shrouded in mystery. It’s said to have appeared from a UFO that fell from the sky about 50 years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "shrouded",
+        "ufo",
+        "50",
+        "appeared",
+        "mystery",
+        "fell"
+      ]
     },
     {
       "versionId": 33,
@@ -118,7 +278,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "screen",
+        "tv",
+        "scenery",
+        "stands",
+        "strange",
+        "home",
+        "near"
+      ]
     },
     {
       "versionId": 34,
@@ -126,7 +296,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "exert",
+        "50",
+        "enables",
+        "discovered",
+        "brain",
+        "highly",
+        "developed"
+      ]
     }
   ],
   "similarPokemonIds": [

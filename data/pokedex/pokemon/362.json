@@ -9,6 +9,82 @@
   ],
   "imagePath": "/assets/pokemon/362.png",
   "entryCount": 25,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "sky-dwelling",
+    "fiery",
+    "hunting",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "desserts",
+    "distress",
+    "drapes",
+    "mountaineer",
+    "diamondlike",
+    "vanillite",
+    "gobbles",
+    "immobilizing",
+    "clads",
+    "example",
+    "leisurely",
+    "regrets",
+    "desires",
+    "exhales",
+    "stranded",
+    "absorbed",
+    "actual",
+    "instantaneously",
+    "says",
+    "dazzling",
+    "chews",
+    "already",
+    "prevents",
+    "enjoys",
+    "escaping",
+    "particularly",
+    "devours",
+    "cloud",
+    "fashion",
+    "stiff",
+    "clad",
+    "freezes",
+    "giving",
+    "rise",
+    "icy",
+    "boulder",
+    "solid",
+    "crystals",
+    "state",
+    "melt",
+    "frozen",
+    "isn",
+    "covers",
+    "hardens",
+    "legend",
+    "freeze",
+    "shape",
+    "freezing",
+    "atmosphere",
+    "forms",
+    "harder",
+    "moisture",
+    "armor",
+    "breath",
+    "absorbs",
+    "re",
+    "instantly",
+    "prefers",
+    "huge",
+    "freely",
+    "mountain",
+    "eating",
+    "rock",
+    "won",
+    "whole",
+    "eat"
+  ],
   "color": "gray",
   "shape": "ball",
   "habitat": "cave",
@@ -39,7 +115,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "desires",
+        "hardens",
+        "freeze",
+        "shape",
+        "atmosphere",
+        "moisture",
+        "armor",
+        "rock"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +137,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GLALIE has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this POKéMON enjoys eating it in leisurely fashion.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "immobilizing",
+        "example",
+        "leisurely",
+        "enjoys",
+        "fashion",
+        "solid",
+        "freeze",
+        "instantly",
+        "freely",
+        "eating"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +161,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A GLALIE has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "diamondlike",
+        "instantaneously",
+        "dazzling",
+        "cloud",
+        "crystals",
+        "freeze",
+        "atmosphere",
+        "forms",
+        "moisture"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +185,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has a body of ice that won’t melt, even with fire. It can instantly freeze moisture in the atmosphere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "melt",
+        "freeze",
+        "atmosphere",
+        "moisture",
+        "instantly",
+        "won"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +206,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has a body of ice that won’t melt, even with fire. It can instantly freeze moisture in the atmosphere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "melt",
+        "freeze",
+        "atmosphere",
+        "moisture",
+        "instantly",
+        "won"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +227,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "clads",
+        "freezing",
+        "moisture",
+        "armor"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +246,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "clads",
+        "freezing",
+        "moisture",
+        "armor"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +265,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "instantaneously",
+        "prevents",
+        "escaping",
+        "freezing",
+        "moisture"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +284,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "icy"
+      ],
+      "keywords": [
+        "freeze",
+        "atmosphere",
+        "moisture",
+        "instantly"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +301,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "icy"
+      ],
+      "keywords": [
+        "freeze",
+        "atmosphere",
+        "moisture",
+        "instantly"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +318,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "instantaneously",
+        "prevents",
+        "escaping",
+        "freezing",
+        "moisture"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +337,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "instantaneously",
+        "prevents",
+        "escaping",
+        "freezing",
+        "moisture"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +356,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "instantaneously",
+        "prevents",
+        "escaping",
+        "freezing",
+        "moisture"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +375,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "instantaneously",
+        "prevents",
+        "escaping",
+        "freezing",
+        "moisture"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +394,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "To protect itself, it clad its body in an armor of ice, made by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "clad",
+        "freezing",
+        "moisture",
+        "armor"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +413,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "icy"
+      ],
+      "keywords": [
+        "freeze",
+        "atmosphere",
+        "moisture",
+        "instantly"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +430,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "desires",
+        "hardens",
+        "freeze",
+        "shape",
+        "atmosphere",
+        "moisture",
+        "armor",
+        "rock"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +452,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "immobilizing",
+        "example",
+        "leisurely",
+        "enjoys",
+        "fashion",
+        "solid",
+        "freeze",
+        "instantly",
+        "freely",
+        "eating"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +477,26 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Legend says a boulder on an icy mountain absorbed the distress and regrets of a stranded mountaineer, giving rise to Glalie.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "distress",
+        "mountaineer",
+        "regrets",
+        "stranded",
+        "absorbed",
+        "says",
+        "giving",
+        "rise",
+        "icy",
+        "boulder",
+        "legend",
+        "mountain"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +504,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its prey is instantaneously frozen stiff by the cold air it exhales from its huge mouth. While they’re in that frozen state, it gobbles them up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "gobbles",
+        "exhales",
+        "instantaneously",
+        "stiff",
+        "state",
+        "frozen",
+        "re",
+        "huge"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +528,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It freezes its prey and chews them whole. However, it prefers to eat Pokémon like Vanillite that are already frozen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "vanillite",
+        "chews",
+        "already",
+        "freezes",
+        "frozen",
+        "prefers",
+        "whole",
+        "eat"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +551,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its actual body is a rock that isn’t particularly hard. Glalie absorbs moisture from the air and drapes itself in an armor of ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "drapes",
+        "actual",
+        "particularly",
+        "isn",
+        "moisture",
+        "armor",
+        "absorbs",
+        "rock"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +574,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has a body of ice that won’t melt, even with fire. It can instantly freeze moisture in the atmosphere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "melt",
+        "freeze",
+        "atmosphere",
+        "moisture",
+        "instantly",
+        "won"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +595,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "icy"
+      ],
+      "keywords": [
+        "freeze",
+        "atmosphere",
+        "moisture",
+        "instantly"
+      ]
     },
     {
       "versionId": 39,
@@ -231,7 +612,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "desserts",
+        "devours",
+        "frozen",
+        "covers",
+        "freeze",
+        "harder",
+        "armor",
+        "breath"
+      ]
     }
   ],
   "similarPokemonIds": [

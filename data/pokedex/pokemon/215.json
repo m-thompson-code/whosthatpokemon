@@ -10,6 +10,110 @@
   ],
   "imagePath": "/assets/pokemon/215.png",
   "entryCount": 28,
+  "entryTraits": [
+    "claws",
+    "hunting",
+    "forest-dwelling",
+    "nocturnal",
+    "mountain-dwelling",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "breeders",
+    "denly",
+    "eradicate",
+    "scourge",
+    "sud",
+    "infiltrates",
+    "precipitous",
+    "slurp",
+    "traversing",
+    "drips",
+    "scavenges",
+    "ambush",
+    "feasts",
+    "unguarded",
+    "sneaky",
+    "cooperate",
+    "flinch",
+    "nerves",
+    "showing",
+    "consider",
+    "punching",
+    "sandshrew",
+    "conceal",
+    "stolen",
+    "blends",
+    "cunning",
+    "leftovers",
+    "drives",
+    "grasp",
+    "curved",
+    "hooked",
+    "pidgey",
+    "insides",
+    "rip",
+    "vulnerable",
+    "startles",
+    "venom",
+    "ideal",
+    "incapable",
+    "parents",
+    "pair",
+    "caught",
+    "lure",
+    "drive",
+    "sneaks",
+    "paws",
+    "sharply",
+    "waiting",
+    "cover",
+    "savage",
+    "smart",
+    "steals",
+    "bark",
+    "determine",
+    "cliffs",
+    "extends",
+    "disposition",
+    "seeks",
+    "snap",
+    "yet",
+    "leave",
+    "vicious",
+    "having",
+    "suddenly",
+    "tips",
+    "work",
+    "attacking",
+    "feeds",
+    "nests",
+    "steal",
+    "hidden",
+    "left",
+    "waits",
+    "poke",
+    "break",
+    "find",
+    "fights",
+    "holes",
+    "behind",
+    "scales",
+    "eggs",
+    "spots",
+    "stop",
+    "sturdy",
+    "dark",
+    "attacked",
+    "darkness",
+    "hides",
+    "moving",
+    "nature",
+    "skin",
+    "bird",
+    "eat",
+    "extremely"
+  ],
   "color": "black",
   "shape": "upright",
   "habitat": "forest",
@@ -39,7 +143,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its paws conceal sharp claws. If attacked, it sud­ denly extends the claws and startles its enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "denly",
+        "sud",
+        "conceal",
+        "startles",
+        "paws",
+        "extends",
+        "attacked"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +163,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Vicious in nature, it drives PIDGEY from their nests and feasts on the eggs that are left behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "feasts",
+        "drives",
+        "pidgey",
+        "vicious",
+        "nests",
+        "left",
+        "behind",
+        "eggs",
+        "nature"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +183,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This cunning POKéMON hides under the cover of darkness, waiting to attack its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "cunning",
+        "waiting",
+        "cover",
+        "darkness",
+        "hides"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +201,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "unguarded",
+        "punching",
+        "hooked",
+        "parents",
+        "steals",
+        "bark",
+        "seeks",
+        "nests",
+        "scales",
+        "eggs"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +225,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "unguarded",
+        "punching",
+        "hooked",
+        "parents",
+        "steals",
+        "bark",
+        "seeks",
+        "nests",
+        "scales",
+        "eggs"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +249,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A SNEASEL scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "unguarded",
+        "punching",
+        "hooked",
+        "parents",
+        "steals",
+        "bark",
+        "seeks",
+        "nests",
+        "scales",
+        "eggs"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +273,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Vicious in nature, it drives PIDGEY from their nests and feasts on the eggs that are left behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "feasts",
+        "drives",
+        "pidgey",
+        "vicious",
+        "nests",
+        "left",
+        "behind",
+        "eggs",
+        "nature"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +293,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "conceal",
+        "startles",
+        "paws",
+        "extends",
+        "suddenly",
+        "attacked"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +312,22 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "stolen",
+        "hooked",
+        "rip",
+        "vulnerable",
+        "sharply",
+        "feeds",
+        "nests",
+        "eggs",
+        "spots"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +335,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is extremely vicious and will not stop attacking until its foe is incapable of moving.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "incapable",
+        "vicious",
+        "attacking",
+        "stop",
+        "moving",
+        "extremely"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +352,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sneaky",
+        "parents",
+        "pair",
+        "lure",
+        "smart",
+        "having",
+        "work",
+        "steal",
+        "eggs"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +372,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "conceal",
+        "startles",
+        "paws",
+        "extends",
+        "suddenly",
+        "attacked"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +391,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Vicious in nature, it drives PIDGEY from their nests and scavenges any leftovers it can find.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scavenges",
+        "leftovers",
+        "drives",
+        "pidgey",
+        "vicious",
+        "nests",
+        "find",
+        "nature"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +410,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sneaky",
+        "parents",
+        "pair",
+        "lure",
+        "smart",
+        "having",
+        "work",
+        "steal",
+        "eggs"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +430,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sneaky",
+        "parents",
+        "pair",
+        "lure",
+        "smart",
+        "having",
+        "work",
+        "steal",
+        "eggs"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +450,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "sneaky",
+        "flinch",
+        "showing",
+        "paws",
+        "smart",
+        "suddenly",
+        "hidden"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +470,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "sneaky",
+        "flinch",
+        "showing",
+        "paws",
+        "smart",
+        "suddenly",
+        "hidden"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +490,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "stolen",
+        "hooked",
+        "rip",
+        "vulnerable",
+        "sharply",
+        "feeds",
+        "nests",
+        "eggs",
+        "spots"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +513,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "conceal",
+        "startles",
+        "paws",
+        "extends",
+        "suddenly",
+        "attacked"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +532,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "unguarded",
+        "punching",
+        "hooked",
+        "parents",
+        "steals",
+        "bark",
+        "seeks",
+        "nests",
+        "scales",
+        "eggs"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +556,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "unguarded",
+        "punching",
+        "hooked",
+        "parents",
+        "steals",
+        "bark",
+        "seeks",
+        "nests",
+        "scales",
+        "eggs"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +580,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cunning",
+        "parents",
+        "sneaks",
+        "savage",
+        "disposition",
+        "yet",
+        "leave",
+        "nests",
+        "steal",
+        "waits",
+        "eggs"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +602,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It uses its claws to poke holes in eggs so it can slurp out the insides. Breeders consider it a scourge and will drive it away or eradicate it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "breeders",
+        "eradicate",
+        "scourge",
+        "slurp",
+        "consider",
+        "insides",
+        "drive",
+        "poke",
+        "holes",
+        "eggs"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +625,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They will cooperate to steal eggs from the nests of bird Pokémon, but fights break out to determine which one gets to eat the eggs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cooperate",
+        "determine",
+        "nests",
+        "steal",
+        "break",
+        "fights",
+        "eggs",
+        "bird",
+        "eat"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +645,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It blends into the dark of night to ambush its prey. Sneasel will attack Sandshrew, but its hard skin can cause Sneasel’s claws to snap off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "ambush",
+        "sandshrew",
+        "blends",
+        "snap",
+        "dark",
+        "skin"
+      ]
     },
     {
       "versionId": 33,
@@ -239,7 +666,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "conceal",
+        "startles",
+        "paws",
+        "extends",
+        "suddenly",
+        "attacked"
+      ]
     },
     {
       "versionId": 34,
@@ -247,7 +685,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cunning",
+        "parents",
+        "sneaks",
+        "savage",
+        "disposition",
+        "yet",
+        "leave",
+        "nests",
+        "steal",
+        "waits",
+        "eggs"
+      ]
     },
     {
       "versionId": 39,
@@ -255,7 +707,28 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "claws",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "infiltrates",
+        "precipitous",
+        "traversing",
+        "drips",
+        "nerves",
+        "grasp",
+        "curved",
+        "venom",
+        "ideal",
+        "caught",
+        "cliffs",
+        "tips",
+        "sturdy"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/851.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fangs"
+  ],
+  "entryKeywords": [
+    "excessively",
+    "lashes",
+    "heats",
+    "hostile",
+    "already",
+    "500",
+    "reaches",
+    "whip",
+    "burning",
+    "dangerous",
+    "launches",
+    "1",
+    "fahrenheit",
+    "temperature"
+  ],
   "color": "red",
   "shape": "tentacles",
   "habitat": null,
@@ -39,7 +58,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lashes",
+        "heats",
+        "500",
+        "reaches",
+        "whip",
+        "launches",
+        "1",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +78,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "excessively",
+        "hostile",
+        "already",
+        "burning",
+        "dangerous"
+      ]
     }
   ],
   "similarPokemonIds": [

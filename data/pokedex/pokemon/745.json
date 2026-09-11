@@ -9,6 +9,53 @@
   ],
   "imagePath": "/assets/pokemon/745.png",
   "entryCount": 6,
+  "entryTraits": [
+    "claws",
+    "fangs",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "equipped",
+    "jutting",
+    "knife",
+    "betray",
+    "fragments",
+    "aimed",
+    "charms",
+    "knives",
+    "razor",
+    "confuse",
+    "trustworthy",
+    "backs",
+    "treasured",
+    "sharper",
+    "absolutely",
+    "corner",
+    "partner",
+    "luck",
+    "properly",
+    "swift",
+    "finishing",
+    "raised",
+    "gradually",
+    "toward",
+    "cautious",
+    "weapons",
+    "cut",
+    "wears",
+    "age",
+    "calm",
+    "mane",
+    "quick",
+    "break",
+    "young",
+    "weak",
+    "spots",
+    "movements",
+    "good",
+    "well",
+    "rocks"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +85,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "fangs"
+      ],
+      "keywords": [
+        "equipped",
+        "confuse",
+        "weapons",
+        "mane",
+        "quick",
+        "movements",
+        "well",
+        "rocks"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +107,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When properly raised from a young age, it will become a trustworthy partner that will absolutely never betray its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "betray",
+        "trustworthy",
+        "absolutely",
+        "partner",
+        "properly",
+        "raised",
+        "age",
+        "young"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +126,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The sharp rocks in its mane can cut like knives. Lycanroc wears its prey down by degrees before finishing them off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "knives",
+        "finishing",
+        "cut",
+        "wears",
+        "mane",
+        "rocks"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +145,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "knife",
+        "fragments",
+        "charms",
+        "treasured",
+        "sharper",
+        "luck",
+        "mane",
+        "break",
+        "good",
+        "rocks"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +166,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "jutting",
+        "razor",
+        "cautious",
+        "calm",
+        "mane",
+        "rocks"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +183,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "aimed",
+        "backs",
+        "corner",
+        "swift",
+        "gradually",
+        "toward",
+        "weak",
+        "spots",
+        "movements"
+      ]
     }
   ],
   "similarPokemonIds": [

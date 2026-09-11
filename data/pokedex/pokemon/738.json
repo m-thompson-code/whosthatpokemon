@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/738.png",
   "entryCount": 6,
+  "entryTraits": [
+    "electric",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "flusters",
+    "zips",
+    "acrobatic",
+    "battery",
+    "charjabug",
+    "concentrated",
+    "focuses",
+    "spare",
+    "maneuvers",
+    "powered",
+    "concentrates",
+    "jolts",
+    "overwhelms",
+    "zap",
+    "abdomen",
+    "beam",
+    "lookout",
+    "via",
+    "deliver",
+    "shocking",
+    "rapidly",
+    "produces",
+    "organ",
+    "opening",
+    "beams",
+    "electrical",
+    "generates",
+    "builds",
+    "fires",
+    "jaws",
+    "carries",
+    "within",
+    "electric",
+    "creates",
+    "bird"
+  ],
   "color": "blue",
   "shape": "armor",
   "habitat": null,
@@ -39,7 +80,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zips",
+        "concentrates",
+        "zap",
+        "lookout",
+        "opening",
+        "electrical",
+        "jaws",
+        "within"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +99,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overwhelms",
+        "abdomen",
+        "via",
+        "shocking",
+        "produces",
+        "organ",
+        "beams",
+        "electrical",
+        "bird"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +121,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "concentrates",
+        "jolts",
+        "abdomen",
+        "organ",
+        "generates",
+        "fires",
+        "jaws"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +141,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "flusters",
+        "acrobatic",
+        "maneuvers",
+        "beam",
+        "deliver",
+        "opening",
+        "electric",
+        "creates"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +162,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "concentrated",
+        "focuses",
+        "abdomen",
+        "beams",
+        "builds",
+        "fires",
+        "jaws"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +182,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric",
+        "fiery"
+      ],
+      "keywords": [
+        "battery",
+        "charjabug",
+        "spare",
+        "powered",
+        "rapidly",
+        "beams",
+        "carries"
+      ]
     }
   ],
   "similarPokemonIds": [

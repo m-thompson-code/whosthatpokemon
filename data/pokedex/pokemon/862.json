@@ -10,6 +10,26 @@
   ],
   "imagePath": "/assets/pokemon/862.png",
   "entryCount": 2,
+  "entryTraits": [
+    "arms"
+  ],
+  "entryKeywords": [
+    "experiencing",
+    "obstruct",
+    "staggering",
+    "posture",
+    "shout",
+    "threatening",
+    "flinch",
+    "numerous",
+    "tendency",
+    "crossing",
+    "volume",
+    "voice",
+    "evolved",
+    "fights",
+    "lets"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +59,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "obstruct",
+        "staggering",
+        "posture",
+        "shout",
+        "threatening",
+        "tendency",
+        "volume",
+        "voice"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +78,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "experiencing",
+        "shout",
+        "flinch",
+        "numerous",
+        "crossing",
+        "evolved",
+        "fights",
+        "lets"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,59 @@
   ],
   "imagePath": "/assets/pokemon/008.png",
   "entryCount": 28,
+  "entryTraits": [
+    "aquatic",
+    "hunting",
+    "tail",
+    "shell",
+    "fur"
+  ],
+  "entryKeywords": [
+    "deepens",
+    "established",
+    "trols",
+    "algae",
+    "battler",
+    "tapped",
+    "deeper",
+    "recognized",
+    "toughness",
+    "con",
+    "furry",
+    "pet",
+    "longevity",
+    "ages",
+    "evidence",
+    "pull",
+    "increasingly",
+    "scratches",
+    "stalk",
+    "symbol",
+    "bit",
+    "maintain",
+    "older",
+    "unwary",
+    "rich",
+    "stick",
+    "cleverly",
+    "balance",
+    "quite",
+    "age",
+    "color",
+    "old",
+    "controls",
+    "popular",
+    "little",
+    "among",
+    "10",
+    "fast",
+    "still",
+    "ears",
+    "hides",
+    "well",
+    "swimming",
+    "covered"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -39,7 +92,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "stalk",
+        "maintain",
+        "unwary",
+        "balance",
+        "fast",
+        "ears",
+        "hides",
+        "swimming"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +114,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "stalk",
+        "maintain",
+        "unwary",
+        "balance",
+        "fast",
+        "ears",
+        "hides",
+        "swimming"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +136,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "When tapped, this POKéMON will pull in its head, but its tail will still stick out a little bit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "tapped",
+        "pull",
+        "bit",
+        "stick",
+        "little",
+        "still"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +155,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is recognized as a symbol of longevity. If its shell has algae on it, that WARTORTLE is very old.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "algae",
+        "recognized",
+        "longevity",
+        "symbol",
+        "old"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +173,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It cleverly con­ trols its furry ears and tail to maintain its balance while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "trols",
+        "con",
+        "furry",
+        "maintain",
+        "cleverly",
+        "balance",
+        "ears",
+        "swimming"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +196,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its long, furry tail is a symbol of longevity, making it quite popular among older people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "older",
+        "quite",
+        "popular",
+        "among"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +217,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as WARTORTLE ages. The scratches on its shell are evidence of this POKéMON’s toughness as a battler.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "shell",
+        "tail"
+      ],
+      "keywords": [
+        "battler",
+        "deeper",
+        "toughness",
+        "ages",
+        "evidence",
+        "increasingly",
+        "scratches",
+        "rich",
+        "color",
+        "covered"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +242,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as WARTORTLE ages. The scratches on its shell are evidence of this POKéMON’s toughness as a battler.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "shell",
+        "tail"
+      ],
+      "keywords": [
+        "battler",
+        "deeper",
+        "toughness",
+        "ages",
+        "evidence",
+        "increasingly",
+        "scratches",
+        "rich",
+        "color",
+        "covered"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +267,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this POKéMON’s toughness in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "shell",
+        "tail"
+      ],
+      "keywords": [
+        "deepens",
+        "toughness",
+        "evidence",
+        "scratches",
+        "rich",
+        "age",
+        "color",
+        "covered"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +290,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON is very popular as a pet. Its fur-covered tail is a symbol of its longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "pet",
+        "longevity",
+        "symbol",
+        "popular",
+        "covered"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +309,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It often hides in water to stalk unwary prey. For fast swimming, it moves its ears to maintain balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "stalk",
+        "maintain",
+        "unwary",
+        "balance",
+        "fast",
+        "ears",
+        "hides",
+        "swimming"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +331,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "popular",
+        "10"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +350,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "popular",
+        "10"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +369,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "popular",
+        "10"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +388,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is a well-established symbol of longevity. If its shell has algae on it, that WARTORTLE is very old.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "established",
+        "algae",
+        "longevity",
+        "symbol",
+        "old",
+        "well"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +407,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "maintain",
+        "cleverly",
+        "balance",
+        "controls",
+        "ears",
+        "swimming"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +429,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "popular",
+        "10"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +448,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "popular",
+        "10"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +467,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "popular",
+        "10"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +486,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "popular",
+        "10"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +505,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "tapped",
+        "pull",
+        "bit",
+        "stick",
+        "little",
+        "still"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +524,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "longevity",
+        "symbol",
+        "popular",
+        "10"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +543,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon’s toughness as a battler.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "shell",
+        "tail"
+      ],
+      "keywords": [
+        "battler",
+        "deeper",
+        "toughness",
+        "ages",
+        "evidence",
+        "increasingly",
+        "scratches",
+        "rich",
+        "color",
+        "covered"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +568,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon’s toughness as a battler.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "shell",
+        "tail"
+      ],
+      "keywords": [
+        "battler",
+        "deeper",
+        "toughness",
+        "ages",
+        "evidence",
+        "increasingly",
+        "scratches",
+        "rich",
+        "color",
+        "covered"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +593,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When tapped on its head, this Pokémon will pull it in, but its tail will still stick out a little bit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "tapped",
+        "pull",
+        "bit",
+        "stick",
+        "little",
+        "still"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +612,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When tapped on its head, this Pokémon will pull it in, but its tail will still stick out a little bit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "tapped",
+        "pull",
+        "bit",
+        "stick",
+        "little",
+        "still"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +631,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "algae",
+        "recognized",
+        "longevity",
+        "symbol",
+        "old"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +649,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "furry",
+        "maintain",
+        "cleverly",
+        "balance",
+        "controls",
+        "ears",
+        "swimming"
+      ]
     }
   ],
   "similarPokemonIds": [

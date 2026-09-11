@@ -9,6 +9,57 @@
   ],
   "imagePath": "/assets/pokemon/726.png",
   "entryCount": 6,
+  "entryTraits": [
+    "fiery",
+    "claws",
+    "fur"
+  ],
+  "entryKeywords": [
+    "bar",
+    "spoiled",
+    "midst",
+    "bears",
+    "bell",
+    "bend",
+    "boasts",
+    "flat",
+    "blazes",
+    "lie",
+    "pumped",
+    "usual",
+    "hotter",
+    "throat",
+    "scratches",
+    "produces",
+    "standing",
+    "facing",
+    "rings",
+    "brightly",
+    "act",
+    "isn",
+    "pouch",
+    "whenever",
+    "feeling",
+    "punch",
+    "spits",
+    "leave",
+    "mane",
+    "front",
+    "single",
+    "right",
+    "tell",
+    "fighting",
+    "end",
+    "neck",
+    "stronger",
+    "spirit",
+    "iron",
+    "good",
+    "well",
+    "whole",
+    "close",
+    "covered"
+  ],
   "color": "red",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +89,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "bears",
+        "bell",
+        "throat",
+        "rings",
+        "brightly",
+        "whenever",
+        "spits"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +109,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It boasts powerful front legs. With a single punch, it can bend an iron bar right over.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bar",
+        "bend",
+        "boasts",
+        "punch",
+        "front",
+        "single",
+        "right",
+        "iron"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +128,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer’s whole body covered in scratches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "spoiled",
+        "scratches",
+        "act",
+        "leave",
+        "whole",
+        "close",
+        "covered"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +148,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When its mane is standing on end, you can tell it’s feeling good. When it isn’t feeling well, its fur will lie down flat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "flat",
+        "lie",
+        "standing",
+        "isn",
+        "feeling",
+        "mane",
+        "tell",
+        "end",
+        "good",
+        "well"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +171,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "In the midst of battle, the fire pouch on Torracat’s neck rings like a bell and produces stronger flames than usual.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "midst",
+        "bell",
+        "usual",
+        "produces",
+        "rings",
+        "pouch",
+        "neck",
+        "stronger"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +192,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "bell",
+        "blazes",
+        "pumped",
+        "hotter",
+        "facing",
+        "fighting",
+        "spirit"
+      ]
     }
   ],
   "similarPokemonIds": [

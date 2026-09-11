@@ -9,6 +9,117 @@
   ],
   "imagePath": "/assets/pokemon/067.png",
   "entryCount": 33,
+  "entryTraits": [
+    "mountain-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "boasting",
+    "clearing",
+    "continual",
+    "imagination",
+    "sculptures",
+    "tasks",
+    "voluntarily",
+    "zone",
+    "artist",
+    "bodybuilding",
+    "boundless",
+    "demanding",
+    "goods",
+    "jobs",
+    "motif",
+    "physically",
+    "suppresses",
+    "teem",
+    "toned",
+    "workouts",
+    "formidable",
+    "labor",
+    "exercise",
+    "overwhelming",
+    "removes",
+    "cargo",
+    "unstoppable",
+    "physique",
+    "robust",
+    "sumo",
+    "willingly",
+    "worn",
+    "truly",
+    "captured",
+    "muscular",
+    "waist",
+    "finger",
+    "wear",
+    "wrestler",
+    "assists",
+    "regulate",
+    "toughen",
+    "removed",
+    "save",
+    "thicker",
+    "unleashes",
+    "hardness",
+    "tremendous",
+    "undertakes",
+    "lift",
+    "dump",
+    "exudes",
+    "happily",
+    "belt",
+    "stamina",
+    "else",
+    "thoroughly",
+    "construction",
+    "aloft",
+    "durable",
+    "amazing",
+    "mighty",
+    "encounters",
+    "hold",
+    "possess",
+    "tired",
+    "cover",
+    "helps",
+    "ing",
+    "creature",
+    "truck",
+    "train",
+    "incredibly",
+    "motions",
+    "wears",
+    "knows",
+    "stays",
+    "dangerous",
+    "training",
+    "doing",
+    "hand",
+    "covering",
+    "work",
+    "holds",
+    "above",
+    "ever",
+    "fields",
+    "help",
+    "able",
+    "popular",
+    "carries",
+    "days",
+    "sturdy",
+    "tough",
+    "strength",
+    "still",
+    "sense",
+    "full",
+    "good",
+    "moving",
+    "well",
+    "heavy",
+    "developed",
+    "muscles",
+    "heads"
+  ],
   "color": "gray",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -38,7 +149,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "muscular",
+        "wear",
+        "regulate",
+        "save",
+        "belt",
+        "motions",
+        "able"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +167,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "muscular",
+        "wear",
+        "regulate",
+        "save",
+        "belt",
+        "motions",
+        "able"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +185,14 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The belt around its waist holds back its energy. Without it, this POKéMON would be unstoppable.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unstoppable",
+        "waist",
+        "belt",
+        "holds"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +200,14 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It always goes at its full power, but this very tough and durable POKéMON never gets tired.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "durable",
+        "tired",
+        "tough",
+        "full"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +215,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The muscles cover­ ing its body teem with power. Even when still, it exudes an amazing sense of strength.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "teem",
+        "exudes",
+        "amazing",
+        "cover",
+        "ing",
+        "strength",
+        "still",
+        "sense",
+        "muscles"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +235,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This tough POKéMON always stays in the zone. Its muscles become thicker after every battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zone",
+        "thicker",
+        "stays",
+        "tough",
+        "muscles"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +251,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MACHOKE’s thoroughly toned muscles possess the hardness of steel. This POKéMON has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "toned",
+        "sumo",
+        "finger",
+        "wrestler",
+        "hardness",
+        "thoroughly",
+        "aloft",
+        "hold",
+        "possess",
+        "strength",
+        "muscles"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +273,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MACHOKE undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this POKéMON heads to the fields and mountains to exercise and train.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "bodybuilding",
+        "demanding",
+        "physically",
+        "labor",
+        "exercise",
+        "undertakes",
+        "helps",
+        "train",
+        "fields",
+        "days",
+        "tough",
+        "heads"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +298,16 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A belt is worn by a MACHOKE to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "overwhelming",
+        "worn",
+        "removed",
+        "belt",
+        "dangerous",
+        "ever"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +315,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "goods",
+        "formidable",
+        "tired",
+        "helps",
+        "doing",
+        "work",
+        "moving",
+        "heavy"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +334,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "muscular",
+        "wear",
+        "regulate",
+        "save",
+        "belt",
+        "motions",
+        "able"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +352,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "MACHOKE’s boundless power is very dangerous, so it wears a belt that suppresses its energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "boundless",
+        "suppresses",
+        "belt",
+        "wears",
+        "dangerous"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +368,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It can lift a dump truck with one hand. Using that power, it helps people with heavy jobs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "jobs",
+        "lift",
+        "dump",
+        "helps",
+        "truck",
+        "hand",
+        "heavy"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +388,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cargo",
+        "willingly",
+        "toughen",
+        "happily",
+        "work",
+        "carries",
+        "heavy"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +406,14 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It always goes at its full power, but this very tough and durable Pokémon never gets tired.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "durable",
+        "tired",
+        "tough",
+        "full"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +421,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "teem",
+        "exudes",
+        "amazing",
+        "covering",
+        "strength",
+        "still",
+        "sense",
+        "muscles"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +440,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cargo",
+        "willingly",
+        "toughen",
+        "happily",
+        "work",
+        "carries",
+        "heavy"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +458,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cargo",
+        "willingly",
+        "toughen",
+        "happily",
+        "work",
+        "carries",
+        "heavy"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +476,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cargo",
+        "willingly",
+        "toughen",
+        "happily",
+        "work",
+        "carries",
+        "heavy"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +494,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cargo",
+        "willingly",
+        "toughen",
+        "happily",
+        "work",
+        "carries",
+        "heavy"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +512,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "muscular",
+        "wear",
+        "regulate",
+        "save",
+        "belt",
+        "motions",
+        "able"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +530,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can lift a dump truck with one hand. Using that power, it helps people with heavy jobs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "jobs",
+        "lift",
+        "dump",
+        "helps",
+        "truck",
+        "hand",
+        "heavy"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +550,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Machoke’s thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "toned",
+        "sumo",
+        "finger",
+        "wrestler",
+        "hardness",
+        "thoroughly",
+        "aloft",
+        "hold",
+        "possess",
+        "strength",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +572,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "bodybuilding",
+        "demanding",
+        "physically",
+        "labor",
+        "exercise",
+        "undertakes",
+        "helps",
+        "train",
+        "fields",
+        "days",
+        "tough",
+        "heads"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +597,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "As a result of its continual workouts, it has developed tremendous power. It uses that power to help people with their work.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "continual",
+        "workouts",
+        "tremendous",
+        "work",
+        "help",
+        "developed"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +614,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It willingly assists with hard labor because it knows the work is good training for its muscles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "labor",
+        "willingly",
+        "assists",
+        "knows",
+        "training",
+        "work",
+        "good",
+        "muscles"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +633,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it encounters an enemy that’s truly mighty, this Pokémon removes the power-save belt from its waist and unleashes its full power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "removes",
+        "truly",
+        "waist",
+        "save",
+        "unleashes",
+        "belt",
+        "mighty",
+        "encounters",
+        "full"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +653,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "A popular motif for sculptures, its incredibly well-developed muscles have captured the imagination of many an artist.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "imagination",
+        "sculptures",
+        "artist",
+        "motif",
+        "captured",
+        "incredibly",
+        "popular",
+        "well",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +674,14 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unstoppable",
+        "waist",
+        "belt",
+        "holds"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +689,14 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unstoppable",
+        "waist",
+        "belt",
+        "holds"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +704,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "muscular",
+        "wear",
+        "regulate",
+        "save",
+        "belt",
+        "motions",
+        "able"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +722,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "goods",
+        "formidable",
+        "tired",
+        "helps",
+        "doing",
+        "work",
+        "moving",
+        "heavy"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +741,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boasting",
+        "clearing",
+        "tasks",
+        "voluntarily",
+        "boundless",
+        "physique",
+        "robust",
+        "assists",
+        "stamina",
+        "else",
+        "construction",
+        "creature",
+        "training",
+        "above",
+        "sturdy"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -38,6 +38,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .host-link { border-bottom: 3px solid var(--red); padding: 8px 2px; }
 
 .entry-stage { align-items: center; display: flex; justify-content: center; margin: 0 auto; max-width: 1240px; min-height: calc(100vh - 78px); padding: 24px 20px 32px; }
+.home-shell .entry-stage { min-height: 100vh; }
 .entry-copy { border: 2px solid var(--line); background: var(--surface); display: flex; flex-direction: column; gap: 18px; justify-content: center; padding: clamp(26px, 4vw, 44px); width: min(100%, 940px); }
 .eyebrow, .panel-kicker { align-items: center; color: var(--red); display: flex; font-size: 13px; font-weight: 900; gap: 8px; margin: 0; text-transform: uppercase; }
 .entry-copy h1, .setup-heading h1 { font-family: var(--font-display), sans-serif; font-size: clamp(45px, 6.5vw, 86px); line-height: .98; margin: 0; max-width: 800px; }
@@ -81,6 +82,7 @@ label { display: flex; flex-direction: column; font-size: 13px; font-weight: 900
 input, select { background: var(--surface); border: 2px solid var(--line); border-radius: 0; color: var(--ink); min-height: 54px; outline: none; padding: 12px 14px; text-transform: none; }
 input:focus, select:focus { box-shadow: 4px 4px 0 var(--yellow); }
 input[name="roomCode"] { font-family: var(--font-display), sans-serif; font-size: 23px; text-transform: uppercase; }
+input[name="roomCode"]::placeholder { color: #65717a; opacity: 1; }
 .primary-button, .secondary-button { align-items: center; border: 2px solid var(--line); cursor: pointer; display: flex; font-weight: 900; gap: 10px; justify-content: center; min-height: 54px; padding: 12px 20px; }
 .primary-button { background: var(--red); box-shadow: 5px 5px 0 var(--shadow); color: white; }
 .primary-button:hover:not(:disabled) { background: var(--red-dark); box-shadow: 3px 3px 0 var(--shadow); transform: translate(2px, 2px); }
@@ -138,14 +140,18 @@ input[name="roomCode"] { font-family: var(--font-display), sans-serif; font-size
 .lobby-hint { color: var(--muted); font-size: 13px; font-weight: 700; margin: 0; }
 .team-columns { display: grid; gap: 22px; grid-template-columns: repeat(3, minmax(0, 1fr)); padding: 36px 28px; }
 .team-column { background: var(--surface); border: 2px solid var(--line); padding: 20px; }
-.team-column[data-team="team-a"] { border-color: var(--blue); }
-.team-column[data-team="team-b"] { border-color: var(--red); }
+.team-column[data-team="team-a"] { border-color: var(--red); }
+.team-column[data-team="team-b"] { border-color: #4387c6; }
+.team-column[data-team="team-a"] .team-column-title { border-color: var(--red); color: var(--red); }
+.team-column[data-team="team-b"] .team-column-title { border-color: #4387c6; color: #78b7ee; }
 .team-column-title { align-items: center; border-bottom: 2px solid var(--line); display: grid; gap: 8px; grid-template-columns: auto 1fr auto; padding-bottom: 14px; }
 .team-column-title h2 { font-family: var(--font-display), sans-serif; font-size: 16px; margin: 0; }
 .team-column-title span { background: var(--red); color: white; font-size: 12px; font-weight: 900; padding: 3px 8px; }
 .team-column ul { display: flex; flex-direction: column; gap: 10px; list-style: none; margin: 16px 0 0; padding: 0; }
 .team-column li { align-items: center; display: grid; gap: 10px; grid-template-columns: 32px 1fr auto; }
 .team-column li > span:first-child { align-items: center; background: var(--yellow); border: 2px solid var(--line); display: flex; font-weight: 900; height: 32px; justify-content: center; }
+.team-column[data-team="team-a"] li > span:first-child { background: var(--red); color: white; }
+.team-column[data-team="team-b"] li > span:first-child { background: #4387c6; color: white; }
 .team-column li select { font-size: 12px; min-height: 36px; padding: 6px 8px; }
 .team-column .empty-roster { color: var(--muted); display: block; font-size: 13px; font-style: italic; }
 .room-phase-panel, .room-results-panel { background: var(--surface); border: 2px solid var(--line); display: grid; gap: 16px; margin-top: 22px; padding: 20px; }
@@ -156,6 +162,10 @@ input[name="roomCode"] { font-family: var(--font-display), sans-serif; font-size
 .room-results-panel h1 { font-family: var(--font-display), sans-serif; font-size: clamp(38px, 6vw, 64px); margin: 0; }
 .room-results-scores, .room-results-actions { display: grid; gap: 12px; grid-template-columns: 1fr 1fr; }
 .room-results-scores div { background: var(--paper); border: 1px solid var(--line); display: grid; gap: 6px; padding: 14px; }
+.room-results-scores div[data-team="team-a"] { border-color: var(--red); }
+.room-results-scores div[data-team="team-b"] { border-color: #4387c6; }
+.room-results-scores div[data-team="team-a"] span { color: var(--red); }
+.room-results-scores div[data-team="team-b"] span { color: #78b7ee; }
 .room-results-scores span { color: var(--muted); font-size: 12px; font-weight: 900; text-transform: uppercase; }
 .room-results-actions { grid-template-columns: repeat(3, 1fr); }
 .room-results-actions .secondary-button { text-decoration: none; }
@@ -164,9 +174,16 @@ input[name="roomCode"] { font-family: var(--font-display), sans-serif; font-size
 .team-status-bar { align-items: center; display: grid; gap: 16px; grid-template-columns: 1fr auto 1fr; margin-bottom: 24px; }
 .team-status { background: var(--surface); border: 2px solid var(--line); display: flex; flex-direction: column; gap: 4px; padding: 14px 20px; text-align: center; }
 .team-status span { color: var(--muted); font-size: 12px; font-weight: 900; text-transform: uppercase; }
-.team-status[data-active="true"] { background: var(--yellow); border-color: var(--line); color: var(--on-accent); }
-.team-status[data-active="true"] span { color: var(--on-accent); }
+.team-status[data-team="team-a"] { border-color: var(--red); }
+.team-status[data-team="team-b"] { border-color: #4387c6; }
+.team-status[data-active="true"][data-team="team-a"] { background: var(--red); color: white; }
+.team-status[data-active="true"][data-team="team-b"] { background: #4387c6; color: white; }
+.team-status[data-active="true"] span { color: inherit; }
 .turn-indicator { font-family: var(--font-display), sans-serif; font-size: clamp(16px, 2.4vw, 24px); text-align: center; text-transform: uppercase; }
+.turn-indicator[data-team="team-a"] { color: var(--red); }
+.turn-indicator[data-team="team-b"] { color: #78b7ee; }
+.free-entry-panel[data-team="team-a"] { border-color: var(--red); }
+.free-entry-panel[data-team="team-b"] { border-color: #4387c6; }
 .free-round-meta > span:last-child { align-items: center; display: inline-flex; gap: 5px; white-space: nowrap; }
 .choice-submitting { align-items: center; background: rgba(0, 0, 0, .55); display: flex; inset: 0; justify-content: center; position: absolute; z-index: 2; }
 .choice-locked { align-items: center; background: var(--yellow); border: 2px solid var(--line); color: var(--on-accent); display: flex; height: 32px; justify-content: center; position: absolute; right: 10px; top: 10px; width: 32px; z-index: 2; }

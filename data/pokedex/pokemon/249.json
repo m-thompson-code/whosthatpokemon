@@ -10,6 +10,43 @@
   ],
   "imagePath": "/assets/pokemon/249.png",
   "entryCount": 21,
+  "entryTraits": [
+    "aquatic",
+    "nocturnal",
+    "wings",
+    "luminous",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "incred",
+    "rms",
+    "sto",
+    "ible",
+    "regular",
+    "raging",
+    "chooses",
+    "storms",
+    "fluttering",
+    "trench",
+    "devastating",
+    "rumored",
+    "guardian",
+    "40",
+    "start",
+    "spends",
+    "quietly",
+    "houses",
+    "storm",
+    "calm",
+    "apart",
+    "sight",
+    "blow",
+    "pack",
+    "bottom",
+    "flaps",
+    "sleeps",
+    "seas"
+  ],
   "color": "white",
   "shape": "wings",
   "habitat": "rare",
@@ -39,7 +76,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spends",
+        "quietly",
+        "bottom"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +92,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "rumored",
+        "guardian",
+        "storm",
+        "seas"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +109,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It has an incred­ ible ability to calm raging sto­ rms. It is said that LUGIA appears when storms start.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "incred",
+        "rms",
+        "sto",
+        "ible",
+        "raging",
+        "storms",
+        "start",
+        "calm"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +128,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LUGIA’s wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this POKéMON chooses to live out of sight deep under the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "regular",
+        "chooses",
+        "fluttering",
+        "devastating",
+        "houses",
+        "apart",
+        "sight",
+        "blow",
+        "pack"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +152,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LUGIA’s wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this POKéMON chooses to live out of sight deep under the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "regular",
+        "chooses",
+        "fluttering",
+        "devastating",
+        "houses",
+        "apart",
+        "sight",
+        "blow",
+        "pack"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +176,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "LUGIA is so powerful even a light fluttering of its wings can blow apart houses. As a result, it chooses to live out of sight deep under the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "chooses",
+        "fluttering",
+        "houses",
+        "apart",
+        "sight",
+        "blow"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +197,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "rumored",
+        "guardian",
+        "storm",
+        "seas"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +214,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spends",
+        "quietly",
+        "bottom"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +230,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sleeping"
+      ],
+      "keywords": [
+        "trench",
+        "40",
+        "storm",
+        "flaps",
+        "sleeps"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +250,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sleeping"
+      ],
+      "keywords": [
+        "trench",
+        "40",
+        "storm",
+        "flaps",
+        "sleeps"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +270,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sleeping"
+      ],
+      "keywords": [
+        "trench",
+        "40",
+        "storm",
+        "flaps",
+        "sleeps"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +290,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spends",
+        "quietly",
+        "bottom"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +306,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "rumored",
+        "guardian",
+        "storm",
+        "seas"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +323,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sleeping"
+      ],
+      "keywords": [
+        "trench",
+        "40",
+        "storm",
+        "flaps",
+        "sleeps"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +343,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sleeping"
+      ],
+      "keywords": [
+        "trench",
+        "40",
+        "storm",
+        "flaps",
+        "sleeps"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +363,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sleeping"
+      ],
+      "keywords": [
+        "trench",
+        "40",
+        "storm",
+        "flaps",
+        "sleeps"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +383,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sleeping"
+      ],
+      "keywords": [
+        "trench",
+        "40",
+        "storm",
+        "flaps",
+        "sleeps"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +403,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sleeping"
+      ],
+      "keywords": [
+        "trench",
+        "40",
+        "storm",
+        "flaps",
+        "sleeps"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +423,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "rumored",
+        "guardian",
+        "storm",
+        "seas"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +440,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "regular",
+        "chooses",
+        "fluttering",
+        "devastating",
+        "houses",
+        "apart",
+        "sight",
+        "blow",
+        "pack"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +464,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "regular",
+        "chooses",
+        "fluttering",
+        "devastating",
+        "houses",
+        "apart",
+        "sight",
+        "blow",
+        "pack"
+      ]
     }
   ],
   "similarPokemonIds": [

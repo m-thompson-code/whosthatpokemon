@@ -9,6 +9,81 @@
   ],
   "imagePath": "/assets/pokemon/355.png",
   "entryCount": 21,
+  "entryTraits": [
+    "nocturnal",
+    "icy",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "behave",
+    "utter",
+    "witching",
+    "admonishment",
+    "mothers",
+    "oft",
+    "scarlet",
+    "scoldings",
+    "burly",
+    "misbehaving",
+    "pursue",
+    "doggedly",
+    "story",
+    "pursues",
+    "sunrise",
+    "intended",
+    "ups",
+    "dawn",
+    "earn",
+    "listen",
+    "midnight",
+    "passing",
+    "chooses",
+    "pass",
+    "told",
+    "abandoned",
+    "kids",
+    "roams",
+    "slip",
+    "ve",
+    "hisui",
+    "hour",
+    "startles",
+    "given",
+    "cloak",
+    "parents",
+    "wherever",
+    "sneaks",
+    "heard",
+    "nocturnal",
+    "begin",
+    "wall",
+    "wanders",
+    "crying",
+    "i",
+    "bad",
+    "glare",
+    "target",
+    "chase",
+    "silently",
+    "fear",
+    "freeze",
+    "invisible",
+    "eye",
+    "victim",
+    "grown",
+    "break",
+    "single",
+    "children",
+    "finds",
+    "matter",
+    "cry",
+    "walls",
+    "lost",
+    "among",
+    "spirit",
+    "darkness",
+    "won"
+  ],
   "color": "black",
   "shape": "arms",
   "habitat": "forest",
@@ -38,7 +113,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DUSKULL can pass through any wall no matter how thick it may be. Once this POKéMON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "pursue",
+        "doggedly",
+        "intended",
+        "dawn",
+        "chooses",
+        "pass",
+        "wall",
+        "target",
+        "victim",
+        "break",
+        "matter"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +135,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DUSKULL wanders lost among the deep darkness of midnight. There is an oft- told admonishment given to misbehaving children that this POKéMON will spirit away bad children who earn scoldings from their mothers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "admonishment",
+        "mothers",
+        "oft",
+        "scoldings",
+        "misbehaving",
+        "earn",
+        "midnight",
+        "told",
+        "given",
+        "wanders",
+        "bad",
+        "children",
+        "lost",
+        "among",
+        "spirit",
+        "darkness"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +162,27 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal POKéMON that roams about under the cloak of darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "icy"
+      ],
+      "keywords": [
+        "utter",
+        "scarlet",
+        "burly",
+        "ups",
+        "roams",
+        "cloak",
+        "nocturnal",
+        "glare",
+        "fear",
+        "freeze",
+        "eye",
+        "grown",
+        "single",
+        "darkness"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +190,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "slip",
+        "sneaks",
+        "silently",
+        "invisible",
+        "walls"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +208,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "slip",
+        "sneaks",
+        "silently",
+        "invisible",
+        "walls"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +226,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "doggedly",
+        "pursues",
+        "sunrise",
+        "abandoned",
+        "wherever",
+        "chase"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +245,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "doggedly",
+        "pursues",
+        "sunrise",
+        "abandoned",
+        "wherever",
+        "chase"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +264,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "passing",
+        "kids",
+        "startles",
+        "crying",
+        "bad",
+        "children",
+        "cry",
+        "walls"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +283,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it finds bad children who won’t listen to their parents, it will spirit them away--or so it’s said.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "listen",
+        "parents",
+        "bad",
+        "children",
+        "finds",
+        "spirit",
+        "won"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +301,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it finds bad children who won’t listen to their parents, it will spirit them away--or so it’s said.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "listen",
+        "parents",
+        "bad",
+        "children",
+        "finds",
+        "spirit",
+        "won"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +319,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "passing",
+        "kids",
+        "startles",
+        "crying",
+        "bad",
+        "children",
+        "cry",
+        "walls"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +338,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "passing",
+        "kids",
+        "startles",
+        "crying",
+        "bad",
+        "children",
+        "cry",
+        "walls"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +357,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "passing",
+        "kids",
+        "startles",
+        "crying",
+        "bad",
+        "children",
+        "cry",
+        "walls"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +376,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "passing",
+        "kids",
+        "startles",
+        "crying",
+        "bad",
+        "children",
+        "cry",
+        "walls"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +395,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "doggedly",
+        "pursues",
+        "sunrise",
+        "abandoned",
+        "wherever",
+        "chase"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +414,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it finds bad children who won’t listen to their parents, it will spirit them away--or so it’s said.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "listen",
+        "parents",
+        "bad",
+        "children",
+        "finds",
+        "spirit",
+        "won"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +432,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Duskull can pass through any wall no matter how thick it may be. Once this Pokémon chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "pursue",
+        "doggedly",
+        "intended",
+        "dawn",
+        "chooses",
+        "pass",
+        "wall",
+        "target",
+        "victim",
+        "break",
+        "matter"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +454,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Duskull wanders lost among the deep darkness of midnight. There is an oft-told admonishment given to misbehaving children that this Pokémon will spirit away bad children who earn scoldings from their mothers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "admonishment",
+        "mothers",
+        "oft",
+        "scoldings",
+        "misbehaving",
+        "earn",
+        "midnight",
+        "told",
+        "given",
+        "wanders",
+        "bad",
+        "children",
+        "lost",
+        "among",
+        "spirit",
+        "darkness"
+      ]
     },
     {
       "versionId": 33,
@@ -182,7 +481,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If it finds bad children who won’t listen to their parents, it will spirit them away—or so it’s said.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "listen",
+        "parents",
+        "bad",
+        "children",
+        "finds",
+        "spirit",
+        "won"
+      ]
     },
     {
       "versionId": 34,
@@ -190,7 +499,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "slip",
+        "sneaks",
+        "silently",
+        "invisible",
+        "walls"
+      ]
     },
     {
       "versionId": 39,
@@ -198,7 +517,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "I've heard that the children of Hisui all begin to behave once they've been told the story of how this Pokémon roams about before the witching hour to spirit away misbehaving children.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "behave",
+        "witching",
+        "misbehaving",
+        "story",
+        "told",
+        "roams",
+        "ve",
+        "hisui",
+        "hour",
+        "heard",
+        "begin",
+        "i",
+        "children",
+        "spirit"
+      ]
     }
   ],
   "similarPokemonIds": [

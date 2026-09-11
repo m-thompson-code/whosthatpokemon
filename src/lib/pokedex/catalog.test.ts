@@ -6,8 +6,10 @@ import { describe, expect, test } from "vitest";
 import type {
   PokedexCatalog,
   PokemonRecord,
+  EntryWordIndex,
   VersionPokemonIndex,
 } from "@/lib/pokedex/types";
+import { EntryTrait } from "@/lib/pokedex/traits";
 
 const readJson = <Value,>(path: string) =>
   JSON.parse(readFileSync(resolve(path), "utf8")) as Value;
@@ -32,10 +34,16 @@ describe("committed Pokedex catalog", () => {
     const versionPokemonIndex = readJson<VersionPokemonIndex>(
       "data/pokedex/version-pokemon.json",
     );
+    const wordIndex = readJson<EntryWordIndex>("data/pokedex/word-index.json");
 
     expect(bulbasaur.imagePath).toBe("/assets/pokemon/001.png");
     expect(bulbasaur.entries.some((entry) => entry.version === "red")).toBe(true);
     expect(bulbasaur.entries.every((entry) => entry.versionDisplayName.length > 0)).toBe(true);
+    expect(bulbasaur.entries.every((entry) => entry.traits.every((trait) => Object.values(EntryTrait).includes(trait)))).toBe(true);
+    expect(bulbasaur.entryTraits.length).toBeGreaterThan(0);
+    expect(bulbasaur.entries.every((entry) => entry.keywords.every((keyword) => !wordIndex[keyword].common))).toBe(true);
+    expect(wordIndex.pokemon.common).toBe(true);
+    expect(wordIndex.pumpkin.frequency).toBe(3);
     expect(bulbasaur.similarPokemonIds).toHaveLength(40);
     expect(bulbasaur.similarityPools["type-and-stage"]).toHaveLength(16);
     expect(versionPokemonIndex.red).toContain(bulbasaur.id);

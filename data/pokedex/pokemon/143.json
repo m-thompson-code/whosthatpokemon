@@ -9,6 +9,106 @@
   ],
   "imagePath": "/assets/pokemon/143.png",
   "entryCount": 33,
+  "entryTraits": [
+    "sleeping",
+    "sonic",
+    "poisonous",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "di",
+    "entirety",
+    "gestive",
+    "granaries",
+    "gravest",
+    "hint",
+    "incomparably",
+    "nodding",
+    "rice",
+    "900",
+    "counted",
+    "displays",
+    "occurrences",
+    "rumblings",
+    "snores",
+    "spice",
+    "tually",
+    "880",
+    "ac",
+    "glutton",
+    "prompted",
+    "rotund",
+    "upset",
+    "promptly",
+    "typical",
+    "villages",
+    "lazy",
+    "lethargic",
+    "slothful",
+    "bulk",
+    "continues",
+    "digest",
+    "expansive",
+    "moldy",
+    "napping",
+    "done",
+    "affect",
+    "awesome",
+    "finger",
+    "pounds",
+    "interest",
+    "muk",
+    "climb",
+    "lift",
+    "serious",
+    "digestive",
+    "disasters",
+    "juices",
+    "rotten",
+    "consists",
+    "satisfied",
+    "devours",
+    "unless",
+    "seem",
+    "hungry",
+    "safe",
+    "dissolve",
+    "steadily",
+    "bounce",
+    "effort",
+    "mind",
+    "warning",
+    "play",
+    "stops",
+    "nearly",
+    "happens",
+    "docile",
+    "sleeping",
+    "builds",
+    "sounds",
+    "children",
+    "feel",
+    "stomach",
+    "asleep",
+    "nothing",
+    "do",
+    "cry",
+    "actually",
+    "starts",
+    "tongue",
+    "little",
+    "among",
+    "place",
+    "sleeps",
+    "eating",
+    "though",
+    "belly",
+    "full",
+    "big",
+    "doesn",
+    "apparently",
+    "eat"
+  ],
   "color": "black",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -38,7 +138,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "rotund",
+        "lazy",
+        "slothful",
+        "bulk",
+        "steadily",
+        "builds",
+        "sleeps"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +158,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "rotund",
+        "lazy",
+        "slothful",
+        "bulk",
+        "steadily",
+        "builds",
+        "sleeps"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +178,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "upset",
+        "moldy",
+        "happens",
+        "stomach",
+        "little",
+        "eat"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +195,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "What sounds like its cry may ac­ tually be its snores or the rumblings of its hungry belly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "rumblings",
+        "snores",
+        "tually",
+        "ac",
+        "hungry",
+        "sounds",
+        "cry",
+        "belly"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +216,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its stomach's di­ gestive juices can dissolve any kind of poison. It can even eat things off the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "di",
+        "gestive",
+        "juices",
+        "dissolve",
+        "stomach",
+        "eat"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +235,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This POKéMON's stomach is so strong, even eating moldy or rotten food will not affect it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "moldy",
+        "affect",
+        "rotten",
+        "stomach",
+        "eating"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +251,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SNORLAX’s typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "typical",
+        "expansive",
+        "consists",
+        "play",
+        "docile",
+        "sleeping",
+        "children",
+        "nothing",
+        "place",
+        "eating",
+        "belly"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +275,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SNORLAX’s typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "typical",
+        "expansive",
+        "consists",
+        "play",
+        "docile",
+        "sleeping",
+        "children",
+        "nothing",
+        "place",
+        "eating",
+        "belly"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +299,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "SNORLAX’s typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its big belly as a place to play.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "typical",
+        "consists",
+        "play",
+        "docile",
+        "sleeping",
+        "children",
+        "nothing",
+        "place",
+        "eating",
+        "belly",
+        "big"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +323,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "880",
+        "promptly",
+        "done",
+        "pounds",
+        "satisfied",
+        "unless",
+        "eating"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +343,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "rotund",
+        "lazy",
+        "slothful",
+        "bulk",
+        "steadily",
+        "builds",
+        "sleeps"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +363,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "digest",
+        "moldy",
+        "rotten",
+        "happens",
+        "stomach"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +379,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It stops eating only to sleep. It doesn’t feel full unless it eats nearly 900 pounds a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "900",
+        "pounds",
+        "unless",
+        "stops",
+        "nearly",
+        "feel",
+        "eating",
+        "full",
+        "doesn"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +401,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lethargic",
+        "finger",
+        "lift",
+        "safe",
+        "bounce",
+        "belly",
+        "full"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +419,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "rumblings",
+        "snores",
+        "hungry",
+        "sounds",
+        "cry",
+        "actually",
+        "belly"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +439,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its stomach’s digestive juices can dissolve any kind of poison. It can even eat things off the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "digestive",
+        "juices",
+        "dissolve",
+        "stomach",
+        "eat"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +457,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lethargic",
+        "finger",
+        "lift",
+        "safe",
+        "bounce",
+        "belly",
+        "full"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +475,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lethargic",
+        "finger",
+        "lift",
+        "safe",
+        "bounce",
+        "belly",
+        "full"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +493,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lethargic",
+        "finger",
+        "lift",
+        "safe",
+        "bounce",
+        "belly",
+        "full"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +511,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lethargic",
+        "finger",
+        "lift",
+        "safe",
+        "bounce",
+        "belly",
+        "full"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +529,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "880",
+        "promptly",
+        "done",
+        "pounds",
+        "satisfied",
+        "unless",
+        "eating"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +549,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "digest",
+        "moldy",
+        "rotten",
+        "happens",
+        "stomach"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +565,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Snorlax’s typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "typical",
+        "expansive",
+        "consists",
+        "play",
+        "docile",
+        "sleeping",
+        "children",
+        "nothing",
+        "place",
+        "eating",
+        "belly"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +589,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Snorlax’s typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "typical",
+        "expansive",
+        "consists",
+        "play",
+        "docile",
+        "sleeping",
+        "children",
+        "nothing",
+        "place",
+        "eating",
+        "belly"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +613,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its stomach is said to be incomparably strong. Even Muk’s poison is nothing more than a hint of spice on Snorlax’s tongue.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "hint",
+        "incomparably",
+        "spice",
+        "muk",
+        "stomach",
+        "nothing",
+        "tongue"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +633,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It eats nearly 900 pounds of food every day. It starts nodding off while eating—and continues to eat even while it’s asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nodding",
+        "900",
+        "continues",
+        "pounds",
+        "nearly",
+        "asleep",
+        "starts",
+        "eating",
+        "eat"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +653,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It doesn’t do anything other than eat and sleep. When prompted to make a serious effort, though, it apparently displays awesome power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "displays",
+        "prompted",
+        "awesome",
+        "serious",
+        "effort",
+        "do",
+        "though",
+        "doesn",
+        "apparently",
+        "eat"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +676,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has no interest in anything other than eating. Even if you climb up on its stomach while it’s napping, it doesn’t seem to mind at all!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "napping",
+        "interest",
+        "climb",
+        "seem",
+        "mind",
+        "stomach",
+        "eating",
+        "doesn"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +698,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "upset",
+        "moldy",
+        "happens",
+        "stomach",
+        "little",
+        "eat"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +715,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "upset",
+        "moldy",
+        "happens",
+        "stomach",
+        "little",
+        "eat"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +732,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "880",
+        "promptly",
+        "done",
+        "pounds",
+        "satisfied",
+        "unless",
+        "eating"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +752,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon’s stomach is so strong, even eating moldy or rotten food will not affect it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "moldy",
+        "affect",
+        "rotten",
+        "stomach",
+        "eating"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +768,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This glutton appears in villages without warning and devours the entirety of their rice granaries—such occurrences have long been counted among the gravest of disasters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "entirety",
+        "granaries",
+        "gravest",
+        "rice",
+        "counted",
+        "occurrences",
+        "glutton",
+        "villages",
+        "disasters",
+        "devours",
+        "warning",
+        "among"
+      ]
     }
   ],
   "similarPokemonIds": [

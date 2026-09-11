@@ -9,6 +9,65 @@
   ],
   "imagePath": "/assets/pokemon/571.png",
   "entryCount": 13,
+  "entryTraits": [
+    "forest-dwelling",
+    "fur"
+  ],
+  "entryKeywords": [
+    "conjure",
+    "discover",
+    "disheveled",
+    "lacerates",
+    "nemeses",
+    "burden",
+    "illusions",
+    "illusory",
+    "tricking",
+    "visions",
+    "embodiment",
+    "heedless",
+    "solitude",
+    "tried",
+    "bonds",
+    "lonely",
+    "den",
+    "punished",
+    "scenery",
+    "stories",
+    "woods",
+    "cares",
+    "illusion",
+    "lair",
+    "terrifying",
+    "simultaneously",
+    "fool",
+    "hundreds",
+    "trapped",
+    "death",
+    "bitter",
+    "show",
+    "ease",
+    "safe",
+    "thinks",
+    "deeply",
+    "transform",
+    "wander",
+    "going",
+    "safety",
+    "seeking",
+    "shows",
+    "white",
+    "pack",
+    "intense",
+    "tell",
+    "between",
+    "protects",
+    "say",
+    "humans",
+    "group",
+    "catch",
+    "doesn"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +97,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tricking",
+        "bonds",
+        "safety",
+        "pack",
+        "between",
+        "protects"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +114,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "illusory",
+        "scenery",
+        "lair",
+        "simultaneously",
+        "fool",
+        "group"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +131,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tried",
+        "punished",
+        "stories",
+        "illusion",
+        "trapped",
+        "say",
+        "catch"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +149,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tried",
+        "punished",
+        "stories",
+        "illusion",
+        "trapped",
+        "say",
+        "catch"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +167,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "illusory",
+        "scenery",
+        "lair",
+        "simultaneously",
+        "fool",
+        "group"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +184,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tricking",
+        "bonds",
+        "safety",
+        "pack",
+        "between",
+        "protects"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +201,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "illusory",
+        "scenery",
+        "lair",
+        "simultaneously",
+        "fool",
+        "group"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +218,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tricking",
+        "bonds",
+        "safety",
+        "pack",
+        "between",
+        "protects"
+      ]
     },
     {
       "versionId": 29,
@@ -102,7 +235,14 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It doesn’t just transform itself—it also has the power to make hundreds of people see its illusions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "illusions",
+        "hundreds",
+        "transform",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -110,7 +250,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "discover",
+        "visions",
+        "den",
+        "woods",
+        "thinks",
+        "wander",
+        "going",
+        "shows",
+        "humans"
+      ]
     },
     {
       "versionId": 33,
@@ -118,7 +272,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conjure",
+        "illusions",
+        "den",
+        "cares",
+        "terrifying",
+        "safe",
+        "deeply",
+        "pack"
+      ]
     },
     {
       "versionId": 34,
@@ -126,7 +291,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Seeking to ease the burden of their solitude, lonely Trainers tell Zoroark to show illusions to them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "burden",
+        "illusions",
+        "solitude",
+        "lonely",
+        "show",
+        "ease",
+        "seeking",
+        "tell"
+      ]
     },
     {
       "versionId": 39,
@@ -134,7 +310,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "disheveled",
+        "lacerates",
+        "nemeses",
+        "embodiment",
+        "heedless",
+        "death",
+        "bitter",
+        "safety",
+        "white",
+        "intense"
+      ]
     }
   ],
   "similarPokemonIds": [

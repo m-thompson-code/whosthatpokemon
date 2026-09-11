@@ -10,6 +10,83 @@
   ],
   "imagePath": "/assets/pokemon/184.png",
   "entryCount": 23,
+  "entryTraits": [
+    "aquatic",
+    "hunting",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "tently",
+    "indispensable",
+    "sunbathes",
+    "ting",
+    "focusing",
+    "inhale",
+    "azurill",
+    "coloring",
+    "listening",
+    "riverbeds",
+    "trick",
+    "camouflage",
+    "sensors",
+    "spend",
+    "bubbles",
+    "balloons",
+    "elongated",
+    "intently",
+    "bubble",
+    "insides",
+    "vision",
+    "identify",
+    "distinguish",
+    "drowning",
+    "breathe",
+    "sunny",
+    "hearing",
+    "wet",
+    "volume",
+    "plays",
+    "superb",
+    "virtually",
+    "cover",
+    "helps",
+    "keeping",
+    "rough",
+    "store",
+    "spends",
+    "act",
+    "getting",
+    "trouble",
+    "kinds",
+    "lakes",
+    "play",
+    "prevent",
+    "wild",
+    "rolls",
+    "floats",
+    "enable",
+    "spot",
+    "color",
+    "filled",
+    "rivers",
+    "tell",
+    "stomach",
+    "pattern",
+    "running",
+    "days",
+    "since",
+    "patterns",
+    "spots",
+    "surface",
+    "movements",
+    "living",
+    "tough",
+    "fast",
+    "still",
+    "create",
+    "ears",
+    "moving"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -40,7 +117,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "By keeping still and listening in­ tently, it can tell what is in even wild, fast- moving rivers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tently",
+        "listening",
+        "keeping",
+        "wild",
+        "rivers",
+        "tell",
+        "fast",
+        "still",
+        "moving"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +137,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "When it plays in water, it rolls up its elongated ears to prevent their insides from get­ ting wet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ting",
+        "elongated",
+        "insides",
+        "wet",
+        "plays",
+        "prevent",
+        "rolls",
+        "ears"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +158,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "camouflage",
+        "bubble",
+        "helps",
+        "stomach",
+        "pattern"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +176,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "AZUMARILL’s long ears are indispensable sensors. By focusing its hearing, this POKéMON can identify what kinds of prey are around, even in rough and fast-running rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "indispensable",
+        "focusing",
+        "sensors",
+        "identify",
+        "hearing",
+        "rough",
+        "kinds",
+        "rivers",
+        "running",
+        "fast",
+        "ears"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +200,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "AZUMARILL can make balloons out of air. It makes these air balloons if it spots a drowning POKéMON. The air balloons enable the POKéMON in trouble to breathe.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "balloons",
+        "drowning",
+        "breathe",
+        "trouble",
+        "enable",
+        "spots"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +219,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "camouflage",
+        "virtually",
+        "act",
+        "spot",
+        "color",
+        "pattern",
+        "tough"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +239,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "elongated",
+        "insides",
+        "wet",
+        "plays",
+        "getting",
+        "prevent",
+        "rolls",
+        "ears"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +260,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "By keeping still and listening intently, it can even tell what is in wild, fast-moving rivers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "listening",
+        "intently",
+        "keeping",
+        "wild",
+        "rivers",
+        "tell",
+        "fast",
+        "still",
+        "moving"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +280,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "coloring",
+        "trick",
+        "vision",
+        "lakes",
+        "rivers",
+        "patterns"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +299,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "riverbeds",
+        "sensors",
+        "distinguish",
+        "superb",
+        "movements",
+        "living",
+        "ears"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +317,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It can spend all day in water, since it can inhale and store a large volume of air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "inhale",
+        "spend",
+        "volume",
+        "store",
+        "since"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +336,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "listening",
+        "intently",
+        "keeping",
+        "wild",
+        "rivers",
+        "tell",
+        "fast",
+        "still",
+        "moving"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +356,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "elongated",
+        "insides",
+        "wet",
+        "plays",
+        "getting",
+        "prevent",
+        "rolls",
+        "ears"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +377,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can spend all day in water, since it can inhale and store a large volume of air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "inhale",
+        "spend",
+        "volume",
+        "store",
+        "since"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +396,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It can spend all day in water, since it can inhale and store a large volume of air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "inhale",
+        "spend",
+        "volume",
+        "store",
+        "since"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +415,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sensors",
+        "distinguish",
+        "superb",
+        "tell",
+        "movements",
+        "ears"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +434,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sensors",
+        "distinguish",
+        "superb",
+        "tell",
+        "movements",
+        "ears"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +453,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "riverbeds",
+        "sensors",
+        "distinguish",
+        "superb",
+        "movements",
+        "living",
+        "ears"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +471,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The bubble-like pattern on its stomach helps it camouflage itself when it’s in the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "camouflage",
+        "bubble",
+        "helps",
+        "stomach",
+        "pattern"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +489,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Azumarill’s long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "indispensable",
+        "focusing",
+        "sensors",
+        "identify",
+        "hearing",
+        "rough",
+        "kinds",
+        "rivers",
+        "running",
+        "fast",
+        "ears"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +513,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "balloons",
+        "drowning",
+        "breathe",
+        "trouble",
+        "enable",
+        "spots"
+      ]
     },
     {
       "versionId": 33,
@@ -208,7 +532,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It spends most of its time in the water. On sunny days, Azumarill floats on the surface of the water and sunbathes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunbathes",
+        "sunny",
+        "spends",
+        "floats",
+        "days",
+        "surface"
+      ]
     },
     {
       "versionId": 34,
@@ -216,7 +551,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "These Pokémon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "azurill",
+        "bubbles",
+        "cover",
+        "play",
+        "filled",
+        "rivers",
+        "create"
+      ]
     }
   ],
   "similarPokemonIds": [

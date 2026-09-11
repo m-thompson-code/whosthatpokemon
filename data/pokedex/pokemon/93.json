@@ -10,6 +10,113 @@
   ],
   "imagePath": "/assets/pokemon/093.png",
   "entryCount": 33,
+  "entryTraits": [
+    "hunting",
+    "arms",
+    "cold-climate",
+    "icy",
+    "nocturnal",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "frightful",
+    "revels",
+    "fears",
+    "planning",
+    "stalking",
+    "tually",
+    "verge",
+    "demise",
+    "malevolent",
+    "saps",
+    "watched",
+    "licking",
+    "lit",
+    "wither",
+    "appearing",
+    "beckons",
+    "dimension",
+    "endless",
+    "licked",
+    "obstacle",
+    "rumor",
+    "moonless",
+    "shoulders",
+    "tap",
+    "weaker",
+    "die",
+    "nobody",
+    "passing",
+    "shuddering",
+    "block",
+    "glide",
+    "curse",
+    "lurk",
+    "victims",
+    "outside",
+    "total",
+    "visible",
+    "eventually",
+    "lurks",
+    "slip",
+    "death",
+    "licks",
+    "extinction",
+    "wherever",
+    "gaseous",
+    "shaking",
+    "cities",
+    "lick",
+    "floating",
+    "sad",
+    "best",
+    "wanders",
+    "brightly",
+    "next",
+    "thing",
+    "silently",
+    "approach",
+    "alone",
+    "feeling",
+    "stay",
+    "searches",
+    "don",
+    "dangerous",
+    "eye",
+    "hand",
+    "someone",
+    "strikes",
+    "steal",
+    "victim",
+    "according",
+    "home",
+    "nights",
+    "walking",
+    "nothing",
+    "gas",
+    "humans",
+    "try",
+    "able",
+    "likes",
+    "re",
+    "touch",
+    "starts",
+    "tongue",
+    "walls",
+    "catch",
+    "causes",
+    "constantly",
+    "stop",
+    "living",
+    "another",
+    "force",
+    "dark",
+    "spirit",
+    "darkness",
+    "hides",
+    "won",
+    "close"
+  ],
   "color": "purple",
   "shape": "arms",
   "habitat": "cave",
@@ -39,7 +146,14 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dimension",
+        "block",
+        "slip",
+        "walls"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +161,14 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dimension",
+        "block",
+        "slip",
+        "walls"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +176,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "demise",
+        "saps",
+        "licking",
+        "shaking",
+        "victim",
+        "causes",
+        "stop",
+        "won"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +195,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "In total darkness, where nothing is visible, HAUNTER lurks, silently stalking its next victim.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "stalking",
+        "total",
+        "visible",
+        "lurks",
+        "next",
+        "silently",
+        "victim",
+        "nothing",
+        "darkness"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +215,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death even­ tually comes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tually",
+        "licked",
+        "death",
+        "shaking",
+        "victim",
+        "gas",
+        "starts",
+        "tongue",
+        "constantly"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +235,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It hides in the dark, planning to take the life of the next living thing that wanders close by.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "planning",
+        "wanders",
+        "next",
+        "thing",
+        "living",
+        "dark",
+        "hides",
+        "close"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +254,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "beckons",
+        "lick",
+        "floating",
+        "approach",
+        "dangerous",
+        "steal",
+        "try",
+        "tongue",
+        "darkness"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +274,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "beckons",
+        "lick",
+        "floating",
+        "approach",
+        "dangerous",
+        "steal",
+        "try",
+        "tongue",
+        "darkness"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +294,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "If a HAUNTER beckons you while it is floating in darkness, don’t approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "beckons",
+        "lick",
+        "floating",
+        "approach",
+        "don",
+        "steal",
+        "try",
+        "tongue",
+        "darkness"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +314,14 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If you get the feeling of being watched in darkness when nobody is around, HAUNTER is there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "watched",
+        "nobody",
+        "feeling",
+        "darkness"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +329,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Because of its ability to slip through block walls, it is said to be from another dimension.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dimension",
+        "block",
+        "slip",
+        "walls",
+        "another"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +345,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "obstacle",
+        "lurks",
+        "slip",
+        "eye",
+        "walls"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +361,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It licks with its gaseous tongue to steal the victim’s life force. It lurks in darkness for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "lurks",
+        "licks",
+        "gaseous",
+        "steal",
+        "victim",
+        "tongue",
+        "force",
+        "darkness"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +382,23 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "endless",
+        "shoulders",
+        "tap",
+        "shuddering",
+        "lurk",
+        "gaseous",
+        "hand",
+        "likes",
+        "touch",
+        "causes",
+        "dark"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +406,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "In total darkness, where nothing is visible, HAUNTER lurks, silently stalking its next victim.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "stalking",
+        "total",
+        "visible",
+        "lurks",
+        "next",
+        "silently",
+        "victim",
+        "nothing",
+        "darkness"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +426,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "licked",
+        "eventually",
+        "death",
+        "shaking",
+        "victim",
+        "gas",
+        "starts",
+        "tongue",
+        "constantly"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +446,23 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "endless",
+        "shoulders",
+        "tap",
+        "shuddering",
+        "lurk",
+        "gaseous",
+        "hand",
+        "likes",
+        "touch",
+        "causes",
+        "dark"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +470,23 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "endless",
+        "shoulders",
+        "tap",
+        "shuddering",
+        "lurk",
+        "gaseous",
+        "hand",
+        "likes",
+        "touch",
+        "causes",
+        "dark"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +494,23 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "endless",
+        "shoulders",
+        "tap",
+        "shuddering",
+        "lurk",
+        "gaseous",
+        "hand",
+        "likes",
+        "touch",
+        "causes",
+        "dark"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +518,23 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "endless",
+        "shoulders",
+        "tap",
+        "shuddering",
+        "lurk",
+        "gaseous",
+        "hand",
+        "likes",
+        "touch",
+        "causes",
+        "dark"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +542,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "watched",
+        "nobody",
+        "feeling",
+        "darkness"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +557,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It licks with its gaseous tongue to steal the victim’s life force. It lurks in darkness for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "lurks",
+        "licks",
+        "gaseous",
+        "steal",
+        "victim",
+        "tongue",
+        "force",
+        "darkness"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +578,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "beckons",
+        "lick",
+        "floating",
+        "approach",
+        "dangerous",
+        "steal",
+        "try",
+        "tongue",
+        "darkness"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +598,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "beckons",
+        "lick",
+        "floating",
+        "approach",
+        "dangerous",
+        "steal",
+        "try",
+        "tongue",
+        "darkness"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +618,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It strikes at humans from total darkness. Those licked by its cold tongue grow weaker with each passing day until they die.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "licked",
+        "weaker",
+        "die",
+        "passing",
+        "total",
+        "strikes",
+        "humans",
+        "tongue",
+        "darkness"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +641,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It fears the light and revels in the dark. It may be on the verge of extinction in cities that stay brightly lit at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "revels",
+        "fears",
+        "verge",
+        "lit",
+        "extinction",
+        "cities",
+        "brightly",
+        "stay",
+        "dark"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +664,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "On moonless nights, Haunter searches for someone to curse, so it’s best not to go out walking around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "moonless",
+        "curse",
+        "best",
+        "searches",
+        "someone",
+        "nights",
+        "walking"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +684,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s dangerous to go outside alone on nights when you’re feeling sad. Haunter will catch you, and you won’t be able to go back home.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "outside",
+        "sad",
+        "alone",
+        "feeling",
+        "dangerous",
+        "home",
+        "nights",
+        "able",
+        "re",
+        "catch",
+        "won"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +708,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "By licking, it saps the victim’s life. It causes shaking that won’t stop until the victim’s demise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "demise",
+        "saps",
+        "licking",
+        "shaking",
+        "victim",
+        "causes",
+        "stop",
+        "won"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +727,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "By licking, it saps the victim’s life. It causes shaking that won’t stop until the victim’s demise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "demise",
+        "saps",
+        "licking",
+        "shaking",
+        "victim",
+        "causes",
+        "stop",
+        "won"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +746,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "licked",
+        "eventually",
+        "death",
+        "shaking",
+        "victim",
+        "gas",
+        "starts",
+        "tongue",
+        "constantly"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +766,14 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "watched",
+        "nobody",
+        "feeling",
+        "darkness"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +781,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "frightful",
+        "malevolent",
+        "wither",
+        "appearing",
+        "rumor",
+        "glide",
+        "victims",
+        "death",
+        "wherever",
+        "lick",
+        "according",
+        "likes",
+        "walls",
+        "spirit"
+      ]
     }
   ],
   "similarPokemonIds": [

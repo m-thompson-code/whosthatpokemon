@@ -9,6 +9,28 @@
   ],
   "imagePath": "/assets/pokemon/896.png",
   "entryCount": 2,
+  "entryTraits": [
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "belligerent",
+    "mask",
+    "tremendous",
+    "hooves",
+    "wants",
+    "physical",
+    "diamond",
+    "harder",
+    "covering",
+    "intense",
+    "100",
+    "force",
+    "emits",
+    "strength",
+    "face",
+    "takes"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +60,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "belligerent",
+        "hooves",
+        "wants",
+        "intense",
+        "force",
+        "emits",
+        "takes"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +81,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "mask",
+        "tremendous",
+        "physical",
+        "diamond",
+        "harder",
+        "covering",
+        "100",
+        "strength",
+        "face"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,69 @@
   ],
   "imagePath": "/assets/pokemon/457.png",
   "entryCount": 18,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "hunting",
+    "sky-dwelling",
+    "nocturnal",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "schooling",
+    "crawling",
+    "gleaming",
+    "traverse",
+    "breathtaking",
+    "haul",
+    "competes",
+    "detection",
+    "disputes",
+    "starmie",
+    "scarce",
+    "seabed",
+    "view",
+    "crawls",
+    "fantastic",
+    "lanturn",
+    "lures",
+    "ferocious",
+    "flashing",
+    "fierce",
+    "shining",
+    "fish",
+    "lights",
+    "floor",
+    "chest",
+    "attract",
+    "shine",
+    "natural",
+    "hunt",
+    "attracts",
+    "waters",
+    "predators",
+    "seafloor",
+    "happens",
+    "front",
+    "favorite",
+    "bottom",
+    "right",
+    "stars",
+    "avoid",
+    "fins",
+    "near",
+    "four",
+    "look",
+    "patterns",
+    "ocean",
+    "surface",
+    "darkness",
+    "along",
+    "though",
+    "search",
+    "swimming",
+    "close"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": null,
@@ -38,7 +101,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "flashing",
+        "floor",
+        "attracts",
+        "fins",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +122,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "detection",
+        "crawls",
+        "chest",
+        "predators",
+        "seafloor",
+        "avoid",
+        "fins",
+        "along"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +141,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "competes",
+        "crawls",
+        "lanturn",
+        "seafloor",
+        "front",
+        "fins",
+        "along"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +159,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "LUMINEON swimming in the darkness of the deep sea look like stars shining in the night sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "shining",
+        "stars",
+        "look",
+        "darkness",
+        "swimming"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +179,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "LUMINEON swimming in the darkness of the deep sea look like stars shining in the night sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "shining",
+        "stars",
+        "look",
+        "darkness",
+        "swimming"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +199,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "competes",
+        "crawls",
+        "lanturn",
+        "seafloor",
+        "front",
+        "fins",
+        "along"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +217,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "competes",
+        "crawls",
+        "lanturn",
+        "seafloor",
+        "front",
+        "fins",
+        "along"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +235,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "competes",
+        "crawls",
+        "lanturn",
+        "seafloor",
+        "front",
+        "fins",
+        "along"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +253,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "competes",
+        "crawls",
+        "lanturn",
+        "seafloor",
+        "front",
+        "fins",
+        "along"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +271,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "flashing",
+        "floor",
+        "attracts",
+        "fins",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +292,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "detection",
+        "crawls",
+        "chest",
+        "predators",
+        "seafloor",
+        "avoid",
+        "fins",
+        "along"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +311,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "flashing",
+        "floor",
+        "attracts",
+        "fins",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +332,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "detection",
+        "crawls",
+        "chest",
+        "predators",
+        "seafloor",
+        "avoid",
+        "fins",
+        "along"
+      ]
     },
     {
       "versionId": 27,
@@ -142,7 +351,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "lures",
+        "ferocious",
+        "shining",
+        "fish",
+        "attract",
+        "natural",
+        "predators",
+        "happens",
+        "close"
+      ]
     },
     {
       "versionId": 28,
@@ -150,7 +374,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This deep-sea Pokémon lives at the bottom of the sea. Its fins haul it over the seabed in search of its favorite food—Starmie.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "haul",
+        "starmie",
+        "seabed",
+        "favorite",
+        "bottom",
+        "fins",
+        "search"
+      ]
     },
     {
       "versionId": 29,
@@ -158,7 +394,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Deep down at the bottom of the ocean, prey is scarce. Lumineon get into fierce disputes with Lanturn over food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "disputes",
+        "scarce",
+        "lanturn",
+        "fierce",
+        "bottom",
+        "ocean"
+      ]
     },
     {
       "versionId": 30,
@@ -166,7 +414,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They traverse the deep waters as if crawling over the seafloor. The fantastic lights of its fins shine like stars in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "crawling",
+        "traverse",
+        "fantastic",
+        "lights",
+        "shine",
+        "waters",
+        "seafloor",
+        "stars",
+        "fins"
+      ]
     },
     {
       "versionId": 39,
@@ -174,7 +437,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Uses its gleaming fins to hunt its prey. The view of Lumineon schooling near the surface of the sea at night is breathtaking— it's as though there were shining stars right there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "schooling",
+        "gleaming",
+        "breathtaking",
+        "view",
+        "shining",
+        "hunt",
+        "right",
+        "stars",
+        "fins",
+        "near",
+        "surface",
+        "though"
+      ]
     }
   ],
   "similarPokemonIds": [

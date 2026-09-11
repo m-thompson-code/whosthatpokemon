@@ -10,6 +10,92 @@
   ],
   "imagePath": "/assets/pokemon/141.png",
   "entryCount": 30,
+  "entryTraits": [
+    "aquatic",
+    "claws",
+    "hunting",
+    "shell",
+    "arms"
+  ],
+  "entryKeywords": [
+    "29",
+    "compactly",
+    "didn",
+    "scythe",
+    "thro",
+    "ugh",
+    "drank",
+    "rips",
+    "sliced",
+    "beginnings",
+    "sleek",
+    "tucks",
+    "razor",
+    "sickles",
+    "function",
+    "ming",
+    "slices",
+    "begun",
+    "slashing",
+    "wiggles",
+    "compact",
+    "evident",
+    "folding",
+    "gills",
+    "adapted",
+    "slim",
+    "discarded",
+    "slashes",
+    "adapt",
+    "knots",
+    "finish",
+    "drinks",
+    "dweller",
+    "extinction",
+    "closing",
+    "evolving",
+    "inhabited",
+    "swam",
+    "ferocious",
+    "roughly",
+    "drains",
+    "perfect",
+    "scythes",
+    "underwater",
+    "went",
+    "parts",
+    "sucks",
+    "hunt",
+    "swimmer",
+    "unknown",
+    "catches",
+    "limbs",
+    "aggressive",
+    "shape",
+    "fluids",
+    "extinct",
+    "apart",
+    "species",
+    "victim",
+    "speeds",
+    "onto",
+    "had",
+    "came",
+    "change",
+    "able",
+    "swim",
+    "behind",
+    "changes",
+    "living",
+    "fast",
+    "freely",
+    "swims",
+    "thought",
+    "swimming",
+    "quickly",
+    "apparently",
+    "seas"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "sea",
@@ -40,7 +126,22 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "sleek",
+        "ming",
+        "slashes",
+        "drains",
+        "perfect",
+        "shape",
+        "fluids",
+        "swim"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +149,22 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "sleek",
+        "ming",
+        "slashes",
+        "drains",
+        "perfect",
+        "shape",
+        "fluids",
+        "swim"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +172,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "sickles",
+        "slices",
+        "slim",
+        "drinks",
+        "swimmer",
+        "fluids",
+        "fast"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +192,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "tucks",
+        "wiggles",
+        "compact",
+        "limbs",
+        "swim",
+        "fast"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +212,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "With sharp claws, this ferocious, ancient POKéMON rips apart prey and sucks their body fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "rips",
+        "ferocious",
+        "sucks",
+        "fluids",
+        "apart"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +231,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It was able to swim quickly thro­ ugh the water by compactly folding up its razor-sharp sickles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "compactly",
+        "thro",
+        "ugh",
+        "razor",
+        "sickles",
+        "folding",
+        "able",
+        "swim",
+        "quickly"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +253,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "KABUTOPS swam underwater to hunt for its prey in ancient times. The POKéMON was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "beginnings",
+        "evident",
+        "gills",
+        "dweller",
+        "evolving",
+        "swam",
+        "underwater",
+        "hunt",
+        "change",
+        "living",
+        "apparently"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +278,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KABUTOPS swam underwater to hunt for its prey in ancient times. The POKéMON was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "beginnings",
+        "evident",
+        "gills",
+        "dweller",
+        "evolving",
+        "swam",
+        "underwater",
+        "hunt",
+        "change",
+        "living",
+        "apparently"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +303,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "KABUTOPS once swam underwater to hunt for prey. It was apparently evolving from being a water dweller to living on land as evident from changes in its gills and legs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "evident",
+        "gills",
+        "dweller",
+        "evolving",
+        "swam",
+        "underwater",
+        "hunt",
+        "changes",
+        "living",
+        "apparently"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +327,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It swims freely through water. It catches prey with its scythe-like arms and drains the victim’s fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "scythe",
+        "drains",
+        "catches",
+        "fluids",
+        "victim",
+        "freely",
+        "swims"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +349,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains their fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "sleek",
+        "slashes",
+        "drains",
+        "perfect",
+        "shape",
+        "fluids",
+        "swimming"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +371,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "adapted",
+        "onto",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +388,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "adapted",
+        "onto",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +405,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "adapted",
+        "onto",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +422,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "tucks",
+        "wiggles",
+        "compact",
+        "limbs",
+        "swim",
+        "fast"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +442,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "With sharp claws, this ferocious, ancient Pokémon rips apart prey and sucks their body fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "rips",
+        "ferocious",
+        "sucks",
+        "fluids",
+        "apart"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +461,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "adapted",
+        "onto",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +478,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "adapted",
+        "onto",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +495,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "adapted",
+        "onto",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +512,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "adapted",
+        "onto",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +529,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "tucks",
+        "wiggles",
+        "compact",
+        "limbs",
+        "swim",
+        "fast"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +549,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "sickles",
+        "slices",
+        "slim",
+        "drinks",
+        "swimmer",
+        "fluids",
+        "fast"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +569,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "beginnings",
+        "evident",
+        "gills",
+        "dweller",
+        "evolving",
+        "swam",
+        "underwater",
+        "hunt",
+        "change",
+        "living",
+        "apparently"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +594,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "beginnings",
+        "evident",
+        "gills",
+        "dweller",
+        "evolving",
+        "swam",
+        "underwater",
+        "hunt",
+        "change",
+        "living",
+        "apparently"
+      ]
     },
     {
       "versionId": 29,
@@ -232,7 +619,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its body had begun to change so it could function on land. But it didn’t adapt in time and went extinct.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "didn",
+        "function",
+        "begun",
+        "adapt",
+        "went",
+        "extinct",
+        "had",
+        "change"
+      ]
     },
     {
       "versionId": 30,
@@ -240,7 +638,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It swims at speeds of roughly 29 knots, quickly closing in on its prey and slashing into them with its scythes to finish them off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "29",
+        "slashing",
+        "knots",
+        "finish",
+        "closing",
+        "roughly",
+        "scythes",
+        "speeds",
+        "swims",
+        "quickly"
+      ]
     },
     {
       "versionId": 31,
@@ -248,7 +662,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "drank",
+        "sliced",
+        "sickles",
+        "slim",
+        "swimmer",
+        "fluids",
+        "fast"
+      ]
     },
     {
       "versionId": 32,
@@ -256,7 +682,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "drank",
+        "sliced",
+        "sickles",
+        "slim",
+        "swimmer",
+        "fluids",
+        "fast"
+      ]
     },
     {
       "versionId": 33,
@@ -264,7 +702,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "slices",
+        "discarded",
+        "parts",
+        "sucks",
+        "fluids",
+        "apart"
+      ]
     },
     {
       "versionId": 34,
@@ -272,7 +721,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "extinction",
+        "inhabited",
+        "unknown",
+        "aggressive",
+        "species",
+        "behind",
+        "seas"
+      ]
     }
   ],
   "similarPokemonIds": [

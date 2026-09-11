@@ -10,6 +10,45 @@
   ],
   "imagePath": "/assets/pokemon/530.png",
   "entryCount": 10,
+  "entryTraits": [
+    "cave-dwelling",
+    "claws",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "90",
+    "rampant",
+    "uncommon",
+    "plate",
+    "subway",
+    "tunnel",
+    "activity",
+    "forming",
+    "terrain",
+    "mazelike",
+    "naturally",
+    "bore",
+    "plates",
+    "digging",
+    "construction",
+    "below",
+    "tunnels",
+    "drill",
+    "king",
+    "300",
+    "destructive",
+    "build",
+    "evolved",
+    "nests",
+    "formed",
+    "speeds",
+    "help",
+    "matter",
+    "actually",
+    "mph",
+    "surface",
+    "iron"
+  ],
   "color": "gray",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +78,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "tunnel",
+        "bore",
+        "plates",
+        "construction",
+        "drill",
+        "evolved",
+        "help",
+        "iron"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +99,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subway",
+        "activity",
+        "mazelike",
+        "below",
+        "tunnels",
+        "300",
+        "destructive",
+        "build",
+        "nests",
+        "surface"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +120,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "plate",
+        "forming",
+        "bore",
+        "drill",
+        "matter"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +138,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "plate",
+        "forming",
+        "bore",
+        "drill",
+        "matter"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +156,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "tunnel",
+        "bore",
+        "plates",
+        "construction",
+        "drill",
+        "evolved",
+        "help",
+        "iron"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +177,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subway",
+        "activity",
+        "mazelike",
+        "below",
+        "tunnels",
+        "300",
+        "destructive",
+        "build",
+        "nests",
+        "surface"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +198,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "tunnel",
+        "bore",
+        "plates",
+        "construction",
+        "drill",
+        "evolved",
+        "help",
+        "iron"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +219,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subway",
+        "activity",
+        "mazelike",
+        "below",
+        "tunnels",
+        "300",
+        "destructive",
+        "build",
+        "nests",
+        "surface"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +240,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill’s rampant digging.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "rampant",
+        "uncommon",
+        "naturally",
+        "digging",
+        "tunnels",
+        "formed",
+        "actually"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +260,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "90",
+        "tunnel",
+        "terrain",
+        "drill",
+        "king",
+        "speeds",
+        "mph"
+      ]
     }
   ],
   "similarPokemonIds": [

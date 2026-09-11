@@ -10,6 +10,58 @@
   ],
   "imagePath": "/assets/pokemon/048.png",
   "entryCount": 26,
+  "entryTraits": [
+    "forest-dwelling",
+    "nocturnal",
+    "luminous",
+    "poisonous",
+    "sleeping",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "radars",
+    "tracted",
+    "minuscule",
+    "miniscule",
+    "function",
+    "fail",
+    "insects",
+    "clusters",
+    "attracted",
+    "possesses",
+    "shadows",
+    "bugs",
+    "radar",
+    "stiff",
+    "oozes",
+    "enabling",
+    "drawn",
+    "act",
+    "covers",
+    "tall",
+    "units",
+    "catches",
+    "beams",
+    "shoot",
+    "hole",
+    "evolved",
+    "coat",
+    "spot",
+    "tiny",
+    "bright",
+    "protection",
+    "hair",
+    "falls",
+    "actually",
+    "thin",
+    "active",
+    "place",
+    "hide",
+    "sleeps",
+    "darkness",
+    "entire",
+    "big"
+  ],
   "color": "purple",
   "shape": "humanoid",
   "habitat": "forest",
@@ -39,7 +91,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "insects",
+        "attracted",
+        "shadows",
+        "tall"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +110,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "insects",
+        "attracted",
+        "shadows",
+        "tall"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +129,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "radars",
+        "clusters",
+        "act",
+        "tiny",
+        "bright",
+        "place"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +146,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "function",
+        "bugs",
+        "radar",
+        "units",
+        "catches",
+        "hide",
+        "darkness"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +164,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Poison oozes from all over its body. It catches and eats small bugs at night that are at­ tracted by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous",
+        "poisonous"
+      ],
+      "keywords": [
+        "tracted",
+        "bugs",
+        "oozes",
+        "catches"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +183,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "bugs",
+        "hole",
+        "falls",
+        "sleeps"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +202,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "miniscule",
+        "fail",
+        "possesses",
+        "stiff",
+        "covers",
+        "evolved",
+        "coat",
+        "spot",
+        "protection",
+        "hair",
+        "thin",
+        "entire"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +227,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "miniscule",
+        "fail",
+        "possesses",
+        "stiff",
+        "covers",
+        "evolved",
+        "coat",
+        "spot",
+        "protection",
+        "hair",
+        "thin",
+        "entire"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +252,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "miniscule",
+        "fail",
+        "stiff",
+        "covers",
+        "evolved",
+        "coat",
+        "spot",
+        "protection",
+        "hair",
+        "thin",
+        "entire"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +276,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "radar",
+        "enabling",
+        "act",
+        "beams",
+        "shoot",
+        "active",
+        "darkness"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +294,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "attracted",
+        "shadows",
+        "bugs",
+        "tall"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +313,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "clusters",
+        "drawn",
+        "tiny",
+        "actually",
+        "big"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +332,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "clusters",
+        "drawn",
+        "tiny",
+        "actually",
+        "big"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +351,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "clusters",
+        "drawn",
+        "tiny",
+        "actually",
+        "big"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +370,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "function",
+        "bugs",
+        "radar",
+        "units",
+        "catches",
+        "hide",
+        "darkness"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +388,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous",
+        "poisonous"
+      ],
+      "keywords": [
+        "attracted",
+        "bugs",
+        "oozes",
+        "catches"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +407,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "clusters",
+        "drawn",
+        "tiny",
+        "actually",
+        "big"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +426,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "clusters",
+        "drawn",
+        "tiny",
+        "actually",
+        "big"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +445,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "clusters",
+        "drawn",
+        "tiny",
+        "actually",
+        "big"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +464,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "clusters",
+        "drawn",
+        "tiny",
+        "actually",
+        "big"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +483,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "clusters",
+        "drawn",
+        "tiny",
+        "actually",
+        "big"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +502,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "attracted",
+        "shadows",
+        "bugs",
+        "tall"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +521,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "minuscule",
+        "fail",
+        "possesses",
+        "stiff",
+        "covers",
+        "evolved",
+        "coat",
+        "spot",
+        "protection",
+        "hair",
+        "thin",
+        "entire"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +546,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "minuscule",
+        "fail",
+        "possesses",
+        "stiff",
+        "covers",
+        "evolved",
+        "coat",
+        "spot",
+        "protection",
+        "hair",
+        "thin",
+        "entire"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +571,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clusters",
+        "radar",
+        "act",
+        "tiny",
+        "bright",
+        "place"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +588,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clusters",
+        "radar",
+        "act",
+        "tiny",
+        "bright",
+        "place"
+      ]
     }
   ],
   "similarPokemonIds": [

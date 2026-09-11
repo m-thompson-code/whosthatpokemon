@@ -9,6 +9,73 @@
   ],
   "imagePath": "/assets/pokemon/206.png",
   "entryCount": 25,
+  "entryTraits": [
+    "tail",
+    "wings",
+    "burrowing",
+    "luminous",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "capes",
+    "furi",
+    "ously",
+    "yourself",
+    "es",
+    "mazes",
+    "saying",
+    "lucky",
+    "boring",
+    "consider",
+    "burrowing",
+    "happen",
+    "mazelike",
+    "digging",
+    "furiously",
+    "backwards",
+    "tipped",
+    "happily",
+    "hover",
+    "reaches",
+    "complex",
+    "spotted",
+    "diglett",
+    "escapes",
+    "flees",
+    "locations",
+    "dirt",
+    "tunnels",
+    "drill",
+    "shapes",
+    "backward",
+    "motionless",
+    "virtually",
+    "scientists",
+    "travels",
+    "burrow",
+    "float",
+    "share",
+    "slightly",
+    "sees",
+    "hole",
+    "person",
+    "nests",
+    "tiny",
+    "ever",
+    "find",
+    "escape",
+    "tell",
+    "digs",
+    "remains",
+    "caves",
+    "little",
+    "lost",
+    "scent",
+    "another",
+    "dark",
+    "creates",
+    "hides"
+  ],
   "color": "yellow",
   "shape": "squiggle",
   "habitat": "cave",
@@ -38,7 +105,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When spotted, this POKéMON escapes backward by furi­ ously boring into the ground with its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "furi",
+        "ously",
+        "boring",
+        "spotted",
+        "escapes",
+        "backward"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +124,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If spotted, it es­ capes by burrowing with its tail. It can float just slightly using its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "wings",
+        "burrowing"
+      ],
+      "keywords": [
+        "capes",
+        "es",
+        "burrowing",
+        "spotted",
+        "float",
+        "slightly"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +145,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It hides deep inside caves where no light ever reaches it and remains virtually motionless there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "reaches",
+        "motionless",
+        "virtually",
+        "ever",
+        "remains",
+        "caves",
+        "hides"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +165,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "backwards",
+        "complex",
+        "drill",
+        "shapes",
+        "burrow"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +184,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "backwards",
+        "complex",
+        "drill",
+        "shapes",
+        "burrow"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +203,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its drill-tipped tail is used to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "backwards",
+        "tipped",
+        "complex",
+        "drill",
+        "shapes",
+        "burrow"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +223,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If spotted, it escapes by burrowing with its tail. It can hover just slightly using its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "wings",
+        "burrowing"
+      ],
+      "keywords": [
+        "burrowing",
+        "hover",
+        "spotted",
+        "escapes",
+        "slightly"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +243,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When spotted, this POKéMON escapes backward by furiously boring into the ground with its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "boring",
+        "furiously",
+        "spotted",
+        "escapes",
+        "backward"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +261,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "mazelike",
+        "digs",
+        "little"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +278,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "mazelike",
+        "digs",
+        "little"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +295,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "mazelike",
+        "digs",
+        "little"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +312,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "boring",
+        "furiously",
+        "spotted",
+        "escapes",
+        "backward"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +330,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "wings",
+        "burrowing"
+      ],
+      "keywords": [
+        "burrowing",
+        "spotted",
+        "escapes",
+        "float",
+        "slightly"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +350,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "mazelike",
+        "digs",
+        "little"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +367,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "mazelike",
+        "digs",
+        "little"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +384,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "mazes",
+        "digging",
+        "spotted",
+        "flees",
+        "locations",
+        "dark",
+        "creates"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +405,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "mazes",
+        "digging",
+        "spotted",
+        "flees",
+        "locations",
+        "dark",
+        "creates"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +426,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "boring",
+        "furiously",
+        "spotted",
+        "escapes",
+        "backward"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +444,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "mazelike",
+        "digs",
+        "little"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +461,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "complex",
+        "drill",
+        "shapes",
+        "backward",
+        "burrow"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +480,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "complex",
+        "drill",
+        "shapes",
+        "backward",
+        "burrow"
+      ]
     },
     {
       "versionId": 29,
@@ -206,7 +499,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It travels by digging through the ground. Diglett and Dunsparce share one another’s tunnels happily.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "digging",
+        "happily",
+        "diglett",
+        "tunnels",
+        "travels",
+        "share",
+        "another"
+      ]
     },
     {
       "versionId": 30,
@@ -214,7 +519,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "burrowing"
+      ],
+      "keywords": [
+        "yourself",
+        "lucky",
+        "consider",
+        "happen",
+        "sees",
+        "hole",
+        "person",
+        "find",
+        "escape",
+        "digs"
+      ]
     },
     {
       "versionId": 33,
@@ -222,7 +543,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon’s tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "saying",
+        "scientists",
+        "tiny"
+      ]
     },
     {
       "versionId": 34,
@@ -230,7 +560,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mazes",
+        "dirt",
+        "tunnels",
+        "nests",
+        "tell",
+        "lost",
+        "scent"
+      ]
     }
   ],
   "similarPokemonIds": [

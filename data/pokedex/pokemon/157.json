@@ -9,6 +9,61 @@
   ],
   "imagePath": "/assets/pokemon/157.png",
   "entryCount": 22,
+  "entryTraits": [
+    "fiery",
+    "fur",
+    "sky-dwelling",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "blaz",
+    "forsaken",
+    "cinders",
+    "haze",
+    "influenced",
+    "sacred",
+    "shimmer",
+    "shimmering",
+    "shimmers",
+    "afterlife",
+    "explosions",
+    "peaks",
+    "guide",
+    "ready",
+    "obscures",
+    "souls",
+    "towering",
+    "purify",
+    "hisui",
+    "devastating",
+    "explosive",
+    "rage",
+    "secret",
+    "center",
+    "blazing",
+    "touches",
+    "rubs",
+    "ing",
+    "i",
+    "believe",
+    "intensely",
+    "blasts",
+    "sign",
+    "burn",
+    "intense",
+    "instantly",
+    "behind",
+    "everything",
+    "lost",
+    "causes",
+    "hide",
+    "huge",
+    "mountain",
+    "create",
+    "creates",
+    "heat",
+    "hot"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +93,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "peaks",
+        "rage",
+        "touches",
+        "instantly",
+        "hot"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +111,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It has a secret, devastating move. It rubs its blaz­ ing fur together to cause huge explosions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "blaz",
+        "explosions",
+        "devastating",
+        "secret",
+        "rubs",
+        "ing",
+        "huge"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +131,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When heat from its body causes the air around it to shimmer, this is a sign that it is ready to battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "shimmer",
+        "ready",
+        "sign",
+        "causes",
+        "heat"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +150,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This POKéMON creates blazing explosive blasts that burn everything to cinders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cinders",
+        "haze",
+        "shimmering",
+        "obscures",
+        "explosive",
+        "blazing",
+        "intensely",
+        "blasts",
+        "burn",
+        "behind",
+        "everything",
+        "creates",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +177,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This POKéMON creates blazing explosive blasts that burn everything to cinders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cinders",
+        "haze",
+        "shimmering",
+        "obscures",
+        "explosive",
+        "blazing",
+        "intensely",
+        "blasts",
+        "burn",
+        "behind",
+        "everything",
+        "creates",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +204,26 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It can hide behind a shimmering heat haze that it creates using its intense flames. TYPHLOSION create blazing explosive blasts that burn everything to cinders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cinders",
+        "haze",
+        "shimmering",
+        "explosive",
+        "blazing",
+        "blasts",
+        "burn",
+        "intense",
+        "behind",
+        "everything",
+        "hide",
+        "create",
+        "creates",
+        "heat"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +231,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "explosions",
+        "devastating",
+        "secret",
+        "blazing",
+        "rubs",
+        "huge"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +250,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "peaks",
+        "rage",
+        "touches",
+        "instantly",
+        "hot"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +268,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shimmers",
+        "blasts",
+        "intense",
+        "hide",
+        "creates",
+        "heat"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +287,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shimmers",
+        "blasts",
+        "intense",
+        "hide",
+        "creates",
+        "heat"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +306,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shimmers",
+        "blasts",
+        "intense",
+        "hide",
+        "creates",
+        "heat"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +325,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "peaks",
+        "rage",
+        "touches",
+        "instantly",
+        "hot"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +343,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "explosions",
+        "devastating",
+        "secret",
+        "blazing",
+        "rubs",
+        "huge"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +362,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shimmers",
+        "blasts",
+        "intense",
+        "hide",
+        "creates",
+        "heat"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +381,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shimmers",
+        "blasts",
+        "intense",
+        "hide",
+        "creates",
+        "heat"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +400,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shimmers",
+        "blasts",
+        "intense",
+        "hide",
+        "creates",
+        "heat"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +419,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shimmers",
+        "blasts",
+        "intense",
+        "hide",
+        "creates",
+        "heat"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +438,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "peaks",
+        "rage",
+        "touches",
+        "instantly",
+        "hot"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +456,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "explosions",
+        "devastating",
+        "secret",
+        "blazing",
+        "rubs",
+        "huge"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +475,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cinders",
+        "haze",
+        "shimmering",
+        "obscures",
+        "explosive",
+        "blazing",
+        "intensely",
+        "blasts",
+        "burn",
+        "behind",
+        "everything",
+        "creates",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +502,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cinders",
+        "haze",
+        "shimmering",
+        "obscures",
+        "explosive",
+        "blazing",
+        "intensely",
+        "blasts",
+        "burn",
+        "behind",
+        "everything",
+        "creates",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 39,
@@ -206,7 +529,27 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "forsaken",
+        "influenced",
+        "sacred",
+        "afterlife",
+        "guide",
+        "souls",
+        "towering",
+        "purify",
+        "hisui",
+        "center",
+        "i",
+        "believe",
+        "lost",
+        "mountain"
+      ]
     }
   ],
   "similarPokemonIds": [

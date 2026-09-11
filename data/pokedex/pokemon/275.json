@@ -10,6 +10,57 @@
   ],
   "imagePath": "/assets/pokemon/275.png",
   "entryCount": 20,
+  "entryTraits": [
+    "forest-dwelling",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "windstorms",
+    "terrific",
+    "venture",
+    "whipped",
+    "preemptive",
+    "chilly",
+    "ft",
+    "awesome",
+    "dating",
+    "fan",
+    "leafy",
+    "wintry",
+    "action",
+    "chooses",
+    "arrive",
+    "atop",
+    "gusts",
+    "towering",
+    "read",
+    "fans",
+    "whip",
+    "guardian",
+    "per",
+    "winter",
+    "thousand",
+    "mind",
+    "blows",
+    "second",
+    "feared",
+    "level",
+    "quietly",
+    "houses",
+    "holds",
+    "flapping",
+    "generate",
+    "do",
+    "winds",
+    "wind",
+    "forest",
+    "forests",
+    "mysterious",
+    "100",
+    "create",
+    "creates",
+    "close"
+  ],
   "color": "brown",
   "shape": "humanoid",
   "habitat": "forest",
@@ -40,7 +91,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SHIFTRY is a mysterious POKéMON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "windstorms",
+        "terrific",
+        "dating",
+        "atop",
+        "towering",
+        "fans",
+        "thousand",
+        "holds",
+        "mysterious",
+        "creates"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +114,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SHIFTRY’s large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This POKéMON chooses to live quietly deep in forests.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "whipped",
+        "awesome",
+        "chooses",
+        "gusts",
+        "fans",
+        "per",
+        "blows",
+        "second",
+        "quietly",
+        "generate",
+        "wind",
+        "forests",
+        "100",
+        "close"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +139,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this POKéMON lives in a deep forest where people do not venture.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "venture",
+        "chilly",
+        "wintry",
+        "arrive",
+        "guardian",
+        "feared",
+        "do",
+        "winds",
+        "forest",
+        "forests"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +162,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A POKéMON that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "psychic"
+      ],
+      "keywords": [
+        "preemptive",
+        "action",
+        "read",
+        "guardian",
+        "mind",
+        "feared",
+        "forest"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +183,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A POKéMON that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "psychic"
+      ],
+      "keywords": [
+        "preemptive",
+        "action",
+        "read",
+        "guardian",
+        "mind",
+        "feared",
+        "forest"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +204,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ft",
+        "fan",
+        "leafy",
+        "gusts",
+        "whip",
+        "second",
+        "level",
+        "houses",
+        "flapping",
+        "100"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +225,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ft",
+        "fan",
+        "leafy",
+        "gusts",
+        "whip",
+        "second",
+        "level",
+        "houses",
+        "flapping",
+        "100"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +246,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ft",
+        "fan",
+        "leafy",
+        "gusts",
+        "whip",
+        "second",
+        "level",
+        "houses",
+        "flapping",
+        "100"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +267,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "chilly",
+        "fans",
+        "winter",
+        "quietly",
+        "holds",
+        "winds",
+        "forest",
+        "create"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +288,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "chilly",
+        "fans",
+        "winter",
+        "quietly",
+        "holds",
+        "winds",
+        "forest",
+        "create"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +309,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ft",
+        "fan",
+        "leafy",
+        "gusts",
+        "whip",
+        "second",
+        "level",
+        "houses",
+        "flapping",
+        "100"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +330,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ft",
+        "fan",
+        "leafy",
+        "gusts",
+        "whip",
+        "second",
+        "level",
+        "houses",
+        "flapping",
+        "100"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +351,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ft",
+        "fan",
+        "leafy",
+        "gusts",
+        "whip",
+        "second",
+        "level",
+        "houses",
+        "flapping",
+        "100"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +372,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ft",
+        "fan",
+        "leafy",
+        "gusts",
+        "whip",
+        "second",
+        "level",
+        "houses",
+        "flapping",
+        "100"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +393,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A Pokémon that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "psychic"
+      ],
+      "keywords": [
+        "preemptive",
+        "action",
+        "read",
+        "guardian",
+        "mind",
+        "feared",
+        "forest"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +414,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "By flapping its leafy fan, it can whip up gusts of 100 feet per second that can level houses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fan",
+        "leafy",
+        "gusts",
+        "whip",
+        "per",
+        "second",
+        "level",
+        "houses",
+        "flapping",
+        "100"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +435,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "windstorms",
+        "terrific",
+        "dating",
+        "atop",
+        "towering",
+        "fans",
+        "thousand",
+        "holds",
+        "mysterious",
+        "creates"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +458,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shiftry’s large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "whipped",
+        "awesome",
+        "chooses",
+        "gusts",
+        "fans",
+        "per",
+        "blows",
+        "second",
+        "quietly",
+        "generate",
+        "wind",
+        "forests",
+        "100",
+        "close"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +483,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "A Pokémon that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "psychic"
+      ],
+      "keywords": [
+        "preemptive",
+        "action",
+        "read",
+        "guardian",
+        "mind",
+        "feared",
+        "forest"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +504,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "chilly",
+        "fans",
+        "winter",
+        "quietly",
+        "holds",
+        "winds",
+        "forest",
+        "create"
+      ]
     }
   ],
   "similarPokemonIds": [

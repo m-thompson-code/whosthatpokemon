@@ -9,6 +9,58 @@
   ],
   "imagePath": "/assets/pokemon/352.png",
   "entryCount": 20,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "concealment",
+    "pout",
+    "darker",
+    "exception",
+    "alters",
+    "reverts",
+    "shading",
+    "unnoticed",
+    "original",
+    "ensnare",
+    "blend",
+    "hue",
+    "lashes",
+    "stretchy",
+    "fixed",
+    "healthier",
+    "reveal",
+    "alter",
+    "coloration",
+    "mood",
+    "zigzag",
+    "allowing",
+    "sneak",
+    "match",
+    "changing",
+    "health",
+    "sad",
+    "unsuspecting",
+    "happy",
+    "startled",
+    "target",
+    "notice",
+    "stay",
+    "color",
+    "colors",
+    "pattern",
+    "change",
+    "instantly",
+    "tongue",
+    "patterns",
+    "changes",
+    "surroundings",
+    "freely",
+    "capable",
+    "belly",
+    "takes",
+    "doesn"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": "forest",
@@ -38,7 +90,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "KECLEON is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this POKéMON can’t change the zigzag pattern on its belly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "exception",
+        "blend",
+        "zigzag",
+        "changing",
+        "colors",
+        "pattern",
+        "change",
+        "surroundings",
+        "capable",
+        "belly"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +111,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KECLEON alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "alters",
+        "unnoticed",
+        "ensnare",
+        "blend",
+        "lashes",
+        "stretchy",
+        "coloration",
+        "allowing",
+        "sneak",
+        "unsuspecting",
+        "target",
+        "instantly",
+        "tongue",
+        "surroundings"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +138,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A POKéMON that has the ability to alter its body colors to match its surroundings. A KECLEON reverts to its original colors if it is startled.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reverts",
+        "original",
+        "alter",
+        "match",
+        "startled",
+        "colors",
+        "surroundings"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +156,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blend",
+        "sad",
+        "happy",
+        "color",
+        "changes",
+        "surroundings"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +173,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blend",
+        "sad",
+        "happy",
+        "color",
+        "changes",
+        "surroundings"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +190,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzag",
+        "color",
+        "pattern",
+        "change",
+        "freely",
+        "belly",
+        "doesn"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +208,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzag",
+        "color",
+        "pattern",
+        "change",
+        "freely",
+        "belly",
+        "doesn"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +226,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzag",
+        "color",
+        "pattern",
+        "change",
+        "freely",
+        "belly",
+        "doesn"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +244,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "shading",
+        "fixed",
+        "sneak",
+        "match",
+        "stay",
+        "patterns",
+        "changes",
+        "surroundings",
+        "belly"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +266,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "shading",
+        "fixed",
+        "sneak",
+        "match",
+        "stay",
+        "patterns",
+        "changes",
+        "surroundings",
+        "belly"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +288,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzag",
+        "color",
+        "pattern",
+        "change",
+        "freely",
+        "belly",
+        "doesn"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +306,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzag",
+        "color",
+        "pattern",
+        "change",
+        "freely",
+        "belly",
+        "doesn"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +324,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzag",
+        "color",
+        "pattern",
+        "change",
+        "freely",
+        "belly",
+        "doesn"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +342,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzag",
+        "color",
+        "pattern",
+        "change",
+        "freely",
+        "belly",
+        "doesn"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +360,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzag",
+        "color",
+        "pattern",
+        "change",
+        "freely",
+        "belly",
+        "doesn"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +378,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "shading",
+        "fixed",
+        "sneak",
+        "match",
+        "stay",
+        "patterns",
+        "changes",
+        "surroundings",
+        "belly"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +400,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception—this Pokémon can’t change the zigzag pattern on its belly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "exception",
+        "blend",
+        "zigzag",
+        "changing",
+        "colors",
+        "pattern",
+        "change",
+        "surroundings",
+        "capable",
+        "belly"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +421,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "alters",
+        "unnoticed",
+        "ensnare",
+        "blend",
+        "lashes",
+        "stretchy",
+        "coloration",
+        "allowing",
+        "sneak",
+        "unsuspecting",
+        "target",
+        "instantly",
+        "tongue",
+        "surroundings"
+      ]
     },
     {
       "versionId": 29,
@@ -182,7 +448,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pout",
+        "blend",
+        "hue",
+        "reveal",
+        "notice",
+        "changes",
+        "surroundings",
+        "takes"
+      ]
     },
     {
       "versionId": 30,
@@ -190,7 +467,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "concealment",
+        "darker",
+        "healthier",
+        "mood",
+        "health",
+        "color",
+        "changes"
+      ]
     }
   ],
   "similarPokemonIds": [

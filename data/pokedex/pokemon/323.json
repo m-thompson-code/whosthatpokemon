@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/323.png",
   "entryCount": 18,
+  "entryTraits": [
+    "volcanic"
+  ],
+  "entryKeywords": [
+    "crater",
+    "spewing",
+    "superheated",
+    "humps",
+    "eruption",
+    "shudders",
+    "major",
+    "craters",
+    "transformation",
+    "erupt",
+    "courses",
+    "erupts",
+    "lava",
+    "shower",
+    "blast",
+    "molten",
+    "volcanoes",
+    "18",
+    "really",
+    "violently",
+    "angered",
+    "whenever",
+    "volcano",
+    "research",
+    "enraged",
+    "occasionally",
+    "formed",
+    "builds",
+    "f",
+    "angry",
+    "bones",
+    "magma",
+    "10",
+    "fahrenheit",
+    "well",
+    "apparently"
+  ],
   "color": "red",
   "shape": "quadruped",
   "habitat": "mountain",
@@ -39,7 +80,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this POKéMON’s back erupt, spewing the superheated magma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "spewing",
+        "superheated",
+        "humps",
+        "erupt",
+        "courses",
+        "18",
+        "volcano",
+        "occasionally",
+        "f",
+        "magma"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +103,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "The humps on CAMERUPT’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This POKéMON apparently erupts often when it is enraged.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "humps",
+        "transformation",
+        "erupts",
+        "blast",
+        "molten",
+        "enraged",
+        "formed",
+        "bones",
+        "magma",
+        "apparently"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +124,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A POKéMON that lives in the crater of a volcano. Every 10 years, the volcanoes on its back erupt violently. Research is under way on the cause of eruption.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "crater",
+        "eruption",
+        "erupt",
+        "volcanoes",
+        "violently",
+        "volcano",
+        "research",
+        "10"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +145,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If angered, the humps on its back erupt in a shower of molten lava. It lives in the craters of volcanoes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "humps",
+        "craters",
+        "erupt",
+        "lava",
+        "shower",
+        "molten",
+        "volcanoes",
+        "angered"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +166,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If angered, the humps on its back erupt in a shower of molten lava. It lives in the craters of volcanoes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "humps",
+        "craters",
+        "erupt",
+        "lava",
+        "shower",
+        "molten",
+        "volcanoes",
+        "angered"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +187,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shudders",
+        "erupts",
+        "volcanoes",
+        "violently",
+        "builds",
+        "magma"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +204,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shudders",
+        "erupts",
+        "volcanoes",
+        "violently",
+        "builds",
+        "magma"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +221,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shudders",
+        "erupts",
+        "volcanoes",
+        "violently",
+        "builds",
+        "magma"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +238,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in the crater of a volcano. It is well known that the humps on its back erupt every 10 years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "crater",
+        "humps",
+        "erupt",
+        "volcano",
+        "10",
+        "well"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +257,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in the crater of a volcano. It is well known that the humps on its back erupt every 10 years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "crater",
+        "humps",
+        "erupt",
+        "volcano",
+        "10",
+        "well"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +276,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shudders",
+        "erupts",
+        "volcanoes",
+        "violently",
+        "builds",
+        "magma"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +293,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shudders",
+        "erupts",
+        "volcanoes",
+        "violently",
+        "builds",
+        "magma"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +310,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The volcanoes on its back have a major eruption every 10 years--or whenever it becomes really angry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "eruption",
+        "major",
+        "volcanoes",
+        "really",
+        "whenever",
+        "angry",
+        "10"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +328,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The volcanoes on its back have a major eruption every 10 years--or whenever it becomes really angry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "eruption",
+        "major",
+        "volcanoes",
+        "really",
+        "whenever",
+        "angry",
+        "10"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +346,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The volcanoes on its back have a major eruption every 10 years--or whenever it becomes really angry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "eruption",
+        "major",
+        "volcanoes",
+        "really",
+        "whenever",
+        "angry",
+        "10"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +364,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If angered, the humps on its back erupt in a shower of molten lava. It lives in the craters of volcanoes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "humps",
+        "craters",
+        "erupt",
+        "lava",
+        "shower",
+        "molten",
+        "volcanoes",
+        "angered"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +385,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Camerupt has a volcano inside its body. Magma of 18,000 degrees Fahrenheit courses through its body. Occasionally, the humps on this Pokémon’s back erupt, spewing the superheated magma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "spewing",
+        "superheated",
+        "humps",
+        "erupt",
+        "courses",
+        "18",
+        "volcano",
+        "occasionally",
+        "magma",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +408,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "humps",
+        "transformation",
+        "erupts",
+        "blast",
+        "molten",
+        "enraged",
+        "formed",
+        "bones",
+        "magma",
+        "apparently"
+      ]
     }
   ],
   "similarPokemonIds": [

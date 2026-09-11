@@ -9,6 +9,135 @@
   ],
   "imagePath": "/assets/pokemon/055.png",
   "entryCount": 33,
+  "entryTraits": [
+    "aquatic",
+    "luminous",
+    "psychic",
+    "tail",
+    "arms"
+  ],
+  "entryKeywords": [
+    "defiled",
+    "disabled",
+    "gins",
+    "guilty",
+    "joins",
+    "kinetic",
+    "lakeshores",
+    "tele",
+    "athletic",
+    "definitely",
+    "floundering",
+    "fore",
+    "grants",
+    "paddles",
+    "seizes",
+    "standstill",
+    "wrecked",
+    "champion",
+    "dynamically",
+    "fastest",
+    "fond",
+    "japanese",
+    "kappa",
+    "professional",
+    "stormy",
+    "waterways",
+    "etc",
+    "extent",
+    "dragged",
+    "banks",
+    "punishing",
+    "supernatural",
+    "telekinetic",
+    "webbing",
+    "effortlessly",
+    "helping",
+    "ming",
+    "monster",
+    "streamlined",
+    "waving",
+    "competitive",
+    "shimmers",
+    "grace",
+    "putting",
+    "clawing",
+    "lake",
+    "rescues",
+    "shores",
+    "swimmers",
+    "frightening",
+    "skills",
+    "gracefully",
+    "webbed",
+    "flippers",
+    "flowing",
+    "graceful",
+    "mysteriously",
+    "shocking",
+    "slim",
+    "continue",
+    "gently",
+    "hunted",
+    "tales",
+    "display",
+    "dusk",
+    "somehow",
+    "taken",
+    "ships",
+    "fish",
+    "mistaken",
+    "possess",
+    "shore",
+    "brings",
+    "skillfully",
+    "elegantly",
+    "best",
+    "broad",
+    "rough",
+    "adept",
+    "forehead",
+    "slow",
+    "forelegs",
+    "part",
+    "river",
+    "swimmer",
+    "catches",
+    "limbs",
+    "lakes",
+    "shines",
+    "fully",
+    "quietly",
+    "training",
+    "begins",
+    "straight",
+    "quiet",
+    "glow",
+    "glows",
+    "hind",
+    "faster",
+    "past",
+    "rivers",
+    "old",
+    "tell",
+    "hands",
+    "end",
+    "swim",
+    "days",
+    "among",
+    "red",
+    "human",
+    "along",
+    "fast",
+    "swims",
+    "full",
+    "moving",
+    "well",
+    "swimming",
+    "takes",
+    "developed",
+    "seas"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -39,7 +168,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "japanese",
+        "kappa",
+        "ming",
+        "monster",
+        "lake",
+        "shores",
+        "mistaken",
+        "elegantly",
+        "swim"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +190,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "japanese",
+        "kappa",
+        "ming",
+        "monster",
+        "lake",
+        "shores",
+        "mistaken",
+        "elegantly",
+        "swim"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +212,21 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its slim and long limbs end in broad flippers. They are used for swim­ ming gracefully in lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ming",
+        "gracefully",
+        "flippers",
+        "slim",
+        "broad",
+        "limbs",
+        "lakes",
+        "end",
+        "swim"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +234,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When it swims at full speed using its long, webbed limbs, its fore­ head somehow be­ gins to glow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "gins",
+        "fore",
+        "webbed",
+        "somehow",
+        "limbs",
+        "glow",
+        "swims",
+        "full"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +256,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It appears by waterways at dusk. It may use tele­ kinetic powers if its forehead glows mysteriously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "kinetic",
+        "tele",
+        "waterways",
+        "mysteriously",
+        "dusk",
+        "forehead",
+        "glows"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +276,22 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fond",
+        "grace",
+        "slow",
+        "lakes",
+        "fully",
+        "quiet",
+        "rivers",
+        "along",
+        "swims",
+        "moving"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +299,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The webbed flippers on its forelegs and hind legs and the streamlined body of GOLDUCK give it frightening speed. This POKéMON is definitely much faster than even the most athletic swimmer.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "athletic",
+        "definitely",
+        "streamlined",
+        "frightening",
+        "webbed",
+        "flippers",
+        "forelegs",
+        "swimmer",
+        "hind",
+        "faster"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +320,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GOLDUCK is the fastest swimmer among all POKéMON. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "floundering",
+        "wrecked",
+        "fastest",
+        "stormy",
+        "effortlessly",
+        "rescues",
+        "ships",
+        "rough",
+        "swimmer",
+        "among",
+        "swims",
+        "seas"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +345,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A GOLDUCK is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous",
+        "psychic"
+      ],
+      "keywords": [
+        "joins",
+        "competitive",
+        "shimmers",
+        "swimmers",
+        "adept",
+        "forehead",
+        "swimmer",
+        "training"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +367,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "etc",
+        "helping",
+        "webbed",
+        "elegantly",
+        "adept",
+        "forelegs",
+        "swimmer",
+        "lakes",
+        "swimming"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +389,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Often seen swimming elegantly by lakeshores. It is often mistaken for the Japanese monster Kappa.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "lakeshores",
+        "japanese",
+        "kappa",
+        "monster",
+        "mistaken",
+        "elegantly",
+        "swimming"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +409,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that lives in lakes. It swims faster than any human swimming champion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "champion",
+        "lakes",
+        "faster",
+        "human",
+        "swims",
+        "swimming"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +428,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The flippers of its well-developed limbs give it shocking speed. It is the best swimmer among Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flippers",
+        "shocking",
+        "best",
+        "swimmer",
+        "limbs",
+        "among",
+        "well",
+        "developed"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +447,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dynamically",
+        "flippers",
+        "elegantly",
+        "limbs",
+        "well",
+        "swimming",
+        "developed"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +467,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "webbed",
+        "somehow",
+        "forehead",
+        "limbs",
+        "begins",
+        "glow",
+        "swims",
+        "full"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +489,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "waterways",
+        "telekinetic",
+        "mysteriously",
+        "dusk",
+        "forehead",
+        "glows"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +508,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dynamically",
+        "flippers",
+        "elegantly",
+        "limbs",
+        "well",
+        "swimming",
+        "developed"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +528,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dynamically",
+        "flippers",
+        "elegantly",
+        "limbs",
+        "well",
+        "swimming",
+        "developed"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +548,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When its forehead shines mysteriously, Golduck can use the full extent of its power.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "extent",
+        "mysteriously",
+        "forehead",
+        "shines",
+        "full"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +564,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When its forehead shines mysteriously, Golduck can use the full extent of its power.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "extent",
+        "mysteriously",
+        "forehead",
+        "shines",
+        "full"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +580,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "waterways",
+        "telekinetic",
+        "mysteriously",
+        "dusk",
+        "forehead",
+        "glows"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +599,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "etc",
+        "helping",
+        "webbed",
+        "elegantly",
+        "adept",
+        "forelegs",
+        "swimmer",
+        "lakes",
+        "swimming"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +621,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "athletic",
+        "definitely",
+        "streamlined",
+        "frightening",
+        "webbed",
+        "flippers",
+        "forelegs",
+        "swimmer",
+        "hind",
+        "faster"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +642,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "floundering",
+        "wrecked",
+        "fastest",
+        "stormy",
+        "effortlessly",
+        "rescues",
+        "ships",
+        "rough",
+        "swimmer",
+        "among",
+        "swims",
+        "seas"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +667,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It is said that the red part of its forehead grants supernatural powers to those who possess one, so it was over-hunted in the past.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grants",
+        "supernatural",
+        "hunted",
+        "possess",
+        "forehead",
+        "part",
+        "past",
+        "red"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +686,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It swims along the banks of lakes and catches fish Pokémon. It takes them to the shore and quietly eats them up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "banks",
+        "fish",
+        "shore",
+        "catches",
+        "lakes",
+        "quietly",
+        "along",
+        "swims",
+        "takes"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +708,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Even fast-swimming fish Pokémon can be disabled by Golduck. It brings them to a standstill and seizes them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "disabled",
+        "seizes",
+        "standstill",
+        "fish",
+        "brings",
+        "fast",
+        "swimming"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +728,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "A professional swimmer, it can continue swimming for two days straight by waving its long tail skillfully.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "professional",
+        "waving",
+        "continue",
+        "skillfully",
+        "swimmer",
+        "straight",
+        "days",
+        "swimming"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +750,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gracefully",
+        "flippers",
+        "slim",
+        "broad",
+        "limbs",
+        "lakes",
+        "end",
+        "swimming"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +771,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gracefully",
+        "flippers",
+        "slim",
+        "broad",
+        "limbs",
+        "lakes",
+        "end",
+        "swimming"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +792,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "paddles",
+        "putting",
+        "skills",
+        "flowing",
+        "graceful",
+        "gently",
+        "display",
+        "limbs",
+        "rivers",
+        "swimming"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +815,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "defiled",
+        "guilty",
+        "dragged",
+        "punishing",
+        "tales",
+        "taken",
+        "river",
+        "old",
+        "tell"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +837,19 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "webbing",
+        "clawing",
+        "rough",
+        "hands",
+        "swim",
+        "seas"
+      ]
     }
   ],
   "similarPokemonIds": [

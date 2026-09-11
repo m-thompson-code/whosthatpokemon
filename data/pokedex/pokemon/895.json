@@ -9,6 +9,19 @@
   ],
   "imagePath": "/assets/pokemon/895.png",
   "entryCount": 2,
+  "entryTraits": [
+    "arms"
+  ],
+  "entryKeywords": [
+    "academic",
+    "proposes",
+    "unproven",
+    "crystallized",
+    "theory",
+    "dragon",
+    "composed",
+    "remains"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +51,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "academic",
+        "proposes",
+        "unproven",
+        "theory",
+        "dragon",
+        "remains"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +70,13 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "crystallized",
+        "dragon",
+        "composed"
+      ]
     }
   ],
   "similarPokemonIds": [

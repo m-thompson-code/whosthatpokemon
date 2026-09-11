@@ -10,6 +10,119 @@
   ],
   "imagePath": "/assets/pokemon/041.png",
   "entryCount": 33,
+  "entryTraits": [
+    "aquatic",
+    "sonic",
+    "sleeping",
+    "cold-climate",
+    "icy",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "deprived",
+    "echolocation",
+    "jects",
+    "daylight",
+    "eyeballs",
+    "flit",
+    "gloomy",
+    "ob",
+    "prolonged",
+    "roundings",
+    "safely",
+    "sundown",
+    "sur",
+    "unhealthy",
+    "atrophied",
+    "suffer",
+    "disliking",
+    "reflections",
+    "sonar",
+    "caverns",
+    "upside",
+    "relies",
+    "checks",
+    "differ",
+    "obstacles",
+    "frequency",
+    "perpetually",
+    "skill",
+    "scans",
+    "unmoving",
+    "via",
+    "echo",
+    "blind",
+    "tight",
+    "shut",
+    "vision",
+    "identify",
+    "burned",
+    "buildings",
+    "detect",
+    "avoids",
+    "gradually",
+    "pitch",
+    "hits",
+    "eaves",
+    "colonies",
+    "location",
+    "colony",
+    "hanging",
+    "targets",
+    "ceilings",
+    "need",
+    "morning",
+    "hangs",
+    "gathers",
+    "act",
+    "daytime",
+    "check",
+    "approach",
+    "grew",
+    "exposure",
+    "objects",
+    "stays",
+    "quietly",
+    "slightly",
+    "hours",
+    "houses",
+    "ll",
+    "forms",
+    "reach",
+    "spot",
+    "exposed",
+    "left",
+    "instead",
+    "sleeping",
+    "home",
+    "bright",
+    "old",
+    "ultrasonic",
+    "remains",
+    "caves",
+    "forests",
+    "thin",
+    "black",
+    "causes",
+    "constantly",
+    "living",
+    "another",
+    "dark",
+    "burns",
+    "sleeps",
+    "surroundings",
+    "darkness",
+    "emits",
+    "capable",
+    "places",
+    "sense",
+    "though",
+    "won",
+    "skin",
+    "gather",
+    "sun",
+    "sunlight"
+  ],
   "color": "purple",
   "shape": "wings",
   "habitat": "cave",
@@ -39,7 +152,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "perpetually",
+        "identify",
+        "colonies",
+        "targets",
+        "approach",
+        "forms",
+        "ultrasonic",
+        "dark",
+        "places"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +174,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "perpetually",
+        "identify",
+        "colonies",
+        "targets",
+        "approach",
+        "forms",
+        "ultrasonic",
+        "dark",
+        "places"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +196,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Emits ultrasonic cries while it flies. They act as a sonar used to check for ob­ jects in its way.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "jects",
+        "ob",
+        "sonar",
+        "act",
+        "check",
+        "ultrasonic",
+        "emits"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +216,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "While flying, it constantly emits ultrasonic waves from its mouth to check its sur­ roundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "roundings",
+        "sur",
+        "check",
+        "ultrasonic",
+        "constantly",
+        "emits"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +235,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "safely",
+        "obstacles",
+        "check",
+        "ultrasonic",
+        "dark",
+        "emits",
+        "capable",
+        "places"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +256,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "During the day, it gathers with others and hangs from the ceilings of old buildings and caves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "buildings",
+        "ceilings",
+        "hangs",
+        "gathers",
+        "old",
+        "caves"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +273,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ZUBAT remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "daylight",
+        "prolonged",
+        "unmoving",
+        "burned",
+        "exposure",
+        "quietly",
+        "slightly",
+        "hours",
+        "spot",
+        "bright",
+        "remains",
+        "causes",
+        "dark",
+        "sun"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +298,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ZUBAT avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "unhealthy",
+        "upside",
+        "avoids",
+        "eaves",
+        "hanging",
+        "daytime",
+        "exposure",
+        "stays",
+        "houses",
+        "sleeping",
+        "old",
+        "caves",
+        "causes",
+        "sunlight"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +325,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deprived",
+        "caverns",
+        "obstacles",
+        "shut",
+        "vision",
+        "detect",
+        "gradually",
+        "pitch",
+        "grew",
+        "ultrasonic",
+        "black",
+        "living"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +350,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flit",
+        "relies",
+        "echo",
+        "location",
+        "instead",
+        "ultrasonic",
+        "darkness"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +370,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It forms colonies in perpetually dark places and uses ultrasonic waves to identify and approach targets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "perpetually",
+        "identify",
+        "colonies",
+        "targets",
+        "approach",
+        "forms",
+        "ultrasonic",
+        "dark",
+        "places"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +392,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "obstacles",
+        "ultrasonic",
+        "emits",
+        "sense",
+        "though"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +410,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Disliking sunlight, it sleeps deep in forests and caves until sundown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "sundown",
+        "disliking",
+        "caves",
+        "forests",
+        "sleeps",
+        "sunlight"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +429,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "reflections",
+        "checks",
+        "location",
+        "ultrasonic",
+        "surroundings"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +447,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "check",
+        "ultrasonic",
+        "constantly",
+        "surroundings",
+        "emits"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +465,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "safely",
+        "obstacles",
+        "check",
+        "ultrasonic",
+        "dark",
+        "emits",
+        "capable",
+        "places"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +486,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "reflections",
+        "checks",
+        "location",
+        "ultrasonic",
+        "surroundings"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +504,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "reflections",
+        "checks",
+        "location",
+        "ultrasonic",
+        "surroundings"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +522,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "need",
+        "check",
+        "ultrasonic",
+        "surroundings",
+        "emits"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +540,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "need",
+        "check",
+        "ultrasonic",
+        "surroundings",
+        "emits"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +558,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "obstacles",
+        "ultrasonic",
+        "emits",
+        "sense",
+        "though"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +576,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "echolocation",
+        "flit",
+        "relies",
+        "instead",
+        "ultrasonic",
+        "darkness"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +595,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "daylight",
+        "prolonged",
+        "unmoving",
+        "burned",
+        "exposure",
+        "quietly",
+        "slightly",
+        "hours",
+        "spot",
+        "bright",
+        "remains",
+        "causes",
+        "dark",
+        "sun"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +620,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "unhealthy",
+        "upside",
+        "avoids",
+        "eaves",
+        "hanging",
+        "daytime",
+        "exposure",
+        "stays",
+        "houses",
+        "sleeping",
+        "old",
+        "caves",
+        "causes",
+        "sunlight"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +647,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "check",
+        "ultrasonic",
+        "caves",
+        "sleeps",
+        "surroundings",
+        "emits"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +667,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When exposed to sunlight, they suffer burns. The frequency of their ultrasonic waves can differ slightly from colony to colony.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "suffer",
+        "differ",
+        "frequency",
+        "colony",
+        "slightly",
+        "exposed",
+        "ultrasonic",
+        "burns",
+        "sunlight"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +689,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has no eyeballs, so it can’t see. It checks its surroundings via the ultrasonic waves it emits from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "eyeballs",
+        "checks",
+        "via",
+        "ultrasonic",
+        "surroundings",
+        "emits"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +708,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Their skin is so thin that they’ll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another’s bodies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "burned",
+        "hits",
+        "ll",
+        "thin",
+        "another",
+        "skin",
+        "gather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +730,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "sonar",
+        "act",
+        "check",
+        "objects",
+        "ultrasonic",
+        "emits"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +749,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "sonar",
+        "act",
+        "check",
+        "objects",
+        "ultrasonic",
+        "emits"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +768,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "skill",
+        "tight",
+        "check",
+        "ultrasonic",
+        "caves",
+        "surroundings",
+        "emits"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +788,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Zubat live in caves, down where the sun’s light won’t reach. In the morning, they gather together to keep each other warm as they sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping",
+        "luminous"
+      ],
+      "keywords": [
+        "morning",
+        "reach",
+        "caves",
+        "won",
+        "gather",
+        "sun"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +808,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "gloomy",
+        "atrophied",
+        "scans",
+        "via",
+        "blind",
+        "left",
+        "home",
+        "caves",
+        "surroundings",
+        "emits"
+      ]
     }
   ],
   "similarPokemonIds": [

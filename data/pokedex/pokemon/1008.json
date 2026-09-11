@@ -10,6 +10,27 @@
   ],
   "imagePath": "/assets/pokemon/1008.png",
   "entryCount": 2,
+  "entryTraits": [
+    "electric"
+  ],
+  "entryKeywords": [
+    "ruthless",
+    "serpent",
+    "cyclizar",
+    "ash",
+    "mentioned",
+    "book",
+    "turned",
+    "resembles",
+    "creature",
+    "unknown",
+    "old",
+    "seems",
+    "remains",
+    "far",
+    "iron",
+    "lightning"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +60,17 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ruthless",
+        "cyclizar",
+        "resembles",
+        "creature",
+        "unknown",
+        "remains",
+        "far"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +78,21 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "serpent",
+        "ash",
+        "mentioned",
+        "book",
+        "turned",
+        "old",
+        "seems",
+        "iron",
+        "lightning"
+      ]
     }
   ],
   "similarPokemonIds": [

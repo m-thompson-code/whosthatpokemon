@@ -9,6 +9,48 @@
   ],
   "imagePath": "/assets/pokemon/399.png",
   "entryCount": 14,
+  "entryTraits": [
+    "aquatic",
+    "fangs",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "flustered",
+    "incidents",
+    "sauntering",
+    "unsophisticated",
+    "involving",
+    "perturb",
+    "villages",
+    "whittle",
+    "nerves",
+    "comparison",
+    "gnawing",
+    "incisors",
+    "rate",
+    "chews",
+    "agile",
+    "gnaws",
+    "rattata",
+    "revealed",
+    "alongside",
+    "logs",
+    "teeth",
+    "houses",
+    "nests",
+    "front",
+    "single",
+    "care",
+    "nothing",
+    "groups",
+    "rarely",
+    "active",
+    "boulders",
+    "constantly",
+    "same",
+    "face",
+    "rocks"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +81,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perturb",
+        "nerves",
+        "agile",
+        "nothing",
+        "active"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +97,22 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "whittle",
+        "gnaws",
+        "alongside",
+        "logs",
+        "teeth",
+        "nests",
+        "front",
+        "constantly",
+        "rocks"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +120,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "comparison",
+        "rate",
+        "rattata",
+        "revealed",
+        "teeth",
+        "front",
+        "same"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +140,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in groups by the water. It chews up boulders and trees around its nest with its incisors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "incisors",
+        "chews",
+        "groups",
+        "boulders"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +158,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in groups by the water. It chews up boulders and trees around its nest with its incisors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "incisors",
+        "chews",
+        "groups",
+        "boulders"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +176,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "comparison",
+        "rate",
+        "rattata",
+        "revealed",
+        "teeth",
+        "front",
+        "same"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +196,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "comparison",
+        "rate",
+        "rattata",
+        "revealed",
+        "teeth",
+        "front",
+        "same"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +216,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "comparison",
+        "rate",
+        "rattata",
+        "revealed",
+        "teeth",
+        "front",
+        "same"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +236,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "comparison",
+        "rate",
+        "rattata",
+        "revealed",
+        "teeth",
+        "front",
+        "same"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +256,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perturb",
+        "nerves",
+        "agile",
+        "nothing",
+        "active"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +272,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "whittle",
+        "gnaws",
+        "alongside",
+        "logs",
+        "teeth",
+        "nests",
+        "front",
+        "constantly",
+        "rocks"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +295,15 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perturb",
+        "nerves",
+        "agile",
+        "nothing",
+        "active"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +311,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "whittle",
+        "gnaws",
+        "alongside",
+        "logs",
+        "teeth",
+        "nests",
+        "front",
+        "constantly",
+        "rocks"
+      ]
     },
     {
       "versionId": 39,
@@ -143,7 +334,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "flustered",
+        "incidents",
+        "sauntering",
+        "unsophisticated",
+        "involving",
+        "villages",
+        "gnawing",
+        "houses",
+        "single",
+        "care",
+        "rarely",
+        "face"
+      ]
     }
   ],
   "similarPokemonIds": [

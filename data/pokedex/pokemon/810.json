@@ -9,6 +9,27 @@
   ],
   "imagePath": "/assets/pokemon/810.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "revitalizing",
+    "rapid",
+    "produced",
+    "pumped",
+    "beat",
+    "beats",
+    "amazing",
+    "stick",
+    "strikes",
+    "carry",
+    "strike",
+    "area",
+    "flowers",
+    "special",
+    "plants"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +60,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "revitalizing",
+        "produced",
+        "beat",
+        "stick",
+        "carry",
+        "strike",
+        "area",
+        "flowers",
+        "special",
+        "plants"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +84,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rapid",
+        "pumped",
+        "beats",
+        "amazing",
+        "stick",
+        "strikes"
+      ]
     }
   ],
   "similarPokemonIds": [

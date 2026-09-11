@@ -10,6 +10,24 @@
   ],
   "imagePath": "/assets/pokemon/954.png",
   "entryCount": 2,
+  "entryTraits": [
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "comfortably",
+    "soothingly",
+    "supports",
+    "ensure",
+    "infant",
+    "therefore",
+    "barely",
+    "true",
+    "rolls",
+    "actually",
+    "sleeps",
+    "thought",
+    "ball"
+  ],
   "color": "green",
   "shape": "armor",
   "habitat": null,
@@ -39,7 +57,17 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "supports",
+        "therefore",
+        "barely",
+        "true",
+        "actually",
+        "thought",
+        "ball"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +75,19 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "comfortably",
+        "soothingly",
+        "ensure",
+        "infant",
+        "rolls",
+        "sleeps",
+        "ball"
+      ]
     }
   ],
   "similarPokemonIds": [

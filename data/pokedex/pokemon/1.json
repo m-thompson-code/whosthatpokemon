@@ -10,6 +10,45 @@
   ],
   "imagePath": "/assets/pokemon/001.png",
   "entryCount": 28,
+  "entryTraits": [
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "morsel",
+    "napping",
+    "planted",
+    "soaking",
+    "progressively",
+    "sprouts",
+    "gaining",
+    "bulb",
+    "nourishment",
+    "older",
+    "seed",
+    "slowly",
+    "steadily",
+    "rays",
+    "seeds",
+    "strange",
+    "order",
+    "bright",
+    "single",
+    "filled",
+    "birth",
+    "right",
+    "young",
+    "plant",
+    "carries",
+    "days",
+    "stored",
+    "larger",
+    "nutrients",
+    "eating",
+    "stores",
+    "sun",
+    "sunlight",
+    "born"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -40,7 +79,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "planted",
+        "sprouts",
+        "seed",
+        "strange",
+        "birth",
+        "plant"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +96,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "planted",
+        "sprouts",
+        "seed",
+        "strange",
+        "birth",
+        "plant"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +113,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "morsel",
+        "bulb",
+        "single",
+        "days",
+        "eating",
+        "stores"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +130,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seed",
+        "steadily",
+        "filled",
+        "larger",
+        "nutrients"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +146,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "older",
+        "seed",
+        "birth",
+        "right",
+        "carries",
+        "larger"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +163,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seeds",
+        "order",
+        "young",
+        "stored",
+        "nutrients"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +179,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "napping",
+        "soaking",
+        "progressively",
+        "seed",
+        "rays",
+        "bright",
+        "larger",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +201,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "napping",
+        "soaking",
+        "progressively",
+        "seed",
+        "rays",
+        "bright",
+        "larger",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +223,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "napping",
+        "soaking",
+        "progressively",
+        "seed",
+        "rays",
+        "bright",
+        "larger",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +245,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "There is a plant seed on its back right from the day this POKéMON is born. The seed slowly grows larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seed",
+        "slowly",
+        "right",
+        "plant",
+        "larger",
+        "born"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +262,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "planted",
+        "sprouts",
+        "seed",
+        "strange",
+        "birth",
+        "plant"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +279,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gaining",
+        "nourishment",
+        "seed",
+        "birth"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +294,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gaining",
+        "nourishment",
+        "seed",
+        "birth"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +309,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gaining",
+        "nourishment",
+        "seed",
+        "birth"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +324,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seed",
+        "steadily",
+        "filled",
+        "larger",
+        "nutrients"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +340,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "older",
+        "seed",
+        "birth",
+        "right",
+        "carries",
+        "larger"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +357,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gaining",
+        "nourishment",
+        "seed",
+        "birth"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +372,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gaining",
+        "nourishment",
+        "seed",
+        "birth"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +387,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gaining",
+        "nourishment",
+        "seed",
+        "birth"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +402,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gaining",
+        "nourishment",
+        "seed",
+        "birth"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +417,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "planted",
+        "sprouts",
+        "seed",
+        "strange",
+        "birth",
+        "plant"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +434,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gaining",
+        "nourishment",
+        "seed",
+        "birth"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +449,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "napping",
+        "soaking",
+        "progressively",
+        "seed",
+        "rays",
+        "bright",
+        "larger",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +471,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "napping",
+        "soaking",
+        "progressively",
+        "seed",
+        "rays",
+        "bright",
+        "larger",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 31,
@@ -232,7 +493,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "morsel",
+        "bulb",
+        "single",
+        "days",
+        "eating",
+        "stores"
+      ]
     },
     {
       "versionId": 32,
@@ -240,7 +510,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "morsel",
+        "bulb",
+        "single",
+        "days",
+        "eating",
+        "stores"
+      ]
     },
     {
       "versionId": 33,
@@ -248,7 +527,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seed",
+        "slowly",
+        "right",
+        "plant",
+        "larger",
+        "born"
+      ]
     },
     {
       "versionId": 34,
@@ -256,7 +544,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seed",
+        "order",
+        "young",
+        "stored",
+        "nutrients"
+      ]
     }
   ],
   "similarPokemonIds": [

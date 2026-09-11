@@ -9,6 +9,27 @@
   ],
   "imagePath": "/assets/pokemon/817.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "combatant",
+    "laying",
+    "clever",
+    "lazy",
+    "everywhere",
+    "traps",
+    "balloons",
+    "palms",
+    "secreted",
+    "intelligent",
+    "battles",
+    "moisture",
+    "created",
+    "keeps",
+    "highly"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +60,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "combatant",
+        "clever",
+        "balloons",
+        "palms",
+        "secreted",
+        "battles",
+        "moisture",
+        "created"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +81,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "laying",
+        "lazy",
+        "everywhere",
+        "traps",
+        "intelligent",
+        "keeps",
+        "highly"
+      ]
     }
   ],
   "similarPokemonIds": [

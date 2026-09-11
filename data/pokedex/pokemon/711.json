@@ -10,6 +10,44 @@
   ],
   "imagePath": "/assets/pokemon/711.png",
   "entryCount": 6,
+  "entryTraits": [
+    "nocturnal",
+    "arms",
+    "hunting",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "answers",
+    "wails",
+    "enwraps",
+    "hairlike",
+    "knocking",
+    "swept",
+    "door",
+    "emanate",
+    "joyfully",
+    "whoever",
+    "suffering",
+    "cursed",
+    "observes",
+    "afterlife",
+    "streets",
+    "town",
+    "voices",
+    "eerie",
+    "song",
+    "hears",
+    "sings",
+    "wander",
+    "singing",
+    "dead",
+    "sounds",
+    "spirits",
+    "moon",
+    "new",
+    "anyone",
+    "darkness"
+  ],
   "color": "brown",
   "shape": "blob",
   "habitat": null,
@@ -39,7 +77,24 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "cursed",
+        "streets",
+        "town",
+        "voices",
+        "eerie",
+        "song",
+        "hears",
+        "wander",
+        "singing",
+        "moon",
+        "new",
+        "anyone"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +102,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "enwraps",
+        "hairlike",
+        "joyfully",
+        "suffering",
+        "observes",
+        "sings"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +122,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "cursed",
+        "streets",
+        "town",
+        "voices",
+        "eerie",
+        "song",
+        "hears",
+        "wander",
+        "singing",
+        "moon",
+        "new",
+        "anyone"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +147,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "enwraps",
+        "hairlike",
+        "joyfully",
+        "suffering",
+        "observes",
+        "sings"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +167,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Eerie cries emanate from its body in the dead of night. The sounds are said to be the wails of spirits who are suffering in the afterlife.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sonic"
+      ],
+      "keywords": [
+        "wails",
+        "emanate",
+        "suffering",
+        "afterlife",
+        "eerie",
+        "dead",
+        "sounds",
+        "spirits"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +189,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "answers",
+        "knocking",
+        "swept",
+        "door",
+        "whoever",
+        "afterlife",
+        "moon",
+        "new",
+        "darkness"
+      ]
     }
   ],
   "similarPokemonIds": [

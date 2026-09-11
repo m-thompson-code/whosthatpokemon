@@ -9,6 +9,90 @@
   ],
   "imagePath": "/assets/pokemon/359.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic",
+    "mountain-dwelling",
+    "sky-dwelling",
+    "horns"
+  ],
+  "entryKeywords": [
+    "actuality",
+    "acutely",
+    "crises",
+    "loom",
+    "ought",
+    "superstitions",
+    "upcoming",
+    "bow",
+    "followed",
+    "grateful",
+    "detest",
+    "doom",
+    "fled",
+    "mistook",
+    "unlucky",
+    "saying",
+    "sensed",
+    "ventures",
+    "elderly",
+    "fed",
+    "foretell",
+    "hatred",
+    "span",
+    "warns",
+    "driven",
+    "interest",
+    "spread",
+    "disaster",
+    "brought",
+    "curved",
+    "subtle",
+    "bringer",
+    "impending",
+    "swift",
+    "tidal",
+    "disasters",
+    "warn",
+    "call",
+    "detect",
+    "wave",
+    "earthquake",
+    "possesses",
+    "rumored",
+    "signs",
+    "mistaken",
+    "rise",
+    "sharply",
+    "hundred",
+    "rugged",
+    "races",
+    "target",
+    "predict",
+    "thing",
+    "natural",
+    "warning",
+    "disposition",
+    "coming",
+    "calm",
+    "environment",
+    "sensitive",
+    "bring",
+    "harsh",
+    "fields",
+    "became",
+    "lived",
+    "protects",
+    "came",
+    "rarely",
+    "wind",
+    "appearance",
+    "changes",
+    "100",
+    "mountain",
+    "sense",
+    "although",
+    "horn"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": "mountain",
@@ -38,7 +122,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Every time ABSOL appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "followed",
+        "disaster",
+        "tidal",
+        "wave",
+        "earthquake",
+        "came"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +141,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ABSOL has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This POKéMON very rarely ventures down from the mountains.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "ventures",
+        "foretell",
+        "disasters",
+        "rugged",
+        "natural",
+        "coming",
+        "environment",
+        "harsh",
+        "rarely",
+        "mountain"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +164,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived POKéMON that has a life-span of 100 years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "span",
+        "subtle",
+        "disasters",
+        "sharply",
+        "predict",
+        "natural",
+        "lived",
+        "changes",
+        "100"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +186,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "doom",
+        "disaster",
+        "bringer",
+        "impending",
+        "mistaken",
+        "natural"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +203,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "doom",
+        "disaster",
+        "bringer",
+        "impending",
+        "mistaken",
+        "natural"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +220,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It senses coming disasters and appears before people only to warn them of impending danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "impending",
+        "disasters",
+        "warn",
+        "coming"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +235,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It senses coming disasters and appears before people only to warn them of impending danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "impending",
+        "disasters",
+        "warn",
+        "coming"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +250,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "fled",
+        "disasters",
+        "rumored",
+        "target",
+        "became",
+        "sense",
+        "horn"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +271,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has the ability to foretell natural disasters. Its life span is over a hundred years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "foretell",
+        "span",
+        "disasters",
+        "hundred",
+        "natural"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +287,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has the ability to foretell natural disasters. Its life span is over a hundred years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "foretell",
+        "span",
+        "disasters",
+        "hundred",
+        "natural"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +303,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "fled",
+        "disasters",
+        "rumored",
+        "target",
+        "became",
+        "sense",
+        "horn"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +324,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "fled",
+        "disasters",
+        "rumored",
+        "target",
+        "became",
+        "sense",
+        "horn"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +345,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "upcoming",
+        "sensed",
+        "disasters",
+        "warn",
+        "horn"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +364,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "upcoming",
+        "sensed",
+        "disasters",
+        "warn",
+        "horn"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +383,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It senses coming disasters and appears before people only to warn them of impending danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "impending",
+        "disasters",
+        "warn",
+        "coming"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +398,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom bringer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "doom",
+        "disaster",
+        "bringer",
+        "impending",
+        "mistaken",
+        "natural"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +415,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "followed",
+        "disaster",
+        "tidal",
+        "wave",
+        "earthquake",
+        "came"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +434,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "ventures",
+        "foretell",
+        "disasters",
+        "rugged",
+        "natural",
+        "coming",
+        "environment",
+        "harsh",
+        "rarely",
+        "mountain"
+      ]
     },
     {
       "versionId": 27,
@@ -182,7 +457,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Long ago, superstitions were spread about it, saying it brought disaster. This fed a hatred of it, and it was driven deep into the mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "superstitions",
+        "saying",
+        "fed",
+        "hatred",
+        "driven",
+        "spread",
+        "disaster",
+        "brought"
+      ]
     },
     {
       "versionId": 28,
@@ -190,7 +478,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Although it’s said to bring disaster, in actuality, this Pokémon possesses a calm disposition and warns people of any crises that loom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "actuality",
+        "crises",
+        "loom",
+        "warns",
+        "disaster",
+        "possesses",
+        "disposition",
+        "calm",
+        "bring",
+        "although"
+      ]
     },
     {
       "versionId": 29,
@@ -198,7 +499,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The only thing unlucky about Absol is its appearance. It protects fields and warns people of disaster, so one ought to be grateful for it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ought",
+        "grateful",
+        "unlucky",
+        "warns",
+        "disaster",
+        "thing",
+        "fields",
+        "protects",
+        "appearance"
+      ]
     },
     {
       "versionId": 30,
@@ -206,7 +519,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "detest",
+        "elderly",
+        "interest",
+        "disaster",
+        "disasters",
+        "call",
+        "rise",
+        "predict"
+      ]
     },
     {
       "versionId": 33,
@@ -214,7 +538,26 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "acutely",
+        "bow",
+        "curved",
+        "swift",
+        "disasters",
+        "signs",
+        "races",
+        "natural",
+        "warning",
+        "sensitive",
+        "fields",
+        "wind",
+        "horn"
+      ]
     },
     {
       "versionId": 34,
@@ -222,7 +565,14 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "doom",
+        "mistook",
+        "bringer",
+        "detect"
+      ]
     }
   ],
   "similarPokemonIds": [

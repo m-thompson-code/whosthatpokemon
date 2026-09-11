@@ -9,6 +9,40 @@
   ],
   "imagePath": "/assets/pokemon/775.png",
   "entryCount": 4,
+  "entryTraits": [
+    "arms",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "sedative",
+    "tossing",
+    "altogether",
+    "log",
+    "properties",
+    "results",
+    "cling",
+    "diet",
+    "death",
+    "dies",
+    "given",
+    "parents",
+    "turning",
+    "friendly",
+    "moment",
+    "stays",
+    "stops",
+    "arm",
+    "dreams",
+    "holds",
+    "birth",
+    "falls",
+    "asleep",
+    "remains",
+    "movements",
+    "moving",
+    "apparently",
+    "born"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +72,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tossing",
+        "results",
+        "dies",
+        "turning",
+        "dreams",
+        "asleep",
+        "movements",
+        "apparently",
+        "born"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +92,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The log it holds was given to it by its parents at birth. It has also been known to cling to the arm of a friendly Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "log",
+        "cling",
+        "given",
+        "parents",
+        "friendly",
+        "arm",
+        "holds",
+        "birth"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +113,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It stays asleep from the moment it’s born. When it falls into a deep sleep, it stops moving altogether.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "altogether",
+        "moment",
+        "stays",
+        "stops",
+        "falls",
+        "asleep",
+        "moving",
+        "born"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +134,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sedative",
+        "properties",
+        "diet",
+        "death",
+        "birth",
+        "asleep",
+        "remains"
+      ]
     }
   ],
   "similarPokemonIds": [

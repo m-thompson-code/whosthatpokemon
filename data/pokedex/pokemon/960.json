@@ -9,6 +9,27 @@
   ],
   "imagePath": "/assets/pokemon/960.png",
   "entryCount": 2,
+  "entryTraits": [
+    "desert-dwelling"
+  ],
+  "entryKeywords": [
+    "65",
+    "adaptation",
+    "coincidental",
+    "environmental",
+    "veluza",
+    "resemblance",
+    "diglett",
+    "pick",
+    "species",
+    "entirely",
+    "seems",
+    "hide",
+    "different",
+    "scent",
+    "sand",
+    "though"
+  ],
   "color": "white",
   "shape": "blob",
   "habitat": null,
@@ -38,7 +59,18 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "65",
+        "veluza",
+        "pick",
+        "hide",
+        "scent",
+        "sand"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +78,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "adaptation",
+        "coincidental",
+        "environmental",
+        "resemblance",
+        "diglett",
+        "species",
+        "entirely",
+        "seems",
+        "different",
+        "though"
+      ]
     }
   ],
   "similarPokemonIds": [

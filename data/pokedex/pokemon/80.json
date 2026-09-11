@@ -10,6 +10,99 @@
   ],
   "imagePath": "/assets/pokemon/080.png",
   "entryCount": 32,
+  "entryTraits": [
+    "tail",
+    "aquatic",
+    "poisonous",
+    "hunting",
+    "shell"
+  ],
+  "entryKeywords": [
+    "metamorphosed",
+    "ordi",
+    "spacier",
+    "flavors",
+    "gazing",
+    "greed",
+    "latched",
+    "nary",
+    "spacing",
+    "reluctantly",
+    "reverts",
+    "seeping",
+    "sweetness",
+    "grudgingly",
+    "inspiration",
+    "latches",
+    "anymore",
+    "basically",
+    "lazily",
+    "leftover",
+    "dull",
+    "flavor",
+    "dim",
+    "inspired",
+    "spaces",
+    "naturally",
+    "ordinary",
+    "flash",
+    "scraps",
+    "forces",
+    "later",
+    "flowing",
+    "thrown",
+    "shocked",
+    "firmly",
+    "breaks",
+    "witted",
+    "suck",
+    "tasty",
+    "hunting",
+    "bit",
+    "standing",
+    "slowpoke",
+    "feed",
+    "again",
+    "bitten",
+    "went",
+    "begin",
+    "biting",
+    "oozes",
+    "attached",
+    "host",
+    "moment",
+    "fishing",
+    "forgets",
+    "spiral",
+    "whenever",
+    "dream",
+    "due",
+    "turn",
+    "bites",
+    "pain",
+    "let",
+    "shellder",
+    "left",
+    "instead",
+    "onto",
+    "harsh",
+    "seems",
+    "evolve",
+    "became",
+    "feel",
+    "bite",
+    "swim",
+    "shaped",
+    "catch",
+    "lost",
+    "turns",
+    "causes",
+    "lets",
+    "along",
+    "though",
+    "won",
+    "usually"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -40,7 +133,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "latched",
+        "scraps",
+        "slowpoke",
+        "feed",
+        "host",
+        "shellder",
+        "left",
+        "onto"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +154,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "latched",
+        "scraps",
+        "slowpoke",
+        "feed",
+        "host",
+        "shellder",
+        "left",
+        "onto"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +175,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes a SLOWPOKE again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lazily",
+        "slowpoke",
+        "again",
+        "shellder"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +193,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If the tail-biting SHELLDER is thrown off in a harsh battle, it reverts to being an ordi­ nary SLOWPOKE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "ordi",
+        "nary",
+        "reverts",
+        "thrown",
+        "slowpoke",
+        "biting",
+        "shellder",
+        "harsh"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +214,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Naturally dull to begin with, it lost its ability to feel pain due to SHELLDER's seeping poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "seeping",
+        "dull",
+        "naturally",
+        "begin",
+        "due",
+        "pain",
+        "shellder",
+        "feel",
+        "lost"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +236,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "An attached SHELLDER won't let go because of the tasty flavor that oozes out of its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "flavor",
+        "tasty",
+        "oozes",
+        "attached",
+        "let",
+        "shellder",
+        "won"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +256,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SLOWBRO’s tail has a SHELLDER firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "grudgingly",
+        "anymore",
+        "firmly",
+        "attached",
+        "fishing",
+        "shellder",
+        "instead",
+        "bite",
+        "swim",
+        "catch",
+        "causes"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +282,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SLOWBRO’s tail has a SHELLDER firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "grudgingly",
+        "anymore",
+        "firmly",
+        "attached",
+        "fishing",
+        "shellder",
+        "instead",
+        "bite",
+        "swim",
+        "catch",
+        "causes"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +308,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its tail has a SHELLDER firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This forces it to reluctantly swim and catch prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "reluctantly",
+        "anymore",
+        "forces",
+        "firmly",
+        "attached",
+        "fishing",
+        "shellder",
+        "bite",
+        "swim",
+        "catch"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +333,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When a SLOWPOKE went hunting in the sea, its tail was bitten by a SHELLDER. That made it evolve into SLOWBRO.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "hunting",
+        "slowpoke",
+        "bitten",
+        "went",
+        "shellder",
+        "evolve"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +354,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The SHELLDER that latches onto SLOWPOKE’s tail is said to feed on the host’s leftover scraps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "latches",
+        "leftover",
+        "scraps",
+        "slowpoke",
+        "feed",
+        "host",
+        "shellder",
+        "onto"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +375,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dim",
+        "inspired",
+        "witted",
+        "bites",
+        "shellder",
+        "seems",
+        "though",
+        "usually"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +396,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dim",
+        "inspired",
+        "witted",
+        "bites",
+        "shellder",
+        "seems",
+        "though",
+        "usually"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +417,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dim",
+        "inspired",
+        "witted",
+        "bites",
+        "shellder",
+        "seems",
+        "though",
+        "usually"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +438,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If the tail-biting SHELLDER is thrown off in a harsh battle, it reverts to being an ordinary SLOWPOKE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "reverts",
+        "ordinary",
+        "thrown",
+        "slowpoke",
+        "biting",
+        "shellder",
+        "harsh"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +458,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Naturally dull to begin with, it lost its ability to feel pain due to SHELLDER’s seeping poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "seeping",
+        "dull",
+        "naturally",
+        "begin",
+        "due",
+        "pain",
+        "shellder",
+        "feel",
+        "lost"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +480,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dim",
+        "inspired",
+        "witted",
+        "bites",
+        "shellder",
+        "seems",
+        "though",
+        "usually"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +501,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dim",
+        "inspired",
+        "witted",
+        "bites",
+        "shellder",
+        "seems",
+        "though",
+        "usually"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +522,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dim",
+        "inspired",
+        "witted",
+        "bites",
+        "shellder",
+        "seems",
+        "though",
+        "usually"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +543,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dim",
+        "inspired",
+        "witted",
+        "bites",
+        "shellder",
+        "seems",
+        "though",
+        "usually"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +564,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "An attached Shellder won’t let go because of the tasty flavor that oozes out of its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "flavor",
+        "tasty",
+        "oozes",
+        "attached",
+        "let",
+        "shellder",
+        "won"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +584,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "hunting",
+        "slowpoke",
+        "bitten",
+        "went",
+        "shellder",
+        "evolve"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +605,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Slowbro’s tail has a Shellder firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "grudgingly",
+        "anymore",
+        "firmly",
+        "attached",
+        "fishing",
+        "shellder",
+        "instead",
+        "bite",
+        "swim",
+        "catch",
+        "causes"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +631,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Slowbro’s tail has a Shellder firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "grudgingly",
+        "anymore",
+        "firmly",
+        "attached",
+        "fishing",
+        "shellder",
+        "instead",
+        "bite",
+        "swim",
+        "catch",
+        "causes"
+      ]
     },
     {
       "versionId": 27,
@@ -232,7 +657,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It spaces out while gazing at the sea. With Shellder’s poison flowing through its body, it becomes even spacier.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "spacier",
+        "gazing",
+        "spaces",
+        "flowing",
+        "shellder"
+      ]
     },
     {
       "versionId": 28,
@@ -240,7 +676,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Whenever Shellder bites down hard on its tail, it gives Slowbro a flash of inspiration...which it forgets a moment later.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "inspiration",
+        "flash",
+        "later",
+        "moment",
+        "forgets",
+        "whenever",
+        "bites",
+        "shellder"
+      ]
     },
     {
       "versionId": 29,
@@ -248,7 +697,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Spacing out is basically all it does. It turns back into Slowpoke if its tail, along with Shellder, breaks off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "spacing",
+        "basically",
+        "breaks",
+        "slowpoke",
+        "shellder",
+        "turns",
+        "along"
+      ]
     },
     {
       "versionId": 30,
@@ -256,7 +717,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Shellder, in its greed to suck out more and more sweetness from Slowbro’s tail, has metamorphosed into a spiral-shaped shell.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "tail"
+      ],
+      "keywords": [
+        "metamorphosed",
+        "greed",
+        "sweetness",
+        "suck",
+        "spiral",
+        "shellder",
+        "shaped"
+      ]
     },
     {
       "versionId": 31,
@@ -264,7 +738,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lazily",
+        "slowpoke",
+        "again",
+        "shellder"
+      ]
     },
     {
       "versionId": 32,
@@ -272,7 +756,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lazily",
+        "slowpoke",
+        "again",
+        "shellder"
+      ]
     },
     {
       "versionId": 33,
@@ -280,7 +774,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "flavors",
+        "seeping",
+        "bit",
+        "slowpoke",
+        "dream",
+        "shellder",
+        "became",
+        "feel"
+      ]
     },
     {
       "versionId": 34,
@@ -288,7 +795,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "shocked",
+        "standing",
+        "slowpoke",
+        "bitten",
+        "turn",
+        "shellder",
+        "seems",
+        "lets"
+      ]
     }
   ],
   "similarPokemonIds": [

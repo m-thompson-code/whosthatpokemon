@@ -9,6 +9,73 @@
   ],
   "imagePath": "/assets/pokemon/032.png",
   "entryCount": 28,
+  "entryTraits": [
+    "horns",
+    "poisonous",
+    "sonic",
+    "wings"
+  ],
+  "entryKeywords": [
+    "straining",
+    "stiffens",
+    "flapped",
+    "sting",
+    "listening",
+    "upright",
+    "risk",
+    "scans",
+    "brave",
+    "inject",
+    "moved",
+    "secreted",
+    "slightest",
+    "stabs",
+    "detect",
+    "kept",
+    "venom",
+    "directions",
+    "hold",
+    "raising",
+    "male",
+    "distant",
+    "female",
+    "cautious",
+    "thanks",
+    "friendly",
+    "notice",
+    "angered",
+    "check",
+    "extends",
+    "forehead",
+    "barbs",
+    "order",
+    "charges",
+    "contains",
+    "sounds",
+    "raises",
+    "protection",
+    "filled",
+    "direction",
+    "escape",
+    "right",
+    "strike",
+    "first",
+    "larger",
+    "poisonous",
+    "constantly",
+    "surroundings",
+    "freely",
+    "sense",
+    "ears",
+    "grass",
+    "moving",
+    "horns",
+    "horn",
+    "big",
+    "toxic",
+    "developed",
+    "muscles"
+  ],
   "color": "purple",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -39,7 +106,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "stiffens",
+        "secreted",
+        "venom",
+        "larger",
+        "sense",
+        "ears",
+        "horns"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +127,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "stiffens",
+        "secreted",
+        "venom",
+        "larger",
+        "sense",
+        "ears",
+        "horns"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +148,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "sting",
+        "upright",
+        "kept",
+        "poisonous",
+        "ears"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +166,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "inject",
+        "stabs",
+        "charges",
+        "filled",
+        "horn"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +185,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "check",
+        "raises",
+        "strike",
+        "first",
+        "surroundings",
+        "ears",
+        "big"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +203,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It constantly moves its large ears in many directions in order to detect danger right away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "detect",
+        "directions",
+        "order",
+        "right",
+        "constantly",
+        "ears"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +220,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The male NIDORAN has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this POKéMON’s notice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "moved",
+        "slightest",
+        "male",
+        "thanks",
+        "notice",
+        "direction",
+        "escape",
+        "freely",
+        "ears",
+        "moving",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +245,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "The male NIDORAN has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this POKéMON’s notice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "moved",
+        "slightest",
+        "male",
+        "thanks",
+        "notice",
+        "direction",
+        "escape",
+        "freely",
+        "ears",
+        "moving",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +270,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The male NIDORAN has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this POKéMON’s notice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "slightest",
+        "male",
+        "notice",
+        "direction",
+        "escape",
+        "freely",
+        "ears",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +292,23 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "flapped",
+        "listening",
+        "distant",
+        "angered",
+        "extends",
+        "barbs",
+        "sounds",
+        "ears",
+        "toxic"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +316,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "stiffens",
+        "secreted",
+        "venom",
+        "larger",
+        "sense",
+        "ears",
+        "horns"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +337,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "scans",
+        "raising",
+        "protection",
+        "surroundings",
+        "ears",
+        "grass",
+        "horn",
+        "toxic"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +359,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "scans",
+        "raising",
+        "protection",
+        "surroundings",
+        "ears",
+        "grass",
+        "horn",
+        "toxic"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +381,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "scans",
+        "raising",
+        "protection",
+        "surroundings",
+        "ears",
+        "grass",
+        "horn",
+        "toxic"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +403,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "inject",
+        "stabs",
+        "charges",
+        "filled",
+        "horn"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +422,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "check",
+        "raises",
+        "strike",
+        "first",
+        "surroundings",
+        "ears",
+        "big"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +440,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "scans",
+        "raising",
+        "protection",
+        "surroundings",
+        "ears",
+        "grass",
+        "horn",
+        "toxic"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +462,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "scans",
+        "raising",
+        "protection",
+        "surroundings",
+        "ears",
+        "grass",
+        "horn",
+        "toxic"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +484,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "scans",
+        "raising",
+        "protection",
+        "surroundings",
+        "ears",
+        "grass",
+        "horn",
+        "toxic"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +506,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "scans",
+        "raising",
+        "protection",
+        "surroundings",
+        "ears",
+        "grass",
+        "horn",
+        "toxic"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +528,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "scans",
+        "raising",
+        "protection",
+        "surroundings",
+        "ears",
+        "grass",
+        "horn",
+        "toxic"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +550,23 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "flapped",
+        "listening",
+        "distant",
+        "angered",
+        "extends",
+        "barbs",
+        "sounds",
+        "ears",
+        "toxic"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +574,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon’s notice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "moved",
+        "slightest",
+        "thanks",
+        "notice",
+        "direction",
+        "escape",
+        "freely",
+        "ears",
+        "moving",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +598,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon’s notice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "moved",
+        "slightest",
+        "thanks",
+        "notice",
+        "direction",
+        "escape",
+        "freely",
+        "ears",
+        "moving",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +622,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "sting",
+        "upright",
+        "kept",
+        "poisonous",
+        "ears"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +640,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "sting",
+        "upright",
+        "kept",
+        "poisonous",
+        "ears"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +658,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The horn on a male Nidoran’s forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "straining",
+        "male",
+        "cautious",
+        "forehead",
+        "contains",
+        "ears",
+        "horn"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +679,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "risk",
+        "brave",
+        "hold",
+        "female",
+        "friendly"
+      ]
     }
   ],
   "similarPokemonIds": [

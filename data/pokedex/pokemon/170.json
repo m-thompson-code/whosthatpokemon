@@ -10,6 +10,87 @@
   ],
   "imagePath": "/assets/pokemon/170.png",
   "entryCount": 27,
+  "entryTraits": [
+    "aquatic",
+    "wings",
+    "hunting",
+    "electric",
+    "nocturnal",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "ative",
+    "cation",
+    "ch",
+    "flo",
+    "neg",
+    "respective",
+    "sitive",
+    "whi",
+    "communi",
+    "elec",
+    "po",
+    "tingle",
+    "tricity",
+    "turf",
+    "exchange",
+    "communication",
+    "softly",
+    "stun",
+    "wing",
+    "blink",
+    "beyond",
+    "antennas",
+    "flash",
+    "zaps",
+    "claim",
+    "flowing",
+    "useful",
+    "originally",
+    "flashes",
+    "flashing",
+    "negative",
+    "lure",
+    "shining",
+    "lights",
+    "positive",
+    "antenna",
+    "floor",
+    "ing",
+    "loose",
+    "faint",
+    "fishing",
+    "means",
+    "signals",
+    "depths",
+    "fin",
+    "slightly",
+    "evolved",
+    "electrical",
+    "discharges",
+    "reach",
+    "tips",
+    "attacking",
+    "glow",
+    "antennae",
+    "charges",
+    "communicate",
+    "filled",
+    "generate",
+    "between",
+    "cells",
+    "fins",
+    "shock",
+    "shoots",
+    "ocean",
+    "constantly",
+    "electric",
+    "another",
+    "dark",
+    "lets",
+    "create",
+    "sunlight"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +120,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It shoots positive and negative elec­ tricity between the tips of its two antennae and zaps its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "elec",
+        "tricity",
+        "zaps",
+        "negative",
+        "positive",
+        "tips",
+        "antennae",
+        "between",
+        "shoots"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +140,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "On the dark ocean floor, its only means of communi­ cation is its constantly flash­ ing lights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cation",
+        "communi",
+        "flash",
+        "lights",
+        "floor",
+        "ing",
+        "means",
+        "ocean",
+        "constantly",
+        "dark"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +163,24 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its antennae, whi­ ch evolved from a fin, have both po­ sitive and neg­ ative charges flo­ wing through them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "ative",
+        "ch",
+        "flo",
+        "neg",
+        "sitive",
+        "whi",
+        "po",
+        "wing",
+        "fin",
+        "evolved",
+        "antennae",
+        "charges"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +188,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CHINCHOU lets loose positive and negative electrical charges from its two antennas to make its prey faint. This POKéMON flashes its electric lights to exchange signals with others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "electric"
+      ],
+      "keywords": [
+        "exchange",
+        "antennas",
+        "flashes",
+        "negative",
+        "lights",
+        "positive",
+        "loose",
+        "faint",
+        "signals",
+        "electrical",
+        "charges",
+        "electric",
+        "lets"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +215,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CHINCHOU’s two antennas are filled with cells that generate strong electricity. This POKéMON’s cells create so much electrical power, it even makes itself tingle slightly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "tingle",
+        "antennas",
+        "slightly",
+        "electrical",
+        "filled",
+        "generate",
+        "cells",
+        "create"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +236,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight’s reach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "beyond",
+        "negative",
+        "positive",
+        "depths",
+        "discharges",
+        "reach",
+        "antennae",
+        "sunlight"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +257,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "communication",
+        "flashing",
+        "lights",
+        "floor",
+        "means",
+        "ocean",
+        "constantly",
+        "dark"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +278,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "zaps",
+        "negative",
+        "positive",
+        "tips",
+        "antennae",
+        "between",
+        "shoots"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +298,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "negative",
+        "positive",
+        "antenna",
+        "discharges",
+        "tips",
+        "shock"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +317,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "negative",
+        "positive",
+        "antenna",
+        "discharges",
+        "tips",
+        "shock"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +336,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "negative",
+        "positive",
+        "antenna",
+        "discharges",
+        "tips",
+        "shock"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +355,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "zaps",
+        "negative",
+        "positive",
+        "tips",
+        "antennae",
+        "between",
+        "shoots"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +375,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "communication",
+        "flashing",
+        "lights",
+        "floor",
+        "means",
+        "ocean",
+        "constantly",
+        "dark"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +396,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "negative",
+        "positive",
+        "antenna",
+        "discharges",
+        "tips",
+        "shock"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +415,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "negative",
+        "positive",
+        "antenna",
+        "discharges",
+        "tips",
+        "shock"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +434,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "negative",
+        "positive",
+        "antenna",
+        "discharges",
+        "tips",
+        "shock"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +453,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "negative",
+        "positive",
+        "antenna",
+        "discharges",
+        "tips",
+        "shock"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +472,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "communication",
+        "flashing",
+        "lights",
+        "floor",
+        "means",
+        "ocean",
+        "constantly",
+        "dark"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +493,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "zaps",
+        "negative",
+        "positive",
+        "tips",
+        "antennae",
+        "between",
+        "shoots"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +513,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "electric"
+      ],
+      "keywords": [
+        "exchange",
+        "antennas",
+        "flashes",
+        "negative",
+        "lights",
+        "positive",
+        "loose",
+        "faint",
+        "signals",
+        "electrical",
+        "charges",
+        "electric",
+        "lets"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +540,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Chinchou’s two antennas are filled with cells that generate strong electricity. This Pokémon’s cells create so much electrical power, it even makes itself tingle slightly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "tingle",
+        "antennas",
+        "slightly",
+        "electrical",
+        "filled",
+        "generate",
+        "cells",
+        "create"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +561,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "electric"
+      ],
+      "keywords": [
+        "stun",
+        "originally",
+        "discharges",
+        "attacking",
+        "antennae",
+        "fins"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +581,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "beyond",
+        "flashes",
+        "lights",
+        "depths",
+        "reach",
+        "antennae",
+        "communicate",
+        "sunlight"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +600,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its two antennae glow softly to lure in prey, making it a useful Pokémon for night fishing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "softly",
+        "useful",
+        "lure",
+        "fishing",
+        "glow",
+        "antennae"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +621,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Chinchou blink their shining antennae at one another to claim their respective turf.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "respective",
+        "turf",
+        "blink",
+        "claim",
+        "shining",
+        "antennae",
+        "another"
+      ]
     },
     {
       "versionId": 33,
@@ -239,7 +639,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flowing",
+        "negative",
+        "positive",
+        "fin",
+        "evolved",
+        "antennae",
+        "charges"
+      ]
     },
     {
       "versionId": 34,
@@ -247,7 +657,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "communication",
+        "flashing",
+        "lights",
+        "floor",
+        "means",
+        "ocean",
+        "constantly",
+        "dark"
+      ]
     }
   ],
   "similarPokemonIds": [

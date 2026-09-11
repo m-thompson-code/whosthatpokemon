@@ -10,6 +10,51 @@
   ],
   "imagePath": "/assets/pokemon/384.png",
   "entryCount": 18,
+  "entryTraits": [
+    "aquatic",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "descending",
+    "mega",
+    "meteoroids",
+    "sustenance",
+    "clash",
+    "descend",
+    "consuming",
+    "millions",
+    "existence",
+    "endlessly",
+    "hundreds",
+    "forever",
+    "groudon",
+    "particles",
+    "provide",
+    "ozone",
+    "kyogre",
+    "meteor",
+    "recently",
+    "feed",
+    "remain",
+    "put",
+    "earth",
+    "layer",
+    "rest",
+    "legends",
+    "unknown",
+    "completely",
+    "needs",
+    "atmosphere",
+    "clouds",
+    "above",
+    "ever",
+    "had",
+    "evolve",
+    "between",
+    "lived",
+    "cannot",
+    "far"
+  ],
   "color": "green",
   "shape": "squiggle",
   "habitat": "rare",
@@ -39,7 +84,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "RAYQUAZA lived for hundreds of millions of years in the earth’s ozone layer, never descending to the ground. This POKéMON appears to feed on water and particles in the atmosphere.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "descending",
+        "millions",
+        "hundreds",
+        "particles",
+        "ozone",
+        "feed",
+        "earth",
+        "layer",
+        "atmosphere",
+        "lived"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +107,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "RAYQUAZA is said to have lived for hundreds of millions of years in the earth’s ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "millions",
+        "existence",
+        "hundreds",
+        "ozone",
+        "earth",
+        "layer",
+        "unknown",
+        "completely",
+        "clouds",
+        "above",
+        "had",
+        "lived"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +132,16 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A POKéMON that flies endlessly in the ozone layer. It is said it would descend to the ground if KYOGRE and GROUDON were to fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "descend",
+        "endlessly",
+        "groudon",
+        "ozone",
+        "kyogre",
+        "layer"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +149,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "millions",
+        "hundreds",
+        "ozone",
+        "meteor",
+        "layer",
+        "lived"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +166,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "millions",
+        "hundreds",
+        "ozone",
+        "meteor",
+        "layer",
+        "lived"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +183,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "layer",
+        "clouds",
+        "above",
+        "cannot",
+        "far"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +202,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "layer",
+        "clouds",
+        "above",
+        "cannot",
+        "far"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +221,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "layer",
+        "clouds",
+        "above",
+        "cannot",
+        "far"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +240,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "recently",
+        "layer",
+        "ever",
+        "had"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +258,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "recently",
+        "layer",
+        "ever",
+        "had"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +276,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "layer",
+        "clouds",
+        "above",
+        "cannot",
+        "far"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +295,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "layer",
+        "clouds",
+        "above",
+        "cannot",
+        "far"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +314,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "layer",
+        "clouds",
+        "above",
+        "cannot",
+        "far"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +333,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "layer",
+        "clouds",
+        "above",
+        "cannot",
+        "far"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +352,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "layer",
+        "clouds",
+        "above",
+        "cannot",
+        "far"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +371,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ozone",
+        "recently",
+        "layer",
+        "ever",
+        "had"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +389,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "clash",
+        "millions",
+        "hundreds",
+        "groudon",
+        "kyogre",
+        "remain",
+        "put",
+        "rest",
+        "legends",
+        "between",
+        "lived"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +411,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mega",
+        "meteoroids",
+        "sustenance",
+        "consuming",
+        "forever",
+        "provide",
+        "ozone",
+        "layer",
+        "needs",
+        "evolve"
+      ]
     }
   ],
   "similarPokemonIds": [

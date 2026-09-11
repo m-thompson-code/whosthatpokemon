@@ -10,6 +10,50 @@
   ],
   "imagePath": "/assets/pokemon/381.png",
   "entryCount": 18,
+  "entryTraits": [
+    "sky-dwelling",
+    "wings"
+  ],
+  "entryKeywords": [
+    "languages",
+    "imagines",
+    "tucking",
+    "image",
+    "minimize",
+    "planes",
+    "folding",
+    "understands",
+    "compassionate",
+    "resistance",
+    "overtake",
+    "detect",
+    "temperament",
+    "telepathy",
+    "locations",
+    "plane",
+    "hiding",
+    "understand",
+    "tender",
+    "speech",
+    "allows",
+    "dislikes",
+    "forelegs",
+    "intelligence",
+    "flight",
+    "intelligent",
+    "docile",
+    "jet",
+    "faster",
+    "open",
+    "fighting",
+    "since",
+    "heart",
+    "emotions",
+    "human",
+    "highly",
+    "spirit",
+    "sense"
+  ],
   "color": "blue",
   "shape": "wings",
   "habitat": "waters-edge",
@@ -39,7 +83,16 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POKéMON is intelligent and understands human speech.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "imagines",
+        "image",
+        "understands",
+        "speech",
+        "intelligent",
+        "human"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +100,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LATIOS will only open its heart to a TRAINER with a compassionate spirit. This POKéMON can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minimize",
+        "folding",
+        "compassionate",
+        "resistance",
+        "plane",
+        "forelegs",
+        "jet",
+        "faster",
+        "open",
+        "heart",
+        "spirit"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +124,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Even in hiding, it can detect the locations of others and sense their emotions since it has telepathy. Its intelligence allows it to understand human languages.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "languages",
+        "detect",
+        "telepathy",
+        "locations",
+        "hiding",
+        "understand",
+        "allows",
+        "intelligence",
+        "since",
+        "emotions",
+        "human",
+        "sense"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +147,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has a docile temperament and dislikes fighting. Tucking in its forelegs, it can fly faster than a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tucking",
+        "temperament",
+        "plane",
+        "dislikes",
+        "forelegs",
+        "docile",
+        "jet",
+        "faster",
+        "fighting"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +167,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has a docile temperament and dislikes fighting. Tucking in its forelegs, it can fly faster than a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tucking",
+        "temperament",
+        "plane",
+        "dislikes",
+        "forelegs",
+        "docile",
+        "jet",
+        "faster",
+        "fighting"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +187,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "planes",
+        "folding",
+        "overtake",
+        "flight",
+        "intelligent",
+        "jet",
+        "highly"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +207,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "planes",
+        "folding",
+        "overtake",
+        "flight",
+        "intelligent",
+        "jet",
+        "highly"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +227,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "planes",
+        "folding",
+        "overtake",
+        "flight",
+        "intelligent",
+        "jet",
+        "highly"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +247,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "understands",
+        "tender",
+        "speech",
+        "dislikes",
+        "intelligent",
+        "fighting",
+        "human",
+        "highly"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +266,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "understands",
+        "tender",
+        "speech",
+        "dislikes",
+        "intelligent",
+        "fighting",
+        "human",
+        "highly"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +285,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "planes",
+        "folding",
+        "overtake",
+        "flight",
+        "intelligent",
+        "jet",
+        "highly"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +305,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "planes",
+        "folding",
+        "overtake",
+        "flight",
+        "intelligent",
+        "jet",
+        "highly"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +325,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "planes",
+        "folding",
+        "overtake",
+        "flight",
+        "intelligent",
+        "jet",
+        "highly"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +345,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "planes",
+        "folding",
+        "overtake",
+        "flight",
+        "intelligent",
+        "jet",
+        "highly"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +365,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "planes",
+        "folding",
+        "overtake",
+        "flight",
+        "intelligent",
+        "jet",
+        "highly"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +385,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "understands",
+        "tender",
+        "speech",
+        "dislikes",
+        "intelligent",
+        "fighting",
+        "human",
+        "highly"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +404,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Latios has the ability to make others see an image of what it has seen or imagines in its head. This Pokémon is intelligent and understands human speech.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "imagines",
+        "image",
+        "understands",
+        "speech",
+        "intelligent",
+        "human"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +421,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minimize",
+        "folding",
+        "compassionate",
+        "resistance",
+        "plane",
+        "forelegs",
+        "jet",
+        "faster",
+        "open",
+        "heart",
+        "spirit"
+      ]
     }
   ],
   "similarPokemonIds": [

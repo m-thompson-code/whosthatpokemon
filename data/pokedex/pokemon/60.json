@@ -9,6 +9,88 @@
   ],
   "imagePath": "/assets/pokemon/060.png",
   "entryCount": 32,
+  "entryTraits": [
+    "aquatic",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "aficionados",
+    "clearer",
+    "ept",
+    "glance",
+    "stomachs",
+    "tinged",
+    "waddle",
+    "disease",
+    "equator",
+    "cup",
+    "easier",
+    "thinness",
+    "rushes",
+    "showing",
+    "swirl",
+    "cling",
+    "affected",
+    "inept",
+    "differs",
+    "slick",
+    "flowing",
+    "insides",
+    "visible",
+    "effect",
+    "lips",
+    "wants",
+    "newly",
+    "flexible",
+    "organs",
+    "innards",
+    "suction",
+    "possible",
+    "prefer",
+    "damp",
+    "train",
+    "best",
+    "walk",
+    "bounce",
+    "act",
+    "spiral",
+    "adept",
+    "means",
+    "part",
+    "depending",
+    "trouble",
+    "prevent",
+    "trying",
+    "apart",
+    "white",
+    "internal",
+    "grown",
+    "despite",
+    "stand",
+    "rivers",
+    "direction",
+    "right",
+    "tell",
+    "walking",
+    "area",
+    "finds",
+    "pattern",
+    "running",
+    "actually",
+    "thin",
+    "black",
+    "along",
+    "fast",
+    "still",
+    "swims",
+    "rock",
+    "belly",
+    "thought",
+    "good",
+    "well",
+    "skin",
+    "swimming"
+  ],
   "color": "blue",
   "shape": "legs",
   "habitat": "waters-edge",
@@ -38,7 +120,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "newly",
+        "prefer",
+        "prevent",
+        "trying",
+        "grown",
+        "stand",
+        "running",
+        "swimming"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +141,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "newly",
+        "prefer",
+        "prevent",
+        "trying",
+        "grown",
+        "stand",
+        "running",
+        "swimming"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +162,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "differs",
+        "spiral",
+        "adept",
+        "direction",
+        "walking",
+        "area",
+        "belly",
+        "swimming"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +183,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Because it is in­ ept at walking on its newly grown legs, it always swims around in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ept",
+        "newly",
+        "grown",
+        "walking",
+        "swims"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +201,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "equator",
+        "differs",
+        "effect",
+        "spiral",
+        "direction",
+        "area",
+        "belly",
+        "thought"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +220,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clearer",
+        "showing",
+        "swirl",
+        "insides",
+        "belly",
+        "skin"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +237,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "POLIWAG has a very thin skin. It is possible to see the POKéMON’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "thinness",
+        "flexible",
+        "innards",
+        "possible",
+        "bounce",
+        "spiral",
+        "despite",
+        "right",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +260,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "POLIWAG has a very thin skin. It is possible to see the POKéMON’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "thinness",
+        "flexible",
+        "innards",
+        "possible",
+        "bounce",
+        "spiral",
+        "despite",
+        "right",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +283,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is possible to see this POKéMON’s spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "flexible",
+        "innards",
+        "possible",
+        "bounce",
+        "spiral",
+        "right",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +304,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slick",
+        "organs",
+        "damp",
+        "spiral",
+        "part",
+        "internal",
+        "pattern",
+        "thin",
+        "black",
+        "skin"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +325,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "newly",
+        "prefer",
+        "prevent",
+        "grown",
+        "walking",
+        "well",
+        "swimming"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +345,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "visible",
+        "newly",
+        "organs",
+        "trouble",
+        "internal",
+        "grown",
+        "walking",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +365,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "visible",
+        "newly",
+        "organs",
+        "trouble",
+        "internal",
+        "grown",
+        "walking",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +385,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "visible",
+        "newly",
+        "organs",
+        "trouble",
+        "internal",
+        "grown",
+        "walking",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +405,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "inept",
+        "newly",
+        "grown",
+        "walking",
+        "swims"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +423,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "equator",
+        "differs",
+        "effect",
+        "spiral",
+        "direction",
+        "area",
+        "belly",
+        "thought"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +442,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "visible",
+        "newly",
+        "organs",
+        "trouble",
+        "internal",
+        "grown",
+        "walking",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +462,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "visible",
+        "newly",
+        "organs",
+        "trouble",
+        "internal",
+        "grown",
+        "walking",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +482,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "visible",
+        "newly",
+        "organs",
+        "trouble",
+        "internal",
+        "grown",
+        "walking",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +502,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "visible",
+        "newly",
+        "organs",
+        "trouble",
+        "internal",
+        "grown",
+        "walking",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +522,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slick",
+        "organs",
+        "damp",
+        "spiral",
+        "part",
+        "internal",
+        "pattern",
+        "thin",
+        "black",
+        "skin"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +543,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "differs",
+        "spiral",
+        "adept",
+        "direction",
+        "walking",
+        "area",
+        "belly",
+        "swimming"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +564,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "thinness",
+        "flexible",
+        "innards",
+        "possible",
+        "bounce",
+        "spiral",
+        "despite",
+        "right",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +587,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "thinness",
+        "flexible",
+        "innards",
+        "possible",
+        "bounce",
+        "spiral",
+        "despite",
+        "right",
+        "thin",
+        "skin"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +610,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The swirl on its belly is its internal organs showing through. If the swirl is tinged white, that means it’s affected by some disease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tinged",
+        "disease",
+        "showing",
+        "swirl",
+        "affected",
+        "organs",
+        "means",
+        "white",
+        "internal",
+        "belly"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +631,15 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It’s still not very good at walking. Its Trainers should train this Pokémon to walk every day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "train",
+        "walk",
+        "walking",
+        "still",
+        "good"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +647,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "waddle",
+        "rushes",
+        "wants",
+        "best",
+        "despite",
+        "finds",
+        "along"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +667,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "aficionados",
+        "glance",
+        "stomachs",
+        "swirl",
+        "differs",
+        "depending",
+        "apart",
+        "direction",
+        "tell"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +687,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "differs",
+        "spiral",
+        "adept",
+        "direction",
+        "walking",
+        "area",
+        "belly",
+        "swimming"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +708,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "differs",
+        "spiral",
+        "adept",
+        "direction",
+        "walking",
+        "area",
+        "belly",
+        "swimming"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +729,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "easier",
+        "showing",
+        "swirl",
+        "innards",
+        "part",
+        "walking",
+        "pattern",
+        "actually",
+        "belly",
+        "skin",
+        "swimming"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +753,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cup",
+        "cling",
+        "flowing",
+        "lips",
+        "suction",
+        "act",
+        "rivers",
+        "fast",
+        "rock"
+      ]
     }
   ],
   "similarPokemonIds": [

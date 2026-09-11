@@ -9,6 +9,116 @@
   ],
   "imagePath": "/assets/pokemon/127.png",
   "entryCount": 32,
+  "entryTraits": [
+    "cold-climate",
+    "hunting",
+    "icy",
+    "horns",
+    "burrowing",
+    "nocturnal",
+    "sleeping",
+    "forest-dwelling",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "leafage",
+    "tempera",
+    "judge",
+    "opposite",
+    "rival",
+    "squeezes",
+    "ture",
+    "astoundingly",
+    "gender",
+    "handle",
+    "periods",
+    "vikavolt",
+    "chilly",
+    "deal",
+    "dislike",
+    "flings",
+    "heracross",
+    "weighing",
+    "disputes",
+    "greatest",
+    "popularity",
+    "clamps",
+    "either",
+    "driven",
+    "protruding",
+    "tosses",
+    "thicker",
+    "toss",
+    "drops",
+    "lift",
+    "twice",
+    "buries",
+    "impressive",
+    "grip",
+    "sluggish",
+    "thorns",
+    "treetops",
+    "based",
+    "fails",
+    "splits",
+    "grips",
+    "territorial",
+    "logs",
+    "antlers",
+    "pair",
+    "clings",
+    "pincer",
+    "split",
+    "closes",
+    "deeply",
+    "torn",
+    "damp",
+    "release",
+    "shatter",
+    "weight",
+    "morning",
+    "solid",
+    "tear",
+    "wildly",
+    "burrow",
+    "swings",
+    "alola",
+    "crush",
+    "swing",
+    "turn",
+    "roots",
+    "apart",
+    "let",
+    "hidden",
+    "half",
+    "massive",
+    "victim",
+    "blow",
+    "nights",
+    "burrows",
+    "falls",
+    "escape",
+    "digs",
+    "pincers",
+    "far",
+    "reason",
+    "forests",
+    "among",
+    "soil",
+    "surface",
+    "movements",
+    "another",
+    "sleeps",
+    "tough",
+    "along",
+    "places",
+    "hides",
+    "won",
+    "well",
+    "although",
+    "horns",
+    "apparently"
+  ],
   "color": "brown",
   "shape": "humanoid",
   "habitat": "forest",
@@ -38,7 +148,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "toss",
+        "fails",
+        "crush",
+        "swing",
+        "victim",
+        "pincers"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +165,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "toss",
+        "fails",
+        "crush",
+        "swing",
+        "victim",
+        "pincers"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +182,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "squeezes",
+        "grips",
+        "pincers",
+        "places"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +201,22 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "clings",
+        "damp",
+        "morning",
+        "burrows",
+        "digs",
+        "soil",
+        "horns"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +224,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "horns",
+        "icy"
+      ],
+      "keywords": [
+        "periods",
+        "antlers",
+        "wildly",
+        "swings",
+        "forests",
+        "hides"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +245,22 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When the tempera­ ture drops at night, it sleeps on treetops or among roots where it is well hidden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "tempera",
+        "ture",
+        "drops",
+        "treetops",
+        "roots",
+        "hidden",
+        "among",
+        "sleeps",
+        "well"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +268,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PINSIR is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This POKéMON’s movements turn sluggish in cold places.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "horns",
+        "icy"
+      ],
+      "keywords": [
+        "astoundingly",
+        "weighing",
+        "lift",
+        "twice",
+        "grip",
+        "sluggish",
+        "weight",
+        "turn",
+        "movements",
+        "places",
+        "horns"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +294,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PINSIR has a pair of massive horns Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe’s body when the pincer closes, making it tough for the foe to escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "driven",
+        "protruding",
+        "thorns",
+        "pair",
+        "pincer",
+        "closes",
+        "deeply",
+        "massive",
+        "escape",
+        "surface",
+        "tough",
+        "horns"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +319,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Their pincers are strong enough to shatter thick logs. Because they dislike cold, PINSIR burrow and sleep under the ground on chilly nights.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "burrowing",
+        "nocturnal",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "chilly",
+        "dislike",
+        "logs",
+        "shatter",
+        "burrow",
+        "nights",
+        "pincers"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +343,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its two long pincer horns are powerful. Once they grip an enemy, they won’t release until the foe is torn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "grip",
+        "pincer",
+        "torn",
+        "release",
+        "won",
+        "horns"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +362,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If it fails to crush the foe in its pincers, it will swing around and toss the opponent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "toss",
+        "fails",
+        "crush",
+        "swing",
+        "pincers"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +378,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tosses",
+        "grips",
+        "torn",
+        "tear",
+        "half",
+        "pincers",
+        "far"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +398,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tosses",
+        "grips",
+        "torn",
+        "tear",
+        "half",
+        "pincers",
+        "far"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +418,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tosses",
+        "grips",
+        "torn",
+        "tear",
+        "half",
+        "pincers",
+        "far"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +438,23 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "With its pincer horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "clings",
+        "pincer",
+        "damp",
+        "morning",
+        "burrows",
+        "digs",
+        "soil",
+        "horns"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +462,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "horns",
+        "icy"
+      ],
+      "keywords": [
+        "periods",
+        "pincer",
+        "wildly",
+        "swings",
+        "forests",
+        "hides",
+        "horns"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +484,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tosses",
+        "grips",
+        "torn",
+        "tear",
+        "half",
+        "pincers",
+        "far"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +504,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tosses",
+        "grips",
+        "torn",
+        "tear",
+        "half",
+        "pincers",
+        "far"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +524,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It grips prey with its powerful pincers and will not let go until the prey is torn in half.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "grips",
+        "torn",
+        "let",
+        "half",
+        "pincers"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +542,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It grips prey with its powerful pincers and will not let go until the prey is torn in half.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "grips",
+        "torn",
+        "let",
+        "half",
+        "pincers"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +560,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tosses",
+        "grips",
+        "torn",
+        "tear",
+        "half",
+        "pincers",
+        "far"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +580,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "horns",
+        "icy"
+      ],
+      "keywords": [
+        "periods",
+        "pincer",
+        "wildly",
+        "swings",
+        "forests",
+        "hides",
+        "horns"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +602,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon’s movements turn sluggish in cold places.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "horns",
+        "icy"
+      ],
+      "keywords": [
+        "astoundingly",
+        "weighing",
+        "lift",
+        "twice",
+        "grip",
+        "sluggish",
+        "weight",
+        "turn",
+        "movements",
+        "places",
+        "horns"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +628,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe’s body when the pincer closes, making it tough for the foe to escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "driven",
+        "protruding",
+        "thorns",
+        "pair",
+        "pincer",
+        "closes",
+        "deeply",
+        "massive",
+        "escape",
+        "surface",
+        "tough",
+        "horns"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +653,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It grips its prey in its pincers and splits them apart. Although it is a powerful Pokémon, it can’t deal with the cold.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "deal",
+        "splits",
+        "grips",
+        "apart",
+        "pincers",
+        "although"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +674,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "One solid blow from its horns is enough to split apart a large tree. Its greatest rival in Alola is Vikavolt.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "rival",
+        "vikavolt",
+        "greatest",
+        "split",
+        "solid",
+        "alola",
+        "apart",
+        "blow",
+        "horns"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +697,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It gets into territorial disputes with Vikavolt. For some reason, it apparently gets along well with Heracross in Alola.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "vikavolt",
+        "heracross",
+        "disputes",
+        "territorial",
+        "alola",
+        "reason",
+        "along",
+        "well",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +719,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s tough, it can’t handle cold well. When night falls, it buries itself in leafage and sleeps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "nocturnal",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "leafage",
+        "handle",
+        "buries",
+        "falls",
+        "sleeps",
+        "tough",
+        "well",
+        "although"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +743,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Grips its prey in its pincers and squeezes hard! It can’t move if it’s cold out, so it lives in warm places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "squeezes",
+        "grips",
+        "pincers",
+        "places"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +762,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Grips its prey in its pincers and squeezes hard! It can’t move if it’s cold out, so it lives in warm places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "squeezes",
+        "grips",
+        "pincers",
+        "places"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +781,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "judge",
+        "opposite",
+        "gender",
+        "popularity",
+        "thicker",
+        "impressive",
+        "based",
+        "pincers",
+        "another"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +801,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flings",
+        "clamps",
+        "either",
+        "splits",
+        "half",
+        "pincers"
+      ]
     }
   ],
   "similarPokemonIds": [

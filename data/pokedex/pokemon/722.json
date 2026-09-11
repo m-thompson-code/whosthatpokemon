@@ -10,6 +10,59 @@
   ],
   "imagePath": "/assets/pokemon/722.png",
   "entryCount": 7,
+  "entryTraits": [
+    "nocturnal",
+    "fur",
+    "feathers",
+    "sky-dwelling",
+    "hunting",
+    "wings"
+  ],
+  "entryKeywords": [
+    "dagger",
+    "noiselessly",
+    "prowl",
+    "tactics",
+    "pelt",
+    "pocket",
+    "formidable",
+    "bag",
+    "switches",
+    "launching",
+    "mastered",
+    "relaxed",
+    "wary",
+    "via",
+    "art",
+    "delivers",
+    "tight",
+    "delicate",
+    "drawing",
+    "becoming",
+    "distance",
+    "glides",
+    "targets",
+    "photosynthesis",
+    "deftly",
+    "blades",
+    "sends",
+    "store",
+    "notice",
+    "silently",
+    "launches",
+    "begins",
+    "vicious",
+    "feathers",
+    "builds",
+    "kicks",
+    "feels",
+    "near",
+    "active",
+    "dark",
+    "places",
+    "same",
+    "close"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +92,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "wary",
+        "becoming",
+        "photosynthesis",
+        "store",
+        "active"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +110,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Silently it glides, drawing near its targets. Before they even notice it, it begins to pelt them with vicious kicks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "pelt",
+        "drawing",
+        "glides",
+        "targets",
+        "notice",
+        "silently",
+        "begins",
+        "vicious",
+        "kicks",
+        "near"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +133,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "formidable",
+        "blades",
+        "sends",
+        "feathers",
+        "kicks"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +151,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It feels relaxed in tight, dark places and has been known to use its Trainer’s pocket or bag as a nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pocket",
+        "bag",
+        "relaxed",
+        "tight",
+        "feels",
+        "dark",
+        "places"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +169,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "tactics",
+        "switches",
+        "delivers",
+        "distance",
+        "launches",
+        "vicious",
+        "feathers",
+        "kicks",
+        "close"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +191,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "prowl",
+        "via",
+        "photosynthesis",
+        "silently",
+        "builds"
+      ]
     },
     {
       "versionId": 39,
@@ -87,7 +211,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers",
+        "wings"
+      ],
+      "keywords": [
+        "dagger",
+        "noiselessly",
+        "launching",
+        "mastered",
+        "art",
+        "delicate",
+        "deftly",
+        "feathers",
+        "same"
+      ]
     }
   ],
   "similarPokemonIds": [

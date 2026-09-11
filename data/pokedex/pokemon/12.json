@@ -10,6 +10,86 @@
   ],
   "imagePath": "/assets/pokemon/012.png",
   "entryCount": 32,
+  "entryTraits": [
+    "sky-dwelling",
+    "wings",
+    "poisonous",
+    "aquatic",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "heav",
+    "heaviest",
+    "iest",
+    "myriad",
+    "powders",
+    "sprinkles",
+    "examination",
+    "caterpie",
+    "extract",
+    "repellent",
+    "collect",
+    "cutiefly",
+    "heated",
+    "reveals",
+    "pretty",
+    "blooming",
+    "flits",
+    "defends",
+    "locate",
+    "fluttering",
+    "collecting",
+    "identify",
+    "rains",
+    "patches",
+    "collects",
+    "hairs",
+    "scattering",
+    "nectar",
+    "seek",
+    "superior",
+    "amounts",
+    "drive",
+    "rubs",
+    "distant",
+    "release",
+    "going",
+    "repel",
+    "composed",
+    "allows",
+    "powder",
+    "protected",
+    "dust",
+    "eye",
+    "bloom",
+    "enables",
+    "battles",
+    "delicious",
+    "tiny",
+    "favorite",
+    "onto",
+    "great",
+    "fields",
+    "flaps",
+    "carry",
+    "finds",
+    "pollen",
+    "rain",
+    "six",
+    "honey",
+    "miles",
+    "flowers",
+    "poisonous",
+    "scales",
+    "flower",
+    "attacked",
+    "highly",
+    "search",
+    "bird",
+    "close",
+    "toxic",
+    "covered"
+  ],
   "color": "white",
   "shape": "bug-wings",
   "habitat": "forest",
@@ -39,7 +119,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "release",
+        "dust",
+        "flaps",
+        "highly",
+        "toxic"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +139,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "release",
+        "dust",
+        "flaps",
+        "highly",
+        "toxic"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +159,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "powders",
+        "repel",
+        "allows",
+        "rain",
+        "poisonous",
+        "covered"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +180,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collects",
+        "hairs",
+        "rubs",
+        "onto",
+        "carry",
+        "honey"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +197,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Water-repellent powder on its wings enables it to collect honey, even in the heav­ iest of rains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "heav",
+        "iest",
+        "repellent",
+        "collect",
+        "rains",
+        "powder",
+        "enables",
+        "honey"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +219,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flits",
+        "collecting",
+        "identify",
+        "distant",
+        "bloom",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +238,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "extract",
+        "blooming",
+        "superior",
+        "delicious",
+        "carry",
+        "six",
+        "honey",
+        "miles",
+        "flowers",
+        "search"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +259,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "extract",
+        "blooming",
+        "superior",
+        "delicious",
+        "carry",
+        "six",
+        "honey",
+        "miles",
+        "flowers",
+        "search"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +280,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extract",
+        "blooming",
+        "seek",
+        "superior",
+        "delicious",
+        "carry",
+        "six",
+        "honey",
+        "miles",
+        "flowers",
+        "search"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +302,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The wings are protected by rain-repellent dust. As a result, this POKéMON can fly about even in rain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "repellent",
+        "protected",
+        "dust",
+        "rain"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +319,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "release",
+        "dust",
+        "great",
+        "flaps",
+        "highly",
+        "toxic"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +340,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locate",
+        "patches",
+        "amounts",
+        "tiny",
+        "pollen",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +359,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locate",
+        "patches",
+        "amounts",
+        "tiny",
+        "pollen",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +378,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locate",
+        "patches",
+        "amounts",
+        "tiny",
+        "pollen",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +397,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collects",
+        "hairs",
+        "rubs",
+        "onto",
+        "carry",
+        "honey"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +414,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "heaviest",
+        "repellent",
+        "collect",
+        "rains",
+        "powder",
+        "enables",
+        "honey"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +435,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locate",
+        "patches",
+        "amounts",
+        "tiny",
+        "pollen",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +454,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locate",
+        "patches",
+        "amounts",
+        "tiny",
+        "pollen",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +473,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locate",
+        "patches",
+        "amounts",
+        "tiny",
+        "pollen",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +492,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locate",
+        "patches",
+        "amounts",
+        "tiny",
+        "pollen",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +511,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locate",
+        "patches",
+        "amounts",
+        "tiny",
+        "pollen",
+        "honey",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +530,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "repellent",
+        "protected",
+        "dust",
+        "rain"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +547,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "extract",
+        "blooming",
+        "superior",
+        "delicious",
+        "carry",
+        "six",
+        "honey",
+        "miles",
+        "flowers",
+        "search"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +568,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "extract",
+        "blooming",
+        "superior",
+        "delicious",
+        "carry",
+        "six",
+        "honey",
+        "miles",
+        "flowers",
+        "search"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +589,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "myriad",
+        "examination",
+        "reveals",
+        "composed",
+        "eye",
+        "tiny",
+        "close"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +607,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "defends",
+        "fluttering",
+        "scattering",
+        "poisonous",
+        "scales",
+        "attacked"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +627,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "sprinkles",
+        "caterpie",
+        "drive",
+        "going",
+        "finds",
+        "scales",
+        "bird",
+        "toxic",
+        "covered"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +650,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "cutiefly",
+        "heated",
+        "pretty",
+        "nectar",
+        "battles",
+        "favorite",
+        "fields",
+        "flowers"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +671,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "repel",
+        "allows",
+        "powder",
+        "rain",
+        "poisonous",
+        "covered"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +692,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "repel",
+        "allows",
+        "powder",
+        "rain",
+        "poisonous",
+        "covered"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +713,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "release",
+        "dust",
+        "great",
+        "flaps",
+        "highly",
+        "toxic"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +734,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collects",
+        "hairs",
+        "rubs",
+        "onto",
+        "carry",
+        "honey"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,29 @@
   ],
   "imagePath": "/assets/pokemon/982.png",
   "entryCount": 2,
+  "entryTraits": [
+    "cave-dwelling",
+    "tail",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "lengths",
+    "lungs",
+    "boring",
+    "drives",
+    "releasing",
+    "bedrock",
+    "narrow",
+    "sucking",
+    "blast",
+    "fill",
+    "reach",
+    "intense",
+    "holes",
+    "six",
+    "miles",
+    "underground"
+  ],
   "color": "yellow",
   "shape": "squiggle",
   "habitat": null,
@@ -38,7 +61,21 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "lengths",
+        "boring",
+        "bedrock",
+        "reach",
+        "holes",
+        "six",
+        "miles",
+        "underground"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +83,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "lungs",
+        "drives",
+        "releasing",
+        "narrow",
+        "sucking",
+        "blast",
+        "fill",
+        "intense"
+      ]
     }
   ],
   "similarPokemonIds": [

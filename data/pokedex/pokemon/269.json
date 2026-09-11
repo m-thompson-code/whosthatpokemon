@@ -10,6 +10,72 @@
   ],
   "imagePath": "/assets/pokemon/269.png",
   "entryCount": 19,
+  "entryTraits": [
+    "forest-dwelling",
+    "luminous",
+    "wings",
+    "poisonous",
+    "mountain-dwelling",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "bonfires",
+    "messily",
+    "roadside",
+    "streetlamps",
+    "stripping",
+    "attraction",
+    "settlements",
+    "strip",
+    "tend",
+    "wreak",
+    "boulevards",
+    "havoc",
+    "sunset",
+    "streetlights",
+    "scattered",
+    "wrestler",
+    "instinctively",
+    "looses",
+    "lining",
+    "tends",
+    "swarms",
+    "pro",
+    "attracted",
+    "radar",
+    "horribly",
+    "flutters",
+    "sick",
+    "flap",
+    "cities",
+    "lights",
+    "scatter",
+    "nocturnal",
+    "drawn",
+    "violently",
+    "chase",
+    "powder",
+    "searches",
+    "dust",
+    "difficult",
+    "glow",
+    "fine",
+    "antennae",
+    "nights",
+    "scatters",
+    "bright",
+    "fields",
+    "flaps",
+    "actually",
+    "active",
+    "scales",
+    "dark",
+    "attacked",
+    "highly",
+    "gather",
+    "toxic",
+    "eat"
+  ],
   "color": "green",
   "shape": "bug-wings",
   "habitat": "forest",
@@ -39,7 +105,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DUSTOX is instinctively drawn to light. Swarms of this POKéMON are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "roadside",
+        "stripping",
+        "wreak",
+        "havoc",
+        "instinctively",
+        "swarms",
+        "attracted",
+        "cities",
+        "lights",
+        "drawn",
+        "bright"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +130,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When DUSTOX flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This POKéMON searches for food using its antennae like radar.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "scattered",
+        "wrestler",
+        "pro",
+        "radar",
+        "sick",
+        "searches",
+        "dust",
+        "fine",
+        "antennae",
+        "flaps",
+        "actually"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +155,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is a nocturnal POKéMON that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "wings",
+        "nocturnal",
+        "poisonous"
+      ],
+      "keywords": [
+        "attraction",
+        "streetlights",
+        "looses",
+        "nocturnal",
+        "powder",
+        "fields",
+        "highly",
+        "toxic"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +179,22 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It scatters horribly toxic dust when it senses danger. They tend to gather in the glow of streetlamps at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous",
+        "poisonous"
+      ],
+      "keywords": [
+        "streetlamps",
+        "tend",
+        "horribly",
+        "dust",
+        "glow",
+        "scatters",
+        "gather",
+        "toxic"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +202,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It scatters horribly toxic dust when it senses danger. They tend to gather in the glow of streetlamps at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous",
+        "poisonous"
+      ],
+      "keywords": [
+        "streetlamps",
+        "tend",
+        "horribly",
+        "dust",
+        "glow",
+        "scatters",
+        "gather",
+        "toxic"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +225,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A nocturnal Pokémon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "messily",
+        "boulevards",
+        "streetlights",
+        "lining",
+        "nocturnal",
+        "drawn",
+        "eat"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +246,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "sunset",
+        "flutters",
+        "scatter",
+        "violently",
+        "dust",
+        "active",
+        "attacked",
+        "toxic"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +268,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "poisonous"
+      ],
+      "keywords": [
+        "strip",
+        "boulevards",
+        "scattered",
+        "lining",
+        "flap",
+        "powder",
+        "toxic"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +290,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It scatters its fine dust all over when it is attacked. It is a nocturnal Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "nocturnal",
+        "dust",
+        "fine",
+        "scatters",
+        "attacked"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +308,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It scatters its fine dust all over when it is attacked. It is a nocturnal Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "nocturnal",
+        "dust",
+        "fine",
+        "scatters",
+        "attacked"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +326,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "poisonous"
+      ],
+      "keywords": [
+        "strip",
+        "boulevards",
+        "scattered",
+        "lining",
+        "flap",
+        "powder",
+        "toxic"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +348,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "poisonous"
+      ],
+      "keywords": [
+        "strip",
+        "boulevards",
+        "scattered",
+        "lining",
+        "flap",
+        "powder",
+        "toxic"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +370,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "poisonous"
+      ],
+      "keywords": [
+        "strip",
+        "boulevards",
+        "scattered",
+        "lining",
+        "flap",
+        "powder",
+        "toxic"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +392,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "poisonous"
+      ],
+      "keywords": [
+        "strip",
+        "boulevards",
+        "scattered",
+        "lining",
+        "flap",
+        "powder",
+        "toxic"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +414,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A nocturnal Pokémon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "messily",
+        "boulevards",
+        "streetlights",
+        "lining",
+        "nocturnal",
+        "drawn",
+        "eat"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +435,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "sunset",
+        "flutters",
+        "scatter",
+        "violently",
+        "dust",
+        "active",
+        "attacked",
+        "toxic"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +457,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dustox is instinctively drawn to light. Swarms of this Pokémon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "roadside",
+        "stripping",
+        "wreak",
+        "havoc",
+        "instinctively",
+        "swarms",
+        "attracted",
+        "cities",
+        "lights",
+        "drawn",
+        "bright"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +482,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "scattered",
+        "wrestler",
+        "pro",
+        "radar",
+        "sick",
+        "searches",
+        "dust",
+        "fine",
+        "antennae",
+        "flaps",
+        "actually"
+      ]
     },
     {
       "versionId": 39,
@@ -183,7 +507,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Tends to be drawn to bonfires on dark nights. Difficult to chase away from settlements because of the way it scatters highly toxic scales.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "poisonous"
+      ],
+      "keywords": [
+        "bonfires",
+        "settlements",
+        "tends",
+        "drawn",
+        "chase",
+        "difficult",
+        "nights",
+        "scatters",
+        "scales",
+        "dark",
+        "highly",
+        "toxic"
+      ]
     }
   ],
   "similarPokemonIds": [

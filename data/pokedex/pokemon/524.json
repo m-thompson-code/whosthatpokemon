@@ -9,6 +9,64 @@
   ],
   "imagePath": "/assets/pokemon/524.png",
   "entryCount": 14,
+  "entryTraits": [
+    "cave-dwelling",
+    "sonic",
+    "arms",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "cavity",
+    "cease",
+    "compares",
+    "soften",
+    "topples",
+    "detects",
+    "noise",
+    "panics",
+    "settle",
+    "hardest",
+    "hexagonal",
+    "fissure",
+    "carbink",
+    "compressed",
+    "ear",
+    "material",
+    "tendency",
+    "earthquake",
+    "geodude",
+    "hears",
+    "soak",
+    "bit",
+    "dirt",
+    "hundred",
+    "stick",
+    "layer",
+    "walk",
+    "several",
+    "coming",
+    "shape",
+    "slightly",
+    "hole",
+    "hand",
+    "species",
+    "exposed",
+    "similar",
+    "sounds",
+    "discovered",
+    "direction",
+    "walks",
+    "angry",
+    "core",
+    "touch",
+    "starts",
+    "shaped",
+    "within",
+    "underground",
+    "rock",
+    "apparently",
+    "born"
+  ],
   "color": "blue",
   "shape": "legs",
   "habitat": null,
@@ -38,7 +96,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "hexagonal",
+        "compressed",
+        "ear",
+        "shape",
+        "underground"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +114,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fissure",
+        "earthquake",
+        "hundred",
+        "discovered",
+        "core"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +130,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hexagonal",
+        "ear",
+        "tendency",
+        "walk",
+        "coming",
+        "hole",
+        "direction",
+        "shaped"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +151,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hexagonal",
+        "ear",
+        "tendency",
+        "walk",
+        "coming",
+        "hole",
+        "direction",
+        "shaped"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +172,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "hexagonal",
+        "compressed",
+        "ear",
+        "shape",
+        "underground"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +190,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fissure",
+        "earthquake",
+        "hundred",
+        "discovered",
+        "core"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +206,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "hexagonal",
+        "compressed",
+        "ear",
+        "shape",
+        "underground"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +224,15 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fissure",
+        "earthquake",
+        "hundred",
+        "discovered",
+        "core"
+      ]
     },
     {
       "versionId": 27,
@@ -102,7 +240,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compares",
+        "settle",
+        "hardest",
+        "carbink",
+        "geodude",
+        "species",
+        "similar",
+        "within",
+        "born"
+      ]
     },
     {
       "versionId": 28,
@@ -110,7 +260,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "cavity",
+        "cease",
+        "topples",
+        "panics",
+        "hexagonal",
+        "ear",
+        "hears",
+        "sounds",
+        "direction",
+        "walks"
+      ]
     },
     {
       "versionId": 29,
@@ -118,7 +283,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "hexagonal",
+        "ear",
+        "stick",
+        "hole",
+        "hand",
+        "angry",
+        "core"
+      ]
     },
     {
       "versionId": 30,
@@ -126,7 +303,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fissure",
+        "material",
+        "dirt",
+        "hundred",
+        "layer",
+        "several",
+        "exposed",
+        "rock"
+      ]
     },
     {
       "versionId": 33,
@@ -134,7 +322,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "soften",
+        "soak",
+        "bit",
+        "apparently"
+      ]
     },
     {
       "versionId": 34,
@@ -142,7 +339,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "detects",
+        "noise",
+        "slightly",
+        "core",
+        "touch",
+        "starts"
+      ]
     }
   ],
   "similarPokemonIds": [

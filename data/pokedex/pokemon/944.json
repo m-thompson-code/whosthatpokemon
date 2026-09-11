@@ -10,6 +10,31 @@
   ],
   "imagePath": "/assets/pokemon/944.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fangs",
+    "poisonous",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "acrid",
+    "ire",
+    "mellow",
+    "paints",
+    "sink",
+    "paralysis",
+    "markings",
+    "odor",
+    "soaked",
+    "anger",
+    "teeth",
+    "object",
+    "liquid",
+    "front",
+    "causing",
+    "poisonous",
+    "though",
+    "usually"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +64,25 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "poisonous"
+      ],
+      "keywords": [
+        "ire",
+        "mellow",
+        "sink",
+        "paralysis",
+        "soaked",
+        "anger",
+        "teeth",
+        "object",
+        "front",
+        "causing",
+        "though",
+        "usually"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +90,19 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial",
+        "poisonous"
+      ],
+      "keywords": [
+        "acrid",
+        "paints",
+        "markings",
+        "odor",
+        "liquid",
+        "poisonous"
+      ]
     }
   ],
   "similarPokemonIds": [

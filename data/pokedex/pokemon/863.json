@@ -9,6 +9,22 @@
   ],
   "imagePath": "/assets/pokemon/863.png",
   "entryCount": 2,
+  "entryTraits": [
+    "claws"
+  ],
+  "entryKeywords": [
+    "daggers",
+    "thrill",
+    "helmet",
+    "extended",
+    "dangerous",
+    "hardened",
+    "evolved",
+    "battles",
+    "hair",
+    "actually",
+    "iron"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +54,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thrill",
+        "helmet",
+        "hardened",
+        "hair",
+        "actually",
+        "iron"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +71,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "daggers",
+        "extended",
+        "dangerous",
+        "evolved",
+        "battles"
+      ]
     }
   ],
   "similarPokemonIds": [

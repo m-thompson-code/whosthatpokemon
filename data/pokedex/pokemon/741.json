@@ -10,6 +10,38 @@
   ],
   "imagePath": "/assets/pokemon/741.png",
   "entryCount": 4,
+  "entryTraits": [
+    "wings",
+    "fiery",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "combust",
+    "drunk",
+    "sipped",
+    "passionate",
+    "wins",
+    "bathes",
+    "wrong",
+    "beats",
+    "steps",
+    "nectar",
+    "fiercely",
+    "blazing",
+    "hearts",
+    "opening",
+    "mind",
+    "burn",
+    "dancing",
+    "order",
+    "intense",
+    "angry",
+    "dance",
+    "beautiful",
+    "red",
+    "create",
+    "creates"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +71,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "bathes",
+        "beats",
+        "steps",
+        "intense",
+        "dance",
+        "beautiful",
+        "create"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +92,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Oricorio has sipped red nectar. Its passionate dance moves cause its enemies to combust in both body and mind.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "combust",
+        "sipped",
+        "passionate",
+        "nectar",
+        "mind",
+        "dance",
+        "red"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +112,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It wins the hearts of its enemies with its passionate dancing and then uses the opening it creates to burn them up with blazing flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "passionate",
+        "wins",
+        "blazing",
+        "hearts",
+        "opening",
+        "burn",
+        "dancing",
+        "creates"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +133,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drunk",
+        "passionate",
+        "wrong",
+        "nectar",
+        "fiercely",
+        "order",
+        "angry",
+        "red"
+      ]
     }
   ],
   "similarPokemonIds": [

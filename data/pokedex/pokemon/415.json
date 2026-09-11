@@ -10,6 +10,57 @@
   ],
   "imagePath": "/assets/pokemon/415.png",
   "entryCount": 16,
+  "entryTraits": [
+    "nocturnal",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "fealty",
+    "sundown",
+    "swear",
+    "beehive",
+    "lump",
+    "please",
+    "sake",
+    "trio",
+    "flavor",
+    "floral",
+    "hive",
+    "members",
+    "sunrise",
+    "vespiquen",
+    "ceaselessly",
+    "spend",
+    "queen",
+    "closely",
+    "delivers",
+    "taste",
+    "diligently",
+    "busily",
+    "collects",
+    "nectar",
+    "packed",
+    "produces",
+    "colony",
+    "cluster",
+    "thousand",
+    "gathers",
+    "giant",
+    "set",
+    "slightly",
+    "swarm",
+    "work",
+    "formed",
+    "birth",
+    "group",
+    "carries",
+    "honey",
+    "flowers",
+    "constantly",
+    "different",
+    "100",
+    "gather"
+  ],
   "color": "yellow",
   "shape": "heads",
   "habitat": null,
@@ -39,7 +90,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon formed by three others. It busily carries sweet floral honey to VESPIQUEN.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "floral",
+        "vespiquen",
+        "busily",
+        "formed",
+        "carries",
+        "honey"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +107,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "beehive",
+        "delivers",
+        "collects",
+        "colony",
+        "cluster",
+        "honey"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +127,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "please",
+        "trio",
+        "vespiquen",
+        "gathers",
+        "birth",
+        "honey",
+        "flowers",
+        "constantly"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +146,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "lump",
+        "closely",
+        "packed",
+        "thousand",
+        "group"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +165,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "lump",
+        "closely",
+        "packed",
+        "thousand",
+        "group"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +184,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "please",
+        "trio",
+        "vespiquen",
+        "gathers",
+        "birth",
+        "honey",
+        "flowers",
+        "constantly"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +203,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "please",
+        "trio",
+        "vespiquen",
+        "gathers",
+        "birth",
+        "honey",
+        "flowers",
+        "constantly"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +222,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "This Pokémon is a set of three. When they sleep, they gather up and form a giant hive of 100 Combee.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "hive",
+        "giant",
+        "set",
+        "100",
+        "gather"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +240,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "This Pokémon is a set of three. When they sleep, they gather up and form a giant hive of 100 Combee.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "hive",
+        "giant",
+        "set",
+        "100",
+        "gather"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +258,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "please",
+        "trio",
+        "vespiquen",
+        "gathers",
+        "birth",
+        "honey",
+        "flowers",
+        "constantly"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +277,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "beehive",
+        "delivers",
+        "collects",
+        "colony",
+        "cluster",
+        "honey"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +297,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "please",
+        "trio",
+        "vespiquen",
+        "gathers",
+        "birth",
+        "honey",
+        "flowers",
+        "constantly"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +316,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "beehive",
+        "delivers",
+        "collects",
+        "colony",
+        "cluster",
+        "honey"
+      ]
     },
     {
       "versionId": 33,
@@ -143,7 +336,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The members of the trio spend all their time together. Each one has a slightly different taste in nectar.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trio",
+        "members",
+        "spend",
+        "taste",
+        "nectar",
+        "slightly",
+        "different"
+      ]
     },
     {
       "versionId": 34,
@@ -151,7 +354,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sundown",
+        "sake",
+        "sunrise",
+        "vespiquen",
+        "ceaselessly",
+        "nectar",
+        "gathers",
+        "swarm"
+      ]
     },
     {
       "versionId": 39,
@@ -159,7 +373,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "They swear fealty to a queen Pokémon and work diligently to gather nectar. Each swarm produces a different flavor of honey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fealty",
+        "swear",
+        "flavor",
+        "queen",
+        "diligently",
+        "nectar",
+        "produces",
+        "swarm",
+        "work",
+        "honey",
+        "different",
+        "gather"
+      ]
     }
   ],
   "similarPokemonIds": [

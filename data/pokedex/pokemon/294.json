@@ -9,6 +9,66 @@
   ],
   "imagePath": "/assets/pokemon/294.png",
   "entryCount": 20,
+  "entryTraits": [
+    "forest-dwelling",
+    "aquatic",
+    "sonic",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "assail",
+    "damages",
+    "stomping",
+    "bellows",
+    "loudspeakers",
+    "speakers",
+    "stamping",
+    "decimate",
+    "exhale",
+    "frame",
+    "shouting",
+    "positions",
+    "shouts",
+    "wood",
+    "punish",
+    "bellowing",
+    "stamps",
+    "trucks",
+    "wave",
+    "loud",
+    "point",
+    "incapable",
+    "inhaling",
+    "hearing",
+    "volume",
+    "loudly",
+    "serve",
+    "finishes",
+    "pressure",
+    "put",
+    "house",
+    "considered",
+    "voice",
+    "blows",
+    "isn",
+    "completely",
+    "apart",
+    "massive",
+    "blow",
+    "generates",
+    "builds",
+    "round",
+    "stomach",
+    "ultrasonic",
+    "shock",
+    "weak",
+    "force",
+    "ears",
+    "well",
+    "tip",
+    "developed",
+    "muscles"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "cave",
@@ -39,7 +99,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LOUDRED’s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POKéMON’s round ears serve as loudspeakers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "loudspeakers",
+        "decimate",
+        "frame",
+        "wood",
+        "punish",
+        "bellowing",
+        "serve",
+        "house",
+        "voice",
+        "completely",
+        "round",
+        "ears"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +124,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LOUDRED shouts while stamping its feet. After it finishes shouting, this POKéMON becomes incapable of hearing anything for a while. This is considered to be a weak point.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "stamping",
+        "shouting",
+        "shouts",
+        "point",
+        "incapable",
+        "hearing",
+        "finishes",
+        "considered",
+        "weak"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +144,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It positions the round speakers on its head to assail foes with ultrasonic waves at massive volume. It builds power by stomping the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "assail",
+        "stomping",
+        "speakers",
+        "positions",
+        "volume",
+        "massive",
+        "builds",
+        "round",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +166,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When it stamps its feet and bellows, it generates ultrasonic waves that can blow apart a house.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bellows",
+        "stamps",
+        "house",
+        "apart",
+        "blow",
+        "generates",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +186,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When it stamps its feet and bellows, it generates ultrasonic waves that can blow apart a house.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bellows",
+        "stamps",
+        "house",
+        "apart",
+        "blow",
+        "generates",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +206,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "stamps",
+        "trucks",
+        "shock",
+        "tip"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +224,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "stamps",
+        "trucks",
+        "shock",
+        "tip"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +242,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "stamps",
+        "trucks",
+        "shock",
+        "tip"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +260,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "exhale",
+        "shouts",
+        "inhaling",
+        "loudly",
+        "stomach",
+        "well",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +281,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "exhale",
+        "shouts",
+        "inhaling",
+        "loudly",
+        "stomach",
+        "well",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +302,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "stamps",
+        "trucks",
+        "shock",
+        "tip"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +320,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "stamps",
+        "trucks",
+        "shock",
+        "tip"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +338,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "stamps",
+        "trucks",
+        "shock",
+        "tip"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +356,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "stamps",
+        "trucks",
+        "shock",
+        "tip"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +374,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "exhale",
+        "shouts",
+        "inhaling",
+        "loudly",
+        "stomach",
+        "well",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +395,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "stamps",
+        "trucks",
+        "shock",
+        "tip"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +413,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Loudred’s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This Pokémon’s round ears serve as loudspeakers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "loudspeakers",
+        "decimate",
+        "frame",
+        "wood",
+        "punish",
+        "bellowing",
+        "serve",
+        "house",
+        "voice",
+        "completely",
+        "round",
+        "ears"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +438,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Loudred shouts while stamping its feet. After it finishes shouting, this Pokémon becomes incapable of hearing anything for a while. This is considered to be a weak point.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "stamping",
+        "shouting",
+        "shouts",
+        "point",
+        "incapable",
+        "hearing",
+        "finishes",
+        "considered",
+        "weak"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +458,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Loudred’s ears serve as speakers, and they can put out sound waves powerful enough to blow away a house.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "speakers",
+        "serve",
+        "put",
+        "house",
+        "blow",
+        "ears"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +478,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The force of this Pokémon’s loud voice isn’t just the sound—it’s also the wave of air pressure that blows opponents away and damages them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "damages",
+        "wave",
+        "loud",
+        "pressure",
+        "voice",
+        "blows",
+        "isn",
+        "force"
+      ]
     }
   ],
   "similarPokemonIds": [

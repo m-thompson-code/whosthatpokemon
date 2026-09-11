@@ -10,6 +10,66 @@
   ],
   "imagePath": "/assets/pokemon/220.png",
   "entryCount": 24,
+  "entryTraits": [
+    "burrowing",
+    "fiery",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "relied",
+    "rooting",
+    "poses",
+    "enticing",
+    "dried",
+    "excels",
+    "discovers",
+    "foraging",
+    "problem",
+    "skill",
+    "locate",
+    "dashes",
+    "headlong",
+    "springs",
+    "hisui",
+    "snout",
+    "sniffing",
+    "rubbing",
+    "rubs",
+    "cover",
+    "mushroom",
+    "buried",
+    "thing",
+    "frozen",
+    "mushrooms",
+    "searches",
+    "source",
+    "dead",
+    "dig",
+    "beneath",
+    "occasionally",
+    "smells",
+    "roots",
+    "sensitive",
+    "upon",
+    "favorite",
+    "spring",
+    "find",
+    "digs",
+    "finds",
+    "snow",
+    "something",
+    "since",
+    "against",
+    "aroma",
+    "tough",
+    "berries",
+    "nose",
+    "eating",
+    "grass",
+    "hot",
+    "tip"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "cave",
@@ -39,7 +99,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "fiery"
+      ],
+      "keywords": [
+        "discovers",
+        "springs",
+        "snout",
+        "rubs",
+        "dig",
+        "find",
+        "hot"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +120,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If it smells some­ thing enticing, it dashes headlong off to find the source of the aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enticing",
+        "dashes",
+        "headlong",
+        "thing",
+        "source",
+        "smells",
+        "find",
+        "aroma"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +139,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It uses the tip of its nose to dig for food. Its nose is so tough that even frozen ground poses no problem.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "burrowing",
+        "icy"
+      ],
+      "keywords": [
+        "poses",
+        "problem",
+        "frozen",
+        "dig",
+        "tough",
+        "nose",
+        "tip"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +161,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "springs",
+        "snout",
+        "rubbing",
+        "cover",
+        "mushroom",
+        "dead",
+        "occasionally",
+        "roots",
+        "favorite",
+        "against",
+        "grass",
+        "hot"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +186,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "springs",
+        "snout",
+        "rubbing",
+        "cover",
+        "mushroom",
+        "dead",
+        "occasionally",
+        "roots",
+        "favorite",
+        "against",
+        "grass",
+        "hot"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +211,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "dried",
+        "springs",
+        "snout",
+        "rubbing",
+        "mushroom",
+        "occasionally",
+        "roots",
+        "favorite",
+        "against",
+        "grass",
+        "hot"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +235,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enticing",
+        "dashes",
+        "headlong",
+        "source",
+        "smells",
+        "find",
+        "something",
+        "aroma"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +254,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "fiery"
+      ],
+      "keywords": [
+        "discovers",
+        "springs",
+        "snout",
+        "rubs",
+        "dig",
+        "find",
+        "hot"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +275,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "foraging",
+        "springs",
+        "mushrooms",
+        "dead",
+        "finds",
+        "eating",
+        "grass",
+        "hot"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +296,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "foraging",
+        "springs",
+        "mushrooms",
+        "dead",
+        "finds",
+        "eating",
+        "grass",
+        "hot"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +317,22 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "locate",
+        "springs",
+        "buried",
+        "mushrooms",
+        "sensitive",
+        "berries",
+        "nose",
+        "hot"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +340,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "fiery"
+      ],
+      "keywords": [
+        "discovers",
+        "springs",
+        "snout",
+        "rubs",
+        "dig",
+        "find",
+        "hot"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +361,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enticing",
+        "dashes",
+        "headlong",
+        "source",
+        "smells",
+        "find",
+        "something",
+        "aroma"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +380,22 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "locate",
+        "springs",
+        "buried",
+        "mushrooms",
+        "sensitive",
+        "berries",
+        "nose",
+        "hot"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +403,22 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "locate",
+        "springs",
+        "buried",
+        "mushrooms",
+        "sensitive",
+        "berries",
+        "nose",
+        "hot"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +426,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "fiery"
+      ],
+      "keywords": [
+        "rooting",
+        "snout",
+        "searches",
+        "spring",
+        "digs",
+        "hot",
+        "tip"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +447,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "fiery"
+      ],
+      "keywords": [
+        "rooting",
+        "snout",
+        "searches",
+        "spring",
+        "digs",
+        "hot",
+        "tip"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +468,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "fiery"
+      ],
+      "keywords": [
+        "discovers",
+        "springs",
+        "snout",
+        "rubs",
+        "dig",
+        "find",
+        "hot"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +489,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enticing",
+        "dashes",
+        "headlong",
+        "source",
+        "smells",
+        "find",
+        "something",
+        "aroma"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +508,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "springs",
+        "snout",
+        "rubbing",
+        "cover",
+        "mushroom",
+        "dead",
+        "occasionally",
+        "roots",
+        "favorite",
+        "against",
+        "grass",
+        "hot"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +533,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "springs",
+        "snout",
+        "rubbing",
+        "cover",
+        "mushroom",
+        "dead",
+        "occasionally",
+        "roots",
+        "favorite",
+        "against",
+        "grass",
+        "hot"
+      ]
     },
     {
       "versionId": 33,
@@ -207,7 +558,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "fiery"
+      ],
+      "keywords": [
+        "discovers",
+        "springs",
+        "snout",
+        "rubs",
+        "dig",
+        "find",
+        "hot"
+      ]
     },
     {
       "versionId": 34,
@@ -215,7 +579,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enticing",
+        "dashes",
+        "headlong",
+        "source",
+        "smells",
+        "find",
+        "something",
+        "aroma"
+      ]
     },
     {
       "versionId": 39,
@@ -223,7 +598,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "relied",
+        "excels",
+        "skill",
+        "hisui",
+        "sniffing",
+        "buried",
+        "mushrooms",
+        "beneath",
+        "upon",
+        "snow",
+        "since",
+        "grass"
+      ]
     }
   ],
   "similarPokemonIds": [

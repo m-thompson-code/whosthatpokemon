@@ -10,6 +10,81 @@
   ],
   "imagePath": "/assets/pokemon/462.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sky-dwelling",
+    "nocturnal",
+    "territorial",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "disposed",
+    "hyper",
+    "monitor",
+    "receiving",
+    "reports",
+    "theorize",
+    "transmitting",
+    "ended",
+    "failure",
+    "influenced",
+    "origin",
+    "outer",
+    "purpose",
+    "tried",
+    "zooms",
+    "efforts",
+    "molecular",
+    "ufo",
+    "controlled",
+    "intruders",
+    "receives",
+    "emanates",
+    "beam",
+    "sightings",
+    "magneton",
+    "via",
+    "emitted",
+    "scientific",
+    "field",
+    "radio",
+    "radar",
+    "caused",
+    "mistaken",
+    "turning",
+    "antenna",
+    "toward",
+    "changing",
+    "i",
+    "changed",
+    "attract",
+    "magnetism",
+    "means",
+    "signals",
+    "units",
+    "unknown",
+    "believe",
+    "exposure",
+    "structure",
+    "evolved",
+    "strange",
+    "causing",
+    "seems",
+    "evolve",
+    "generate",
+    "say",
+    "space",
+    "came",
+    "magnetic",
+    "cannot",
+    "group",
+    "special",
+    "mysterious",
+    "emits",
+    "still",
+    "thought",
+    "quickly",
+    "evolution"
+  ],
   "color": "gray",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +114,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "field",
+        "magnetism",
+        "units",
+        "exposure",
+        "evolved",
+        "generate",
+        "magnetic",
+        "special"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +133,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "field",
+        "magnetism",
+        "units",
+        "exposure",
+        "evolved",
+        "generate",
+        "magnetic",
+        "special"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +152,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ended",
+        "failure",
+        "tried",
+        "efforts",
+        "scientific",
+        "means",
+        "evolve",
+        "group"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +171,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Exposure to a special magnetic field changed MAGNETON’s molecular structure, turning it into MAGNEZONE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "molecular",
+        "magneton",
+        "field",
+        "turning",
+        "changed",
+        "exposure",
+        "structure",
+        "magnetic",
+        "special"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +191,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Exposure to a special magnetic field changed MAGNETON’s molecular structure, turning it into MAGNEZONE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "molecular",
+        "magneton",
+        "field",
+        "turning",
+        "changed",
+        "exposure",
+        "structure",
+        "magnetic",
+        "special"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +211,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ended",
+        "failure",
+        "tried",
+        "efforts",
+        "scientific",
+        "means",
+        "evolve",
+        "group"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +230,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ended",
+        "failure",
+        "tried",
+        "efforts",
+        "scientific",
+        "means",
+        "evolve",
+        "group"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +249,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "emitted",
+        "attract",
+        "magnetism",
+        "cannot"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +264,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "emitted",
+        "attract",
+        "magnetism",
+        "cannot"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +279,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "emitted",
+        "attract",
+        "magnetism",
+        "cannot"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +294,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "field",
+        "magnetism",
+        "units",
+        "exposure",
+        "evolved",
+        "generate",
+        "magnetic",
+        "special"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +313,14 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "emitted",
+        "attract",
+        "magnetism",
+        "cannot"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +328,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "field",
+        "magnetism",
+        "units",
+        "exposure",
+        "evolved",
+        "generate",
+        "magnetic",
+        "special"
+      ]
     },
     {
       "versionId": 27,
@@ -143,7 +347,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Three units generate magnetism. There have been many mistaken reports of UFO sightings when Magnezone flies through the night sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "reports",
+        "ufo",
+        "sightings",
+        "mistaken",
+        "magnetism",
+        "units",
+        "generate"
+      ]
     },
     {
       "versionId": 28,
@@ -151,7 +368,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin, while transmitting signals of unknown purpose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "receiving",
+        "transmitting",
+        "origin",
+        "purpose",
+        "zooms",
+        "signals",
+        "unknown",
+        "seems"
+      ]
     },
     {
       "versionId": 29,
@@ -159,7 +389,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It uses radar to monitor its territory. Intruders are quickly disposed of with a hyper beam.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "disposed",
+        "hyper",
+        "monitor",
+        "intruders",
+        "beam",
+        "radar",
+        "quickly"
+      ]
     },
     {
       "versionId": 30,
@@ -167,7 +409,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "There are still people who believe that this Pokémon came from outer space. It emanates a powerful magnetic field.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "outer",
+        "emanates",
+        "field",
+        "believe",
+        "space",
+        "came",
+        "magnetic",
+        "still"
+      ]
     },
     {
       "versionId": 33,
@@ -175,7 +428,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Some say that Magnezone receives signals from space via the antenna on its head and that it’s being controlled by some mysterious being.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "controlled",
+        "receives",
+        "via",
+        "antenna",
+        "signals",
+        "say",
+        "space",
+        "mysterious"
+      ]
     },
     {
       "versionId": 34,
@@ -183,7 +447,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s thought that a special magnetic field changed the molecular structure of this Pokémon’s body, and that’s what caused the Pokémon’s evolution.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "molecular",
+        "field",
+        "caused",
+        "changed",
+        "structure",
+        "magnetic",
+        "special",
+        "thought",
+        "evolution"
+      ]
     },
     {
       "versionId": 39,
@@ -191,7 +467,29 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "I theorize that a special magnetic field influenced this Pokémon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "theorize",
+        "influenced",
+        "molecular",
+        "field",
+        "radio",
+        "antenna",
+        "toward",
+        "changing",
+        "i",
+        "structure",
+        "strange",
+        "causing",
+        "evolve",
+        "space",
+        "magnetic",
+        "special",
+        "emits"
+      ]
     }
   ],
   "similarPokemonIds": [

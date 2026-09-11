@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/927.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fiery"
+  ],
+  "entryKeywords": [
+    "farming",
+    "appetizing",
+    "wheat",
+    "villages",
+    "emanates",
+    "treasured",
+    "pleasant",
+    "helps",
+    "hardens",
+    "exposed",
+    "intense",
+    "surface",
+    "aroma",
+    "heat",
+    "skin"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +59,18 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "farming",
+        "wheat",
+        "villages",
+        "emanates",
+        "treasured",
+        "pleasant",
+        "helps",
+        "aroma"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +78,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "The surface of this Pokémon’s skin hardens when exposed to intense heat, and its body has an appetizing aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "appetizing",
+        "hardens",
+        "exposed",
+        "intense",
+        "surface",
+        "aroma",
+        "heat",
+        "skin"
+      ]
     }
   ],
   "similarPokemonIds": [

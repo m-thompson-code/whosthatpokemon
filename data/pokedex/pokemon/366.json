@@ -9,6 +9,62 @@
   ],
   "imagePath": "/assets/pokemon/366.png",
   "entryCount": 20,
+  "entryTraits": [
+    "shell",
+    "hunting",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "costly",
+    "closed",
+    "nicks",
+    "scored",
+    "infused",
+    "carnivorous",
+    "exceedingly",
+    "fit",
+    "amplifies",
+    "clamping",
+    "precious",
+    "clamps",
+    "slams",
+    "lifetime",
+    "evidence",
+    "pearls",
+    "scratches",
+    "pearl",
+    "held",
+    "sides",
+    "amplify",
+    "magnificent",
+    "catching",
+    "getting",
+    "protected",
+    "fully",
+    "prevent",
+    "sure",
+    "let",
+    "shellder",
+    "evolves",
+    "upon",
+    "grown",
+    "despite",
+    "protection",
+    "single",
+    "escape",
+    "appearance",
+    "stop",
+    "sturdy",
+    "mysterious",
+    "10",
+    "creates",
+    "rock",
+    "good",
+    "moving",
+    "evolution",
+    "close",
+    "doesn"
+  ],
   "color": "blue",
   "shape": "ball",
   "habitat": "sea",
@@ -38,7 +94,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CLAMPERL’s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL’s shell will be scored with nicks and scratches all over.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "nicks",
+        "scored",
+        "clamping",
+        "scratches",
+        "catching",
+        "fully",
+        "grown",
+        "protection",
+        "sturdy",
+        "good"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +118,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CLAMPERL grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this POKéMON is getting close to evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "fit",
+        "evidence",
+        "getting",
+        "protected",
+        "sure",
+        "rock",
+        "evolution",
+        "close"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +139,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A CLAMPERL slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "closed",
+        "infused",
+        "slams",
+        "pearl",
+        "prevent",
+        "upon",
+        "escape",
+        "mysterious",
+        "creates",
+        "evolution"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +163,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "magnificent",
+        "protected",
+        "sturdy"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +181,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "magnificent",
+        "protected",
+        "sturdy"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +199,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "amplify",
+        "single"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +216,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "amplify",
+        "single"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +233,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "amplify",
+        "single"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +250,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it’s held.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "amplifies",
+        "pearl",
+        "held",
+        "evolves",
+        "mysterious"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +268,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it’s held.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "amplifies",
+        "pearl",
+        "held",
+        "evolves",
+        "mysterious"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +286,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "amplify",
+        "single"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +303,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "amplify",
+        "single"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +320,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "amplify",
+        "single"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +337,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "amplify",
+        "single"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +354,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it’s held.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "amplifies",
+        "pearl",
+        "held",
+        "evolves",
+        "mysterious"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +372,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "lifetime",
+        "pearl",
+        "magnificent",
+        "protected",
+        "sturdy"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +390,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Clamperl’s sturdy shell is not only good for protection—it is also used for clamping and catching prey. A fully grown Clamperl’s shell will be scored with nicks and scratches all over.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "nicks",
+        "scored",
+        "clamping",
+        "scratches",
+        "catching",
+        "fully",
+        "grown",
+        "protection",
+        "sturdy",
+        "good"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +414,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pokémon is getting close to evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "fit",
+        "evidence",
+        "getting",
+        "protected",
+        "sure",
+        "rock",
+        "evolution",
+        "close"
+      ]
     },
     {
       "versionId": 29,
@@ -182,7 +435,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Despite its appearance, it’s carnivorous. It clamps down on its prey with both sides of its shell and doesn’t let go until they stop moving.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "carnivorous",
+        "clamps",
+        "sides",
+        "let",
+        "despite",
+        "appearance",
+        "stop",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -190,7 +458,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Clamperl’s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder’s pearls.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "costly",
+        "exceedingly",
+        "precious",
+        "pearls",
+        "shellder",
+        "10"
+      ]
     }
   ],
   "similarPokemonIds": [

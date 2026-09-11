@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/836.png",
   "entryCount": 2,
+  "entryTraits": [
+    "electric"
+  ],
+  "entryKeywords": [
+    "channels",
+    "nonstop",
+    "boost",
+    "breaks",
+    "50",
+    "going",
+    "sends",
+    "generates",
+    "top",
+    "run",
+    "running",
+    "days",
+    "mph",
+    "strength",
+    "full"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +58,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "channels",
+        "nonstop",
+        "going",
+        "generates",
+        "run",
+        "days",
+        "full"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +78,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "boost",
+        "breaks",
+        "50",
+        "sends",
+        "top",
+        "running",
+        "mph",
+        "strength"
+      ]
     }
   ],
   "similarPokemonIds": [

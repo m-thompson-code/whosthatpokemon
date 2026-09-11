@@ -10,6 +10,55 @@
   ],
   "imagePath": "/assets/pokemon/472.png",
   "entryCount": 14,
+  "entryTraits": [
+    "hunting",
+    "fangs",
+    "tail",
+    "sky-dwelling",
+    "wings"
+  ],
+  "entryKeywords": [
+    "satisfaction",
+    "soundlessly",
+    "succeeds",
+    "inverted",
+    "lengthy",
+    "soundless",
+    "critical",
+    "swoops",
+    "drained",
+    "observes",
+    "presents",
+    "sinks",
+    "breeze",
+    "circle",
+    "elongated",
+    "properly",
+    "pitch",
+    "throat",
+    "glides",
+    "dances",
+    "instant",
+    "globe",
+    "hanging",
+    "chance",
+    "faint",
+    "catching",
+    "rest",
+    "hit",
+    "silently",
+    "approaches",
+    "flight",
+    "entirely",
+    "branches",
+    "flapping",
+    "carry",
+    "blood",
+    "do",
+    "look",
+    "black",
+    "takes"
+  ],
   "color": "purple",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +88,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "inverted",
+        "swoops",
+        "observes",
+        "presents",
+        "hanging",
+        "chance",
+        "branches"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +108,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "inverted",
+        "swoops",
+        "observes",
+        "presents",
+        "hanging",
+        "chance",
+        "branches"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +128,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "succeeds",
+        "breeze",
+        "circle",
+        "properly",
+        "globe",
+        "faint",
+        "catching",
+        "flapping"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +147,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "lengthy",
+        "soundless",
+        "elongated",
+        "rest",
+        "flight",
+        "carry",
+        "do"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +169,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "lengthy",
+        "soundless",
+        "elongated",
+        "rest",
+        "flight",
+        "carry",
+        "do"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +191,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "succeeds",
+        "breeze",
+        "circle",
+        "properly",
+        "globe",
+        "faint",
+        "catching",
+        "flapping"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +210,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "succeeds",
+        "breeze",
+        "circle",
+        "properly",
+        "globe",
+        "faint",
+        "catching",
+        "flapping"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +229,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It dances silently through the sky. When it approaches prey, it can land a critical hit in an instant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "critical",
+        "dances",
+        "instant",
+        "hit",
+        "silently",
+        "approaches"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +249,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It dances silently through the sky. When it approaches prey, it can land a critical hit in an instant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "critical",
+        "dances",
+        "instant",
+        "hit",
+        "silently",
+        "approaches"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +269,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "inverted",
+        "swoops",
+        "observes",
+        "presents",
+        "hanging",
+        "chance",
+        "branches"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +289,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "lengthy",
+        "soundless",
+        "elongated",
+        "rest",
+        "flight",
+        "carry",
+        "do"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +311,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "inverted",
+        "swoops",
+        "observes",
+        "presents",
+        "hanging",
+        "chance",
+        "branches"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +331,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "lengthy",
+        "soundless",
+        "elongated",
+        "rest",
+        "flight",
+        "carry",
+        "do"
+      ]
     },
     {
       "versionId": 39,
@@ -143,7 +353,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "satisfaction",
+        "soundlessly",
+        "drained",
+        "sinks",
+        "pitch",
+        "throat",
+        "glides",
+        "entirely",
+        "blood",
+        "look",
+        "black",
+        "takes"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,24 @@
   ],
   "imagePath": "/assets/pokemon/961.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "contrary",
+    "regional",
+    "drags",
+    "suggest",
+    "den",
+    "dugtrio",
+    "temperament",
+    "variety",
+    "fish",
+    "considered",
+    "vicious",
+    "wraps",
+    "appearance"
+  ],
   "color": "red",
   "shape": "blob",
   "habitat": null,
@@ -38,7 +56,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "contrary",
+        "drags",
+        "suggest",
+        "den",
+        "temperament",
+        "vicious",
+        "wraps",
+        "appearance"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +77,15 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "regional",
+        "dugtrio",
+        "variety",
+        "fish",
+        "considered"
+      ]
     }
   ],
   "similarPokemonIds": [

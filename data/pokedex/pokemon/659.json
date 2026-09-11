@@ -9,6 +9,34 @@
   ],
   "imagePath": "/assets/pokemon/659.png",
   "entryCount": 6,
+  "entryTraits": [
+    "burrowing",
+    "nocturnal",
+    "cave-dwelling",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "moments",
+    "sever",
+    "shovels",
+    "33",
+    "corviknight",
+    "strengthens",
+    "excels",
+    "effortlessly",
+    "digging",
+    "dig",
+    "hole",
+    "roots",
+    "sensitive",
+    "burrows",
+    "flapping",
+    "holes",
+    "hide",
+    "underground",
+    "ears",
+    "whole"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +66,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They use their large ears to dig burrows. They will dig the whole night through.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "nocturnal"
+      ],
+      "keywords": [
+        "dig",
+        "burrows",
+        "ears",
+        "whole"
+      ]
     },
     {
       "versionId": 24,
@@ -46,7 +84,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "sever",
+        "shovels",
+        "strengthens",
+        "effortlessly",
+        "digging",
+        "roots",
+        "holes",
+        "ears"
+      ]
     },
     {
       "versionId": 25,
@@ -54,7 +105,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They use their large ears to dig burrows. They will dig the whole night through.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "nocturnal"
+      ],
+      "keywords": [
+        "dig",
+        "burrows",
+        "ears",
+        "whole"
+      ]
     },
     {
       "versionId": 26,
@@ -62,7 +123,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "sever",
+        "shovels",
+        "strengthens",
+        "effortlessly",
+        "digging",
+        "roots",
+        "holes",
+        "ears"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +144,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "nocturnal"
+      ],
+      "keywords": [
+        "33",
+        "excels",
+        "digging",
+        "dig",
+        "holes",
+        "ears"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +164,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s very sensitive to danger. The sound of Corviknight’s flapping will have Bunnelby digging a hole to hide underground in moments.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "burrowing",
+        "sonic"
+      ],
+      "keywords": [
+        "moments",
+        "corviknight",
+        "digging",
+        "hole",
+        "sensitive",
+        "flapping",
+        "hide",
+        "underground"
+      ]
     }
   ],
   "similarPokemonIds": [

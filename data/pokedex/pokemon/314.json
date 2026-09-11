@@ -9,6 +9,48 @@
   ],
   "imagePath": "/assets/pokemon/314.png",
   "entryCount": 18,
+  "entryTraits": [
+    "sky-dwelling",
+    "nocturnal",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "canvas",
+    "composing",
+    "lit",
+    "designs",
+    "illuminated",
+    "geometric",
+    "confirmed",
+    "nightfall",
+    "earn",
+    "peers",
+    "study",
+    "gathered",
+    "complex",
+    "greater",
+    "respect",
+    "drawing",
+    "guides",
+    "leads",
+    "volbeat",
+    "signs",
+    "200",
+    "nocturnal",
+    "draw",
+    "scientists",
+    "attracts",
+    "fragrance",
+    "swarm",
+    "flight",
+    "skies",
+    "upon",
+    "active",
+    "patterns",
+    "different",
+    "aroma",
+    "creates"
+  ],
   "color": "purple",
   "shape": "humanoid",
   "habitat": "forest",
@@ -39,7 +81,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POKéMON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "canvas",
+        "lit",
+        "designs",
+        "geometric",
+        "gathered",
+        "drawing",
+        "leads",
+        "volbeat",
+        "attracts",
+        "fragrance",
+        "swarm"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +106,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ILLUMISE leads a flight of illuminated VOLBEAT to draw signs in the night sky. This POKéMON is said to earn greater respect from its peers by composing more complex designs in the sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "composing",
+        "designs",
+        "illuminated",
+        "earn",
+        "peers",
+        "complex",
+        "greater",
+        "respect",
+        "leads",
+        "volbeat",
+        "signs",
+        "draw",
+        "flight"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +133,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A nocturnal POKéMON that becomes active upon nightfall. It leads a VOLBEAT swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "confirmed",
+        "nightfall",
+        "leads",
+        "volbeat",
+        "200",
+        "nocturnal",
+        "draw",
+        "swarm",
+        "upon",
+        "active",
+        "patterns",
+        "different"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +159,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It guides VOLBEAT to draw signs in night skies. There are scientists that study the patterns it creates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "study",
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "scientists",
+        "skies",
+        "patterns",
+        "creates"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +181,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It guides VOLBEAT to draw signs in night skies. There are scientists that study the patterns it creates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "study",
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "scientists",
+        "skies",
+        "patterns",
+        "creates"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +203,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "aroma"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +223,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "aroma"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +243,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "aroma"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +263,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its fragrance attracts a swarm of VOLBEAT, so they draw over 200 patterns in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "volbeat",
+        "200",
+        "draw",
+        "attracts",
+        "fragrance",
+        "swarm",
+        "patterns"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +284,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its fragrance attracts a swarm of VOLBEAT, so they draw over 200 patterns in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "volbeat",
+        "200",
+        "draw",
+        "attracts",
+        "fragrance",
+        "swarm",
+        "patterns"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +305,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "aroma"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +325,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "aroma"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +345,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "aroma"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +365,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "aroma"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +385,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its fragrance attracts a swarm of Volbeat, so they draw over 200 patterns in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "volbeat",
+        "200",
+        "draw",
+        "attracts",
+        "fragrance",
+        "swarm",
+        "patterns"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +406,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "guides",
+        "volbeat",
+        "signs",
+        "draw",
+        "aroma"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +426,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "canvas",
+        "lit",
+        "designs",
+        "geometric",
+        "gathered",
+        "drawing",
+        "leads",
+        "volbeat",
+        "attracts",
+        "fragrance",
+        "swarm"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +451,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "composing",
+        "designs",
+        "illuminated",
+        "earn",
+        "peers",
+        "complex",
+        "greater",
+        "respect",
+        "leads",
+        "volbeat",
+        "signs",
+        "draw",
+        "flight"
+      ]
     }
   ],
   "similarPokemonIds": [

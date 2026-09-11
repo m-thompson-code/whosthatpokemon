@@ -9,6 +9,22 @@
   ],
   "imagePath": "/assets/pokemon/672.png",
   "entryCount": 4,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "placid",
+    "sunshine",
+    "harmony",
+    "need",
+    "disposition",
+    "generate",
+    "humans",
+    "first",
+    "thought",
+    "doesn",
+    "eat"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +54,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "placid",
+        "harmony",
+        "disposition",
+        "humans",
+        "first",
+        "thought"
+      ]
     },
     {
       "versionId": 24,
@@ -46,7 +71,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it has sunshine and water, it doesn’t need to eat, because it can generate energy from the leaves on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunshine",
+        "need",
+        "generate",
+        "doesn",
+        "eat"
+      ]
     },
     {
       "versionId": 25,
@@ -54,7 +89,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "placid",
+        "harmony",
+        "disposition",
+        "humans",
+        "first",
+        "thought"
+      ]
     },
     {
       "versionId": 26,
@@ -62,7 +106,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If it has sunshine and water, it doesn’t need to eat, because it can generate energy from the leaves on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunshine",
+        "need",
+        "generate",
+        "doesn",
+        "eat"
+      ]
     }
   ],
   "similarPokemonIds": [

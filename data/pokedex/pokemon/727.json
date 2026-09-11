@@ -10,6 +10,64 @@
   ],
   "imagePath": "/assets/pokemon/727.png",
   "entryCount": 6,
+  "entryTraits": [
+    "fiery"
+  ],
+  "entryKeywords": [
+    "barred",
+    "egotistical",
+    "hurling",
+    "motivated",
+    "nonchalance",
+    "unworthy",
+    "ignore",
+    "navel",
+    "notable",
+    "selfish",
+    "alight",
+    "issue",
+    "trait",
+    "flinging",
+    "mannered",
+    "exceeds",
+    "excels",
+    "complete",
+    "spewing",
+    "boring",
+    "waist",
+    "especially",
+    "listen",
+    "beating",
+    "orders",
+    "furious",
+    "mood",
+    "ferocious",
+    "600",
+    "behavior",
+    "finishes",
+    "helps",
+    "rough",
+    "disposition",
+    "set",
+    "aggressive",
+    "shows",
+    "side",
+    "3",
+    "battles",
+    "intense",
+    "holds",
+    "violent",
+    "kicks",
+    "finds",
+    "fighting",
+    "stronger",
+    "punches",
+    "spirit",
+    "fahrenheit",
+    "well",
+    "although",
+    "temperature"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +97,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "This Pokémon has a violent, selfish disposition. If it’s not in the mood to listen, it will ignore its Trainer’s orders with complete nonchalance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nonchalance",
+        "ignore",
+        "selfish",
+        "complete",
+        "listen",
+        "orders",
+        "mood",
+        "disposition",
+        "violent"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +117,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hurling",
+        "navel",
+        "flinging",
+        "spewing",
+        "furious",
+        "ferocious",
+        "finishes",
+        "kicks",
+        "punches"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +139,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "egotistical",
+        "motivated",
+        "unworthy",
+        "mannered",
+        "boring",
+        "beating",
+        "rough",
+        "finds",
+        "stronger",
+        "although"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +160,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "alight",
+        "waist",
+        "especially",
+        "set",
+        "intense",
+        "fighting",
+        "spirit"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +180,24 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "barred",
+        "navel",
+        "issue",
+        "exceeds",
+        "excels",
+        "600",
+        "3",
+        "battles",
+        "holds",
+        "violent",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +205,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "notable",
+        "trait",
+        "behavior",
+        "helps",
+        "rough",
+        "aggressive",
+        "shows",
+        "side",
+        "well"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,62 @@
   ],
   "imagePath": "/assets/pokemon/204.png",
   "entryCount": 23,
+  "entryTraits": [
+    "forest-dwelling",
+    "shell",
+    "hunting",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "glue",
+    "ridiculously",
+    "insect",
+    "adding",
+    "elderly",
+    "bother",
+    "cutiefly",
+    "extra",
+    "pinecone",
+    "additional",
+    "layers",
+    "thicker",
+    "drops",
+    "mistake",
+    "patiently",
+    "explodes",
+    "disturbed",
+    "saliva",
+    "shaking",
+    "motionless",
+    "touches",
+    "sticks",
+    "waiting",
+    "peck",
+    "weight",
+    "bark",
+    "hangs",
+    "warning",
+    "hardens",
+    "alola",
+    "spits",
+    "someone",
+    "suddenly",
+    "bug",
+    "waits",
+    "favorite",
+    "branch",
+    "falls",
+    "protects",
+    "likes",
+    "near",
+    "larger",
+    "huge",
+    "along",
+    "eating",
+    "fluid",
+    "bird",
+    "doesn"
+  ],
   "color": "gray",
   "shape": "ball",
   "habitat": "forest",
@@ -38,7 +94,22 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "adding",
+        "bother",
+        "additional",
+        "layers",
+        "thicker",
+        "weight",
+        "bark",
+        "likes",
+        "doesn"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +117,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "insect",
+        "hangs",
+        "waits",
+        "near"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +134,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "glue",
+        "touches",
+        "bark",
+        "hardens",
+        "spits",
+        "fluid"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +154,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "drops",
+        "patiently",
+        "explodes",
+        "disturbed",
+        "shaking",
+        "hangs",
+        "warning",
+        "someone",
+        "waits",
+        "branch",
+        "along",
+        "eating"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +180,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "drops",
+        "patiently",
+        "explodes",
+        "disturbed",
+        "shaking",
+        "hangs",
+        "warning",
+        "someone",
+        "waits",
+        "branch",
+        "along",
+        "eating"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +206,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A PINECO hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "explodes",
+        "disturbed",
+        "shaking",
+        "hangs",
+        "someone",
+        "suddenly",
+        "waits",
+        "branch",
+        "falls",
+        "eating"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +230,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It hangs and waits for flying-insect prey to come near. It does not move about much on its own.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "insect",
+        "hangs",
+        "waits",
+        "near"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +247,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It likes to make its shell thicker by adding layers of tree bark. The extra weight doesn’t bother it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "adding",
+        "bother",
+        "extra",
+        "layers",
+        "thicker",
+        "weight",
+        "bark",
+        "likes",
+        "doesn"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +270,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pinecone",
+        "mistake",
+        "peck",
+        "protects",
+        "bird"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +288,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pinecone",
+        "mistake",
+        "peck",
+        "protects",
+        "bird"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +306,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pinecone",
+        "mistake",
+        "peck",
+        "protects",
+        "bird"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +324,22 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn’t bother it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "adding",
+        "bother",
+        "additional",
+        "layers",
+        "thicker",
+        "weight",
+        "bark",
+        "likes",
+        "doesn"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +347,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "insect",
+        "hangs",
+        "waits",
+        "near"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +364,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pinecone",
+        "mistake",
+        "peck",
+        "protects",
+        "bird"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +382,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pinecone",
+        "mistake",
+        "peck",
+        "protects",
+        "bird"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +400,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pinecone",
+        "mistake",
+        "peck",
+        "protects",
+        "bird"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +418,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pinecone",
+        "mistake",
+        "peck",
+        "protects",
+        "bird"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +436,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn’t bother it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "adding",
+        "bother",
+        "additional",
+        "layers",
+        "thicker",
+        "weight",
+        "bark",
+        "likes",
+        "doesn"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +459,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pinecone",
+        "mistake",
+        "peck",
+        "protects",
+        "bird"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +477,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "drops",
+        "patiently",
+        "explodes",
+        "disturbed",
+        "shaking",
+        "hangs",
+        "warning",
+        "someone",
+        "waits",
+        "branch",
+        "along",
+        "eating"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +503,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "drops",
+        "patiently",
+        "explodes",
+        "disturbed",
+        "shaking",
+        "hangs",
+        "warning",
+        "someone",
+        "waits",
+        "branch",
+        "along",
+        "eating"
+      ]
     },
     {
       "versionId": 29,
@@ -206,7 +529,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Motionless, it hangs from trees, waiting for its bug Pokémon prey to come to it. Its favorite in Alola is Cutiefly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "cutiefly",
+        "motionless",
+        "waiting",
+        "hangs",
+        "alola",
+        "bug",
+        "favorite"
+      ]
     },
     {
       "versionId": 30,
@@ -214,7 +550,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "ridiculously",
+        "elderly",
+        "thicker",
+        "saliva",
+        "sticks",
+        "bark",
+        "larger",
+        "huge"
+      ]
     }
   ],
   "similarPokemonIds": [

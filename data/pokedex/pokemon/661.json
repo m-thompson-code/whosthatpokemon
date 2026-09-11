@@ -10,6 +10,67 @@
   ],
   "imagePath": "/assets/pokemon/661.png",
   "entryCount": 10,
+  "entryTraits": [
+    "feathers",
+    "tail",
+    "territorial",
+    "fiery",
+    "cold-climate",
+    "sleeping",
+    "icy",
+    "sonic",
+    "arms"
+  ],
+  "entryKeywords": [
+    "hormone",
+    "melodious",
+    "spiking",
+    "warnings",
+    "amiable",
+    "chirps",
+    "lilting",
+    "production",
+    "merciless",
+    "joined",
+    "unexpectedly",
+    "feather",
+    "intruders",
+    "bare",
+    "enters",
+    "bed",
+    "mercilessly",
+    "easy",
+    "burned",
+    "ferocious",
+    "double",
+    "instant",
+    "increases",
+    "enter",
+    "sharply",
+    "beauty",
+    "peck",
+    "excited",
+    "friendly",
+    "train",
+    "voice",
+    "might",
+    "signals",
+    "shows",
+    "side",
+    "send",
+    "ll",
+    "despite",
+    "hands",
+    "areas",
+    "touch",
+    "actually",
+    "beautiful",
+    "movements",
+    "another",
+    "heat",
+    "apparently",
+    "temperature"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +100,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers",
+        "tail"
+      ],
+      "keywords": [
+        "chirps",
+        "feather",
+        "friendly",
+        "signals",
+        "send",
+        "beautiful",
+        "movements",
+        "another"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +122,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Despite the beauty of its lilting voice, it’s merciless to intruders that enter its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "lilting",
+        "merciless",
+        "intruders",
+        "enter",
+        "beauty",
+        "voice",
+        "despite"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +142,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers",
+        "tail"
+      ],
+      "keywords": [
+        "chirps",
+        "feather",
+        "friendly",
+        "signals",
+        "send",
+        "beautiful",
+        "movements",
+        "another"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +164,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Despite the beauty of its lilting voice, it’s merciless to intruders that enter its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "lilting",
+        "merciless",
+        "intruders",
+        "enter",
+        "beauty",
+        "voice",
+        "despite"
+      ]
     },
     {
       "versionId": 27,
@@ -71,7 +184,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "amiable",
+        "joined",
+        "easy",
+        "ferocious",
+        "train",
+        "shows",
+        "side"
+      ]
     },
     {
       "versionId": 28,
@@ -79,7 +202,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When it’s excited, its temperature can double, spiking hormone production in its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hormone",
+        "spiking",
+        "production",
+        "double",
+        "excited",
+        "temperature"
+      ]
     },
     {
       "versionId": 29,
@@ -87,7 +219,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "While it’s an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you’ll be burned.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "amiable",
+        "unexpectedly",
+        "burned",
+        "instant",
+        "ll",
+        "touch",
+        "heat"
+      ]
     },
     {
       "versionId": 30,
@@ -95,7 +239,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "bed",
+        "areas",
+        "apparently"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +257,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial",
+        "sonic"
+      ],
+      "keywords": [
+        "melodious",
+        "warnings",
+        "enters",
+        "mercilessly",
+        "peck",
+        "actually"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +277,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "bare",
+        "burned",
+        "increases",
+        "sharply",
+        "excited",
+        "might",
+        "hands",
+        "touch",
+        "temperature"
+      ]
     }
   ],
   "similarPokemonIds": [

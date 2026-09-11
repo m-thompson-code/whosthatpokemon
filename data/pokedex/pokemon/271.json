@@ -10,6 +10,66 @@
   ],
   "imagePath": "/assets/pokemon/271.png",
   "entryCount": 20,
+  "entryTraits": [
+    "nocturnal",
+    "arms",
+    "aquatic",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "popping",
+    "consternation",
+    "delight",
+    "maker",
+    "mosses",
+    "tugs",
+    "unpleasant",
+    "slippery",
+    "anglers",
+    "riverbed",
+    "angler",
+    "interfere",
+    "nightfall",
+    "tug",
+    "lines",
+    "startling",
+    "evening",
+    "moss",
+    "bed",
+    "touched",
+    "mischievous",
+    "enjoys",
+    "dusk",
+    "mischief",
+    "aquatic",
+    "horribly",
+    "sunny",
+    "film",
+    "mistaken",
+    "nocturnal",
+    "slimy",
+    "edge",
+    "fishing",
+    "line",
+    "child",
+    "beneath",
+    "feeds",
+    "great",
+    "rivers",
+    "hands",
+    "feels",
+    "active",
+    "human",
+    "spots",
+    "surface",
+    "sleeps",
+    "spirit",
+    "entire",
+    "grass",
+    "takes",
+    "rocks",
+    "covered"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": "waters-edge",
@@ -40,7 +100,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LOMBRE is nocturnal - it will get active after dusk. It is also a mischief-maker. When this POKéMON spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "consternation",
+        "maker",
+        "tugs",
+        "anglers",
+        "lines",
+        "enjoys",
+        "dusk",
+        "mischief",
+        "nocturnal",
+        "fishing",
+        "beneath",
+        "active",
+        "spots",
+        "surface"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +127,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LOMBRE’s entire body is covered by a slippery, slimy film. It feels horribly unpleasant to be touched by this POKéMON’s hands. LOMBRE is often mistaken for a human child.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "unpleasant",
+        "slippery",
+        "touched",
+        "horribly",
+        "film",
+        "mistaken",
+        "slimy",
+        "child",
+        "hands",
+        "feels",
+        "human",
+        "entire",
+        "covered"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +153,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "In the evening, it takes great delight in popping out of rivers and startling people. It feeds on aquatic moss that grows on rocks in the riverbed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "popping",
+        "delight",
+        "riverbed",
+        "startling",
+        "evening",
+        "moss",
+        "aquatic",
+        "feeds",
+        "great",
+        "rivers",
+        "takes",
+        "rocks"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +176,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "bed",
+        "sunny",
+        "edge",
+        "active",
+        "sleeps",
+        "grass"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +197,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "bed",
+        "sunny",
+        "edge",
+        "active",
+        "sleeps",
+        "grass"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +218,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "angler",
+        "interfere",
+        "tug",
+        "mischievous",
+        "fishing",
+        "line",
+        "spots",
+        "spirit"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +237,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "angler",
+        "interfere",
+        "tug",
+        "mischievous",
+        "fishing",
+        "line",
+        "spots",
+        "spirit"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +256,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "angler",
+        "interfere",
+        "tug",
+        "mischievous",
+        "fishing",
+        "line",
+        "spots",
+        "spirit"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +275,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is nocturnal and becomes active at nightfall. It feeds on aquatic mosses that grow in the riverbed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "mosses",
+        "riverbed",
+        "nightfall",
+        "aquatic",
+        "nocturnal",
+        "feeds",
+        "active"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +295,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is nocturnal and becomes active at nightfall. It feeds on aquatic mosses that grow in the riverbed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "mosses",
+        "riverbed",
+        "nightfall",
+        "aquatic",
+        "nocturnal",
+        "feeds",
+        "active"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +315,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "angler",
+        "interfere",
+        "tug",
+        "mischievous",
+        "fishing",
+        "line",
+        "spots",
+        "spirit"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +334,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "angler",
+        "interfere",
+        "tug",
+        "mischievous",
+        "fishing",
+        "line",
+        "spots",
+        "spirit"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +353,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "angler",
+        "interfere",
+        "tug",
+        "mischievous",
+        "fishing",
+        "line",
+        "spots",
+        "spirit"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +372,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "angler",
+        "interfere",
+        "tug",
+        "mischievous",
+        "fishing",
+        "line",
+        "spots",
+        "spirit"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +391,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives at the water’s edge where it is sunny. It sleeps on a bed of water-grass by day and becomes active at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "bed",
+        "sunny",
+        "edge",
+        "active",
+        "sleeps",
+        "grass"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +412,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "angler",
+        "interfere",
+        "tug",
+        "mischievous",
+        "fishing",
+        "line",
+        "spots",
+        "spirit"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +431,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lombre is nocturnal—it will get active after dusk. It is also a mischief maker. When this Pokémon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "consternation",
+        "maker",
+        "tugs",
+        "anglers",
+        "lines",
+        "enjoys",
+        "dusk",
+        "mischief",
+        "nocturnal",
+        "fishing",
+        "beneath",
+        "active",
+        "spots",
+        "surface"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +458,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lombre’s entire body is covered by a slippery, slimy film. It feels horribly unpleasant to be touched by this Pokémon’s hands. Lombre is often mistaken for a human child.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "unpleasant",
+        "slippery",
+        "touched",
+        "horribly",
+        "film",
+        "mistaken",
+        "slimy",
+        "child",
+        "hands",
+        "feels",
+        "human",
+        "entire",
+        "covered"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +484,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is nocturnal and becomes active at nightfall. It feeds on aquatic mosses that grow in the riverbed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "mosses",
+        "riverbed",
+        "nightfall",
+        "aquatic",
+        "nocturnal",
+        "feeds",
+        "active"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +504,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "bed",
+        "sunny",
+        "edge",
+        "active",
+        "sleeps",
+        "grass"
+      ]
     }
   ],
   "similarPokemonIds": [

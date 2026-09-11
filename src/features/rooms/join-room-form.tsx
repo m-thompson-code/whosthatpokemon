@@ -1,13 +1,12 @@
 "use client";
 
-import { doc, getDoc, serverTimestamp, setDoc } from "firebase/firestore";
 import { ArrowRight, Crown, LoaderCircle } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { type FormEvent, useState } from "react";
 
-import { firebaseAuth, firestore } from "@/lib/firebase/client";
-import { joinRoomSchema, Team } from "@/lib/game/schema";
+import { firebaseAuth } from "@/lib/firebase/client";
+import { joinRoomSchema } from "@/lib/game/schema";
 import { useIdentity } from "@/features/auth/identity-provider";
 
 const withTimeout = async <Value,>(operation: Promise<Value>, message: string) => {
@@ -55,49 +54,21 @@ export const JoinRoomForm = () => {
 
     try {
       const user = firebaseAuth.currentUser;
-      const codeSnapshot = await withTimeout(
-        getDoc(doc(firestore, "joinCodes", result.data.roomCode)),
+      const token = await user.getIdToken();
+      const response = await withTimeout(
+        fetch("/api/rooms/join", {
+          method: "POST",
+          headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+          body: JSON.stringify(result.data),
+        }),
         "Joining is taking longer than expected. Please try again.",
       );
-
-      if (!codeSnapshot.exists()) {
-        setError("That room could not be found. Check the code and try again.");
-        return;
+      const payload = await response.json().catch(() => null);
+      if (!response.ok || typeof payload?.roomId !== "string") {
+        throw new Error(typeof payload?.error === "string" ? payload.error : "Could not join the room.");
       }
 
-      const roomId = codeSnapshot.data().roomId;
-
-      if (typeof roomId !== "string") {
-        setError("That room is not available.");
-        return;
-      }
-
-      const playerReference = doc(firestore, "rooms", roomId, "players", user.uid);
-      const playerSnapshot = await withTimeout(
-        getDoc(playerReference),
-        "Joining is taking longer than expected. Please try again.",
-      );
-
-      if (playerSnapshot.exists()) {
-        await withTimeout(setDoc(playerReference, {
-          displayName: result.data.displayName,
-          connected: true,
-          lastSeenAt: serverTimestamp(),
-        }, { merge: true }), "Joining is taking longer than expected. Please try again.");
-      } else {
-        await withTimeout(setDoc(playerReference, {
-          uid: user.uid,
-          displayName: result.data.displayName,
-          score: 0,
-          team: Team.None,
-          eliminated: false,
-          connected: true,
-          joinedAt: serverTimestamp(),
-          lastSeenAt: serverTimestamp(),
-        }), "Joining is taking longer than expected. Please try again.");
-      }
-
-      router.push(`/room/${roomId}`);
+      router.push(`/room/${payload.roomId}`);
     } catch (joinError) {
       setError(joinError instanceof Error ? joinError.message : "Could not join right now. Confirm anonymous sign-in is enabled in Firebase.");
     } finally {
@@ -117,7 +88,7 @@ export const JoinRoomForm = () => {
       <div className="join-panel__controls">
         <label>
           Room code
-          <input autoComplete="off" maxLength={4} name="roomCode" placeholder="KTO7" required />
+          <input autoComplete="off" maxLength={4} name="roomCode" placeholder="xxxx" required />
         </label>
         <p className="join-identity">Joining as <strong>{identity?.username ?? "No username"}</strong></p>
         {error && <p className="form-error" role="alert">{error}</p>}

@@ -10,6 +10,72 @@
   ],
   "imagePath": "/assets/pokemon/627.png",
   "entryCount": 15,
+  "entryTraits": [
+    "claws",
+    "hunting",
+    "shell"
+  ],
+  "entryKeywords": [
+    "acceptance",
+    "bawling",
+    "belie",
+    "carnivore",
+    "chick",
+    "hatching",
+    "hotheadedness",
+    "pierces",
+    "spies",
+    "recklessness",
+    "consumes",
+    "desperate",
+    "frequent",
+    "courage",
+    "combative",
+    "pecks",
+    "warrior",
+    "prove",
+    "resist",
+    "talons",
+    "indiscriminately",
+    "pluck",
+    "challenges",
+    "ready",
+    "crack",
+    "bravely",
+    "insides",
+    "parent",
+    "challenge",
+    "gain",
+    "opportunity",
+    "challenging",
+    "parents",
+    "shells",
+    "faint",
+    "injured",
+    "natural",
+    "pick",
+    "fear",
+    "crush",
+    "stands",
+    "soon",
+    "loses",
+    "shellder",
+    "massive",
+    "order",
+    "stand",
+    "help",
+    "fights",
+    "matter",
+    "starts",
+    "heart",
+    "stronger",
+    "sturdy",
+    "anyone",
+    "berries",
+    "strength",
+    "although",
+    "born"
+  ],
   "color": "white",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +105,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "talons",
+        "bravely",
+        "crush",
+        "stand",
+        "matter",
+        "berries"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +124,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "frequent",
+        "challenge",
+        "fear",
+        "help",
+        "fights",
+        "stronger"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +141,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recklessness",
+        "courage",
+        "stands",
+        "massive",
+        "stronger"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +157,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recklessness",
+        "courage",
+        "stands",
+        "massive",
+        "stronger"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +173,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "talons",
+        "bravely",
+        "crush",
+        "stand",
+        "matter",
+        "berries"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +192,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "frequent",
+        "challenge",
+        "fear",
+        "help",
+        "fights",
+        "stronger"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +209,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "talons",
+        "bravely",
+        "crush",
+        "stand",
+        "matter",
+        "berries"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +228,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "frequent",
+        "challenge",
+        "fear",
+        "help",
+        "fights",
+        "stronger"
+      ]
     },
     {
       "versionId": 27,
@@ -103,7 +245,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "indiscriminately",
+        "faint",
+        "injured",
+        "pick",
+        "fights",
+        "stronger"
+      ]
     },
     {
       "versionId": 28,
@@ -111,7 +262,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it’s a carnivore at heart.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "carnivore",
+        "pierces",
+        "consumes",
+        "pecks",
+        "heart",
+        "berries",
+        "although"
+      ]
     },
     {
       "versionId": 29,
@@ -119,7 +283,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "shell"
+      ],
+      "keywords": [
+        "pluck",
+        "crack",
+        "insides",
+        "shells",
+        "shellder",
+        "sturdy"
+      ]
     },
     {
       "versionId": 30,
@@ -127,7 +303,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "acceptance",
+        "hatching",
+        "warrior",
+        "parent",
+        "challenge",
+        "gain",
+        "natural",
+        "soon",
+        "order",
+        "born"
+      ]
     },
     {
       "versionId": 33,
@@ -135,7 +324,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If it spies a strong Pokémon, Rufflet can’t resist challenging it to a battle. But if Rufflet loses, it starts bawling.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bawling",
+        "spies",
+        "resist",
+        "challenging",
+        "loses",
+        "starts"
+      ]
     },
     {
       "versionId": 34,
@@ -143,7 +341,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "A combative Pokémon, it’s ready to pick a fight with anyone. It has talons that can crush hard berries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "combative",
+        "talons",
+        "ready",
+        "pick",
+        "crush",
+        "anyone",
+        "berries"
+      ]
     },
     {
       "versionId": 39,
@@ -151,7 +361,19 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "belie",
+        "chick",
+        "hotheadedness",
+        "desperate",
+        "prove",
+        "challenges",
+        "opportunity",
+        "parents",
+        "strength"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,39 @@
   ],
   "imagePath": "/assets/pokemon/799.png",
   "entryCount": 4,
+  "entryTraits": [
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "gobbled",
+    "certainly",
+    "devouring",
+    "ub",
+    "reports",
+    "droppings",
+    "organism",
+    "beasts",
+    "here",
+    "swallowed",
+    "beast",
+    "buildings",
+    "hungry",
+    "alien",
+    "ultra",
+    "normally",
+    "common",
+    "unknown",
+    "dangerous",
+    "according",
+    "called",
+    "reason",
+    "something",
+    "constantly",
+    "eating",
+    "whole",
+    "although",
+    "apparently"
+  ],
   "color": "black",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +72,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It has gobbled mountains and swallowed whole buildings, according to reports. It’s one of the Ultra Beasts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "gobbled",
+        "reports",
+        "beasts",
+        "swallowed",
+        "buildings",
+        "ultra",
+        "according",
+        "whole"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +93,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "droppings",
+        "beast",
+        "ultra",
+        "dangerous",
+        "reason",
+        "constantly",
+        "eating"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +111,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "organism",
+        "here",
+        "alien",
+        "normally",
+        "common",
+        "although",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +129,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "certainly",
+        "devouring",
+        "ub",
+        "hungry",
+        "unknown",
+        "called",
+        "something",
+        "constantly"
+      ]
     }
   ],
   "similarPokemonIds": [

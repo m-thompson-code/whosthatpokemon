@@ -10,6 +10,68 @@
   ],
   "imagePath": "/assets/pokemon/552.png",
   "entryCount": 14,
+  "entryTraits": [
+    "fiery",
+    "nocturnal",
+    "cold-climate",
+    "desert-dwelling",
+    "burrowing",
+    "icy",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "emergency",
+    "meals",
+    "unsuccessful",
+    "specialized",
+    "membranes",
+    "sunset",
+    "shield",
+    "middle",
+    "sands",
+    "drops",
+    "sandstorms",
+    "buries",
+    "individuals",
+    "hunts",
+    "clearly",
+    "males",
+    "hates",
+    "female",
+    "thanks",
+    "membrane",
+    "really",
+    "allow",
+    "getting",
+    "leader",
+    "protective",
+    "hunt",
+    "protected",
+    "dead",
+    "objects",
+    "few",
+    "covering",
+    "enable",
+    "nights",
+    "digs",
+    "groups",
+    "group",
+    "desert",
+    "thin",
+    "lost",
+    "special",
+    "sand",
+    "dark",
+    "lets",
+    "surroundings",
+    "darkness",
+    "sense",
+    "won",
+    "heat",
+    "although",
+    "gather",
+    "temperature"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +101,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "membranes",
+        "shield",
+        "sandstorms",
+        "individuals",
+        "protective",
+        "few",
+        "groups"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +119,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "membrane",
+        "objects",
+        "covering",
+        "special",
+        "surroundings",
+        "darkness",
+        "sense",
+        "heat"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +140,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "membranes",
+        "individuals",
+        "protected",
+        "dead",
+        "few",
+        "groups",
+        "thin"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +160,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "membranes",
+        "individuals",
+        "protected",
+        "dead",
+        "few",
+        "groups",
+        "thin"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +180,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "membranes",
+        "shield",
+        "sandstorms",
+        "individuals",
+        "protective",
+        "few",
+        "groups"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +198,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "membrane",
+        "objects",
+        "covering",
+        "special",
+        "surroundings",
+        "darkness",
+        "sense",
+        "heat"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +219,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "membranes",
+        "shield",
+        "sandstorms",
+        "individuals",
+        "protective",
+        "few",
+        "groups"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +237,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "membrane",
+        "objects",
+        "covering",
+        "special",
+        "surroundings",
+        "darkness",
+        "sense",
+        "heat"
+      ]
     },
     {
       "versionId": 27,
@@ -103,7 +258,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They move in groups of a few individuals. A female is often the leader of the group, and the males will gather food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "individuals",
+        "males",
+        "female",
+        "leader",
+        "few",
+        "groups",
+        "group",
+        "gather"
+      ]
     },
     {
       "versionId": 28,
@@ -111,7 +277,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "middle",
+        "clearly",
+        "thanks",
+        "membrane",
+        "covering",
+        "special",
+        "surroundings"
+      ]
     },
     {
       "versionId": 29,
@@ -119,7 +297,24 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Krokorok really hates it when its body gets cold. On nights when the temperature drops, it digs deep into the desert sands.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "desert-dwelling",
+        "burrowing",
+        "nocturnal",
+        "icy"
+      ],
+      "keywords": [
+        "sands",
+        "drops",
+        "hates",
+        "really",
+        "nights",
+        "digs",
+        "desert",
+        "temperature"
+      ]
     },
     {
       "versionId": 30,
@@ -127,7 +322,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "emergency",
+        "meals",
+        "unsuccessful",
+        "buries",
+        "hunts",
+        "sand"
+      ]
     },
     {
       "versionId": 33,
@@ -135,7 +342,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "specialized",
+        "getting",
+        "hunt",
+        "dead",
+        "enable",
+        "lost",
+        "dark",
+        "lets"
+      ]
     },
     {
       "versionId": 34,
@@ -143,7 +364,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won’t move much at night—the desert gets cold after sunset.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "desert-dwelling",
+        "nocturnal",
+        "icy"
+      ],
+      "keywords": [
+        "specialized",
+        "sunset",
+        "allow",
+        "desert",
+        "dark",
+        "won",
+        "although"
+      ]
     }
   ],
   "similarPokemonIds": [

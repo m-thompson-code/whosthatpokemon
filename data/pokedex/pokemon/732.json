@@ -10,6 +10,37 @@
   ],
   "imagePath": "/assets/pokemon/732.png",
   "entryCount": 4,
+  "entryTraits": [
+    "beak",
+    "hunting",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "brand",
+    "neighbors",
+    "nuisance",
+    "bend",
+    "calls",
+    "scattered",
+    "noisy",
+    "bending",
+    "burst",
+    "encounters",
+    "variety",
+    "produce",
+    "rise",
+    "hundred",
+    "seeds",
+    "eaten",
+    "beak",
+    "fires",
+    "different",
+    "new",
+    "plants",
+    "berries",
+    "stores",
+    "tip"
+  ],
   "color": "black",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +70,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "burst",
+        "encounters",
+        "seeds",
+        "beak",
+        "fires",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +91,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak"
+      ],
+      "keywords": [
+        "brand",
+        "neighbors",
+        "nuisance",
+        "calls",
+        "noisy",
+        "bending",
+        "variety",
+        "produce",
+        "beak"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +113,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It can bend the tip of its beak to produce over a hundred different cries at will.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "sonic"
+      ],
+      "keywords": [
+        "bend",
+        "produce",
+        "hundred",
+        "beak",
+        "different",
+        "tip"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +133,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scattered",
+        "rise",
+        "seeds",
+        "eaten",
+        "fires",
+        "new",
+        "plants",
+        "berries"
+      ]
     }
   ],
   "similarPokemonIds": [

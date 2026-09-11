@@ -10,6 +10,125 @@
   ],
   "imagePath": "/assets/pokemon/081.png",
   "entryCount": 33,
+  "entryTraits": [
+    "aquatic",
+    "electric",
+    "sky-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "batteries",
+    "electro",
+    "grounded",
+    "horseshoe",
+    "sphere",
+    "subsists",
+    "towers",
+    "box",
+    "breaker",
+    "breakers",
+    "circuit",
+    "outages",
+    "pokegear",
+    "anti",
+    "depleted",
+    "embedded",
+    "magnets",
+    "rotate",
+    "suspended",
+    "defy",
+    "hatched",
+    "hovering",
+    "supply",
+    "antigravity",
+    "outage",
+    "bizarre",
+    "frequently",
+    "available",
+    "levitates",
+    "airborne",
+    "expel",
+    "lines",
+    "gravity",
+    "increased",
+    "magnet",
+    "perhaps",
+    "block",
+    "support",
+    "suspect",
+    "clinging",
+    "resemble",
+    "electromagnetic",
+    "emitted",
+    "greater",
+    "wave",
+    "aloft",
+    "thunder",
+    "attracted",
+    "emitting",
+    "incapable",
+    "sides",
+    "feed",
+    "number",
+    "again",
+    "attaches",
+    "draw",
+    "creature",
+    "ends",
+    "start",
+    "house",
+    "i",
+    "buried",
+    "sends",
+    "allows",
+    "check",
+    "magnetism",
+    "touching",
+    "warning",
+    "approach",
+    "signals",
+    "units",
+    "300",
+    "stay",
+    "due",
+    "float",
+    "why",
+    "objects",
+    "side",
+    "flight",
+    "send",
+    "ll",
+    "electrical",
+    "eye",
+    "floats",
+    "discharges",
+    "feeds",
+    "let",
+    "internal",
+    "faster",
+    "similar",
+    "single",
+    "stand",
+    "find",
+    "generate",
+    "magnetic",
+    "shock",
+    "shaped",
+    "runs",
+    "days",
+    "constantly",
+    "plants",
+    "force",
+    "emits",
+    "iron",
+    "eating",
+    "places",
+    "full",
+    "moving",
+    "gather",
+    "born",
+    "extremely"
+  ],
   "color": "gray",
   "shape": "arms",
   "habitat": "rough-terrain",
@@ -39,7 +158,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "anti",
+        "suspended",
+        "gravity",
+        "wave",
+        "thunder",
+        "warning",
+        "stay",
+        "similar"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +180,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "anti",
+        "suspended",
+        "gravity",
+        "wave",
+        "thunder",
+        "warning",
+        "stay",
+        "similar"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +202,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It is born with the ability to defy gravity. It floats in air on powerful electro­ magnetic waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "electro",
+        "defy",
+        "gravity",
+        "floats",
+        "magnetic",
+        "born"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +222,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is attracted by electromagnetic waves. It may approach trainers if they are using their POKéGEAR.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pokegear",
+        "electromagnetic",
+        "attracted",
+        "approach"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +239,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The units at the sides of its body generate anti­ gravity energy to keep it aloft in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "anti",
+        "gravity",
+        "aloft",
+        "sides",
+        "units",
+        "generate"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +258,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The electricity emitted by the units on each side of its body cause it to become a strong magnet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "magnet",
+        "emitted",
+        "units",
+        "side"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +275,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MAGNEMITE attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this POKéMON clinging to the breaker box.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "box",
+        "breaker",
+        "breakers",
+        "circuit",
+        "outage",
+        "lines",
+        "clinging",
+        "feed",
+        "number",
+        "attaches",
+        "house",
+        "check",
+        "find"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +301,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MAGNEMITE floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This POKéMON becomes incapable of flight if its internal electrical supply is depleted.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "depleted",
+        "supply",
+        "gravity",
+        "block",
+        "electromagnetic",
+        "emitting",
+        "incapable",
+        "sides",
+        "units",
+        "flight",
+        "electrical",
+        "floats",
+        "internal"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +328,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "magnets",
+        "sides",
+        "draw",
+        "magnetism",
+        "units",
+        "300",
+        "objects",
+        "generate",
+        "iron",
+        "extremely"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +349,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It moves while constantly hovering. It discharges THUNDER WAVE and so on from the units at its sides.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "hovering",
+        "wave",
+        "thunder",
+        "sides",
+        "units",
+        "discharges",
+        "constantly"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +370,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Uses antigravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "suspended",
+        "antigravity",
+        "wave",
+        "thunder",
+        "warning",
+        "stay",
+        "similar"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +391,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "airborne",
+        "electromagnetic",
+        "sides",
+        "units",
+        "feeds",
+        "generate"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +411,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "airborne",
+        "electromagnetic",
+        "sides",
+        "units",
+        "feeds",
+        "generate"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +431,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rotate",
+        "greater",
+        "sides",
+        "units",
+        "faster",
+        "generate",
+        "magnetic",
+        "force"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +450,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is attracted by electromagnetic waves. It may approach Trainers if they are using their Pokégear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pokegear",
+        "electromagnetic",
+        "attracted",
+        "approach"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +467,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "antigravity",
+        "aloft",
+        "sides",
+        "units",
+        "generate"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +485,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rotate",
+        "greater",
+        "sides",
+        "units",
+        "faster",
+        "generate",
+        "magnetic",
+        "force"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +504,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rotate",
+        "greater",
+        "sides",
+        "units",
+        "faster",
+        "generate",
+        "magnetic",
+        "force"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +523,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "antigravity",
+        "expel",
+        "electromagnetic",
+        "emitted",
+        "sides",
+        "allows",
+        "units",
+        "float"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +544,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "antigravity",
+        "expel",
+        "electromagnetic",
+        "emitted",
+        "sides",
+        "allows",
+        "units",
+        "float"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +565,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "antigravity",
+        "aloft",
+        "sides",
+        "units",
+        "generate"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +583,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "hovering",
+        "wave",
+        "thunder",
+        "sides",
+        "units",
+        "discharges",
+        "constantly"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +604,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "box",
+        "breaker",
+        "breakers",
+        "circuit",
+        "outage",
+        "lines",
+        "clinging",
+        "feed",
+        "number",
+        "attaches",
+        "house",
+        "check",
+        "find"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +630,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "depleted",
+        "supply",
+        "gravity",
+        "block",
+        "electromagnetic",
+        "emitting",
+        "incapable",
+        "sides",
+        "units",
+        "flight",
+        "electrical",
+        "floats",
+        "internal"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +657,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They gather in places where electricity is available. They can be found clinging to the steel towers used to support power lines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "towers",
+        "available",
+        "lines",
+        "support",
+        "clinging",
+        "places",
+        "gather"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +677,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It sends out electromagnetic waves, which let it float through the air. Touching it while it’s eating electricity will give you a full-body shock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "electromagnetic",
+        "sends",
+        "touching",
+        "float",
+        "let",
+        "shock",
+        "eating",
+        "full"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +700,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s frequently the cause of power outages, which is why some power plants send out electrical signals that it can’t stand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "outages",
+        "frequently",
+        "signals",
+        "why",
+        "send",
+        "electrical",
+        "stand",
+        "plants"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +719,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Perhaps because electrical lines are often buried these days, the number of Magnemite attacks on power plants has increased.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lines",
+        "increased",
+        "perhaps",
+        "number",
+        "buried",
+        "electrical",
+        "days",
+        "plants"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +738,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "defy",
+        "hatched",
+        "gravity",
+        "electromagnetic",
+        "emitting",
+        "floats"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +757,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "defy",
+        "hatched",
+        "gravity",
+        "electromagnetic",
+        "emitting",
+        "floats"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +776,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "batteries",
+        "grounded",
+        "again",
+        "ends",
+        "start",
+        "ll",
+        "runs",
+        "moving"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +797,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "subsists",
+        "electromagnetic",
+        "units",
+        "side",
+        "emits"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +816,29 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "horseshoe",
+        "sphere",
+        "embedded",
+        "magnets",
+        "bizarre",
+        "levitates",
+        "suspect",
+        "resemble",
+        "creature",
+        "i",
+        "magnetism",
+        "due",
+        "eye",
+        "single",
+        "shaped",
+        "emits",
+        "iron"
+      ]
     }
   ],
   "similarPokemonIds": [

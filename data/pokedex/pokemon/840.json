@@ -10,6 +10,28 @@
   ],
   "imagePath": "/assets/pokemon/840.png",
   "entryCount": 2,
+  "entryTraits": [
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "determines",
+    "flavor",
+    "apple",
+    "pretending",
+    "serve",
+    "fruit",
+    "spends",
+    "natural",
+    "source",
+    "soon",
+    "burrows",
+    "nothing",
+    "entire",
+    "hides",
+    "evolution",
+    "bird",
+    "born"
+  ],
   "color": "green",
   "shape": "squiggle",
   "habitat": null,
@@ -40,7 +62,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "apple",
+        "pretending",
+        "spends",
+        "natural",
+        "nothing",
+        "entire",
+        "hides",
+        "bird"
+      ]
     },
     {
       "versionId": 34,
@@ -48,7 +81,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "determines",
+        "flavor",
+        "apple",
+        "serve",
+        "fruit",
+        "source",
+        "soon",
+        "burrows",
+        "evolution",
+        "born"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,33 @@
   ],
   "imagePath": "/assets/pokemon/1013.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "floorboards",
+    "shelf",
+    "unsuccessful",
+    "tea",
+    "generally",
+    "ruse",
+    "pretends",
+    "sunset",
+    "drain",
+    "fool",
+    "drinking",
+    "cool",
+    "wanders",
+    "beneath",
+    "trying",
+    "home",
+    "space",
+    "prefers",
+    "force",
+    "dark",
+    "places",
+    "search"
+  ],
   "color": "green",
   "shape": "ball",
   "habitat": null,
@@ -40,7 +67,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unsuccessful",
+        "tea",
+        "generally",
+        "ruse",
+        "pretends",
+        "drain",
+        "fool",
+        "drinking",
+        "trying",
+        "force"
+      ]
     },
     {
       "versionId": 41,
@@ -48,7 +88,24 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "floorboards",
+        "shelf",
+        "sunset",
+        "cool",
+        "wanders",
+        "beneath",
+        "home",
+        "space",
+        "prefers",
+        "dark",
+        "places",
+        "search"
+      ]
     }
   ],
   "similarPokemonIds": [

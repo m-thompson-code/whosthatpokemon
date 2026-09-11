@@ -10,6 +10,70 @@
   ],
   "imagePath": "/assets/pokemon/140.png",
   "entryCount": 30,
+  "entryTraits": [
+    "aquatic",
+    "luminous",
+    "shell"
+  ],
+  "entryKeywords": [
+    "molt",
+    "thrived",
+    "eons",
+    "hid",
+    "specimens",
+    "fairly",
+    "except",
+    "recovered",
+    "examples",
+    "gone",
+    "cases",
+    "sightings",
+    "everywhere",
+    "fossils",
+    "resurrected",
+    "inhabited",
+    "stiff",
+    "hiding",
+    "occasions",
+    "shells",
+    "regenerated",
+    "floor",
+    "hundred",
+    "creature",
+    "certain",
+    "changed",
+    "common",
+    "300",
+    "protected",
+    "beaches",
+    "seafloor",
+    "few",
+    "extinct",
+    "harder",
+    "glow",
+    "species",
+    "entirely",
+    "sight",
+    "discovered",
+    "became",
+    "million",
+    "lived",
+    "region",
+    "fossil",
+    "protects",
+    "say",
+    "almost",
+    "areas",
+    "rare",
+    "days",
+    "ocean",
+    "living",
+    "still",
+    "places",
+    "thought",
+    "apparently",
+    "extremely"
+  ],
   "color": "brown",
   "shape": "armor",
   "habitat": "sea",
@@ -40,7 +104,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "eons",
+        "resurrected",
+        "floor",
+        "fossil",
+        "ocean"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +122,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "eons",
+        "resurrected",
+        "floor",
+        "fossil",
+        "ocean"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +140,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A POKéMON that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "recovered",
+        "hiding",
+        "floor",
+        "fossil"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +157,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fossils",
+        "hiding",
+        "occasions",
+        "floor",
+        "became",
+        "rare",
+        "ocean"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +177,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "This POKéMON lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "occasions",
+        "discovered",
+        "lived",
+        "fossil",
+        "rare",
+        "living"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +194,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Three hundred million years ago, it hid on the sea floor. It also has eyes on its back that glow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "hid",
+        "floor",
+        "hundred",
+        "glow",
+        "million"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +213,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "KABUTO is a POKéMON that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The POKéMON has not changed at all for 300 million years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "examples",
+        "cases",
+        "regenerated",
+        "changed",
+        "300",
+        "discovered",
+        "million",
+        "fossil",
+        "rare",
+        "living",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +235,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KABUTO is a POKéMON that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The POKéMON has not changed at all for 300 million years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "examples",
+        "cases",
+        "regenerated",
+        "changed",
+        "300",
+        "discovered",
+        "million",
+        "fossil",
+        "rare",
+        "living",
+        "extremely"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +257,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is a POKéMON that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. KABUTO have not changed for 300 million years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "examples",
+        "cases",
+        "regenerated",
+        "changed",
+        "300",
+        "discovered",
+        "million",
+        "fossil",
+        "rare",
+        "living"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +278,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "regenerated",
+        "creature",
+        "fossil",
+        "protects"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +295,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A POKéMON that was regenerated from a fossil found in what was once the ocean floor long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "regenerated",
+        "floor",
+        "fossil",
+        "ocean"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +312,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "inhabited",
+        "stiff",
+        "300",
+        "protected",
+        "beaches",
+        "million",
+        "thought"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +332,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "inhabited",
+        "stiff",
+        "300",
+        "protected",
+        "beaches",
+        "million",
+        "thought"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +352,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "inhabited",
+        "stiff",
+        "300",
+        "protected",
+        "beaches",
+        "million",
+        "thought"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +372,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fossils",
+        "hiding",
+        "occasions",
+        "floor",
+        "became",
+        "rare",
+        "ocean"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +392,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "occasions",
+        "discovered",
+        "lived",
+        "fossil",
+        "rare",
+        "living"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +409,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "inhabited",
+        "stiff",
+        "300",
+        "protected",
+        "beaches",
+        "million",
+        "thought"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +429,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "inhabited",
+        "stiff",
+        "300",
+        "protected",
+        "beaches",
+        "million",
+        "thought"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +449,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "inhabited",
+        "stiff",
+        "300",
+        "protected",
+        "beaches",
+        "million",
+        "thought"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +469,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "inhabited",
+        "stiff",
+        "300",
+        "protected",
+        "beaches",
+        "million",
+        "thought"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +489,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "inhabited",
+        "stiff",
+        "300",
+        "protected",
+        "beaches",
+        "million",
+        "thought"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +509,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "regenerated",
+        "creature",
+        "fossil",
+        "protects"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +526,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "examples",
+        "cases",
+        "regenerated",
+        "changed",
+        "300",
+        "discovered",
+        "million",
+        "fossil",
+        "rare",
+        "living",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +548,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "examples",
+        "cases",
+        "regenerated",
+        "changed",
+        "300",
+        "discovered",
+        "million",
+        "fossil",
+        "rare",
+        "living",
+        "extremely"
+      ]
     },
     {
       "versionId": 29,
@@ -232,7 +570,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon thrived 300 million years ago. It’s said that living specimens can still be seen in a certain region—a rare sight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thrived",
+        "specimens",
+        "certain",
+        "300",
+        "sight",
+        "million",
+        "region",
+        "rare",
+        "living",
+        "still"
+      ]
     },
     {
       "versionId": 30,
@@ -240,7 +591,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon became extinct everywhere, except in a few areas. It protects itself with its hard shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "except",
+        "everywhere",
+        "few",
+        "extinct",
+        "became",
+        "protects",
+        "areas"
+      ]
     },
     {
       "versionId": 31,
@@ -248,7 +611,14 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recovered",
+        "hiding",
+        "seafloor",
+        "fossil"
+      ]
     },
     {
       "versionId": 32,
@@ -256,7 +626,14 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recovered",
+        "hiding",
+        "seafloor",
+        "fossil"
+      ]
     },
     {
       "versionId": 33,
@@ -264,7 +641,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "molt",
+        "shells",
+        "extinct",
+        "harder",
+        "species",
+        "entirely",
+        "almost",
+        "days"
+      ]
     },
     {
       "versionId": 34,
@@ -272,7 +662,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fairly",
+        "gone",
+        "sightings",
+        "common",
+        "extinct",
+        "species",
+        "say",
+        "places",
+        "apparently"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,29 @@
   ],
   "imagePath": "/assets/pokemon/818.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "nictitating",
+    "membranes",
+    "points",
+    "glide",
+    "capabilities",
+    "mach",
+    "fingertips",
+    "precisely",
+    "blast",
+    "membrane",
+    "pick",
+    "shoot",
+    "3",
+    "let",
+    "hidden",
+    "shoots",
+    "weak"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +62,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "glide",
+        "capabilities",
+        "fingertips",
+        "membrane",
+        "shoot",
+        "hidden"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +82,24 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "nictitating",
+        "membranes",
+        "points",
+        "mach",
+        "fingertips",
+        "precisely",
+        "blast",
+        "pick",
+        "3",
+        "let",
+        "shoots",
+        "weak"
+      ]
     }
   ],
   "similarPokemonIds": [

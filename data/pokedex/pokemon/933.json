@@ -9,6 +9,28 @@
   ],
   "imagePath": "/assets/pokemon/933.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "cures",
+    "curing",
+    "pellets",
+    "perforate",
+    "compresses",
+    "salt",
+    "process",
+    "sheet",
+    "spraying",
+    "steals",
+    "dry",
+    "hardened",
+    "shoots",
+    "force",
+    "iron",
+    "rock"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +60,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "cures",
+        "curing",
+        "salt",
+        "process",
+        "spraying",
+        "steals",
+        "dry"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +81,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pellets",
+        "perforate",
+        "compresses",
+        "salt",
+        "sheet",
+        "hardened",
+        "shoots",
+        "force",
+        "iron",
+        "rock"
+      ]
     }
   ],
   "similarPokemonIds": [

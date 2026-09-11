@@ -10,6 +10,39 @@
   ],
   "imagePath": "/assets/pokemon/544.png",
   "entryCount": 10,
+  "entryTraits": [
+    "shell",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "wheel",
+    "sits",
+    "stab",
+    "crashes",
+    "furiously",
+    "rapidly",
+    "rotates",
+    "motionless",
+    "need",
+    "storing",
+    "approach",
+    "protected",
+    "predators",
+    "ll",
+    "spins",
+    "60",
+    "charges",
+    "top",
+    "protects",
+    "mph",
+    "poisonous",
+    "sturdy",
+    "spikes",
+    "attacked",
+    "stores",
+    "usually",
+    "evolution"
+  ],
   "color": "gray",
   "shape": "ball",
   "habitat": null,
@@ -39,7 +72,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "wheel",
+        "crashes",
+        "furiously",
+        "protected",
+        "spins"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +90,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crashes",
+        "rotates",
+        "motionless",
+        "attacked",
+        "usually"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +106,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "sits",
+        "stab",
+        "storing",
+        "approach",
+        "predators",
+        "spikes",
+        "evolution"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +126,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "sits",
+        "stab",
+        "storing",
+        "approach",
+        "predators",
+        "spikes",
+        "evolution"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +146,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "wheel",
+        "crashes",
+        "furiously",
+        "protected",
+        "spins"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +164,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crashes",
+        "rotates",
+        "motionless",
+        "attacked",
+        "usually"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +180,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "wheel",
+        "crashes",
+        "furiously",
+        "protected",
+        "spins"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +198,15 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crashes",
+        "rotates",
+        "motionless",
+        "attacked",
+        "usually"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +214,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rapidly",
+        "spins",
+        "60",
+        "charges",
+        "top",
+        "mph"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +231,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "poisonous"
+      ],
+      "keywords": [
+        "need",
+        "ll",
+        "protects",
+        "poisonous",
+        "sturdy",
+        "spikes",
+        "stores",
+        "evolution"
+      ]
     }
   ],
   "similarPokemonIds": [

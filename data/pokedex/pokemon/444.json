@@ -10,6 +10,98 @@
   ],
   "imagePath": "/assets/pokemon/444.png",
   "entryCount": 20,
+  "entryTraits": [
+    "burrowing",
+    "cave-dwelling",
+    "aquatic",
+    "claws",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "bead",
+    "covetously",
+    "eyeing",
+    "illnesses",
+    "incurable",
+    "invigorated",
+    "scarcely",
+    "containing",
+    "gaze",
+    "probe",
+    "thieves",
+    "protrusion",
+    "amassed",
+    "ingredient",
+    "passion",
+    "belief",
+    "glass",
+    "sableye",
+    "sparkly",
+    "weary",
+    "cases",
+    "either",
+    "fixed",
+    "jewels",
+    "molts",
+    "loot",
+    "raw",
+    "treasures",
+    "carbink",
+    "furiously",
+    "heal",
+    "traditional",
+    "expand",
+    "hoards",
+    "targeted",
+    "gave",
+    "gradually",
+    "habitually",
+    "pitch",
+    "cave",
+    "materials",
+    "gems",
+    "caught",
+    "medicine",
+    "held",
+    "enter",
+    "torn",
+    "shiny",
+    "i",
+    "moment",
+    "buried",
+    "disposition",
+    "powder",
+    "quite",
+    "seeks",
+    "objects",
+    "side",
+    "sheds",
+    "ll",
+    "trying",
+    "docile",
+    "apart",
+    "suddenly",
+    "violent",
+    "had",
+    "became",
+    "feel",
+    "angry",
+    "digs",
+    "finds",
+    "ultrasonic",
+    "caves",
+    "rare",
+    "larger",
+    "catch",
+    "scales",
+    "constantly",
+    "dark",
+    "emits",
+    "though",
+    "moving",
+    "skin",
+    "usually"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +132,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "illnesses",
+        "incurable",
+        "belief",
+        "heal",
+        "medicine",
+        "held",
+        "scales"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +150,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "thieves",
+        "loot",
+        "hoards",
+        "targeted",
+        "habitually",
+        "gems",
+        "digs",
+        "constantly"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +171,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sparkly",
+        "loot",
+        "treasures",
+        "hoards",
+        "seeks",
+        "caves"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +188,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "expand",
+        "hoards",
+        "habitually",
+        "gems",
+        "digs"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +206,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "expand",
+        "hoards",
+        "habitually",
+        "gems",
+        "digs"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +224,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sparkly",
+        "loot",
+        "treasures",
+        "hoards",
+        "seeks",
+        "caves"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +241,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sparkly",
+        "loot",
+        "treasures",
+        "hoards",
+        "seeks",
+        "caves"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +258,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sparkly",
+        "loot",
+        "treasures",
+        "hoards",
+        "seeks",
+        "caves"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +275,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sparkly",
+        "loot",
+        "treasures",
+        "hoards",
+        "seeks",
+        "caves"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +292,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sparkly",
+        "loot",
+        "treasures",
+        "hoards",
+        "seeks",
+        "caves"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +309,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "expand",
+        "hoards",
+        "habitually",
+        "gems",
+        "digs"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +327,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sparkly",
+        "loot",
+        "treasures",
+        "hoards",
+        "seeks",
+        "caves"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +344,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "expand",
+        "hoards",
+        "habitually",
+        "gems",
+        "digs"
+      ]
     },
     {
       "versionId": 27,
@@ -144,7 +362,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "invigorated",
+        "containing",
+        "ingredient",
+        "weary",
+        "cases",
+        "molts",
+        "medicine",
+        "sheds",
+        "feel",
+        "rare",
+        "scales"
+      ]
     },
     {
       "versionId": 28,
@@ -152,7 +384,24 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Shiny objects are its passion. It can be found in its cave, scarcely moving, its gaze fixed on the jewels it’s amassed or Carbink it has caught.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "scarcely",
+        "gaze",
+        "amassed",
+        "passion",
+        "fixed",
+        "jewels",
+        "carbink",
+        "cave",
+        "caught",
+        "shiny",
+        "objects",
+        "moving"
+      ]
     },
     {
       "versionId": 29,
@@ -160,7 +409,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It loves shiny things. When it finds a Sableye trying to catch a Carbink, Gabite becomes furiously angry and attacks the Sableye.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sableye",
+        "carbink",
+        "furiously",
+        "shiny",
+        "trying",
+        "angry",
+        "finds",
+        "catch"
+      ]
     },
     {
       "versionId": 30,
@@ -168,7 +428,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "raw",
+        "traditional",
+        "gradually",
+        "materials",
+        "medicine",
+        "powder",
+        "sheds",
+        "larger",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 33,
@@ -176,7 +449,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon emits ultrasonic waves from a protrusion on either side of its head to probe pitch-dark caves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "probe",
+        "protrusion",
+        "either",
+        "pitch",
+        "side",
+        "ultrasonic",
+        "caves",
+        "dark",
+        "emits"
+      ]
     },
     {
       "versionId": 34,
@@ -184,7 +471,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Jewels are buried in the caves these Pokémon nest in, but you’ll be torn apart by claws and fangs the moment you enter one of these caves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "fangs"
+      ],
+      "keywords": [
+        "jewels",
+        "enter",
+        "torn",
+        "moment",
+        "buried",
+        "ll",
+        "apart",
+        "caves"
+      ]
     },
     {
       "versionId": 39,
@@ -192,7 +493,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Though Gabite are usually of a violent disposition, when I gave one a glass bead it had been eyeing covetously, it suddenly became quite docile.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bead",
+        "covetously",
+        "eyeing",
+        "glass",
+        "gave",
+        "i",
+        "disposition",
+        "quite",
+        "docile",
+        "suddenly",
+        "violent",
+        "had",
+        "became",
+        "though",
+        "usually"
+      ]
     }
   ],
   "similarPokemonIds": [

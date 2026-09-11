@@ -10,6 +10,50 @@
   ],
   "imagePath": "/assets/pokemon/282.png",
   "entryCount": 21,
+  "entryTraits": [
+    "psychic"
+  ],
+  "entryKeywords": [
+    "dedicate",
+    "bonded",
+    "supports",
+    "adore",
+    "trusted",
+    "ladies",
+    "nobility",
+    "willing",
+    "reminiscent",
+    "worn",
+    "expend",
+    "dress",
+    "risk",
+    "defending",
+    "distort",
+    "gravity",
+    "peaks",
+    "unleashes",
+    "closely",
+    "impending",
+    "unleash",
+    "dimensions",
+    "protecting",
+    "pull",
+    "read",
+    "psychokinetic",
+    "master",
+    "guard",
+    "predict",
+    "pure",
+    "hole",
+    "white",
+    "future",
+    "feel",
+    "try",
+    "black",
+    "create",
+    "full",
+    "apparently"
+  ],
   "color": "white",
   "shape": "humanoid",
   "habitat": "urban",
@@ -40,7 +84,16 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "impending",
+        "unleash",
+        "read",
+        "psychokinetic",
+        "future",
+        "full"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +101,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GARDEVOIR has the psychokinetic power to distort the dimensions and create a small black hole. This POKéMON will try to protect its TRAINER even at the risk of its own life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "risk",
+        "distort",
+        "dimensions",
+        "psychokinetic",
+        "hole",
+        "try",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +120,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its TRAINER.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "supports",
+        "gravity",
+        "pull",
+        "feel",
+        "apparently"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +138,14 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has the power to predict the future. Its power peaks when it is protecting its TRAINER.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaks",
+        "protecting",
+        "predict",
+        "future"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +153,14 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has the power to predict the future. Its power peaks when it is protecting its TRAINER.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaks",
+        "protecting",
+        "predict",
+        "future"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +168,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It will try to guard its trusted Trainer with its life. It has the ability to see the future.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trusted",
+        "guard",
+        "future",
+        "try"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +183,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It will try to guard its trusted Trainer with its life. It has the ability to see the future.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trusted",
+        "guard",
+        "future",
+        "try"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +198,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "expend",
+        "hole",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +215,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It unleashes psychokinetic energy at full power when protecting a Trainer it has bonded closely with.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bonded",
+        "unleashes",
+        "closely",
+        "protecting",
+        "psychokinetic",
+        "full"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +232,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It unleashes psychokinetic energy at full power when protecting a Trainer it has bonded closely with.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bonded",
+        "unleashes",
+        "closely",
+        "protecting",
+        "psychokinetic",
+        "full"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +249,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "expend",
+        "hole",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +266,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "expend",
+        "hole",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +283,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "expend",
+        "hole",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +300,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "expend",
+        "hole",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +317,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "expend",
+        "hole",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +334,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaks",
+        "protecting",
+        "predict",
+        "future"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +349,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Gardevoir has the ability to read the future. If it senses impending danger to its Trainer, this Pokémon is said to unleash its psychokinetic energy at full power.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "impending",
+        "unleash",
+        "read",
+        "psychokinetic",
+        "future",
+        "full"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +366,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Gardevoir has the psychokinetic power to distort the dimensions and create a small black hole. This Pokémon will try to protect its Trainer even at the risk of its own life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "risk",
+        "distort",
+        "dimensions",
+        "psychokinetic",
+        "hole",
+        "try",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +385,14 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaks",
+        "protecting",
+        "predict",
+        "future"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +400,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "expend",
+        "hole",
+        "black",
+        "create"
+      ]
     },
     {
       "versionId": 39,
@@ -200,7 +417,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It will dedicate itself to defending a master it has come to adore. Its pure white dress, reminiscent of those worn by ladies of nobility, is the dress of one who is willing to risk their life.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dedicate",
+        "adore",
+        "ladies",
+        "nobility",
+        "willing",
+        "reminiscent",
+        "worn",
+        "dress",
+        "risk",
+        "defending",
+        "master",
+        "pure",
+        "white"
+      ]
     }
   ],
   "similarPokemonIds": [

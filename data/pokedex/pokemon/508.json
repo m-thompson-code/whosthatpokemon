@@ -9,6 +9,73 @@
   ],
   "imagePath": "/assets/pokemon/508.png",
   "entryCount": 14,
+  "entryTraits": [
+    "cold-climate",
+    "mountain-dwelling",
+    "fur",
+    "icy",
+    "aquatic",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "babysit",
+    "household",
+    "moustache",
+    "social",
+    "uncomfortable",
+    "natured",
+    "rescuing",
+    "teams",
+    "determines",
+    "concern",
+    "immensely",
+    "valiant",
+    "excels",
+    "overnight",
+    "pays",
+    "trustworthy",
+    "rescue",
+    "stranded",
+    "shaggy",
+    "wise",
+    "trust",
+    "length",
+    "rescues",
+    "wintry",
+    "shields",
+    "partner",
+    "impressive",
+    "wrapped",
+    "enjoy",
+    "kept",
+    "seem",
+    "comfortable",
+    "parents",
+    "standing",
+    "caught",
+    "proud",
+    "blizzards",
+    "thanks",
+    "mind",
+    "alola",
+    "regions",
+    "person",
+    "wild",
+    "intelligent",
+    "coat",
+    "fine",
+    "species",
+    "ever",
+    "humans",
+    "little",
+    "days",
+    "look",
+    "among",
+    "living",
+    "mountain",
+    "good",
+    "extremely"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +105,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "stranded",
+        "shaggy",
+        "rescues",
+        "shields",
+        "blizzards"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +126,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "rescuing",
+        "excels",
+        "stranded",
+        "wise",
+        "extremely"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +145,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "overnight",
+        "wintry",
+        "wrapped",
+        "comfortable",
+        "person",
+        "fine",
+        "mountain"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +166,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "overnight",
+        "wintry",
+        "wrapped",
+        "comfortable",
+        "person",
+        "fine",
+        "mountain"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +187,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "stranded",
+        "shaggy",
+        "rescues",
+        "shields",
+        "blizzards"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +208,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "overnight",
+        "wintry",
+        "wrapped",
+        "comfortable",
+        "person",
+        "fine",
+        "mountain"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +229,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "stranded",
+        "shaggy",
+        "rescues",
+        "shields",
+        "blizzards"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +250,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "overnight",
+        "wintry",
+        "wrapped",
+        "comfortable",
+        "person",
+        "fine",
+        "mountain"
+      ]
     },
     {
       "versionId": 27,
@@ -102,7 +271,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Intelligent, good-natured, and valiant, it’s a trustworthy partner on rescue teams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "natured",
+        "teams",
+        "valiant",
+        "trustworthy",
+        "rescue",
+        "partner",
+        "intelligent",
+        "good"
+      ]
     },
     {
       "versionId": 28,
@@ -110,7 +290,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "With this wise Pokémon, there could be no concern that it would ever attack people. Some parents even trust it to babysit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "babysit",
+        "concern",
+        "wise",
+        "trust",
+        "parents",
+        "ever"
+      ]
     },
     {
       "versionId": 29,
@@ -118,7 +307,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It pays no mind to the cold, thanks to its long warm coat. Stoutland in Alola look a little uncomfortable.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy",
+        "psychic"
+      ],
+      "keywords": [
+        "uncomfortable",
+        "pays",
+        "thanks",
+        "mind",
+        "alola",
+        "coat",
+        "little",
+        "look"
+      ]
     },
     {
       "versionId": 30,
@@ -126,7 +330,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "household",
+        "kept",
+        "regions"
+      ]
     },
     {
       "versionId": 33,
@@ -134,7 +348,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "enjoy",
+        "seem",
+        "caught",
+        "wild",
+        "humans",
+        "days",
+        "living"
+      ]
     },
     {
       "versionId": 34,
@@ -142,7 +366,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "moustache",
+        "social",
+        "determines",
+        "immensely",
+        "length",
+        "impressive",
+        "standing",
+        "proud",
+        "species",
+        "among"
+      ]
     }
   ],
   "similarPokemonIds": [

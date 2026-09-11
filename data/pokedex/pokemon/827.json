@@ -9,6 +9,28 @@
   ],
   "imagePath": "/assets/pokemon/827.png",
   "entryCount": 2,
+  "entryTraits": [
+    "tail"
+  ],
+  "entryKeywords": [
+    "aided",
+    "erases",
+    "raids",
+    "swipes",
+    "plunder",
+    "gotten",
+    "stealing",
+    "survives",
+    "cunning",
+    "pads",
+    "ill",
+    "gains",
+    "tracks",
+    "cautious",
+    "silently",
+    "soft",
+    "stores"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +60,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "aided",
+        "raids",
+        "gotten",
+        "survives",
+        "pads",
+        "ill",
+        "gains",
+        "silently",
+        "soft",
+        "stores"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +81,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "erases",
+        "swipes",
+        "plunder",
+        "stealing",
+        "survives",
+        "cunning",
+        "tracks",
+        "cautious"
+      ]
     }
   ],
   "similarPokemonIds": [

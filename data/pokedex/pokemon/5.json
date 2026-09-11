@@ -9,6 +9,67 @@
   ],
   "imagePath": "/assets/pokemon/005.png",
   "entryCount": 28,
+  "entryTraits": [
+    "tail",
+    "fiery",
+    "claws",
+    "sky-dwelling",
+    "mountain-dwelling",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "pity",
+    "hotheaded",
+    "excite",
+    "elevates",
+    "incinerating",
+    "unbearably",
+    "wins",
+    "barbaric",
+    "headed",
+    "lashes",
+    "bluish",
+    "rocky",
+    "mercilessly",
+    "levels",
+    "slashes",
+    "calms",
+    "destroys",
+    "flares",
+    "breathe",
+    "encounters",
+    "destroy",
+    "burning",
+    "whips",
+    "agitated",
+    "excited",
+    "tears",
+    "swings",
+    "state",
+    "shine",
+    "seeks",
+    "fallen",
+    "spouts",
+    "aggressive",
+    "knock",
+    "white",
+    "fiery",
+    "color",
+    "blow",
+    "intense",
+    "fights",
+    "stars",
+    "turns",
+    "constantly",
+    "flame",
+    "surroundings",
+    "tough",
+    "tails",
+    "nature",
+    "hot",
+    "tip",
+    "temperature"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": "mountain",
@@ -39,7 +100,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "elevates",
+        "unbearably",
+        "levels",
+        "burning",
+        "swings",
+        "temperature"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +119,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "elevates",
+        "unbearably",
+        "levels",
+        "burning",
+        "swings",
+        "temperature"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +138,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Tough fights could excite this POKéMON. When excited, it may blow out bluish- white flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "excite",
+        "bluish",
+        "excited",
+        "white",
+        "blow",
+        "fights",
+        "tough"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +158,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is very hot­ headed by nature, so it constantly seeks opponents. It calms down only when it wins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "wins",
+        "headed",
+        "calms",
+        "seeks",
+        "constantly",
+        "nature",
+        "hot"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +178,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "barbaric",
+        "slashes",
+        "whips",
+        "fiery",
+        "nature"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +198,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "incinerating",
+        "agitated",
+        "spouts",
+        "intense",
+        "surroundings"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +216,27 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "bluish",
+        "mercilessly",
+        "destroys",
+        "flares",
+        "encounters",
+        "excited",
+        "state",
+        "aggressive",
+        "white",
+        "color",
+        "turns",
+        "flame",
+        "tip"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +244,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "bluish",
+        "mercilessly",
+        "destroys",
+        "flares",
+        "encounters",
+        "excited",
+        "state",
+        "aggressive",
+        "white",
+        "color",
+        "turns",
+        "flame",
+        "tip"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +272,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "pity",
+        "bluish",
+        "flares",
+        "encounters",
+        "destroy",
+        "agitated",
+        "white",
+        "color",
+        "flame"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +296,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail"
+      ],
+      "keywords": [
+        "lashes",
+        "tears",
+        "fallen",
+        "knock"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +314,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When it swings its burning tail, it elevates the air temperature to unbearably high levels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "elevates",
+        "unbearably",
+        "levels",
+        "burning",
+        "swings",
+        "temperature"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +334,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "rocky",
+        "shine",
+        "fiery",
+        "stars",
+        "tails"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +355,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "rocky",
+        "shine",
+        "fiery",
+        "stars",
+        "tails"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +376,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "rocky",
+        "shine",
+        "fiery",
+        "stars",
+        "tails"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +397,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is very hotheaded by nature, so it constantly seeks opponents. It calms down only when it wins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hotheaded",
+        "wins",
+        "calms",
+        "seeks",
+        "constantly",
+        "nature"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +414,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "barbaric",
+        "slashes",
+        "whips",
+        "fiery",
+        "nature"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +434,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "rocky",
+        "shine",
+        "fiery",
+        "stars",
+        "tails"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +455,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "rocky",
+        "shine",
+        "fiery",
+        "stars",
+        "tails"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +476,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "rocky",
+        "shine",
+        "fiery",
+        "stars",
+        "tails"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +497,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "rocky",
+        "shine",
+        "fiery",
+        "stars",
+        "tails"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +518,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail"
+      ],
+      "keywords": [
+        "lashes",
+        "tears",
+        "fallen",
+        "knock"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +536,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When it swings its burning tail, it elevates the air temperature to unbearably high levels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "elevates",
+        "unbearably",
+        "levels",
+        "burning",
+        "swings",
+        "temperature"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +556,27 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "bluish",
+        "mercilessly",
+        "destroys",
+        "flares",
+        "encounters",
+        "excited",
+        "state",
+        "aggressive",
+        "white",
+        "color",
+        "turns",
+        "flame",
+        "tip"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +584,27 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "bluish",
+        "mercilessly",
+        "destroys",
+        "flares",
+        "encounters",
+        "excited",
+        "state",
+        "aggressive",
+        "white",
+        "color",
+        "turns",
+        "flame",
+        "tip"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +612,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Tough fights could excite this Pokémon. When excited, it may breathe out bluish-white flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "excite",
+        "bluish",
+        "breathe",
+        "excited",
+        "white",
+        "fights",
+        "tough"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +632,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Tough fights could excite this Pokémon. When excited, it may breathe out bluish-white flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "excite",
+        "bluish",
+        "breathe",
+        "excited",
+        "white",
+        "fights",
+        "tough"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +652,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "barbaric",
+        "slashes",
+        "whips",
+        "fiery",
+        "nature"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +672,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "incinerating",
+        "agitated",
+        "spouts",
+        "intense",
+        "surroundings"
+      ]
     }
   ],
   "similarPokemonIds": [

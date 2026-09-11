@@ -10,6 +10,88 @@
   ],
   "imagePath": "/assets/pokemon/445.png",
   "entryCount": 20,
+  "entryTraits": [
+    "wings",
+    "sonic",
+    "hunting",
+    "forest-dwelling",
+    "mountain-dwelling",
+    "sky-dwelling",
+    "volcanic",
+    "cave-dwelling"
+  ],
+  "entryKeywords": [
+    "feral",
+    "protuberances",
+    "required",
+    "rivaling",
+    "utmost",
+    "airplane",
+    "heavens",
+    "chilled",
+    "wilds",
+    "fighter",
+    "sonic",
+    "caution",
+    "meets",
+    "den",
+    "salamence",
+    "folds",
+    "injury",
+    "planes",
+    "sensors",
+    "compete",
+    "resistance",
+    "outside",
+    "edges",
+    "gulps",
+    "drag",
+    "searching",
+    "flocks",
+    "soars",
+    "detect",
+    "equal",
+    "reduce",
+    "hunting",
+    "flock",
+    "plane",
+    "midair",
+    "return",
+    "blinding",
+    "serve",
+    "distant",
+    "dives",
+    "fell",
+    "magnificent",
+    "enabling",
+    "blades",
+    "volcanic",
+    "allows",
+    "extends",
+    "disposition",
+    "nearby",
+    "don",
+    "jet",
+    "battles",
+    "fine",
+    "sight",
+    "bring",
+    "home",
+    "speeds",
+    "above",
+    "escape",
+    "wind",
+    "runs",
+    "scales",
+    "across",
+    "underground",
+    "fast",
+    "create",
+    "entire",
+    "whole",
+    "bird",
+    "covered"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +122,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "sonic",
+        "folds",
+        "plane",
+        "extends",
+        "jet"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +141,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fighter",
+        "equal",
+        "plane",
+        "allows",
+        "jet",
+        "speeds",
+        "escape"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +161,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "fell",
+        "blades",
+        "nearby",
+        "wind",
+        "runs",
+        "create"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +181,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "drag",
+        "reduce",
+        "enabling",
+        "fine",
+        "speeds",
+        "scales",
+        "covered"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +199,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "drag",
+        "reduce",
+        "enabling",
+        "fine",
+        "speeds",
+        "scales",
+        "covered"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +217,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "fell",
+        "blades",
+        "nearby",
+        "wind",
+        "runs",
+        "create"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +237,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "fell",
+        "blades",
+        "nearby",
+        "wind",
+        "runs",
+        "create"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +257,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "fell",
+        "blades",
+        "nearby",
+        "wind",
+        "runs",
+        "create"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +277,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "fell",
+        "blades",
+        "nearby",
+        "wind",
+        "runs",
+        "create"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +297,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "sonic",
+        "folds",
+        "plane",
+        "extends",
+        "jet"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +316,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fighter",
+        "equal",
+        "plane",
+        "allows",
+        "jet",
+        "speeds",
+        "escape"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +336,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "sonic",
+        "folds",
+        "plane",
+        "extends",
+        "jet"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +355,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fighter",
+        "equal",
+        "plane",
+        "allows",
+        "jet",
+        "speeds",
+        "escape"
+      ]
     },
     {
       "versionId": 27,
@@ -144,7 +375,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It can fly at speeds rivaling jet planes. It dives into flocks of bird Pokémon and gulps the entire flock down whole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rivaling",
+        "planes",
+        "gulps",
+        "flocks",
+        "flock",
+        "dives",
+        "jet",
+        "speeds",
+        "entire",
+        "whole",
+        "bird"
+      ]
     },
     {
       "versionId": 28,
@@ -152,7 +397,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The protuberances on its head serve as sensors. It can even detect distant prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "protuberances",
+        "sensors",
+        "detect",
+        "serve",
+        "distant"
+      ]
     },
     {
       "versionId": 29,
@@ -160,7 +415,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It flies at the speed of sound while searching for prey, and it has midair battles with Salamence as the two compete for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "salamence",
+        "compete",
+        "searching",
+        "midair",
+        "battles"
+      ]
     },
     {
       "versionId": 30,
@@ -168,7 +434,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its fine scales don’t just reduce wind resistance—their sharp edges also cause injury to any opponent who attacks it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "injury",
+        "resistance",
+        "edges",
+        "reduce",
+        "don",
+        "fine",
+        "wind",
+        "scales"
+      ]
     },
     {
       "versionId": 33,
@@ -176,7 +453,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Garchomp makes its home in volcanic mountains. It flies through the sky as fast as a jet airplane, hunting down as much prey as it can.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "sky-dwelling",
+        "volcanic",
+        "hunting"
+      ],
+      "keywords": [
+        "airplane",
+        "hunting",
+        "volcanic",
+        "jet",
+        "home",
+        "fast"
+      ]
     },
     {
       "versionId": 34,
@@ -184,7 +475,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Garchomp is fast both underground and above. It can bring down prey and return to its den before its body has chilled from being outside.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "chilled",
+        "den",
+        "outside",
+        "return",
+        "bring",
+        "above",
+        "underground",
+        "fast"
+      ]
     },
     {
       "versionId": 39,
@@ -192,7 +497,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Soars across the heavens at blinding speed—a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "feral",
+        "required",
+        "utmost",
+        "heavens",
+        "wilds",
+        "caution",
+        "meets",
+        "soars",
+        "blinding",
+        "magnificent",
+        "disposition",
+        "sight",
+        "across"
+      ]
     }
   ],
   "similarPokemonIds": [

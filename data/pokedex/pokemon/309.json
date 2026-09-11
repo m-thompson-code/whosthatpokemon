@@ -9,6 +9,59 @@
   ],
   "imagePath": "/assets/pokemon/309.png",
   "entryCount": 22,
+  "entryTraits": [
+    "electric",
+    "fur",
+    "sky-dwelling",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "converted",
+    "leg",
+    "jolts",
+    "strands",
+    "acceleration",
+    "friction",
+    "performance",
+    "rub",
+    "boasts",
+    "blazes",
+    "especially",
+    "heighten",
+    "showers",
+    "crackling",
+    "stimulates",
+    "discharging",
+    "reaction",
+    "explosive",
+    "follow",
+    "produces",
+    "incredible",
+    "dry",
+    "seasons",
+    "approaches",
+    "storm",
+    "arid",
+    "static",
+    "eye",
+    "atmosphere",
+    "sparks",
+    "faster",
+    "charges",
+    "generates",
+    "builds",
+    "violent",
+    "hair",
+    "between",
+    "running",
+    "runs",
+    "stored",
+    "electric",
+    "human",
+    "entire",
+    "stores",
+    "muscles"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +91,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ELECTRIKE stores electricity in its long body hair. This POKéMON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "leg",
+        "jolts",
+        "acceleration",
+        "performance",
+        "stimulates",
+        "explosive",
+        "charges",
+        "hair",
+        "electric",
+        "stores",
+        "muscles"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +115,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ELECTRIKE runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this POKéMON’s fur.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "converted",
+        "friction",
+        "follow",
+        "eye",
+        "faster",
+        "running",
+        "runs",
+        "stored",
+        "human"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +138,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "friction",
+        "blazes",
+        "especially",
+        "showers",
+        "seasons",
+        "arid",
+        "atmosphere",
+        "sparks",
+        "generates",
+        "violent",
+        "entire"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +163,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "discharging",
+        "approaches",
+        "storm",
+        "static",
+        "sparks",
+        "stores"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +183,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "discharging",
+        "approaches",
+        "storm",
+        "static",
+        "sparks",
+        "stores"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +203,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "heighten",
+        "stimulates",
+        "reaction",
+        "stored",
+        "muscles"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +222,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "heighten",
+        "stimulates",
+        "reaction",
+        "stored",
+        "muscles"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +241,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "heighten",
+        "stimulates",
+        "reaction",
+        "stored",
+        "muscles"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +260,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "dry",
+        "seasons",
+        "sparks",
+        "stores"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +279,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "dry",
+        "seasons",
+        "sparks",
+        "stores"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +298,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "heighten",
+        "stimulates",
+        "reaction",
+        "stored",
+        "muscles"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +317,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "heighten",
+        "stimulates",
+        "reaction",
+        "stored",
+        "muscles"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +336,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "heighten",
+        "stimulates",
+        "reaction",
+        "stored",
+        "muscles"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +355,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "heighten",
+        "stimulates",
+        "reaction",
+        "stored",
+        "muscles"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +374,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "heighten",
+        "stimulates",
+        "reaction",
+        "stored",
+        "muscles"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +393,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "discharging",
+        "approaches",
+        "storm",
+        "static",
+        "sparks",
+        "stores"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +413,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "leg",
+        "jolts",
+        "acceleration",
+        "performance",
+        "stimulates",
+        "explosive",
+        "charges",
+        "hair",
+        "electric",
+        "stores",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +437,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pokémon’s fur.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "converted",
+        "friction",
+        "follow",
+        "eye",
+        "faster",
+        "running",
+        "runs",
+        "stored",
+        "human"
+      ]
     },
     {
       "versionId": 29,
@@ -182,7 +460,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Friction between the air and its fur produces static electricity. When Electrike runs, it makes a crackling sound.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "electric",
+        "sonic"
+      ],
+      "keywords": [
+        "friction",
+        "crackling",
+        "produces",
+        "static",
+        "between",
+        "runs"
+      ]
     },
     {
       "versionId": 30,
@@ -190,7 +482,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Static electricity builds up all over its body as strands of its long fur rub together. This Pokémon boasts incredible speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "strands",
+        "rub",
+        "boasts",
+        "incredible",
+        "static",
+        "builds"
+      ]
     },
     {
       "versionId": 33,
@@ -198,7 +502,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "discharging",
+        "approaches",
+        "storm",
+        "static",
+        "sparks",
+        "stores"
+      ]
     },
     {
       "versionId": 34,
@@ -206,7 +522,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "dry",
+        "seasons",
+        "sparks",
+        "stores"
+      ]
     }
   ],
   "similarPokemonIds": [

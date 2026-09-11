@@ -9,6 +9,75 @@
   ],
   "imagePath": "/assets/pokemon/324.png",
   "entryCount": 24,
+  "entryTraits": [
+    "mountain-dwelling",
+    "shell",
+    "burrowing",
+    "fiery",
+    "horns",
+    "sonic",
+    "arms"
+  ],
+  "entryKeywords": [
+    "locomotive",
+    "flammable",
+    "loosing",
+    "belches",
+    "velocity",
+    "mines",
+    "retreat",
+    "spaces",
+    "soot",
+    "weaker",
+    "die",
+    "tirelessly",
+    "abandoned",
+    "tremendous",
+    "spouting",
+    "smoke",
+    "endangered",
+    "beat",
+    "burned",
+    "preparing",
+    "wish",
+    "dies",
+    "amounts",
+    "raise",
+    "fills",
+    "flees",
+    "coal",
+    "nostrils",
+    "produce",
+    "burning",
+    "health",
+    "unable",
+    "blows",
+    "feeling",
+    "hollow",
+    "source",
+    "spouts",
+    "dig",
+    "sign",
+    "hand",
+    "battles",
+    "generates",
+    "home",
+    "similar",
+    "find",
+    "tell",
+    "digs",
+    "finds",
+    "something",
+    "within",
+    "black",
+    "lets",
+    "burns",
+    "attacked",
+    "full",
+    "search",
+    "good",
+    "horn"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "mountain",
@@ -38,7 +107,28 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "TORKOAL digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this POKéMON spouts thick black smoke to beat a retreat.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "shell",
+        "burrowing"
+      ],
+      "keywords": [
+        "retreat",
+        "spaces",
+        "smoke",
+        "beat",
+        "fills",
+        "coal",
+        "hollow",
+        "spouts",
+        "digs",
+        "finds",
+        "black",
+        "burns",
+        "attacked",
+        "search"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +136,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "TORKOAL generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this POKéMON burns more coal.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "weaker",
+        "preparing",
+        "dies",
+        "coal",
+        "burning",
+        "generates",
+        "burns"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +156,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive’s horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "sonic"
+      ],
+      "keywords": [
+        "locomotive",
+        "loosing",
+        "smoke",
+        "coal",
+        "nostrils",
+        "burning",
+        "battles",
+        "similar",
+        "lets",
+        "horn"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +180,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "belches",
+        "smoke",
+        "flees",
+        "coal",
+        "black",
+        "burns",
+        "attacked"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +200,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "belches",
+        "smoke",
+        "flees",
+        "coal",
+        "black",
+        "burns",
+        "attacked"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +220,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +239,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +258,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +277,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "mines",
+        "tirelessly",
+        "abandoned",
+        "coal",
+        "dig",
+        "find",
+        "full",
+        "search"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +298,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "mines",
+        "tirelessly",
+        "abandoned",
+        "coal",
+        "dig",
+        "find",
+        "full",
+        "search"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +319,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +338,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +357,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +376,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +395,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "mines",
+        "tirelessly",
+        "abandoned",
+        "coal",
+        "dig",
+        "find",
+        "full",
+        "search"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +416,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +435,28 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pokémon spouts thick black smoke to beat a retreat.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "shell",
+        "burrowing"
+      ],
+      "keywords": [
+        "retreat",
+        "spaces",
+        "smoke",
+        "beat",
+        "fills",
+        "coal",
+        "hollow",
+        "spouts",
+        "digs",
+        "finds",
+        "black",
+        "burns",
+        "attacked",
+        "search"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +464,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Torkoal generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this Pokémon burns more coal.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "weaker",
+        "preparing",
+        "dies",
+        "coal",
+        "burning",
+        "generates",
+        "burns"
+      ]
     },
     {
       "versionId": 27,
@@ -182,7 +484,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Coal is the source of Torkoal’s energy. Large amounts of coal can be found in the mountains where they live.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "amounts",
+        "coal",
+        "source"
+      ]
     },
     {
       "versionId": 28,
@@ -190,7 +500,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "If the fire burning within its shell goes out, it will die. Those who wish to raise one in their home must always keep something flammable at hand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "flammable",
+        "die",
+        "wish",
+        "raise",
+        "burning",
+        "hand",
+        "home",
+        "something",
+        "within"
+      ]
     },
     {
       "versionId": 29,
@@ -198,7 +524,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "You can tell how it’s feeling by the smoke spouting from its shell. Tremendous velocity is a sign of good health.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "velocity",
+        "tremendous",
+        "spouting",
+        "smoke",
+        "health",
+        "feeling",
+        "sign",
+        "tell",
+        "good"
+      ]
     },
     {
       "versionId": 30,
@@ -206,7 +546,15 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It burns coal to produce energy. When it has burned through all of its coal, it becomes unable to move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "burned",
+        "coal",
+        "produce",
+        "unable",
+        "burns"
+      ]
     },
     {
       "versionId": 33,
@@ -214,7 +562,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "soot",
+        "endangered",
+        "coal",
+        "blows",
+        "black",
+        "burns"
+      ]
     },
     {
       "versionId": 34,
@@ -222,7 +581,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "mines",
+        "tirelessly",
+        "abandoned",
+        "coal",
+        "dig",
+        "find",
+        "full",
+        "search"
+      ]
     }
   ],
   "similarPokemonIds": [

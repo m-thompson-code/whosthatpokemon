@@ -10,6 +10,90 @@
   ],
   "imagePath": "/assets/pokemon/375.png",
   "entryCount": 24,
+  "entryTraits": [
+    "arms",
+    "claws",
+    "psychic",
+    "hunting",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "tipping",
+    "firm",
+    "magnetically",
+    "union",
+    "amplifying",
+    "doubled",
+    "exceeding",
+    "weaving",
+    "unchanged",
+    "resulting",
+    "joined",
+    "linking",
+    "sheets",
+    "collides",
+    "traveling",
+    "minerals",
+    "pursues",
+    "terrain",
+    "adores",
+    "fuse",
+    "nosepass",
+    "joining",
+    "pursuit",
+    "crash",
+    "link",
+    "forces",
+    "via",
+    "scratched",
+    "stuck",
+    "grip",
+    "aloft",
+    "hour",
+    "linked",
+    "plane",
+    "beldum",
+    "midair",
+    "per",
+    "nervous",
+    "system",
+    "psychokinetic",
+    "tracks",
+    "scratch",
+    "tear",
+    "magnetism",
+    "stay",
+    "destructive",
+    "intelligence",
+    "skies",
+    "floats",
+    "leave",
+    "silk",
+    "60",
+    "jet",
+    "brains",
+    "formed",
+    "generates",
+    "speeds",
+    "fires",
+    "pack",
+    "harsh",
+    "finds",
+    "magnetic",
+    "rear",
+    "remains",
+    "mph",
+    "miles",
+    "turns",
+    "stop",
+    "lets",
+    "tough",
+    "iron",
+    "mountain",
+    "places",
+    "won",
+    "takes"
+  ],
   "color": "blue",
   "shape": "arms",
   "habitat": "rough-terrain",
@@ -39,7 +123,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. By linking its brains magnetically, this POKéMON generates strong psychokinetic power.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "magnetically",
+        "joined",
+        "linking",
+        "fuse",
+        "beldum",
+        "nervous",
+        "system",
+        "psychokinetic",
+        "brains",
+        "formed",
+        "generates",
+        "magnetic"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +146,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. This POKéMON turns its arms to the rear for traveling at high speed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "joined",
+        "traveling",
+        "fuse",
+        "beldum",
+        "nervous",
+        "system",
+        "brains",
+        "formed",
+        "magnetic",
+        "rear",
+        "turns"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +170,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The claws tipping its arms pack the destructive power to tear through thick iron sheets as if they were silk. It flies at over 60 miles per hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "claws"
+      ],
+      "keywords": [
+        "tipping",
+        "sheets",
+        "hour",
+        "per",
+        "tear",
+        "destructive",
+        "silk",
+        "60",
+        "pack",
+        "miles",
+        "iron"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +195,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It floats midair using magnetism. Its body is so tough, even a crash with a jet plane won’t leave a scratch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crash",
+        "plane",
+        "midair",
+        "scratch",
+        "magnetism",
+        "floats",
+        "leave",
+        "jet",
+        "tough",
+        "won"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +216,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It floats midair using magnetism. Its body is so tough, even a crash with a jet plane won’t leave a scratch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crash",
+        "plane",
+        "midair",
+        "scratch",
+        "magnetism",
+        "floats",
+        "leave",
+        "jet",
+        "tough",
+        "won"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +237,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collides",
+        "joining",
+        "scratched",
+        "beldum",
+        "jet",
+        "formed",
+        "won"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +255,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collides",
+        "joining",
+        "scratched",
+        "beldum",
+        "jet",
+        "formed",
+        "won"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +273,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collides",
+        "joining",
+        "scratched",
+        "beldum",
+        "jet",
+        "formed",
+        "won"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +291,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When two BELDUM fuse together, a magnetic nervous system places their brains in union.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "union",
+        "fuse",
+        "beldum",
+        "nervous",
+        "system",
+        "brains",
+        "magnetic",
+        "places"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +310,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When two BELDUM fuse together, a magnetic nervous system places their brains in union.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "union",
+        "fuse",
+        "beldum",
+        "nervous",
+        "system",
+        "brains",
+        "magnetic",
+        "places"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +329,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is formed by two Beldum joining together. Its steel body won’t be scratched if it collides with a jet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collides",
+        "joining",
+        "scratched",
+        "beldum",
+        "jet",
+        "formed",
+        "won"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +347,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is formed by two Beldum joining together. Its steel body won’t be scratched if it collides with a jet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collides",
+        "joining",
+        "scratched",
+        "beldum",
+        "jet",
+        "formed",
+        "won"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +365,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "amplifying",
+        "joining",
+        "linked",
+        "beldum",
+        "brains",
+        "formed"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +384,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "amplifying",
+        "joining",
+        "linked",
+        "beldum",
+        "brains",
+        "formed"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +403,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is formed by two Beldum joining together. Its steel body won’t be scratched if it collides with a jet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collides",
+        "joining",
+        "scratched",
+        "beldum",
+        "jet",
+        "formed",
+        "won"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +421,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "amplifying",
+        "joining",
+        "linked",
+        "beldum",
+        "brains",
+        "formed"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +440,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. By linking its brains magnetically, this Pokémon generates strong psychokinetic power.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "magnetically",
+        "joined",
+        "linking",
+        "fuse",
+        "beldum",
+        "nervous",
+        "system",
+        "psychokinetic",
+        "brains",
+        "formed",
+        "generates",
+        "magnetic"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +463,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. This Pokémon turns its arms to the rear for traveling at high speed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "joined",
+        "traveling",
+        "fuse",
+        "beldum",
+        "nervous",
+        "system",
+        "brains",
+        "formed",
+        "magnetic",
+        "rear",
+        "turns"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +487,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When two Beldum link together, their psychic power is doubled. Their intelligence, however, remains unchanged.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "doubled",
+        "unchanged",
+        "link",
+        "beldum",
+        "intelligence",
+        "remains"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +506,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exceeding",
+        "minerals",
+        "pursues",
+        "adores",
+        "nosepass",
+        "60",
+        "speeds",
+        "magnetic",
+        "mph"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +526,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "With its two brains, it fires powerful psychic energy to stop its prey in their tracks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "psychic"
+      ],
+      "keywords": [
+        "tracks",
+        "brains",
+        "fires",
+        "stop"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +544,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It flies at high speeds around the skies. When it finds its prey, Metang takes a firm grip with its sharp claws and never lets go.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "firm",
+        "grip",
+        "skies",
+        "speeds",
+        "finds",
+        "lets",
+        "takes"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +565,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Two Beldum have become stuck together via their own magnetic forces. With two brains, the resulting Metang has doubled psychic powers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "doubled",
+        "resulting",
+        "forces",
+        "via",
+        "stuck",
+        "beldum",
+        "brains",
+        "magnetic"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +586,23 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "weaving",
+        "terrain",
+        "pursuit",
+        "forces",
+        "aloft",
+        "stay",
+        "speeds",
+        "harsh",
+        "magnetic",
+        "mountain"
+      ]
     }
   ],
   "similarPokemonIds": [

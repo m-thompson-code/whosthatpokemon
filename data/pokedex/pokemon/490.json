@@ -9,6 +9,46 @@
   ],
   "imagePath": "/assets/pokemon/490.png",
   "entryCount": 14,
+  "entryTraits": [
+    "aquatic",
+    "cold-climate",
+    "icy",
+    "migratory"
+  ],
+  "entryKeywords": [
+    "birthplace",
+    "phione",
+    "relation",
+    "coastal",
+    "permits",
+    "visit",
+    "unclear",
+    "affected",
+    "wondrous",
+    "migrate",
+    "distances",
+    "hisui",
+    "oceans",
+    "rumored",
+    "80",
+    "return",
+    "bond",
+    "resembles",
+    "quite",
+    "waters",
+    "seafloor",
+    "environment",
+    "great",
+    "between",
+    "rarely",
+    "swim",
+    "starts",
+    "different",
+    "across",
+    "lets",
+    "although",
+    "born"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +79,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "birthplace",
+        "distances",
+        "return",
+        "seafloor",
+        "great",
+        "swim",
+        "born"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +101,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Water makes up 80% of its body. This Pokémon is easily affected by its environment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "affected",
+        "80",
+        "environment"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +117,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wondrous",
+        "bond",
+        "lets",
+        "born"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +132,14 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "permits",
+        "wondrous",
+        "bond",
+        "starts"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +147,14 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "permits",
+        "wondrous",
+        "bond",
+        "starts"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +162,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wondrous",
+        "bond",
+        "lets",
+        "born"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +177,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wondrous",
+        "bond",
+        "lets",
+        "born"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +192,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wondrous",
+        "bond",
+        "lets",
+        "born"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +207,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wondrous",
+        "bond",
+        "lets",
+        "born"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +222,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wondrous",
+        "bond",
+        "lets",
+        "born"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +237,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "permits",
+        "wondrous",
+        "bond",
+        "starts"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +252,14 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wondrous",
+        "bond",
+        "lets",
+        "born"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +267,14 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "permits",
+        "wondrous",
+        "bond",
+        "starts"
+      ]
     },
     {
       "versionId": 39,
@@ -143,7 +282,29 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "migratory"
+      ],
+      "keywords": [
+        "phione",
+        "relation",
+        "coastal",
+        "visit",
+        "unclear",
+        "migrate",
+        "hisui",
+        "oceans",
+        "rumored",
+        "resembles",
+        "quite",
+        "waters",
+        "between",
+        "rarely",
+        "different",
+        "across",
+        "although"
+      ]
     }
   ],
   "similarPokemonIds": [

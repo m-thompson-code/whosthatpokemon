@@ -10,6 +10,66 @@
   ],
   "imagePath": "/assets/pokemon/329.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic",
+    "wings",
+    "hunting",
+    "desert-dwelling",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "earplugs",
+    "completed",
+    "guzzles",
+    "preserve",
+    "producing",
+    "underdeveloped",
+    "vibrates",
+    "quantities",
+    "vibrate",
+    "shudders",
+    "alive",
+    "dissolves",
+    "looses",
+    "process",
+    "serious",
+    "useful",
+    "digestive",
+    "generating",
+    "juices",
+    "buries",
+    "severe",
+    "distances",
+    "induce",
+    "vibrating",
+    "vigorously",
+    "creating",
+    "rubbing",
+    "acid",
+    "need",
+    "melts",
+    "rubs",
+    "rather",
+    "faint",
+    "headaches",
+    "violently",
+    "flight",
+    "send",
+    "yet",
+    "growing",
+    "causing",
+    "generates",
+    "bring",
+    "flapping",
+    "help",
+    "odd",
+    "generate",
+    "short",
+    "ultrasonic",
+    "since",
+    "sand",
+    "still"
+  ],
   "color": "green",
   "shape": "bug-wings",
   "habitat": "rough-terrain",
@@ -40,7 +100,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "To make prey faint, VIBRAVA generates ultrasonic waves by vigorously making its two wings vibrate. This POKéMON’s ultrasonic waves are so powerful, they can bring on headaches in people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "vibrate",
+        "vigorously",
+        "faint",
+        "headaches",
+        "generates",
+        "bring",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +122,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "VIBRAVA’s wings have not yet completed the process of growing. Rather than flying long distances, they are more useful for generating ultrasonic waves by vibrating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "completed",
+        "process",
+        "useful",
+        "generating",
+        "distances",
+        "vibrating",
+        "rather",
+        "yet",
+        "growing",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +146,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It looses ultrasonic waves by rubbing its wings together. Since a VIBRAVA’s wings are still in the process of growing, it can only fly short distances.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "looses",
+        "process",
+        "distances",
+        "rubbing",
+        "growing",
+        "short",
+        "ultrasonic",
+        "since",
+        "still"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +169,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "acid",
+        "melts",
+        "faint",
+        "violently",
+        "generates",
+        "flapping",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +191,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "acid",
+        "melts",
+        "faint",
+        "violently",
+        "generates",
+        "flapping",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +213,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "shudders",
+        "generating",
+        "induce",
+        "headaches",
+        "violently",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +233,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "shudders",
+        "generating",
+        "induce",
+        "headaches",
+        "violently",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +253,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "shudders",
+        "generating",
+        "induce",
+        "headaches",
+        "violently",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +273,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "vibrates",
+        "serious",
+        "vigorously",
+        "creating",
+        "headaches",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +293,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "vibrates",
+        "serious",
+        "vigorously",
+        "creating",
+        "headaches",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +313,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "shudders",
+        "generating",
+        "induce",
+        "headaches",
+        "violently",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +333,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "shudders",
+        "generating",
+        "induce",
+        "headaches",
+        "violently",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +353,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "severe",
+        "rubbing",
+        "headaches",
+        "generates",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +372,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "severe",
+        "rubbing",
+        "headaches",
+        "generates",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +391,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "severe",
+        "rubbing",
+        "headaches",
+        "generates",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +410,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "acid",
+        "melts",
+        "faint",
+        "violently",
+        "generates",
+        "flapping",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +432,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "To make prey faint, Vibrava generates ultrasonic waves by vigorously making its two wings vibrate. This Pokémon’s ultrasonic waves are so powerful, they can bring on headaches in people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "vibrate",
+        "vigorously",
+        "faint",
+        "headaches",
+        "generates",
+        "bring",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +454,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Vibrava’s wings have not yet completed the process of growing. Rather than flying long distances, they are more useful for generating ultrasonic waves by vibrating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "completed",
+        "process",
+        "useful",
+        "generating",
+        "distances",
+        "vibrating",
+        "rather",
+        "yet",
+        "growing",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 27,
@@ -184,7 +478,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Rather than using its underdeveloped wings for flight, it rubs them together, producing ultrasonic waves to attack its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "producing",
+        "underdeveloped",
+        "rubs",
+        "rather",
+        "flight",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 28,
@@ -192,7 +498,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "guzzles",
+        "quantities",
+        "dissolves",
+        "digestive",
+        "juices",
+        "help"
+      ]
     },
     {
       "versionId": 29,
@@ -200,7 +518,24 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It vibrates its wings to generate ultrasonic waves, causing its prey to faint. Then it buries the prey alive in the sand to preserve it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "desert-dwelling",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "preserve",
+        "vibrates",
+        "alive",
+        "buries",
+        "faint",
+        "causing",
+        "generate",
+        "ultrasonic",
+        "sand"
+      ]
     },
     {
       "versionId": 30,
@@ -208,7 +543,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It vibrates its wings to send out odd sound waves. Trainers who are with it need earplugs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "sonic"
+      ],
+      "keywords": [
+        "earplugs",
+        "vibrates",
+        "need",
+        "send",
+        "odd"
+      ]
     },
     {
       "versionId": 33,
@@ -216,7 +563,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "severe",
+        "rubbing",
+        "headaches",
+        "generates",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 34,
@@ -224,7 +582,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "guzzles",
+        "quantities",
+        "dissolves",
+        "digestive",
+        "juices",
+        "help"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,120 @@
   ],
   "imagePath": "/assets/pokemon/129.png",
   "entryCount": 33,
+  "entryTraits": [
+    "aquatic",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "deposited",
+    "feeble",
+    "imbecile",
+    "multitudes",
+    "pickings",
+    "turbid",
+    "unperturbed",
+    "excuse",
+    "flopping",
+    "mid",
+    "nonetheless",
+    "underpowered",
+    "undertake",
+    "pitiful",
+    "prompted",
+    "pushed",
+    "reckless",
+    "splashes",
+    "splashing",
+    "unreliable",
+    "worthless",
+    "descendants",
+    "fairly",
+    "fertile",
+    "today",
+    "weakest",
+    "pidgeotto",
+    "bother",
+    "helpless",
+    "puddles",
+    "useless",
+    "spans",
+    "pathetic",
+    "terms",
+    "weaker",
+    "managed",
+    "jump",
+    "splash",
+    "easy",
+    "jumps",
+    "leap",
+    "pools",
+    "enjoy",
+    "flow",
+    "washed",
+    "exist",
+    "gradually",
+    "somewhat",
+    "sorts",
+    "horribly",
+    "polluted",
+    "shallow",
+    "hold",
+    "occasions",
+    "currents",
+    "tired",
+    "virtually",
+    "behavior",
+    "distant",
+    "famous",
+    "hardy",
+    "thanks",
+    "scientists",
+    "considered",
+    "incredibly",
+    "unable",
+    "leaps",
+    "slow",
+    "knows",
+    "waters",
+    "why",
+    "dirty",
+    "lakes",
+    "research",
+    "longer",
+    "seeing",
+    "side",
+    "predators",
+    "ll",
+    "soon",
+    "survive",
+    "seven",
+    "bright",
+    "past",
+    "rivers",
+    "matter",
+    "swim",
+    "remains",
+    "actually",
+    "rare",
+    "reason",
+    "catch",
+    "weak",
+    "stronger",
+    "against",
+    "living",
+    "along",
+    "capable",
+    "mountain",
+    "places",
+    "though",
+    "moving",
+    "although",
+    "swimming",
+    "usually",
+    "doesn",
+    "seas",
+    "muscles"
+  ],
   "color": "red",
   "shape": "fish",
   "habitat": "waters-edge",
@@ -39,7 +153,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "descendants",
+        "today",
+        "exist",
+        "somewhat",
+        "horribly",
+        "distant",
+        "past",
+        "weak",
+        "stronger"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +173,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "descendants",
+        "today",
+        "exist",
+        "somewhat",
+        "horribly",
+        "distant",
+        "past",
+        "weak",
+        "stronger"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +193,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "unreliable",
+        "puddles",
+        "shallow",
+        "famous",
+        "lakes",
+        "rivers",
+        "swimming",
+        "seas"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +214,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "An underpowered, pathetic POKéMON. It may jump high on rare occasions, but never more than seven feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "underpowered",
+        "pathetic",
+        "jump",
+        "occasions",
+        "seven",
+        "rare"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +231,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mid",
+        "splashes",
+        "pidgeotto",
+        "jump",
+        "easy",
+        "jumps",
+        "predators",
+        "reason",
+        "catch"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +251,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This weak and pathetic POKéMON gets easily pushed along rivers when there are strong currents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pushed",
+        "pathetic",
+        "currents",
+        "rivers",
+        "weak",
+        "along"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +268,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MAGIKARP is a pathetic excuse for a POKéMON that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "excuse",
+        "flopping",
+        "undertake",
+        "prompted",
+        "splashing",
+        "pathetic",
+        "behavior",
+        "scientists",
+        "research",
+        "capable"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +289,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MAGIKARP is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy POKéMON that can survive in any body of water no matter how polluted it is.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "useless",
+        "splash",
+        "polluted",
+        "virtually",
+        "hardy",
+        "considered",
+        "survive",
+        "matter",
+        "actually",
+        "weak"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +312,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many MAGIKARP deposited there by the flow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deposited",
+        "pools",
+        "flow",
+        "washed",
+        "currents",
+        "weak",
+        "places",
+        "swimming",
+        "muscles"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +334,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic POKéMON in the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "worthless",
+        "pathetic",
+        "terms",
+        "virtually",
+        "weak"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +350,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "descendants",
+        "today",
+        "exist",
+        "somewhat",
+        "horribly",
+        "distant",
+        "past",
+        "weak",
+        "stronger"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +370,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is said to be the world’s weakest Pokémon. No one knows why it has managed to survive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "weakest",
+        "managed",
+        "knows",
+        "why",
+        "survive"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +386,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "splashes",
+        "currents",
+        "unable",
+        "slow",
+        "swim",
+        "reason",
+        "against",
+        "moving"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +407,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "useless",
+        "splash",
+        "leap",
+        "remains",
+        "living",
+        "mountain",
+        "though"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +427,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but usually not more than seven feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "underpowered",
+        "pathetic",
+        "jump",
+        "occasions",
+        "seven",
+        "rare",
+        "usually"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +445,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mid",
+        "splashes",
+        "pidgeotto",
+        "jump",
+        "easy",
+        "jumps",
+        "predators",
+        "reason",
+        "catch"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +465,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "useless",
+        "splash",
+        "leap",
+        "remains",
+        "living",
+        "mountain",
+        "though"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +485,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "useless",
+        "splash",
+        "leap",
+        "remains",
+        "living",
+        "mountain",
+        "though"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +505,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "useless",
+        "splash",
+        "leap",
+        "remains",
+        "living",
+        "mountain",
+        "though"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +525,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "useless",
+        "splash",
+        "leap",
+        "remains",
+        "living",
+        "mountain",
+        "though"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +545,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "worthless",
+        "pathetic",
+        "terms",
+        "virtually",
+        "weak"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +561,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "descendants",
+        "today",
+        "exist",
+        "somewhat",
+        "horribly",
+        "distant",
+        "past",
+        "weak",
+        "stronger"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +581,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "excuse",
+        "flopping",
+        "undertake",
+        "prompted",
+        "splashing",
+        "pathetic",
+        "behavior",
+        "scientists",
+        "research",
+        "capable"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +602,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "useless",
+        "splash",
+        "polluted",
+        "virtually",
+        "hardy",
+        "considered",
+        "survive",
+        "matter",
+        "actually",
+        "weak"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +625,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Although weak and helpless, this Pokémon is incredibly fertile. They exist in such multitudes, you’ll soon grow tired of seeing them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "multitudes",
+        "fertile",
+        "helpless",
+        "exist",
+        "tired",
+        "incredibly",
+        "seeing",
+        "ll",
+        "soon",
+        "weak",
+        "although"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +647,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its reckless leaps make it easy pickings for predators. On the bright side, many Pokémon enjoy longer life spans, thanks to Magikarp.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "pickings",
+        "reckless",
+        "spans",
+        "easy",
+        "enjoy",
+        "thanks",
+        "leaps",
+        "longer",
+        "side",
+        "predators",
+        "bright"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +669,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairly",
+        "weaker",
+        "gradually",
+        "distant",
+        "past"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +685,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Thanks to their strong hold on life, dirty water doesn’t bother them at all. They live in waters all over the world!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bother",
+        "hold",
+        "thanks",
+        "waters",
+        "dirty",
+        "doesn"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +704,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers, and shallow puddles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "unreliable",
+        "puddles",
+        "shallow",
+        "famous",
+        "lakes",
+        "rivers",
+        "swimming",
+        "seas"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +725,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers, and shallow puddles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "unreliable",
+        "puddles",
+        "shallow",
+        "famous",
+        "lakes",
+        "rivers",
+        "swimming",
+        "seas"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +746,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "worthless",
+        "pathetic",
+        "terms",
+        "virtually",
+        "weak"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +762,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pushed",
+        "pathetic",
+        "currents",
+        "rivers",
+        "weak",
+        "along"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +779,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "A feeble, pitiful imbecile of a Pokémon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "feeble",
+        "imbecile",
+        "turbid",
+        "unperturbed",
+        "nonetheless",
+        "pitiful",
+        "sorts",
+        "hardy",
+        "living",
+        "places"
+      ]
     }
   ],
   "similarPokemonIds": [

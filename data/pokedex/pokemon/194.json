@@ -10,6 +10,53 @@
   ],
   "imagePath": "/assets/pokemon/194.png",
   "entryCount": 23,
+  "entryTraits": [
+    "aquatic",
+    "cold-climate",
+    "icy",
+    "poisonous",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "barehanded",
+    "mucous",
+    "burying",
+    "dehydrating",
+    "coats",
+    "evening",
+    "outside",
+    "gooey",
+    "cools",
+    "seek",
+    "emerge",
+    "film",
+    "shore",
+    "membrane",
+    "slimy",
+    "touching",
+    "covers",
+    "seeking",
+    "mud",
+    "occasionally",
+    "leave",
+    "shooting",
+    "pain",
+    "coat",
+    "half",
+    "onto",
+    "bottom",
+    "round",
+    "walks",
+    "walking",
+    "poisonous",
+    "keeps",
+    "along",
+    "search",
+    "skin",
+    "usually",
+    "toxic",
+    "temperature"
+  ],
   "color": "blue",
   "shape": "legs",
   "habitat": "waters-edge",
@@ -40,7 +87,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "outside",
+        "leave",
+        "search"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +105,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "When it walks a­ round on the ground, it coats its body with a slimy, poisonous film.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "coats",
+        "film",
+        "slimy",
+        "round",
+        "walks",
+        "poisonous"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +124,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "A mucous membrane covers its body. Touching it barehanded will cause a shooting pain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "barehanded",
+        "mucous",
+        "membrane",
+        "touching",
+        "covers",
+        "shooting",
+        "pain"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +142,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "coats",
+        "gooey",
+        "film",
+        "occasionally",
+        "onto",
+        "search",
+        "usually",
+        "toxic"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +164,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "coats",
+        "gooey",
+        "film",
+        "occasionally",
+        "onto",
+        "search",
+        "usually",
+        "toxic"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +186,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "WOOPER usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "gooey",
+        "film",
+        "seeking",
+        "occasionally",
+        "coat",
+        "onto",
+        "usually",
+        "toxic"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +208,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "coats",
+        "film",
+        "slimy",
+        "walks",
+        "poisonous"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +226,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "outside",
+        "leave",
+        "search"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +244,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in cold water, half burying itself in mud at the bottom to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sleeping",
+        "icy"
+      ],
+      "keywords": [
+        "burying",
+        "mud",
+        "half",
+        "bottom"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +264,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "evening",
+        "cools",
+        "seek",
+        "emerge",
+        "shore",
+        "along",
+        "temperature"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +284,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "dehydrating",
+        "film",
+        "covers",
+        "walking",
+        "poisonous",
+        "keeps",
+        "skin"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +304,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "outside",
+        "leave",
+        "search"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +322,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "coats",
+        "film",
+        "slimy",
+        "walks",
+        "poisonous"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +340,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "dehydrating",
+        "film",
+        "covers",
+        "walking",
+        "poisonous",
+        "keeps",
+        "skin"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +360,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "dehydrating",
+        "film",
+        "covers",
+        "walking",
+        "poisonous",
+        "keeps",
+        "skin"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +380,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "dehydrating",
+        "film",
+        "covers",
+        "walking",
+        "poisonous",
+        "keeps",
+        "skin"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +400,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "dehydrating",
+        "film",
+        "covers",
+        "walking",
+        "poisonous",
+        "keeps",
+        "skin"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +420,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "outside",
+        "leave",
+        "search"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +438,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "evening",
+        "cools",
+        "seek",
+        "emerge",
+        "shore",
+        "along",
+        "temperature"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +458,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "coats",
+        "gooey",
+        "film",
+        "occasionally",
+        "onto",
+        "search",
+        "usually",
+        "toxic"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +480,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "coats",
+        "gooey",
+        "film",
+        "occasionally",
+        "onto",
+        "search",
+        "usually",
+        "toxic"
+      ]
     },
     {
       "versionId": 33,
@@ -208,7 +502,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "outside",
+        "leave",
+        "search"
+      ]
     },
     {
       "versionId": 34,
@@ -216,7 +520,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "dehydrating",
+        "film",
+        "covers",
+        "walking",
+        "poisonous",
+        "keeps",
+        "skin"
+      ]
     }
   ],
   "similarPokemonIds": [

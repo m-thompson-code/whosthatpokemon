@@ -9,6 +9,24 @@
   ],
   "imagePath": "/assets/pokemon/664.png",
   "entryCount": 4,
+  "entryTraits": [
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "regulates",
+    "paralysis",
+    "climate",
+    "spews",
+    "contact",
+    "covers",
+    "powder",
+    "region",
+    "black",
+    "causes",
+    "poisonous",
+    "bird",
+    "temperature"
+  ],
   "color": "black",
   "shape": "armor",
   "habitat": null,
@@ -38,7 +56,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "paralysis",
+        "spews",
+        "contact",
+        "powder",
+        "black",
+        "causes",
+        "poisonous",
+        "bird"
+      ]
     },
     {
       "versionId": 24,
@@ -46,7 +77,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "regulates",
+        "climate",
+        "covers",
+        "powder",
+        "region",
+        "temperature"
+      ]
     },
     {
       "versionId": 25,
@@ -54,7 +94,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "paralysis",
+        "spews",
+        "contact",
+        "powder",
+        "black",
+        "causes",
+        "poisonous",
+        "bird"
+      ]
     },
     {
       "versionId": 26,
@@ -62,7 +115,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "regulates",
+        "climate",
+        "covers",
+        "powder",
+        "region",
+        "temperature"
+      ]
     }
   ],
   "similarPokemonIds": [

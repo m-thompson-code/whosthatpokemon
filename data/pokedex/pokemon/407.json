@@ -10,6 +10,56 @@
   ],
   "imagePath": "/assets/pokemon/407.png",
   "entryCount": 16,
+  "entryTraits": [
+    "arms",
+    "hunting",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "bouquet",
+    "thorned",
+    "captivating",
+    "downs",
+    "loaded",
+    "thorny",
+    "threatening",
+    "virulent",
+    "densely",
+    "sweeter",
+    "luring",
+    "acting",
+    "bind",
+    "lashes",
+    "dancer",
+    "lined",
+    "corners",
+    "gracefully",
+    "mercilessly",
+    "finish",
+    "thorns",
+    "jab",
+    "fatal",
+    "spews",
+    "whips",
+    "toxins",
+    "slow",
+    "attracts",
+    "hand",
+    "strikes",
+    "hidden",
+    "left",
+    "contains",
+    "quick",
+    "right",
+    "hands",
+    "near",
+    "within",
+    "different",
+    "movements",
+    "scent",
+    "aroma",
+    "toxic"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": null,
@@ -40,7 +90,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "downs",
+        "thorny",
+        "whips",
+        "attracts",
+        "hidden",
+        "aroma"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +110,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "densely",
+        "dancer",
+        "lined",
+        "thorns",
+        "whips",
+        "strikes",
+        "movements"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +130,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "jab",
+        "fatal",
+        "toxins",
+        "contains",
+        "hands",
+        "near",
+        "different"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +150,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "sweeter",
+        "spews",
+        "attracts",
+        "aroma",
+        "toxic"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +169,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "sweeter",
+        "spews",
+        "attracts",
+        "aroma",
+        "toxic"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +188,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "jab",
+        "fatal",
+        "toxins",
+        "contains",
+        "hands",
+        "near",
+        "different"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +208,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "jab",
+        "fatal",
+        "toxins",
+        "contains",
+        "hands",
+        "near",
+        "different"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +228,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "luring",
+        "bind",
+        "finish",
+        "whips",
+        "scent"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +248,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "luring",
+        "bind",
+        "finish",
+        "whips",
+        "scent"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +268,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "luring",
+        "bind",
+        "finish",
+        "whips",
+        "scent"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +288,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "densely",
+        "dancer",
+        "lined",
+        "thorns",
+        "whips",
+        "strikes",
+        "movements"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +308,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "luring",
+        "bind",
+        "finish",
+        "whips",
+        "scent"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +328,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "densely",
+        "dancer",
+        "lined",
+        "thorns",
+        "whips",
+        "strikes",
+        "movements"
+      ]
     },
     {
       "versionId": 33,
@@ -144,7 +348,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "captivating",
+        "thorny",
+        "lashes",
+        "whips",
+        "scent"
+      ]
     },
     {
       "versionId": 34,
@@ -152,7 +364,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "poisonous"
+      ],
+      "keywords": [
+        "threatening",
+        "acting",
+        "slow",
+        "hand",
+        "left",
+        "quick",
+        "right"
+      ]
     },
     {
       "versionId": 39,
@@ -160,7 +385,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Hidden within the bouquet on each hand are thorned whips loaded with virulent poison. Roserade moves gracefully as it corners its prey and mercilessly lashes them with its whips.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "bouquet",
+        "thorned",
+        "loaded",
+        "virulent",
+        "lashes",
+        "corners",
+        "gracefully",
+        "mercilessly",
+        "whips",
+        "hand",
+        "hidden",
+        "within"
+      ]
     }
   ],
   "similarPokemonIds": [

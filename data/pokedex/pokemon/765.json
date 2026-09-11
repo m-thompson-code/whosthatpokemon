@@ -10,6 +10,58 @@
   ],
   "imagePath": "/assets/pokemon/765.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic",
+    "fur",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "abides",
+    "canopy",
+    "engaging",
+    "lofty",
+    "herbs",
+    "inexperienced",
+    "instructions",
+    "meditating",
+    "decide",
+    "medicinal",
+    "wits",
+    "treat",
+    "suited",
+    "pleases",
+    "veteran",
+    "slowking",
+    "wounded",
+    "fan",
+    "beach",
+    "orders",
+    "treetops",
+    "superior",
+    "extreme",
+    "occasions",
+    "match",
+    "balls",
+    "skillfully",
+    "normally",
+    "best",
+    "spends",
+    "jungle",
+    "knows",
+    "don",
+    "intelligence",
+    "shows",
+    "throws",
+    "battles",
+    "poke",
+    "re",
+    "forest",
+    "rare",
+    "look",
+    "across",
+    "along",
+    "gather"
+  ],
   "color": "white",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +91,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Known for its extreme intelligence, this Pokémon will look down on inexperienced Trainers, so it’s best suited to veteran Trainers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inexperienced",
+        "suited",
+        "veteran",
+        "extreme",
+        "best",
+        "intelligence",
+        "look"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +109,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "abides",
+        "canopy",
+        "lofty",
+        "wits",
+        "slowking",
+        "beach",
+        "occasions",
+        "match",
+        "jungle",
+        "shows",
+        "rare"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +131,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "meditating",
+        "pleases",
+        "orders",
+        "treetops",
+        "balls",
+        "normally",
+        "spends",
+        "throws",
+        "poke"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +151,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Oranguru don’t get along with each other, so they’re always engaging in battles of wits to decide which one is superior.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "engaging",
+        "decide",
+        "wits",
+        "superior",
+        "don",
+        "battles",
+        "re",
+        "along"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +170,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "With waves of its fan—made from leaves and its own fur—Oranguru skillfully gives instructions to other Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "fur"
+      ],
+      "keywords": [
+        "instructions",
+        "fan",
+        "skillfully"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +187,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "herbs",
+        "medicinal",
+        "treat",
+        "wounded",
+        "knows",
+        "forest",
+        "across",
+        "gather"
+      ]
     }
   ],
   "similarPokemonIds": [

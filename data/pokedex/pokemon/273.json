@@ -9,6 +9,52 @@
   ],
   "imagePath": "/assets/pokemon/273.png",
   "entryCount": 20,
+  "entryTraits": [
+    "aquatic",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "nut",
+    "thump",
+    "dangling",
+    "delights",
+    "glossier",
+    "surprising",
+    "dangles",
+    "foraging",
+    "nuts",
+    "scaring",
+    "acorn",
+    "polishes",
+    "drops",
+    "exactly",
+    "pidgey",
+    "enjoys",
+    "distinguish",
+    "drinks",
+    "startles",
+    "hanging",
+    "finishes",
+    "attaches",
+    "real",
+    "hangs",
+    "sucks",
+    "impossible",
+    "suddenly",
+    "moisture",
+    "branches",
+    "branch",
+    "fall",
+    "top",
+    "absorbs",
+    "winds",
+    "remains",
+    "nutrients",
+    "still",
+    "eating",
+    "moving",
+    "heavy"
+  ],
   "color": "brown",
   "shape": "legs",
   "habitat": "forest",
@@ -39,7 +85,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON’s body becomes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "glossier",
+        "drinks",
+        "hanging",
+        "attaches",
+        "sucks",
+        "moisture",
+        "branch",
+        "top"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +107,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SEEDOT looks exactly like an acorn when it is dangling from a tree branch. It startles other POKéMON by suddenly moving. This POKéMON polishes its body once a day using leaves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangling",
+        "acorn",
+        "polishes",
+        "exactly",
+        "startles",
+        "suddenly",
+        "branch",
+        "moving"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +128,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thump",
+        "drops",
+        "finishes",
+        "hangs",
+        "branches",
+        "absorbs",
+        "nutrients",
+        "eating",
+        "heavy"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +148,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging PIDGEY.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "delights",
+        "surprising",
+        "foraging",
+        "nuts",
+        "pidgey",
+        "distinguish",
+        "real",
+        "impossible",
+        "remains",
+        "still"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +169,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging PIDGEY.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "delights",
+        "surprising",
+        "foraging",
+        "nuts",
+        "pidgey",
+        "distinguish",
+        "real",
+        "impossible",
+        "remains",
+        "still"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +190,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangles",
+        "scaring",
+        "acorn",
+        "enjoys",
+        "branch"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +208,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangles",
+        "scaring",
+        "acorn",
+        "enjoys",
+        "branch"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +226,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangles",
+        "scaring",
+        "acorn",
+        "enjoys",
+        "branch"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +244,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "attaches",
+        "branch",
+        "fall",
+        "top",
+        "winds"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +262,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "attaches",
+        "branch",
+        "fall",
+        "top",
+        "winds"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +280,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangles",
+        "scaring",
+        "acorn",
+        "enjoys",
+        "branch"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +298,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangles",
+        "scaring",
+        "acorn",
+        "enjoys",
+        "branch"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +316,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangles",
+        "scaring",
+        "acorn",
+        "enjoys",
+        "branch"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +334,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangles",
+        "scaring",
+        "acorn",
+        "enjoys",
+        "branch"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +352,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "attaches",
+        "branch",
+        "fall",
+        "top",
+        "winds"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +370,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangles",
+        "scaring",
+        "acorn",
+        "enjoys",
+        "branch"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +388,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon’s body becomes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "glossier",
+        "drinks",
+        "hanging",
+        "attaches",
+        "sucks",
+        "moisture",
+        "branch",
+        "top"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +410,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pokémon by suddenly moving. This Pokémon polishes its body once a day using leaves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dangling",
+        "acorn",
+        "polishes",
+        "exactly",
+        "startles",
+        "suddenly",
+        "branch",
+        "moving"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +431,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If it remains still, it looks just like a real nut. It delights in surprising foraging Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nut",
+        "delights",
+        "surprising",
+        "foraging",
+        "real",
+        "remains",
+        "still"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +449,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "attaches",
+        "branch",
+        "fall",
+        "top",
+        "winds"
+      ]
     }
   ],
   "similarPokemonIds": [

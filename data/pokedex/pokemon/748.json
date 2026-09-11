@@ -10,6 +10,65 @@
   ],
   "imagePath": "/assets/pokemon/748.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic",
+    "nocturnal",
+    "poisonous",
+    "claws",
+    "cold-climate",
+    "fiery",
+    "icy"
+  ],
+  "entryKeywords": [
+    "aftereffects",
+    "mown",
+    "post",
+    "recovery",
+    "tides",
+    "dome",
+    "enclosing",
+    "12",
+    "suffer",
+    "trail",
+    "suffering",
+    "affect",
+    "scattered",
+    "bits",
+    "shelter",
+    "crawls",
+    "ones",
+    "wailord",
+    "corsola",
+    "wake",
+    "effect",
+    "flow",
+    "comfortable",
+    "capture",
+    "floor",
+    "galar",
+    "sends",
+    "waters",
+    "survive",
+    "forms",
+    "pain",
+    "sac",
+    "nights",
+    "intense",
+    "first",
+    "days",
+    "within",
+    "ocean",
+    "spikes",
+    "attacked",
+    "along",
+    "still",
+    "creates",
+    "heat",
+    "takes",
+    "close",
+    "doesn",
+    "toxic"
+  ],
   "color": "blue",
   "shape": "tentacles",
   "habitat": null,
@@ -39,7 +98,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "12",
+        "trail",
+        "scattered",
+        "bits",
+        "crawls",
+        "corsola",
+        "wake",
+        "floor",
+        "ocean",
+        "along"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +121,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Those attacked by Toxapex’s poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "poisonous"
+      ],
+      "keywords": [
+        "aftereffects",
+        "post",
+        "recovery",
+        "suffer",
+        "pain",
+        "nights",
+        "intense",
+        "days",
+        "attacked"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +144,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "poisonous"
+      ],
+      "keywords": [
+        "mown",
+        "ones",
+        "sends",
+        "spikes",
+        "close",
+        "toxic"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +164,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn’t affect Toxapex in there, so it’s very comfortable.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tides",
+        "dome",
+        "12",
+        "affect",
+        "shelter",
+        "flow",
+        "comfortable",
+        "within",
+        "creates",
+        "doesn"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +185,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "dome",
+        "enclosing",
+        "capture",
+        "galar",
+        "waters",
+        "survive",
+        "forms",
+        "heat"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +208,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "suffering",
+        "wailord",
+        "effect",
+        "sac",
+        "first",
+        "days",
+        "within",
+        "still",
+        "takes",
+        "toxic"
+      ]
     }
   ],
   "similarPokemonIds": [

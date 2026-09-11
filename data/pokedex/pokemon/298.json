@@ -10,6 +10,64 @@
   ],
   "imagePath": "/assets/pokemon/298.png",
   "entryCount": 20,
+  "entryTraits": [
+    "tail",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "lasso",
+    "33",
+    "device",
+    "necessary",
+    "flinging",
+    "record",
+    "flings",
+    "rubber",
+    "momentum",
+    "hurls",
+    "nutrient",
+    "action",
+    "managed",
+    "growth",
+    "hurl",
+    "splash",
+    "fun",
+    "rubbery",
+    "packed",
+    "bouncy",
+    "smash",
+    "sunny",
+    "playing",
+    "flotation",
+    "plays",
+    "throw",
+    "normally",
+    "nutrition",
+    "bouncing",
+    "unique",
+    "edge",
+    "sends",
+    "swings",
+    "bounces",
+    "needs",
+    "swing",
+    "docile",
+    "spins",
+    "bigger",
+    "battles",
+    "filled",
+    "angry",
+    "try",
+    "far",
+    "days",
+    "nutrients",
+    "full",
+    "although",
+    "quickly",
+    "gather",
+    "big",
+    "ball"
+  ],
   "color": "blue",
   "shape": "legs",
   "habitat": "waters-edge",
@@ -39,7 +97,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these POKéMON managed to hurl itself a record 33 feet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "lasso",
+        "33",
+        "record",
+        "momentum",
+        "hurls",
+        "action",
+        "managed",
+        "hurl",
+        "throw",
+        "unique",
+        "sends",
+        "spins",
+        "far"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +123,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "AZURILL’s tail is large and bouncy. It is packed full of the nutrients this POKéMON needs to grow. AZURILL can be seen bouncing and playing on its big, rubbery tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "rubbery",
+        "packed",
+        "bouncy",
+        "playing",
+        "bouncing",
+        "needs",
+        "nutrients",
+        "full",
+        "big"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +145,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "rubber",
+        "splash",
+        "fun",
+        "packed",
+        "bouncy",
+        "sunny",
+        "nutrition",
+        "edge",
+        "days",
+        "gather",
+        "ball"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +170,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It battles by flinging around its tail, which is bigger than its body. The tail is a flotation device in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "device",
+        "flinging",
+        "flotation",
+        "bigger",
+        "battles"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +189,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It battles by flinging around its tail, which is bigger than its body. The tail is a flotation device in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "device",
+        "flinging",
+        "flotation",
+        "bigger",
+        "battles"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +208,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that lives by water. It moves quickly on land by bouncing on its big tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "bouncing",
+        "quickly",
+        "big"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +225,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its tail is filled with nutrients necessary for growth. It plays by bouncing on its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "necessary",
+        "growth",
+        "plays",
+        "bouncing",
+        "filled",
+        "nutrients"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +244,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "flings",
+        "rubber",
+        "bounces",
+        "bigger",
+        "ball"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +262,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its tail is packed full of the nutrients it needs to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "packed",
+        "needs",
+        "nutrients",
+        "full"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +279,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its tail is packed full of the nutrients it needs to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "packed",
+        "needs",
+        "nutrients",
+        "full"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +296,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "flings",
+        "rubber",
+        "bounces",
+        "bigger",
+        "ball"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +314,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "flings",
+        "rubber",
+        "bounces",
+        "bigger",
+        "ball"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +332,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It swings its large, nutrient-filled tail around to fight opponents bigger than itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "nutrient",
+        "swings",
+        "bigger",
+        "filled"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +349,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It swings its large, nutrient-filled tail around to fight opponents bigger than itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "nutrient",
+        "swings",
+        "bigger",
+        "filled"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +366,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A Pokémon that lives by water. It moves quickly on land by bouncing on its big tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "bouncing",
+        "quickly",
+        "big"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +383,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It swings its large, nutrient-filled tail around to fight opponents bigger than itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "nutrient",
+        "swings",
+        "bigger",
+        "filled"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +400,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Azurill spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these Pokémon managed to hurl itself a record 33 feet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "lasso",
+        "33",
+        "record",
+        "momentum",
+        "hurls",
+        "action",
+        "managed",
+        "hurl",
+        "throw",
+        "unique",
+        "sends",
+        "spins",
+        "far"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +426,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Azurill’s tail is large and bouncy. It is packed full of the nutrients this Pokémon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "rubbery",
+        "packed",
+        "bouncy",
+        "playing",
+        "bouncing",
+        "needs",
+        "nutrients",
+        "full",
+        "big"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +448,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The ball on Azurill’s tail bounces like a rubber ball, and it’s full of the nutrients the Pokémon needs to grow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "rubber",
+        "bounces",
+        "needs",
+        "nutrients",
+        "full",
+        "ball"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +467,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "smash",
+        "normally",
+        "swing",
+        "docile",
+        "angry",
+        "try",
+        "although",
+        "big",
+        "ball"
+      ]
     }
   ],
   "similarPokemonIds": [

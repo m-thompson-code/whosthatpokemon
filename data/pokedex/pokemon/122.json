@@ -10,6 +10,107 @@
   ],
   "imagePath": "/assets/pokemon/122.png",
   "entryCount": 31,
+  "entryTraits": [
+    "arms",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "broadness",
+    "clown",
+    "coincidence",
+    "doubleslap",
+    "enlarged",
+    "enraptured",
+    "expert",
+    "imaginary",
+    "impressed",
+    "invisi",
+    "reminds",
+    "specifically",
+    "conning",
+    "convinced",
+    "pantomiming",
+    "wonderful",
+    "ble",
+    "emanations",
+    "interrupted",
+    "notch",
+    "offender",
+    "solidify",
+    "practicing",
+    "watchers",
+    "convince",
+    "matures",
+    "minutely",
+    "miming",
+    "actual",
+    "watching",
+    "skills",
+    "gestures",
+    "pantomime",
+    "unseeable",
+    "exists",
+    "fingertips",
+    "palms",
+    "slap",
+    "emitted",
+    "peculiar",
+    "practices",
+    "fingers",
+    "emit",
+    "know",
+    "vibrating",
+    "exist",
+    "field",
+    "emitting",
+    "sorts",
+    "molecules",
+    "midair",
+    "double",
+    "gains",
+    "shapes",
+    "auras",
+    "behavior",
+    "real",
+    "scientists",
+    "wall",
+    "master",
+    "motions",
+    "really",
+    "object",
+    "solid",
+    "broad",
+    "next",
+    "repel",
+    "act",
+    "thing",
+    "adept",
+    "hardens",
+    "believe",
+    "don",
+    "objects",
+    "believed",
+    "invisible",
+    "skilled",
+    "suddenly",
+    "harsh",
+    "birth",
+    "became",
+    "top",
+    "protects",
+    "hands",
+    "able",
+    "actually",
+    "something",
+    "walls",
+    "thin",
+    "stop",
+    "mysterious",
+    "force",
+    "create",
+    "creates",
+    "doesn"
+  ],
   "color": "pink",
   "shape": "humanoid",
   "habitat": "urban",
@@ -39,7 +140,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "interrupted",
+        "offender",
+        "miming",
+        "slap",
+        "broad",
+        "hands"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +159,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "interrupted",
+        "offender",
+        "miming",
+        "slap",
+        "broad",
+        "hands"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +178,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Always practices its pantomime act. It makes enemies believe something exists that really doesn't.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pantomime",
+        "exists",
+        "practices",
+        "really",
+        "act",
+        "believe",
+        "something",
+        "doesn"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +197,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "A skilled mime from birth, it gains the ability to create invisi­ ble objects as it matures.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "invisi",
+        "ble",
+        "matures",
+        "gains",
+        "objects",
+        "skilled",
+        "birth",
+        "create"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +216,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its fingertips emit a peculiar force field that hardens air to create an actual wall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "actual",
+        "fingertips",
+        "peculiar",
+        "emit",
+        "field",
+        "wall",
+        "hardens",
+        "force",
+        "create"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +238,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It uses the mysterious power it has in its fingers to solidify air into an invisible wall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "solidify",
+        "fingers",
+        "wall",
+        "invisible",
+        "mysterious"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +256,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "watchers",
+        "convince",
+        "gestures",
+        "pantomime",
+        "unseeable",
+        "exists",
+        "exist",
+        "real",
+        "master",
+        "motions",
+        "thing",
+        "believed",
+        "actually",
+        "something"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +281,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "watchers",
+        "convince",
+        "gestures",
+        "pantomime",
+        "unseeable",
+        "exists",
+        "exist",
+        "real",
+        "master",
+        "motions",
+        "thing",
+        "believed",
+        "actually",
+        "something"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +306,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A MR. MIME is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "imaginary",
+        "convince",
+        "pantomime",
+        "unseeable",
+        "exists",
+        "real",
+        "master",
+        "object",
+        "believed",
+        "actually",
+        "something"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +328,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "conning",
+        "miming",
+        "adept",
+        "able",
+        "walls",
+        "thin",
+        "create"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +348,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If interrupted while it is miming, it will suddenly DOUBLESLAP the offender with its broad hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "doubleslap",
+        "interrupted",
+        "offender",
+        "miming",
+        "broad",
+        "suddenly",
+        "hands"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +368,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is a pantomime expert that can create invisible but solid walls using miming gestures.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "expert",
+        "miming",
+        "gestures",
+        "pantomime",
+        "solid",
+        "invisible",
+        "walls",
+        "create"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +387,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "emanations",
+        "solidify",
+        "fingertips",
+        "repel",
+        "invisible",
+        "harsh",
+        "walls"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +407,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minutely",
+        "fingertips",
+        "vibrating",
+        "molecules",
+        "midair",
+        "shapes",
+        "wall",
+        "invisible",
+        "stop"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +429,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "A skilled mime from birth, it gains the ability to create invisible objects as it matures.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "matures",
+        "gains",
+        "objects",
+        "invisible",
+        "skilled",
+        "birth",
+        "create"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +447,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its fingertips emit a peculiar force field that hardens air to create an actual wall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "actual",
+        "fingertips",
+        "peculiar",
+        "emit",
+        "field",
+        "wall",
+        "hardens",
+        "force",
+        "create"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +469,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minutely",
+        "fingertips",
+        "vibrating",
+        "molecules",
+        "midair",
+        "shapes",
+        "wall",
+        "invisible",
+        "stop"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +491,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minutely",
+        "fingertips",
+        "vibrating",
+        "molecules",
+        "midair",
+        "shapes",
+        "wall",
+        "invisible",
+        "stop"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +513,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minutely",
+        "fingertips",
+        "vibrating",
+        "molecules",
+        "midair",
+        "shapes",
+        "wall",
+        "invisible",
+        "stop"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +535,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minutely",
+        "fingertips",
+        "vibrating",
+        "molecules",
+        "midair",
+        "shapes",
+        "wall",
+        "invisible",
+        "stop"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +557,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "emanations",
+        "solidify",
+        "fingertips",
+        "repel",
+        "invisible",
+        "harsh",
+        "walls"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +577,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "conning",
+        "miming",
+        "adept",
+        "able",
+        "walls",
+        "thin",
+        "create"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +597,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "convinced",
+        "watchers",
+        "convince",
+        "gestures",
+        "pantomime",
+        "unseeable",
+        "exists",
+        "real",
+        "master",
+        "motions",
+        "thing",
+        "actually",
+        "something"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +621,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "convinced",
+        "watchers",
+        "convince",
+        "gestures",
+        "pantomime",
+        "unseeable",
+        "exists",
+        "real",
+        "master",
+        "motions",
+        "thing",
+        "actually",
+        "something"
+      ]
     },
     {
       "versionId": 29,
@@ -231,7 +645,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its pantomime skills are wonderful. You may become enraptured while watching it, but next thing you know, Mr. Mime has made a real wall.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "enraptured",
+        "wonderful",
+        "watching",
+        "skills",
+        "pantomime",
+        "know",
+        "real",
+        "wall",
+        "next",
+        "thing"
+      ]
     },
     {
       "versionId": 30,
@@ -239,7 +666,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It creates invisible walls with its pantomiming. If you don’t act impressed, it will attack you with a double slap!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "impressed",
+        "pantomiming",
+        "slap",
+        "double",
+        "act",
+        "don",
+        "invisible",
+        "walls",
+        "creates"
+      ]
     },
     {
       "versionId": 31,
@@ -247,7 +686,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Always practicing its pantomime act. It makes enemies believe something exists that really doesn’t.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "practicing",
+        "pantomime",
+        "exists",
+        "really",
+        "act",
+        "believe",
+        "something",
+        "doesn"
+      ]
     },
     {
       "versionId": 32,
@@ -255,7 +705,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Always practicing its pantomime act. It makes enemies believe something exists that really doesn’t.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "practicing",
+        "pantomime",
+        "exists",
+        "really",
+        "act",
+        "believe",
+        "something",
+        "doesn"
+      ]
     },
     {
       "versionId": 33,
@@ -263,7 +724,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "broadness",
+        "coincidence",
+        "enlarged",
+        "specifically",
+        "pantomiming",
+        "palms",
+        "scientists",
+        "believe",
+        "became",
+        "hands"
+      ]
     },
     {
       "versionId": 34,
@@ -271,7 +747,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "notch",
+        "skills",
+        "pantomime",
+        "fingers",
+        "emitting",
+        "sorts",
+        "auras",
+        "top",
+        "protects",
+        "walls",
+        "create"
+      ]
     },
     {
       "versionId": 39,
@@ -279,7 +769,20 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clown",
+        "reminds",
+        "pantomime",
+        "fingertips",
+        "emitted",
+        "behavior",
+        "invisible",
+        "walls",
+        "force",
+        "creates"
+      ]
     }
   ],
   "similarPokemonIds": [

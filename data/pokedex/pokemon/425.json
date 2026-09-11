@@ -10,6 +10,84 @@
   ],
   "imagePath": "/assets/pokemon/425.png",
   "entryCount": 20,
+  "entryTraits": [
+    "arms",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "spills",
+    "unconfirmed",
+    "abundance",
+    "whisper",
+    "whispered",
+    "folktale",
+    "aimlessly",
+    "mistakes",
+    "reincarnated",
+    "tugs",
+    "pulled",
+    "drags",
+    "expands",
+    "screaming",
+    "signpost",
+    "stories",
+    "stuffed",
+    "balloon",
+    "company",
+    "vanish",
+    "afterlife",
+    "calls",
+    "perhaps",
+    "wandering",
+    "missing",
+    "holding",
+    "souls",
+    "grabs",
+    "bursts",
+    "gathered",
+    "rumors",
+    "gave",
+    "humid",
+    "soul",
+    "leads",
+    "seem",
+    "gathering",
+    "roughly",
+    "lure",
+    "rise",
+    "again",
+    "damp",
+    "child",
+    "dislikes",
+    "seasons",
+    "approaches",
+    "play",
+    "seeking",
+    "yet",
+    "trying",
+    "floats",
+    "hand",
+    "someone",
+    "steal",
+    "formed",
+    "instead",
+    "holds",
+    "round",
+    "old",
+    "children",
+    "spirits",
+    "carry",
+    "young",
+    "friends",
+    "hands",
+    "called",
+    "wind",
+    "reason",
+    "runs",
+    "human",
+    "quickly",
+    "heavy"
+  ],
   "color": "purple",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +117,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "humid",
+        "damp",
+        "seasons",
+        "formed",
+        "spirits"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +133,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It tugs on the hands of children to steal them away. However, it gets pulled around instead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "tugs",
+        "pulled",
+        "steal",
+        "instead",
+        "children",
+        "hands"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +152,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "folktale",
+        "aimlessly",
+        "signpost",
+        "calls",
+        "wandering",
+        "floats",
+        "old",
+        "spirits"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +171,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is whispered that any child who mistakes DRIFLOON for a balloon and holds on to it could wind up missing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "whispered",
+        "mistakes",
+        "balloon",
+        "missing",
+        "child",
+        "holds",
+        "wind"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +189,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is whispered that any child who mistakes DRIFLOON for a balloon and holds on to it could wind up missing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "whispered",
+        "mistakes",
+        "balloon",
+        "missing",
+        "child",
+        "holds",
+        "wind"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +207,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "folktale",
+        "aimlessly",
+        "signpost",
+        "calls",
+        "wandering",
+        "floats",
+        "old",
+        "spirits"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +226,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "folktale",
+        "aimlessly",
+        "signpost",
+        "calls",
+        "wandering",
+        "floats",
+        "old",
+        "spirits"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +245,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "These Pokémon are called the “Signpost for Wandering Spirits.” Children holding them sometimes vanish.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "signpost",
+        "vanish",
+        "wandering",
+        "holding",
+        "children",
+        "spirits",
+        "called"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +263,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "These Pokémon are called the “Signpost for Wandering Spirits.” Children holding them sometimes vanish.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "signpost",
+        "vanish",
+        "wandering",
+        "holding",
+        "children",
+        "spirits",
+        "called"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +281,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "humid",
+        "damp",
+        "seasons",
+        "formed",
+        "spirits"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +297,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "These Pokémon are called the “Signpost for Wandering Spirits.” Children holding them sometimes vanish.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "signpost",
+        "vanish",
+        "wandering",
+        "holding",
+        "children",
+        "spirits",
+        "called"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +315,15 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "humid",
+        "damp",
+        "seasons",
+        "formed",
+        "spirits"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +331,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "These Pokémon are called the “Signpost for Wandering Spirits.” Children holding them sometimes vanish.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "signpost",
+        "vanish",
+        "wandering",
+        "holding",
+        "children",
+        "spirits",
+        "called"
+      ]
     },
     {
       "versionId": 27,
@@ -143,7 +349,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Stories go that it grabs the hands of small children and drags them away to the afterlife. It dislikes heavy children.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "drags",
+        "stories",
+        "afterlife",
+        "grabs",
+        "dislikes",
+        "children",
+        "hands",
+        "heavy"
+      ]
     },
     {
       "versionId": 28,
@@ -151,7 +370,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "If for some reason its body bursts, its soul spills out with a screaming sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "spills",
+        "screaming",
+        "bursts",
+        "soul",
+        "reason"
+      ]
     },
     {
       "versionId": 29,
@@ -159,7 +388,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its round body is stuffed with souls and expands each time it leads someone away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "expands",
+        "stuffed",
+        "souls",
+        "leads",
+        "someone",
+        "round"
+      ]
     },
     {
       "versionId": 30,
@@ -167,7 +405,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Wandering souls gathered together to form this Pokémon. When trying to make friends with children, Drifloon grabs them by the hand.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "wandering",
+        "souls",
+        "grabs",
+        "gathered",
+        "trying",
+        "hand",
+        "children",
+        "friends"
+      ]
     },
     {
       "versionId": 33,
@@ -175,7 +426,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Perhaps seeking company, it approaches children. However, it often quickly runs away again when the children play too roughly with it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "company",
+        "perhaps",
+        "roughly",
+        "again",
+        "approaches",
+        "play",
+        "seeking",
+        "children",
+        "runs",
+        "quickly"
+      ]
     },
     {
       "versionId": 34,
@@ -183,7 +447,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The gathering of many souls gave rise to this Pokémon. During humid seasons, they seem to appear in abundance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "abundance",
+        "souls",
+        "gave",
+        "humid",
+        "seem",
+        "gathering",
+        "rise",
+        "seasons"
+      ]
     },
     {
       "versionId": 39,
@@ -191,7 +466,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "unconfirmed",
+        "whisper",
+        "reincarnated",
+        "afterlife",
+        "souls",
+        "rumors",
+        "lure",
+        "yet",
+        "formed",
+        "children",
+        "carry",
+        "young",
+        "human"
+      ]
     }
   ],
   "similarPokemonIds": [

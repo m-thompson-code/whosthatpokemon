@@ -9,6 +9,82 @@
   ],
   "imagePath": "/assets/pokemon/370.png",
   "entryCount": 22,
+  "entryTraits": [
+    "aquatic",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "despondent",
+    "gift",
+    "honeymoon",
+    "hotels",
+    "overfished",
+    "sweetheart",
+    "romance",
+    "snatch",
+    "express",
+    "couples",
+    "custom",
+    "meeting",
+    "reefs",
+    "relationship",
+    "congregate",
+    "earned",
+    "pelipper",
+    "rumor",
+    "blessed",
+    "promised",
+    "couple",
+    "era",
+    "especially",
+    "spawning",
+    "loving",
+    "corsola",
+    "name",
+    "tropics",
+    "coral",
+    "pools",
+    "countless",
+    "eternal",
+    "spotted",
+    "symbol",
+    "shallow",
+    "turning",
+    "giving",
+    "pink",
+    "leaving",
+    "finding",
+    "release",
+    "ends",
+    "season",
+    "love",
+    "due",
+    "waters",
+    "having",
+    "someone",
+    "enable",
+    "nests",
+    "spot",
+    "left",
+    "sleeping",
+    "home",
+    "branches",
+    "find",
+    "soft",
+    "open",
+    "between",
+    "space",
+    "feelings",
+    "likes",
+    "popular",
+    "shaped",
+    "heart",
+    "ocean",
+    "scales",
+    "places",
+    "swimming",
+    "seas"
+  ],
   "color": "pink",
   "shape": "fish",
   "habitat": "sea",
@@ -38,7 +114,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LUVDISC live in shallow seas in the tropics. This heart-shaped POKéMON earned its name by swimming after loving couples it spotted in the ocean’s waves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "couples",
+        "earned",
+        "loving",
+        "name",
+        "tropics",
+        "spotted",
+        "shallow",
+        "shaped",
+        "heart",
+        "ocean",
+        "swimming",
+        "seas"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +139,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LUVDISC’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this POKéMON is promised a loving relationship that never ends.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "romance",
+        "meeting",
+        "relationship",
+        "promised",
+        "couple",
+        "loving",
+        "symbol",
+        "ends",
+        "love",
+        "shaped",
+        "heart"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +161,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "LUVDISC make the branches of CORSOLA their nests. There is a custom from long ago of giving a LUVDISC as a gift to express one’s feelings of love.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "gift",
+        "express",
+        "custom",
+        "corsola",
+        "giving",
+        "love",
+        "nests",
+        "branches",
+        "feelings"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +181,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "During the spawning season, countless LUVDISC congregate at coral reefs, turning the waters pink.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reefs",
+        "congregate",
+        "spawning",
+        "coral",
+        "countless",
+        "turning",
+        "pink",
+        "season",
+        "waters"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +201,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "During the spawning season, countless LUVDISC congregate at coral reefs, turning the waters pink.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reefs",
+        "congregate",
+        "spawning",
+        "coral",
+        "countless",
+        "turning",
+        "pink",
+        "season",
+        "waters"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +221,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blessed",
+        "couple",
+        "eternal",
+        "finding",
+        "love",
+        "seas"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +238,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blessed",
+        "couple",
+        "eternal",
+        "finding",
+        "love",
+        "seas"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +255,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blessed",
+        "couple",
+        "eternal",
+        "finding",
+        "love",
+        "seas"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +272,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its heart-shaped body makes it popular. In some places, you would give a LUVDISC to someone you love.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "love",
+        "someone",
+        "popular",
+        "shaped",
+        "heart",
+        "places"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +289,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its heart-shaped body makes it popular. In some places, you would give a LUVDISC to someone you love.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "love",
+        "someone",
+        "popular",
+        "shaped",
+        "heart",
+        "places"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +306,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blessed",
+        "couple",
+        "eternal",
+        "finding",
+        "love",
+        "seas"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +323,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blessed",
+        "couple",
+        "eternal",
+        "finding",
+        "love",
+        "seas"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +340,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blessed",
+        "couple",
+        "eternal",
+        "finding",
+        "love",
+        "seas"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +357,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blessed",
+        "couple",
+        "eternal",
+        "finding",
+        "love",
+        "seas"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +374,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blessed",
+        "couple",
+        "eternal",
+        "finding",
+        "love",
+        "seas"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +391,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reefs",
+        "congregate",
+        "spawning",
+        "coral",
+        "countless",
+        "turning",
+        "pink",
+        "season",
+        "waters"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +411,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Luvdisc live in shallow seas in the tropics. This heart-shaped Pokémon earned its name by swimming after loving couples it spotted in the ocean’s waves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "couples",
+        "earned",
+        "loving",
+        "name",
+        "tropics",
+        "spotted",
+        "shallow",
+        "shaped",
+        "heart",
+        "ocean",
+        "swimming",
+        "seas"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +436,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Luvdisc’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pokémon is promised a loving relationship that never ends.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "romance",
+        "meeting",
+        "relationship",
+        "promised",
+        "couple",
+        "loving",
+        "symbol",
+        "ends",
+        "love",
+        "shaped",
+        "heart"
+      ]
     },
     {
       "versionId": 27,
@@ -182,7 +458,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "If a Luvdisc is left on its own, it becomes despondent, leaving itself open to attack. That is when Pelipper snatch them up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "despondent",
+        "snatch",
+        "pelipper",
+        "leaving",
+        "left",
+        "open"
+      ]
     },
     {
       "versionId": 28,
@@ -190,7 +475,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Loving couples have a soft spot for this Pokémon, so honeymoon hotels often release this Pokémon into their pools.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "honeymoon",
+        "hotels",
+        "couples",
+        "loving",
+        "pools",
+        "release",
+        "spot",
+        "soft"
+      ]
     },
     {
       "versionId": 29,
@@ -198,7 +494,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "There was an era when it was overfished due to the rumor that having one of its heart-shaped scales would enable you to find a sweetheart.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "overfished",
+        "sweetheart",
+        "rumor",
+        "era",
+        "due",
+        "having",
+        "enable",
+        "find",
+        "shaped",
+        "heart",
+        "scales"
+      ]
     },
     {
       "versionId": 30,
@@ -206,7 +516,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola’s branches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "reefs",
+        "especially",
+        "corsola",
+        "coral",
+        "sleeping",
+        "home",
+        "branches",
+        "between",
+        "space",
+        "likes",
+        "seas"
+      ]
     }
   ],
   "similarPokemonIds": [

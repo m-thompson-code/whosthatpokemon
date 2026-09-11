@@ -9,6 +9,97 @@
   ],
   "imagePath": "/assets/pokemon/361.png",
   "entryCount": 25,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "nocturnal",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "childhood",
+    "prosperous",
+    "stalactites",
+    "stalagmites",
+    "mainly",
+    "offer",
+    "country",
+    "custom",
+    "door",
+    "late",
+    "minus",
+    "snowfall",
+    "visit",
+    "caverns",
+    "limited",
+    "lump",
+    "tradition",
+    "tend",
+    "folklore",
+    "prosper",
+    "visited",
+    "survives",
+    "increased",
+    "midnight",
+    "harmony",
+    "says",
+    "arrive",
+    "happily",
+    "summer",
+    "150",
+    "alongside",
+    "memories",
+    "environments",
+    "seem",
+    "rapidly",
+    "numbers",
+    "homes",
+    "playing",
+    "generations",
+    "arrives",
+    "claims",
+    "rich",
+    "number",
+    "snowy",
+    "house",
+    "steals",
+    "certain",
+    "morning",
+    "withstand",
+    "five",
+    "bounces",
+    "might",
+    "giant",
+    "pure",
+    "several",
+    "seasons",
+    "alola",
+    "share",
+    "quietly",
+    "regions",
+    "houses",
+    "ll",
+    "survive",
+    "sure",
+    "feeds",
+    "front",
+    "home",
+    "spring",
+    "old",
+    "region",
+    "groups",
+    "able",
+    "areas",
+    "first",
+    "snow",
+    "among",
+    "fahrenheit",
+    "eating",
+    "places",
+    "thought",
+    "gather",
+    "heavy",
+    "eat"
+  ],
   "color": "gray",
   "shape": "humanoid",
   "habitat": "cave",
@@ -39,7 +130,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POKéMON steals away to live quietly among stalactites and stalagmites deep in caverns.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "stalactites",
+        "stalagmites",
+        "snowfall",
+        "caverns",
+        "summer",
+        "steals",
+        "seasons",
+        "quietly",
+        "regions",
+        "spring",
+        "snow",
+        "among",
+        "heavy"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +156,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SNORUNT survives by eating only snow and ice. Old folklore claims that a house visited by this POKéMON is sure to prosper for many generations to come.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "folklore",
+        "prosper",
+        "visited",
+        "survives",
+        "generations",
+        "claims",
+        "house",
+        "sure",
+        "old",
+        "snow",
+        "eating"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +181,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "They tend to move about in groups of around five SNORUNT. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "late",
+        "snowfall",
+        "tend",
+        "arrive",
+        "snowy",
+        "morning",
+        "five",
+        "regions",
+        "groups"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +203,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is said that a home visited by a SNORUNT will prosper. It can withstand cold of minus 150 degrees Fahrenheit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "minus",
+        "prosper",
+        "visited",
+        "150",
+        "withstand",
+        "home",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +224,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is said that a home visited by a SNORUNT will prosper. It can withstand cold of minus 150 degrees Fahrenheit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "minus",
+        "prosper",
+        "visited",
+        "150",
+        "withstand",
+        "home",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +245,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "In the snow country, certain folklore says a house will prosper if a SNORUNT lives there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "country",
+        "folklore",
+        "prosper",
+        "says",
+        "house",
+        "certain",
+        "snow"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +265,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "In the snow country, certain folklore says a house will prosper if a SNORUNT lives there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "country",
+        "folklore",
+        "prosper",
+        "says",
+        "house",
+        "certain",
+        "snow"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +285,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is said that several SNORUNT gather under giant leaves and live together in harmony.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "harmony",
+        "giant",
+        "several",
+        "gather"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +300,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s said that if they are seen at midnight, they’ll cause heavy snow. They eat snow and ice to survive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "midnight",
+        "ll",
+        "survive",
+        "snow",
+        "heavy",
+        "eat"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +320,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s said that if they are seen at midnight, they’ll cause heavy snow. They eat snow and ice to survive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "midnight",
+        "ll",
+        "survive",
+        "snow",
+        "heavy",
+        "eat"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +340,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "harmony",
+        "giant",
+        "several",
+        "gather"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +355,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "harmony",
+        "giant",
+        "several",
+        "gather"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +370,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "harmony",
+        "giant",
+        "several",
+        "gather"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +385,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "harmony",
+        "giant",
+        "several",
+        "gather"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +400,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "harmony",
+        "giant",
+        "several",
+        "gather"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +415,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "country",
+        "folklore",
+        "prosper",
+        "says",
+        "house",
+        "certain",
+        "snow"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +435,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "stalactites",
+        "stalagmites",
+        "snowfall",
+        "caverns",
+        "summer",
+        "steals",
+        "seasons",
+        "quietly",
+        "regions",
+        "spring",
+        "snow",
+        "among",
+        "heavy"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +461,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "folklore",
+        "prosper",
+        "visited",
+        "survives",
+        "generations",
+        "claims",
+        "house",
+        "sure",
+        "old",
+        "snow",
+        "eating"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +486,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Their numbers seem to have rapidly increased in Alola. Custom has it that houses where Snorunt live will be prosperous for generations to come.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "prosperous",
+        "custom",
+        "increased",
+        "seem",
+        "rapidly",
+        "numbers",
+        "generations",
+        "alola",
+        "houses"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +506,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It can only survive in cold areas. It bounces happily around, even in environments as cold as -150 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "happily",
+        "150",
+        "environments",
+        "bounces",
+        "survive",
+        "areas",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +527,23 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It feeds mainly on ice and snow. It’s only able to survive in a limited number of places in the warm Alola region.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "mainly",
+        "limited",
+        "number",
+        "alola",
+        "survive",
+        "feeds",
+        "region",
+        "able",
+        "snow",
+        "places"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +551,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Rich people from cold areas all share childhood memories of playing with Snorunt.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "childhood",
+        "memories",
+        "playing",
+        "rich",
+        "share",
+        "areas"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +571,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s said that if they are seen at midnight, they’ll cause heavy snow. They eat snow and ice to survive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "midnight",
+        "ll",
+        "survive",
+        "snow",
+        "heavy",
+        "eat"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +591,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "happily",
+        "150",
+        "environments",
+        "bounces",
+        "survive",
+        "areas",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 39,
@@ -231,7 +612,30 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Arrives alongside the first snow. It's thought that homes Snorunt visit will prosper for many generations. By tradition, one might offer a lump of ice made from pure water at one's front door.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "offer",
+        "door",
+        "visit",
+        "lump",
+        "tradition",
+        "prosper",
+        "alongside",
+        "homes",
+        "generations",
+        "arrives",
+        "might",
+        "pure",
+        "front",
+        "first",
+        "snow",
+        "thought"
+      ]
     }
   ],
   "similarPokemonIds": [

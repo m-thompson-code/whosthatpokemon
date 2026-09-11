@@ -10,6 +10,79 @@
   ],
   "imagePath": "/assets/pokemon/164.png",
   "entryCount": 25,
+  "entryTraits": [
+    "luminous",
+    "feathers",
+    "hunting",
+    "sonic",
+    "wings",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "emperor",
+    "grees",
+    "owe",
+    "tiniest",
+    "flips",
+    "de",
+    "detected",
+    "concentrate",
+    "engaged",
+    "intellectual",
+    "owes",
+    "troubled",
+    "silent",
+    "success",
+    "upside",
+    "sharpen",
+    "supple",
+    "specially",
+    "unfailingly",
+    "adapted",
+    "vision",
+    "complex",
+    "know",
+    "minimal",
+    "180",
+    "call",
+    "fails",
+    "pitch",
+    "rotates",
+    "superior",
+    "clearly",
+    "murky",
+    "thinking",
+    "sneaks",
+    "faint",
+    "peck",
+    "amount",
+    "catching",
+    "allows",
+    "pick",
+    "silently",
+    "think",
+    "catches",
+    "don",
+    "objects",
+    "needs",
+    "flight",
+    "sign",
+    "leave",
+    "feathers",
+    "enable",
+    "entirely",
+    "nights",
+    "soft",
+    "escape",
+    "something",
+    "turns",
+    "special",
+    "dark",
+    "lets",
+    "darkness",
+    "developed",
+    "extremely"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": "forest",
@@ -39,7 +112,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "concentrate",
+        "specially",
+        "adapted",
+        "faint",
+        "enable",
+        "dark"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +131,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "When it needs to think, it rotates its head 180 de­ grees to sharpen its intellectual power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grees",
+        "de",
+        "intellectual",
+        "sharpen",
+        "180",
+        "rotates",
+        "think",
+        "needs"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +150,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its extremely soft feathers make no sound in flight. It silently sneaks up on prey without being detected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers",
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "detected",
+        "sneaks",
+        "silently",
+        "flight",
+        "feathers",
+        "soft",
+        "extremely"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +172,27 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "NOCTOWL never fails at catching prey in darkness. This POKéMON owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "hunting",
+        "luminous",
+        "sonic"
+      ],
+      "keywords": [
+        "owes",
+        "success",
+        "supple",
+        "vision",
+        "minimal",
+        "fails",
+        "superior",
+        "catching",
+        "allows",
+        "flight",
+        "soft",
+        "darkness"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +200,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "NOCTOWL never fails at catching prey in darkness. This POKéMON owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "hunting",
+        "luminous",
+        "sonic"
+      ],
+      "keywords": [
+        "owes",
+        "success",
+        "supple",
+        "vision",
+        "minimal",
+        "fails",
+        "superior",
+        "catching",
+        "allows",
+        "flight",
+        "soft",
+        "darkness"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +228,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It unfailingly catches prey in darkness. NOCTOWL owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "owe",
+        "silent",
+        "success",
+        "supple",
+        "unfailingly",
+        "vision",
+        "minimal",
+        "superior",
+        "allows",
+        "catches",
+        "darkness"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +254,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intellectual",
+        "sharpen",
+        "180",
+        "rotates",
+        "think",
+        "needs"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +271,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "concentrate",
+        "specially",
+        "adapted",
+        "faint",
+        "enable",
+        "dark"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +290,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its eyes are special. They can pick out objects as long as there is the tiniest amount of light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "tiniest",
+        "amount",
+        "pick",
+        "objects",
+        "special"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +308,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "If it flips its head upside down, it’s a sign that it is engaged in very complex thinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flips",
+        "engaged",
+        "upside",
+        "complex",
+        "thinking",
+        "sign"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +325,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "specially",
+        "minimal",
+        "clearly",
+        "murky",
+        "enable",
+        "darkness",
+        "developed"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +345,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "concentrate",
+        "specially",
+        "adapted",
+        "faint",
+        "enable",
+        "dark"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +364,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intellectual",
+        "sharpen",
+        "180",
+        "rotates",
+        "think",
+        "needs"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +381,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "specially",
+        "minimal",
+        "clearly",
+        "murky",
+        "enable",
+        "darkness",
+        "developed"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +401,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "specially",
+        "minimal",
+        "clearly",
+        "murky",
+        "enable",
+        "darkness",
+        "developed"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +421,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "specially",
+        "minimal",
+        "clearly",
+        "murky",
+        "enable",
+        "darkness",
+        "developed"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +441,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "specially",
+        "minimal",
+        "clearly",
+        "murky",
+        "enable",
+        "darkness",
+        "developed"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +461,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "concentrate",
+        "specially",
+        "adapted",
+        "faint",
+        "enable",
+        "dark"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +480,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intellectual",
+        "sharpen",
+        "180",
+        "rotates",
+        "think",
+        "needs"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +497,27 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "hunting",
+        "luminous",
+        "sonic"
+      ],
+      "keywords": [
+        "owes",
+        "success",
+        "supple",
+        "vision",
+        "minimal",
+        "fails",
+        "superior",
+        "catching",
+        "allows",
+        "flight",
+        "soft",
+        "darkness"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +525,27 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings",
+        "hunting",
+        "luminous",
+        "sonic"
+      ],
+      "keywords": [
+        "owes",
+        "success",
+        "supple",
+        "vision",
+        "minimal",
+        "fails",
+        "superior",
+        "catching",
+        "allows",
+        "flight",
+        "soft",
+        "darkness"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +553,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "With eyes that can see in pitch-darkness, it never lets its prey escape. Some even call it “the emperor of dark nights.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "emperor",
+        "call",
+        "pitch",
+        "nights",
+        "escape",
+        "dark",
+        "lets",
+        "darkness"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +575,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it turns its head entirely upside down, you know it’s troubled by something. If you don’t leave it be, it will peck you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "troubled",
+        "upside",
+        "know",
+        "peck",
+        "don",
+        "leave",
+        "entirely",
+        "something",
+        "turns"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +595,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "specially",
+        "minimal",
+        "clearly",
+        "murky",
+        "enable",
+        "darkness",
+        "developed"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +615,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intellectual",
+        "sharpen",
+        "180",
+        "rotates",
+        "think",
+        "needs"
+      ]
     }
   ],
   "similarPokemonIds": [

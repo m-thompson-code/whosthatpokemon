@@ -9,6 +9,44 @@
   ],
   "imagePath": "/assets/pokemon/253.png",
   "entryCount": 18,
+  "entryTraits": [
+    "forest-dwelling",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "camouflaging",
+    "obscure",
+    "thigh",
+    "thickly",
+    "overgrown",
+    "convenient",
+    "hope",
+    "performance",
+    "climbing",
+    "fleeing",
+    "adeptly",
+    "astounding",
+    "jumping",
+    "swiftly",
+    "agility",
+    "closing",
+    "dense",
+    "jungles",
+    "strongly",
+    "master",
+    "leaps",
+    "quite",
+    "shows",
+    "growing",
+    "branch",
+    "ever",
+    "help",
+    "forest",
+    "catch",
+    "fast",
+    "developed",
+    "muscles"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": "forest",
@@ -39,7 +77,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The leaves growing out of GROVYLE’s body are convenient for camouflaging it from enemies in the forest. This POKéMON is a master at climbing trees in jungles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "camouflaging",
+        "convenient",
+        "climbing",
+        "jungles",
+        "master",
+        "growing",
+        "forest"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +97,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON adeptly flies from branch to branch in trees. In a forest, no POKéMON can ever hope to catch a fleeing GROVYLE however fast they may be.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "hope",
+        "fleeing",
+        "adeptly",
+        "branch",
+        "ever",
+        "forest",
+        "catch",
+        "fast"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +118,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Leaves grow out of this POKéMON’s body. They help obscure a GROVYLE from the eyes of its enemies while it is in a thickly overgrown forest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "obscure",
+        "thickly",
+        "overgrown",
+        "help",
+        "forest"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +136,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thigh",
+        "performance",
+        "astounding",
+        "jumping",
+        "agility",
+        "strongly",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +155,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thigh",
+        "performance",
+        "astounding",
+        "jumping",
+        "agility",
+        "strongly",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +174,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "closing",
+        "dense",
+        "jungles",
+        "leaps",
+        "branch"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +192,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "closing",
+        "dense",
+        "jungles",
+        "leaps",
+        "branch"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +210,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "closing",
+        "dense",
+        "jungles",
+        "leaps",
+        "branch"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +228,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "astounding",
+        "swiftly",
+        "agility",
+        "leaps",
+        "quite",
+        "shows",
+        "branch"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +248,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "astounding",
+        "swiftly",
+        "agility",
+        "leaps",
+        "quite",
+        "shows",
+        "branch"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +268,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "closing",
+        "dense",
+        "jungles",
+        "leaps",
+        "branch"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +286,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "closing",
+        "dense",
+        "jungles",
+        "leaps",
+        "branch"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +304,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "closing",
+        "dense",
+        "jungles",
+        "leaps",
+        "branch"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +322,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "closing",
+        "dense",
+        "jungles",
+        "leaps",
+        "branch"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +340,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thigh",
+        "performance",
+        "astounding",
+        "jumping",
+        "agility",
+        "strongly",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +359,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "closing",
+        "dense",
+        "jungles",
+        "leaps",
+        "branch"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +377,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The leaves growing out of Grovyle’s body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "camouflaging",
+        "convenient",
+        "climbing",
+        "jungles",
+        "master",
+        "growing",
+        "forest"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +397,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "hope",
+        "fleeing",
+        "adeptly",
+        "branch",
+        "ever",
+        "forest",
+        "catch",
+        "fast"
+      ]
     }
   ],
   "similarPokemonIds": [

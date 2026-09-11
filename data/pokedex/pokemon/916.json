@@ -9,6 +9,23 @@
   ],
   "imagePath": "/assets/pokemon/916.png",
   "entryCount": 2,
+  "entryTraits": [
+    "tail"
+  ],
+  "entryKeywords": [
+    "entrances",
+    "concentrated",
+    "alluring",
+    "glossy",
+    "wafts",
+    "proud",
+    "female",
+    "fine",
+    "scent",
+    "emits",
+    "skin",
+    "tip"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +55,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "concentrated",
+        "glossy",
+        "proud",
+        "fine",
+        "scent",
+        "emits",
+        "skin",
+        "tip"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +76,15 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "entrances",
+        "alluring",
+        "wafts",
+        "female",
+        "scent"
+      ]
     }
   ],
   "similarPokemonIds": [

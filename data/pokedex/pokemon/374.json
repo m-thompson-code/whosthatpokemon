@@ -10,6 +10,76 @@
   ],
   "imagePath": "/assets/pokemon/374.png",
   "entryCount": 24,
+  "entryTraits": [
+    "mountain-dwelling",
+    "sleeping",
+    "aquatic",
+    "claws"
+  ],
+  "entryKeywords": [
+    "skewered",
+    "traction",
+    "magnets",
+    "anchors",
+    "cliff",
+    "controlled",
+    "range",
+    "converses",
+    "magnet",
+    "converse",
+    "letting",
+    "machines",
+    "forces",
+    "generated",
+    "pulses",
+    "sending",
+    "unison",
+    "hooks",
+    "flows",
+    "slashes",
+    "courses",
+    "generating",
+    "pulls",
+    "material",
+    "flow",
+    "burst",
+    "rapidly",
+    "anger",
+    "rampage",
+    "perfect",
+    "giving",
+    "floating",
+    "earth",
+    "throughout",
+    "bad",
+    "communicates",
+    "composed",
+    "repels",
+    "magnetism",
+    "natural",
+    "nearby",
+    "feeling",
+    "float",
+    "swarm",
+    "causing",
+    "instead",
+    "communicate",
+    "break",
+    "blood",
+    "do",
+    "magnetic",
+    "try",
+    "re",
+    "cells",
+    "rear",
+    "brain",
+    "keeps",
+    "force",
+    "sleeps",
+    "emits",
+    "gather",
+    "close"
+  ],
   "color": "blue",
   "shape": "blob",
   "habitat": "rough-terrain",
@@ -39,7 +109,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Instead of blood, a powerful magnetic force courses throughout BELDUM’s body. This POKéMON communicates with others by sending controlled pulses of magnetism.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "controlled",
+        "pulses",
+        "sending",
+        "courses",
+        "throughout",
+        "communicates",
+        "magnetism",
+        "instead",
+        "blood",
+        "magnetic",
+        "force"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +131,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BELDUM keeps itself floating by generating a magnetic force that repels earth’s natural magnetism. When it sleeps, this POKéMON anchors itself to a cliff using the hooks on its rear.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "anchors",
+        "cliff",
+        "hooks",
+        "generating",
+        "floating",
+        "earth",
+        "repels",
+        "magnetism",
+        "natural",
+        "magnetic",
+        "rear",
+        "keeps",
+        "force",
+        "sleeps"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +159,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When BELDUM gather in a swarm, they move in perfect unison as if they were but one POKéMON. They communicate with each other using brain waves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "unison",
+        "perfect",
+        "swarm",
+        "communicate",
+        "brain",
+        "gather"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +178,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It uses magnetic waves to converse with its kind. All the cells in its body are magnetic.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "converse",
+        "magnetic",
+        "cells"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +194,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It uses magnetic waves to converse with its kind. All the cells in its body are magnetic.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "converse",
+        "magnetic",
+        "cells"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +210,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converses",
+        "pulses",
+        "unison",
+        "perfect",
+        "swarm",
+        "magnetic"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +227,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converses",
+        "pulses",
+        "unison",
+        "perfect",
+        "swarm",
+        "magnetic"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +244,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converses",
+        "pulses",
+        "unison",
+        "perfect",
+        "swarm",
+        "magnetic"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +261,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The magnetic force generated by its body repels the ground’s natural magnetism, letting it float.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "letting",
+        "generated",
+        "repels",
+        "magnetism",
+        "natural",
+        "float",
+        "magnetic",
+        "force"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +280,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The magnetic force generated by its body repels the ground’s natural magnetism, letting it float.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "letting",
+        "generated",
+        "repels",
+        "magnetism",
+        "natural",
+        "float",
+        "magnetic",
+        "force"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +299,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converses",
+        "pulses",
+        "unison",
+        "perfect",
+        "swarm",
+        "magnetic"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +316,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converses",
+        "pulses",
+        "unison",
+        "perfect",
+        "swarm",
+        "magnetic"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +333,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its cells are all magnetic, and it communicates with others by using magnetic pulses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pulses",
+        "communicates",
+        "magnetic",
+        "cells"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +348,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its cells are all magnetic, and it communicates with others by using magnetic pulses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pulses",
+        "communicates",
+        "magnetic",
+        "cells"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +363,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The magnetic force generated by its body repels the ground’s natural magnetism, letting it float.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "letting",
+        "generated",
+        "repels",
+        "magnetism",
+        "natural",
+        "float",
+        "magnetic",
+        "force"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +382,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converses",
+        "pulses",
+        "unison",
+        "perfect",
+        "swarm",
+        "magnetic"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +399,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Instead of blood, a powerful magnetic force courses throughout Beldum’s body. This Pokémon communicates with others by sending controlled pulses of magnetism.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "controlled",
+        "pulses",
+        "sending",
+        "courses",
+        "throughout",
+        "communicates",
+        "magnetism",
+        "instead",
+        "blood",
+        "magnetic",
+        "force"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +421,27 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Beldum keeps itself floating by generating a magnetic force that repels earth’s natural magnetism. When it sleeps, this Pokémon anchors itself to a cliff using the hooks on its rear.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "anchors",
+        "cliff",
+        "hooks",
+        "generating",
+        "floating",
+        "earth",
+        "repels",
+        "magnetism",
+        "natural",
+        "magnetic",
+        "rear",
+        "keeps",
+        "force",
+        "sleeps"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +449,14 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its cells are all magnets. It uses magnetism to communicate with others of its kind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "magnets",
+        "magnetism",
+        "communicate",
+        "cells"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +464,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "With magnetic traction, it pulls its opponents in close. When they’re in range, it slashes them with its rear claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "traction",
+        "range",
+        "slashes",
+        "pulls",
+        "magnetic",
+        "re",
+        "rear",
+        "close"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +485,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Instead of blood, magnetism flows through its body. When it’s feeling bad, try giving it a magnet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "magnet",
+        "flows",
+        "giving",
+        "bad",
+        "magnetism",
+        "feeling",
+        "instead",
+        "blood",
+        "try"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +505,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If you anger it, it will do more than rampage. It will also burst out strong magnetism, causing nearby machines to break.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "machines",
+        "burst",
+        "anger",
+        "rampage",
+        "magnetism",
+        "nearby",
+        "causing",
+        "break",
+        "do"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +525,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "From its rear, Beldum emits a magnetic force that rapidly pulls opponents in. They get skewered on Beldum’s sharp claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "skewered",
+        "pulls",
+        "rapidly",
+        "magnetic",
+        "rear",
+        "force",
+        "emits"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +545,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The cells in this Pokémon’s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum’s body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "forces",
+        "material",
+        "flow",
+        "composed",
+        "instead",
+        "blood",
+        "magnetic",
+        "cells"
+      ]
     }
   ],
   "similarPokemonIds": [

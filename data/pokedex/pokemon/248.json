@@ -10,6 +10,60 @@
   ],
   "imagePath": "/assets/pokemon/248.png",
   "entryCount": 25,
+  "entryTraits": [
+    "arms",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "crumbled",
+    "moun",
+    "insolent",
+    "mobile",
+    "landscape",
+    "tains",
+    "quakes",
+    "harmed",
+    "overwhelmingly",
+    "destroyed",
+    "ignores",
+    "maps",
+    "redrawn",
+    "worthy",
+    "crumble",
+    "eager",
+    "terrain",
+    "knocks",
+    "disaster",
+    "afterward",
+    "challenges",
+    "roams",
+    "wake",
+    "sort",
+    "buries",
+    "rampages",
+    "mighty",
+    "caused",
+    "leaving",
+    "shake",
+    "wanders",
+    "surrounding",
+    "seeking",
+    "houses",
+    "bring",
+    "great",
+    "rivers",
+    "walks",
+    "care",
+    "finds",
+    "hands",
+    "change",
+    "against",
+    "new",
+    "mountain",
+    "whole",
+    "nature",
+    "extremely"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": "mountain",
@@ -39,7 +93,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harmed",
+        "eager",
+        "challenges",
+        "sort",
+        "against"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +109,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "insolent",
+        "landscape",
+        "care",
+        "change",
+        "nature",
+        "extremely"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +126,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "In just one of its mighty hands, it has the power to make the ground shake and moun­ tains crumble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "moun",
+        "tains",
+        "crumble",
+        "mighty",
+        "shake",
+        "hands"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +145,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "overwhelmingly",
+        "wanders",
+        "seeking",
+        "bring",
+        "new",
+        "mountain",
+        "whole"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +165,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "overwhelmingly",
+        "wanders",
+        "seeking",
+        "bring",
+        "new",
+        "mountain",
+        "whole"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +185,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "overwhelmingly",
+        "roams",
+        "seeking",
+        "bring",
+        "new",
+        "mountain",
+        "whole"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +205,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harmed",
+        "eager",
+        "challenges",
+        "sort",
+        "against"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +221,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harmed",
+        "eager",
+        "challenges",
+        "sort",
+        "against"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +237,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "maps",
+        "redrawn",
+        "knocks",
+        "afterward",
+        "buries",
+        "rampages",
+        "rivers"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +257,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "maps",
+        "redrawn",
+        "knocks",
+        "afterward",
+        "buries",
+        "rampages",
+        "rivers"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +277,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "maps",
+        "redrawn",
+        "knocks",
+        "afterward",
+        "buries",
+        "rampages",
+        "rivers"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +297,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harmed",
+        "eager",
+        "challenges",
+        "sort",
+        "against"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +313,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "insolent",
+        "landscape",
+        "care",
+        "change",
+        "nature",
+        "extremely"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +330,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "maps",
+        "redrawn",
+        "knocks",
+        "afterward",
+        "buries",
+        "rampages",
+        "rivers"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +350,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "maps",
+        "redrawn",
+        "knocks",
+        "afterward",
+        "buries",
+        "rampages",
+        "rivers"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +370,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "quakes",
+        "crumble",
+        "terrain",
+        "caused",
+        "surrounding",
+        "great",
+        "walks",
+        "change"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +391,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "quakes",
+        "crumble",
+        "terrain",
+        "caused",
+        "surrounding",
+        "great",
+        "walks",
+        "change"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +412,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "crumble",
+        "mighty",
+        "shake",
+        "hands"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +430,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "maps",
+        "redrawn",
+        "knocks",
+        "afterward",
+        "buries",
+        "rampages",
+        "rivers"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +450,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "overwhelmingly",
+        "wanders",
+        "seeking",
+        "bring",
+        "new",
+        "mountain",
+        "whole"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +470,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "overwhelmingly",
+        "wanders",
+        "seeking",
+        "bring",
+        "new",
+        "mountain",
+        "whole"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +490,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It wanders through the mountains seeking opponents to fight. If it finds an opponent that’s not worthy, Tyranitar ignores it and wanders on.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "ignores",
+        "worthy",
+        "wanders",
+        "seeking",
+        "finds"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +508,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon is a mobile disaster, leaving mountains crumbled and houses destroyed in its wake.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "crumbled",
+        "mobile",
+        "destroyed",
+        "disaster",
+        "wake",
+        "leaving",
+        "houses"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +528,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harmed",
+        "eager",
+        "challenges",
+        "sort",
+        "against"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +544,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "quakes",
+        "crumble",
+        "terrain",
+        "caused",
+        "surrounding",
+        "great",
+        "walks",
+        "change"
+      ]
     }
   ],
   "similarPokemonIds": [

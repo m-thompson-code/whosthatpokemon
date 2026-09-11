@@ -9,6 +9,90 @@
   ],
   "imagePath": "/assets/pokemon/097.png",
   "entryCount": 30,
+  "entryTraits": [
+    "sleeping",
+    "arms",
+    "hunting",
+    "sonic",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "assist",
+    "doctors",
+    "harms",
+    "komala",
+    "patients",
+    "savior",
+    "confusion",
+    "effects",
+    "psi",
+    "device",
+    "arcing",
+    "feasts",
+    "hospitals",
+    "hypnotized",
+    "incident",
+    "meets",
+    "took",
+    "last",
+    "course",
+    "locks",
+    "polishes",
+    "steady",
+    "hypnosis",
+    "woke",
+    "main",
+    "holding",
+    "taste",
+    "drowsiness",
+    "searching",
+    "seconds",
+    "lull",
+    "mix",
+    "call",
+    "induce",
+    "pendulum",
+    "hungry",
+    "glitter",
+    "need",
+    "swinging",
+    "put",
+    "target",
+    "contact",
+    "swings",
+    "state",
+    "child",
+    "nearby",
+    "rhythm",
+    "dream",
+    "alola",
+    "puts",
+    "searches",
+    "longer",
+    "movement",
+    "seeing",
+    "dangerous",
+    "dreams",
+    "eye",
+    "hand",
+    "having",
+    "someone",
+    "holds",
+    "asleep",
+    "fall",
+    "humans",
+    "try",
+    "matter",
+    "rarely",
+    "avoid",
+    "carries",
+    "causes",
+    "anyone",
+    "across",
+    "good",
+    "rocks",
+    "extremely"
+  ],
   "color": "yellow",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -38,7 +122,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "confusion",
+        "psi",
+        "locks",
+        "hypnosis",
+        "mix"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +138,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "confusion",
+        "psi",
+        "locks",
+        "hypnosis",
+        "mix"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +154,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "pendulum",
+        "put",
+        "contact",
+        "eye",
+        "try",
+        "avoid",
+        "across"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +174,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "feasts",
+        "meets",
+        "hungry",
+        "puts",
+        "dreams",
+        "humans"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +193,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Always holding a pendulum that it rocks at a steady rhythm, it causes drowsiness in any­ one nearby.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "steady",
+        "holding",
+        "drowsiness",
+        "pendulum",
+        "nearby",
+        "rhythm",
+        "causes",
+        "rocks"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +212,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The longer it swings its pendulum, the longer the effects of its hypnosis last.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "effects",
+        "last",
+        "hypnosis",
+        "pendulum",
+        "swings",
+        "longer"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +229,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "HYPNO holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this POKéMON searches for prey, it polishes the pendulum.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "arcing",
+        "polishes",
+        "hypnosis",
+        "lull",
+        "pendulum",
+        "glitter",
+        "state",
+        "searches",
+        "movement",
+        "hand",
+        "holds"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +254,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "HYPNO holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this POKéMON searches for prey, it polishes the pendulum.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "arcing",
+        "polishes",
+        "hypnosis",
+        "lull",
+        "pendulum",
+        "glitter",
+        "state",
+        "searches",
+        "movement",
+        "hand",
+        "holds"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +279,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The arcing movement and glitter of the pendulum in a HYPNO’s hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "arcing",
+        "polishes",
+        "hypnosis",
+        "searching",
+        "lull",
+        "pendulum",
+        "glitter",
+        "movement",
+        "hand"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +302,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "device",
+        "hypnotized",
+        "incident",
+        "took",
+        "pendulum",
+        "child",
+        "carries"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +320,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "confusion",
+        "psi",
+        "locks",
+        "hypnosis",
+        "mix"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +336,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "woke",
+        "seconds",
+        "induce",
+        "pendulum",
+        "swinging",
+        "seeing",
+        "someone"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +356,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "woke",
+        "seconds",
+        "induce",
+        "pendulum",
+        "swinging",
+        "seeing",
+        "someone"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +376,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "woke",
+        "seconds",
+        "induce",
+        "pendulum",
+        "swinging",
+        "seeing",
+        "someone"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +396,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "feasts",
+        "meets",
+        "hungry",
+        "puts",
+        "dreams",
+        "humans"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +415,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "steady",
+        "holding",
+        "drowsiness",
+        "pendulum",
+        "swings",
+        "nearby",
+        "rhythm",
+        "causes",
+        "anyone"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +435,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "woke",
+        "seconds",
+        "induce",
+        "pendulum",
+        "swinging",
+        "seeing",
+        "someone"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +455,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "woke",
+        "seconds",
+        "induce",
+        "pendulum",
+        "swinging",
+        "seeing",
+        "someone"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +475,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "woke",
+        "seconds",
+        "induce",
+        "pendulum",
+        "swinging",
+        "seeing",
+        "someone"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +495,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "woke",
+        "seconds",
+        "induce",
+        "pendulum",
+        "swinging",
+        "seeing",
+        "someone"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +515,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "device",
+        "hypnotized",
+        "incident",
+        "took",
+        "pendulum",
+        "child",
+        "carries"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +533,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "woke",
+        "seconds",
+        "induce",
+        "pendulum",
+        "swinging",
+        "seeing",
+        "someone"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +553,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "arcing",
+        "polishes",
+        "hypnosis",
+        "lull",
+        "pendulum",
+        "glitter",
+        "state",
+        "searches",
+        "movement",
+        "hand",
+        "holds"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +578,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "arcing",
+        "polishes",
+        "hypnosis",
+        "lull",
+        "pendulum",
+        "glitter",
+        "state",
+        "searches",
+        "movement",
+        "hand",
+        "holds"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +603,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "While it is an extremely dangerous Pokémon, people who are in need of a good, sound sleep call it their savior.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "sonic"
+      ],
+      "keywords": [
+        "savior",
+        "call",
+        "need",
+        "dangerous",
+        "good",
+        "extremely"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +623,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "As a matter of course, it makes anyone it meets fall asleep and has a taste of their dreams. Anyone having a good dream, it carries off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "meets",
+        "course",
+        "taste",
+        "dream",
+        "dreams",
+        "having",
+        "asleep",
+        "fall",
+        "matter",
+        "carries",
+        "anyone",
+        "good"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +646,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "In Alola, Komala is Hypno’s main target. It rarely harms people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "harms",
+        "komala",
+        "main",
+        "target",
+        "alola",
+        "rarely"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +663,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "There are some Hypno that assist doctors with patients who can’t sleep at night in hospitals.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "assist",
+        "doctors",
+        "patients",
+        "hospitals"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +681,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "pendulum",
+        "put",
+        "contact",
+        "eye",
+        "try",
+        "avoid",
+        "across"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +701,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "pendulum",
+        "put",
+        "contact",
+        "eye",
+        "try",
+        "avoid",
+        "across"
+      ]
     }
   ],
   "similarPokemonIds": [

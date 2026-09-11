@@ -10,6 +10,73 @@
   ],
   "imagePath": "/assets/pokemon/139.png",
   "entryCount": 30,
+  "entryTraits": [
+    "shell",
+    "hunting",
+    "beak",
+    "fangs",
+    "arms"
+  ],
+  "entryKeywords": [
+    "weighed",
+    "cracked",
+    "couldn",
+    "allowed",
+    "tearing",
+    "beaks",
+    "ponderous",
+    "sucked",
+    "octillery",
+    "prehistoric",
+    "insides",
+    "died",
+    "ensnares",
+    "wrapped",
+    "ring",
+    "immobilize",
+    "capture",
+    "distant",
+    "finishes",
+    "went",
+    "ancestor",
+    "rings",
+    "unable",
+    "spiral",
+    "slow",
+    "nearby",
+    "grew",
+    "crush",
+    "believed",
+    "soon",
+    "bites",
+    "extinct",
+    "having",
+    "impossible",
+    "reach",
+    "wraps",
+    "beak",
+    "shellder",
+    "causing",
+    "despite",
+    "became",
+    "say",
+    "hands",
+    "tentacles",
+    "reason",
+    "catch",
+    "within",
+    "movements",
+    "lets",
+    "highly",
+    "fast",
+    "freely",
+    "rock",
+    "thought",
+    "big",
+    "heavy",
+    "apparently",
+    "developed"
+  ],
   "color": "blue",
   "shape": "tentacles",
   "habitat": "sea",
@@ -40,7 +107,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "prehistoric",
+        "died",
+        "impossible",
+        "catch",
+        "heavy"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +126,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "prehistoric",
+        "died",
+        "impossible",
+        "catch",
+        "heavy"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +145,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "shell"
+      ],
+      "keywords": [
+        "beaks",
+        "ring",
+        "extinct",
+        "became",
+        "freely",
+        "big"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +165,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Apparently, it cracked SHELLDER's shell with its sharp fangs and sucked out the insides.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "shell"
+      ],
+      "keywords": [
+        "cracked",
+        "sucked",
+        "insides",
+        "shellder",
+        "apparently"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +184,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "tearing",
+        "wrapped",
+        "lets"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +201,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its heavy shell allowed it to reach only nearby food. This could be the reason it is extinct.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "allowed",
+        "nearby",
+        "extinct",
+        "reach",
+        "reason",
+        "heavy"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +220,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "ponderous",
+        "capture",
+        "slow",
+        "grew",
+        "believed",
+        "extinct",
+        "causing",
+        "tentacles",
+        "movements",
+        "heavy"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +244,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "ponderous",
+        "capture",
+        "slow",
+        "grew",
+        "believed",
+        "extinct",
+        "causing",
+        "tentacles",
+        "movements",
+        "heavy"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +268,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "An OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "ponderous",
+        "capture",
+        "slow",
+        "grew",
+        "believed",
+        "extinct",
+        "tentacles",
+        "movements"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +290,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "ensnares",
+        "soon",
+        "bites",
+        "hands",
+        "tentacles",
+        "highly",
+        "developed"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +311,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Despite having strong fangs and tentacles, it went extinct when its heavy shell made it unable to catch prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "went",
+        "unable",
+        "extinct",
+        "having",
+        "despite",
+        "tentacles",
+        "catch",
+        "heavy"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +334,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spiral",
+        "grew",
+        "extinct",
+        "became",
+        "thought"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +352,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spiral",
+        "grew",
+        "extinct",
+        "became",
+        "thought"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +370,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spiral",
+        "grew",
+        "extinct",
+        "became",
+        "thought"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +388,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Apparently, it cracked SHELLDER’s shell with its sharp fangs and sucked out the insides.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "shell"
+      ],
+      "keywords": [
+        "cracked",
+        "sucked",
+        "insides",
+        "shellder",
+        "apparently"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +407,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "tearing",
+        "wrapped",
+        "lets"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +424,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spiral",
+        "grew",
+        "extinct",
+        "became",
+        "thought"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +442,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spiral",
+        "grew",
+        "extinct",
+        "became",
+        "thought"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +460,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spiral",
+        "grew",
+        "extinct",
+        "became",
+        "thought"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +478,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spiral",
+        "grew",
+        "extinct",
+        "became",
+        "thought"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +496,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "ensnares",
+        "soon",
+        "bites",
+        "hands",
+        "tentacles",
+        "highly",
+        "developed"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +517,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "tearing",
+        "wrapped",
+        "lets"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +534,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "ponderous",
+        "capture",
+        "slow",
+        "grew",
+        "believed",
+        "extinct",
+        "causing",
+        "tentacles",
+        "movements",
+        "heavy"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +558,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "ponderous",
+        "capture",
+        "slow",
+        "grew",
+        "believed",
+        "extinct",
+        "causing",
+        "tentacles",
+        "movements",
+        "heavy"
+      ]
     },
     {
       "versionId": 29,
@@ -232,7 +582,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its heavy shell is thought to be the reason this ancient Pokémon died out. It’s apparently a distant ancestor of Octillery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "octillery",
+        "died",
+        "distant",
+        "ancestor",
+        "reason",
+        "thought",
+        "heavy",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -240,7 +603,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It wraps its prey in its tentacles to immobilize them and then finishes them off with its sharp fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "immobilize",
+        "finishes",
+        "wraps",
+        "tentacles"
+      ]
     },
     {
       "versionId": 31,
@@ -248,7 +621,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "shell"
+      ],
+      "keywords": [
+        "rings",
+        "extinct",
+        "beak",
+        "became",
+        "freely",
+        "big"
+      ]
     },
     {
       "versionId": 32,
@@ -256,7 +641,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "shell"
+      ],
+      "keywords": [
+        "rings",
+        "extinct",
+        "beak",
+        "became",
+        "freely",
+        "big"
+      ]
     },
     {
       "versionId": 33,
@@ -264,7 +661,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Weighed down by a large and heavy shell, Omastar couldn’t move very fast. Some say it went extinct because it was unable to catch food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "weighed",
+        "couldn",
+        "went",
+        "unable",
+        "extinct",
+        "say",
+        "catch",
+        "fast",
+        "heavy"
+      ]
     },
     {
       "versionId": 34,
@@ -272,7 +683,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "crush",
+        "reach",
+        "tentacles",
+        "within",
+        "rock"
+      ]
     }
   ],
   "similarPokemonIds": [

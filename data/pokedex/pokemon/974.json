@@ -9,6 +9,29 @@
   ],
   "imagePath": "/assets/pokemon/974.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "pods",
+    "wailmer",
+    "minerals",
+    "related",
+    "closely",
+    "individuals",
+    "began",
+    "five",
+    "frigid",
+    "regions",
+    "species",
+    "left",
+    "seems",
+    "snow",
+    "ocean",
+    "living"
+  ],
   "color": "white",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +61,21 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wailmer",
+        "related",
+        "closely",
+        "began",
+        "species",
+        "left",
+        "seems",
+        "ocean",
+        "living"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +83,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "pods",
+        "minerals",
+        "individuals",
+        "five",
+        "frigid",
+        "regions",
+        "snow"
+      ]
     }
   ],
   "similarPokemonIds": [

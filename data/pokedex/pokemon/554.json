@@ -9,6 +9,43 @@
   ],
   "imagePath": "/assets/pokemon/554.png",
   "entryCount": 10,
+  "entryTraits": [
+    "fiery",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "diminishes",
+    "derives",
+    "pushed",
+    "pulled",
+    "droppings",
+    "dwindles",
+    "clothes",
+    "pulls",
+    "fortune",
+    "symbol",
+    "burning",
+    "immediately",
+    "put",
+    "limbs",
+    "calm",
+    "internal",
+    "themselves",
+    "f",
+    "falls",
+    "1",
+    "asleep",
+    "fall",
+    "cannot",
+    "matter",
+    "popular",
+    "runs",
+    "100",
+    "sleeps",
+    "fahrenheit",
+    "good",
+    "hot"
+  ],
   "color": "red",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +75,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "diminishes",
+        "burning",
+        "calm",
+        "internal",
+        "falls",
+        "asleep",
+        "cannot",
+        "runs"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +96,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Darumaka’s droppings are hot, so people used to put them in their clothes to keep themselves warm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "droppings",
+        "clothes",
+        "put",
+        "themselves",
+        "hot"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +114,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "fiery"
+      ],
+      "keywords": [
+        "pulls",
+        "limbs",
+        "internal",
+        "f",
+        "1",
+        "100",
+        "sleeps"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +135,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "fiery"
+      ],
+      "keywords": [
+        "pulls",
+        "limbs",
+        "internal",
+        "f",
+        "1",
+        "100",
+        "sleeps"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +156,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Darumaka’s droppings are hot, so people used to put them in their clothes to keep themselves warm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "droppings",
+        "clothes",
+        "put",
+        "themselves",
+        "hot"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +174,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "fiery"
+      ],
+      "keywords": [
+        "pulls",
+        "limbs",
+        "internal",
+        "1",
+        "100",
+        "sleeps",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +195,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Darumaka’s droppings are hot, so people used to put them in their clothes to keep themselves warm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "droppings",
+        "clothes",
+        "put",
+        "themselves",
+        "hot"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +213,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "fiery"
+      ],
+      "keywords": [
+        "pulls",
+        "limbs",
+        "internal",
+        "1",
+        "100",
+        "sleeps",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +234,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "derives",
+        "dwindles",
+        "burning",
+        "immediately",
+        "asleep",
+        "fall"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +253,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "pushed",
+        "pulled",
+        "fortune",
+        "symbol",
+        "fall",
+        "matter",
+        "popular",
+        "good"
+      ]
     }
   ],
   "similarPokemonIds": [

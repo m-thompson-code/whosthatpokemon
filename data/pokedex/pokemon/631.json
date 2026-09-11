@@ -9,6 +9,41 @@
   ],
   "imagePath": "/assets/pokemon/631.png",
   "entryCount": 10,
+  "entryTraits": [
+    "tail",
+    "hunting",
+    "fiery",
+    "sky-dwelling",
+    "shell"
+  ],
+  "entryKeywords": [
+    "blocked",
+    "melting",
+    "tongues",
+    "devour",
+    "durant",
+    "transforms",
+    "insides",
+    "consume",
+    "ill",
+    "burning",
+    "melts",
+    "draw",
+    "breathes",
+    "allows",
+    "draws",
+    "serves",
+    "needs",
+    "hole",
+    "burn",
+    "internal",
+    "fall",
+    "tongue",
+    "flame",
+    "burns",
+    "hot",
+    "covered"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +73,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "durant",
+        "breathes",
+        "hole",
+        "internal",
+        "burns"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +93,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Using their very hot, flame-covered tongues, they burn through Durant’s steel bodies and consume their insides.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "tongues",
+        "durant",
+        "insides",
+        "consume",
+        "burn",
+        "flame",
+        "hot",
+        "covered"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +114,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "durant",
+        "transforms",
+        "melts",
+        "draws",
+        "tongue"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +134,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "durant",
+        "transforms",
+        "melts",
+        "draws",
+        "tongue"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +154,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Using their very hot, flame-covered tongues, they burn through Durant’s steel bodies and consume their insides.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "tongues",
+        "durant",
+        "insides",
+        "consume",
+        "burn",
+        "flame",
+        "hot",
+        "covered"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +175,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "durant",
+        "transforms",
+        "melts",
+        "draws",
+        "tongue"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +195,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Using their very hot, flame-covered tongues, they burn through Durant’s steel bodies and consume their insides.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "tongues",
+        "durant",
+        "insides",
+        "consume",
+        "burn",
+        "flame",
+        "hot",
+        "covered"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +216,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "durant",
+        "transforms",
+        "melts",
+        "draws",
+        "tongue"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +236,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "There’s a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "blocked",
+        "ill",
+        "burning",
+        "draw",
+        "allows",
+        "needs",
+        "hole",
+        "fall"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +259,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "melting",
+        "devour",
+        "durant",
+        "insides",
+        "serves",
+        "tongue",
+        "flame"
+      ]
     }
   ],
   "similarPokemonIds": [

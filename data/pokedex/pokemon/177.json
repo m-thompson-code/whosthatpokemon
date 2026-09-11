@@ -10,6 +10,72 @@
   ],
   "imagePath": "/assets/pokemon/177.png",
   "entryCount": 25,
+  "entryTraits": [
+    "wings",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "impression",
+    "savanna",
+    "taller",
+    "forages",
+    "plucks",
+    "cactus",
+    "avoiding",
+    "observing",
+    "skip",
+    "climbing",
+    "sprouts",
+    "trunks",
+    "aren",
+    "carefully",
+    "hop",
+    "stare",
+    "jumping",
+    "intently",
+    "buds",
+    "jumps",
+    "meet",
+    "outstanding",
+    "picks",
+    "occasions",
+    "staring",
+    "star",
+    "ing",
+    "peck",
+    "deftly",
+    "spines",
+    "leaps",
+    "safety",
+    "pick",
+    "approach",
+    "fully",
+    "slightly",
+    "yet",
+    "grown",
+    "onto",
+    "branches",
+    "seems",
+    "flaps",
+    "short",
+    "cannot",
+    "likes",
+    "shoots",
+    "rare",
+    "runs",
+    "something",
+    "look",
+    "new",
+    "plants",
+    "highly",
+    "still",
+    "good",
+    "although",
+    "usually",
+    "developed",
+    "eat",
+    "extremely"
+  ],
   "color": "green",
   "shape": "wings",
   "habitat": "forest",
@@ -39,7 +105,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Because its wings aren't yet fully grown, it has to hop to get around. It is always star­ ing at something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aren",
+        "hop",
+        "star",
+        "ing",
+        "fully",
+        "yet",
+        "grown",
+        "something"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +126,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forages",
+        "hop",
+        "occasions",
+        "peck",
+        "onto",
+        "branches",
+        "shoots",
+        "rare",
+        "usually"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +146,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "climbing",
+        "sprouts",
+        "trunks",
+        "likes",
+        "new",
+        "good",
+        "eat",
+        "extremely"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +167,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "NATU cannot fly because its wings are not yet fully grown. If your eyes meet with this POKéMON’s eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hop",
+        "stare",
+        "intently",
+        "meet",
+        "safety",
+        "fully",
+        "slightly",
+        "yet",
+        "grown",
+        "cannot"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +190,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "NATU has a highly developed jumping ability. The POKéMON flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree’s new shoots.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "taller",
+        "jumping",
+        "leaps",
+        "pick",
+        "grown",
+        "onto",
+        "branches",
+        "flaps",
+        "shoots",
+        "new",
+        "highly",
+        "developed"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +215,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It runs up short trees that grow on the savanna to peck at new shoots. A NATU’s eyes look as if they are always observing something.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "savanna",
+        "observing",
+        "peck",
+        "short",
+        "shoots",
+        "runs",
+        "something",
+        "look",
+        "new"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +237,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forages",
+        "hop",
+        "occasions",
+        "peck",
+        "onto",
+        "branches",
+        "shoots",
+        "rare",
+        "usually"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +257,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aren",
+        "hop",
+        "staring",
+        "fully",
+        "yet",
+        "grown",
+        "something"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +277,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cactus",
+        "avoiding",
+        "skip",
+        "buds",
+        "picks",
+        "deftly",
+        "spines",
+        "seems",
+        "plants"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +297,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cactus",
+        "avoiding",
+        "skip",
+        "buds",
+        "picks",
+        "deftly",
+        "spines",
+        "seems",
+        "plants"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +317,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cactus",
+        "avoiding",
+        "skip",
+        "buds",
+        "picks",
+        "deftly",
+        "spines",
+        "seems",
+        "plants"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +337,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aren",
+        "hop",
+        "staring",
+        "fully",
+        "yet",
+        "grown",
+        "something"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +357,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forages",
+        "hop",
+        "occasions",
+        "peck",
+        "onto",
+        "branches",
+        "shoots",
+        "rare",
+        "usually"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +377,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cactus",
+        "avoiding",
+        "skip",
+        "buds",
+        "picks",
+        "deftly",
+        "spines",
+        "seems",
+        "plants"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +397,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cactus",
+        "avoiding",
+        "skip",
+        "buds",
+        "picks",
+        "deftly",
+        "spines",
+        "seems",
+        "plants"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +417,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cactus",
+        "avoiding",
+        "skip",
+        "buds",
+        "picks",
+        "deftly",
+        "spines",
+        "seems",
+        "plants"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +437,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cactus",
+        "avoiding",
+        "skip",
+        "buds",
+        "picks",
+        "deftly",
+        "spines",
+        "seems",
+        "plants"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +457,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aren",
+        "hop",
+        "staring",
+        "fully",
+        "yet",
+        "grown",
+        "something"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +477,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forages",
+        "hop",
+        "occasions",
+        "peck",
+        "onto",
+        "branches",
+        "shoots",
+        "rare",
+        "usually"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +497,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon’s eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hop",
+        "stare",
+        "intently",
+        "meet",
+        "safety",
+        "fully",
+        "slightly",
+        "yet",
+        "grown",
+        "cannot"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +520,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree’s new shoots.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "taller",
+        "jumping",
+        "leaps",
+        "pick",
+        "grown",
+        "onto",
+        "branches",
+        "flaps",
+        "shoots",
+        "new",
+        "highly",
+        "developed"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +545,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it still can’t fly, its jumping power is outstanding. It jumps way up into trees and plucks the buds from the branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "plucks",
+        "jumping",
+        "buds",
+        "jumps",
+        "outstanding",
+        "branches",
+        "still",
+        "although"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +566,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The look in its eyes gives the impression that it’s carefully observing you. If you approach it, Natu will hop away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "impression",
+        "observing",
+        "carefully",
+        "hop",
+        "approach",
+        "look"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +583,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "climbing",
+        "sprouts",
+        "trunks",
+        "likes",
+        "new",
+        "good",
+        "eat",
+        "extremely"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +604,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aren",
+        "hop",
+        "staring",
+        "fully",
+        "yet",
+        "grown",
+        "something"
+      ]
     }
   ],
   "similarPokemonIds": [

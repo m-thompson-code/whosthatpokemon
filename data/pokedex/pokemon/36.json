@@ -9,6 +9,105 @@
   ],
   "imagePath": "/assets/pokemon/036.png",
   "entryCount": 33,
+  "entryTraits": [
+    "sonic",
+    "mountain-dwelling",
+    "aquatic",
+    "wings",
+    "nocturnal",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "homesick",
+    "kin",
+    "marriage",
+    "sult",
+    "tinguish",
+    "aversion",
+    "dis",
+    "remote",
+    "homeland",
+    "deserted",
+    "gazes",
+    "skipping",
+    "strolls",
+    "tradition",
+    "listens",
+    "yards",
+    "dropped",
+    "forward",
+    "my",
+    "skip",
+    "moonlit",
+    "voices",
+    "fairy",
+    "wary",
+    "lightly",
+    "says",
+    "aren",
+    "reveal",
+    "pin",
+    "acute",
+    "intently",
+    "distinguish",
+    "bouncy",
+    "hearing",
+    "pair",
+    "distant",
+    "step",
+    "scientists",
+    "happy",
+    "i",
+    "moment",
+    "walk",
+    "drawn",
+    "packs",
+    "clear",
+    "type",
+    "drop",
+    "pick",
+    "protective",
+    "hear",
+    "legend",
+    "think",
+    "believe",
+    "don",
+    "lakes",
+    "play",
+    "nearly",
+    "quietly",
+    "shows",
+    "quiet",
+    "timid",
+    "mile",
+    "let",
+    "front",
+    "half",
+    "sensitive",
+    "according",
+    "nights",
+    "sounds",
+    "themselves",
+    "help",
+    "1",
+    "rarely",
+    "re",
+    "run",
+    "far",
+    "moon",
+    "prefers",
+    "look",
+    "hide",
+    "100",
+    "living",
+    "lets",
+    "places",
+    "sense",
+    "ears",
+    "hides",
+    "full",
+    "usually"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +137,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairy",
+        "moment",
+        "timid",
+        "rarely",
+        "run",
+        "hide"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +154,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairy",
+        "moment",
+        "timid",
+        "rarely",
+        "run",
+        "hide"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +171,13 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairy",
+        "protective",
+        "rarely"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +185,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "acute",
+        "hearing",
+        "pick",
+        "quiet",
+        "sounds",
+        "far",
+        "places",
+        "hides",
+        "usually"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +207,24 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its very sensitive ears lets it dis­ tinguish distant sounds. As a re­ sult, it prefers quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "sult",
+        "tinguish",
+        "dis",
+        "distant",
+        "quiet",
+        "sensitive",
+        "sounds",
+        "re",
+        "prefers",
+        "lets",
+        "places",
+        "ears"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +232,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "aversion",
+        "remote",
+        "fairy",
+        "type",
+        "quiet"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +250,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CLEFABLE moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "nocturnal"
+      ],
+      "keywords": [
+        "skipping",
+        "strolls",
+        "moonlit",
+        "lightly",
+        "bouncy",
+        "step",
+        "walk",
+        "lakes",
+        "quiet",
+        "nights",
+        "lets"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +276,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CLEFABLE moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "nocturnal"
+      ],
+      "keywords": [
+        "skipping",
+        "strolls",
+        "moonlit",
+        "lightly",
+        "bouncy",
+        "step",
+        "walk",
+        "lakes",
+        "quiet",
+        "nights",
+        "lets"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +302,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A CLEFABLE uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "nocturnal"
+      ],
+      "keywords": [
+        "strolls",
+        "skip",
+        "moonlit",
+        "lightly",
+        "bouncy",
+        "step",
+        "walk",
+        "lakes",
+        "quiet",
+        "nights",
+        "lets"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +328,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "yards",
+        "dropped",
+        "pin",
+        "acute",
+        "hearing",
+        "hear",
+        "nearly",
+        "1",
+        "100",
+        "sense"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +349,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A timid fairy POKéMON that is rarely seen, it will run and hide the moment it senses people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairy",
+        "moment",
+        "timid",
+        "rarely",
+        "run",
+        "hide"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +366,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "deserted",
+        "drawn",
+        "lakes",
+        "play",
+        "rarely",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +384,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "pin",
+        "acute",
+        "hearing",
+        "drop",
+        "hear",
+        "quiet",
+        "mile",
+        "half"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +405,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wary",
+        "pin",
+        "drop",
+        "hear",
+        "shows",
+        "mile",
+        "half",
+        "rarely",
+        "ears"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +425,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "acute",
+        "hearing",
+        "pick",
+        "quiet",
+        "sounds",
+        "far",
+        "places",
+        "hides",
+        "usually"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +447,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its very sensitive ears let it distinguish distant sounds. As a result, it prefers quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "distinguish",
+        "distant",
+        "quiet",
+        "let",
+        "sensitive",
+        "sounds",
+        "prefers",
+        "places",
+        "ears"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +469,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wary",
+        "pin",
+        "drop",
+        "hear",
+        "shows",
+        "mile",
+        "half",
+        "rarely",
+        "ears"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +489,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wary",
+        "pin",
+        "drop",
+        "hear",
+        "shows",
+        "mile",
+        "half",
+        "rarely",
+        "ears"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +509,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pin",
+        "drop",
+        "hear",
+        "quiet",
+        "mile",
+        "sensitive",
+        "re",
+        "places",
+        "ears",
+        "usually"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +530,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pin",
+        "drop",
+        "hear",
+        "quiet",
+        "mile",
+        "sensitive",
+        "re",
+        "places",
+        "ears",
+        "usually"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +551,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "pin",
+        "acute",
+        "hearing",
+        "drop",
+        "hear",
+        "quiet",
+        "mile",
+        "half"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +572,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairy",
+        "moment",
+        "timid",
+        "rarely",
+        "run",
+        "hide"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +589,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "nocturnal"
+      ],
+      "keywords": [
+        "skipping",
+        "strolls",
+        "moonlit",
+        "lightly",
+        "bouncy",
+        "step",
+        "walk",
+        "lakes",
+        "quiet",
+        "nights",
+        "lets"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +615,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "nocturnal"
+      ],
+      "keywords": [
+        "skipping",
+        "strolls",
+        "moonlit",
+        "lightly",
+        "bouncy",
+        "step",
+        "walk",
+        "lakes",
+        "quiet",
+        "nights",
+        "lets"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +641,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They don’t like to reveal themselves in front of people. They live quietly in packs deep in the mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "reveal",
+        "packs",
+        "don",
+        "quietly",
+        "front",
+        "themselves"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +660,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "According to tradition, people who see a pair of Clefable skipping by can look forward to a happy marriage.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "marriage",
+        "skipping",
+        "tradition",
+        "forward",
+        "pair",
+        "happy",
+        "according",
+        "look"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +679,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It can’t help but hear a pin drop from over half a mile away, so it lives deep in the mountains where there aren’t many people or Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "aren",
+        "pin",
+        "drop",
+        "hear",
+        "mile",
+        "half",
+        "help"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +699,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Some scientists believe that it gazes intently at the sky on nights with a full moon because it’s homesick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "homesick",
+        "gazes",
+        "intently",
+        "scientists",
+        "believe",
+        "nights",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +721,13 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairy",
+        "protective",
+        "rarely"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +735,13 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairy",
+        "protective",
+        "rarely"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +749,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fairy",
+        "moment",
+        "timid",
+        "rarely",
+        "run",
+        "hide"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +766,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pin",
+        "drop",
+        "hear",
+        "quiet",
+        "mile",
+        "sensitive",
+        "re",
+        "places",
+        "ears",
+        "usually"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +787,27 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "kin",
+        "homeland",
+        "listens",
+        "my",
+        "voices",
+        "says",
+        "i",
+        "clear",
+        "legend",
+        "think",
+        "quiet",
+        "nights",
+        "far",
+        "moon",
+        "living"
+      ]
     }
   ],
   "similarPokemonIds": [

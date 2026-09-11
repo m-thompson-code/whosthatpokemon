@@ -9,6 +9,57 @@
   ],
   "imagePath": "/assets/pokemon/771.png",
   "entryCount": 6,
+  "entryTraits": [
+    "hunting",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "chucking",
+    "eject",
+    "engulf",
+    "soothe",
+    "sunburned",
+    "onshore",
+    "custom",
+    "mad",
+    "mucous",
+    "smack",
+    "drying",
+    "tradition",
+    "wash",
+    "convenient",
+    "slime",
+    "spit",
+    "throwing",
+    "accidentally",
+    "beach",
+    "moist",
+    "slip",
+    "started",
+    "allowing",
+    "organs",
+    "encounters",
+    "shallow",
+    "step",
+    "line",
+    "means",
+    "covers",
+    "punch",
+    "stay",
+    "waters",
+    "beaches",
+    "ll",
+    "sticky",
+    "internal",
+    "areas",
+    "near",
+    "days",
+    "keeps",
+    "entire",
+    "skin",
+    "seas",
+    "covered"
+  ],
   "color": "black",
   "shape": "squiggle",
   "habitat": null,
@@ -38,7 +89,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "eject",
+        "engulf",
+        "beach",
+        "organs",
+        "shallow",
+        "internal",
+        "areas",
+        "near",
+        "seas"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +111,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soothe",
+        "sunburned",
+        "mucous",
+        "convenient",
+        "line",
+        "covers",
+        "beaches",
+        "sticky",
+        "skin"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +131,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "chucking",
+        "onshore",
+        "custom",
+        "tradition",
+        "wash",
+        "throwing",
+        "started"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +151,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its entire body is covered in its own slime. If you accidentally step on one, you’ll slip, and it will get mad and smack you!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mad",
+        "smack",
+        "slime",
+        "accidentally",
+        "slip",
+        "step",
+        "ll",
+        "entire",
+        "covered"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +171,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spit",
+        "organs",
+        "encounters",
+        "shallow",
+        "means",
+        "punch",
+        "waters",
+        "internal"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +190,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "drying",
+        "slime",
+        "moist",
+        "allowing",
+        "stay",
+        "days",
+        "keeps",
+        "skin",
+        "covered"
+      ]
     }
   ],
   "similarPokemonIds": [

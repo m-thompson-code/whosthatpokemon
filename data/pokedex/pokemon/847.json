@@ -9,6 +9,28 @@
   ],
   "imagePath": "/assets/pokemon/847.png",
   "entryCount": 2,
+  "entryTraits": [
+    "tail",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "spearing",
+    "spear",
+    "surging",
+    "flesh",
+    "ramming",
+    "forward",
+    "propel",
+    "knots",
+    "surprisingly",
+    "tasty",
+    "jaw",
+    "spins",
+    "speeds",
+    "fins",
+    "100",
+    "apparently"
+  ],
   "color": "brown",
   "shape": "fish",
   "habitat": null,
@@ -38,7 +60,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "spear",
+        "flesh",
+        "surprisingly",
+        "tasty",
+        "jaw",
+        "apparently"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +77,23 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "spearing",
+        "surging",
+        "ramming",
+        "forward",
+        "propel",
+        "knots",
+        "spins",
+        "speeds",
+        "fins",
+        "100"
+      ]
     }
   ],
   "similarPokemonIds": [

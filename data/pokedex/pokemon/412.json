@@ -9,6 +9,41 @@
   ],
   "imagePath": "/assets/pokemon/412.png",
   "entryCount": 14,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "fiery",
+    "arms"
+  ],
+  "entryKeywords": [
+    "scrawny",
+    "thinner",
+    "remakes",
+    "damaged",
+    "twigs",
+    "cocooning",
+    "wintry",
+    "shelter",
+    "repair",
+    "vulnerable",
+    "materials",
+    "cloak",
+    "somehow",
+    "immediately",
+    "ends",
+    "broken",
+    "whatever",
+    "nearby",
+    "covers",
+    "slightly",
+    "hand",
+    "winds",
+    "within",
+    "quickly",
+    "hot",
+    "close",
+    "born"
+  ],
   "color": "green",
   "shape": "blob",
   "habitat": null,
@@ -38,7 +73,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "twigs",
+        "wintry",
+        "shelter",
+        "cloak",
+        "covers",
+        "winds"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +93,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "remakes",
+        "materials",
+        "cloak",
+        "broken",
+        "nearby",
+        "quickly"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +110,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cocooning",
+        "materials",
+        "cloak",
+        "somehow",
+        "ends",
+        "born"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +127,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It covers itself with a cloak to shelter from the cold. When it’s hot, its cloak is thinner.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "thinner",
+        "shelter",
+        "cloak",
+        "covers",
+        "hot"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +147,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It covers itself with a cloak to shelter from the cold. When it’s hot, its cloak is thinner.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "thinner",
+        "shelter",
+        "cloak",
+        "covers",
+        "hot"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +167,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cocooning",
+        "materials",
+        "cloak",
+        "somehow",
+        "ends",
+        "born"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +184,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cocooning",
+        "materials",
+        "cloak",
+        "somehow",
+        "ends",
+        "born"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +201,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cocooning",
+        "materials",
+        "cloak",
+        "somehow",
+        "ends",
+        "born"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +218,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cocooning",
+        "materials",
+        "cloak",
+        "somehow",
+        "ends",
+        "born"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +235,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "twigs",
+        "wintry",
+        "shelter",
+        "cloak",
+        "covers",
+        "winds"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +255,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "remakes",
+        "materials",
+        "cloak",
+        "broken",
+        "nearby",
+        "quickly"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +272,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "twigs",
+        "wintry",
+        "shelter",
+        "cloak",
+        "covers",
+        "winds"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +292,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "remakes",
+        "materials",
+        "cloak",
+        "broken",
+        "nearby",
+        "quickly"
+      ]
     },
     {
       "versionId": 39,
@@ -142,7 +309,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "If its cloak is even slightly damaged, Burmy will immediately repair it with whatever is close at hand. The Pokémon within the cloak is scrawny and vulnerable to the cold.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "arms",
+        "icy"
+      ],
+      "keywords": [
+        "scrawny",
+        "damaged",
+        "repair",
+        "vulnerable",
+        "cloak",
+        "immediately",
+        "whatever",
+        "slightly",
+        "hand",
+        "within",
+        "close"
+      ]
     }
   ],
   "similarPokemonIds": [

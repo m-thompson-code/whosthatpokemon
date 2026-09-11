@@ -9,6 +9,50 @@
   ],
   "imagePath": "/assets/pokemon/311.png",
   "entryCount": 18,
+  "entryTraits": [
+    "electric",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "shorting",
+    "cheerleader",
+    "teammate",
+    "trait",
+    "cheering",
+    "shorts",
+    "climbs",
+    "partners",
+    "pom",
+    "poms",
+    "crackling",
+    "poles",
+    "partner",
+    "fellow",
+    "noises",
+    "cheers",
+    "scattering",
+    "show",
+    "flashes",
+    "telephone",
+    "acts",
+    "drains",
+    "loudly",
+    "paws",
+    "joy",
+    "effort",
+    "whenever",
+    "puts",
+    "loses",
+    "absorb",
+    "sparks",
+    "releases",
+    "friends",
+    "absorbs",
+    "electric",
+    "create",
+    "creates",
+    "good"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": "grassland",
@@ -38,7 +82,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POKéMON shorts out its body to create the crackling noises of sparks to show its joy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cheerleader",
+        "teammate",
+        "shorts",
+        "partners",
+        "crackling",
+        "noises",
+        "show",
+        "acts",
+        "joy",
+        "effort",
+        "whenever",
+        "puts",
+        "sparks",
+        "create",
+        "good"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +108,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When PLUSLE is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this POKéMON cries loudly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric",
+        "sonic"
+      ],
+      "keywords": [
+        "cheering",
+        "partner",
+        "flashes",
+        "loudly",
+        "loses",
+        "sparks",
+        "electric"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +129,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It has the trait of cheering on its fellow POKéMON. By shorting out the electricity it releases from its paws, it creates pom-poms for cheering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shorting",
+        "trait",
+        "cheering",
+        "pom",
+        "poms",
+        "fellow",
+        "paws",
+        "releases",
+        "creates"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +151,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It cheers on partners while scattering sparks from its body. It climbs telephone poles to absorb electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "climbs",
+        "partners",
+        "poles",
+        "cheers",
+        "scattering",
+        "telephone",
+        "absorb",
+        "sparks"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +172,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It cheers on partners while scattering sparks from its body. It climbs telephone poles to absorb electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "climbs",
+        "partners",
+        "poles",
+        "cheers",
+        "scattering",
+        "telephone",
+        "absorb",
+        "sparks"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +193,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pom",
+        "poms",
+        "poles",
+        "cheers",
+        "telephone",
+        "drains",
+        "sparks",
+        "friends"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +212,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pom",
+        "poms",
+        "poles",
+        "cheers",
+        "telephone",
+        "drains",
+        "sparks",
+        "friends"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +231,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pom",
+        "poms",
+        "poles",
+        "cheers",
+        "telephone",
+        "drains",
+        "sparks",
+        "friends"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +250,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shorts",
+        "crackling",
+        "poles",
+        "noises",
+        "telephone",
+        "absorbs",
+        "create"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +270,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shorts",
+        "crackling",
+        "poles",
+        "noises",
+        "telephone",
+        "absorbs",
+        "create"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +290,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pom",
+        "poms",
+        "poles",
+        "cheers",
+        "telephone",
+        "drains",
+        "sparks",
+        "friends"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +309,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pom",
+        "poms",
+        "poles",
+        "cheers",
+        "telephone",
+        "drains",
+        "sparks",
+        "friends"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +328,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pom",
+        "poms",
+        "poles",
+        "cheers",
+        "telephone",
+        "drains",
+        "sparks",
+        "friends"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +347,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pom",
+        "poms",
+        "poles",
+        "cheers",
+        "telephone",
+        "drains",
+        "sparks",
+        "friends"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +366,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pom",
+        "poms",
+        "poles",
+        "cheers",
+        "telephone",
+        "drains",
+        "sparks",
+        "friends"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +385,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "shorts",
+        "crackling",
+        "poles",
+        "noises",
+        "telephone",
+        "absorbs",
+        "create"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +405,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pokémon shorts out its body to create the crackling noises of sparks to show its joy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cheerleader",
+        "teammate",
+        "shorts",
+        "partners",
+        "crackling",
+        "noises",
+        "show",
+        "acts",
+        "joy",
+        "effort",
+        "whenever",
+        "puts",
+        "sparks",
+        "create",
+        "good"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +431,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric",
+        "sonic"
+      ],
+      "keywords": [
+        "cheering",
+        "partner",
+        "flashes",
+        "loudly",
+        "loses",
+        "sparks",
+        "electric"
+      ]
     }
   ],
   "similarPokemonIds": [

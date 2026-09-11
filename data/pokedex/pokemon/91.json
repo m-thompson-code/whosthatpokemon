@@ -10,6 +10,85 @@
   ],
   "imagePath": "/assets/pokemon/091.png",
   "entryCount": 32,
+  "entryTraits": [
+    "horns",
+    "shell",
+    "aquatic",
+    "hunting",
+    "tail"
+  ],
+  "entryKeywords": [
+    "superi",
+    "tribes",
+    "spears",
+    "swell",
+    "excavation",
+    "damaged",
+    "contents",
+    "shattered",
+    "stab",
+    "missile",
+    "volleys",
+    "er",
+    "tombs",
+    "bomb",
+    "slams",
+    "diamonds",
+    "jetting",
+    "tipped",
+    "shut",
+    "tidal",
+    "tightly",
+    "swallowing",
+    "gradually",
+    "hunting",
+    "superior",
+    "innards",
+    "turned",
+    "shells",
+    "currents",
+    "slowpoke",
+    "system",
+    "remain",
+    "toward",
+    "keeping",
+    "repel",
+    "opens",
+    "unknown",
+    "fallen",
+    "diamond",
+    "launches",
+    "shooting",
+    "harder",
+    "impossible",
+    "attacking",
+    "growing",
+    "favorite",
+    "quick",
+    "harsh",
+    "protection",
+    "break",
+    "had",
+    "fights",
+    "open",
+    "cannot",
+    "areas",
+    "re",
+    "rear",
+    "shoots",
+    "look",
+    "spikes",
+    "attacked",
+    "strength",
+    "capable",
+    "swims",
+    "tails",
+    "same",
+    "swimming",
+    "horns",
+    "seas",
+    "extremely"
+  ],
   "color": "purple",
   "shape": "ball",
   "habitat": "sea",
@@ -39,7 +118,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "volleys",
+        "innards",
+        "launches",
+        "quick",
+        "attacked",
+        "horns"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +137,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "volleys",
+        "innards",
+        "launches",
+        "quick",
+        "attacked",
+        "horns"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +156,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "For protection, it uses its harder- than-diamonds shell. It also shoots spikes from the shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "diamonds",
+        "harder",
+        "protection",
+        "shoots",
+        "spikes"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +174,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Once it slams its shell shut, it is impossible to open, even by those with superi­ or strength.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "superi",
+        "slams",
+        "shut",
+        "impossible",
+        "open",
+        "strength"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +193,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "CLOYSTER that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tidal",
+        "shells",
+        "currents",
+        "harsh",
+        "spikes",
+        "seas"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +212,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Even a missile can't break the spikes it uses to stab opponents. They're even hard­ er than its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "stab",
+        "missile",
+        "er",
+        "break",
+        "re",
+        "spikes"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +231,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This POKéMON shoots spikes from its shell using the same system.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "jetting",
+        "swallowing",
+        "system",
+        "toward",
+        "rear",
+        "shoots",
+        "spikes",
+        "capable",
+        "same",
+        "swimming"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +255,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This POKéMON shoots spikes from its shell using the same system.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "jetting",
+        "swallowing",
+        "system",
+        "toward",
+        "rear",
+        "shoots",
+        "spikes",
+        "capable",
+        "same",
+        "swimming"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +279,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It swims in the sea by swallowing water, then jetting it out toward the rear. The CLOYSTER shoots spikes from its shell using the same system.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "jetting",
+        "swallowing",
+        "system",
+        "toward",
+        "rear",
+        "shoots",
+        "spikes",
+        "swims",
+        "same"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +302,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shattered",
+        "bomb",
+        "opens",
+        "attacking",
+        "cannot",
+        "extremely"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +321,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "volleys",
+        "innards",
+        "launches",
+        "quick",
+        "attacked",
+        "horns"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +340,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shut",
+        "tightly",
+        "keeping",
+        "repel",
+        "shooting",
+        "protection",
+        "fights",
+        "spikes"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +361,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shut",
+        "tightly",
+        "keeping",
+        "repel",
+        "shooting",
+        "protection",
+        "fights",
+        "spikes"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +382,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shut",
+        "tightly",
+        "keeping",
+        "repel",
+        "shooting",
+        "protection",
+        "fights",
+        "spikes"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +403,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "slams",
+        "shut",
+        "superior",
+        "impossible",
+        "open",
+        "strength"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +422,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "CLOYSTER that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tidal",
+        "shells",
+        "currents",
+        "harsh",
+        "spikes",
+        "seas"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +441,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shut",
+        "tightly",
+        "keeping",
+        "repel",
+        "shooting",
+        "protection",
+        "fights",
+        "spikes"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +462,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shut",
+        "tightly",
+        "keeping",
+        "repel",
+        "shooting",
+        "protection",
+        "fights",
+        "spikes"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +483,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shut",
+        "tightly",
+        "keeping",
+        "repel",
+        "shooting",
+        "protection",
+        "fights",
+        "spikes"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +504,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shut",
+        "tightly",
+        "keeping",
+        "repel",
+        "shooting",
+        "protection",
+        "fights",
+        "spikes"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +525,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tidal",
+        "shells",
+        "currents",
+        "harsh",
+        "spikes",
+        "seas"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +544,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shattered",
+        "bomb",
+        "opens",
+        "attacking",
+        "cannot",
+        "extremely"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +563,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "jetting",
+        "swallowing",
+        "system",
+        "toward",
+        "rear",
+        "shoots",
+        "spikes",
+        "capable",
+        "same",
+        "swimming"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +587,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "jetting",
+        "swallowing",
+        "system",
+        "toward",
+        "rear",
+        "shoots",
+        "spikes",
+        "capable",
+        "same",
+        "swimming"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +611,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its hard shell cannot be shattered—not even by a bomb. The contents of the shell remain unknown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "contents",
+        "shattered",
+        "bomb",
+        "remain",
+        "unknown",
+        "cannot"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +630,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Excavation of the tombs of ancient hunting tribes has turned up many spears tipped with spikes that had fallen off this Pokémon’s shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "tribes",
+        "spears",
+        "excavation",
+        "tombs",
+        "tipped",
+        "hunting",
+        "turned",
+        "fallen",
+        "had",
+        "spikes"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +654,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If areas of Cloyster’s very hard shell get damaged, those areas swell, gradually growing into large sharp spikes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "swell",
+        "damaged",
+        "gradually",
+        "growing",
+        "areas",
+        "spikes"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +673,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Slowpoke tails are its favorite food. It has even been known to come up on land to look for Slowpoke from time to time.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "slowpoke",
+        "favorite",
+        "look",
+        "tails"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +690,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "For protection, it uses its harder-than-diamond shell. It also shoots spikes from the shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "diamond",
+        "harder",
+        "protection",
+        "shoots",
+        "spikes"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +708,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "For protection, it uses its harder-than-diamond shell. It also shoots spikes from the shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "diamond",
+        "harder",
+        "protection",
+        "shoots",
+        "spikes"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +726,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shattered",
+        "bomb",
+        "opens",
+        "attacking",
+        "cannot",
+        "extremely"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +745,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "slams",
+        "shut",
+        "superior",
+        "impossible",
+        "open",
+        "strength"
+      ]
     }
   ],
   "similarPokemonIds": [

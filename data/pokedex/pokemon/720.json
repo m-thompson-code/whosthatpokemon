@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/720.png",
   "entryCount": 4,
+  "entryTraits": [
+    "arms"
+  ],
+  "entryKeywords": [
+    "avarice",
+    "troublemaker",
+    "warp",
+    "loop",
+    "seize",
+    "faraway",
+    "desires",
+    "sealed",
+    "treasure",
+    "carried",
+    "passes",
+    "castle",
+    "gain",
+    "teleport",
+    "secret",
+    "smaller",
+    "possess",
+    "rings",
+    "true",
+    "amount",
+    "sends",
+    "gathers",
+    "legends",
+    "transformed",
+    "hidden",
+    "tell",
+    "space",
+    "able",
+    "likes",
+    "six",
+    "everything",
+    "within",
+    "place",
+    "huge",
+    "entire",
+    "places"
+  ],
   "color": "purple",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +80,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "troublemaker",
+        "warp",
+        "loop",
+        "faraway",
+        "sends",
+        "space",
+        "everything",
+        "places"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +99,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "loop",
+        "passes",
+        "teleport",
+        "secret",
+        "gathers",
+        "likes",
+        "place"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +117,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "avarice",
+        "treasure",
+        "carried",
+        "castle",
+        "gain",
+        "possess",
+        "true",
+        "amount",
+        "legends",
+        "hidden",
+        "tell",
+        "within",
+        "huge",
+        "entire"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +142,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "seize",
+        "desires",
+        "sealed",
+        "smaller",
+        "rings",
+        "transformed",
+        "able",
+        "six",
+        "huge"
+      ]
     }
   ],
   "similarPokemonIds": [

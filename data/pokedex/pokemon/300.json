@@ -9,6 +9,44 @@
   ],
   "imagePath": "/assets/pokemon/300.png",
   "entryCount": 18,
+  "entryTraits": [
+    "tail",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "adorably",
+    "growl",
+    "fascinated",
+    "threatens",
+    "dizzy",
+    "puff",
+    "trust",
+    "earn",
+    "circle",
+    "pet",
+    "playfully",
+    "adorable",
+    "becoming",
+    "chasing",
+    "behavior",
+    "chase",
+    "chases",
+    "habit",
+    "objects",
+    "cute",
+    "shows",
+    "side",
+    "difficult",
+    "wild",
+    "holes",
+    "popular",
+    "runs",
+    "forests",
+    "stop",
+    "highly",
+    "moving",
+    "extremely"
+  ],
   "color": "pink",
   "shape": "quadruped",
   "habitat": "forest",
@@ -39,7 +77,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "fascinated",
+        "dizzy",
+        "becoming",
+        "chasing",
+        "chase",
+        "habit",
+        "objects",
+        "moving"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +98,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SKITTY is known to chase around playfully after its own tail. In the wild, this POKéMON lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "pet",
+        "playfully",
+        "adorable",
+        "chase",
+        "wild",
+        "holes",
+        "popular",
+        "forests"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +120,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A SKITTY’s adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "adorably",
+        "growl",
+        "threatens",
+        "puff",
+        "behavior",
+        "cute",
+        "popular",
+        "highly"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +141,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trust",
+        "earn",
+        "behavior",
+        "cute",
+        "difficult",
+        "popular",
+        "extremely"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +159,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trust",
+        "earn",
+        "behavior",
+        "cute",
+        "difficult",
+        "popular",
+        "extremely"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +177,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "circle",
+        "chasing",
+        "runs",
+        "stop",
+        "moving"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +195,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "circle",
+        "chasing",
+        "runs",
+        "stop",
+        "moving"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +213,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "circle",
+        "chasing",
+        "runs",
+        "stop",
+        "moving"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +231,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s adorable when it chases its own tail. It’s difficult to earn its trust.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "trust",
+        "earn",
+        "adorable",
+        "chases",
+        "difficult"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +249,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s adorable when it chases its own tail. It’s difficult to earn its trust.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "trust",
+        "earn",
+        "adorable",
+        "chases",
+        "difficult"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +267,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "circle",
+        "chasing",
+        "runs",
+        "stop",
+        "moving"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +285,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "circle",
+        "chasing",
+        "runs",
+        "stop",
+        "moving"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +303,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It shows its cute side by chasing its own tail until it gets dizzy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dizzy",
+        "chasing",
+        "cute",
+        "shows",
+        "side"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +321,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It shows its cute side by chasing its own tail until it gets dizzy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dizzy",
+        "chasing",
+        "cute",
+        "shows",
+        "side"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +339,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "circle",
+        "chasing",
+        "runs",
+        "stop",
+        "moving"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +357,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It shows its cute side by chasing its own tail until it gets dizzy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "dizzy",
+        "chasing",
+        "cute",
+        "shows",
+        "side"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +375,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pokémon is known to chase after its own tail and become dizzy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "fascinated",
+        "dizzy",
+        "becoming",
+        "chasing",
+        "chase",
+        "habit",
+        "objects",
+        "moving"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +396,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "pet",
+        "playfully",
+        "adorable",
+        "chase",
+        "wild",
+        "holes",
+        "popular",
+        "forests"
+      ]
     }
   ],
   "similarPokemonIds": [

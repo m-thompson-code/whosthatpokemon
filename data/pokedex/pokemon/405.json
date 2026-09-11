@@ -9,6 +9,48 @@
   ],
   "imagePath": "/assets/pokemon/405.png",
   "entryCount": 16,
+  "entryTraits": [
+    "hunting",
+    "sleeping",
+    "electric"
+  ],
+  "entryKeywords": [
+    "gleam",
+    "periods",
+    "scouting",
+    "shimmer",
+    "handy",
+    "shelter",
+    "gold",
+    "captures",
+    "lot",
+    "track",
+    "seek",
+    "clearly",
+    "hiding",
+    "male",
+    "taking",
+    "wall",
+    "solid",
+    "packs",
+    "store",
+    "legends",
+    "leader",
+    "objects",
+    "seeing",
+    "trying",
+    "having",
+    "spot",
+    "young",
+    "say",
+    "instantly",
+    "behind",
+    "walls",
+    "lost",
+    "hide",
+    "spots",
+    "sleeps"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +80,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has eyes that can see through anything. It spots and captures prey hiding behind objects.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "captures",
+        "hiding",
+        "objects",
+        "behind",
+        "spots"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +98,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "gleam",
+        "shelter",
+        "gold",
+        "hiding",
+        "taking",
+        "wall",
+        "spot",
+        "behind"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +119,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It can see clearly through walls to track down its prey and seek its lost young.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "track",
+        "seek",
+        "clearly",
+        "young",
+        "walls",
+        "lost"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +138,13 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "scouting",
+        "handy",
+        "objects"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +152,13 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "scouting",
+        "handy",
+        "objects"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +166,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can see clearly through walls to track down its prey and seek its lost young.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "track",
+        "seek",
+        "clearly",
+        "young",
+        "walls",
+        "lost"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +185,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It can see clearly through walls to track down its prey and seek its lost young.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "track",
+        "seek",
+        "clearly",
+        "young",
+        "walls",
+        "lost"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +204,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It can see clearly through walls to track down its prey and seek its lost young.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "track",
+        "seek",
+        "clearly",
+        "young",
+        "walls",
+        "lost"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +223,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It can see clearly through walls to track down its prey and seek its lost young.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "track",
+        "seek",
+        "clearly",
+        "young",
+        "walls",
+        "lost"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +242,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "gleam",
+        "shelter",
+        "gold",
+        "hiding",
+        "taking",
+        "wall",
+        "spot",
+        "behind"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +263,13 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Luxray’s ability to see through objects comes in handy when it’s scouting for danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "scouting",
+        "handy",
+        "objects"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +277,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When its eyes gleam gold, it can spot hiding prey—even those taking shelter behind a wall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "gleam",
+        "shelter",
+        "gold",
+        "hiding",
+        "taking",
+        "wall",
+        "spot",
+        "behind"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +298,13 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Luxray’s ability to see through objects comes in handy when it’s scouting for danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "scouting",
+        "handy",
+        "objects"
+      ]
     },
     {
       "versionId": 33,
@@ -142,7 +312,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Luxray can see through solid objects. It will instantly spot prey trying to hide behind walls, even if the walls are thick.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "solid",
+        "objects",
+        "trying",
+        "spot",
+        "instantly",
+        "behind",
+        "walls",
+        "hide"
+      ]
     },
     {
       "versionId": 34,
@@ -150,7 +333,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Seeing through solid objects uses up a lot of Luxray’s electricity, so the Pokémon sleeps for long periods of time to store up energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping",
+        "electric"
+      ],
+      "keywords": [
+        "periods",
+        "lot",
+        "solid",
+        "store",
+        "objects",
+        "seeing",
+        "sleeps"
+      ]
     },
     {
       "versionId": 39,
@@ -158,7 +354,18 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokémon can see through anything.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "shimmer",
+        "gold",
+        "male",
+        "packs",
+        "legends",
+        "leader",
+        "having",
+        "say"
+      ]
     }
   ],
   "similarPokemonIds": [

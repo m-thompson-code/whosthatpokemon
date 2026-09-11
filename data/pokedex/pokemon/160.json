@@ -9,6 +9,39 @@
   ],
   "imagePath": "/assets/pokemon/160.png",
   "entryCount": 21,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "fours",
+    "support",
+    "savagely",
+    "shakes",
+    "intimidates",
+    "blinding",
+    "incredible",
+    "intimidate",
+    "opening",
+    "slowly",
+    "weight",
+    "kick",
+    "tears",
+    "opens",
+    "bites",
+    "charge",
+    "enable",
+    "hind",
+    "massive",
+    "victim",
+    "jaws",
+    "runs",
+    "huge",
+    "fast",
+    "although",
+    "quickly",
+    "usually"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -39,7 +72,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "savagely",
+        "shakes",
+        "tears",
+        "bites",
+        "massive",
+        "victim",
+        "jaws"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +90,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fours",
+        "support",
+        "weight",
+        "fast"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +107,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enable",
+        "hind",
+        "massive",
+        "although",
+        "quickly"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +123,17 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "intimidates",
+        "incredible",
+        "opening",
+        "kick",
+        "charge",
+        "hind",
+        "huge"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +141,17 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "intimidates",
+        "incredible",
+        "opening",
+        "kick",
+        "charge",
+        "hind",
+        "huge"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +159,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "incredible",
+        "intimidate",
+        "opens",
+        "charge",
+        "hind",
+        "runs",
+        "huge"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +177,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fours",
+        "support",
+        "weight",
+        "fast"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +194,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears up its victim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "savagely",
+        "shakes",
+        "tears",
+        "bites",
+        "massive",
+        "victim",
+        "jaws"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +212,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinding",
+        "slowly",
+        "bites",
+        "usually"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +229,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinding",
+        "slowly",
+        "bites",
+        "usually"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +246,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinding",
+        "slowly",
+        "bites",
+        "usually"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +263,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "savagely",
+        "shakes",
+        "tears",
+        "bites",
+        "massive",
+        "victim",
+        "jaws"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +281,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is hard for it to support its weight out of water, so it sometimes gets down on all fours. But it moves fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fours",
+        "support",
+        "weight",
+        "fast"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +298,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinding",
+        "slowly",
+        "bites",
+        "usually"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +315,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinding",
+        "slowly",
+        "bites",
+        "usually"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +332,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinding",
+        "slowly",
+        "bites",
+        "usually"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +349,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinding",
+        "slowly",
+        "bites",
+        "usually"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +366,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinding",
+        "slowly",
+        "bites",
+        "usually"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +383,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "savagely",
+        "shakes",
+        "tears",
+        "bites",
+        "massive",
+        "victim",
+        "jaws"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +401,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "intimidates",
+        "incredible",
+        "opening",
+        "kick",
+        "charge",
+        "hind",
+        "huge"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +419,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "intimidates",
+        "incredible",
+        "opening",
+        "kick",
+        "charge",
+        "hind",
+        "huge"
+      ]
     }
   ],
   "similarPokemonIds": [

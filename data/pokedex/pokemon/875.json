@@ -9,6 +9,35 @@
   ],
   "imagePath": "/assets/pokemon/875.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "cold-climate",
+    "icy",
+    "hunting",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "fishes",
+    "iced",
+    "dangling",
+    "nice",
+    "drifted",
+    "flow",
+    "lure",
+    "cool",
+    "frigid",
+    "waters",
+    "stays",
+    "sure",
+    "sensitive",
+    "single",
+    "hair",
+    "ocean",
+    "place",
+    "constantly",
+    "keeps",
+    "heat"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +68,26 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "iced",
+        "nice",
+        "drifted",
+        "flow",
+        "frigid",
+        "waters",
+        "stays",
+        "sure",
+        "ocean",
+        "place",
+        "constantly",
+        "keeps"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +95,25 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "hunting",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "fishes",
+        "dangling",
+        "lure",
+        "cool",
+        "sensitive",
+        "single",
+        "hair",
+        "keeps",
+        "heat"
+      ]
     }
   ],
   "similarPokemonIds": [

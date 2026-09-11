@@ -9,6 +9,46 @@
   ],
   "imagePath": "/assets/pokemon/539.png",
   "entryCount": 10,
+  "entryTraits": [
+    "forest-dwelling",
+    "mountain-dwelling",
+    "sonic",
+    "sleeping",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "minded",
+    "disturbing",
+    "tying",
+    "desiring",
+    "limit",
+    "chop",
+    "seclude",
+    "karate",
+    "angers",
+    "punching",
+    "cleave",
+    "belts",
+    "pursuit",
+    "pass",
+    "trained",
+    "chops",
+    "pumped",
+    "strongest",
+    "heard",
+    "train",
+    "best",
+    "destructive",
+    "quietly",
+    "training",
+    "sleeping",
+    "themselves",
+    "single",
+    "boulders",
+    "ocean",
+    "punches",
+    "strength"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +78,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "mountain-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "punching",
+        "heard",
+        "train",
+        "boulders"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +97,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disturbing",
+        "tying",
+        "angers",
+        "belts",
+        "pumped",
+        "destructive",
+        "training",
+        "punches"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +116,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "desiring",
+        "chop",
+        "seclude",
+        "karate",
+        "strongest",
+        "train",
+        "sleeping",
+        "themselves"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +138,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "desiring",
+        "chop",
+        "seclude",
+        "karate",
+        "strongest",
+        "train",
+        "sleeping",
+        "themselves"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +160,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "desiring",
+        "chop",
+        "seclude",
+        "karate",
+        "strongest",
+        "train",
+        "sleeping",
+        "themselves"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +182,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disturbing",
+        "tying",
+        "angers",
+        "belts",
+        "pumped",
+        "destructive",
+        "training",
+        "punches"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +201,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "desiring",
+        "chop",
+        "seclude",
+        "karate",
+        "strongest",
+        "train",
+        "sleeping",
+        "themselves"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +223,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disturbing",
+        "tying",
+        "angers",
+        "belts",
+        "pumped",
+        "destructive",
+        "training",
+        "punches"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +242,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If you see a Sawk training in the mountains in its single-minded pursuit of strength, it’s best to quietly pass by.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "minded",
+        "pursuit",
+        "pass",
+        "best",
+        "quietly",
+        "training",
+        "single",
+        "strength"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +263,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "limit",
+        "karate",
+        "cleave",
+        "trained",
+        "chops",
+        "ocean"
+      ]
     }
   ],
   "similarPokemonIds": [

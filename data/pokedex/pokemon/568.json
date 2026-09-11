@@ -9,6 +9,75 @@
   ],
   "imagePath": "/assets/pokemon/568.png",
   "entryCount": 14,
+  "entryTraits": [
+    "sleeping",
+    "poisonous",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "drooling",
+    "relish",
+    "hospital",
+    "bags",
+    "gorges",
+    "wanting",
+    "bag",
+    "belched",
+    "belches",
+    "litter",
+    "threatening",
+    "unlucky",
+    "whiff",
+    "belch",
+    "combination",
+    "galarian",
+    "industrial",
+    "unsanitary",
+    "fumes",
+    "room",
+    "stuffed",
+    "waste",
+    "trash",
+    "pursuit",
+    "chemical",
+    "muk",
+    "weezing",
+    "ones",
+    "grimer",
+    "situation",
+    "lying",
+    "reaction",
+    "week",
+    "spotted",
+    "follow",
+    "inhaling",
+    "caused",
+    "garbage",
+    "prefer",
+    "put",
+    "leaks",
+    "best",
+    "breathes",
+    "child",
+    "alola",
+    "stench",
+    "person",
+    "leave",
+    "favorite",
+    "created",
+    "find",
+    "stomach",
+    "young",
+    "gas",
+    "catch",
+    "poisonous",
+    "living",
+    "places",
+    "full",
+    "hot",
+    "toxic",
+    "born"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +107,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "belch",
+        "unsanitary",
+        "week",
+        "inhaling",
+        "prefer",
+        "gas",
+        "places"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +127,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bags",
+        "combination",
+        "industrial",
+        "waste",
+        "chemical",
+        "reaction",
+        "caused",
+        "garbage",
+        "created"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +147,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "wanting",
+        "litter",
+        "belch",
+        "follow",
+        "garbage",
+        "gas"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +166,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "wanting",
+        "litter",
+        "belch",
+        "follow",
+        "garbage",
+        "gas"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +185,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bags",
+        "combination",
+        "industrial",
+        "waste",
+        "chemical",
+        "reaction",
+        "caused",
+        "garbage",
+        "created"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +205,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "belch",
+        "unsanitary",
+        "week",
+        "inhaling",
+        "prefer",
+        "gas",
+        "places"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +225,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bags",
+        "combination",
+        "industrial",
+        "waste",
+        "chemical",
+        "reaction",
+        "caused",
+        "garbage",
+        "created"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +245,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "belch",
+        "unsanitary",
+        "week",
+        "inhaling",
+        "prefer",
+        "gas",
+        "places"
+      ]
     },
     {
       "versionId": 27,
@@ -102,7 +265,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "unsanitary",
+        "pursuit",
+        "grimer",
+        "spotted",
+        "best",
+        "alola",
+        "places",
+        "hot"
+      ]
     },
     {
       "versionId": 28,
@@ -110,7 +286,24 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "hospital",
+        "gorges",
+        "belches",
+        "unlucky",
+        "whiff",
+        "trash",
+        "put",
+        "person",
+        "stomach",
+        "gas",
+        "full",
+        "toxic"
+      ]
     },
     {
       "versionId": 29,
@@ -118,7 +311,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "drooling",
+        "whiff",
+        "muk",
+        "leaks",
+        "breathes",
+        "stench",
+        "gas",
+        "catch",
+        "poisonous"
+      ]
     },
     {
       "versionId": 30,
@@ -126,7 +333,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "belches",
+        "threatening",
+        "situation",
+        "breathes",
+        "child",
+        "young",
+        "gas",
+        "toxic"
+      ]
     },
     {
       "versionId": 33,
@@ -134,7 +354,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unsanitary",
+        "room",
+        "trash",
+        "ones",
+        "lying",
+        "leave",
+        "favorite",
+        "find",
+        "living",
+        "places"
+      ]
     },
     {
       "versionId": 34,
@@ -142,7 +375,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "relish",
+        "bag",
+        "belched",
+        "galarian",
+        "fumes",
+        "stuffed",
+        "trash",
+        "weezing",
+        "born"
+      ]
     }
   ],
   "similarPokemonIds": [

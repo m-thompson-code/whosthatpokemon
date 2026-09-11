@@ -10,6 +10,27 @@
   ],
   "imagePath": "/assets/pokemon/883.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "anyway",
+    "difficulties",
+    "impervious",
+    "breathing",
+    "afterward",
+    "capture",
+    "trouble",
+    "freezing",
+    "extinct",
+    "top",
+    "able",
+    "surroundings",
+    "eating",
+    "though",
+    "skin",
+    "face"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": null,
@@ -39,7 +60,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Though it’s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "afterward",
+        "capture",
+        "trouble",
+        "freezing",
+        "top",
+        "able",
+        "surroundings",
+        "eating",
+        "though"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +82,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "anyway",
+        "difficulties",
+        "impervious",
+        "breathing",
+        "extinct",
+        "skin",
+        "face"
+      ]
     }
   ],
   "similarPokemonIds": [

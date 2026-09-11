@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/740.png",
   "entryCount": 4,
+  "entryTraits": [
+    "cold-climate",
+    "mountain-dwelling",
+    "fur",
+    "icy",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "lop",
+    "pummeling",
+    "rockets",
+    "avalanches",
+    "coldness",
+    "aimed",
+    "forced",
+    "pummels",
+    "got",
+    "ended",
+    "desperation",
+    "endure",
+    "flurry",
+    "indiscriminately",
+    "bits",
+    "records",
+    "smash",
+    "turning",
+    "snowy",
+    "grew",
+    "think",
+    "stops",
+    "evolved",
+    "throws",
+    "top",
+    "pincers",
+    "starts",
+    "walls",
+    "lost",
+    "punches",
+    "mountain",
+    "stores"
+  ],
   "color": "white",
   "shape": "armor",
   "habitat": null,
@@ -39,7 +80,26 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "aimed",
+        "forced",
+        "got",
+        "ended",
+        "endure",
+        "snowy",
+        "grew",
+        "evolved",
+        "top",
+        "lost",
+        "mountain"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +107,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It just throws punches indiscriminately. In times of desperation, it can lop off its own pincers and fire them like rockets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "lop",
+        "rockets",
+        "desperation",
+        "indiscriminately",
+        "throws",
+        "pincers",
+        "punches"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +127,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "coldness",
+        "pummels",
+        "bits",
+        "smash",
+        "pincers",
+        "walls",
+        "stores"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +148,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pummeling",
+        "avalanches",
+        "flurry",
+        "records",
+        "turning",
+        "think",
+        "stops",
+        "starts",
+        "punches"
+      ]
     }
   ],
   "similarPokemonIds": [

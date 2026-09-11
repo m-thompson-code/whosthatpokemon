@@ -9,6 +9,58 @@
   ],
   "imagePath": "/assets/pokemon/621.png",
   "entryCount": 12,
+  "entryTraits": [
+    "wings",
+    "claws",
+    "hunting",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "residence",
+    "squares",
+    "sunbathing",
+    "infiltrates",
+    "treating",
+    "excadrill",
+    "skips",
+    "lairs",
+    "dugtrio",
+    "stolen",
+    "cunning",
+    "pass",
+    "absorbing",
+    "onix",
+    "narrow",
+    "diglett",
+    "warms",
+    "tunnels",
+    "dug",
+    "races",
+    "longer",
+    "quietly",
+    "vicious",
+    "harder",
+    "nests",
+    "formed",
+    "waits",
+    "charges",
+    "falls",
+    "right",
+    "able",
+    "first",
+    "caves",
+    "runs",
+    "catch",
+    "red",
+    "against",
+    "rock",
+    "won",
+    "skin",
+    "face",
+    "sunlight",
+    "temperature"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +91,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "absorbing",
+        "warms",
+        "longer",
+        "falls",
+        "sunlight",
+        "temperature"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +110,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "narrow",
+        "races",
+        "harder",
+        "caves",
+        "catch",
+        "rock",
+        "skin",
+        "face"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +132,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "excadrill",
+        "onix",
+        "narrow",
+        "tunnels",
+        "formed",
+        "runs",
+        "catch"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +153,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "excadrill",
+        "onix",
+        "narrow",
+        "tunnels",
+        "formed",
+        "runs",
+        "catch"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +174,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "narrow",
+        "races",
+        "harder",
+        "caves",
+        "catch",
+        "rock",
+        "skin",
+        "face"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +196,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "absorbing",
+        "warms",
+        "longer",
+        "falls",
+        "sunlight",
+        "temperature"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +215,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "narrow",
+        "races",
+        "harder",
+        "caves",
+        "catch",
+        "rock",
+        "skin",
+        "face"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +237,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "absorbing",
+        "warms",
+        "longer",
+        "falls",
+        "sunlight",
+        "temperature"
+      ]
     },
     {
       "versionId": 29,
@@ -103,7 +256,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squares",
+        "narrow",
+        "harder",
+        "charges",
+        "right",
+        "first",
+        "caves",
+        "red",
+        "against",
+        "rock",
+        "skin",
+        "face"
+      ]
     },
     {
       "versionId": 30,
@@ -111,7 +279,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "infiltrates",
+        "dugtrio",
+        "pass",
+        "diglett",
+        "tunnels",
+        "dug",
+        "quietly",
+        "waits"
+      ]
     },
     {
       "versionId": 33,
@@ -119,7 +300,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Druddigon lives in caves, but it never skips sunbathing—it won’t be able to move if its body gets too cold.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "sunbathing",
+        "skips",
+        "able",
+        "caves",
+        "won"
+      ]
     },
     {
       "versionId": 34,
@@ -127,7 +319,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "residence",
+        "treating",
+        "lairs",
+        "stolen",
+        "cunning",
+        "dug",
+        "vicious",
+        "nests"
+      ]
     }
   ],
   "similarPokemonIds": [

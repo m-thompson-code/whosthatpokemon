@@ -9,6 +9,44 @@
   ],
   "imagePath": "/assets/pokemon/614.png",
   "entryCount": 10,
+  "entryTraits": [
+    "aquatic",
+    "hunting",
+    "icy",
+    "cold-climate",
+    "claws",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "energetically",
+    "pathways",
+    "northern",
+    "searching",
+    "freezes",
+    "tired",
+    "icy",
+    "north",
+    "seawater",
+    "rest",
+    "frigid",
+    "frozen",
+    "love",
+    "freeze",
+    "catches",
+    "waters",
+    "habitat",
+    "freezing",
+    "forms",
+    "harder",
+    "breath",
+    "able",
+    "areas",
+    "ocean",
+    "across",
+    "create",
+    "swims",
+    "seas"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +76,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "northern",
+        "freeze",
+        "catches",
+        "breath",
+        "able",
+        "swims",
+        "seas"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +98,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "claws",
+        "fangs",
+        "icy"
+      ],
+      "keywords": [
+        "northern",
+        "freezes",
+        "habitat",
+        "breath",
+        "areas",
+        "create"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +120,24 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "pathways",
+        "north",
+        "love",
+        "waters",
+        "freezing",
+        "breath",
+        "ocean",
+        "across",
+        "create",
+        "seas"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +145,24 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "pathways",
+        "north",
+        "love",
+        "waters",
+        "freezing",
+        "breath",
+        "ocean",
+        "across",
+        "create",
+        "seas"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +170,24 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "pathways",
+        "north",
+        "love",
+        "waters",
+        "freezing",
+        "breath",
+        "ocean",
+        "across",
+        "create",
+        "seas"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +195,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "claws",
+        "fangs",
+        "icy"
+      ],
+      "keywords": [
+        "northern",
+        "freezes",
+        "habitat",
+        "breath",
+        "areas",
+        "create"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +217,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "pathways",
+        "north",
+        "love",
+        "waters",
+        "freezing",
+        "breath",
+        "ocean",
+        "across",
+        "create",
+        "seas"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +242,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "claws",
+        "fangs",
+        "icy"
+      ],
+      "keywords": [
+        "northern",
+        "freezes",
+        "habitat",
+        "breath",
+        "areas",
+        "create"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +264,25 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "fangs",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "searching",
+        "icy",
+        "frigid",
+        "frozen",
+        "forms",
+        "harder",
+        "breath",
+        "swims",
+        "seas"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +290,23 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "energetically",
+        "freezes",
+        "tired",
+        "seawater",
+        "rest",
+        "frigid",
+        "breath",
+        "swims",
+        "seas"
+      ]
     }
   ],
   "similarPokemonIds": [

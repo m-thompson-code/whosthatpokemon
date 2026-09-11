@@ -10,6 +10,94 @@
   ],
   "imagePath": "/assets/pokemon/478.png",
   "entryCount": 20,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "hunting",
+    "mountain-dwelling",
+    "nocturnal",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "deathly",
+    "decorations",
+    "handsome",
+    "neatly",
+    "bearing",
+    "lingered",
+    "met",
+    "knocking",
+    "door",
+    "hikers",
+    "men",
+    "misbehaving",
+    "placing",
+    "relishes",
+    "shivers",
+    "icicle",
+    "regrets",
+    "settlements",
+    "spine",
+    "chilly",
+    "quarry",
+    "den",
+    "secretly",
+    "lair",
+    "my",
+    "lines",
+    "woman",
+    "possessed",
+    "reborn",
+    "terrible",
+    "58",
+    "curses",
+    "grudge",
+    "blowing",
+    "climb",
+    "souls",
+    "died",
+    "soul",
+    "becoming",
+    "display",
+    "inhabited",
+    "freezes",
+    "blizzards",
+    "brings",
+    "thinks",
+    "snowy",
+    "icy",
+    "legends",
+    "frozen",
+    "hear",
+    "freeze",
+    "hollow",
+    "nearly",
+    "regions",
+    "spits",
+    "send",
+    "60",
+    "home",
+    "nights",
+    "favorite",
+    "f",
+    "seems",
+    "breath",
+    "open",
+    "do",
+    "finds",
+    "say",
+    "humans",
+    "end",
+    "likes",
+    "actually",
+    "carries",
+    "lost",
+    "human",
+    "fahrenheit",
+    "mountain",
+    "takes",
+    "born"
+  ],
   "color": "white",
   "shape": "arms",
   "habitat": null,
@@ -40,7 +128,22 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "freezes",
+        "icy",
+        "hollow",
+        "nearly",
+        "60",
+        "f",
+        "seems",
+        "breath",
+        "actually"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +151,22 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "freezes",
+        "icy",
+        "hollow",
+        "nearly",
+        "60",
+        "f",
+        "seems",
+        "breath",
+        "actually"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +174,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "secretly",
+        "58",
+        "blowing",
+        "display",
+        "freezes",
+        "f",
+        "breath"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +195,23 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as FROSLASS.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "woman",
+        "reborn",
+        "snowy",
+        "icy",
+        "legends",
+        "regions",
+        "say",
+        "lost",
+        "mountain"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +219,23 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as FROSLASS",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "woman",
+        "reborn",
+        "snowy",
+        "icy",
+        "legends",
+        "regions",
+        "say",
+        "lost",
+        "mountain"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +243,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "secretly",
+        "58",
+        "blowing",
+        "display",
+        "freezes",
+        "f",
+        "breath"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +264,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "secretly",
+        "58",
+        "blowing",
+        "display",
+        "freezes",
+        "f",
+        "breath"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +285,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "secretly",
+        "58",
+        "blowing",
+        "display",
+        "freezes",
+        "f",
+        "breath"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +306,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "secretly",
+        "58",
+        "blowing",
+        "display",
+        "freezes",
+        "f",
+        "breath"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +327,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It freezes foes with an icy breath nearly -60 degrees Fahrenheit. What seems to be its body is actually hollow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "freezes",
+        "icy",
+        "hollow",
+        "nearly",
+        "60",
+        "seems",
+        "breath",
+        "actually",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +350,23 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "woman",
+        "reborn",
+        "snowy",
+        "icy",
+        "legends",
+        "regions",
+        "say",
+        "lost",
+        "mountain"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +374,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It freezes foes with an icy breath nearly -60 degrees Fahrenheit. What seems to be its body is actually hollow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "freezes",
+        "icy",
+        "hollow",
+        "nearly",
+        "60",
+        "seems",
+        "breath",
+        "actually",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +397,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "woman",
+        "reborn",
+        "snowy",
+        "icy",
+        "legends",
+        "regions",
+        "say",
+        "lost",
+        "mountain"
+      ]
     },
     {
       "versionId": 27,
@@ -144,7 +421,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "icy"
+      ],
+      "keywords": [
+        "decorations",
+        "chilly",
+        "den",
+        "freezes",
+        "finds",
+        "humans",
+        "likes",
+        "takes"
+      ]
     },
     {
       "versionId": 28,
@@ -152,7 +442,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The soul of a woman lost on a snowy mountain possessed an icicle, becoming this Pokémon. The food it most relishes is the souls of men.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "men",
+        "relishes",
+        "icicle",
+        "woman",
+        "possessed",
+        "souls",
+        "soul",
+        "becoming",
+        "snowy",
+        "lost",
+        "mountain"
+      ]
     },
     {
       "versionId": 29,
@@ -160,7 +466,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It freezes hikers who have come to climb snowy mountains and carries them back to its home. It only goes after men it thinks are handsome.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "handsome",
+        "hikers",
+        "men",
+        "climb",
+        "freezes",
+        "thinks",
+        "snowy",
+        "home",
+        "carries"
+      ]
     },
     {
       "versionId": 30,
@@ -168,7 +489,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s said that on nights of terrible blizzards, it comes down to human settlements. If you hear it knocking at your door, do not open it!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "knocking",
+        "door",
+        "settlements",
+        "terrible",
+        "blizzards",
+        "hear",
+        "nights",
+        "open",
+        "do",
+        "human"
+      ]
     },
     {
       "versionId": 33,
@@ -176,7 +512,25 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "After a woman met her end on a snowy mountain, her regrets lingered on. From them, this Pokémon was born. Its favorite food is frozen souls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "lingered",
+        "met",
+        "regrets",
+        "woman",
+        "souls",
+        "snowy",
+        "frozen",
+        "favorite",
+        "end",
+        "mountain",
+        "born"
+      ]
     },
     {
       "versionId": 34,
@@ -184,7 +538,26 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It spits out cold air of nearly −60 degrees Fahrenheit to freeze its quarry. It brings frozen prey back to its lair and neatly lines them up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "neatly",
+        "quarry",
+        "lair",
+        "lines",
+        "brings",
+        "frozen",
+        "freeze",
+        "nearly",
+        "spits",
+        "60",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 39,
@@ -192,7 +565,29 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "A Pokémon inhabited by the soul of a woman who died bearing a grudge in the snowy mountains. Legends of Froslass placing deathly curses on misbehaving men send shivers down my spine.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "deathly",
+        "bearing",
+        "men",
+        "misbehaving",
+        "placing",
+        "shivers",
+        "spine",
+        "my",
+        "woman",
+        "curses",
+        "grudge",
+        "died",
+        "soul",
+        "inhabited",
+        "snowy",
+        "legends",
+        "send"
+      ]
     }
   ],
   "similarPokemonIds": [

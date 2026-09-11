@@ -10,6 +10,43 @@
   ],
   "imagePath": "/assets/pokemon/270.png",
   "entryCount": 20,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "dwelled",
+    "wilts",
+    "returned",
+    "atop",
+    "ferry",
+    "dies",
+    "aquatic",
+    "began",
+    "ponds",
+    "occasions",
+    "carrying",
+    "now",
+    "floating",
+    "travels",
+    "broad",
+    "drink",
+    "grew",
+    "serves",
+    "float",
+    "searches",
+    "lakes",
+    "leaf",
+    "clean",
+    "swim",
+    "plant",
+    "rare",
+    "weak",
+    "surface",
+    "across",
+    "thought",
+    "search",
+    "heavy"
+  ],
   "color": "green",
   "shape": "armor",
   "habitat": "waters-edge",
@@ -40,7 +77,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LOTAD live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this POKéMON travels on land in search of clean water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dies",
+        "ponds",
+        "occasions",
+        "travels",
+        "broad",
+        "float",
+        "lakes",
+        "leaf",
+        "clean",
+        "rare",
+        "weak",
+        "surface",
+        "search"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +103,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LOTAD is said to have dwelled on land before. However, this POKéMON is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dwelled",
+        "returned",
+        "atop",
+        "now",
+        "floating",
+        "grew",
+        "leaf",
+        "thought",
+        "heavy"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +125,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "This POKéMON lives in ponds with clean water. It is known to ferry small POKéMON across ponds by carrying them on the broad leaf on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "ponds",
+        "carrying",
+        "broad",
+        "leaf",
+        "clean",
+        "across"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +145,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wilts",
+        "drink",
+        "searches",
+        "leaf",
+        "clean"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +163,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wilts",
+        "drink",
+        "searches",
+        "leaf",
+        "clean"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +181,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "aquatic",
+        "serves",
+        "swim",
+        "plant"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +199,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "aquatic",
+        "serves",
+        "swim",
+        "plant"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +217,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "aquatic",
+        "serves",
+        "swim",
+        "plant"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +235,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "began",
+        "floating",
+        "grew",
+        "leaf"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +252,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "began",
+        "floating",
+        "grew",
+        "leaf"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +269,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "aquatic",
+        "serves",
+        "swim",
+        "plant"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +287,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "aquatic",
+        "serves",
+        "swim",
+        "plant"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +305,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "aquatic",
+        "serves",
+        "swim",
+        "plant"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +323,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "aquatic",
+        "serves",
+        "swim",
+        "plant"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +341,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ferry",
+        "aquatic",
+        "serves",
+        "swim",
+        "plant"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +359,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wilts",
+        "drink",
+        "searches",
+        "leaf",
+        "clean"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +377,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dies",
+        "ponds",
+        "occasions",
+        "travels",
+        "broad",
+        "float",
+        "lakes",
+        "leaf",
+        "clean",
+        "rare",
+        "weak",
+        "surface",
+        "search"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +403,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lotad is said to have dwelled on land before. However, this Pokémon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dwelled",
+        "returned",
+        "atop",
+        "now",
+        "floating",
+        "grew",
+        "leaf",
+        "thought",
+        "heavy"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +425,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wilts",
+        "drink",
+        "searches",
+        "leaf",
+        "clean"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +443,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "began",
+        "floating",
+        "grew",
+        "leaf"
+      ]
     }
   ],
   "similarPokemonIds": [

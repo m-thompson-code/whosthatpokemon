@@ -10,6 +10,84 @@
   ],
   "imagePath": "/assets/pokemon/103.png",
   "entryCount": 32,
+  "entryTraits": [
+    "sonic",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "decision",
+    "discuss",
+    "independent",
+    "joint",
+    "rainforest",
+    "tripling",
+    "engages",
+    "cloudy",
+    "squabble",
+    "independently",
+    "interested",
+    "plans",
+    "tropical",
+    "ly",
+    "nuts",
+    "noisy",
+    "telepathic",
+    "drops",
+    "tropics",
+    "continue",
+    "lots",
+    "thoughts",
+    "sluggish",
+    "call",
+    "seem",
+    "originally",
+    "telepathy",
+    "directions",
+    "occasions",
+    "thinking",
+    "want",
+    "cluster",
+    "psychokinetic",
+    "thinks",
+    "exeggcute",
+    "put",
+    "friendly",
+    "whatever",
+    "steadily",
+    "unable",
+    "drop",
+    "jungle",
+    "legend",
+    "think",
+    "exposure",
+    "fallen",
+    "coming",
+    "don",
+    "3",
+    "environment",
+    "work",
+    "fires",
+    "falls",
+    "walking",
+    "fall",
+    "came",
+    "likes",
+    "called",
+    "group",
+    "rare",
+    "days",
+    "larger",
+    "different",
+    "living",
+    "another",
+    "emits",
+    "search",
+    "good",
+    "face",
+    "big",
+    "sunlight",
+    "heads"
+  ],
   "color": "yellow",
   "shape": "legs",
   "habitat": "forest",
@@ -39,7 +117,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "continue",
+        "occasions",
+        "exeggcute",
+        "drop",
+        "legend",
+        "rare",
+        "heads"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +135,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "continue",
+        "occasions",
+        "exeggcute",
+        "drop",
+        "legend",
+        "rare",
+        "heads"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +153,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "noisy",
+        "thinks",
+        "whatever",
+        "3",
+        "likes",
+        "heads"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +172,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its three heads think independent­ ly. However, they are friendly and never appear to squabble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "independent",
+        "squabble",
+        "ly",
+        "friendly",
+        "think",
+        "heads"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +189,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If a head drops off, it emits a telepathic call in search of others to form an EXEGGCUTE cluster.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "drops",
+        "call",
+        "cluster",
+        "exeggcute",
+        "emits",
+        "search"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +207,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Living in a good environment makes it grow lots of heads. A head that drops off becomes an EXEGGCUTE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "drops",
+        "lots",
+        "exeggcute",
+        "environment",
+        "living",
+        "good",
+        "heads"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +225,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "EXEGGUTOR originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form EXEGGCUTE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tropics",
+        "originally",
+        "exeggcute",
+        "steadily",
+        "exposure",
+        "fall",
+        "came",
+        "group",
+        "larger",
+        "sunlight",
+        "heads"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +247,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "EXEGGUTOR originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form EXEGGCUTE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tropics",
+        "originally",
+        "exeggcute",
+        "steadily",
+        "exposure",
+        "fall",
+        "came",
+        "group",
+        "larger",
+        "sunlight",
+        "heads"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +269,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Originally from the tropics, EXEGGUTOR’s heads grow larger from exposure to strong sunlight. It is said that when the heads fall, they group to form an EXEGGCUTE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tropics",
+        "originally",
+        "exeggcute",
+        "exposure",
+        "fall",
+        "group",
+        "larger",
+        "sunlight",
+        "heads"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +289,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is called “The Walking Tropical Rainforest.” Each of the nuts has a face and a will of its own.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainforest",
+        "tropical",
+        "nuts",
+        "walking",
+        "called",
+        "face"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +306,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is said that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "continue",
+        "occasions",
+        "exeggcute",
+        "drop",
+        "rare",
+        "heads"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +323,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "jungle",
+        "falls",
+        "walking",
+        "called",
+        "big"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +340,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "jungle",
+        "falls",
+        "walking",
+        "called",
+        "big"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +357,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "jungle",
+        "falls",
+        "walking",
+        "called",
+        "big"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +374,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its three heads think independently. However, they are friendly and never appear to squabble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squabble",
+        "independently",
+        "friendly",
+        "think",
+        "heads"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +390,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If a head drops off, it emits a telepathic call in search of others to form an EXEGGCUTE cluster.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "telepathic",
+        "drops",
+        "call",
+        "cluster",
+        "exeggcute",
+        "emits",
+        "search"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +408,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "jungle",
+        "falls",
+        "walking",
+        "called",
+        "big"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +425,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "jungle",
+        "falls",
+        "walking",
+        "called",
+        "big"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +442,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "jungle",
+        "falls",
+        "walking",
+        "called",
+        "big"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +459,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "jungle",
+        "falls",
+        "walking",
+        "called",
+        "big"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +476,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its three heads think independently. However, they are friendly and never appear to squabble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squabble",
+        "independently",
+        "friendly",
+        "think",
+        "heads"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +492,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "jungle",
+        "falls",
+        "walking",
+        "called",
+        "big"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +509,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tropics",
+        "originally",
+        "exeggcute",
+        "steadily",
+        "exposure",
+        "fall",
+        "came",
+        "group",
+        "larger",
+        "sunlight",
+        "heads"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +531,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tropics",
+        "originally",
+        "exeggcute",
+        "steadily",
+        "exposure",
+        "fall",
+        "came",
+        "group",
+        "larger",
+        "sunlight",
+        "heads"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +553,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Each of its heads has its own will. They use telepathy to discuss their plans before coming to a joint decision.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decision",
+        "discuss",
+        "joint",
+        "plans",
+        "telepathy",
+        "coming",
+        "heads"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +571,14 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When the time comes, one of its three heads falls off. Before long, the fallen head grows into an Exeggcute.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exeggcute",
+        "fallen",
+        "falls",
+        "heads"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +586,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It engages its enemies using psychic powers. Each of its three heads fires off psychokinetic energy, tripling its power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "tripling",
+        "engages",
+        "psychokinetic",
+        "fires",
+        "heads"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +604,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Each of its three heads has its own thoughts. When they want to go in different directions, Exeggutor becomes unable to move.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "thoughts",
+        "directions",
+        "want",
+        "unable",
+        "different",
+        "heads"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +621,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "noisy",
+        "thinks",
+        "whatever",
+        "likes",
+        "heads"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +639,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "noisy",
+        "thinks",
+        "whatever",
+        "likes",
+        "heads"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +657,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "interested",
+        "thoughts",
+        "seem",
+        "thinking",
+        "don",
+        "different",
+        "another",
+        "heads"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +676,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "cloudy",
+        "sluggish",
+        "put",
+        "work",
+        "days",
+        "heads"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,88 @@
   ],
   "imagePath": "/assets/pokemon/095.png",
   "entryCount": 29,
+  "entryTraits": [
+    "burrowing",
+    "cave-dwelling"
+  ],
+  "entryKeywords": [
+    "digletts",
+    "mas",
+    "rumbling",
+    "ingests",
+    "serpent",
+    "portions",
+    "sive",
+    "squirming",
+    "squirms",
+    "thunderous",
+    "twists",
+    "compass",
+    "roar",
+    "rounder",
+    "smoother",
+    "boring",
+    "echoes",
+    "tunneling",
+    "bores",
+    "burrowing",
+    "chain",
+    "magnet",
+    "diamonds",
+    "prevents",
+    "immense",
+    "tremors",
+    "increasingly",
+    "losing",
+    "twisting",
+    "harden",
+    "hour",
+    "rapidly",
+    "amounts",
+    "diglett",
+    "stones",
+    "50",
+    "colored",
+    "homes",
+    "older",
+    "tunnels",
+    "acts",
+    "per",
+    "feeding",
+    "resembles",
+    "shake",
+    "lose",
+    "opening",
+    "earth",
+    "travels",
+    "rugged",
+    "steadily",
+    "stone",
+    "solid",
+    "giant",
+    "searches",
+    "objects",
+    "diamond",
+    "beneath",
+    "massive",
+    "similar",
+    "burrows",
+    "above",
+    "direction",
+    "digs",
+    "absorbs",
+    "mph",
+    "miles",
+    "boulders",
+    "black",
+    "causes",
+    "soil",
+    "brain",
+    "underground",
+    "creates",
+    "search",
+    "usually"
+  ],
   "color": "gray",
   "shape": "squiggle",
   "habitat": "cave",
@@ -39,7 +121,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "portions",
+        "harden",
+        "colored",
+        "stone",
+        "diamond",
+        "similar",
+        "black"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +139,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "portions",
+        "harden",
+        "colored",
+        "stone",
+        "diamond",
+        "similar",
+        "black"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +157,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "digletts",
+        "homes",
+        "tunnels",
+        "burrows",
+        "search"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +175,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squirms",
+        "thunderous",
+        "twists",
+        "roar",
+        "echoes",
+        "tunneling"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +192,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its mas­ sive, rugged body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mas",
+        "sive",
+        "squirming",
+        "bores",
+        "twisting",
+        "rapidly",
+        "50",
+        "rugged",
+        "mph"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +212,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "solid",
+        "objects",
+        "digs",
+        "absorbs"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +229,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "compass",
+        "rounder",
+        "smoother",
+        "tunneling",
+        "magnet",
+        "increasingly",
+        "older",
+        "acts",
+        "lose",
+        "direction",
+        "brain"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +251,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "compass",
+        "rounder",
+        "smoother",
+        "tunneling",
+        "magnet",
+        "increasingly",
+        "older",
+        "acts",
+        "lose",
+        "direction",
+        "brain"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +273,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "There is a magnet in its brain that prevents an ONIX from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "rounder",
+        "smoother",
+        "tunneling",
+        "magnet",
+        "prevents",
+        "losing",
+        "older",
+        "steadily",
+        "direction",
+        "brain"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +294,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "boring",
+        "hour",
+        "50",
+        "per",
+        "searches",
+        "miles",
+        "underground",
+        "usually"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +315,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "As it grows, the stone portions of its body harden to become similar to black-colored diamonds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "portions",
+        "diamonds",
+        "harden",
+        "colored",
+        "stone",
+        "similar",
+        "black"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +333,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When it travels underground, it causes rumbling and tremors. It can move at 50 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "rumbling",
+        "tremors",
+        "50",
+        "travels",
+        "mph",
+        "causes",
+        "underground"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +353,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It squirms through the ground using its long and rugged body. It always eats while burrowing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "squirms",
+        "burrowing",
+        "rugged"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +369,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "50",
+        "feeding",
+        "burrows",
+        "mph",
+        "boulders"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +387,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squirms",
+        "thunderous",
+        "twists",
+        "roar",
+        "echoes",
+        "tunneling"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +404,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squirming",
+        "bores",
+        "twisting",
+        "rapidly",
+        "50",
+        "rugged",
+        "massive",
+        "mph"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +423,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "50",
+        "feeding",
+        "burrows",
+        "mph",
+        "boulders"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +441,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "50",
+        "feeding",
+        "burrows",
+        "mph",
+        "boulders"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +459,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingests",
+        "amounts",
+        "tunnels",
+        "opening",
+        "massive",
+        "soil",
+        "creates"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +477,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingests",
+        "amounts",
+        "tunnels",
+        "opening",
+        "massive",
+        "soil",
+        "creates"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +495,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "diglett",
+        "homes",
+        "tunnels",
+        "burrows",
+        "search"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +513,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "boring",
+        "hour",
+        "50",
+        "per",
+        "searches",
+        "miles",
+        "underground",
+        "usually"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +534,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "compass",
+        "rounder",
+        "smoother",
+        "tunneling",
+        "magnet",
+        "increasingly",
+        "older",
+        "acts",
+        "lose",
+        "direction",
+        "brain"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +556,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "compass",
+        "rounder",
+        "smoother",
+        "tunneling",
+        "magnet",
+        "increasingly",
+        "older",
+        "acts",
+        "lose",
+        "direction",
+        "brain"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +578,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "diglett",
+        "homes",
+        "tunnels",
+        "burrows",
+        "search"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +596,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "diglett",
+        "homes",
+        "tunnels",
+        "burrows",
+        "search"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +614,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "solid",
+        "objects",
+        "digs",
+        "absorbs"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +631,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squirming",
+        "bores",
+        "twisting",
+        "rapidly",
+        "50",
+        "rugged",
+        "massive",
+        "mph"
+      ]
     },
     {
       "versionId": 39,
@@ -263,7 +650,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "serpent",
+        "chain",
+        "immense",
+        "tremors",
+        "stones",
+        "feeding",
+        "resembles",
+        "shake",
+        "earth",
+        "giant",
+        "beneath",
+        "burrows",
+        "above",
+        "boulders"
+      ]
     }
   ],
   "similarPokemonIds": [

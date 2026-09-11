@@ -9,6 +9,85 @@
   ],
   "imagePath": "/assets/pokemon/050.png",
   "entryCount": 32,
+  "entryTraits": [
+    "cave-dwelling",
+    "luminous",
+    "burrowing",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "cherish",
+    "nurture",
+    "enrich",
+    "plow",
+    "pest",
+    "vegetables",
+    "droppings",
+    "farms",
+    "yard",
+    "aboveground",
+    "farmers",
+    "repelled",
+    "simple",
+    "tilled",
+    "heats",
+    "planting",
+    "pop",
+    "chews",
+    "sticking",
+    "easy",
+    "wake",
+    "vulnerable",
+    "crops",
+    "raised",
+    "field",
+    "ideal",
+    "whose",
+    "depth",
+    "perfectly",
+    "shallow",
+    "tunnels",
+    "wherever",
+    "hates",
+    "earth",
+    "travels",
+    "burrow",
+    "spends",
+    "getting",
+    "isn",
+    "quite",
+    "habitat",
+    "roots",
+    "feeds",
+    "spot",
+    "exposed",
+    "growing",
+    "left",
+    "causing",
+    "delicious",
+    "bright",
+    "burrows",
+    "above",
+    "fields",
+    "find",
+    "blood",
+    "digs",
+    "plant",
+    "caves",
+    "reason",
+    "prefers",
+    "thin",
+    "weak",
+    "soil",
+    "dark",
+    "underground",
+    "places",
+    "though",
+    "skin",
+    "sun",
+    "sunlight",
+    "eat"
+  ],
   "color": "brown",
   "shape": "blob",
   "habitat": "cave",
@@ -38,7 +117,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "yard",
+        "roots",
+        "feeds",
+        "above",
+        "plant",
+        "underground"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +136,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "yard",
+        "roots",
+        "feeds",
+        "above",
+        "plant",
+        "underground"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +155,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It prefers dark places. It spends most of its time underground, though it may pop up in caves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "pop",
+        "spends",
+        "caves",
+        "prefers",
+        "dark",
+        "underground",
+        "places",
+        "though"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +176,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "heats",
+        "exposed",
+        "causing",
+        "blood",
+        "thin",
+        "weak",
+        "skin"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +196,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If a DIGLETT DIGS through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "tilled",
+        "planting",
+        "crops",
+        "field",
+        "ideal",
+        "perfectly",
+        "digs",
+        "soil"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +217,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It digs under­ ground and chews on tree roots, sticking its head out only when the sun isn't bright.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "chews",
+        "sticking",
+        "isn",
+        "roots",
+        "bright",
+        "digs",
+        "sun"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +238,28 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DIGLETT are raised in most farms. The reason is simple - wherever this POKéMON burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "vegetables",
+        "farms",
+        "simple",
+        "tilled",
+        "planting",
+        "crops",
+        "raised",
+        "ideal",
+        "perfectly",
+        "wherever",
+        "growing",
+        "left",
+        "delicious",
+        "burrows",
+        "reason",
+        "soil"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +267,28 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DIGLETT are raised in most farms. The reason is simple - wherever this POKéMON burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "vegetables",
+        "farms",
+        "simple",
+        "tilled",
+        "planting",
+        "crops",
+        "raised",
+        "ideal",
+        "perfectly",
+        "wherever",
+        "growing",
+        "left",
+        "delicious",
+        "burrows",
+        "reason",
+        "soil"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +296,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "DIGLETT are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "farms",
+        "simple",
+        "tilled",
+        "crops",
+        "raised",
+        "perfectly",
+        "wherever",
+        "burrow",
+        "growing",
+        "left",
+        "delicious",
+        "reason",
+        "soil"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +322,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "easy",
+        "wake",
+        "raised",
+        "depth",
+        "shallow",
+        "earth",
+        "spot",
+        "burrows"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +343,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "yard",
+        "aboveground",
+        "roots",
+        "feeds",
+        "plant",
+        "underground"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +362,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "repelled",
+        "habitat",
+        "bright",
+        "dark",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +381,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "repelled",
+        "habitat",
+        "bright",
+        "dark",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +400,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "repelled",
+        "habitat",
+        "bright",
+        "dark",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +419,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "heats",
+        "exposed",
+        "causing",
+        "blood",
+        "thin",
+        "weak",
+        "skin"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +439,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If a DIGLETT digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "tilled",
+        "planting",
+        "crops",
+        "field",
+        "ideal",
+        "perfectly",
+        "digs",
+        "soil"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +460,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "repelled",
+        "habitat",
+        "bright",
+        "dark",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +479,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "repelled",
+        "habitat",
+        "bright",
+        "dark",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +498,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "repelled",
+        "habitat",
+        "bright",
+        "dark",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +517,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "repelled",
+        "habitat",
+        "bright",
+        "dark",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +536,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "yard",
+        "aboveground",
+        "roots",
+        "feeds",
+        "plant",
+        "underground"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +555,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "heats",
+        "exposed",
+        "causing",
+        "blood",
+        "thin",
+        "weak",
+        "skin"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +575,28 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "vegetables",
+        "farms",
+        "simple",
+        "tilled",
+        "planting",
+        "crops",
+        "raised",
+        "ideal",
+        "perfectly",
+        "wherever",
+        "growing",
+        "left",
+        "delicious",
+        "burrows",
+        "reason",
+        "soil"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +604,28 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "vegetables",
+        "farms",
+        "simple",
+        "tilled",
+        "planting",
+        "crops",
+        "raised",
+        "ideal",
+        "perfectly",
+        "wherever",
+        "growing",
+        "left",
+        "delicious",
+        "burrows",
+        "reason",
+        "soil"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +633,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It chews on plant roots underground. Farmers whose vegetables are vulnerable find it can be quite a pest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "pest",
+        "vegetables",
+        "farmers",
+        "chews",
+        "vulnerable",
+        "whose",
+        "quite",
+        "roots",
+        "find",
+        "plant",
+        "underground"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +657,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Many farmers cherish and nurture Diglett because its droppings enrich the soil it lives in.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cherish",
+        "nurture",
+        "enrich",
+        "droppings",
+        "farmers",
+        "soil"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +674,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It travels through tunnels that it digs underground. It hates sunlight, so it comes out only after the sun goes down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "tunnels",
+        "hates",
+        "travels",
+        "digs",
+        "underground",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +695,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Around their crops, farmers plant the kind of tree that Diglett like to eat as a way of getting Diglett to plow the fields for them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "plow",
+        "farmers",
+        "crops",
+        "getting",
+        "fields",
+        "plant",
+        "eat"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +715,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It prefers dark places. It spends most of its time underground, though it may pop up in caves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "pop",
+        "spends",
+        "caves",
+        "prefers",
+        "dark",
+        "underground",
+        "places",
+        "though"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +736,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It prefers dark places. It spends most of its time underground, though it may pop up in caves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "pop",
+        "spends",
+        "caves",
+        "prefers",
+        "dark",
+        "underground",
+        "places",
+        "though"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +757,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "tilled",
+        "planting",
+        "crops",
+        "field",
+        "ideal",
+        "perfectly",
+        "digs",
+        "soil"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +778,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "easy",
+        "wake",
+        "raised",
+        "depth",
+        "shallow",
+        "earth",
+        "spot",
+        "burrows"
+      ]
     }
   ],
   "similarPokemonIds": [

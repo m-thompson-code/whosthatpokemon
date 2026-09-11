@@ -9,6 +9,92 @@
   ],
   "imagePath": "/assets/pokemon/116.png",
   "entryCount": 28,
+  "entryTraits": [
+    "aquatic",
+    "tail"
+  ],
+  "entryKeywords": [
+    "tangling",
+    "coil",
+    "flicking",
+    "reflexively",
+    "whirlpool",
+    "wound",
+    "maintains",
+    "anchors",
+    "forward",
+    "corals",
+    "wrapping",
+    "adeptly",
+    "moss",
+    "precision",
+    "compete",
+    "playfully",
+    "whirlpools",
+    "controlling",
+    "shade",
+    "spray",
+    "coral",
+    "insects",
+    "oceans",
+    "washed",
+    "pitch",
+    "allowing",
+    "biggest",
+    "current",
+    "dorsal",
+    "rapidly",
+    "bugs",
+    "dense",
+    "escapes",
+    "vigorously",
+    "flees",
+    "location",
+    "murky",
+    "currents",
+    "facing",
+    "safe",
+    "backward",
+    "gentle",
+    "cleverly",
+    "motions",
+    "ink",
+    "type",
+    "balance",
+    "safety",
+    "fin",
+    "side",
+    "shoot",
+    "spits",
+    "blasts",
+    "prevent",
+    "home",
+    "flapping",
+    "direction",
+    "generate",
+    "escape",
+    "try",
+    "dance",
+    "re",
+    "swim",
+    "fins",
+    "larger",
+    "turns",
+    "black",
+    "ocean",
+    "special",
+    "surface",
+    "attacked",
+    "fast",
+    "still",
+    "swims",
+    "tails",
+    "well",
+    "quickly",
+    "big",
+    "rocks",
+    "developed"
+  ],
   "color": "blue",
   "shape": "blob",
   "habitat": "sea",
@@ -39,7 +125,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "precision",
+        "bugs",
+        "ink",
+        "shoot",
+        "blasts",
+        "surface"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +144,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "precision",
+        "bugs",
+        "ink",
+        "shoot",
+        "blasts",
+        "surface"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +163,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spray",
+        "vigorously",
+        "ink",
+        "type",
+        "special"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +181,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adeptly",
+        "controlling",
+        "dorsal",
+        "safety",
+        "fin",
+        "larger",
+        "attacked",
+        "swims",
+        "quickly"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +203,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "forward",
+        "allowing",
+        "rapidly",
+        "facing",
+        "backward",
+        "swim",
+        "fins",
+        "still",
+        "big",
+        "developed"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +226,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When they're in a safe location, they can be seen playfully tangling their tails together.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "tangling",
+        "playfully",
+        "location",
+        "safe",
+        "re",
+        "tails"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +245,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "HORSEA eats small insects and moss off of rocks. If the ocean current turns fast, this POKéMON anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "anchors",
+        "wrapping",
+        "moss",
+        "coral",
+        "insects",
+        "washed",
+        "current",
+        "prevent",
+        "turns",
+        "ocean",
+        "fast",
+        "rocks"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +271,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If HORSEA senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This POKéMON swims by cleverly flapping the fins on its back.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "reflexively",
+        "spray",
+        "dense",
+        "cleverly",
+        "ink",
+        "flapping",
+        "escape",
+        "try",
+        "fins",
+        "black",
+        "swims"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +295,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flicking",
+        "forward",
+        "facing",
+        "cleverly",
+        "ink",
+        "side",
+        "spits",
+        "direction",
+        "escape",
+        "fins"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +316,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "coil",
+        "wound",
+        "maintains",
+        "spray",
+        "ink",
+        "balance"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +335,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "precision",
+        "bugs",
+        "ink",
+        "shoot",
+        "blasts",
+        "surface"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +354,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corals",
+        "shade",
+        "flees",
+        "murky",
+        "ink",
+        "spits"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +371,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corals",
+        "shade",
+        "flees",
+        "murky",
+        "ink",
+        "spits"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +388,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corals",
+        "shade",
+        "flees",
+        "murky",
+        "ink",
+        "spits"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +405,23 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its well-developed dorsal fin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adeptly",
+        "controlling",
+        "dorsal",
+        "safety",
+        "fin",
+        "larger",
+        "attacked",
+        "swims",
+        "well",
+        "quickly",
+        "developed"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +429,22 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "forward",
+        "allowing",
+        "rapidly",
+        "facing",
+        "backward",
+        "swim",
+        "fins",
+        "still",
+        "big",
+        "developed"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +452,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corals",
+        "shade",
+        "flees",
+        "murky",
+        "ink",
+        "spits"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +469,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corals",
+        "shade",
+        "flees",
+        "murky",
+        "ink",
+        "spits"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +486,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corals",
+        "shade",
+        "flees",
+        "murky",
+        "ink",
+        "spits"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +503,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corals",
+        "shade",
+        "flees",
+        "murky",
+        "ink",
+        "spits"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +520,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "precision",
+        "bugs",
+        "ink",
+        "shoot",
+        "blasts",
+        "surface"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +539,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corals",
+        "shade",
+        "flees",
+        "murky",
+        "ink",
+        "spits"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +556,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "anchors",
+        "wrapping",
+        "moss",
+        "coral",
+        "insects",
+        "washed",
+        "current",
+        "prevent",
+        "turns",
+        "ocean",
+        "fast",
+        "rocks"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +582,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "reflexively",
+        "spray",
+        "dense",
+        "cleverly",
+        "ink",
+        "fin",
+        "flapping",
+        "escape",
+        "try",
+        "black",
+        "swims"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +606,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spray",
+        "vigorously",
+        "ink",
+        "type",
+        "special"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +624,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spray",
+        "vigorously",
+        "ink",
+        "type",
+        "special"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +642,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "oceans",
+        "pitch",
+        "escapes",
+        "currents",
+        "gentle",
+        "ink",
+        "spits",
+        "home",
+        "black"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +662,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "whirlpool",
+        "compete",
+        "whirlpools",
+        "biggest",
+        "motions",
+        "generate",
+        "dance",
+        "swim"
+      ]
     }
   ],
   "similarPokemonIds": [

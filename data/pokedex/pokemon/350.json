@@ -9,6 +9,83 @@
   ],
   "imagePath": "/assets/pokemon/350.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "arise",
+    "disappointed",
+    "loveliness",
+    "purified",
+    "statues",
+    "artists",
+    "pulsing",
+    "becalm",
+    "breathtakingly",
+    "feuding",
+    "quell",
+    "referred",
+    "behold",
+    "depicted",
+    "featuring",
+    "inspiration",
+    "restless",
+    "glimpse",
+    "paintings",
+    "troubled",
+    "viewing",
+    "bicker",
+    "combative",
+    "war",
+    "lovely",
+    "provided",
+    "feebas",
+    "hostile",
+    "dwelling",
+    "hostility",
+    "soothing",
+    "minds",
+    "art",
+    "forget",
+    "seemingly",
+    "soothes",
+    "works",
+    "angle",
+    "rainbow",
+    "raised",
+    "wave",
+    "described",
+    "bitter",
+    "anger",
+    "colored",
+    "vivid",
+    "hearts",
+    "brings",
+    "pink",
+    "beauty",
+    "considered",
+    "clear",
+    "depending",
+    "feeling",
+    "depths",
+    "lakes",
+    "shows",
+    "calm",
+    "glows",
+    "color",
+    "bottom",
+    "releases",
+    "violent",
+    "spirits",
+    "change",
+    "re",
+    "beautiful",
+    "scales",
+    "emotions",
+    "place",
+    "big"
+  ],
   "color": "pink",
   "shape": "squiggle",
   "habitat": "waters-edge",
@@ -39,7 +116,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MILOTIC is said to be the most beautiful of all the POKéMON. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "becalm",
+        "feuding",
+        "quell",
+        "hostility",
+        "bitter",
+        "anger",
+        "beautiful",
+        "emotions"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +135,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MILOTIC live at the bottom of large lakes. When this POKéMON’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "pulsing",
+        "restless",
+        "soothing",
+        "wave",
+        "vivid",
+        "brings",
+        "pink",
+        "lakes",
+        "calm",
+        "glows",
+        "bottom",
+        "releases",
+        "spirits"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +162,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is said to live at the bottom of large lakes. Considered to be the most beautiful of all POKéMON, it has been depicted in paintings and statues.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "statues",
+        "depicted",
+        "paintings",
+        "considered",
+        "lakes",
+        "bottom",
+        "beautiful"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +180,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "breathtakingly",
+        "combative",
+        "forget",
+        "spirits",
+        "beautiful"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +196,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "breathtakingly",
+        "combative",
+        "forget",
+        "spirits",
+        "beautiful"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +212,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When people bicker, it is said to arise from the depths of lakes to becalm violent hearts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "arise",
+        "becalm",
+        "bicker",
+        "hearts",
+        "depths",
+        "lakes",
+        "violent"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +230,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is the world’s most beautiful Pokémon. There are many works of art featuring MILOTIC.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "featuring",
+        "art",
+        "works",
+        "beautiful"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +245,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "viewing",
+        "lovely",
+        "angle",
+        "rainbow",
+        "described",
+        "colored",
+        "depending",
+        "color",
+        "change",
+        "scales"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +266,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s said that a glimpse of a MILOTIC and its beauty will calm any hostile emotions you’re feeling.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "glimpse",
+        "hostile",
+        "beauty",
+        "feeling",
+        "calm",
+        "re",
+        "emotions"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +284,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s said that a glimpse of a MILOTIC and its beauty will calm any hostile emotions you’re feeling.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "glimpse",
+        "hostile",
+        "beauty",
+        "feeling",
+        "calm",
+        "re",
+        "emotions"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +302,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "viewing",
+        "lovely",
+        "angle",
+        "rainbow",
+        "described",
+        "colored",
+        "depending",
+        "color",
+        "change",
+        "scales"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +323,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "viewing",
+        "lovely",
+        "angle",
+        "rainbow",
+        "described",
+        "colored",
+        "depending",
+        "color",
+        "change",
+        "scales"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +344,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "viewing",
+        "lovely",
+        "angle",
+        "rainbow",
+        "described",
+        "colored",
+        "depending",
+        "color",
+        "change",
+        "scales"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +365,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "viewing",
+        "lovely",
+        "angle",
+        "rainbow",
+        "described",
+        "colored",
+        "depending",
+        "color",
+        "change",
+        "scales"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +386,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "breathtakingly",
+        "combative",
+        "forget",
+        "spirits",
+        "beautiful"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +402,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is the world’s most beautiful Pokémon. There are many works of art featuring Milotic.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "featuring",
+        "art",
+        "works",
+        "beautiful"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +417,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "becalm",
+        "feuding",
+        "quell",
+        "hostility",
+        "bitter",
+        "anger",
+        "beautiful",
+        "emotions"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +436,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Milotic live at the bottom of large lakes. When this Pokémon’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to troubled hearts.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "pulsing",
+        "troubled",
+        "soothing",
+        "wave",
+        "vivid",
+        "hearts",
+        "brings",
+        "pink",
+        "lakes",
+        "calm",
+        "glows",
+        "bottom",
+        "releases"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +463,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "artists",
+        "referred",
+        "inspiration",
+        "provided",
+        "beautiful"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +479,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people’s minds and hearts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "war",
+        "minds",
+        "soothes",
+        "hearts",
+        "clear",
+        "lakes",
+        "shows",
+        "bottom"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +498,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "While Milotic is said to be the most beautiful Pokémon, Trainers who like Feebas and have raised it are seemingly disappointed by Milotic.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "disappointed",
+        "feebas",
+        "seemingly",
+        "raised",
+        "beautiful"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +514,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its dwelling place is the bottom of big lakes. Those who behold its loveliness are said to have their hearts purified.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "loveliness",
+        "purified",
+        "behold",
+        "dwelling",
+        "hearts",
+        "lakes",
+        "bottom",
+        "place",
+        "big"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +534,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "artists",
+        "referred",
+        "inspiration",
+        "provided",
+        "beautiful"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +550,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "glimpse",
+        "hostile",
+        "beauty",
+        "feeling",
+        "calm",
+        "re",
+        "emotions"
+      ]
     }
   ],
   "similarPokemonIds": [

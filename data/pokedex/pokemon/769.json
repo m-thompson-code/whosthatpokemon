@@ -10,6 +10,45 @@
   ],
   "imagePath": "/assets/pokemon/769.png",
   "entryCount": 6,
+  "entryTraits": [
+    "desert-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "accumulation",
+    "forcing",
+    "mounds",
+    "shovel",
+    "fond",
+    "inhabits",
+    "mainly",
+    "mound",
+    "departed",
+    "grudges",
+    "adds",
+    "possessed",
+    "playfully",
+    "serious",
+    "embodies",
+    "built",
+    "playing",
+    "destroy",
+    "child",
+    "puts",
+    "dead",
+    "beaches",
+    "build",
+    "hand",
+    "bigger",
+    "home",
+    "children",
+    "likes",
+    "re",
+    "anyone",
+    "sand",
+    "takes",
+    "born"
+  ],
   "color": "brown",
   "shape": "squiggle",
   "habitat": null,
@@ -39,7 +78,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "mound",
+        "departed",
+        "grudges",
+        "playfully",
+        "embodies",
+        "built",
+        "child",
+        "sand",
+        "born"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +100,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "accumulation",
+        "mound",
+        "adds",
+        "puts",
+        "hand",
+        "anyone",
+        "sand",
+        "takes"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +122,14 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "shovel",
+        "serious",
+        "children",
+        "likes"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +137,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If you build sand mounds when you’re playing, destroy them before you go home, or they may get possessed and become Sandygast.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "mounds",
+        "possessed",
+        "playing",
+        "destroy",
+        "build",
+        "home",
+        "re",
+        "sand"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +158,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Grudges of the dead have possessed a mound of sand and become a Pokémon. Sandygast is fond of the shovel on its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "shovel",
+        "fond",
+        "mound",
+        "grudges",
+        "possessed",
+        "dead",
+        "sand"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +178,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "forcing",
+        "inhabits",
+        "mainly",
+        "puts",
+        "beaches",
+        "hand",
+        "bigger",
+        "anyone",
+        "takes"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,39 @@
   ],
   "imagePath": "/assets/pokemon/517.png",
   "entryCount": 10,
+  "entryTraits": [
+    "sky-dwelling",
+    "nocturnal",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "beside",
+    "nightmare",
+    "pillows",
+    "late",
+    "mist",
+    "nightmares",
+    "forget",
+    "whose",
+    "colored",
+    "expels",
+    "pink",
+    "pleasant",
+    "faint",
+    "eaten",
+    "dream",
+    "float",
+    "dreams",
+    "having",
+    "feeds",
+    "glow",
+    "releases",
+    "had",
+    "patterns",
+    "black",
+    "eating",
+    "good"
+  ],
   "color": "pink",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +71,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "forget",
+        "whose",
+        "eaten",
+        "float",
+        "dreams",
+        "had"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +90,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mist",
+        "colored",
+        "expels",
+        "pink",
+        "pleasant",
+        "dream",
+        "dreams"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +108,13 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nightmares",
+        "dreams",
+        "having"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +122,13 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nightmares",
+        "dreams",
+        "having"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +136,13 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nightmares",
+        "dreams",
+        "having"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +150,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mist",
+        "colored",
+        "expels",
+        "pink",
+        "pleasant",
+        "dream",
+        "dreams"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +168,13 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nightmares",
+        "dreams",
+        "having"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +182,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mist",
+        "colored",
+        "expels",
+        "pink",
+        "pleasant",
+        "dream",
+        "dreams"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +200,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Late at night, it appears beside people’s pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "beside",
+        "pillows",
+        "late",
+        "faint",
+        "dreams",
+        "feeds",
+        "glow",
+        "patterns"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +222,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nightmare",
+        "mist",
+        "pink",
+        "dream",
+        "dreams",
+        "releases",
+        "black",
+        "eating",
+        "good"
+      ]
     }
   ],
   "similarPokemonIds": [

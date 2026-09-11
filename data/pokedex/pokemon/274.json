@@ -10,6 +10,48 @@
   ],
   "imagePath": "/assets/pokemon/274.png",
   "entryCount": 20,
+  "entryTraits": [
+    "forest-dwelling",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "gripped",
+    "pinched",
+    "uncertainty",
+    "bored",
+    "dread",
+    "venture",
+    "densely",
+    "overgrown",
+    "climbing",
+    "dwelling",
+    "startle",
+    "pointed",
+    "pulls",
+    "flute",
+    "uneasy",
+    "listeners",
+    "song",
+    "point",
+    "whose",
+    "fills",
+    "hearts",
+    "dislikes",
+    "fear",
+    "loses",
+    "occasionally",
+    "having",
+    "skilled",
+    "strikes",
+    "leaf",
+    "holes",
+    "forest",
+    "forests",
+    "lost",
+    "weak",
+    "nose",
+    "grass"
+  ],
   "color": "brown",
   "shape": "humanoid",
   "habitat": "forest",
@@ -40,7 +82,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "NUZLEAF live in densely overgrown forests. They occasionally venture out of the forest to startle people. This POKéMON dislikes having its long nose pinched.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "pinched",
+        "venture",
+        "densely",
+        "overgrown",
+        "startle",
+        "dislikes",
+        "occasionally",
+        "having",
+        "forest",
+        "forests",
+        "nose"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +106,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON pulls out the leaf on its head and makes a flute with it. The sound of NUZLEAF’s flute strikes fear and uncertainty in the hearts of people lost in a forest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "uncertainty",
+        "pulls",
+        "flute",
+        "hearts",
+        "fear",
+        "strikes",
+        "leaf",
+        "forest",
+        "lost"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +129,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A forest-dwelling POKéMON that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "gripped",
+        "climbing",
+        "dwelling",
+        "pointed",
+        "point",
+        "loses",
+        "skilled",
+        "forest",
+        "weak",
+        "nose"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +152,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "They live in holes bored in large trees. The sound of NUZLEAF’s grass flute fills listeners with dread.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "bored",
+        "dread",
+        "flute",
+        "listeners",
+        "fills",
+        "holes",
+        "grass"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +173,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "They live in holes bored in large trees. The sound of NUZLEAF’s grass flute fills listeners with dread.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "bored",
+        "dread",
+        "flute",
+        "listeners",
+        "fills",
+        "holes",
+        "grass"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +194,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "forests",
+        "grass"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +212,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "forests",
+        "grass"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +230,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "forests",
+        "grass"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +248,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "song",
+        "whose",
+        "leaf",
+        "forests"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +266,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "song",
+        "whose",
+        "leaf",
+        "forests"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +284,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "forests",
+        "grass"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +302,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "forests",
+        "grass"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +320,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "forests",
+        "grass"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +338,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "forests",
+        "grass"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +356,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "forests",
+        "grass"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +374,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "song",
+        "whose",
+        "leaf",
+        "forests"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +392,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pokémon dislikes having its long nose pinched.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "pinched",
+        "venture",
+        "densely",
+        "overgrown",
+        "startle",
+        "dislikes",
+        "occasionally",
+        "having",
+        "forest",
+        "forests",
+        "nose"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +416,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf’s flute strikes fear and uncertainty in the hearts of people lost in a forest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "uncertainty",
+        "pulls",
+        "flute",
+        "hearts",
+        "fear",
+        "strikes",
+        "leaf",
+        "forest",
+        "lost"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +439,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flute",
+        "uneasy",
+        "listeners",
+        "song",
+        "whose",
+        "leaf",
+        "forests"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +457,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "They live in holes bored in large trees. The sound of Nuzleaf’s grass flute fills listeners with dread.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "bored",
+        "dread",
+        "flute",
+        "listeners",
+        "fills",
+        "holes",
+        "grass"
+      ]
     }
   ],
   "similarPokemonIds": [

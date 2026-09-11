@@ -9,6 +9,45 @@
   ],
   "imagePath": "/assets/pokemon/285.png",
   "entryCount": 18,
+  "entryTraits": [
+    "forest-dwelling",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "composted",
+    "compost",
+    "feasting",
+    "rotted",
+    "wilt",
+    "weeds",
+    "shade",
+    "inhaled",
+    "shakes",
+    "enter",
+    "damp",
+    "keeping",
+    "powder",
+    "fallen",
+    "depths",
+    "spouts",
+    "pain",
+    "feeds",
+    "scatters",
+    "releases",
+    "spores",
+    "top",
+    "rain",
+    "forest",
+    "remains",
+    "forests",
+    "prefers",
+    "soil",
+    "dark",
+    "still",
+    "places",
+    "toxic",
+    "eat"
+  ],
   "color": "brown",
   "shape": "legs",
   "habitat": "forest",
@@ -39,7 +78,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "compost",
+        "rotted",
+        "damp",
+        "keeping",
+        "fallen",
+        "depths",
+        "feeds",
+        "forests",
+        "soil",
+        "dark",
+        "still"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +100,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If SHROOMISH senses danger, it shakes its body and scatters spores from the top of its head. This POKéMON’s spores are so toxic, they make trees and weeds wilt.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "wilt",
+        "weeds",
+        "shakes",
+        "scatters",
+        "spores",
+        "top",
+        "toxic"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +121,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many SHROOMISH feasting on composted soil.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "composted",
+        "feasting",
+        "enter",
+        "damp",
+        "rain",
+        "forest",
+        "forests",
+        "soil",
+        "eat"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +143,23 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "shade",
+        "damp",
+        "powder",
+        "releases",
+        "forest",
+        "remains",
+        "prefers",
+        "still",
+        "places",
+        "toxic"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +167,23 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "shade",
+        "damp",
+        "powder",
+        "releases",
+        "forest",
+        "remains",
+        "prefers",
+        "still",
+        "places",
+        "toxic"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +191,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inhaled",
+        "spouts",
+        "pain",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +209,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inhaled",
+        "spouts",
+        "pain",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +227,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inhaled",
+        "spouts",
+        "pain",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +245,13 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it senses danger, it scatters spores from the top of its head to protect itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scatters",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +259,13 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it senses danger, it scatters spores from the top of its head to protect itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scatters",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +273,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inhaled",
+        "spouts",
+        "pain",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +291,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inhaled",
+        "spouts",
+        "pain",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +309,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inhaled",
+        "spouts",
+        "pain",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +327,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inhaled",
+        "spouts",
+        "pain",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +345,23 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "shade",
+        "damp",
+        "powder",
+        "releases",
+        "forest",
+        "remains",
+        "prefers",
+        "still",
+        "places",
+        "toxic"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +369,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inhaled",
+        "spouts",
+        "pain",
+        "spores",
+        "top"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +387,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "compost",
+        "rotted",
+        "damp",
+        "keeping",
+        "fallen",
+        "depths",
+        "feeds",
+        "forests",
+        "soil",
+        "dark",
+        "still"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +409,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "wilt",
+        "weeds",
+        "shakes",
+        "scatters",
+        "spores",
+        "top",
+        "toxic"
+      ]
     }
   ],
   "similarPokemonIds": [

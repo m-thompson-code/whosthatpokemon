@@ -10,6 +10,73 @@
   ],
   "imagePath": "/assets/pokemon/723.png",
   "entryCount": 7,
+  "entryTraits": [
+    "feathers",
+    "wings",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "dandy",
+    "narcissistic",
+    "preoccupation",
+    "presumably",
+    "slacks",
+    "spiffy",
+    "task",
+    "freak",
+    "nonetheless",
+    "preening",
+    "supremely",
+    "knifelike",
+    "seldom",
+    "thorough",
+    "basks",
+    "cleaning",
+    "flinging",
+    "groom",
+    "regularly",
+    "misses",
+    "listening",
+    "nice",
+    "feather",
+    "keen",
+    "edges",
+    "plumage",
+    "climate",
+    "diligently",
+    "quills",
+    "blade",
+    "detect",
+    "free",
+    "precisely",
+    "point",
+    "bit",
+    "standing",
+    "dirt",
+    "presence",
+    "unable",
+    "frigid",
+    "spends",
+    "set",
+    "due",
+    "looking",
+    "don",
+    "leave",
+    "feathers",
+    "strikes",
+    "throws",
+    "sensitive",
+    "clean",
+    "ever",
+    "called",
+    "behind",
+    "weak",
+    "stop",
+    "keeps",
+    "another",
+    "gather",
+    "sunlight"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +106,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers",
+        "wings"
+      ],
+      "keywords": [
+        "dandy",
+        "preoccupation",
+        "preening",
+        "plumage",
+        "free",
+        "bit",
+        "dirt",
+        "unable",
+        "spends",
+        "leave"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +130,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers",
+        "hunting"
+      ],
+      "keywords": [
+        "seldom",
+        "misses",
+        "quills",
+        "blade",
+        "feathers",
+        "throws",
+        "called"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +151,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This narcissistic Pokémon is a clean freak. If you don’t groom it diligently, it will stop listening to you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "narcissistic",
+        "freak",
+        "groom",
+        "listening",
+        "diligently",
+        "don",
+        "clean",
+        "stop"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +170,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "supremely",
+        "flinging",
+        "detect",
+        "standing",
+        "presence",
+        "feathers",
+        "sensitive",
+        "behind"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +191,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "knifelike",
+        "feather",
+        "quills",
+        "blade",
+        "precisely",
+        "point",
+        "feathers",
+        "strikes",
+        "throws",
+        "weak",
+        "another"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +215,24 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "slacks",
+        "spiffy",
+        "task",
+        "preening",
+        "thorough",
+        "cleaning",
+        "nice",
+        "quills",
+        "blade",
+        "looking",
+        "feathers",
+        "keeps"
+      ]
     },
     {
       "versionId": 39,
@@ -87,7 +240,27 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Regularly basks in sunlight to gather power—presumably due to the frigid climate. Nonetheless, the edges of the blade quills set into its wings are keen as ever.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "presumably",
+        "nonetheless",
+        "basks",
+        "regularly",
+        "keen",
+        "edges",
+        "climate",
+        "quills",
+        "blade",
+        "frigid",
+        "set",
+        "due",
+        "ever",
+        "gather",
+        "sunlight"
+      ]
     }
   ],
   "similarPokemonIds": [

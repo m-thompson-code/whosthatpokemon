@@ -10,6 +10,67 @@
   ],
   "imagePath": "/assets/pokemon/747.png",
   "entryCount": 6,
+  "entryTraits": [
+    "hunting",
+    "poisonous",
+    "nocturnal",
+    "sleeping",
+    "claws"
+  ],
+  "entryKeywords": [
+    "banquet",
+    "craftsmen",
+    "hated",
+    "seafloors",
+    "spike",
+    "symptom",
+    "counterparts",
+    "crawling",
+    "figured",
+    "plunges",
+    "unlike",
+    "urge",
+    "itching",
+    "alolan",
+    "deals",
+    "sting",
+    "aside",
+    "naturally",
+    "resist",
+    "numbness",
+    "regenerate",
+    "normal",
+    "corsola",
+    "claw",
+    "finishing",
+    "coral",
+    "sensation",
+    "weakened",
+    "star",
+    "galar",
+    "cut",
+    "five",
+    "next",
+    "parts",
+    "fallen",
+    "beaches",
+    "yet",
+    "impossible",
+    "work",
+    "blow",
+    "delicious",
+    "intense",
+    "branches",
+    "region",
+    "first",
+    "re",
+    "tentacles",
+    "10",
+    "good",
+    "skin",
+    "quickly",
+    "eat"
+  ],
   "color": "blue",
   "shape": "blob",
   "habitat": null,
@@ -39,7 +100,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "spike",
+        "plunges",
+        "deals",
+        "finishing",
+        "weakened",
+        "blow",
+        "tentacles",
+        "10"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +122,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It’s found crawling on beaches and seafloors. The coral that grows on Corsola’s head is as good as a five-star banquet to this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "banquet",
+        "seafloors",
+        "crawling",
+        "corsola",
+        "coral",
+        "star",
+        "five",
+        "beaches",
+        "good"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +142,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "craftsmen",
+        "hated",
+        "naturally",
+        "corsola",
+        "fallen",
+        "work",
+        "branches",
+        "eat"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +161,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Aside from its head, its body parts regenerate quickly if they’re cut off. After a good night’s sleep, Mareanie is back to normal.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "aside",
+        "regenerate",
+        "normal",
+        "cut",
+        "parts",
+        "re",
+        "good",
+        "quickly"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +183,25 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The first symptom of its sting is numbness. The next is an itching sensation so intense that it’s impossible to resist the urge to claw at your skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "symptom",
+        "urge",
+        "itching",
+        "sting",
+        "resist",
+        "numbness",
+        "claw",
+        "sensation",
+        "next",
+        "impossible",
+        "intense",
+        "first",
+        "skin"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +209,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "counterparts",
+        "figured",
+        "unlike",
+        "alolan",
+        "corsola",
+        "galar",
+        "yet",
+        "delicious",
+        "branches",
+        "region"
+      ]
     }
   ],
   "similarPokemonIds": [

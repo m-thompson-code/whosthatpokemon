@@ -10,6 +10,45 @@
   ],
   "imagePath": "/assets/pokemon/718.png",
   "entryCount": 8,
+  "entryTraits": [
+    "cave-dwelling"
+  ],
+  "entryKeywords": [
+    "assembled",
+    "oppose",
+    "hypothesized",
+    "disarray",
+    "kalos",
+    "monitoring",
+    "wipes",
+    "ecosystem",
+    "showing",
+    "shred",
+    "reveals",
+    "role",
+    "mercy",
+    "gathered",
+    "rumors",
+    "threaten",
+    "greater",
+    "cave",
+    "pieces",
+    "secret",
+    "battling",
+    "50",
+    "destroy",
+    "lies",
+    "plays",
+    "hidden",
+    "half",
+    "falls",
+    "region",
+    "say",
+    "change",
+    "cells",
+    "within",
+    "thought"
+  ],
   "color": "green",
   "shape": "squiggle",
   "habitat": null,
@@ -39,7 +78,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When the Kalos region’s ecosystem falls into disarray, it appears and reveals its secret power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disarray",
+        "kalos",
+        "ecosystem",
+        "reveals",
+        "secret",
+        "falls",
+        "region"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +96,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "hypothesized",
+        "monitoring",
+        "ecosystem",
+        "cave",
+        "destroy"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +114,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When the Kalos region’s ecosystem falls into disarray, it appears and reveals its secret power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disarray",
+        "kalos",
+        "ecosystem",
+        "reveals",
+        "secret",
+        "falls",
+        "region"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +132,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "hypothesized",
+        "monitoring",
+        "ecosystem",
+        "cave",
+        "destroy"
+      ]
     },
     {
       "versionId": 27,
@@ -71,7 +150,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "This is Zygarde’s form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "oppose",
+        "wipes",
+        "showing",
+        "shred",
+        "mercy",
+        "gathered",
+        "50",
+        "cells"
+      ]
     },
     {
       "versionId": 28,
@@ -79,7 +169,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It’s thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "monitoring",
+        "ecosystem",
+        "rumors",
+        "greater",
+        "lies",
+        "hidden",
+        "within",
+        "thought"
+      ]
     },
     {
       "versionId": 29,
@@ -87,7 +188,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This is Zygarde’s form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "assembled",
+        "monitoring",
+        "ecosystem",
+        "role",
+        "pieces",
+        "plays",
+        "half"
+      ]
     },
     {
       "versionId": 30,
@@ -95,7 +206,15 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ecosystem",
+        "threaten",
+        "battling",
+        "say",
+        "change"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,56 @@
   ],
   "imagePath": "/assets/pokemon/781.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "adrift",
+    "debris",
+    "detritus",
+    "infusions",
+    "outward",
+    "merged",
+    "skrelp",
+    "anchor",
+    "ghost",
+    "lowering",
+    "maintains",
+    "ko",
+    "yards",
+    "sunken",
+    "piece",
+    "chain",
+    "seabed",
+    "hundreds",
+    "reborn",
+    "wailord",
+    "ship",
+    "soul",
+    "green",
+    "seaweed",
+    "vitality",
+    "drains",
+    "swinging",
+    "stretch",
+    "sucks",
+    "catches",
+    "wraps",
+    "massive",
+    "waits",
+    "blow",
+    "single",
+    "became",
+    "likes",
+    "actually",
+    "reason",
+    "new",
+    "force",
+    "along",
+    "well",
+    "big"
+  ],
   "color": "green",
   "shape": "blob",
   "habitat": null,
@@ -39,7 +89,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "anchor",
+        "ko",
+        "wailord",
+        "green",
+        "seaweed",
+        "swinging",
+        "massive",
+        "blow",
+        "single",
+        "actually"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +110,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "adrift",
+        "detritus",
+        "infusions",
+        "maintains",
+        "seabed",
+        "reborn",
+        "soul",
+        "seaweed",
+        "became",
+        "new"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +133,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey like Wailord.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "wailord",
+        "green",
+        "seaweed",
+        "vitality",
+        "sucks",
+        "wraps",
+        "likes",
+        "big"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +154,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "outward",
+        "skrelp",
+        "yards",
+        "chain",
+        "hundreds",
+        "green",
+        "seaweed",
+        "stretch",
+        "reason",
+        "along",
+        "well"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +176,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "debris",
+        "merged",
+        "ghost",
+        "sunken",
+        "piece",
+        "reborn",
+        "ship",
+        "seaweed"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +195,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "anchor",
+        "lowering",
+        "wailord",
+        "drains",
+        "catches",
+        "waits",
+        "force"
+      ]
     }
   ],
   "similarPokemonIds": [

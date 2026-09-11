@@ -10,6 +10,88 @@
   ],
   "imagePath": "/assets/pokemon/124.png",
   "entryCount": 30,
+  "entryTraits": [
+    "sonic",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "guage",
+    "lan",
+    "musicians",
+    "sashays",
+    "terns",
+    "pat",
+    "sways",
+    "wonderful",
+    "seductively",
+    "worshiped",
+    "depend",
+    "precise",
+    "songs",
+    "speaks",
+    "bouncingly",
+    "noticing",
+    "compelled",
+    "compose",
+    "language",
+    "meaning",
+    "truly",
+    "voices",
+    "alluring",
+    "base",
+    "fan",
+    "swaying",
+    "wiggles",
+    "queen",
+    "hips",
+    "unison",
+    "alter",
+    "rhythmically",
+    "delicate",
+    "gathered",
+    "shaking",
+    "sing",
+    "giving",
+    "ing",
+    "shake",
+    "motions",
+    "certain",
+    "galar",
+    "determine",
+    "parts",
+    "speech",
+    "several",
+    "rhythm",
+    "depending",
+    "feared",
+    "feeling",
+    "alola",
+    "research",
+    "seeing",
+    "strange",
+    "trying",
+    "doing",
+    "impossible",
+    "dancing",
+    "similar",
+    "sounds",
+    "communicate",
+    "seems",
+    "walks",
+    "tell",
+    "say",
+    "humans",
+    "dance",
+    "cry",
+    "beautiful",
+    "human",
+    "different",
+    "movements",
+    "living",
+    "thought",
+    "rocks"
+  ],
   "color": "red",
   "shape": "humanoid",
   "habitat": "urban",
@@ -39,7 +121,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seductively",
+        "wiggles",
+        "hips",
+        "unison",
+        "walks",
+        "dance"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +138,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seductively",
+        "wiggles",
+        "hips",
+        "unison",
+        "walks",
+        "dance"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +155,15 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wiggles",
+        "hips",
+        "rhythm",
+        "dancing",
+        "walks"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +171,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It rocks its body rhythmically. It appears to alter the rhythm depend­ ing on how it is feeling.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "depend",
+        "alter",
+        "rhythmically",
+        "ing",
+        "rhythm",
+        "feeling",
+        "rocks"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +189,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It speaks a lan­ guage similar to that of humans. However, it seems to use dancing to communicate.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "guage",
+        "lan",
+        "speaks",
+        "dancing",
+        "similar",
+        "communicate",
+        "seems",
+        "humans"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +208,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It has several different cry pat­ terns, each of which seems to have its own meaning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "terns",
+        "pat",
+        "meaning",
+        "several",
+        "seems",
+        "cry",
+        "different"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +226,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bouncingly",
+        "compelled",
+        "alluring",
+        "swaying",
+        "hips",
+        "rhythmically",
+        "shaking",
+        "giving",
+        "shake",
+        "motions",
+        "seeing",
+        "doing",
+        "dancing",
+        "walks",
+        "thought"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +252,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bouncingly",
+        "compelled",
+        "alluring",
+        "swaying",
+        "hips",
+        "rhythmically",
+        "shaking",
+        "giving",
+        "shake",
+        "motions",
+        "seeing",
+        "doing",
+        "dancing",
+        "walks",
+        "thought"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +278,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A JYNX sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sashays",
+        "bouncingly",
+        "noticing",
+        "compelled",
+        "alluring",
+        "hips",
+        "rhythmically",
+        "shake",
+        "motions",
+        "seeing",
+        "dancing"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +300,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It speaks using a language that sounds human. Research is under way to determine what is being said.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speaks",
+        "language",
+        "determine",
+        "research",
+        "sounds",
+        "human"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +319,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seductively",
+        "wiggles",
+        "hips",
+        "unison",
+        "walks",
+        "dance"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +336,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speech",
+        "trying",
+        "impossible",
+        "tell",
+        "say",
+        "human"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +355,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speech",
+        "trying",
+        "impossible",
+        "tell",
+        "say",
+        "human"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +374,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speech",
+        "trying",
+        "impossible",
+        "tell",
+        "say",
+        "human"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +393,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "alter",
+        "rhythmically",
+        "rhythm",
+        "depending",
+        "feeling",
+        "rocks"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +410,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It speaks a language similar to that of humans. However, it seems to use dancing to communicate.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "speaks",
+        "language",
+        "dancing",
+        "similar",
+        "communicate",
+        "seems",
+        "humans"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +428,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speech",
+        "trying",
+        "impossible",
+        "tell",
+        "say",
+        "human"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +447,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speech",
+        "trying",
+        "impossible",
+        "tell",
+        "say",
+        "human"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +466,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speech",
+        "trying",
+        "impossible",
+        "tell",
+        "say",
+        "human"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +485,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speech",
+        "trying",
+        "impossible",
+        "tell",
+        "say",
+        "human"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +504,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It wiggles its hips as it walks. It can cause people to dance in unison with it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wiggles",
+        "hips",
+        "unison",
+        "walks",
+        "dance"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +520,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It speaks using a language that sounds human. Research is under way to determine what is being said.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "speaks",
+        "language",
+        "determine",
+        "research",
+        "sounds",
+        "human"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +539,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bouncingly",
+        "compelled",
+        "alluring",
+        "swaying",
+        "hips",
+        "rhythmically",
+        "shaking",
+        "giving",
+        "shake",
+        "motions",
+        "seeing",
+        "doing",
+        "dancing",
+        "walks",
+        "thought"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +565,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bouncingly",
+        "compelled",
+        "alluring",
+        "swaying",
+        "hips",
+        "rhythmically",
+        "shaking",
+        "giving",
+        "shake",
+        "motions",
+        "seeing",
+        "doing",
+        "dancing",
+        "walks",
+        "thought"
+      ]
     },
     {
       "versionId": 29,
@@ -231,7 +591,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sways",
+        "wonderful",
+        "precise",
+        "truly",
+        "hips",
+        "rhythm",
+        "alola",
+        "movements",
+        "living"
+      ]
     },
     {
       "versionId": 30,
@@ -239,7 +611,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "musicians",
+        "songs",
+        "compose",
+        "language",
+        "sing",
+        "strange",
+        "human"
+      ]
     },
     {
       "versionId": 31,
@@ -247,7 +631,15 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wiggles",
+        "hips",
+        "rhythm",
+        "dancing",
+        "walks"
+      ]
     },
     {
       "versionId": 32,
@@ -255,7 +647,15 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wiggles",
+        "hips",
+        "rhythm",
+        "dancing",
+        "walks"
+      ]
     },
     {
       "versionId": 33,
@@ -263,7 +663,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "worshiped",
+        "queen",
+        "certain",
+        "galar",
+        "parts",
+        "feared"
+      ]
     },
     {
       "versionId": 34,
@@ -271,7 +683,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The Jynx of Galar often have beautiful and delicate voices. Some of these Pokémon have even gathered a fan base.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "voices",
+        "base",
+        "fan",
+        "delicate",
+        "gathered",
+        "galar",
+        "beautiful"
+      ]
     }
   ],
   "similarPokemonIds": [

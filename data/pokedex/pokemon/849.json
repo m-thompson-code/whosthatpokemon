@@ -10,6 +10,30 @@
   ],
   "imagePath": "/assets/pokemon/849.png",
   "entryCount": 2,
+  "entryTraits": [
+    "electric",
+    "sonic",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "chugs",
+    "guitar",
+    "protrusions",
+    "strumming",
+    "stagnant",
+    "clawing",
+    "contain",
+    "chest",
+    "toxins",
+    "tempered",
+    "might",
+    "aggressive",
+    "absorb",
+    "sounds",
+    "generate",
+    "short",
+    "actually"
+  ],
   "color": "purple",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +63,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "sonic"
+      ],
+      "keywords": [
+        "guitar",
+        "protrusions",
+        "strumming",
+        "clawing",
+        "chest",
+        "sounds",
+        "generate",
+        "actually"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +85,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "chugs",
+        "stagnant",
+        "contain",
+        "toxins",
+        "tempered",
+        "might",
+        "aggressive",
+        "absorb",
+        "short"
+      ]
     }
   ],
   "similarPokemonIds": [

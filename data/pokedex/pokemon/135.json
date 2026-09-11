@@ -9,6 +9,107 @@
   ],
   "imagePath": "/assets/pokemon/135.png",
   "entryCount": 33,
+  "entryTraits": [
+    "electric",
+    "fur",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "negatively",
+    "sparking",
+    "strung",
+    "bristlelike",
+    "needlelike",
+    "missiles",
+    "straighten",
+    "10000",
+    "lungs",
+    "noise",
+    "amplified",
+    "bristling",
+    "concentrates",
+    "mon",
+    "barrage",
+    "exhales",
+    "crackle",
+    "ions",
+    "points",
+    "accumulates",
+    "bunches",
+    "bristles",
+    "volt",
+    "crackling",
+    "generated",
+    "pierce",
+    "volts",
+    "jolt",
+    "electrically",
+    "emitted",
+    "wicked",
+    "thunderbolts",
+    "low",
+    "mood",
+    "becoming",
+    "blast",
+    "raise",
+    "weakened",
+    "launch",
+    "negative",
+    "organ",
+    "constant",
+    "needles",
+    "sharply",
+    "contain",
+    "finishes",
+    "heard",
+    "sad",
+    "agitated",
+    "enabling",
+    "next",
+    "startled",
+    "storing",
+    "angered",
+    "drop",
+    "charged",
+    "hear",
+    "level",
+    "shoot",
+    "send",
+    "bolts",
+    "difficult",
+    "launches",
+    "stands",
+    "enraged",
+    "electrical",
+    "sign",
+    "static",
+    "atmosphere",
+    "strikes",
+    "sensitive",
+    "charges",
+    "poke",
+    "fires",
+    "stand",
+    "hair",
+    "generate",
+    "breath",
+    "care",
+    "angry",
+    "end",
+    "re",
+    "controls",
+    "cells",
+    "shock",
+    "starts",
+    "weak",
+    "changes",
+    "electric",
+    "10",
+    "create",
+    "creates",
+    "lightning",
+    "close"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "urban",
@@ -38,7 +139,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "10000",
+        "ions",
+        "accumulates",
+        "volt",
+        "blast",
+        "negative",
+        "bolts",
+        "atmosphere",
+        "lightning"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +161,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "10000",
+        "ions",
+        "accumulates",
+        "volt",
+        "blast",
+        "negative",
+        "bolts",
+        "atmosphere",
+        "lightning"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +183,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A sensitive POKé­ MON that easily becomes sad or angry. Every time its mood changes, it charges power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mon",
+        "mood",
+        "sad",
+        "sensitive",
+        "charges",
+        "poke",
+        "angry",
+        "changes"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +202,22 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "concentrates",
+        "emitted",
+        "wicked",
+        "bolts",
+        "launches",
+        "charges",
+        "cells",
+        "weak",
+        "electric",
+        "lightning"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +225,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Every hair on its body starts to stand sharply on end if it becomes charged with electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "sharply",
+        "charged",
+        "stand",
+        "hair",
+        "end",
+        "starts"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +244,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The negatively charged ions generated in its fur create a constant sparking noise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "negatively",
+        "sparking",
+        "noise",
+        "ions",
+        "generated",
+        "constant",
+        "charged",
+        "create"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +265,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "JOLTEON’s cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the POKéMON to drop thunderbolts. The bristling fur is made of electrically charged needles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "amplified",
+        "bristling",
+        "electrically",
+        "thunderbolts",
+        "low",
+        "needles",
+        "enabling",
+        "drop",
+        "charged",
+        "level",
+        "static",
+        "generate",
+        "cells"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +292,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "JOLTEON’s cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the POKéMON to drop thunderbolts. The bristling fur is made of electrically charged needles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "amplified",
+        "bristling",
+        "electrically",
+        "thunderbolts",
+        "low",
+        "needles",
+        "enabling",
+        "drop",
+        "charged",
+        "level",
+        "static",
+        "generate",
+        "cells"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +319,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its cells generate weak power that is amplified by its fur’s static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "amplified",
+        "bristling",
+        "electrically",
+        "thunderbolts",
+        "needles",
+        "drop",
+        "charged",
+        "static",
+        "generate",
+        "cells",
+        "weak"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +344,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "bristles",
+        "pierce",
+        "needles",
+        "startled",
+        "angered"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +362,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "ions",
+        "accumulates",
+        "volt",
+        "blast",
+        "negative",
+        "bolts",
+        "atmosphere",
+        "10",
+        "lightning"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +384,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It controls 10,000-volt power and can raise all the fur on its body as if it were sharp needles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "volt",
+        "raise",
+        "needles",
+        "controls",
+        "10"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +402,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It controls 10,000-volt power and can raise all the fur on its body as if it were sharp needles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "volt",
+        "raise",
+        "needles",
+        "controls",
+        "10"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +420,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "straighten",
+        "bunches",
+        "launch",
+        "agitated"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +438,22 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "concentrates",
+        "emitted",
+        "wicked",
+        "bolts",
+        "launches",
+        "charges",
+        "cells",
+        "weak",
+        "electric",
+        "lightning"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +461,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Every hair on its body starts to stand sharply on end if it becomes charged with electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "sharply",
+        "charged",
+        "stand",
+        "hair",
+        "end",
+        "starts"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +480,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "straighten",
+        "bunches",
+        "launch",
+        "agitated"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +498,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "straighten",
+        "bunches",
+        "launch",
+        "agitated"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +516,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "bristlelike",
+        "missiles",
+        "barrage",
+        "storing",
+        "shoot"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +535,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "bristlelike",
+        "missiles",
+        "barrage",
+        "storing",
+        "shoot"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +554,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Every hair on its body starts to stand sharply on end if it becomes charged with electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "sharply",
+        "charged",
+        "stand",
+        "hair",
+        "end",
+        "starts"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +573,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "ions",
+        "accumulates",
+        "volt",
+        "blast",
+        "negative",
+        "bolts",
+        "atmosphere",
+        "10",
+        "lightning"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +595,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Jolteon’s cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "amplified",
+        "bristling",
+        "electrically",
+        "thunderbolts",
+        "low",
+        "needles",
+        "enabling",
+        "drop",
+        "charged",
+        "level",
+        "static",
+        "generate",
+        "cells"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +622,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Jolteon’s cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "amplified",
+        "bristling",
+        "electrically",
+        "thunderbolts",
+        "low",
+        "needles",
+        "enabling",
+        "drop",
+        "charged",
+        "level",
+        "static",
+        "generate",
+        "cells"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +649,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They send out electrical charges of about 10,000 volts. Because they are high-strung, it can be difficult to grow close to them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "strung",
+        "volts",
+        "send",
+        "difficult",
+        "electrical",
+        "charges",
+        "10",
+        "close"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +668,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When its fur stands on end, that’s a sign it’s about to give off a jolt of electricity. Take care, as sometimes lightning strikes next to it, too.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "jolt",
+        "next",
+        "stands",
+        "sign",
+        "strikes",
+        "care",
+        "end",
+        "lightning"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +690,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its lungs contain an organ that creates electricity. The crackling sound of electricity can be heard when it exhales.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "sonic"
+      ],
+      "keywords": [
+        "lungs",
+        "exhales",
+        "crackling",
+        "organ",
+        "contain",
+        "heard",
+        "creates"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +711,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its fur stands on end, becoming like needles it fires at enemies. Once they’re weakened, it finishes them off with a 10,000 volt shock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "volt",
+        "becoming",
+        "weakened",
+        "needles",
+        "finishes",
+        "stands",
+        "fires",
+        "end",
+        "re",
+        "shock",
+        "10"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +735,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A sensitive Pokémon that easily becomes sad or angry. Every time its mood changes, it charges power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mood",
+        "sad",
+        "sensitive",
+        "charges",
+        "angry",
+        "changes"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +752,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A sensitive Pokémon that easily becomes sad or angry. Every time its mood changes, it charges power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mood",
+        "sad",
+        "sensitive",
+        "charges",
+        "angry",
+        "changes"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +769,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "bristles",
+        "pierce",
+        "needles",
+        "startled",
+        "angered"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +787,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "ions",
+        "accumulates",
+        "volt",
+        "blast",
+        "negative",
+        "bolts",
+        "atmosphere",
+        "10",
+        "lightning"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +809,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Bristles its fur into sharp, needlelike points when enraged. One can hear electricity crackle in its breath when it exhales.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "needlelike",
+        "exhales",
+        "crackle",
+        "points",
+        "bristles",
+        "hear",
+        "enraged",
+        "breath"
+      ]
     }
   ],
   "similarPokemonIds": [

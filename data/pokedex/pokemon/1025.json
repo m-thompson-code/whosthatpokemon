@@ -10,6 +10,27 @@
   ],
   "imagePath": "/assets/pokemon/1025.png",
   "entryCount": 2,
+  "entryTraits": [
+    "poisonous",
+    "shell"
+  ],
+  "entryKeywords": [
+    "chained",
+    "peach",
+    "mochi",
+    "storage",
+    "desires",
+    "capabilities",
+    "potent",
+    "draw",
+    "serves",
+    "feeds",
+    "fall",
+    "shaped",
+    "poisonous",
+    "toxic",
+    "eat"
+  ],
   "color": "purple",
   "shape": "ball",
   "habitat": null,
@@ -39,7 +60,21 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "chained",
+        "mochi",
+        "desires",
+        "capabilities",
+        "draw",
+        "feeds",
+        "fall",
+        "toxic",
+        "eat"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +82,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "poisonous"
+      ],
+      "keywords": [
+        "peach",
+        "mochi",
+        "storage",
+        "potent",
+        "serves",
+        "shaped",
+        "poisonous"
+      ]
     }
   ],
   "similarPokemonIds": [

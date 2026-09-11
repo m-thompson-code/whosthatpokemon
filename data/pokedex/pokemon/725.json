@@ -9,6 +9,60 @@
   ],
   "imagePath": "/assets/pokemon/725.png",
   "entryCount": 6,
+  "entryTraits": [
+    "fur",
+    "fiery",
+    "claws"
+  ],
+  "entryKeywords": [
+    "downtime",
+    "earning",
+    "nasty",
+    "smallest",
+    "coughs",
+    "regrows",
+    "alight",
+    "affection",
+    "solitude",
+    "trusts",
+    "grooming",
+    "trust",
+    "pet",
+    "twice",
+    "fuel",
+    "based",
+    "careful",
+    "spews",
+    "giving",
+    "scratch",
+    "loose",
+    "amount",
+    "allow",
+    "gathers",
+    "spends",
+    "serves",
+    "sets",
+    "trying",
+    "coat",
+    "fiery",
+    "builds",
+    "year",
+    "old",
+    "open",
+    "stomach",
+    "do",
+    "change",
+    "try",
+    "tongue",
+    "prefers",
+    "emotions",
+    "burns",
+    "still",
+    "won",
+    "takes",
+    "close",
+    "doesn"
+  ],
   "color": "red",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +92,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "coughs",
+        "alight",
+        "grooming",
+        "based",
+        "spews",
+        "sets",
+        "fiery",
+        "builds",
+        "stomach",
+        "change"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +116,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It doesn’t allow its emotions to be easily seen. Earning its trust takes time. It prefers solitude.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "earning",
+        "solitude",
+        "trust",
+        "allow",
+        "prefers",
+        "emotions",
+        "takes",
+        "doesn"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +135,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If you try too hard to get close to it, it won’t open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "affection",
+        "giving",
+        "open",
+        "do",
+        "try",
+        "still",
+        "won",
+        "close"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +154,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "regrows",
+        "twice",
+        "sets",
+        "coat",
+        "year",
+        "old",
+        "burns"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +175,25 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "downtime",
+        "smallest",
+        "grooming",
+        "fuel",
+        "loose",
+        "amount",
+        "gathers",
+        "spends",
+        "serves",
+        "fiery",
+        "stomach",
+        "tongue"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +201,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "nasty",
+        "trusts",
+        "pet",
+        "careful",
+        "scratch",
+        "trying"
+      ]
     }
   ],
   "similarPokemonIds": [

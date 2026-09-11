@@ -9,6 +9,60 @@
   ],
   "imagePath": "/assets/pokemon/336.png",
   "entryCount": 18,
+  "entryTraits": [
+    "tail",
+    "poisonous",
+    "fangs",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "counters",
+    "douses",
+    "counter",
+    "feud",
+    "purposes",
+    "edged",
+    "polishing",
+    "rivals",
+    "whets",
+    "archrival",
+    "scars",
+    "swordlike",
+    "bladed",
+    "deadly",
+    "feuded",
+    "dazzling",
+    "evidence",
+    "slashes",
+    "blade",
+    "secreted",
+    "venomous",
+    "agility",
+    "eternal",
+    "sharpens",
+    "horrible",
+    "sword",
+    "zangoose",
+    "venom",
+    "generations",
+    "unwary",
+    "constant",
+    "oozes",
+    "edge",
+    "serves",
+    "tall",
+    "shares",
+    "secretes",
+    "vicious",
+    "strikes",
+    "battles",
+    "blood",
+    "running",
+    "grass",
+    "hides",
+    "rocks",
+    "extremely"
+  ],
   "color": "black",
   "shape": "squiggle",
   "habitat": "grassland",
@@ -39,7 +93,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This POKéMON attacks using its sword- edged tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "feud",
+        "edged",
+        "scars",
+        "evidence",
+        "sword",
+        "zangoose",
+        "generations",
+        "shares",
+        "vicious",
+        "battles"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +116,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SEVIPER’s swordlike tail serves two purposes - it slashes foes and douses them with secreted poison. This POKéMON will not give up its long- running blood feud with ZANGOOSE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "douses",
+        "feud",
+        "purposes",
+        "swordlike",
+        "slashes",
+        "secreted",
+        "zangoose",
+        "serves",
+        "blood",
+        "running"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +140,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "SEVIPER and ZANGOOSE are eternal rivals. It counters a ZANGOOSE’s dazzling agility with its swordlike tail, which also oozes a horrible poison.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "counters",
+        "rivals",
+        "swordlike",
+        "dazzling",
+        "agility",
+        "eternal",
+        "horrible",
+        "zangoose",
+        "oozes"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +163,23 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "swordlike",
+        "venomous",
+        "sharpens",
+        "unwary",
+        "tall",
+        "strikes",
+        "grass",
+        "hides",
+        "rocks"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +187,23 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "swordlike",
+        "venomous",
+        "sharpens",
+        "unwary",
+        "tall",
+        "strikes",
+        "grass",
+        "hides",
+        "rocks"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +211,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "whets",
+        "bladed",
+        "feuded",
+        "zangoose",
+        "generations",
+        "rocks"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +230,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "whets",
+        "bladed",
+        "feuded",
+        "zangoose",
+        "generations",
+        "rocks"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +249,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "whets",
+        "bladed",
+        "feuded",
+        "zangoose",
+        "generations",
+        "rocks"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +268,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "In battle, it uses its bladed tail to counter any ZANGOOSE. It secretes a deadly venom in its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "counter",
+        "bladed",
+        "deadly",
+        "zangoose",
+        "venom",
+        "secretes"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +288,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "In battle, it uses its bladed tail to counter any ZANGOOSE. It secretes a deadly venom in its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "counter",
+        "bladed",
+        "deadly",
+        "zangoose",
+        "venom",
+        "secretes"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +308,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "whets",
+        "bladed",
+        "feuded",
+        "zangoose",
+        "generations",
+        "rocks"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +327,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "whets",
+        "bladed",
+        "feuded",
+        "zangoose",
+        "generations",
+        "rocks"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +346,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Constant polishing makes the edge of the blade on its tail extremely sharp. It’s Zangoose’s archrival.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "polishing",
+        "archrival",
+        "blade",
+        "zangoose",
+        "constant",
+        "edge",
+        "extremely"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +366,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Constant polishing makes the edge of the blade on its tail extremely sharp. It’s Zangoose’s archrival.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "polishing",
+        "archrival",
+        "blade",
+        "zangoose",
+        "constant",
+        "edge",
+        "extremely"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +386,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "In battle, it uses its bladed tail to counter any Zangoose. It secretes a deadly venom in its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "counter",
+        "bladed",
+        "deadly",
+        "zangoose",
+        "venom",
+        "secretes"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +406,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Constant polishing makes the edge of the blade on its tail extremely sharp. It’s Zangoose’s archrival.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "polishing",
+        "archrival",
+        "blade",
+        "zangoose",
+        "constant",
+        "edge",
+        "extremely"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +426,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seviper shares a generations-long feud with Zangoose. The scars on its body are evidence of vicious battles. This Pokémon attacks using its sword-edged tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "feud",
+        "edged",
+        "scars",
+        "evidence",
+        "sword",
+        "zangoose",
+        "generations",
+        "shares",
+        "vicious",
+        "battles"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +449,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "douses",
+        "feud",
+        "purposes",
+        "swordlike",
+        "slashes",
+        "secreted",
+        "zangoose",
+        "serves",
+        "blood",
+        "running"
+      ]
     }
   ],
   "similarPokemonIds": [

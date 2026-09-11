@@ -9,6 +9,101 @@
   ],
   "imagePath": "/assets/pokemon/134.png",
   "entryCount": 33,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "beauti",
+    "brate",
+    "explains",
+    "invis",
+    "origins",
+    "submerged",
+    "vi",
+    "erasing",
+    "ible",
+    "trembling",
+    "ridged",
+    "detects",
+    "ful",
+    "invading",
+    "invisibly",
+    "spontaneous",
+    "molecular",
+    "blending",
+    "vibrate",
+    "folklore",
+    "conceal",
+    "blends",
+    "lie",
+    "mermaid",
+    "perhaps",
+    "shores",
+    "gills",
+    "closely",
+    "resemble",
+    "tests",
+    "suitable",
+    "cell",
+    "underwent",
+    "usual",
+    "patiently",
+    "aquatic",
+    "rapidly",
+    "mutation",
+    "show",
+    "molecules",
+    "perfectly",
+    "presence",
+    "signs",
+    "fish",
+    "mistaken",
+    "cellular",
+    "composition",
+    "melts",
+    "dives",
+    "underwater",
+    "begin",
+    "i",
+    "clear",
+    "composed",
+    "allow",
+    "melt",
+    "means",
+    "nearby",
+    "grew",
+    "units",
+    "believe",
+    "waters",
+    "structure",
+    "fin",
+    "habitat",
+    "hours",
+    "evolved",
+    "few",
+    "begins",
+    "invisible",
+    "sign",
+    "waits",
+    "moisture",
+    "similar",
+    "clean",
+    "fall",
+    "rain",
+    "swim",
+    "cells",
+    "fins",
+    "beautiful",
+    "prefers",
+    "within",
+    "hide",
+    "attacked",
+    "freely",
+    "tip",
+    "close"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": "urban",
@@ -38,7 +133,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "ridged",
+        "mermaid",
+        "mistaken",
+        "fin",
+        "close"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +152,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "ridged",
+        "mermaid",
+        "mistaken",
+        "fin",
+        "close"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +171,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its cell structure is similar to water molecules. It will melt away and become invis­ ible in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "invis",
+        "ible",
+        "cell",
+        "molecules",
+        "melt",
+        "structure",
+        "similar"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +191,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When VAPOREON's fins begin to vi­ brate, it is a sign that rain will come within a few hours.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "brate",
+        "vi",
+        "begin",
+        "hours",
+        "few",
+        "sign",
+        "rain",
+        "fins",
+        "within"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +211,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It prefers beauti­ ful shores. With cells similar to water molecules, it could melt in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "beauti",
+        "ful",
+        "shores",
+        "molecules",
+        "melt",
+        "similar",
+        "cells",
+        "prefers"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +232,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "blends",
+        "perfectly",
+        "swim",
+        "fins",
+        "tip"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +251,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spontaneous",
+        "gills",
+        "underwent",
+        "mutation",
+        "underwater",
+        "allow",
+        "grew",
+        "fins",
+        "freely"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +273,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spontaneous",
+        "gills",
+        "underwent",
+        "mutation",
+        "underwater",
+        "allow",
+        "grew",
+        "fins",
+        "freely"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +295,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spontaneous",
+        "gills",
+        "underwent",
+        "mutation",
+        "underwater",
+        "allow",
+        "grew",
+        "fins",
+        "freely"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +317,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "invisibly",
+        "molecular",
+        "cellular",
+        "composition",
+        "melt",
+        "structure",
+        "similar"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +337,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "ridged",
+        "mermaid",
+        "mistaken",
+        "fin",
+        "close"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +356,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "invisibly",
+        "suitable",
+        "aquatic",
+        "melt",
+        "evolved"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +374,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "invisibly",
+        "suitable",
+        "aquatic",
+        "melt",
+        "evolved"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +392,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cell",
+        "molecules",
+        "composition",
+        "melt",
+        "similar"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +410,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When VAPOREON’s fins begin to vibrate, it is a sign that rain will come within a few hours.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "vibrate",
+        "begin",
+        "hours",
+        "few",
+        "sign",
+        "rain",
+        "fins",
+        "within"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +429,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "shores",
+        "molecules",
+        "melt",
+        "similar",
+        "cells",
+        "beautiful",
+        "prefers"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +449,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cell",
+        "molecules",
+        "composition",
+        "melt",
+        "similar"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +467,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cell",
+        "molecules",
+        "composition",
+        "melt",
+        "similar"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +485,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its cell composition is similar to water molecules. As a result, it can’t be seen when it melts away into water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cell",
+        "molecules",
+        "composition",
+        "melts",
+        "similar"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +503,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its cell composition is similar to water molecules. As a result, it can’t be seen when it melts away into water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cell",
+        "molecules",
+        "composition",
+        "melts",
+        "similar"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +521,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "shores",
+        "molecules",
+        "melt",
+        "similar",
+        "cells",
+        "beautiful",
+        "prefers"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +541,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "invisibly",
+        "suitable",
+        "aquatic",
+        "melt",
+        "evolved"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +559,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spontaneous",
+        "gills",
+        "underwent",
+        "mutation",
+        "underwater",
+        "allow",
+        "grew",
+        "fins",
+        "freely"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +581,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spontaneous",
+        "gills",
+        "underwent",
+        "mutation",
+        "underwater",
+        "allow",
+        "grew",
+        "fins",
+        "freely"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +603,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its cells are composed of units much like water molecules. It lives close to water and is often mistaken for a mermaid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "mermaid",
+        "molecules",
+        "mistaken",
+        "composed",
+        "units",
+        "cells",
+        "close"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +623,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "erasing",
+        "blending",
+        "patiently",
+        "presence",
+        "signs",
+        "fish",
+        "waits"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +644,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Clean, clear waters are its usual habitat. When it’s about to be attacked by an invading enemy, it dives into the water to hide.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "invading",
+        "usual",
+        "dives",
+        "clear",
+        "waters",
+        "habitat",
+        "clean",
+        "hide",
+        "attacked"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +666,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trembling",
+        "detects",
+        "rapidly",
+        "means",
+        "nearby",
+        "fin",
+        "hours",
+        "few",
+        "begins",
+        "moisture",
+        "fall",
+        "rain"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +689,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cell",
+        "molecules",
+        "melts",
+        "structure",
+        "invisible",
+        "similar"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +708,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cell",
+        "molecules",
+        "melts",
+        "structure",
+        "invisible",
+        "similar"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +727,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "vibrate",
+        "begin",
+        "hours",
+        "few",
+        "sign",
+        "rain",
+        "fins",
+        "within"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +746,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "invisibly",
+        "molecular",
+        "cellular",
+        "composition",
+        "melt",
+        "structure",
+        "similar"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +766,28 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "explains",
+        "origins",
+        "submerged",
+        "folklore",
+        "conceal",
+        "lie",
+        "mermaid",
+        "perhaps",
+        "closely",
+        "resemble",
+        "tests",
+        "show",
+        "molecules",
+        "i",
+        "believe",
+        "cells"
+      ]
     }
   ],
   "similarPokemonIds": [

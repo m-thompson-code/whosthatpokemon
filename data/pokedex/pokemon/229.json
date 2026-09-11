@@ -10,6 +10,64 @@
   ],
   "imagePath": "/assets/pokemon/229.png",
   "entryCount": 23,
+  "entryTraits": [
+    "fiery",
+    "horns",
+    "hunting",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "divvy",
+    "identifiable",
+    "pungent",
+    "evenly",
+    "amongst",
+    "spew",
+    "grim",
+    "reaper",
+    "shivers",
+    "raked",
+    "towards",
+    "leadership",
+    "members",
+    "results",
+    "role",
+    "mixed",
+    "choose",
+    "forever",
+    "imagined",
+    "finish",
+    "burned",
+    "eerie",
+    "howls",
+    "call",
+    "smelling",
+    "hearing",
+    "hurt",
+    "sharply",
+    "contain",
+    "toward",
+    "ing",
+    "breathes",
+    "toxins",
+    "leader",
+    "serves",
+    "feared",
+    "straight",
+    "burn",
+    "pain",
+    "nests",
+    "upon",
+    "pack",
+    "themselves",
+    "angry",
+    "fighting",
+    "shoots",
+    "among",
+    "flame",
+    "thought",
+    "horns"
+  ],
   "color": "black",
   "shape": "quadruped",
   "habitat": "rough-terrain",
@@ -39,7 +97,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "burned",
+        "pain",
+        "shoots"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +113,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shivers",
+        "eerie",
+        "howls",
+        "hearing",
+        "straight",
+        "nests",
+        "upon"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +131,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The pungent- smelling flame that shoots from its mouth results from toxins burn­ ing in its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "pungent",
+        "results",
+        "smelling",
+        "ing",
+        "toxins",
+        "burn",
+        "shoots",
+        "flame"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +152,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "amongst",
+        "raked",
+        "towards",
+        "leadership",
+        "role",
+        "choose",
+        "sharply",
+        "leader",
+        "serves",
+        "pack",
+        "themselves",
+        "fighting",
+        "horns"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +178,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "amongst",
+        "raked",
+        "towards",
+        "leadership",
+        "role",
+        "choose",
+        "sharply",
+        "leader",
+        "serves",
+        "pack",
+        "themselves",
+        "fighting",
+        "horns"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +204,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "In a HOUNDOOM pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "raked",
+        "leadership",
+        "role",
+        "choose",
+        "sharply",
+        "leader",
+        "serves",
+        "pack",
+        "themselves",
+        "fighting",
+        "among",
+        "horns"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +229,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shivers",
+        "eerie",
+        "howls",
+        "hearing",
+        "straight",
+        "nests",
+        "upon"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +247,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "burned",
+        "pain",
+        "shoots"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +263,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Long ago, people imagined its eerie howls to be the call of the grim reaper.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grim",
+        "reaper",
+        "imagined",
+        "eerie",
+        "howls",
+        "call"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +280,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Long ago, people imagined its eerie howls to be the call of the grim reaper.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grim",
+        "reaper",
+        "imagined",
+        "eerie",
+        "howls",
+        "call"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +297,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "forever",
+        "hurt",
+        "contain",
+        "breathes",
+        "toxins",
+        "burn",
+        "angry"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +317,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "burned",
+        "pain",
+        "shoots"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +333,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shivers",
+        "eerie",
+        "howls",
+        "hearing",
+        "straight",
+        "nests",
+        "upon"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +351,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "forever",
+        "hurt",
+        "contain",
+        "breathes",
+        "toxins",
+        "burn",
+        "angry"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +371,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "forever",
+        "hurt",
+        "contain",
+        "breathes",
+        "toxins",
+        "burn",
+        "angry"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +391,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "forever",
+        "hurt",
+        "contain",
+        "breathes",
+        "toxins",
+        "burn",
+        "angry"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +411,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "forever",
+        "hurt",
+        "contain",
+        "breathes",
+        "toxins",
+        "burn",
+        "angry"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +431,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Long ago, people imagined its eerie howls to be the call of the grim reaper.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grim",
+        "reaper",
+        "imagined",
+        "eerie",
+        "howls",
+        "call"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +448,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "forever",
+        "hurt",
+        "contain",
+        "breathes",
+        "toxins",
+        "burn",
+        "angry"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +468,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "raked",
+        "leadership",
+        "role",
+        "choose",
+        "sharply",
+        "toward",
+        "leader",
+        "serves",
+        "pack",
+        "themselves",
+        "fighting",
+        "among",
+        "horns"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +494,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "raked",
+        "leadership",
+        "role",
+        "choose",
+        "sharply",
+        "toward",
+        "leader",
+        "serves",
+        "pack",
+        "themselves",
+        "fighting",
+        "among",
+        "horns"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +520,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They spew flames mixed with poison to finish off their opponents. They divvy up their prey evenly among the members of their pack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery",
+        "poisonous"
+      ],
+      "keywords": [
+        "divvy",
+        "evenly",
+        "spew",
+        "members",
+        "mixed",
+        "finish",
+        "pack",
+        "among"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +543,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "identifiable",
+        "grim",
+        "reaper",
+        "eerie",
+        "howls",
+        "feared",
+        "thought"
+      ]
     }
   ],
   "similarPokemonIds": [

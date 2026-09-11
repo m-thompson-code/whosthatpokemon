@@ -10,6 +10,38 @@
   ],
   "imagePath": "/assets/pokemon/520.png",
   "entryCount": 10,
+  "entryTraits": [
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "moderately",
+    "separating",
+    "delivery",
+    "workers",
+    "regardless",
+    "war",
+    "partners",
+    "choose",
+    "acute",
+    "peaceful",
+    "memories",
+    "distance",
+    "location",
+    "return",
+    "separated",
+    "travels",
+    "master",
+    "knows",
+    "believe",
+    "bright",
+    "find",
+    "matter",
+    "forest",
+    "far",
+    "place",
+    "quickly",
+    "apparently"
+  ],
   "color": "gray",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +71,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can return to its Trainer’s location regardless of the distance separating them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "separating",
+        "regardless",
+        "distance",
+        "location",
+        "return"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +87,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "war",
+        "peaceful",
+        "believe",
+        "forest",
+        "place"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +105,13 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "separated",
+        "knows",
+        "matter"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +119,13 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "separated",
+        "knows",
+        "matter"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +133,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "war",
+        "peaceful",
+        "believe",
+        "forest",
+        "place"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +151,13 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "separated",
+        "knows",
+        "matter"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +165,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "war",
+        "peaceful",
+        "believe",
+        "forest",
+        "place"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +183,13 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "separated",
+        "knows",
+        "matter"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +197,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "moderately",
+        "travels",
+        "master",
+        "find",
+        "matter",
+        "far",
+        "quickly"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +215,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "delivery",
+        "workers",
+        "partners",
+        "choose",
+        "acute",
+        "memories",
+        "bright",
+        "apparently"
+      ]
     }
   ],
   "similarPokemonIds": [

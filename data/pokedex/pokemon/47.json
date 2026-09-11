@@ -10,6 +10,92 @@
   ],
   "imagePath": "/assets/pokemon/047.png",
   "entryCount": 31,
+  "entryTraits": [
+    "forest-dwelling",
+    "poisonous",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "credence",
+    "harvested",
+    "lending",
+    "medicines",
+    "china",
+    "hypothesis",
+    "rooms",
+    "steeped",
+    "boiled",
+    "mush",
+    "shiinotic",
+    "cap",
+    "parasite",
+    "preference",
+    "specimens",
+    "herbal",
+    "infest",
+    "room",
+    "extract",
+    "produced",
+    "controlled",
+    "drain",
+    "drained",
+    "infested",
+    "lacking",
+    "lie",
+    "prepare",
+    "actions",
+    "unmoving",
+    "main",
+    "traditional",
+    "mostly",
+    "masse",
+    "quality",
+    "trunk",
+    "en",
+    "dies",
+    "pair",
+    "taken",
+    "medicine",
+    "thinking",
+    "prefer",
+    "lower",
+    "damp",
+    "mushroom",
+    "host",
+    "alola",
+    "mushrooms",
+    "dead",
+    "stays",
+    "stops",
+    "egg",
+    "leave",
+    "roots",
+    "having",
+    "left",
+    "bug",
+    "grown",
+    "onto",
+    "scatters",
+    "fights",
+    "spores",
+    "nothing",
+    "do",
+    "controls",
+    "forest",
+    "larger",
+    "prefers",
+    "nutrients",
+    "poisonous",
+    "stronger",
+    "another",
+    "dark",
+    "places",
+    "good",
+    "moving",
+    "big",
+    "apparently",
+    "toxic"
+  ],
   "color": "red",
   "shape": "armor",
   "habitat": "forest",
@@ -40,7 +126,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "parasite",
+        "pair",
+        "taken",
+        "damp",
+        "mushroom",
+        "host",
+        "bug",
+        "prefers",
+        "places"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +146,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "parasite",
+        "pair",
+        "taken",
+        "damp",
+        "mushroom",
+        "host",
+        "bug",
+        "prefers",
+        "places"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +166,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "drained",
+        "thinking",
+        "host",
+        "mushrooms",
+        "bug",
+        "do"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +183,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rooms",
+        "mush",
+        "preference",
+        "mostly",
+        "damp",
+        "stays",
+        "bug",
+        "dark",
+        "places",
+        "big"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +204,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The larger the mushroom on its back grows, the stronger the mush­ room spores it scatters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mush",
+        "room",
+        "mushroom",
+        "scatters",
+        "spores",
+        "larger",
+        "stronger"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +222,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extract",
+        "mushrooms",
+        "egg",
+        "leave",
+        "left",
+        "bug",
+        "spores",
+        "nothing"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +241,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "infest",
+        "drain",
+        "infested",
+        "masse",
+        "trunk",
+        "en",
+        "dies",
+        "lower",
+        "roots",
+        "onto",
+        "nutrients",
+        "another"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +266,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "infest",
+        "drain",
+        "infested",
+        "masse",
+        "trunk",
+        "en",
+        "dies",
+        "lower",
+        "roots",
+        "onto",
+        "nutrients",
+        "another"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +291,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "PARASECT are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "infest",
+        "drain",
+        "infested",
+        "masse",
+        "en",
+        "dies",
+        "roots",
+        "onto",
+        "nutrients",
+        "another"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +314,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It scatters toxic spores from the mushroom cap. In China, the spores are used as herbal medicine.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "china",
+        "cap",
+        "herbal",
+        "medicine",
+        "mushroom",
+        "scatters",
+        "spores",
+        "toxic"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +335,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "parasite",
+        "pair",
+        "taken",
+        "damp",
+        "mushroom",
+        "host",
+        "bug",
+        "prefers",
+        "places"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +355,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "mushroom",
+        "host",
+        "grown",
+        "scatters",
+        "spores",
+        "controls",
+        "larger",
+        "poisonous"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +376,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is controlled by a mushroom grown larger than the bug body. It is said to prefer damp places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "controlled",
+        "prefer",
+        "damp",
+        "mushroom",
+        "bug",
+        "grown",
+        "larger",
+        "places"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +395,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "mushroom",
+        "host",
+        "grown",
+        "scatters",
+        "spores",
+        "controls",
+        "larger",
+        "poisonous"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +416,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushroom on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "preference",
+        "mostly",
+        "damp",
+        "mushroom",
+        "stays",
+        "bug",
+        "dark",
+        "places",
+        "big"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +436,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mushroom",
+        "scatters",
+        "spores",
+        "larger",
+        "stronger"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +452,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "mushroom",
+        "host",
+        "grown",
+        "scatters",
+        "spores",
+        "controls",
+        "larger",
+        "poisonous"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +473,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "mushroom",
+        "host",
+        "grown",
+        "scatters",
+        "spores",
+        "controls",
+        "larger",
+        "poisonous"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +494,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "mushroom",
+        "host",
+        "grown",
+        "scatters",
+        "spores",
+        "controls",
+        "larger",
+        "poisonous"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +515,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "mushroom",
+        "host",
+        "grown",
+        "scatters",
+        "spores",
+        "controls",
+        "larger",
+        "poisonous"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +536,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "mushroom",
+        "host",
+        "grown",
+        "scatters",
+        "spores",
+        "controls",
+        "larger",
+        "poisonous"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +557,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mushroom",
+        "scatters",
+        "spores",
+        "larger",
+        "stronger"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +573,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "infest",
+        "drain",
+        "infested",
+        "masse",
+        "trunk",
+        "en",
+        "dies",
+        "lower",
+        "roots",
+        "onto",
+        "nutrients",
+        "another"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +598,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "infest",
+        "drain",
+        "infested",
+        "masse",
+        "trunk",
+        "en",
+        "dies",
+        "lower",
+        "roots",
+        "onto",
+        "nutrients",
+        "another"
+      ]
     },
     {
       "versionId": 27,
@@ -232,7 +623,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The large mushroom on its back controls it. It often fights over territory with Shiinotic.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "shiinotic",
+        "mushroom",
+        "fights",
+        "controls"
+      ]
     },
     {
       "versionId": 28,
@@ -240,7 +640,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It scatters toxic spores from its mushroom cap. Once harvested, these spores can be steeped and boiled down to prepare herbal medicines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "harvested",
+        "medicines",
+        "steeped",
+        "boiled",
+        "cap",
+        "herbal",
+        "prepare",
+        "mushroom",
+        "scatters",
+        "spores",
+        "toxic"
+      ]
     },
     {
       "versionId": 29,
@@ -248,7 +664,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "main",
+        "mostly",
+        "mushroom",
+        "dead",
+        "stops",
+        "having",
+        "bug",
+        "moving"
+      ]
     },
     {
       "versionId": 30,
@@ -256,7 +683,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its poisonous spores are also used in traditional medicine. Apparently, spores produced in Alola are not of very good quality.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "produced",
+        "traditional",
+        "quality",
+        "medicine",
+        "alola",
+        "spores",
+        "poisonous",
+        "good",
+        "apparently"
+      ]
     },
     {
       "versionId": 31,
@@ -264,7 +705,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "drained",
+        "thinking",
+        "mushroom",
+        "host",
+        "bug",
+        "do"
+      ]
     },
     {
       "versionId": 32,
@@ -272,7 +722,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "drained",
+        "thinking",
+        "mushroom",
+        "host",
+        "bug",
+        "do"
+      ]
     },
     {
       "versionId": 39,
@@ -280,7 +739,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "credence",
+        "lending",
+        "hypothesis",
+        "specimens",
+        "lacking",
+        "lie",
+        "actions",
+        "unmoving",
+        "mushroom",
+        "forest"
+      ]
     }
   ],
   "similarPokemonIds": [

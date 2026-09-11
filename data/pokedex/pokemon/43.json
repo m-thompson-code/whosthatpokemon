@@ -10,6 +10,78 @@
   ],
   "imagePath": "/assets/pokemon/043.png",
   "entryCount": 28,
+  "entryTraits": [
+    "nocturnal",
+    "cave-dwelling",
+    "luminous",
+    "cold-climate",
+    "icy",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "bath",
+    "oddium",
+    "wanderus",
+    "clump",
+    "sowing",
+    "glossier",
+    "fertile",
+    "awakened",
+    "detection",
+    "sows",
+    "planted",
+    "yank",
+    "bathing",
+    "nutrient",
+    "root",
+    "shrieks",
+    "weeds",
+    "actively",
+    "name",
+    "absorbing",
+    "roams",
+    "moonlight",
+    "buries",
+    "scientific",
+    "horribly",
+    "mistaken",
+    "rich",
+    "scatter",
+    "leaving",
+    "ing",
+    "wanders",
+    "walk",
+    "buried",
+    "seeds",
+    "daytime",
+    "searches",
+    "stays",
+    "nearly",
+    "quietly",
+    "shape",
+    "wide",
+    "roots",
+    "absorb",
+    "exposed",
+    "similar",
+    "walks",
+    "1",
+    "change",
+    "try",
+    "avoid",
+    "starts",
+    "far",
+    "moon",
+    "nutrients",
+    "soil",
+    "plants",
+    "keeps",
+    "underground",
+    "entire",
+    "thought",
+    "face",
+    "sun"
+  ],
   "color": "blue",
   "shape": "legs",
   "habitat": "grassland",
@@ -39,7 +111,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sowing",
+        "wanders",
+        "buried",
+        "seeds",
+        "keeps",
+        "face"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +130,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sowing",
+        "wanders",
+        "buried",
+        "seeds",
+        "keeps",
+        "face"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +149,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clump",
+        "yank",
+        "shrieks",
+        "weeds",
+        "horribly",
+        "mistaken",
+        "try"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +167,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Awakened by moon­ light, it roams actively at night. In the day, it stays quietly underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "awakened",
+        "actively",
+        "roams",
+        "stays",
+        "quietly",
+        "moon",
+        "underground"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +189,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "roams",
+        "moonlight",
+        "scatter",
+        "seeds",
+        "wide",
+        "exposed",
+        "starts",
+        "far"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +210,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "During the day, it stays in the cold underground to avoid the sun. It grows by bath­ ing in moonlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "bath",
+        "moonlight",
+        "ing",
+        "stays",
+        "avoid",
+        "underground",
+        "sun"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +232,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "During the daytime, ODDISH buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "glossier",
+        "fertile",
+        "buries",
+        "daytime",
+        "absorb",
+        "nutrients",
+        "soil",
+        "entire"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +251,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ODDISH searches for fertile, nutrient- rich soil, then plants itself. During the daytime, while it is planted, this POKéMON’s feet are thought to change shape and become similar to the roots of trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "fertile",
+        "planted",
+        "nutrient",
+        "rich",
+        "daytime",
+        "searches",
+        "shape",
+        "roots",
+        "similar",
+        "change",
+        "soil",
+        "plants",
+        "thought"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +277,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "This POKéMON grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "detection",
+        "absorbing",
+        "moonlight",
+        "buries",
+        "leaving",
+        "daytime",
+        "exposed",
+        "avoid"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +296,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly 1,000 feet on its two roots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "oddium",
+        "wanderus",
+        "name",
+        "scientific",
+        "walk",
+        "nearly",
+        "roots",
+        "1"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +317,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sowing",
+        "wanders",
+        "buried",
+        "seeds",
+        "keeps",
+        "face"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +336,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sows",
+        "root",
+        "seeds",
+        "walks",
+        "plants"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +354,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sows",
+        "root",
+        "seeds",
+        "walks",
+        "plants"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +372,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sows",
+        "root",
+        "seeds",
+        "walks",
+        "plants"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +390,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "awakened",
+        "actively",
+        "roams",
+        "moonlight",
+        "stays",
+        "quietly",
+        "underground"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +411,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "roams",
+        "moonlight",
+        "scatter",
+        "seeds",
+        "wide",
+        "exposed",
+        "starts",
+        "far"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +432,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sows",
+        "root",
+        "seeds",
+        "walks",
+        "plants"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +450,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sows",
+        "root",
+        "seeds",
+        "walks",
+        "plants"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +468,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sows",
+        "root",
+        "seeds",
+        "walks",
+        "plants"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +486,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sows",
+        "root",
+        "seeds",
+        "walks",
+        "plants"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +504,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "bathing",
+        "moonlight",
+        "stays",
+        "avoid",
+        "underground",
+        "sun"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +525,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly 1,000 feet on its two roots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "oddium",
+        "wanderus",
+        "name",
+        "scientific",
+        "walk",
+        "nearly",
+        "roots",
+        "1"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +546,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "glossier",
+        "fertile",
+        "buries",
+        "daytime",
+        "absorb",
+        "nutrients",
+        "soil",
+        "entire"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +565,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon’s feet are thought to change shape and become similar to the roots of trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "fertile",
+        "planted",
+        "nutrient",
+        "rich",
+        "daytime",
+        "searches",
+        "shape",
+        "roots",
+        "similar",
+        "change",
+        "soil",
+        "plants",
+        "thought"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +591,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clump",
+        "yank",
+        "shrieks",
+        "weeds",
+        "horribly",
+        "mistaken",
+        "try"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +609,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clump",
+        "yank",
+        "shrieks",
+        "weeds",
+        "horribly",
+        "mistaken",
+        "try"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +627,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "roams",
+        "moonlight",
+        "scatter",
+        "seeds",
+        "wide",
+        "exposed",
+        "starts",
+        "far"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +648,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "bathing",
+        "moonlight",
+        "stays",
+        "avoid",
+        "underground",
+        "sun"
+      ]
     }
   ],
   "similarPokemonIds": [

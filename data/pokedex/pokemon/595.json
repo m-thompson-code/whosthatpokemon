@@ -10,6 +10,40 @@
   ],
   "imagePath": "/assets/pokemon/595.png",
   "entryCount": 10,
+  "entryTraits": [
+    "electric"
+  ],
+  "entryKeywords": [
+    "yamper",
+    "latch",
+    "hindquarters",
+    "outlets",
+    "soaking",
+    "attach",
+    "clinging",
+    "learned",
+    "sticking",
+    "suck",
+    "sucking",
+    "bodied",
+    "technique",
+    "produce",
+    "cities",
+    "sticks",
+    "store",
+    "pouch",
+    "houses",
+    "static",
+    "charge",
+    "absorb",
+    "onto",
+    "themselves",
+    "generate",
+    "absorbs",
+    "re",
+    "since",
+    "electric"
+  ],
   "color": "yellow",
   "shape": "armor",
   "habitat": null,
@@ -39,7 +73,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "outlets",
+        "learned",
+        "sucking",
+        "technique",
+        "cities",
+        "houses"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +92,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "attach",
+        "bodied",
+        "store",
+        "pouch",
+        "static",
+        "absorb",
+        "themselves",
+        "electric"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +113,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bodied",
+        "sticks",
+        "static",
+        "onto",
+        "generate",
+        "absorbs",
+        "since"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +133,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bodied",
+        "sticks",
+        "static",
+        "onto",
+        "generate",
+        "absorbs",
+        "since"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +153,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bodied",
+        "sticks",
+        "static",
+        "onto",
+        "generate",
+        "absorbs",
+        "since"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +173,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "attach",
+        "bodied",
+        "store",
+        "pouch",
+        "static",
+        "absorb",
+        "themselves",
+        "electric"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +194,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bodied",
+        "sticks",
+        "static",
+        "onto",
+        "generate",
+        "absorbs",
+        "since"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +214,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "attach",
+        "bodied",
+        "store",
+        "pouch",
+        "static",
+        "absorb",
+        "themselves",
+        "electric"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +235,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Joltik can be found clinging to other Pokémon. It’s soaking up static electricity because it can’t produce a charge on its own.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "soaking",
+        "clinging",
+        "produce",
+        "static",
+        "charge"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +253,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "yamper",
+        "latch",
+        "hindquarters",
+        "sticking",
+        "suck",
+        "static",
+        "re"
+      ]
     }
   ],
   "similarPokemonIds": [

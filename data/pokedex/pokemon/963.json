@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/963.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "tail"
+  ],
+  "entryKeywords": [
+    "blowhole",
+    "mixed",
+    "creatures",
+    "ring",
+    "playing",
+    "seawater",
+    "sticky",
+    "secretes",
+    "likes",
+    "ultrasonic",
+    "emotions",
+    "living",
+    "fluid",
+    "sense"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": null,
@@ -39,7 +59,21 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "creatures",
+        "ring",
+        "playing",
+        "likes",
+        "ultrasonic",
+        "emotions",
+        "living",
+        "sense"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +81,19 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "blowhole",
+        "mixed",
+        "ring",
+        "seawater",
+        "sticky",
+        "secretes",
+        "fluid"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,73 @@
   ],
   "imagePath": "/assets/pokemon/356.png",
   "entryCount": 21,
+  "entryTraits": [
+    "arms",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "bandage",
+    "bandages",
+    "peeking",
+    "verify",
+    "confirm",
+    "macabre",
+    "hypnotizes",
+    "void",
+    "hypnotized",
+    "pulled",
+    "scared",
+    "dares",
+    "sucked",
+    "waving",
+    "wisps",
+    "bringing",
+    "fact",
+    "spectral",
+    "stolen",
+    "theory",
+    "bidding",
+    "bear",
+    "manner",
+    "peer",
+    "drifting",
+    "empty",
+    "o",
+    "rumors",
+    "gaps",
+    "wrapped",
+    "ve",
+    "return",
+    "mystery",
+    "burning",
+    "i",
+    "object",
+    "opens",
+    "sucks",
+    "seeks",
+    "completely",
+    "hollow",
+    "hole",
+    "happens",
+    "eye",
+    "absorb",
+    "entirely",
+    "single",
+    "ever",
+    "between",
+    "nothing",
+    "do",
+    "absorbs",
+    "hands",
+    "able",
+    "everything",
+    "look",
+    "black",
+    "anyone",
+    "spirit",
+    "thought",
+    "ball"
+  ],
   "color": "black",
   "shape": "humanoid",
   "habitat": "forest",
@@ -38,7 +105,17 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DUSCLOPS’s body is completely hollow - there is nothing at all inside. It is said that its body is like a black hole. This POKéMON will absorb anything into its body, but nothing will ever come back out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "completely",
+        "hollow",
+        "hole",
+        "absorb",
+        "ever",
+        "nothing",
+        "black"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +123,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DUSCLOPS absorbs anything, however large the object may be. This POKéMON hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do DUSCLOPS’s bidding.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "macabre",
+        "hypnotizes",
+        "hypnotized",
+        "waving",
+        "bringing",
+        "bidding",
+        "bear",
+        "manner",
+        "object",
+        "eye",
+        "single",
+        "do",
+        "absorbs",
+        "hands"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +150,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "confirm",
+        "fact",
+        "spectral",
+        "theory",
+        "burning",
+        "hollow",
+        "able",
+        "thought",
+        "ball"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +172,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "opens",
+        "sucks",
+        "hollow",
+        "hole",
+        "entirely",
+        "everything",
+        "black"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +190,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "opens",
+        "sucks",
+        "hollow",
+        "hole",
+        "entirely",
+        "everything",
+        "black"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +208,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its body is hollow. It is said that those who look into its body are sucked into the void.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "void",
+        "sucked",
+        "hollow",
+        "look"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +223,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body is hollow. It is said that those who look into its body are sucked into the void.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "void",
+        "sucked",
+        "hollow",
+        "look"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +238,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wisps",
+        "drifting",
+        "empty",
+        "o",
+        "mystery",
+        "sucks",
+        "seeks",
+        "happens"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +257,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "dares",
+        "spectral",
+        "stolen",
+        "peer",
+        "anyone",
+        "spirit",
+        "ball"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +277,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "dares",
+        "spectral",
+        "stolen",
+        "peer",
+        "anyone",
+        "spirit",
+        "ball"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +297,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wisps",
+        "drifting",
+        "empty",
+        "o",
+        "mystery",
+        "sucks",
+        "seeks",
+        "happens"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +316,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wisps",
+        "drifting",
+        "empty",
+        "o",
+        "mystery",
+        "sucks",
+        "seeks",
+        "happens"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +335,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wisps",
+        "drifting",
+        "empty",
+        "o",
+        "mystery",
+        "sucks",
+        "seeks",
+        "happens"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +354,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wisps",
+        "drifting",
+        "empty",
+        "o",
+        "mystery",
+        "sucks",
+        "seeks",
+        "happens"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +373,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "dares",
+        "spectral",
+        "stolen",
+        "peer",
+        "anyone",
+        "spirit",
+        "ball"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +393,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its body is hollow. It is said that those who look into its body are sucked into the void.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "void",
+        "sucked",
+        "hollow",
+        "look"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +408,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dusclops’s body is completely hollow—there is nothing at all inside. It is said that its body is like a black hole. This Pokémon will absorb anything into its body, but nothing will ever come back out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "completely",
+        "hollow",
+        "hole",
+        "absorb",
+        "ever",
+        "nothing",
+        "black"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +426,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dusclops absorbs anything, however large the object may be. This Pokémon hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do Dusclops’s bidding.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "macabre",
+        "hypnotizes",
+        "hypnotized",
+        "waving",
+        "bringing",
+        "bidding",
+        "bear",
+        "manner",
+        "object",
+        "eye",
+        "single",
+        "do",
+        "absorbs",
+        "hands"
+      ]
     },
     {
       "versionId": 33,
@@ -182,7 +453,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "opens",
+        "sucks",
+        "hollow",
+        "hole",
+        "entirely",
+        "everything",
+        "black"
+      ]
     },
     {
       "versionId": 34,
@@ -190,7 +471,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wisps",
+        "drifting",
+        "empty",
+        "o",
+        "mystery",
+        "sucks",
+        "seeks",
+        "happens"
+      ]
     },
     {
       "versionId": 39,
@@ -198,7 +490,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "There are rumors that peeking inside its bandage-wrapped body will cause one to get pulled in through the gaps between the bandages, never to return. I've been too scared to verify.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bandage",
+        "bandages",
+        "peeking",
+        "verify",
+        "pulled",
+        "scared",
+        "rumors",
+        "gaps",
+        "wrapped",
+        "ve",
+        "return",
+        "i",
+        "between"
+      ]
     }
   ],
   "similarPokemonIds": [

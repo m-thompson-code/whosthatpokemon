@@ -10,6 +10,31 @@
   ],
   "imagePath": "/assets/pokemon/634.png",
   "entryCount": 10,
+  "entryTraits": [
+    "territorial",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "bickering",
+    "whichever",
+    "scars",
+    "piece",
+    "compete",
+    "hunting",
+    "battling",
+    "wanders",
+    "leader",
+    "eaten",
+    "single",
+    "area",
+    "do",
+    "since",
+    "another",
+    "along",
+    "covered",
+    "eat",
+    "heads"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +64,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "eaten",
+        "area",
+        "do",
+        "another",
+        "along",
+        "heads"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +83,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Since their two heads do not get along and compete with each other for food, they always eat too much.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compete",
+        "do",
+        "since",
+        "along",
+        "eat",
+        "heads"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +100,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whichever",
+        "leader",
+        "do",
+        "along",
+        "heads"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +116,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whichever",
+        "leader",
+        "do",
+        "along",
+        "heads"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +132,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whichever",
+        "leader",
+        "do",
+        "along",
+        "heads"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +148,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "eaten",
+        "area",
+        "do",
+        "another",
+        "along",
+        "heads"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +167,15 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whichever",
+        "leader",
+        "do",
+        "along",
+        "heads"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +183,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "eaten",
+        "area",
+        "do",
+        "another",
+        "along",
+        "heads"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +202,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "bickering",
+        "hunting",
+        "wanders",
+        "heads"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +220,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "scars",
+        "piece",
+        "battling",
+        "single",
+        "covered",
+        "heads"
+      ]
     }
   ],
   "similarPokemonIds": [

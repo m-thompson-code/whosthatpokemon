@@ -10,6 +10,62 @@
   ],
   "imagePath": "/assets/pokemon/049.png",
   "entryCount": 26,
+  "entryTraits": [
+    "wings",
+    "poisonous",
+    "luminous",
+    "hunting",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "sonous",
+    "coded",
+    "powdery",
+    "poi",
+    "leach",
+    "remove",
+    "hue",
+    "streetlights",
+    "dustlike",
+    "indicate",
+    "paralysis",
+    "paralyze",
+    "looses",
+    "insects",
+    "attracted",
+    "flutters",
+    "touches",
+    "scatter",
+    "contain",
+    "nocturnal",
+    "leaks",
+    "toxins",
+    "unable",
+    "violently",
+    "contact",
+    "powder",
+    "kinds",
+    "dust",
+    "person",
+    "covering",
+    "color",
+    "favorite",
+    "scatters",
+    "stand",
+    "flaps",
+    "active",
+    "causes",
+    "poisonous",
+    "scales",
+    "anyone",
+    "dark",
+    "highly",
+    "darkness",
+    "skin",
+    "gather",
+    "toxic",
+    "covered"
+  ],
   "color": "purple",
   "shape": "bug-wings",
   "habitat": "forest",
@@ -39,7 +95,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "coded",
+        "indicate",
+        "kinds",
+        "dust",
+        "covering",
+        "color",
+        "scales"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +116,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "coded",
+        "indicate",
+        "kinds",
+        "dust",
+        "covering",
+        "color",
+        "scales"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +137,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "powdery",
+        "remove",
+        "contain",
+        "leaks",
+        "contact",
+        "scales"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +157,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When it attacks, it flaps its large wings violently to scatter its poi­ sonous powder all around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "sonous",
+        "poi",
+        "scatter",
+        "violently",
+        "powder",
+        "flaps"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +176,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "luminous",
+        "poisonous"
+      ],
+      "keywords": [
+        "paralysis",
+        "powder",
+        "color",
+        "causes",
+        "poisonous",
+        "dark"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +197,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "paralyze",
+        "touches",
+        "unable",
+        "person",
+        "scatters",
+        "stand",
+        "scales",
+        "anyone"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +216,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "VENOMOTH is nocturnal - it is a POKéMON that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "streetlights",
+        "insects",
+        "attracted",
+        "nocturnal",
+        "favorite",
+        "active",
+        "darkness",
+        "gather"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +239,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "VENOMOTH is nocturnal - it is a POKéMON that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "streetlights",
+        "insects",
+        "attracted",
+        "nocturnal",
+        "favorite",
+        "active",
+        "darkness",
+        "gather"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +262,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "VENOMOTH are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "streetlights",
+        "insects",
+        "attracted",
+        "nocturnal",
+        "favorite",
+        "active",
+        "darkness",
+        "gather"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +285,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "dustlike",
+        "looses",
+        "dust",
+        "flaps",
+        "scales",
+        "highly",
+        "toxic",
+        "covered"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +307,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The dustlike scales covering its wings are color-coded to indicate the kinds of poison it has.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "coded",
+        "dustlike",
+        "indicate",
+        "kinds",
+        "covering",
+        "color",
+        "scales"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +328,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "leach",
+        "dustlike",
+        "flutters",
+        "scatter",
+        "toxins",
+        "contact",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +349,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "leach",
+        "dustlike",
+        "flutters",
+        "scatter",
+        "toxins",
+        "contact",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +370,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "leach",
+        "dustlike",
+        "flutters",
+        "scatter",
+        "toxins",
+        "contact",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +391,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "scatter",
+        "violently",
+        "powder",
+        "flaps",
+        "poisonous"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +410,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The powder on its wings is poisonous if it is dark in hue. If it is light in hue, it causes paralysis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "luminous",
+        "poisonous"
+      ],
+      "keywords": [
+        "hue",
+        "paralysis",
+        "powder",
+        "causes",
+        "poisonous",
+        "dark"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +431,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "leach",
+        "dustlike",
+        "flutters",
+        "scatter",
+        "toxins",
+        "contact",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +452,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "leach",
+        "dustlike",
+        "flutters",
+        "scatter",
+        "toxins",
+        "contact",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +473,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "leach",
+        "dustlike",
+        "flutters",
+        "scatter",
+        "toxins",
+        "contact",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +494,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "leach",
+        "dustlike",
+        "flutters",
+        "scatter",
+        "toxins",
+        "contact",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +515,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "paralyze",
+        "touches",
+        "unable",
+        "person",
+        "scatters",
+        "stand",
+        "scales",
+        "anyone"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +534,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "dustlike",
+        "looses",
+        "dust",
+        "flaps",
+        "scales",
+        "highly",
+        "toxic",
+        "covered"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +556,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "streetlights",
+        "insects",
+        "attracted",
+        "nocturnal",
+        "favorite",
+        "active",
+        "darkness",
+        "gather"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +579,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "streetlights",
+        "insects",
+        "attracted",
+        "nocturnal",
+        "favorite",
+        "active",
+        "darkness",
+        "gather"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +602,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "powdery",
+        "remove",
+        "contain",
+        "leaks",
+        "contact",
+        "scales",
+        "skin"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +623,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "poisonous"
+      ],
+      "keywords": [
+        "powdery",
+        "remove",
+        "contain",
+        "leaks",
+        "contact",
+        "scales",
+        "skin"
+      ]
     }
   ],
   "similarPokemonIds": [

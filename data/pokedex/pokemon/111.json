@@ -10,6 +10,101 @@
   ],
   "imagePath": "/assets/pokemon/111.png",
   "entryCount": 29,
+  "entryTraits": [
+    "psychic",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "ludicrously",
+    "semitrailer",
+    "stacles",
+    "stupid",
+    "ob",
+    "trailer",
+    "rushing",
+    "struggle",
+    "1000",
+    "collision",
+    "demolishes",
+    "unfortunately",
+    "skyscraper",
+    "smashing",
+    "collides",
+    "rushes",
+    "stopping",
+    "butts",
+    "obstacles",
+    "charging",
+    "inept",
+    "block",
+    "remembers",
+    "path",
+    "bothered",
+    "destroys",
+    "shatters",
+    "headlong",
+    "remember",
+    "topple",
+    "track",
+    "witted",
+    "started",
+    "tackle",
+    "unless",
+    "buildings",
+    "tackles",
+    "dense",
+    "incapable",
+    "clad",
+    "destroy",
+    "turning",
+    "smart",
+    "shatter",
+    "next",
+    "forgets",
+    "line",
+    "mind",
+    "thing",
+    "slow",
+    "why",
+    "knock",
+    "straight",
+    "charge",
+    "harder",
+    "pain",
+    "work",
+    "massive",
+    "charges",
+    "tiny",
+    "bright",
+    "help",
+    "direction",
+    "falls",
+    "1",
+    "care",
+    "feel",
+    "asleep",
+    "bones",
+    "short",
+    "first",
+    "run",
+    "running",
+    "starts",
+    "runs",
+    "something",
+    "everything",
+    "four",
+    "turns",
+    "place",
+    "brain",
+    "human",
+    "hide",
+    "stop",
+    "mountain",
+    "won",
+    "doesn",
+    "apparently",
+    "heads"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": "rough-terrain",
@@ -40,7 +135,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trailer",
+        "1000",
+        "knock",
+        "harder",
+        "massive",
+        "bones",
+        "human"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +153,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trailer",
+        "1000",
+        "knock",
+        "harder",
+        "massive",
+        "bones",
+        "human"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +171,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A POKéMON with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "track",
+        "mind",
+        "charges",
+        "falls",
+        "asleep",
+        "running",
+        "stop",
+        "won"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +192,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inept",
+        "turning",
+        "charge",
+        "direction",
+        "short",
+        "run",
+        "four"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +210,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It doesn't care if there is anything in its way. It just charges and destroys all ob­ stacles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stacles",
+        "ob",
+        "destroys",
+        "charges",
+        "care",
+        "doesn"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +227,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rushing",
+        "remember",
+        "started",
+        "forgets",
+        "thing",
+        "why",
+        "starts"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +245,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "RHYHORN runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This POKéMON may feel some pain from the collision the next day, however.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "collision",
+        "smashing",
+        "rushes",
+        "block",
+        "path",
+        "bothered",
+        "headlong",
+        "next",
+        "line",
+        "straight",
+        "pain",
+        "feel",
+        "runs",
+        "everything"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +270,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "RHYHORN’s brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "demolishes",
+        "remembers",
+        "started",
+        "dense",
+        "forgets",
+        "why",
+        "first",
+        "run",
+        "running",
+        "something",
+        "place",
+        "brain",
+        "apparently"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +294,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Once it starts running, it doesn’t stop. Its tiny brain makes it so stupid that it can’t remember why it started running in the first place.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stupid",
+        "remember",
+        "started",
+        "why",
+        "tiny",
+        "first",
+        "running",
+        "starts",
+        "place",
+        "brain",
+        "stop",
+        "doesn"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +317,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Strong, but not too bright, this POKéMON can shatter even a skyscraper with its charging TACKLES.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skyscraper",
+        "charging",
+        "tackles",
+        "shatter",
+        "bright"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +333,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its massive bones are 1,000 times harder than human bones. Its TACKLE can knock a semitrailer flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "semitrailer",
+        "tackle",
+        "knock",
+        "harder",
+        "massive",
+        "1",
+        "bones",
+        "human"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +352,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unfortunately",
+        "topple",
+        "buildings",
+        "tackles",
+        "clad",
+        "smart",
+        "hide"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +370,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unfortunately",
+        "topple",
+        "buildings",
+        "tackles",
+        "clad",
+        "smart",
+        "hide"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +388,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "witted",
+        "tackles",
+        "destroy",
+        "slow",
+        "work",
+        "help"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +405,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inept",
+        "turning",
+        "charge",
+        "direction",
+        "short",
+        "run",
+        "four"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +423,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It doesn’t care if there is anything in its way. It just charges and destroys all obstacles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "obstacles",
+        "destroys",
+        "charges",
+        "care",
+        "doesn"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +439,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "witted",
+        "tackles",
+        "destroy",
+        "slow",
+        "work",
+        "help"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +456,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "witted",
+        "tackles",
+        "destroy",
+        "slow",
+        "work",
+        "help"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +473,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "witted",
+        "tackles",
+        "destroy",
+        "slow",
+        "work",
+        "help"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +490,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "witted",
+        "tackles",
+        "destroy",
+        "slow",
+        "work",
+        "help"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +507,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skyscraper",
+        "charging",
+        "tackles",
+        "shatter",
+        "bright"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +523,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inept",
+        "turning",
+        "charge",
+        "direction",
+        "short",
+        "run",
+        "four"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +541,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "collision",
+        "smashing",
+        "rushes",
+        "block",
+        "path",
+        "bothered",
+        "headlong",
+        "next",
+        "line",
+        "straight",
+        "pain",
+        "feel",
+        "runs",
+        "everything"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +566,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rhyhorn’s brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "demolishes",
+        "remembers",
+        "started",
+        "dense",
+        "forgets",
+        "why",
+        "first",
+        "run",
+        "running",
+        "something",
+        "place",
+        "brain",
+        "apparently"
+      ]
     },
     {
       "versionId": 31,
@@ -232,7 +590,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Pokémon with a one-track mind. Once it charges, it won’t stop running until it falls asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "track",
+        "mind",
+        "charges",
+        "falls",
+        "asleep",
+        "running",
+        "stop",
+        "won"
+      ]
     },
     {
       "versionId": 32,
@@ -240,7 +611,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Pokémon with a one-track mind. Once it charges, it won’t stop running until it falls asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "track",
+        "mind",
+        "charges",
+        "falls",
+        "asleep",
+        "running",
+        "stop",
+        "won"
+      ]
     },
     {
       "versionId": 33,
@@ -248,7 +632,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skyscraper",
+        "charging",
+        "tackles",
+        "shatter",
+        "bright"
+      ]
     },
     {
       "versionId": 34,
@@ -256,7 +648,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rushing",
+        "remember",
+        "started",
+        "forgets",
+        "thing",
+        "why",
+        "starts"
+      ]
     },
     {
       "versionId": 39,
@@ -264,7 +666,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Ludicrously strong—when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "ludicrously",
+        "struggle",
+        "collides",
+        "stopping",
+        "butts",
+        "shatters",
+        "unless",
+        "incapable",
+        "short",
+        "something",
+        "turns",
+        "mountain",
+        "heads"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,72 @@
   ],
   "imagePath": "/assets/pokemon/346.png",
   "entryCount": 22,
+  "entryTraits": [
+    "aquatic",
+    "forest-dwelling",
+    "hunting",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "nab",
+    "shoals",
+    "weighs",
+    "anchor",
+    "digests",
+    "carnivorous",
+    "preventing",
+    "primordial",
+    "drags",
+    "shallows",
+    "length",
+    "dissolves",
+    "extend",
+    "roams",
+    "captures",
+    "digestive",
+    "usual",
+    "ensnares",
+    "tide",
+    "trunk",
+    "washed",
+    "eight",
+    "shallow",
+    "acid",
+    "unwary",
+    "feeding",
+    "melts",
+    "distant",
+    "floor",
+    "went",
+    "normally",
+    "walk",
+    "rough",
+    "extends",
+    "serves",
+    "catches",
+    "beaches",
+    "seafloor",
+    "secretes",
+    "digs",
+    "lived",
+    "short",
+    "absorbs",
+    "came",
+    "weather",
+    "neck",
+    "tentacles",
+    "nutrients",
+    "ocean",
+    "along",
+    "fast",
+    "freely",
+    "fluid",
+    "won",
+    "search",
+    "whole",
+    "heavy",
+    "seas"
+  ],
   "color": "green",
   "shape": "blob",
   "habitat": "sea",
@@ -39,7 +105,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CRADILY roams around the ocean floor in search of food. This POKéMON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "roams",
+        "captures",
+        "trunk",
+        "eight",
+        "unwary",
+        "floor",
+        "extends",
+        "neck",
+        "tentacles",
+        "ocean",
+        "freely",
+        "search"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +132,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CRADILY’s body serves as an anchor, preventing it from being washed away in rough seas. This POKéMON secretes a strong digestive fluid from its tentacles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "anchor",
+        "preventing",
+        "digestive",
+        "washed",
+        "rough",
+        "serves",
+        "secretes",
+        "tentacles",
+        "fluid",
+        "seas"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +153,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. CRADILY can be seen on beaches when the tide goes out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drags",
+        "shallows",
+        "tide",
+        "beaches",
+        "seafloor",
+        "along",
+        "heavy",
+        "seas"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +172,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ensnares",
+        "eight",
+        "acid",
+        "feeding",
+        "melts",
+        "tentacles"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +191,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ensnares",
+        "eight",
+        "acid",
+        "feeding",
+        "melts",
+        "tentacles"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +210,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "shallows",
+        "tide",
+        "beaches",
+        "digs",
+        "seas"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +229,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "shallows",
+        "tide",
+        "beaches",
+        "digs",
+        "seas"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +248,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "shallows",
+        "tide",
+        "beaches",
+        "digs",
+        "seas"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +267,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in warm seas. Its heavy body weighs it down so it won’t get washed away in rough weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "weighs",
+        "washed",
+        "rough",
+        "weather",
+        "won",
+        "heavy",
+        "seas"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +285,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in warm seas. Its heavy body weighs it down so it won’t get washed away in rough weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "weighs",
+        "washed",
+        "rough",
+        "weather",
+        "won",
+        "heavy",
+        "seas"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +303,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "shallows",
+        "tide",
+        "beaches",
+        "digs",
+        "seas"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +322,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "shallows",
+        "tide",
+        "beaches",
+        "digs",
+        "seas"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +341,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "shallows",
+        "tide",
+        "beaches",
+        "digs",
+        "seas"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +360,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "shallows",
+        "tide",
+        "beaches",
+        "digs",
+        "seas"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +379,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "shallows",
+        "tide",
+        "beaches",
+        "digs",
+        "seas"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +398,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ensnares",
+        "eight",
+        "acid",
+        "feeding",
+        "melts",
+        "tentacles"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +417,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "roams",
+        "captures",
+        "trunk",
+        "eight",
+        "unwary",
+        "floor",
+        "extends",
+        "neck",
+        "tentacles",
+        "ocean",
+        "freely",
+        "search"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +444,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cradily’s body serves as an anchor, preventing it from being washed away in rough seas. This Pokémon secretes a strong digestive fluid from its tentacles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "anchor",
+        "preventing",
+        "digestive",
+        "washed",
+        "rough",
+        "serves",
+        "secretes",
+        "tentacles",
+        "fluid",
+        "seas"
+      ]
     },
     {
       "versionId": 29,
@@ -183,7 +465,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Normally, it lived on shallow sea shoals. When the tide went out, this Pokémon came up on land to search for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "shoals",
+        "tide",
+        "shallow",
+        "went",
+        "normally",
+        "lived",
+        "came",
+        "search"
+      ]
     },
     {
       "versionId": 30,
@@ -191,7 +487,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This carnivorous Pokémon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "carnivorous",
+        "primordial",
+        "dissolves",
+        "digestive",
+        "eight",
+        "catches",
+        "lived",
+        "tentacles",
+        "fluid",
+        "seas"
+      ]
     },
     {
       "versionId": 33,
@@ -199,7 +510,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has short legs and can’t walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "nab",
+        "length",
+        "extend",
+        "usual",
+        "distant",
+        "walk",
+        "short",
+        "neck",
+        "tentacles",
+        "fast"
+      ]
     },
     {
       "versionId": 34,
@@ -207,7 +533,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "digests",
+        "catches",
+        "absorbs",
+        "tentacles",
+        "nutrients",
+        "whole"
+      ]
     }
   ],
   "similarPokemonIds": [

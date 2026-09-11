@@ -10,6 +10,81 @@
   ],
   "imagePath": "/assets/pokemon/369.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "bladders",
+    "fortuitously",
+    "variation",
+    "atrophied",
+    "toothless",
+    "explorations",
+    "remained",
+    "unchanged",
+    "microscopic",
+    "organisms",
+    "withstands",
+    "craggy",
+    "gone",
+    "hasn",
+    "survives",
+    "expedition",
+    "pectoral",
+    "fat",
+    "existed",
+    "already",
+    "name",
+    "exploration",
+    "given",
+    "perfect",
+    "chance",
+    "now",
+    "changing",
+    "hundred",
+    "pressure",
+    "teeth",
+    "withstand",
+    "changed",
+    "oil",
+    "allow",
+    "sucks",
+    "enormous",
+    "depths",
+    "believed",
+    "person",
+    "seafloor",
+    "survive",
+    "extinct",
+    "feeds",
+    "species",
+    "intense",
+    "discovered",
+    "ever",
+    "filled",
+    "walks",
+    "million",
+    "fossil",
+    "called",
+    "swim",
+    "appearance",
+    "fins",
+    "rare",
+    "reason",
+    "since",
+    "ocean",
+    "scales",
+    "100",
+    "living",
+    "tough",
+    "rock",
+    "thought",
+    "same",
+    "rocks",
+    "apparently",
+    "covered"
+  ],
   "color": "gray",
   "shape": "fish",
   "habitat": "sea",
@@ -40,7 +115,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "RELICANTH is a POKéMON species that existed for a hundred million years without ever changing its form. This ancient POKéMON feeds on microscopic organisms with its toothless mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "toothless",
+        "microscopic",
+        "organisms",
+        "existed",
+        "changing",
+        "hundred",
+        "feeds",
+        "species",
+        "ever",
+        "million"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +136,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "RELICANTH is a rare species that was discovered in deep-sea explorations. This POKéMON’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "explorations",
+        "withstands",
+        "craggy",
+        "pressure",
+        "enormous",
+        "depths",
+        "species",
+        "discovered",
+        "rare",
+        "ocean",
+        "scales",
+        "tough",
+        "rocks",
+        "covered"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +163,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A POKéMON that was once believed to have been extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pectoral",
+        "changed",
+        "believed",
+        "seafloor",
+        "extinct",
+        "species",
+        "walks",
+        "million",
+        "fins",
+        "100"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +184,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "remained",
+        "unchanged",
+        "exploration",
+        "discovered",
+        "million",
+        "100"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +203,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "remained",
+        "unchanged",
+        "exploration",
+        "discovered",
+        "million",
+        "100"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +222,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exploration",
+        "changed",
+        "discovered",
+        "million",
+        "rare",
+        "100"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +241,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exploration",
+        "changed",
+        "discovered",
+        "million",
+        "rare",
+        "100"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +260,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exploration",
+        "changed",
+        "discovered",
+        "million",
+        "rare",
+        "100"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +279,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "explorations",
+        "chance",
+        "changed",
+        "discovered",
+        "since"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +297,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "explorations",
+        "chance",
+        "changed",
+        "discovered",
+        "since"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +315,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exploration",
+        "changed",
+        "discovered",
+        "million",
+        "rare",
+        "100"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +334,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exploration",
+        "changed",
+        "discovered",
+        "million",
+        "rare",
+        "100"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +353,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exploration",
+        "changed",
+        "discovered",
+        "million",
+        "rare",
+        "100"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +372,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exploration",
+        "changed",
+        "discovered",
+        "million",
+        "rare",
+        "100"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +391,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "remained",
+        "unchanged",
+        "exploration",
+        "discovered",
+        "million",
+        "100"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +410,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exploration",
+        "changed",
+        "discovered",
+        "million",
+        "rare",
+        "100"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +429,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "toothless",
+        "microscopic",
+        "organisms",
+        "existed",
+        "changing",
+        "hundred",
+        "feeds",
+        "species",
+        "ever",
+        "million"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +450,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "explorations",
+        "withstands",
+        "craggy",
+        "pressure",
+        "enormous",
+        "depths",
+        "species",
+        "discovered",
+        "rare",
+        "ocean",
+        "scales",
+        "tough",
+        "rocks",
+        "covered"
+      ]
     },
     {
       "versionId": 27,
@@ -184,7 +477,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its form has remained the same for one hundred million years. Its body is filled with fat, so it can withstand the water pressure of the deep sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "remained",
+        "fat",
+        "hundred",
+        "pressure",
+        "withstand",
+        "filled",
+        "million",
+        "same"
+      ]
     },
     {
       "versionId": 28,
@@ -192,7 +498,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It was fortuitously discovered during a deep sea expedition. Its teeth have atrophied, so it now survives on microscopic organisms it sucks up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "fortuitously",
+        "atrophied",
+        "microscopic",
+        "organisms",
+        "survives",
+        "expedition",
+        "now",
+        "teeth",
+        "sucks",
+        "discovered"
+      ]
     },
     {
       "versionId": 29,
@@ -200,7 +522,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Thought to have gone extinct, Relicanth was given a name that is a variation of the name of the person who discovered it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "variation",
+        "gone",
+        "name",
+        "given",
+        "person",
+        "extinct",
+        "discovered",
+        "thought"
+      ]
     },
     {
       "versionId": 30,
@@ -208,7 +541,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The reason it hasn’t changed at all in a hundred million years is that it’s apparently already a perfect life-form.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hasn",
+        "already",
+        "perfect",
+        "hundred",
+        "changed",
+        "million",
+        "reason",
+        "apparently"
+      ]
     },
     {
       "versionId": 33,
@@ -216,7 +560,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Rock-hard scales and oil-filled swim bladders allow this Pokémon to survive the intense water pressure of the deep sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bladders",
+        "pressure",
+        "oil",
+        "allow",
+        "survive",
+        "intense",
+        "filled",
+        "swim",
+        "scales",
+        "rock"
+      ]
     },
     {
       "versionId": 34,
@@ -224,7 +583,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon was discovered during deep-sea exploration. Its appearance hasn’t changed in 100,000,000 years, so it’s called a living fossil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "hasn",
+        "exploration",
+        "changed",
+        "discovered",
+        "fossil",
+        "called",
+        "appearance",
+        "100",
+        "living"
+      ]
     }
   ],
   "similarPokemonIds": [

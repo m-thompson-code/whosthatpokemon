@@ -9,6 +9,60 @@
   ],
   "imagePath": "/assets/pokemon/360.png",
   "entryCount": 20,
+  "entryTraits": [
+    "tail",
+    "nocturnal",
+    "arms",
+    "cave-dwelling",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "earlike",
+    "squeezing",
+    "slapping",
+    "squash",
+    "counterattacks",
+    "dole",
+    "endurance",
+    "squeezed",
+    "gardens",
+    "moonlit",
+    "toughen",
+    "trained",
+    "tends",
+    "tight",
+    "smile",
+    "masse",
+    "picks",
+    "pushing",
+    "en",
+    "individuals",
+    "cave",
+    "fruits",
+    "gains",
+    "cluster",
+    "cleverly",
+    "happy",
+    "drawn",
+    "determine",
+    "angered",
+    "fruit",
+    "fragrance",
+    "play",
+    "nights",
+    "pack",
+    "spirits",
+    "angry",
+    "group",
+    "look",
+    "against",
+    "another",
+    "eating",
+    "face",
+    "gather",
+    "big",
+    "eat"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "cave",
@@ -38,7 +92,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POKéMON will be slapping the ground with its tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "slapping",
+        "smile",
+        "happy",
+        "determine",
+        "angered",
+        "angry",
+        "look",
+        "face",
+        "big"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +114,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WYNAUT gather on moonlit nights to play by squeezing up against each other. By being squeezed, this POKéMON gains endurance and is trained to dole out powerful counterattacks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "squeezing",
+        "counterattacks",
+        "dole",
+        "endurance",
+        "squeezed",
+        "moonlit",
+        "trained",
+        "gains",
+        "play",
+        "nights",
+        "against",
+        "gather"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +139,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A WYNAUT loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "earlike",
+        "gardens",
+        "picks",
+        "fruits",
+        "cleverly",
+        "drawn",
+        "fruit",
+        "fragrance",
+        "gather",
+        "eat"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +162,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "tends",
+        "tight",
+        "cave",
+        "cluster",
+        "pack",
+        "group"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +182,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "tends",
+        "tight",
+        "cave",
+        "cluster",
+        "pack",
+        "group"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +202,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masse",
+        "pushing",
+        "en",
+        "fruit",
+        "against",
+        "eating"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +219,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masse",
+        "pushing",
+        "en",
+        "fruit",
+        "against",
+        "eating"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +236,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masse",
+        "pushing",
+        "en",
+        "fruit",
+        "against",
+        "eating"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +253,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squash",
+        "toughen",
+        "tends",
+        "individuals",
+        "pack",
+        "spirits",
+        "against",
+        "another"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +272,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squash",
+        "toughen",
+        "tends",
+        "individuals",
+        "pack",
+        "spirits",
+        "against",
+        "another"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +291,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masse",
+        "pushing",
+        "en",
+        "fruit",
+        "against",
+        "eating"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +308,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masse",
+        "pushing",
+        "en",
+        "fruit",
+        "against",
+        "eating"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +325,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masse",
+        "pushing",
+        "en",
+        "fruit",
+        "against",
+        "eating"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +342,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masse",
+        "pushing",
+        "en",
+        "fruit",
+        "against",
+        "eating"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +359,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "tends",
+        "tight",
+        "cave",
+        "cluster",
+        "pack",
+        "group"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +379,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masse",
+        "pushing",
+        "en",
+        "fruit",
+        "against",
+        "eating"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +396,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pokémon will be slapping the ground with its tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "slapping",
+        "smile",
+        "happy",
+        "determine",
+        "angered",
+        "angry",
+        "look",
+        "face",
+        "big"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +418,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pokémon gains endurance and is trained to dole out powerful counterattacks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "squeezing",
+        "counterattacks",
+        "dole",
+        "endurance",
+        "squeezed",
+        "moonlit",
+        "trained",
+        "gains",
+        "play",
+        "nights",
+        "against",
+        "gather"
+      ]
     },
     {
       "versionId": 33,
@@ -182,7 +443,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squash",
+        "toughen",
+        "tends",
+        "individuals",
+        "pack",
+        "spirits",
+        "against",
+        "another"
+      ]
     },
     {
       "versionId": 34,
@@ -190,7 +462,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "tends",
+        "tight",
+        "cave",
+        "cluster",
+        "pack",
+        "group"
+      ]
     }
   ],
   "similarPokemonIds": [

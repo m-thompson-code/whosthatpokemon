@@ -9,6 +9,88 @@
   ],
   "imagePath": "/assets/pokemon/321.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "humongous",
+    "languorously",
+    "massed",
+    "sightseeing",
+    "breathtaking",
+    "dhelmise",
+    "pod",
+    "pods",
+    "breaching",
+    "pursue",
+    "fishermen",
+    "wailmer",
+    "maximum",
+    "sharpedo",
+    "wishiwashi",
+    "activity",
+    "capacity",
+    "popularity",
+    "mouths",
+    "watching",
+    "herds",
+    "identified",
+    "crashing",
+    "numerous",
+    "jump",
+    "splash",
+    "dive",
+    "immense",
+    "schools",
+    "vast",
+    "works",
+    "gulp",
+    "swallow",
+    "herd",
+    "biggest",
+    "amounts",
+    "leaping",
+    "depth",
+    "inhaling",
+    "largest",
+    "nostrils",
+    "chasing",
+    "fish",
+    "now",
+    "breathes",
+    "parts",
+    "giant",
+    "chase",
+    "various",
+    "enormous",
+    "beneath",
+    "knock",
+    "massive",
+    "swallows",
+    "favorite",
+    "onto",
+    "pack",
+    "raises",
+    "created",
+    "above",
+    "breath",
+    "open",
+    "size",
+    "almost",
+    "shock",
+    "reason",
+    "among",
+    "10",
+    "attacked",
+    "eating",
+    "entire",
+    "swims",
+    "whole",
+    "big",
+    "close",
+    "eat"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +121,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WAILORD is the largest of all identified POKéMON up to now. This giant POKéMON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "languorously",
+        "identified",
+        "vast",
+        "amounts",
+        "largest",
+        "now",
+        "giant",
+        "enormous",
+        "massive",
+        "open",
+        "eating",
+        "swims"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +146,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When chasing prey, WAILORD herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this POKéMON leaping out of the sea with others in its pod.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "humongous",
+        "breathtaking",
+        "pod",
+        "herds",
+        "splash",
+        "leaping",
+        "chasing"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +167,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It breathes through nostrils that it raises above the sea. By inhaling to its maximum capacity, a WAILORD can dive close to 10,000 feet beneath the waves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "maximum",
+        "capacity",
+        "dive",
+        "inhaling",
+        "nostrils",
+        "breathes",
+        "beneath",
+        "raises",
+        "above",
+        "10",
+        "close"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +191,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is among the largest of all POKéMON. It herds prey in a pack then swallows the massed prey in one gulp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "massed",
+        "herds",
+        "gulp",
+        "largest",
+        "swallows",
+        "pack",
+        "among"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +211,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is among the largest of all POKéMON. It herds prey in a pack then swallows the massed prey in one gulp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "massed",
+        "herds",
+        "gulp",
+        "largest",
+        "swallows",
+        "pack",
+        "among"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +231,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dive",
+        "biggest",
+        "depth",
+        "breath",
+        "almost",
+        "10"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +248,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dive",
+        "biggest",
+        "depth",
+        "breath",
+        "almost",
+        "10"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +265,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dive",
+        "biggest",
+        "depth",
+        "breath",
+        "almost",
+        "10"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +282,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is the largest of all identified Pokémon. They jump as a pack to herd their prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "identified",
+        "jump",
+        "herd",
+        "largest",
+        "pack"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +300,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is the largest of all identified Pokémon. They jump as a pack to herd their prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "identified",
+        "jump",
+        "herd",
+        "largest",
+        "pack"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +318,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dive",
+        "biggest",
+        "depth",
+        "breath",
+        "almost",
+        "10"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +335,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dive",
+        "biggest",
+        "depth",
+        "breath",
+        "almost",
+        "10"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +352,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "breaching",
+        "crashing",
+        "knock",
+        "onto",
+        "created",
+        "shock",
+        "big"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +372,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "breaching",
+        "crashing",
+        "knock",
+        "onto",
+        "created",
+        "shock",
+        "big"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +392,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "breaching",
+        "crashing",
+        "knock",
+        "onto",
+        "created",
+        "shock",
+        "big"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +412,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dive",
+        "biggest",
+        "depth",
+        "breath",
+        "almost",
+        "10"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +429,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wailord is the largest of all identified Pokémon up to now. This giant Pokémon swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "languorously",
+        "identified",
+        "vast",
+        "amounts",
+        "largest",
+        "now",
+        "giant",
+        "enormous",
+        "massive",
+        "open",
+        "eating",
+        "swims"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +454,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When chasing prey, Wailord herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this Pokémon leaping out of the sea with others in its pod.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "humongous",
+        "breathtaking",
+        "pod",
+        "herds",
+        "splash",
+        "leaping",
+        "chasing"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +475,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Wailord pursue their prey in pods. With their large mouths, they can swallow entire schools of Wishiwashi whole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "pods",
+        "pursue",
+        "wishiwashi",
+        "mouths",
+        "schools",
+        "swallow",
+        "entire",
+        "whole"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +496,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sightseeing",
+        "activity",
+        "popularity",
+        "watching",
+        "immense",
+        "parts",
+        "various",
+        "favorite",
+        "size",
+        "reason"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +517,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They eat so many fish Pokémon that when Wailord become too numerous, fishermen have to chase them off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fishermen",
+        "numerous",
+        "fish",
+        "chase",
+        "eat"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +533,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When a small Wailmer is attacked by Sharpedo or Dhelmise, its whole pod works together to protect it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dhelmise",
+        "pod",
+        "wailmer",
+        "sharpedo",
+        "works",
+        "attacked",
+        "whole"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +551,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "breaching",
+        "crashing",
+        "knock",
+        "onto",
+        "created",
+        "shock",
+        "big"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +571,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sightseeing",
+        "activity",
+        "popularity",
+        "watching",
+        "immense",
+        "parts",
+        "various",
+        "favorite",
+        "size",
+        "reason"
+      ]
     }
   ],
   "similarPokemonIds": [

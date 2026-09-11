@@ -1,6 +1,7 @@
 "use client";
 
 import { Check, Eye, Home, LoaderCircle, Play, Skull, Trophy, X } from "lucide-react";
+import confetti from "canvas-confetti";
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
@@ -11,8 +12,8 @@ import { RoomPhase, RoomStatus, Team, Winner, type Room } from "@/lib/game/schem
 
 const teamLabel: Record<Team, string> = {
   [Team.None]: "Unassigned",
-  [Team.TeamA]: "Team A",
-  [Team.TeamB]: "Team B",
+  [Team.TeamA]: "Red Team",
+  [Team.TeamB]: "Blue Team",
 };
 
 type RoomGameProps = {
@@ -43,6 +44,16 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
       await fetch(`/api/rooms/${roomId}/resolve`, { method: "POST", headers: { Authorization: `Bearer ${token}` } });
     })();
   }, [allActivePlayersAnswered, isHost, room.currentRound, room.roundPhase, roomId]);
+
+  useEffect(() => {
+    if (room.status !== RoomStatus.Finished || room.winner === Winner.Tie) return;
+    confetti({
+      particleCount: 150,
+      spread: 80,
+      origin: { y: .65 },
+      colors: room.winner === Winner.TeamA ? ["#f0443b", "#f4c542", "#f5f2e8"] : ["#4387c6", "#f4c542", "#f5f2e8"],
+    });
+  }, [room.status, room.winner]);
 
   const callHostAction = async (action: "resolve" | "next" | "restart" | "lobby") => {
     if (!firebaseAuth.currentUser) return;
@@ -99,7 +110,7 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
 
     return (
       <main className="lobby-shell room-game-shell">
-        <section className="free-entry-panel">
+        <section className="free-entry-panel" data-team={result.answeredTeam}>
           <div className="free-round-meta">
             <span>Round {result.roundNumber}</span>
             <span>{teamLabel[result.answeredTeam]}</span>
@@ -134,7 +145,7 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
         </section>
         <section className="room-phase-panel">
           <strong>{result.submissions.filter((submission) => submission.correct).length} correct guess{result.submissions.filter((submission) => submission.correct).length === 1 ? "" : "es"}</strong>
-          {isHost && <button className="primary-button" disabled={isWorking} onClick={() => callHostAction("next")} type="button"><Play aria-hidden="true" /> Continue to {result.answeredTeam === Team.TeamA ? "Team B" : "Team A"}</button>}
+          {isHost && <button className="primary-button" disabled={isWorking} onClick={() => callHostAction("next")} type="button"><Play aria-hidden="true" /> Continue to {result.answeredTeam === Team.TeamA ? "Blue Team" : "Red Team"}</button>}
         </section>
         {error && <p className="form-error" role="alert">{error}</p>}
       </main>
@@ -154,8 +165,8 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
           <Trophy aria-hidden="true" size={48} />
           <h1>{winnerCopy}</h1>
           <div className="room-results-scores">
-            <div><span>Team A</span><strong>{room.teamASurvivors} left</strong></div>
-            <div><span>Team B</span><strong>{room.teamBSurvivors} left</strong></div>
+            <div data-team={Team.TeamA}><span>Red Team</span><strong>{room.teamASurvivors} left</strong></div>
+            <div data-team={Team.TeamB}><span>Blue Team</span><strong>{room.teamBSurvivors} left</strong></div>
           </div>
           {isHost && <div className="room-results-actions">
             <button className="primary-button" disabled={isWorking} onClick={() => callHostAction("restart")} type="button"><Play aria-hidden="true" /> New round</button>
@@ -183,13 +194,13 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
   return (
     <main className="lobby-shell room-game-shell">
       <div className="team-status-bar">
-        <div className="team-status" data-active={room.activeTeam === Team.TeamA}>
-          <span>Team A</span>
+        <div className="team-status" data-active={room.activeTeam === Team.TeamA} data-team={Team.TeamA}>
+          <span>Red Team</span>
           <strong>{room.teamASurvivors} of {teamACount} left</strong>
         </div>
-        <div className="turn-indicator">{teamLabel[room.activeTeam ?? Team.None]}&apos;s turn</div>
-        <div className="team-status" data-active={room.activeTeam === Team.TeamB}>
-          <span>Team B</span>
+        <div className="turn-indicator" data-team={room.activeTeam}>{teamLabel[room.activeTeam ?? Team.None]}&apos;s turn</div>
+        <div className="team-status" data-active={room.activeTeam === Team.TeamB} data-team={Team.TeamB}>
+          <span>Blue Team</span>
           <strong>{room.teamBSurvivors} of {teamBCount} left</strong>
         </div>
       </div>

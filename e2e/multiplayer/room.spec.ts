@@ -100,8 +100,8 @@ test("teammates submit individual answers before the host reveals the round", as
       const answerId = activeRoom.currentRound.answerId as number;
       const answer = activeRoom.currentRound.choices.find((choice: { id: number }) => choice.id === answerId) as { name: string };
       await soloPlayer.page.click(`button[aria-label="Choose ${answer.name}"]`);
-      await expect(host.page.getByRole("button", { name: /Continue to Team B/i })).toBeVisible({ timeout: 20_000 });
-      await host.page.getByRole("button", { name: /Continue to Team B/i }).click();
+      await expect(host.page.getByRole("button", { name: /Continue to Blue Team/i })).toBeVisible({ timeout: 20_000 });
+      await host.page.getByRole("button", { name: /Continue to Blue Team/i }).click();
     }
 
     await expect.poll(async () => {

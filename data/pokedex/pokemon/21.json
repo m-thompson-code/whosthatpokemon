@@ -10,6 +10,74 @@
   ],
   "imagePath": "/assets/pokemon/021.png",
   "entryCount": 30,
+  "entryTraits": [
+    "wings",
+    "beak",
+    "territorial",
+    "sonic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "appreciate",
+    "hurriedly",
+    "ritory",
+    "flush",
+    "frail",
+    "reckless",
+    "restlessly",
+    "stubby",
+    "dart",
+    "mirror",
+    "ter",
+    "keening",
+    "plucks",
+    "troubled",
+    "farmers",
+    "pecks",
+    "vigorous",
+    "pitched",
+    "airborne",
+    "echoing",
+    "ceaselessly",
+    "inept",
+    "flits",
+    "grassy",
+    "here",
+    "appetite",
+    "insects",
+    "busily",
+    "distances",
+    "leads",
+    "loud",
+    "bugs",
+    "whose",
+    "flap",
+    "heard",
+    "wanders",
+    "type",
+    "protective",
+    "warning",
+    "tall",
+    "stay",
+    "due",
+    "searches",
+    "sign",
+    "mile",
+    "beak",
+    "half",
+    "bug",
+    "stand",
+    "fields",
+    "flaps",
+    "short",
+    "areas",
+    "cry",
+    "look",
+    "tough",
+    "fast",
+    "grass",
+    "nature"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": "rough-terrain",
@@ -39,7 +107,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "airborne",
+        "grassy",
+        "bugs",
+        "flap",
+        "stay",
+        "short",
+        "areas"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +127,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "airborne",
+        "grassy",
+        "bugs",
+        "flap",
+        "stay",
+        "short",
+        "areas"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +147,14 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Inept at flying high. However, it can fly around very fast to protect its ter­ ritory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ritory",
+        "ter",
+        "inept",
+        "fast"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +162,22 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "flush",
+        "stubby",
+        "plucks",
+        "insects",
+        "tall",
+        "beak",
+        "flaps",
+        "short",
+        "grass"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +185,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "territorial"
+      ],
+      "keywords": [
+        "dart",
+        "busily",
+        "protective",
+        "flaps",
+        "short"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +204,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "To protect its territory, it flies around ceaselessly, making high- pitched cries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial",
+        "sonic"
+      ],
+      "keywords": [
+        "pitched",
+        "ceaselessly"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +220,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SPEAROW has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "keening",
+        "echoing",
+        "loud",
+        "heard",
+        "warning",
+        "sign",
+        "mile",
+        "half",
+        "cry"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +240,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SPEAROW has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "keening",
+        "echoing",
+        "loud",
+        "heard",
+        "warning",
+        "sign",
+        "mile",
+        "half",
+        "cry"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +260,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "keening",
+        "echoing",
+        "loud",
+        "heard",
+        "warning",
+        "sign",
+        "mile",
+        "half",
+        "cry"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +280,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It busily flits around here and there. Even if it is frail, it can be a tough foe that uses MIRROR MOVE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "frail",
+        "mirror",
+        "flits",
+        "here",
+        "busily",
+        "tough"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +297,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "airborne",
+        "grassy",
+        "bugs",
+        "flap",
+        "stay",
+        "short",
+        "areas"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +317,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "busily",
+        "searches",
+        "beak",
+        "flaps",
+        "grass"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +337,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "busily",
+        "searches",
+        "beak",
+        "flaps",
+        "grass"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +357,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "busily",
+        "searches",
+        "beak",
+        "flaps",
+        "grass"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +377,22 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "flush",
+        "stubby",
+        "plucks",
+        "insects",
+        "tall",
+        "beak",
+        "flaps",
+        "short",
+        "grass"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +400,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "territorial"
+      ],
+      "keywords": [
+        "dart",
+        "busily",
+        "protective",
+        "flaps",
+        "short"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +419,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "busily",
+        "searches",
+        "beak",
+        "flaps",
+        "grass"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +439,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "busily",
+        "searches",
+        "beak",
+        "flaps",
+        "grass"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +459,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "busily",
+        "searches",
+        "beak",
+        "flaps",
+        "grass"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +479,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "busily",
+        "searches",
+        "beak",
+        "flaps",
+        "grass"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +499,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "territorial"
+      ],
+      "keywords": [
+        "dart",
+        "busily",
+        "protective",
+        "flaps",
+        "short"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +518,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "airborne",
+        "grassy",
+        "bugs",
+        "flap",
+        "stay",
+        "short",
+        "areas"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +538,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "keening",
+        "echoing",
+        "loud",
+        "heard",
+        "warning",
+        "sign",
+        "mile",
+        "half",
+        "cry"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +558,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "keening",
+        "echoing",
+        "loud",
+        "heard",
+        "warning",
+        "sign",
+        "mile",
+        "half",
+        "cry"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +578,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its short wings make it inept at flying. It moves about hurriedly and pecks at Bug-type Pokémon in the tall grass.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hurriedly",
+        "pecks",
+        "inept",
+        "type",
+        "tall",
+        "bug",
+        "short",
+        "grass"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +599,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Farmers whose fields are troubled by bug Pokémon appreciate Spearow for its vigorous appetite and look after it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "appreciate",
+        "troubled",
+        "farmers",
+        "vigorous",
+        "appetite",
+        "whose",
+        "bug",
+        "fields",
+        "look"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +619,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "reckless",
+        "leads",
+        "stand",
+        "nature"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +636,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Due to its short wings, it can’t fly long distances. It wanders about restlessly and pecks at bug Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "restlessly",
+        "pecks",
+        "distances",
+        "wanders",
+        "due",
+        "bug",
+        "short"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +656,14 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Inept at flying high. However, it can fly around very fast to protect its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "inept",
+        "fast"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +671,14 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Inept at flying high. However, it can fly around very fast to protect its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "inept",
+        "fast"
+      ]
     }
   ],
   "similarPokemonIds": [

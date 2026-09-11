@@ -9,6 +9,98 @@
   ],
   "imagePath": "/assets/pokemon/038.png",
   "entryCount": 33,
+  "entryTraits": [
+    "tail",
+    "luminous",
+    "psychic",
+    "fur",
+    "hunting",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "9",
+    "coalesced",
+    "embody",
+    "millennium",
+    "vindictive",
+    "casts",
+    "gleaming",
+    "gleams",
+    "golden",
+    "wizards",
+    "merged",
+    "1000",
+    "loaded",
+    "reincarnated",
+    "saints",
+    "descendants",
+    "flickering",
+    "hypnotized",
+    "mystic",
+    "sacred",
+    "united",
+    "manipulate",
+    "pleases",
+    "sinister",
+    "supernatural",
+    "enchanted",
+    "cursed",
+    "grabbing",
+    "noble",
+    "relentless",
+    "crisp",
+    "possessing",
+    "curse",
+    "vengeful",
+    "alive",
+    "claim",
+    "wondrous",
+    "gold",
+    "enduring",
+    "total",
+    "cross",
+    "imbued",
+    "mystical",
+    "gain",
+    "nine",
+    "spews",
+    "understand",
+    "abilities",
+    "magnificent",
+    "smart",
+    "thousand",
+    "unique",
+    "store",
+    "legends",
+    "speech",
+    "type",
+    "mind",
+    "legend",
+    "quite",
+    "shines",
+    "intelligent",
+    "leave",
+    "burn",
+    "coat",
+    "formed",
+    "species",
+    "according",
+    "bright",
+    "year",
+    "filled",
+    "1",
+    "lived",
+    "came",
+    "beautiful",
+    "special",
+    "red",
+    "human",
+    "highly",
+    "along",
+    "tails",
+    "nature",
+    "extremely"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +130,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "1000",
+        "grabbing",
+        "curse",
+        "vengeful",
+        "smart",
+        "year",
+        "tails"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +150,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "1000",
+        "grabbing",
+        "curse",
+        "vengeful",
+        "smart",
+        "year",
+        "tails"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +170,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "According to an enduring legend, 9 noble saints were united and reincarnated as this POKéMON.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "9",
+        "reincarnated",
+        "saints",
+        "united",
+        "noble",
+        "enduring",
+        "legend",
+        "according"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +189,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "claim",
+        "mystical",
+        "nine",
+        "unique",
+        "legends",
+        "type",
+        "special",
+        "tails"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +210,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "alive",
+        "wondrous",
+        "nine",
+        "filled",
+        "1",
+        "beautiful",
+        "tails"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +230,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is said to live a thousand years, and each of its tails is loaded with supernatural powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "loaded",
+        "supernatural",
+        "thousand",
+        "tails"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +247,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "NINETALES casts a sinister light from its bright red eyes to gain total control over its foe’s mind. This POKéMON is said to live for a thousand years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous",
+        "psychic"
+      ],
+      "keywords": [
+        "casts",
+        "sinister",
+        "total",
+        "gain",
+        "thousand",
+        "mind",
+        "bright",
+        "red"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +269,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Legend has it that NINETALES came into being when nine wizards possessing sacred powers merged into one. This POKéMON is highly intelligent - it can understand human speech.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "wizards",
+        "merged",
+        "sacred",
+        "possessing",
+        "nine",
+        "understand",
+        "speech",
+        "legend",
+        "intelligent",
+        "came",
+        "human",
+        "highly"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +292,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It has long been said that each of the nine tails embody an enchanted power. A long-lived NINETALES will have fur that shines like gold.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "embody",
+        "enchanted",
+        "gold",
+        "nine",
+        "shines",
+        "lived",
+        "tails"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +313,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "gleams",
+        "gold",
+        "nine",
+        "1",
+        "tails"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +332,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "grabbing",
+        "curse",
+        "vengeful",
+        "smart",
+        "year",
+        "1",
+        "tails"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +352,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "mystic",
+        "imbued",
+        "nine",
+        "thousand",
+        "tails"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +370,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "mystic",
+        "imbued",
+        "nine",
+        "thousand",
+        "tails"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +388,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "mystic",
+        "imbued",
+        "nine",
+        "thousand",
+        "tails"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +406,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "claim",
+        "mystical",
+        "nine",
+        "unique",
+        "legends",
+        "type",
+        "special",
+        "tails"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +427,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "alive",
+        "wondrous",
+        "nine",
+        "filled",
+        "1",
+        "beautiful",
+        "tails"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +447,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "mystic",
+        "imbued",
+        "nine",
+        "thousand",
+        "tails"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +465,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "mystic",
+        "imbued",
+        "nine",
+        "thousand",
+        "tails"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +483,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "supernatural",
+        "imbued",
+        "nine",
+        "thousand",
+        "tails"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +501,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "supernatural",
+        "imbued",
+        "nine",
+        "thousand",
+        "tails"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +519,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "gleams",
+        "gold",
+        "nine",
+        "1",
+        "tails"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +538,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "grabbing",
+        "curse",
+        "vengeful",
+        "smart",
+        "year",
+        "1",
+        "tails"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +558,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe’s mind. This Pokémon is said to live for a thousand years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous",
+        "psychic"
+      ],
+      "keywords": [
+        "casts",
+        "sinister",
+        "total",
+        "gain",
+        "thousand",
+        "mind",
+        "bright",
+        "red"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +580,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent—it can understand human speech.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "wizards",
+        "merged",
+        "sacred",
+        "possessing",
+        "nine",
+        "understand",
+        "speech",
+        "legend",
+        "intelligent",
+        "came",
+        "human",
+        "highly"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +603,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Legend has it that this mystical Pokémon was formed when nine saints coalesced into one.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "coalesced",
+        "saints",
+        "mystical",
+        "nine",
+        "legend",
+        "formed"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +620,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Said to live for a thousand years, this Pokémon uses its supernatural abilities to manipulate fire. It can burn its prey to a crisp as it pleases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "manipulate",
+        "pleases",
+        "supernatural",
+        "crisp",
+        "abilities",
+        "thousand",
+        "burn"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +641,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It is vindictive and relentless by nature. Those who cross it even once will be cursed for a thousand years, along with their descendants.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "vindictive",
+        "descendants",
+        "cursed",
+        "relentless",
+        "cross",
+        "thousand",
+        "along",
+        "nature"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +660,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The flickering flames it spews from its mouth leave its opponents hypnotized. Then, this extremely intelligent Pokémon attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "flickering",
+        "hypnotized",
+        "spews",
+        "intelligent",
+        "leave",
+        "extremely"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +679,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reincarnated",
+        "saints",
+        "united",
+        "noble",
+        "enduring",
+        "nine",
+        "legend",
+        "according"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +698,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reincarnated",
+        "saints",
+        "united",
+        "noble",
+        "enduring",
+        "nine",
+        "legend",
+        "according"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +717,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "loaded",
+        "supernatural",
+        "1",
+        "tails"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +734,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "grabbing",
+        "curse",
+        "vengeful",
+        "smart",
+        "year",
+        "1",
+        "tails"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +754,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "millennium",
+        "gleaming",
+        "golden",
+        "sacred",
+        "nine",
+        "magnificent",
+        "store",
+        "quite",
+        "coat",
+        "species",
+        "tails"
+      ]
     }
   ],
   "similarPokemonIds": [

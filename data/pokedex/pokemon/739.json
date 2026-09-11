@@ -9,6 +9,43 @@
   ],
   "imagePath": "/assets/pokemon/739.png",
   "entryCount": 4,
+  "entryTraits": [
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "boxing",
+    "coconut",
+    "foams",
+    "matches",
+    "overuse",
+    "faints",
+    "stomps",
+    "suited",
+    "guarding",
+    "meat",
+    "points",
+    "exeggutor",
+    "unleashes",
+    "offense",
+    "climb",
+    "mistake",
+    "shakes",
+    "defense",
+    "rich",
+    "contain",
+    "opening",
+    "enraged",
+    "loses",
+    "delicious",
+    "fights",
+    "between",
+    "pincers",
+    "little",
+    "weak",
+    "punches",
+    "well",
+    "quickly"
+  ],
   "color": "purple",
   "shape": "armor",
   "habitat": null,
@@ -38,7 +75,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "While guarding its weak points with its pincers, it looks for an opening and unleashes punches. When it loses, it foams at the mouth and faints.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "foams",
+        "faints",
+        "guarding",
+        "points",
+        "unleashes",
+        "opening",
+        "loses",
+        "pincers",
+        "weak",
+        "punches"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +96,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It punches so much, its pincers often come off from overuse, but they grow back quickly. What little meat they contain is rich and delicious.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "overuse",
+        "meat",
+        "rich",
+        "contain",
+        "delicious",
+        "pincers",
+        "little",
+        "punches",
+        "quickly"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +116,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its hard pincers are well suited to both offense and defense. Fights between two Crabrawler are like boxing matches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "boxing",
+        "matches",
+        "suited",
+        "offense",
+        "defense",
+        "fights",
+        "between",
+        "pincers",
+        "well"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +136,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "coconut",
+        "stomps",
+        "exeggutor",
+        "climb",
+        "mistake",
+        "shakes",
+        "enraged"
+      ]
     }
   ],
   "similarPokemonIds": [

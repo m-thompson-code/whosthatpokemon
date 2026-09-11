@@ -10,6 +10,85 @@
   ],
   "imagePath": "/assets/pokemon/278.png",
   "entryCount": 24,
+  "entryTraits": [
+    "sky-dwelling",
+    "beak",
+    "hunting",
+    "aquatic",
+    "wings",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "lightness",
+    "teeming",
+    "enhance",
+    "valuables",
+    "circling",
+    "cliff",
+    "fishermen",
+    "expansive",
+    "heights",
+    "wishiwashi",
+    "glider",
+    "rising",
+    "folds",
+    "breeze",
+    "glide",
+    "tucked",
+    "skating",
+    "sheer",
+    "updrafts",
+    "useful",
+    "steep",
+    "narrow",
+    "soars",
+    "rides",
+    "riding",
+    "bill",
+    "glides",
+    "sorts",
+    "locations",
+    "extending",
+    "hiding",
+    "wherever",
+    "carrying",
+    "fish",
+    "winter",
+    "circles",
+    "spreads",
+    "edge",
+    "keeping",
+    "catching",
+    "rest",
+    "cliffs",
+    "habit",
+    "trouble",
+    "catches",
+    "hollow",
+    "looking",
+    "flight",
+    "skies",
+    "eye",
+    "sure",
+    "beak",
+    "nests",
+    "instead",
+    "upon",
+    "builds",
+    "favorite",
+    "great",
+    "flapping",
+    "above",
+    "bones",
+    "winds",
+    "re",
+    "wind",
+    "carries",
+    "thin",
+    "ocean",
+    "across",
+    "hides"
+  ],
   "color": "white",
   "shape": "wings",
   "habitat": "sea",
@@ -40,7 +119,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POKéMON rides the winds and flies as if it were skating across the sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "valuables",
+        "skating",
+        "rides",
+        "sorts",
+        "locations",
+        "hiding",
+        "carrying",
+        "habit",
+        "beak",
+        "winds",
+        "across"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +145,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WINGULL rides updrafts rising from the sea by extending its long and narrow wings to glide. This POKéMON’s long beak is useful for catching prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "rising",
+        "glide",
+        "updrafts",
+        "useful",
+        "narrow",
+        "rides",
+        "extending",
+        "catching",
+        "beak"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +170,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "cliff",
+        "sheer",
+        "updrafts",
+        "soars",
+        "edge",
+        "keeping",
+        "trouble",
+        "flight",
+        "instead",
+        "flapping"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +195,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "glider",
+        "rides",
+        "winter",
+        "upon",
+        "winds",
+        "ocean",
+        "hides"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +215,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "glider",
+        "rides",
+        "winter",
+        "upon",
+        "winds",
+        "ocean",
+        "hides"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +235,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "heights",
+        "updrafts",
+        "steep",
+        "soars",
+        "riding",
+        "cliffs",
+        "great"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +256,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Catching sea winds with its long wings, it soars as if it were a glider. It folds its wings to rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "glider",
+        "folds",
+        "soars",
+        "catching",
+        "rest",
+        "winds"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +276,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "glider",
+        "tucked",
+        "updrafts",
+        "soars",
+        "riding",
+        "bill",
+        "carries"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +296,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "sheer",
+        "updrafts",
+        "soars",
+        "edge",
+        "cliffs",
+        "flapping"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +317,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "sheer",
+        "updrafts",
+        "soars",
+        "edge",
+        "cliffs",
+        "flapping"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +338,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "glider",
+        "tucked",
+        "updrafts",
+        "soars",
+        "riding",
+        "bill",
+        "carries"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +358,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "glider",
+        "tucked",
+        "updrafts",
+        "soars",
+        "riding",
+        "bill",
+        "carries"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +378,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "expansive",
+        "breeze",
+        "sheer",
+        "riding",
+        "glides",
+        "cliffs",
+        "skies"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +399,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "expansive",
+        "breeze",
+        "sheer",
+        "riding",
+        "glides",
+        "cliffs",
+        "skies"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +420,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Catching sea winds with its long wings, it soars as if it were a glider. It folds its wings to rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "glider",
+        "folds",
+        "soars",
+        "catching",
+        "rest",
+        "winds"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +440,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "heights",
+        "updrafts",
+        "steep",
+        "soars",
+        "riding",
+        "cliffs",
+        "great"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +461,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This Pokémon rides the winds and flies as if it were skating across the sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "valuables",
+        "skating",
+        "rides",
+        "sorts",
+        "locations",
+        "hiding",
+        "carrying",
+        "habit",
+        "beak",
+        "winds",
+        "across"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +487,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wingull rides updrafts rising from the sea by extending its long and narrow wings to glide. This Pokémon’s long beak is useful for catching prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "beak",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "rising",
+        "glide",
+        "updrafts",
+        "useful",
+        "narrow",
+        "rides",
+        "extending",
+        "catching",
+        "beak"
+      ]
     },
     {
       "versionId": 27,
@@ -184,7 +512,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its hollow bones enhance its lightness. It spreads its wings to the wind and soars away into the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "lightness",
+        "enhance",
+        "soars",
+        "spreads",
+        "hollow",
+        "bones",
+        "wind"
+      ]
     },
     {
       "versionId": 28,
@@ -192,7 +533,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Fishermen keep an eye out for Wingull in the sky, because wherever they’re circling, the ocean is sure to be teeming with fish Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "teeming",
+        "circling",
+        "fishermen",
+        "wherever",
+        "fish",
+        "eye",
+        "sure",
+        "re",
+        "ocean"
+      ]
     },
     {
       "versionId": 29,
@@ -200,7 +556,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "With its long, thin wings, it catches updrafts and flies like a glider high up into the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "glider",
+        "updrafts",
+        "catches",
+        "thin"
+      ]
     },
     {
       "versionId": 30,
@@ -208,7 +574,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It builds nests in cliffs by the sea. It circles the skies above the ocean looking for its favorite food—Wishiwashi.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "wishiwashi",
+        "circles",
+        "cliffs",
+        "looking",
+        "skies",
+        "nests",
+        "builds",
+        "favorite",
+        "above",
+        "ocean"
+      ]
     },
     {
       "versionId": 33,
@@ -216,7 +598,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "expansive",
+        "breeze",
+        "sheer",
+        "riding",
+        "glides",
+        "cliffs",
+        "skies"
+      ]
     },
     {
       "versionId": 34,
@@ -224,7 +619,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "sheer",
+        "updrafts",
+        "soars",
+        "edge",
+        "cliffs",
+        "flapping"
+      ]
     }
   ],
   "similarPokemonIds": [

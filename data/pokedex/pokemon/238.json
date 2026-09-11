@@ -10,6 +10,80 @@
   ],
   "imagePath": "/assets/pokemon/238.png",
   "entryCount": 25,
+  "entryTraits": [
+    "aquatic",
+    "arms",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "application",
+    "examines",
+    "lip",
+    "sensitivity",
+    "wards",
+    "bathe",
+    "forwards",
+    "kiss",
+    "perceptive",
+    "reflection",
+    "examine",
+    "decides",
+    "hasn",
+    "lake",
+    "sensors",
+    "actively",
+    "backwards",
+    "develops",
+    "tests",
+    "moist",
+    "diligently",
+    "identify",
+    "curious",
+    "lips",
+    "remember",
+    "kept",
+    "licks",
+    "seem",
+    "sap",
+    "dirt",
+    "arrives",
+    "chance",
+    "daily",
+    "immediately",
+    "slowly",
+    "really",
+    "contact",
+    "parts",
+    "check",
+    "dislikes",
+    "touching",
+    "part",
+    "whenever",
+    "quite",
+    "unknown",
+    "dirty",
+    "objects",
+    "slightly",
+    "trying",
+    "someone",
+    "sure",
+    "sensitive",
+    "falls",
+    "care",
+    "hands",
+    "try",
+    "first",
+    "likes",
+    "runs",
+    "everything",
+    "look",
+    "surface",
+    "highly",
+    "face",
+    "quickly",
+    "doesn",
+    "rocks"
+  ],
   "color": "pink",
   "shape": "humanoid",
   "habitat": "urban",
@@ -39,7 +113,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "examine",
+        "lips",
+        "parts",
+        "sensitive",
+        "first"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +129,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It always rocks its head slowly backwards and for­ wards as if it is trying to kiss someone.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wards",
+        "kiss",
+        "backwards",
+        "slowly",
+        "trying",
+        "someone",
+        "rocks"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +147,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sensitivity",
+        "develops",
+        "identify",
+        "lips",
+        "unknown",
+        "objects",
+        "try",
+        "quickly"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +166,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn’t become dirty.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reflection",
+        "hasn",
+        "actively",
+        "arrives",
+        "chance",
+        "whenever",
+        "quite",
+        "dirty",
+        "sure",
+        "falls",
+        "runs",
+        "look",
+        "face"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +190,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn’t become dirty.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reflection",
+        "hasn",
+        "actively",
+        "arrives",
+        "chance",
+        "whenever",
+        "quite",
+        "dirty",
+        "sure",
+        "falls",
+        "runs",
+        "look",
+        "face"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +214,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake’s surface to make sure its face hasn’t become dirty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "reflection",
+        "hasn",
+        "lake",
+        "actively",
+        "check",
+        "whenever",
+        "dirty",
+        "sure",
+        "falls",
+        "runs",
+        "surface",
+        "face"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +239,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forwards",
+        "kiss",
+        "backwards",
+        "slowly",
+        "trying",
+        "someone",
+        "rocks"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +257,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "examine",
+        "lips",
+        "parts",
+        "sensitive",
+        "first"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +273,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tests",
+        "lips",
+        "remember",
+        "dislikes",
+        "touching",
+        "likes",
+        "everything"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +291,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tests",
+        "lips",
+        "remember",
+        "dislikes",
+        "touching",
+        "likes",
+        "everything"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +309,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tests",
+        "lips",
+        "remember",
+        "dislikes",
+        "touching",
+        "likes",
+        "everything"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +327,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "examine",
+        "lips",
+        "part",
+        "sensitive",
+        "first"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +343,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forwards",
+        "kiss",
+        "backwards",
+        "slowly",
+        "trying",
+        "someone",
+        "rocks"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +361,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tests",
+        "lips",
+        "remember",
+        "dislikes",
+        "touching",
+        "likes",
+        "everything"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +379,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tests",
+        "lips",
+        "remember",
+        "dislikes",
+        "touching",
+        "likes",
+        "everything"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +397,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tests",
+        "lips",
+        "remember",
+        "dislikes",
+        "touching",
+        "likes",
+        "everything"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +415,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tests",
+        "lips",
+        "remember",
+        "dislikes",
+        "touching",
+        "likes",
+        "everything"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +433,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "examine",
+        "lips",
+        "part",
+        "sensitive",
+        "first"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +449,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tests",
+        "lips",
+        "remember",
+        "dislikes",
+        "touching",
+        "likes",
+        "everything"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +467,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn’t become dirty.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reflection",
+        "hasn",
+        "actively",
+        "arrives",
+        "chance",
+        "whenever",
+        "quite",
+        "dirty",
+        "sure",
+        "falls",
+        "runs",
+        "look",
+        "face"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +491,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn’t become dirty.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reflection",
+        "hasn",
+        "actively",
+        "arrives",
+        "chance",
+        "whenever",
+        "quite",
+        "dirty",
+        "sure",
+        "falls",
+        "runs",
+        "look",
+        "face"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +515,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it examines things, before touching them with its hands, it makes lip contact and then diligently licks all the dirt off its lips.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "examines",
+        "lip",
+        "diligently",
+        "lips",
+        "licks",
+        "dirt",
+        "contact",
+        "touching",
+        "hands"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +537,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Highly perceptive sensors, Smoochum’s lips are kept moist by its daily application of tree sap.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "application",
+        "perceptive",
+        "sensors",
+        "moist",
+        "lips",
+        "kept",
+        "sap",
+        "daily",
+        "highly"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +559,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn’t really seem to care.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bathe",
+        "seem",
+        "immediately",
+        "really",
+        "dirty",
+        "slightly",
+        "care",
+        "face",
+        "doesn"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +579,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "decides",
+        "curious",
+        "lips",
+        "dislikes",
+        "touching",
+        "likes"
+      ]
     }
   ],
   "similarPokemonIds": [

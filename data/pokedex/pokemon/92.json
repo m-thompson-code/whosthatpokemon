@@ -10,6 +10,105 @@
   ],
   "imagePath": "/assets/pokemon/092.png",
   "entryCount": 33,
+  "entryTraits": [
+    "sleeping",
+    "hunting",
+    "poisonous",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "grievances",
+    "impalpable",
+    "op",
+    "ponent",
+    "weakening",
+    "95",
+    "decrepit",
+    "defeats",
+    "elephant",
+    "graveyard",
+    "indian",
+    "lurking",
+    "suffocation",
+    "comprises",
+    "deserted",
+    "lingers",
+    "poisoning",
+    "flickering",
+    "ravages",
+    "remaining",
+    "dwindles",
+    "deceased",
+    "desires",
+    "envelop",
+    "engulfed",
+    "largely",
+    "thus",
+    "cloaks",
+    "enveloping",
+    "lacking",
+    "possessed",
+    "emanating",
+    "abandoned",
+    "souls",
+    "substance",
+    "exists",
+    "visible",
+    "died",
+    "gusts",
+    "seconds",
+    "topple",
+    "buildings",
+    "sneak",
+    "barely",
+    "eaves",
+    "inhaling",
+    "largest",
+    "building",
+    "gaseous",
+    "blown",
+    "cluster",
+    "real",
+    "faint",
+    "slowly",
+    "5",
+    "target",
+    "composed",
+    "notice",
+    "part",
+    "completely",
+    "puts",
+    "shape",
+    "dangerous",
+    "houses",
+    "strange",
+    "invisible",
+    "smell",
+    "wraps",
+    "exposed",
+    "gases",
+    "contains",
+    "despite",
+    "became",
+    "escape",
+    "size",
+    "gas",
+    "groups",
+    "almost",
+    "matter",
+    "instantly",
+    "wind",
+    "near",
+    "thin",
+    "poisonous",
+    "place",
+    "anyone",
+    "highly",
+    "skin",
+    "although",
+    "quickly",
+    "born"
+  ],
   "color": "purple",
   "shape": "ball",
   "habitat": "cave",
@@ -39,7 +138,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "cloaks",
+        "gaseous",
+        "target",
+        "notice",
+        "puts",
+        "invisible",
+        "almost"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +158,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "cloaks",
+        "gaseous",
+        "target",
+        "notice",
+        "puts",
+        "invisible",
+        "almost"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +178,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decrepit",
+        "deserted",
+        "buildings",
+        "real",
+        "shape",
+        "gas"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +195,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "desires",
+        "sneak",
+        "blown",
+        "gas",
+        "wind",
+        "place"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +212,15 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "suffocation",
+        "envelop",
+        "size",
+        "gas",
+        "thin"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +228,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It wraps its op­ ponent in its gas- like body, slowly weakening its prey by poisoning it through the skin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "op",
+        "ponent",
+        "weakening",
+        "poisoning",
+        "slowly",
+        "wraps",
+        "gas",
+        "skin"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +249,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this POKéMON cluster under the eaves of houses to escape the ravages of wind.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ravages",
+        "dwindles",
+        "largely",
+        "eaves",
+        "gaseous",
+        "cluster",
+        "composed",
+        "houses",
+        "exposed",
+        "escape",
+        "groups",
+        "matter",
+        "wind",
+        "quickly"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +274,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this POKéMON cluster under the eaves of houses to escape the ravages of wind.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ravages",
+        "dwindles",
+        "largely",
+        "eaves",
+        "gaseous",
+        "cluster",
+        "composed",
+        "houses",
+        "exposed",
+        "escape",
+        "groups",
+        "matter",
+        "wind",
+        "quickly"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +299,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When exposed to a strong wind, a GASTLY’s gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ravages",
+        "dwindles",
+        "eaves",
+        "gaseous",
+        "cluster",
+        "houses",
+        "exposed",
+        "escape",
+        "wind",
+        "quickly"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +320,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "elephant",
+        "indian",
+        "enveloping",
+        "exists",
+        "seconds",
+        "topple",
+        "gas",
+        "thin"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +341,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "cloaks",
+        "gaseous",
+        "target",
+        "notice",
+        "puts",
+        "invisible",
+        "almost"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +361,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "This Pokémon’s body is 95% made up of gases, which are blown away by strong gusts of wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "95",
+        "gusts",
+        "blown",
+        "gases",
+        "wind"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +377,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "defeats",
+        "enveloping",
+        "largest",
+        "gases",
+        "gas",
+        "born"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +396,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "engulfed",
+        "gaseous",
+        "faint",
+        "gases",
+        "contains",
+        "anyone",
+        "born"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +416,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "desires",
+        "sneak",
+        "blown",
+        "gas",
+        "wind",
+        "place"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +433,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "suffocation",
+        "envelop",
+        "lacking",
+        "substance",
+        "despite",
+        "size",
+        "gas"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +451,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "engulfed",
+        "gaseous",
+        "faint",
+        "gases",
+        "contains",
+        "anyone",
+        "born"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +471,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "engulfed",
+        "gaseous",
+        "faint",
+        "gases",
+        "contains",
+        "anyone",
+        "born"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +491,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "engulfed",
+        "gaseous",
+        "faint",
+        "gases",
+        "contains",
+        "anyone",
+        "born"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +511,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "engulfed",
+        "gaseous",
+        "faint",
+        "gases",
+        "contains",
+        "anyone",
+        "born"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +531,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "suffocation",
+        "envelop",
+        "lacking",
+        "substance",
+        "despite",
+        "size",
+        "gas"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +549,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "engulfed",
+        "gaseous",
+        "faint",
+        "gases",
+        "contains",
+        "anyone",
+        "born"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +569,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ravages",
+        "dwindles",
+        "largely",
+        "eaves",
+        "gaseous",
+        "cluster",
+        "composed",
+        "houses",
+        "exposed",
+        "escape",
+        "groups",
+        "matter",
+        "wind",
+        "quickly"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +594,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ravages",
+        "dwindles",
+        "largely",
+        "eaves",
+        "gaseous",
+        "cluster",
+        "composed",
+        "houses",
+        "exposed",
+        "escape",
+        "groups",
+        "matter",
+        "wind",
+        "quickly"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +619,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Should a strange light be seen flickering in an abandoned building, Gastly is lurking there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "lurking",
+        "flickering",
+        "abandoned",
+        "building",
+        "strange"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +637,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Although Gastly is barely visible, when it’s near, a faint sweet smell lingers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lingers",
+        "visible",
+        "barely",
+        "faint",
+        "smell",
+        "near",
+        "although"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +655,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s said that gas emanating from a graveyard was possessed by the grievances of the deceased and thus became a Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grievances",
+        "graveyard",
+        "deceased",
+        "thus",
+        "possessed",
+        "emanating",
+        "became",
+        "gas"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +674,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Poisonous gas comprises 95% of its body. It’s said that the remaining 5% is made up of the souls of those who died from the gas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "95",
+        "comprises",
+        "remaining",
+        "souls",
+        "died",
+        "5",
+        "gas",
+        "poisonous"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +695,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decrepit",
+        "deserted",
+        "buildings",
+        "real",
+        "shape",
+        "gas"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +712,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decrepit",
+        "deserted",
+        "buildings",
+        "real",
+        "shape",
+        "gas"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +729,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "engulfed",
+        "gaseous",
+        "faint",
+        "gases",
+        "contains",
+        "anyone",
+        "born"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +749,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "desires",
+        "sneak",
+        "blown",
+        "gas",
+        "wind",
+        "place"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +766,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Gaseous and completely impalpable. Also highly dangerous— inhaling part of its poisonous body will cause one to faint instantly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "impalpable",
+        "inhaling",
+        "gaseous",
+        "faint",
+        "part",
+        "completely",
+        "dangerous",
+        "instantly",
+        "poisonous",
+        "highly"
+      ]
     }
   ],
   "similarPokemonIds": [

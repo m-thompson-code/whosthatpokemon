@@ -10,6 +10,83 @@
   ],
   "imagePath": "/assets/pokemon/171.png",
   "entryCount": 27,
+  "entryTraits": [
+    "aquatic",
+    "luminous",
+    "hunting",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "dazzled",
+    "illuminates",
+    "incapacitated",
+    "starlit",
+    "inky",
+    "bacteria",
+    "illuminated",
+    "blinds",
+    "bodily",
+    "illuminate",
+    "produced",
+    "immobilized",
+    "luminescent",
+    "rising",
+    "chemical",
+    "deliver",
+    "peer",
+    "ship",
+    "effect",
+    "gulp",
+    "nicknamed",
+    "reaction",
+    "emit",
+    "swallow",
+    "burst",
+    "dorsal",
+    "orbs",
+    "emitting",
+    "depth",
+    "flashes",
+    "produces",
+    "lure",
+    "shining",
+    "antenna",
+    "star",
+    "opening",
+    "moment",
+    "changed",
+    "shine",
+    "part",
+    "depths",
+    "fin",
+    "fluids",
+    "electrical",
+    "absorb",
+    "formed",
+    "swallows",
+    "causing",
+    "antennae",
+    "intense",
+    "bright",
+    "great",
+    "single",
+    "between",
+    "stars",
+    "re",
+    "appearance",
+    "far",
+    "miles",
+    "ocean",
+    "surface",
+    "living",
+    "dark",
+    "darkness",
+    "emits",
+    "swims",
+    "creates",
+    "whole",
+    "seas"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +116,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "illuminate",
+        "depth",
+        "bright",
+        "miles",
+        "surface",
+        "emits"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +136,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "blinds",
+        "immobilized",
+        "gulp",
+        "burst",
+        "swallows",
+        "intense",
+        "single"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +157,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This POKéMON uses the bright part of its body, which changed from a dorsal fin, to lure prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "dorsal",
+        "lure",
+        "changed",
+        "part",
+        "fin",
+        "bright"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +176,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LANTURN is nicknamed “the deep-sea star” for its illuminated antenna. This POKéMON produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "bacteria",
+        "illuminated",
+        "bodily",
+        "chemical",
+        "nicknamed",
+        "reaction",
+        "produces",
+        "antenna",
+        "star",
+        "fluids",
+        "causing",
+        "between"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +202,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LANTURN is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this POKéMON’s light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "starlit",
+        "rising",
+        "peer",
+        "ship",
+        "emit",
+        "depths",
+        "appearance",
+        "dark",
+        "swims"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +226,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This POKéMON illuminates the inky darkness of deep seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "illuminates",
+        "inky",
+        "dorsal",
+        "orbs",
+        "emitting",
+        "part",
+        "fin",
+        "formed",
+        "bright",
+        "darkness",
+        "seas"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +250,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "blinds",
+        "immobilized",
+        "gulp",
+        "burst",
+        "swallows",
+        "intense",
+        "single"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +271,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The light it emits is so bright that it can illuminate the sea’s surface from a depth of over three miles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "illuminate",
+        "depth",
+        "bright",
+        "miles",
+        "surface",
+        "emits"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +291,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "nicknamed",
+        "star",
+        "shine",
+        "depths",
+        "great"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +310,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "nicknamed",
+        "star",
+        "shine",
+        "depths",
+        "great"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +329,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "nicknamed",
+        "star",
+        "shine",
+        "depths",
+        "great"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +348,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The light it emits is so bright that it can illuminate the sea’s surface from a depth of over three miles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "illuminate",
+        "depth",
+        "bright",
+        "miles",
+        "surface",
+        "emits"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +368,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "incapacitated",
+        "blinds",
+        "gulp",
+        "burst",
+        "swallows",
+        "intense",
+        "single"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +389,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "nicknamed",
+        "star",
+        "shine",
+        "depths",
+        "great"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +408,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "nicknamed",
+        "star",
+        "shine",
+        "depths",
+        "great"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +427,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "nicknamed",
+        "star",
+        "shine",
+        "depths",
+        "great"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +446,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "nicknamed",
+        "star",
+        "shine",
+        "depths",
+        "great"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +465,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "nicknamed",
+        "star",
+        "shine",
+        "depths",
+        "great"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +484,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "incapacitated",
+        "blinds",
+        "gulp",
+        "burst",
+        "swallows",
+        "intense",
+        "single"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +505,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lanturn is nicknamed “the deep-sea star” for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "bacteria",
+        "illuminated",
+        "bodily",
+        "chemical",
+        "nicknamed",
+        "reaction",
+        "produces",
+        "antenna",
+        "star",
+        "fluids",
+        "causing",
+        "between"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +531,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon’s light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "starlit",
+        "rising",
+        "peer",
+        "ship",
+        "emit",
+        "depths",
+        "appearance",
+        "dark",
+        "swims"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +555,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Should you peer into the ocean at night and see a light shining like the stars, that is Lanturn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "peer",
+        "shining",
+        "stars",
+        "ocean"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +574,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "blinds",
+        "deliver",
+        "flashes",
+        "opening",
+        "electrical",
+        "bright",
+        "creates"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +595,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When the bacteria living inside its antennae absorb Lanturn’s bodily fluids, a strong luminescent effect is produced.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bacteria",
+        "bodily",
+        "produced",
+        "luminescent",
+        "effect",
+        "fluids",
+        "absorb",
+        "antennae",
+        "living"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +615,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It lives far down in the depths of the ocean. It blinds its prey with light, using the moment they’re dazzled to swallow them whole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "dazzled",
+        "blinds",
+        "swallow",
+        "moment",
+        "depths",
+        "re",
+        "far",
+        "ocean",
+        "whole"
+      ]
     },
     {
       "versionId": 33,
@@ -239,7 +639,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The light it emits is so bright that it can illuminate the sea’s surface from a depth of over three miles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "illuminate",
+        "depth",
+        "bright",
+        "miles",
+        "surface",
+        "emits"
+      ]
     },
     {
       "versionId": 34,
@@ -247,7 +659,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "blinds",
+        "deliver",
+        "flashes",
+        "opening",
+        "electrical",
+        "bright",
+        "creates"
+      ]
     }
   ],
   "similarPokemonIds": [

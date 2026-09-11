@@ -9,6 +9,54 @@
   ],
   "imagePath": "/assets/pokemon/252.png",
   "entryCount": 18,
+  "entryTraits": [
+    "tail",
+    "forest-dwelling",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "nearing",
+    "conceding",
+    "protector",
+    "guards",
+    "panics",
+    "hang",
+    "soles",
+    "inch",
+    "scale",
+    "vertical",
+    "hooks",
+    "situation",
+    "slamming",
+    "ferociously",
+    "countless",
+    "collected",
+    "humidity",
+    "ceilings",
+    "cool",
+    "enabling",
+    "walk",
+    "glare",
+    "next",
+    "predict",
+    "giant",
+    "calm",
+    "bigger",
+    "enable",
+    "tiny",
+    "bottom",
+    "above",
+    "right",
+    "forest",
+    "weather",
+    "walls",
+    "catch",
+    "scales",
+    "against",
+    "spikes",
+    "quickly",
+    "covered"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": "forest",
@@ -39,7 +87,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POKéMON attacks by slamming foes with its thick tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "scale",
+        "vertical",
+        "hooks",
+        "slamming",
+        "enable",
+        "bottom",
+        "walls"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +107,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "TREECKO is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this POKéMON, it would glare right back without conceding an inch of ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "conceding",
+        "panics",
+        "inch",
+        "situation",
+        "collected",
+        "cool",
+        "glare",
+        "calm",
+        "bigger",
+        "right"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +128,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest’s trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "nearing",
+        "protector",
+        "guards",
+        "ferociously",
+        "giant",
+        "forest",
+        "against"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +149,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day’s weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "vertical",
+        "humidity",
+        "next",
+        "predict",
+        "weather",
+        "walls",
+        "scales",
+        "quickly"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +170,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day’s weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "vertical",
+        "humidity",
+        "next",
+        "predict",
+        "weather",
+        "walls",
+        "scales",
+        "quickly"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +191,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soles",
+        "countless",
+        "ceilings",
+        "enabling",
+        "walk",
+        "tiny",
+        "walls",
+        "spikes",
+        "covered"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +211,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soles",
+        "countless",
+        "ceilings",
+        "enabling",
+        "walk",
+        "tiny",
+        "walls",
+        "spikes",
+        "covered"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +231,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soles",
+        "countless",
+        "ceilings",
+        "enabling",
+        "walk",
+        "tiny",
+        "walls",
+        "spikes",
+        "covered"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +251,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hang",
+        "hooks",
+        "ceilings",
+        "bottom",
+        "above",
+        "walls",
+        "catch"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +269,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hang",
+        "hooks",
+        "ceilings",
+        "bottom",
+        "above",
+        "walls",
+        "catch"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +287,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soles",
+        "countless",
+        "ceilings",
+        "enabling",
+        "walk",
+        "tiny",
+        "walls",
+        "spikes",
+        "covered"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +307,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soles",
+        "countless",
+        "ceilings",
+        "enabling",
+        "walk",
+        "tiny",
+        "walls",
+        "spikes",
+        "covered"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +327,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soles",
+        "countless",
+        "ceilings",
+        "enabling",
+        "walk",
+        "tiny",
+        "walls",
+        "spikes",
+        "covered"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +347,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soles",
+        "countless",
+        "ceilings",
+        "enabling",
+        "walk",
+        "tiny",
+        "walls",
+        "spikes",
+        "covered"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +367,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day’s weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "vertical",
+        "humidity",
+        "next",
+        "predict",
+        "weather",
+        "walls",
+        "scales",
+        "quickly"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +388,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hang",
+        "hooks",
+        "ceilings",
+        "bottom",
+        "above",
+        "walls",
+        "catch"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +406,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "scale",
+        "vertical",
+        "hooks",
+        "slamming",
+        "enable",
+        "bottom",
+        "walls"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +426,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "conceding",
+        "panics",
+        "inch",
+        "situation",
+        "collected",
+        "cool",
+        "glare",
+        "calm",
+        "bigger",
+        "right"
+      ]
     }
   ],
   "similarPokemonIds": [

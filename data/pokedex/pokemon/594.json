@@ -9,6 +9,50 @@
   ],
   "imagePath": "/assets/pokemon/594.png",
   "entryCount": 12,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "doctor",
+    "voyages",
+    "condition",
+    "heals",
+    "fishermen",
+    "wounded",
+    "embrace",
+    "enveloping",
+    "mucus",
+    "heal",
+    "gently",
+    "wounds",
+    "weakened",
+    "medicine",
+    "need",
+    "shore",
+    "behavior",
+    "floating",
+    "helps",
+    "membrane",
+    "injured",
+    "unknown",
+    "float",
+    "coming",
+    "ll",
+    "upon",
+    "bring",
+    "holds",
+    "find",
+    "open",
+    "area",
+    "remains",
+    "fins",
+    "reason",
+    "weak",
+    "special",
+    "along",
+    "gather",
+    "close"
+  ],
   "color": "pink",
   "shape": "fish",
   "habitat": null,
@@ -39,7 +83,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The special membrane enveloping Alomomola has the ability to heal wounds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "enveloping",
+        "heal",
+        "wounds",
+        "membrane",
+        "special"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +99,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wounded",
+        "embrace",
+        "shore",
+        "floating",
+        "bring",
+        "find",
+        "open"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +119,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heals",
+        "gently",
+        "wounds",
+        "membrane",
+        "injured",
+        "holds",
+        "fins",
+        "weak",
+        "special"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +139,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heals",
+        "gently",
+        "wounds",
+        "membrane",
+        "injured",
+        "holds",
+        "fins",
+        "weak",
+        "special"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +159,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wounded",
+        "embrace",
+        "shore",
+        "floating",
+        "bring",
+        "find",
+        "open"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +179,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heals",
+        "gently",
+        "wounds",
+        "membrane",
+        "injured",
+        "holds",
+        "fins",
+        "weak",
+        "special"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +199,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wounded",
+        "embrace",
+        "shore",
+        "floating",
+        "bring",
+        "find",
+        "open"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +219,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heals",
+        "gently",
+        "wounds",
+        "membrane",
+        "injured",
+        "holds",
+        "fins",
+        "weak",
+        "special"
+      ]
     },
     {
       "versionId": 27,
@@ -103,7 +239,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It uses its special mucus to close the wounds of injured Pokémon. The reason for this behavior remains unknown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mucus",
+        "wounds",
+        "behavior",
+        "injured",
+        "unknown",
+        "remains",
+        "reason",
+        "special",
+        "close"
+      ]
     },
     {
       "versionId": 28,
@@ -111,7 +259,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "float",
+        "upon",
+        "open",
+        "area",
+        "gather"
+      ]
     },
     {
       "versionId": 29,
@@ -119,7 +277,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Fishermen take them along on long voyages, because if you have an Alomomola with you, there’ll be no need for a doctor or medicine.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "doctor",
+        "voyages",
+        "fishermen",
+        "medicine",
+        "need",
+        "ll",
+        "along"
+      ]
     },
     {
       "versionId": 30,
@@ -127,7 +295,15 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "condition",
+        "weakened",
+        "helps",
+        "coming",
+        "reason"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,44 @@
   ],
   "imagePath": "/assets/pokemon/734.png",
   "entryCount": 4,
+  "entryTraits": [
+    "fangs",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "eater",
+    "exhaustion",
+    "laughing",
+    "marches",
+    "torso",
+    "ending",
+    "imported",
+    "collapses",
+    "did",
+    "fresh",
+    "streets",
+    "spend",
+    "dusk",
+    "originally",
+    "wanders",
+    "amount",
+    "alola",
+    "spot",
+    "falls",
+    "stomach",
+    "asleep",
+    "bite",
+    "region",
+    "matter",
+    "prefers",
+    "living",
+    "another",
+    "search",
+    "although",
+    "takes",
+    "big",
+    "eat"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +76,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "imported",
+        "did",
+        "originally",
+        "alola",
+        "bite",
+        "region",
+        "another"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +96,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exhaustion",
+        "ending",
+        "collapses",
+        "dusk",
+        "wanders",
+        "spot",
+        "falls",
+        "asleep",
+        "search"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +116,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its stomach takes up most of its long torso. It’s a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "eater",
+        "laughing",
+        "torso",
+        "spend",
+        "amount",
+        "stomach",
+        "matter",
+        "takes",
+        "big"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +136,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "marches",
+        "fresh",
+        "streets",
+        "prefers",
+        "living",
+        "search",
+        "although",
+        "eat"
+      ]
     }
   ],
   "similarPokemonIds": [

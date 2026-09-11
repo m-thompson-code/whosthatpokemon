@@ -10,6 +10,51 @@
   ],
   "imagePath": "/assets/pokemon/699.png",
   "entryCount": 8,
+  "entryTraits": [
+    "cold-climate",
+    "sky-dwelling",
+    "icy",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "encasing",
+    "gripped",
+    "news",
+    "240",
+    "emanate",
+    "auroras",
+    "event",
+    "expel",
+    "glacier",
+    "block",
+    "kindly",
+    "howls",
+    "rage",
+    "appeared",
+    "restored",
+    "wall",
+    "solid",
+    "crystals",
+    "surrounding",
+    "frozen",
+    "quite",
+    "diamond",
+    "freezing",
+    "quiet",
+    "covering",
+    "became",
+    "fossil",
+    "instantly",
+    "shaped",
+    "everything",
+    "within",
+    "surface",
+    "fahrenheit",
+    "create",
+    "usually",
+    "big",
+    "temperature"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +84,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "encasing",
+        "240",
+        "expel",
+        "crystals",
+        "surrounding",
+        "diamond",
+        "shaped",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +107,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent’s attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "block",
+        "wall",
+        "crystals",
+        "diamond",
+        "instantly",
+        "shaped",
+        "create"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +128,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "encasing",
+        "240",
+        "expel",
+        "crystals",
+        "surrounding",
+        "diamond",
+        "shaped",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +151,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent’s attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "block",
+        "wall",
+        "crystals",
+        "diamond",
+        "instantly",
+        "shaped",
+        "create"
+      ]
     },
     {
       "versionId": 29,
@@ -71,7 +172,23 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "An Aurorus was found frozen solid within a glacier, just as it appeared long ago, which became quite a big event in the news.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "news",
+        "event",
+        "glacier",
+        "appeared",
+        "solid",
+        "frozen",
+        "quite",
+        "became",
+        "within",
+        "big"
+      ]
     },
     {
       "versionId": 30,
@@ -79,7 +196,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This usually quiet and kindly Pokémon has a surface temperature of around –240 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "240",
+        "kindly",
+        "quiet",
+        "surface",
+        "fahrenheit",
+        "usually",
+        "temperature"
+      ]
     },
     {
       "versionId": 33,
@@ -87,7 +214,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Aurorus was restored from a fossil. It’s said that when this Pokémon howls, auroras appear in the night sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "auroras",
+        "howls",
+        "restored",
+        "fossil"
+      ]
     },
     {
       "versionId": 34,
@@ -95,7 +232,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "gripped",
+        "emanate",
+        "rage",
+        "freezing",
+        "covering",
+        "everything"
+      ]
     }
   ],
   "similarPokemonIds": [

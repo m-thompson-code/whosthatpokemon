@@ -9,6 +9,76 @@
   ],
   "imagePath": "/assets/pokemon/104.png",
   "entryCount": 32,
+  "entryTraits": [
+    "sonic",
+    "sky-dwelling",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "mournfully",
+    "plaintive",
+    "mournful",
+    "plain",
+    "revealing",
+    "weeps",
+    "tive",
+    "lonesome",
+    "removes",
+    "departed",
+    "likeness",
+    "pines",
+    "stains",
+    "helmet",
+    "lonely",
+    "deceased",
+    "hollowly",
+    "idea",
+    "rattle",
+    "bare",
+    "terms",
+    "mandibuzz",
+    "echo",
+    "death",
+    "melody",
+    "memory",
+    "shakes",
+    "loudly",
+    "brings",
+    "thinks",
+    "again",
+    "real",
+    "sad",
+    "true",
+    "crying",
+    "tear",
+    "tears",
+    "clear",
+    "attract",
+    "wears",
+    "natural",
+    "hear",
+    "knows",
+    "dead",
+    "seeing",
+    "sheds",
+    "mother",
+    "dreams",
+    "skull",
+    "pain",
+    "hidden",
+    "according",
+    "ever",
+    "birth",
+    "evolve",
+    "cry",
+    "moon",
+    "lost",
+    "within",
+    "stronger",
+    "emits",
+    "full",
+    "face"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +108,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "removes",
+        "helmet",
+        "real",
+        "skull",
+        "ever",
+        "face"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +125,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "removes",
+        "helmet",
+        "real",
+        "skull",
+        "ever",
+        "face"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +142,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "deceased",
+        "echo",
+        "melody",
+        "sad",
+        "wears",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +162,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If it is sad or lonely, the skull it wears shakes, and emits a plain­ tive and mournful sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mournful",
+        "plain",
+        "tive",
+        "lonely",
+        "shakes",
+        "sad",
+        "wears",
+        "skull",
+        "emits"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +184,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "idea",
+        "wears",
+        "dead",
+        "mother",
+        "skull",
+        "hidden",
+        "face"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +202,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It lost its mother after its birth. It wears its mother's skull, never revealing its true face.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "revealing",
+        "true",
+        "wears",
+        "mother",
+        "skull",
+        "birth",
+        "lost",
+        "face"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +221,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POKéMON wears are made by the tears it sheds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "likeness",
+        "pines",
+        "stains",
+        "again",
+        "tears",
+        "wears",
+        "seeing",
+        "sheds",
+        "mother",
+        "skull",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +246,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POKéMON wears are made by the tears it sheds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "likeness",
+        "pines",
+        "stains",
+        "again",
+        "tears",
+        "wears",
+        "seeing",
+        "sheds",
+        "mother",
+        "skull",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +271,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "likeness",
+        "pines",
+        "stains",
+        "again",
+        "tears",
+        "wears",
+        "seeing",
+        "mother",
+        "skull",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +295,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lonesome",
+        "loudly",
+        "wears",
+        "dead",
+        "mother",
+        "skull",
+        "cry"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +313,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Because it never removes its skull helmet, no one has ever seen this POKéMON’s real face.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "removes",
+        "helmet",
+        "real",
+        "skull",
+        "ever",
+        "face"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +330,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hollowly",
+        "rattle",
+        "thinks",
+        "crying",
+        "wears",
+        "dead",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +351,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hollowly",
+        "rattle",
+        "thinks",
+        "crying",
+        "wears",
+        "dead",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +372,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hollowly",
+        "rattle",
+        "thinks",
+        "crying",
+        "wears",
+        "dead",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +393,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it is sad or lonely, the skull it wears shakes and emits a plaintive and mournful sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "plaintive",
+        "mournful",
+        "lonely",
+        "shakes",
+        "sad",
+        "wears",
+        "skull",
+        "emits"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +414,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "idea",
+        "wears",
+        "dead",
+        "mother",
+        "skull",
+        "hidden",
+        "face"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +432,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hollowly",
+        "rattle",
+        "thinks",
+        "crying",
+        "wears",
+        "dead",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +453,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hollowly",
+        "rattle",
+        "thinks",
+        "crying",
+        "wears",
+        "dead",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +474,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hollowly",
+        "rattle",
+        "thinks",
+        "crying",
+        "wears",
+        "dead",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +495,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "hollowly",
+        "rattle",
+        "thinks",
+        "crying",
+        "wears",
+        "dead",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +516,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lonesome",
+        "loudly",
+        "wears",
+        "dead",
+        "mother",
+        "skull",
+        "cry"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +534,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "idea",
+        "wears",
+        "dead",
+        "mother",
+        "skull",
+        "hidden",
+        "face"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +552,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "likeness",
+        "pines",
+        "stains",
+        "again",
+        "tears",
+        "wears",
+        "seeing",
+        "sheds",
+        "mother",
+        "skull",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +577,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "likeness",
+        "pines",
+        "stains",
+        "again",
+        "tears",
+        "wears",
+        "seeing",
+        "sheds",
+        "mother",
+        "skull",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +602,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "weeps",
+        "deceased",
+        "mandibuzz",
+        "loudly",
+        "thinks",
+        "hear",
+        "mother"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +623,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "terms",
+        "death",
+        "wears",
+        "dead",
+        "mother",
+        "skull",
+        "pain",
+        "according",
+        "evolve"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +643,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy—Mandibuzz.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sonic"
+      ],
+      "keywords": [
+        "weeps",
+        "mandibuzz",
+        "loudly",
+        "attract",
+        "natural",
+        "dead",
+        "mother"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +664,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It wears its mother’s skull on its head, so no one knows what its bare face looks like. However, it’s clear that it’s always crying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bare",
+        "crying",
+        "clear",
+        "wears",
+        "knows",
+        "mother",
+        "skull",
+        "face"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +683,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "deceased",
+        "echo",
+        "melody",
+        "sad",
+        "wears",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +703,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "deceased",
+        "echo",
+        "melody",
+        "sad",
+        "wears",
+        "mother",
+        "skull"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +723,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mournfully",
+        "departed",
+        "echo",
+        "memory",
+        "brings",
+        "tears",
+        "wears",
+        "mother",
+        "skull",
+        "within"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +746,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "deceased",
+        "tear",
+        "wears",
+        "sheds",
+        "mother",
+        "dreams",
+        "skull",
+        "cry",
+        "stronger"
+      ]
     }
   ],
   "similarPokemonIds": [

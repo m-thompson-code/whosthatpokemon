@@ -9,6 +9,27 @@
   ],
   "imagePath": "/assets/pokemon/909.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fiery"
+  ],
+  "entryKeywords": [
+    "dent",
+    "square",
+    "fro",
+    "flickers",
+    "leaking",
+    "absorbed",
+    "atop",
+    "released",
+    "lies",
+    "sac",
+    "shaped",
+    "scales",
+    "flame",
+    "create",
+    "heat",
+    "rocks"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +59,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "square",
+        "absorbed",
+        "lies",
+        "shaped",
+        "scales",
+        "create",
+        "heat",
+        "rocks"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +80,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "dent",
+        "fro",
+        "flickers",
+        "leaking",
+        "atop",
+        "released",
+        "sac",
+        "flame"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,67 @@
   ],
   "imagePath": "/assets/pokemon/353.png",
   "entryCount": 20,
+  "entryTraits": [
+    "nocturnal",
+    "horns"
+  ],
+  "entryKeywords": [
+    "shun",
+    "taint",
+    "vengefulness",
+    "vindictiveness",
+    "grateful",
+    "jealousy",
+    "vengeance",
+    "resentment",
+    "retreats",
+    "grudges",
+    "proverb",
+    "rows",
+    "hatred",
+    "malice",
+    "upright",
+    "envy",
+    "says",
+    "vengeful",
+    "develops",
+    "roams",
+    "dusk",
+    "attracted",
+    "sadness",
+    "eaves",
+    "negative",
+    "presence",
+    "cities",
+    "feeding",
+    "hearts",
+    "feed",
+    "rise",
+    "house",
+    "steadily",
+    "hangs",
+    "line",
+    "catches",
+    "seeking",
+    "swarm",
+    "beneath",
+    "houses",
+    "person",
+    "begins",
+    "someone",
+    "feeds",
+    "growing",
+    "home",
+    "feelings",
+    "active",
+    "emotions",
+    "stronger",
+    "dark",
+    "search",
+    "horn",
+    "gather",
+    "sun"
+  ],
   "color": "black",
   "shape": "ball",
   "habitat": "urban",
@@ -38,7 +99,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person’s home.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "vindictiveness",
+        "jealousy",
+        "vengeance",
+        "develops",
+        "attracted",
+        "eaves",
+        "line",
+        "swarm",
+        "beneath",
+        "person",
+        "someone",
+        "home",
+        "feelings"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +123,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SHUPPET grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "taint",
+        "vengefulness",
+        "grudges",
+        "envy",
+        "roams",
+        "cities",
+        "feeding",
+        "hearts",
+        "emotions",
+        "dark",
+        "search"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +145,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "This POKéMON roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "retreats",
+        "grudges",
+        "envy",
+        "roams",
+        "negative",
+        "rise",
+        "seeking",
+        "begins",
+        "emotions",
+        "sun"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +168,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "malice",
+        "upright",
+        "envy",
+        "feed",
+        "catches",
+        "feelings",
+        "emotions",
+        "horn"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +189,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "malice",
+        "upright",
+        "envy",
+        "feed",
+        "catches",
+        "feelings",
+        "emotions",
+        "horn"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +210,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rows",
+        "vengeful",
+        "eaves",
+        "hangs",
+        "houses",
+        "emotions"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +227,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rows",
+        "vengeful",
+        "eaves",
+        "hangs",
+        "houses",
+        "emotions"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +244,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rows",
+        "vengeful",
+        "eaves",
+        "hangs",
+        "houses",
+        "emotions"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +261,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It uses its horn to feed on envy and malice, or so it’s said. It’s very active at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "nocturnal"
+      ],
+      "keywords": [
+        "malice",
+        "envy",
+        "feed",
+        "active",
+        "horn"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +280,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It uses its horn to feed on envy and malice, or so it’s said. It’s very active at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "nocturnal"
+      ],
+      "keywords": [
+        "malice",
+        "envy",
+        "feed",
+        "active",
+        "horn"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +299,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rows",
+        "vengeful",
+        "eaves",
+        "hangs",
+        "houses",
+        "emotions"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +316,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rows",
+        "vengeful",
+        "eaves",
+        "hangs",
+        "houses",
+        "emotions"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +333,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hatred",
+        "sadness",
+        "steadily",
+        "feeds",
+        "emotions",
+        "stronger",
+        "dark"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +351,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hatred",
+        "sadness",
+        "steadily",
+        "feeds",
+        "emotions",
+        "stronger",
+        "dark"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +369,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It uses its horn to feed on envy and malice-- or so it’s said. It’s very active at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "nocturnal"
+      ],
+      "keywords": [
+        "malice",
+        "envy",
+        "feed",
+        "active",
+        "horn"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +388,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rows",
+        "vengeful",
+        "eaves",
+        "hangs",
+        "houses",
+        "emotions"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +405,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pokémon will appear in a swarm and line up beneath the eaves of that person’s home.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "vindictiveness",
+        "jealousy",
+        "vengeance",
+        "develops",
+        "attracted",
+        "eaves",
+        "line",
+        "swarm",
+        "beneath",
+        "person",
+        "someone",
+        "home",
+        "feelings"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +429,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shuppet grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "taint",
+        "vengefulness",
+        "grudges",
+        "envy",
+        "roams",
+        "cities",
+        "feeding",
+        "hearts",
+        "emotions",
+        "dark",
+        "search"
+      ]
     },
     {
       "versionId": 29,
@@ -182,7 +451,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It eats up emotions like malice, jealousy, and resentment, so some people are grateful for its presence.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grateful",
+        "jealousy",
+        "resentment",
+        "malice",
+        "presence",
+        "emotions"
+      ]
     },
     {
       "versionId": 30,
@@ -190,7 +468,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "There’s a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "shun",
+        "proverb",
+        "says",
+        "dusk",
+        "house",
+        "growing",
+        "gather"
+      ]
     }
   ],
   "similarPokemonIds": [

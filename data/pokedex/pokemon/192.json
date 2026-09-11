@@ -9,6 +9,51 @@
   ],
   "imagePath": "/assets/pokemon/192.png",
   "entryCount": 21,
+  "entryTraits": [
+    "luminous",
+    "fiery",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "plete",
+    "hectic",
+    "com",
+    "convert",
+    "lively",
+    "complete",
+    "rushes",
+    "sunset",
+    "pursuit",
+    "manner",
+    "actively",
+    "converts",
+    "vivid",
+    "closes",
+    "solar",
+    "nutrition",
+    "season",
+    "daytime",
+    "habit",
+    "approaches",
+    "looking",
+    "sets",
+    "stops",
+    "soon",
+    "suddenly",
+    "direction",
+    "petals",
+    "since",
+    "active",
+    "stop",
+    "highly",
+    "darkness",
+    "still",
+    "moving",
+    "face",
+    "hot",
+    "sun",
+    "sunlight"
+  ],
   "color": "yellow",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -38,7 +83,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It converts sun­ light into energy. In the darkness after sunset, it closes its petals and becomes still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "sunset",
+        "converts",
+        "closes",
+        "petals",
+        "darkness",
+        "still",
+        "sun"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +103,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "In the daytime, it rushes about in a hectic manner, but it comes to a com­ plete stop when the sun sets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "plete",
+        "hectic",
+        "com",
+        "rushes",
+        "manner",
+        "daytime",
+        "sets",
+        "stop",
+        "sun"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +123,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "As the hot season approaches, the petals on this POKéMON's face become more vivid and lively.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "lively",
+        "vivid",
+        "season",
+        "approaches",
+        "petals",
+        "face",
+        "hot"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +143,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SUNFLORA converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "actively",
+        "converts",
+        "solar",
+        "nutrition",
+        "daytime",
+        "stops",
+        "soon",
+        "moving",
+        "sun"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +165,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SUNFLORA converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "actively",
+        "converts",
+        "solar",
+        "nutrition",
+        "daytime",
+        "stops",
+        "soon",
+        "moving",
+        "sun"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +187,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "SUNFLORA convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "convert",
+        "solar",
+        "nutrition",
+        "daytime",
+        "sets",
+        "soon",
+        "suddenly",
+        "active",
+        "stop",
+        "highly",
+        "moving",
+        "sun"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +210,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hectic",
+        "complete",
+        "rushes",
+        "manner",
+        "daytime",
+        "sets",
+        "stop",
+        "sun"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +229,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunset",
+        "converts",
+        "closes",
+        "petals",
+        "darkness",
+        "still",
+        "sunlight"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +247,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pursuit",
+        "habit",
+        "moving",
+        "sunlight"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +262,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pursuit",
+        "habit",
+        "moving",
+        "sunlight"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +277,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pursuit",
+        "habit",
+        "moving",
+        "sunlight"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +292,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunset",
+        "converts",
+        "closes",
+        "petals",
+        "darkness",
+        "still",
+        "sunlight"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +310,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hectic",
+        "complete",
+        "rushes",
+        "manner",
+        "daytime",
+        "sets",
+        "stop",
+        "sun"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +329,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pursuit",
+        "habit",
+        "moving",
+        "sunlight"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +344,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pursuit",
+        "habit",
+        "moving",
+        "sunlight"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +359,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Since it converts sunlight into energy, it is always looking in the direction of the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converts",
+        "looking",
+        "direction",
+        "since",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +376,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Since it converts sunlight into energy, it is always looking in the direction of the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converts",
+        "looking",
+        "direction",
+        "since",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +393,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "As the hot season approaches, the petals on this Pokémon’s face become more vivid and lively.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "lively",
+        "vivid",
+        "season",
+        "approaches",
+        "petals",
+        "face",
+        "hot"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +413,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pursuit",
+        "habit",
+        "moving",
+        "sunlight"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +428,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "actively",
+        "converts",
+        "solar",
+        "nutrition",
+        "daytime",
+        "stops",
+        "soon",
+        "moving",
+        "sun"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +450,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "actively",
+        "converts",
+        "solar",
+        "nutrition",
+        "daytime",
+        "stops",
+        "soon",
+        "moving",
+        "sun"
+      ]
     }
   ],
   "similarPokemonIds": [

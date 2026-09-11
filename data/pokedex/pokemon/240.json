@@ -9,6 +9,101 @@
   ],
   "imagePath": "/assets/pokemon/240.png",
   "entryCount": 28,
+  "entryTraits": [
+    "fiery",
+    "volcanic",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "drip",
+    "estimate",
+    "heralds",
+    "potter",
+    "recovering",
+    "spurt",
+    "temp",
+    "tint",
+    "1100",
+    "underestimate",
+    "degree",
+    "dribble",
+    "soaks",
+    "exhale",
+    "determined",
+    "exceeds",
+    "fatigue",
+    "exhales",
+    "leak",
+    "nice",
+    "activity",
+    "observing",
+    "surprised",
+    "naturally",
+    "circulates",
+    "eruption",
+    "fatigued",
+    "lie",
+    "breathing",
+    "mixed",
+    "pond",
+    "craters",
+    "spouting",
+    "resting",
+    "smoke",
+    "works",
+    "gain",
+    "yellow",
+    "inhales",
+    "embers",
+    "volcanoes",
+    "nostrils",
+    "produce",
+    "feeding",
+    "famous",
+    "health",
+    "excited",
+    "throughout",
+    "breathes",
+    "dry",
+    "rest",
+    "state",
+    "volcanic",
+    "thing",
+    "means",
+    "whenever",
+    "don",
+    "healthy",
+    "spits",
+    "timid",
+    "sparks",
+    "fine",
+    "home",
+    "f",
+    "soft",
+    "falls",
+    "1",
+    "breath",
+    "escape",
+    "blood",
+    "top",
+    "areas",
+    "end",
+    "near",
+    "magma",
+    "black",
+    "flame",
+    "100",
+    "fahrenheit",
+    "nose",
+    "still",
+    "good",
+    "whole",
+    "heat",
+    "hot",
+    "apparently",
+    "temperature"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +133,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "dribble",
+        "exhales",
+        "inhales",
+        "embers",
+        "nostrils",
+        "hot"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +152,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It is found in volcanic craters. Its body temp. is over 1100 degrees, so don't under­ estimate it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "estimate",
+        "temp",
+        "1100",
+        "craters",
+        "volcanic",
+        "don"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +171,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It naturally spits an 1100-degree flame. It is said when many appear, it heralds a volcanic eruption.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "heralds",
+        "1100",
+        "degree",
+        "naturally",
+        "eruption",
+        "volcanic",
+        "spits",
+        "flame"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +193,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MAGBY’s state of health is determined by observing the fire it breathes. If the POKéMON is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "determined",
+        "observing",
+        "fatigued",
+        "mixed",
+        "spouting",
+        "smoke",
+        "yellow",
+        "health",
+        "breathes",
+        "state",
+        "black",
+        "good"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +218,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MAGBY’s state of health is determined by observing the fire it breathes. If the POKéMON is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "determined",
+        "observing",
+        "fatigued",
+        "mixed",
+        "spouting",
+        "smoke",
+        "yellow",
+        "health",
+        "breathes",
+        "state",
+        "black",
+        "good"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +243,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "If a MAGBY is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "fatigued",
+        "mixed",
+        "spouting",
+        "smoke",
+        "yellow",
+        "health",
+        "black",
+        "good"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +264,22 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is found in volcanic craters. Its body heat exceeds 1,100 degrees Fahrenheit, so don’t underestimate it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "underestimate",
+        "exceeds",
+        "craters",
+        "volcanic",
+        "don",
+        "1",
+        "100",
+        "fahrenheit",
+        "heat"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +287,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "dribble",
+        "exhales",
+        "inhales",
+        "embers",
+        "nostrils",
+        "hot"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +306,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its body temperature is around 1,100 degrees F. It is healthy if it is breathing yellow flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "breathing",
+        "yellow",
+        "healthy",
+        "f",
+        "1",
+        "100",
+        "temperature"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +326,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body temperature is around 1,100 degrees F. It is healthy if it is breathing yellow flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "breathing",
+        "yellow",
+        "healthy",
+        "f",
+        "1",
+        "100",
+        "temperature"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +346,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "circulates",
+        "throughout",
+        "f",
+        "1",
+        "blood",
+        "top",
+        "magma",
+        "100",
+        "heat"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +368,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Each and every time it inhales and exhales, hot embers dribble from its mouth and nostrils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "dribble",
+        "exhales",
+        "inhales",
+        "embers",
+        "nostrils",
+        "hot"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +387,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is found in volcanic craters. Its body temperature is over 1,100 degrees Fahrenheit, so don’t underestimate it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "underestimate",
+        "craters",
+        "volcanic",
+        "don",
+        "1",
+        "100",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +408,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "circulates",
+        "throughout",
+        "f",
+        "1",
+        "blood",
+        "top",
+        "magma",
+        "100",
+        "heat"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +430,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "circulates",
+        "throughout",
+        "f",
+        "1",
+        "blood",
+        "top",
+        "magma",
+        "100",
+        "heat"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +452,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It’s small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "embers",
+        "breathes",
+        "f",
+        "1",
+        "escape",
+        "100",
+        "nose",
+        "temperature"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +471,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It’s small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "embers",
+        "breathes",
+        "f",
+        "1",
+        "escape",
+        "100",
+        "nose",
+        "temperature"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +490,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It’s small, but its body temperature is over 1,100 degrees Fahrenheit. Embers escape its mouth and nose when it breathes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "embers",
+        "breathes",
+        "1",
+        "escape",
+        "100",
+        "fahrenheit",
+        "nose",
+        "temperature"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +509,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "circulates",
+        "throughout",
+        "1",
+        "blood",
+        "top",
+        "magma",
+        "100",
+        "fahrenheit",
+        "heat"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +531,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magby’s state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "determined",
+        "observing",
+        "fatigued",
+        "mixed",
+        "spouting",
+        "smoke",
+        "yellow",
+        "health",
+        "breathes",
+        "state",
+        "black",
+        "good"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +556,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magby’s state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "determined",
+        "observing",
+        "fatigued",
+        "mixed",
+        "spouting",
+        "smoke",
+        "yellow",
+        "health",
+        "breathes",
+        "state",
+        "black",
+        "good"
+      ]
     },
     {
       "versionId": 27,
@@ -206,7 +581,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Many of these Pokémon can be seen in areas with volcanic activity. Feeding can get them so excited, they exhale flames of 1,100 degrees F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "exhale",
+        "activity",
+        "feeding",
+        "excited",
+        "volcanic",
+        "f",
+        "1",
+        "areas",
+        "100"
+      ]
     },
     {
       "versionId": 28,
@@ -214,7 +604,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "A famous potter lives with a Magby. Apparently its soft flames produce fine works.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "potter",
+        "works",
+        "produce",
+        "famous",
+        "fine",
+        "soft",
+        "apparently"
+      ]
     },
     {
       "versionId": 29,
@@ -222,7 +624,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When flames drip from its nose, that means it has a cold. Have it lie down for a nice rest in some magma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "drip",
+        "nice",
+        "lie",
+        "rest",
+        "means",
+        "magma",
+        "nose"
+      ]
     },
     {
       "versionId": 30,
@@ -230,7 +646,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its body temperature is always around 1,100 degrees Fahrenheit. If Magby falls into a small- enough pond, the whole thing will dry up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "pond",
+        "dry",
+        "thing",
+        "falls",
+        "1",
+        "100",
+        "fahrenheit",
+        "whole",
+        "temperature"
+      ]
     },
     {
       "versionId": 33,
@@ -238,7 +666,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is still small and timid. Whenever Magby gets excited or surprised, flames leak from its mouth and its nose.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "leak",
+        "surprised",
+        "excited",
+        "whenever",
+        "timid",
+        "nose",
+        "still"
+      ]
     },
     {
       "versionId": 34,
@@ -246,7 +686,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon makes its home near volcanoes. At the end of the day, Magby soaks in magma, resting and recovering from the day’s fatigue.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "recovering",
+        "soaks",
+        "fatigue",
+        "resting",
+        "volcanoes",
+        "home",
+        "end",
+        "near",
+        "magma"
+      ]
     },
     {
       "versionId": 39,
@@ -254,7 +706,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "spurt",
+        "tint",
+        "gain",
+        "yellow",
+        "health",
+        "volcanic",
+        "sparks",
+        "breath",
+        "areas",
+        "nose",
+        "good"
+      ]
     }
   ],
   "similarPokemonIds": [

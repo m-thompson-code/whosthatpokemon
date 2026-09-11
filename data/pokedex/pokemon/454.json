@@ -10,6 +10,66 @@
   ],
   "imagePath": "/assets/pokemon/454.png",
   "entryCount": 16,
+  "entryTraits": [
+    "claws",
+    "arms",
+    "poisonous",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "booms",
+    "tonic",
+    "crimson",
+    "croak",
+    "croaking",
+    "dodging",
+    "gouges",
+    "seismitoad",
+    "adversaries",
+    "lunges",
+    "tubes",
+    "churning",
+    "diluting",
+    "knuckle",
+    "mixing",
+    "virulent",
+    "churned",
+    "croaks",
+    "victory",
+    "potency",
+    "types",
+    "weaves",
+    "prove",
+    "needed",
+    "swaying",
+    "boiling",
+    "pumped",
+    "related",
+    "vile",
+    "defeat",
+    "greater",
+    "secrete",
+    "toxin",
+    "throat",
+    "fatal",
+    "flexible",
+    "produces",
+    "sacs",
+    "contain",
+    "scratch",
+    "toward",
+    "bounces",
+    "several",
+    "knock",
+    "wild",
+    "sac",
+    "species",
+    "days",
+    "stored",
+    "poisonous",
+    "grass",
+    "close"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +99,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "knuckle",
+        "prove",
+        "vile",
+        "secrete",
+        "toxin",
+        "fatal",
+        "scratch"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +119,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The toxin made in its poison sacs is pumped to the knuckle claws through tubes down its arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "claws",
+        "poisonous"
+      ],
+      "keywords": [
+        "tubes",
+        "knuckle",
+        "pumped",
+        "toxin",
+        "sacs"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +139,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "churned",
+        "croaks",
+        "potency",
+        "greater",
+        "throat",
+        "sac",
+        "stored"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +159,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "poisonous"
+      ],
+      "keywords": [
+        "dodging",
+        "lunges",
+        "weaves",
+        "swaying",
+        "flexible",
+        "poisonous",
+        "close"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +180,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "poisonous"
+      ],
+      "keywords": [
+        "dodging",
+        "lunges",
+        "weaves",
+        "swaying",
+        "flexible",
+        "poisonous",
+        "close"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +201,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "churned",
+        "croaks",
+        "potency",
+        "greater",
+        "throat",
+        "sac",
+        "stored"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +221,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "churned",
+        "croaks",
+        "potency",
+        "greater",
+        "throat",
+        "sac",
+        "stored"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +241,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "croaking",
+        "churning",
+        "produces",
+        "sac",
+        "stored"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +259,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "croaking",
+        "churning",
+        "produces",
+        "sac",
+        "stored"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +277,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "churned",
+        "croaks",
+        "potency",
+        "greater",
+        "throat",
+        "sac",
+        "stored"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +297,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "knuckle",
+        "prove",
+        "vile",
+        "secrete",
+        "toxin",
+        "fatal",
+        "scratch"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +317,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "churned",
+        "croaks",
+        "potency",
+        "greater",
+        "throat",
+        "sac",
+        "stored"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +337,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "knuckle",
+        "prove",
+        "vile",
+        "secrete",
+        "toxin",
+        "fatal",
+        "scratch"
+      ]
     },
     {
       "versionId": 33,
@@ -143,7 +357,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It bounces toward opponents and gouges them with poisonous claws. No more than a scratch is needed to knock out its adversaries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "poisonous"
+      ],
+      "keywords": [
+        "gouges",
+        "adversaries",
+        "needed",
+        "scratch",
+        "toward",
+        "bounces",
+        "knock",
+        "poisonous"
+      ]
     },
     {
       "versionId": 34,
@@ -151,7 +379,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "booms",
+        "croak",
+        "seismitoad",
+        "victory",
+        "related",
+        "defeat",
+        "species"
+      ]
     },
     {
       "versionId": 39,
@@ -159,7 +399,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "tonic",
+        "crimson",
+        "diluting",
+        "mixing",
+        "virulent",
+        "types",
+        "boiling",
+        "toxin",
+        "contain",
+        "several",
+        "wild",
+        "days",
+        "grass"
+      ]
     }
   ],
   "similarPokemonIds": [

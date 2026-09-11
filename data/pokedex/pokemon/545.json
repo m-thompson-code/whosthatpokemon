@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/545.png",
   "entryCount": 10,
+  "entryTraits": [
+    "horns",
+    "claws",
+    "burrowing",
+    "poisonous",
+    "hunting",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "centiskorch",
+    "engage",
+    "victor",
+    "prevails",
+    "clasps",
+    "latches",
+    "relentlessly",
+    "jabbing",
+    "loser",
+    "deadly",
+    "meal",
+    "slamming",
+    "territorial",
+    "fierce",
+    "finishes",
+    "chases",
+    "stops",
+    "aggressive",
+    "dig",
+    "attacking",
+    "battles",
+    "quick",
+    "end",
+    "near",
+    "neck",
+    "movements",
+    "spikes",
+    "highly",
+    "moving",
+    "horns",
+    "toxic"
+  ],
   "color": "red",
   "shape": "armor",
   "habitat": null,
@@ -39,7 +80,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "prevails",
+        "relentlessly",
+        "chases",
+        "attacking",
+        "quick",
+        "movements",
+        "horns"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +100,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "burrowing",
+        "poisonous"
+      ],
+      "keywords": [
+        "aggressive",
+        "dig",
+        "near",
+        "neck",
+        "highly"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +120,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "clasps",
+        "deadly",
+        "finishes",
+        "stops",
+        "neck",
+        "moving"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +141,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "clasps",
+        "deadly",
+        "finishes",
+        "stops",
+        "neck",
+        "moving"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +162,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "clasps",
+        "deadly",
+        "finishes",
+        "stops",
+        "neck",
+        "moving"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +183,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "prevails",
+        "relentlessly",
+        "chases",
+        "attacking",
+        "quick",
+        "movements",
+        "horns"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +203,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "clasps",
+        "deadly",
+        "finishes",
+        "stops",
+        "neck",
+        "moving"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +224,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "prevails",
+        "relentlessly",
+        "chases",
+        "attacking",
+        "quick",
+        "movements",
+        "horns"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +244,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws’ toxic spikes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "latches",
+        "jabbing",
+        "slamming",
+        "neck",
+        "spikes",
+        "toxic"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +265,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "centiskorch",
+        "engage",
+        "victor",
+        "loser",
+        "meal",
+        "territorial",
+        "fierce",
+        "battles",
+        "end"
+      ]
     }
   ],
   "similarPokemonIds": [

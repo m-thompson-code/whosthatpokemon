@@ -10,6 +10,24 @@
   ],
   "imagePath": "/assets/pokemon/884.png",
   "entryCount": 2,
+  "entryTraits": [
+    "luminous"
+  ],
+  "entryKeywords": [
+    "composes",
+    "considerable",
+    "lightweight",
+    "rusts",
+    "polished",
+    "drawback",
+    "agility",
+    "resembles",
+    "dislikes",
+    "metal",
+    "rain",
+    "caves",
+    "special"
+  ],
   "color": "white",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +58,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its body resembles polished metal, and it’s both lightweight and strong. The only drawback is that it rusts easily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lightweight",
+        "rusts",
+        "polished",
+        "drawback",
+        "resembles",
+        "metal"
+      ]
     },
     {
       "versionId": 34,
@@ -48,7 +75,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "composes",
+        "considerable",
+        "agility",
+        "dislikes",
+        "metal",
+        "rain",
+        "caves",
+        "special"
+      ]
     }
   ],
   "similarPokemonIds": [

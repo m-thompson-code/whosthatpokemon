@@ -9,6 +9,91 @@
   ],
   "imagePath": "/assets/pokemon/115.png",
   "entryCount": 32,
+  "entryTraits": [
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "childless",
+    "comet",
+    "maternal",
+    "forgiveness",
+    "shouldn",
+    "zero",
+    "badly",
+    "youngster",
+    "infant",
+    "ventures",
+    "disturb",
+    "wounded",
+    "watching",
+    "jabs",
+    "attempt",
+    "outside",
+    "crushing",
+    "records",
+    "swift",
+    "parent",
+    "brave",
+    "baby",
+    "beat",
+    "death",
+    "raised",
+    "standing",
+    "harm",
+    "intimidates",
+    "playing",
+    "roughly",
+    "safe",
+    "adult",
+    "carrying",
+    "female",
+    "heard",
+    "offspring",
+    "wildly",
+    "keeping",
+    "violently",
+    "child",
+    "pouch",
+    "protective",
+    "nearby",
+    "love",
+    "punch",
+    "protected",
+    "play",
+    "mother",
+    "enraged",
+    "3",
+    "eye",
+    "skilled",
+    "sure",
+    "attacking",
+    "home",
+    "quick",
+    "raises",
+    "old",
+    "young",
+    "area",
+    "protects",
+    "feels",
+    "try",
+    "matter",
+    "rarely",
+    "cry",
+    "avoid",
+    "run",
+    "carries",
+    "catch",
+    "lost",
+    "human",
+    "keeps",
+    "across",
+    "lets",
+    "sleeps",
+    "belly",
+    "won",
+    "although",
+    "close"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "grassland",
@@ -38,7 +123,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "infant",
+        "ventures",
+        "pouch",
+        "protective",
+        "mother",
+        "3",
+        "old",
+        "rarely"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +142,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "infant",
+        "ventures",
+        "pouch",
+        "protective",
+        "mother",
+        "3",
+        "old",
+        "rarely"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +161,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pouch",
+        "protected",
+        "raises",
+        "young",
+        "run",
+        "belly",
+        "won"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +179,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "youngster",
+        "safe",
+        "adult",
+        "pouch",
+        "play",
+        "eye",
+        "young",
+        "keeps",
+        "belly",
+        "close"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +200,14 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "badly",
+        "wounded",
+        "young",
+        "matter"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +215,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "To avoid crushing the baby it carries in its pouch, it always sleeps standing up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "crushing",
+        "baby",
+        "standing",
+        "pouch",
+        "avoid",
+        "carries",
+        "sleeps"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +235,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby POKéMON’s parent is sure to be in the area, and it will become violently enraged at you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "disturb",
+        "attempt",
+        "parent",
+        "baby",
+        "playing",
+        "violently",
+        "enraged",
+        "sure",
+        "young",
+        "area",
+        "catch",
+        "across"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +258,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby POKéMON’s parent is sure to be in the area, and it will become violently enraged at you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "disturb",
+        "attempt",
+        "parent",
+        "baby",
+        "playing",
+        "violently",
+        "enraged",
+        "sure",
+        "young",
+        "area",
+        "catch",
+        "across"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +281,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "If you come across a young KANGASKHAN playing by itself, never try to catch it. The baby’s parent is sure to be in the area, and it will become violently enraged.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parent",
+        "baby",
+        "playing",
+        "violently",
+        "enraged",
+        "sure",
+        "young",
+        "area",
+        "try",
+        "catch",
+        "across"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +303,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The female raises its offspring in a pouch on its belly. It is skilled at attacking using COMET PUNCH.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "comet",
+        "female",
+        "offspring",
+        "pouch",
+        "punch",
+        "skilled",
+        "attacking",
+        "raises",
+        "belly"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +323,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The infant rarely ventures out of its mother’s protective pouch until it is three years old.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "infant",
+        "ventures",
+        "pouch",
+        "protective",
+        "mother",
+        "old",
+        "rarely"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +341,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baby",
+        "safe",
+        "offspring",
+        "pouch",
+        "play",
+        "raises",
+        "feels",
+        "lets",
+        "belly"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +361,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baby",
+        "safe",
+        "offspring",
+        "pouch",
+        "play",
+        "raises",
+        "feels",
+        "lets",
+        "belly"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +381,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baby",
+        "safe",
+        "offspring",
+        "pouch",
+        "play",
+        "raises",
+        "feels",
+        "lets",
+        "belly"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +401,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "youngster",
+        "safe",
+        "adult",
+        "pouch",
+        "play",
+        "eye",
+        "young",
+        "keeps",
+        "belly",
+        "close"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +422,14 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "badly",
+        "wounded",
+        "young",
+        "matter"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +437,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baby",
+        "safe",
+        "offspring",
+        "pouch",
+        "play",
+        "raises",
+        "feels",
+        "lets",
+        "belly"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +457,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baby",
+        "safe",
+        "offspring",
+        "pouch",
+        "play",
+        "raises",
+        "feels",
+        "lets",
+        "belly"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +477,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baby",
+        "safe",
+        "offspring",
+        "pouch",
+        "play",
+        "raises",
+        "feels",
+        "lets",
+        "belly"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +497,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baby",
+        "safe",
+        "offspring",
+        "pouch",
+        "play",
+        "raises",
+        "feels",
+        "lets",
+        "belly"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +517,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baby",
+        "safe",
+        "offspring",
+        "pouch",
+        "play",
+        "raises",
+        "feels",
+        "lets",
+        "belly"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +537,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "youngster",
+        "safe",
+        "adult",
+        "pouch",
+        "play",
+        "eye",
+        "young",
+        "keeps",
+        "belly",
+        "close"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +558,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon’s parent is sure to be in the area, and it will become violently enraged at you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "disturb",
+        "attempt",
+        "parent",
+        "baby",
+        "playing",
+        "violently",
+        "enraged",
+        "sure",
+        "young",
+        "area",
+        "catch",
+        "across"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +581,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon’s parent is sure to be in the area, and it will become violently enraged at you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "disturb",
+        "attempt",
+        "parent",
+        "baby",
+        "playing",
+        "violently",
+        "enraged",
+        "sure",
+        "young",
+        "area",
+        "catch",
+        "across"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +604,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Kangaskhan’s maternal love is so deep that it will brave death to protect its offspring.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "maternal",
+        "brave",
+        "death",
+        "offspring",
+        "love"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +620,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The child in its pouch leaves home after roughly three years. That is the only time the mother is heard to cry wildly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roughly",
+        "heard",
+        "wildly",
+        "child",
+        "pouch",
+        "mother",
+        "home",
+        "cry"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +639,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Kangaskhan protects its child by keeping it in its pouch. It has zero forgiveness for those who harm its child and will beat them down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "forgiveness",
+        "zero",
+        "beat",
+        "harm",
+        "keeping",
+        "child",
+        "pouch",
+        "protects"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +658,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "You shouldn’t get close to the child when it’s playing outside its mother’s pouch. Its mother is always nearby watching over it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shouldn",
+        "watching",
+        "outside",
+        "playing",
+        "child",
+        "pouch",
+        "nearby",
+        "mother",
+        "close"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +678,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Raises its young in its belly pouch. Won’t run from any fight to keep its young protected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pouch",
+        "protected",
+        "raises",
+        "young",
+        "run",
+        "belly",
+        "won"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +696,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Raises its young in its belly pouch. Won’t run from any fight to keep its young protected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pouch",
+        "protected",
+        "raises",
+        "young",
+        "run",
+        "belly",
+        "won"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +714,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "jabs",
+        "swift",
+        "baby",
+        "intimidates",
+        "carrying",
+        "pouch",
+        "quick",
+        "belly",
+        "although"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +734,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "There are records of a lost human child being raised by a childless Kangaskhan.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "childless",
+        "records",
+        "raised",
+        "child",
+        "lost",
+        "human"
+      ]
     }
   ],
   "similarPokemonIds": [

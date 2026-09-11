@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/936.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fiery",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "fortified",
+    "belonged",
+    "distinguished",
+    "clads",
+    "warrior",
+    "loyal",
+    "blazing",
+    "fireballs",
+    "incredibly",
+    "set",
+    "evolved",
+    "armor",
+    "shoots"
+  ],
   "color": "red",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +58,18 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "belonged",
+        "distinguished",
+        "warrior",
+        "loyal",
+        "incredibly",
+        "set",
+        "evolved",
+        "armor"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +77,19 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "This Pokémon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery",
+        "psychic"
+      ],
+      "keywords": [
+        "fortified",
+        "clads",
+        "blazing",
+        "fireballs",
+        "armor",
+        "shoots"
+      ]
     }
   ],
   "similarPokemonIds": [

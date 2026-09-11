@@ -9,6 +9,58 @@
   ],
   "imagePath": "/assets/pokemon/009.png",
   "entryCount": 28,
+  "entryTraits": [
+    "aquatic",
+    "shell",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "nail",
+    "tin",
+    "waterspouts",
+    "deliberately",
+    "recoil",
+    "hose",
+    "withdraw",
+    "accurate",
+    "bullets",
+    "crushes",
+    "protrude",
+    "brutal",
+    "pinch",
+    "cans",
+    "punching",
+    "160",
+    "accuracy",
+    "cannons",
+    "pressurized",
+    "empty",
+    "firmly",
+    "rocket",
+    "precisely",
+    "distance",
+    "tackles",
+    "jets",
+    "aim",
+    "fainting",
+    "ing",
+    "withstand",
+    "punch",
+    "spouts",
+    "shoot",
+    "blasts",
+    "shooting",
+    "fires",
+    "stand",
+    "strike",
+    "holes",
+    "plants",
+    "force",
+    "highly",
+    "capable",
+    "takes",
+    "heavy"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -39,7 +91,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "brutal",
+        "pressurized",
+        "tackles",
+        "jets"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +109,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "brutal",
+        "pressurized",
+        "tackles",
+        "jets"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +127,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "hose",
+        "aim",
+        "blasts",
+        "force",
+        "takes"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +146,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It deliberately makes itself heavy so it can with­ stand the recoil of the water jets it fires.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deliberately",
+        "recoil",
+        "jets",
+        "fires",
+        "stand",
+        "heavy"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +165,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The rocket cannons on its shell fire jets of water capable of punch­ ing holes through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "cannons",
+        "rocket",
+        "jets",
+        "ing",
+        "punch",
+        "holes",
+        "capable"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +187,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It firmly plants its feet on the ground before shooting water from the jets on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "firmly",
+        "jets",
+        "shooting",
+        "plants"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +204,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "accurate",
+        "bullets",
+        "protrude",
+        "cans",
+        "160",
+        "accuracy",
+        "empty",
+        "distance",
+        "spouts",
+        "shoot",
+        "strike"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +229,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "accurate",
+        "bullets",
+        "protrude",
+        "cans",
+        "160",
+        "accuracy",
+        "empty",
+        "distance",
+        "spouts",
+        "shoot",
+        "strike"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +254,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "nail",
+        "tin",
+        "waterspouts",
+        "accurate",
+        "bullets",
+        "protrude",
+        "cans",
+        "160",
+        "precisely",
+        "distance",
+        "highly"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +279,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "withdraw",
+        "crushes",
+        "pinch",
+        "fainting",
+        "heavy"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +297,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The pressurized water jets on this brutal POKéMON’s shell are used for high- speed tackles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "brutal",
+        "pressurized",
+        "tackles",
+        "jets"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +315,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "cannons",
+        "rocket",
+        "jets",
+        "punch",
+        "spouts"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +334,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "cannons",
+        "rocket",
+        "jets",
+        "punch",
+        "spouts"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +353,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "cannons",
+        "rocket",
+        "jets",
+        "punch",
+        "spouts"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +372,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deliberately",
+        "recoil",
+        "jets",
+        "withstand",
+        "fires",
+        "heavy"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +391,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "punching",
+        "cannons",
+        "rocket",
+        "jets",
+        "holes",
+        "capable"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +412,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "cannons",
+        "rocket",
+        "jets",
+        "punch",
+        "spouts"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +431,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "cannons",
+        "rocket",
+        "jets",
+        "punch",
+        "spouts"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +450,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "cannons",
+        "rocket",
+        "jets",
+        "punch",
+        "spouts"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +469,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "cannons",
+        "rocket",
+        "jets",
+        "punch",
+        "spouts"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +488,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "withdraw",
+        "crushes",
+        "pinch",
+        "fainting",
+        "heavy"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +506,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The pressurized water jets on this brutal Pokémon’s shell are used for high-speed tackles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "brutal",
+        "pressurized",
+        "tackles",
+        "jets"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +524,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "accurate",
+        "bullets",
+        "protrude",
+        "cans",
+        "160",
+        "accuracy",
+        "empty",
+        "distance",
+        "spouts",
+        "shoot",
+        "strike"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +549,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "accurate",
+        "bullets",
+        "protrude",
+        "cans",
+        "160",
+        "accuracy",
+        "empty",
+        "distance",
+        "spouts",
+        "shoot",
+        "strike"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +574,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "hose",
+        "aim",
+        "blasts",
+        "force",
+        "takes"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +593,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "hose",
+        "aim",
+        "blasts",
+        "force",
+        "takes"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +612,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "withdraw",
+        "crushes",
+        "pinch",
+        "fainting",
+        "heavy"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +630,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "punching",
+        "cannons",
+        "rocket",
+        "jets",
+        "holes",
+        "capable"
+      ]
     }
   ],
   "similarPokemonIds": [

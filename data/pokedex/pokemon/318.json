@@ -10,6 +10,85 @@
   ],
   "imagePath": "/assets/pokemon/318.png",
   "entryCount": 24,
+  "entryTraits": [
+    "fangs",
+    "territorial",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "chomp",
+    "cowards",
+    "dens",
+    "splinters",
+    "timidly",
+    "bared",
+    "costs",
+    "sailors",
+    "wooden",
+    "trace",
+    "faintest",
+    "rush",
+    "cowardly",
+    "intruders",
+    "join",
+    "course",
+    "invades",
+    "sink",
+    "sunk",
+    "intruder",
+    "school",
+    "basculin",
+    "mercilessly",
+    "boats",
+    "masse",
+    "pointed",
+    "swarms",
+    "rip",
+    "en",
+    "boat",
+    "hulls",
+    "ferocious",
+    "flees",
+    "jungles",
+    "ships",
+    "enter",
+    "sharply",
+    "rather",
+    "strongly",
+    "tear",
+    "five",
+    "packs",
+    "jungle",
+    "hunt",
+    "alone",
+    "destructive",
+    "swarm",
+    "soon",
+    "turn",
+    "vicious",
+    "timid",
+    "suddenly",
+    "massive",
+    "instead",
+    "waits",
+    "pack",
+    "rivers",
+    "fights",
+    "blood",
+    "finds",
+    "re",
+    "group",
+    "avoid",
+    "jaws",
+    "turns",
+    "spots",
+    "sturdy",
+    "scent",
+    "attacked",
+    "won",
+    "although",
+    "developed"
+  ],
   "color": "red",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +118,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "sunk",
+        "boats",
+        "pointed",
+        "rip",
+        "boat",
+        "hulls",
+        "sharply",
+        "strongly",
+        "destructive",
+        "pack",
+        "jaws",
+        "attacked",
+        "developed"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +144,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If anything invades CARVANHA’s territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this POKéMON turns suddenly timid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "intruder",
+        "pointed",
+        "tear",
+        "swarm",
+        "timid",
+        "suddenly",
+        "turns"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +166,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "CARVANHA attack ships in swarms, making them sink. Although it is said to be a very vicious POKéMON, it timidly flees as soon as it finds itself alone.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "timidly",
+        "sink",
+        "swarms",
+        "flees",
+        "ships",
+        "alone",
+        "soon",
+        "vicious",
+        "finds",
+        "although"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +187,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "course",
+        "swarms",
+        "jungles",
+        "enter",
+        "massive",
+        "rivers"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +207,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "course",
+        "swarms",
+        "jungles",
+        "enter",
+        "massive",
+        "rivers"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +227,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "boat",
+        "hulls",
+        "tear",
+        "swarm"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +246,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "boat",
+        "hulls",
+        "tear",
+        "swarm"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +265,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "boat",
+        "hulls",
+        "tear",
+        "swarm"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +284,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sink",
+        "boats",
+        "rip",
+        "hulls",
+        "packs",
+        "jungle",
+        "rivers"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +302,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sink",
+        "boats",
+        "rip",
+        "hulls",
+        "packs",
+        "jungle",
+        "rivers"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +320,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "boat",
+        "hulls",
+        "tear",
+        "swarm"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +339,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "boat",
+        "hulls",
+        "tear",
+        "swarm"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +358,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "boat",
+        "hulls",
+        "tear",
+        "swarm"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +377,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "boat",
+        "hulls",
+        "tear",
+        "swarm"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +396,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sink",
+        "boats",
+        "rip",
+        "hulls",
+        "packs",
+        "jungle",
+        "rivers"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +414,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "course",
+        "swarms",
+        "jungles",
+        "enter",
+        "massive",
+        "rivers"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +434,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Carvanha’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "sunk",
+        "boats",
+        "pointed",
+        "rip",
+        "boat",
+        "hulls",
+        "sharply",
+        "strongly",
+        "destructive",
+        "pack",
+        "jaws",
+        "attacked",
+        "developed"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +460,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If anything invades Carvanha’s territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this Pokémon turns suddenly timid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "invades",
+        "intruder",
+        "pointed",
+        "tear",
+        "swarm",
+        "timid",
+        "suddenly",
+        "turns"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +482,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Each school has its own territory. Any intruders are mercilessly attacked with fangs bared.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "territorial"
+      ],
+      "keywords": [
+        "bared",
+        "intruders",
+        "school",
+        "mercilessly",
+        "attacked"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +501,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "If they scent the faintest trace of blood, they rush to attack en masse. When alone, they’re rather cowardly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trace",
+        "faintest",
+        "rush",
+        "cowardly",
+        "masse",
+        "en",
+        "rather",
+        "alone",
+        "blood",
+        "re",
+        "scent"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +523,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They’re such cowards that they won’t hunt alone. When five or so of them get together, they suddenly turn ferocious!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "cowards",
+        "ferocious",
+        "five",
+        "hunt",
+        "alone",
+        "turn",
+        "suddenly",
+        "re",
+        "won"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +545,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "chomp",
+        "splinters",
+        "wooden",
+        "basculin",
+        "boats",
+        "fights",
+        "jaws",
+        "sturdy"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +566,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It won’t attack while it’s alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "join",
+        "alone",
+        "instead",
+        "waits",
+        "group",
+        "spots",
+        "won"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +586,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "dens",
+        "costs",
+        "sailors",
+        "avoid",
+        "jaws"
+      ]
     }
   ],
   "similarPokemonIds": [

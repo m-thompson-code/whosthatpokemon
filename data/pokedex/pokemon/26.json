@@ -9,6 +9,109 @@
   ],
   "imagePath": "/assets/pokemon/026.png",
   "entryCount": 33,
+  "entryTraits": [
+    "tail",
+    "electric",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "aggres",
+    "buildup",
+    "electri",
+    "incapacitate",
+    "lated",
+    "sacks",
+    "stimu",
+    "copperajah",
+    "elephant",
+    "exceeding",
+    "feisty",
+    "homeland",
+    "indian",
+    "sive",
+    "careless",
+    "excess",
+    "ity",
+    "stimulated",
+    "scorched",
+    "discharge",
+    "excessively",
+    "my",
+    "downing",
+    "planting",
+    "shocks",
+    "theory",
+    "volt",
+    "stress",
+    "unleashes",
+    "volts",
+    "slight",
+    "voltage",
+    "empty",
+    "exudes",
+    "protecting",
+    "shocked",
+    "bursts",
+    "calms",
+    "city",
+    "pikachu",
+    "usual",
+    "patches",
+    "sacs",
+    "behavior",
+    "loose",
+    "faint",
+    "agitated",
+    "pouches",
+    "amount",
+    "contact",
+    "getting",
+    "charged",
+    "several",
+    "serves",
+    "searches",
+    "don",
+    "aggressive",
+    "fully",
+    "cheeks",
+    "knock",
+    "electrical",
+    "occasionally",
+    "straight",
+    "charge",
+    "atmosphere",
+    "discharges",
+    "reach",
+    "glow",
+    "glows",
+    "causing",
+    "charges",
+    "builds",
+    "raises",
+    "single",
+    "stand",
+    "care",
+    "strike",
+    "size",
+    "instantly",
+    "avoid",
+    "run",
+    "actually",
+    "near",
+    "stored",
+    "turns",
+    "weak",
+    "electric",
+    "plants",
+    "100",
+    "dark",
+    "attacked",
+    "darkness",
+    "ears",
+    "stores",
+    "gather",
+    "muscles"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": "forest",
@@ -39,7 +142,14 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its long tail serves as a ground to protect itself from its own high voltage power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "voltage",
+        "serves"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +157,14 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its long tail serves as a ground to protect itself from its own high voltage power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "voltage",
+        "serves"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +172,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "feisty",
+        "glows",
+        "builds",
+        "dark"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +190,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When its electric­ ity builds, its muscles are stimu­ lated, and it be­ comes more aggres­ sive than usual.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "aggres",
+        "lated",
+        "stimu",
+        "sive",
+        "ity",
+        "usual",
+        "builds",
+        "electric",
+        "muscles"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +212,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "pouches",
+        "charged",
+        "fully",
+        "cheeks",
+        "straight",
+        "stand",
+        "electric",
+        "ears"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +233,22 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "If its electric pouches run empty, it raises its tail to gather electri­ city from the atmosphere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "electri",
+        "empty",
+        "city",
+        "pouches",
+        "atmosphere",
+        "raises",
+        "run",
+        "electric",
+        "gather"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +256,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "If the electrical sacks become excessively charged, RAICHU plants its tail in the ground and discharges. Scorched patches of ground will be found near this POKéMON’s nest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "sacks",
+        "scorched",
+        "excessively",
+        "patches",
+        "charged",
+        "electrical",
+        "discharges",
+        "near",
+        "plants"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +278,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. RAICHU searches for electricity by planting its tail in the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "planting",
+        "slight",
+        "exudes",
+        "searches",
+        "electrical",
+        "charge",
+        "glow",
+        "weak",
+        "darkness"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +302,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "excess",
+        "calms",
+        "behavior",
+        "aggressive",
+        "occasionally",
+        "discharges",
+        "avoid",
+        "turns",
+        "stores"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +324,22 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "elephant",
+        "indian",
+        "careless",
+        "volts",
+        "faint",
+        "contact",
+        "reach",
+        "charges",
+        "electric",
+        "100"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +347,14 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "voltage",
+        "serves"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +362,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "aggressive",
+        "discharges",
+        "turns"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +379,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "downing",
+        "volt",
+        "bursts",
+        "loose",
+        "several",
+        "size",
+        "instantly",
+        "100"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +400,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "protecting",
+        "shocked",
+        "getting",
+        "discharges"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +418,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "stimulated",
+        "usual",
+        "aggressive",
+        "builds",
+        "muscles"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +436,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "pouches",
+        "charged",
+        "fully",
+        "cheeks",
+        "straight",
+        "stand",
+        "electric",
+        "ears"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +457,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "protecting",
+        "shocked",
+        "getting",
+        "discharges"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +475,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "protecting",
+        "shocked",
+        "getting",
+        "discharges"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +493,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "protecting",
+        "shocked",
+        "getting",
+        "discharges"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +511,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "protecting",
+        "shocked",
+        "getting",
+        "discharges"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +529,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "stimulated",
+        "usual",
+        "aggressive",
+        "builds",
+        "muscles"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +547,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "downing",
+        "volt",
+        "bursts",
+        "loose",
+        "several",
+        "size",
+        "instantly",
+        "100"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +568,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon’s nest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "scorched",
+        "excessively",
+        "patches",
+        "sacs",
+        "charged",
+        "electrical",
+        "discharges",
+        "near",
+        "plants"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +590,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu plants its tail in the ground to discharge electricity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "discharge",
+        "slight",
+        "exudes",
+        "electrical",
+        "charge",
+        "glow",
+        "weak",
+        "plants",
+        "darkness"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +614,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "elephant",
+        "indian",
+        "shocks",
+        "unleashes",
+        "volts",
+        "agitated",
+        "knock",
+        "reach",
+        "electric",
+        "100"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +637,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "aggressive",
+        "care",
+        "avoid",
+        "stored",
+        "attacked"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +655,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "As electricity builds up inside its body, it becomes more aggressive. One theory is that the electricity buildup is actually causing stress.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "buildup",
+        "theory",
+        "stress",
+        "aggressive",
+        "causing",
+        "builds",
+        "actually"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +675,12 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Because so many Trainers like the way Pikachu looks, you don’t see this Pokémon very often.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pikachu",
+        "don"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +688,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "feisty",
+        "glows",
+        "builds",
+        "dark"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +706,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "feisty",
+        "glows",
+        "builds",
+        "dark"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +724,14 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "voltage",
+        "serves"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +739,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "empty",
+        "pouches",
+        "atmosphere",
+        "raises",
+        "run",
+        "electric",
+        "gather"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +760,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It can discharge bursts of electricity exceeding 100,000 volts— a single strike with that amount of power would incapacitate one of the Copperajah of my homeland.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "incapacitate",
+        "copperajah",
+        "exceeding",
+        "homeland",
+        "discharge",
+        "my",
+        "volts",
+        "bursts",
+        "amount",
+        "single",
+        "strike",
+        "100"
+      ]
     }
   ],
   "similarPokemonIds": [

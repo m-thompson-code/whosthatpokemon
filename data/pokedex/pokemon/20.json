@@ -9,6 +9,89 @@
   ],
   "imagePath": "/assets/pokemon/020.png",
   "entryCount": 30,
+  "entryTraits": [
+    "aquatic",
+    "hunting",
+    "fangs",
+    "arms"
+  ],
+  "entryKeywords": [
+    "kers",
+    "maintaining",
+    "pare",
+    "whis",
+    "es",
+    "toes",
+    "webs",
+    "fled",
+    "island",
+    "cinder",
+    "essential",
+    "slows",
+    "suggest",
+    "whittles",
+    "gnaw",
+    "gnawing",
+    "webbed",
+    "flippers",
+    "gnaws",
+    "cross",
+    "surprisingly",
+    "topple",
+    "buildings",
+    "oceans",
+    "logs",
+    "ease",
+    "maintain",
+    "whiskers",
+    "ing",
+    "enabling",
+    "friendly",
+    "chew",
+    "steadily",
+    "cut",
+    "concrete",
+    "act",
+    "balance",
+    "disposition",
+    "hunt",
+    "swimmer",
+    "alola",
+    "searches",
+    "don",
+    "houses",
+    "wide",
+    "hand",
+    "apart",
+    "enable",
+    "hind",
+    "let",
+    "growing",
+    "clean",
+    "violent",
+    "help",
+    "rivers",
+    "angry",
+    "bite",
+    "say",
+    "areas",
+    "matter",
+    "touch",
+    "swim",
+    "rear",
+    "far",
+    "walls",
+    "constantly",
+    "stop",
+    "sturdy",
+    "across",
+    "tough",
+    "search",
+    "face",
+    "close",
+    "rocks",
+    "apparently"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +121,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "kers",
+        "whis",
+        "slows",
+        "maintain",
+        "cut",
+        "balance",
+        "apparently"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +139,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "kers",
+        "whis",
+        "slows",
+        "maintain",
+        "cut",
+        "balance",
+        "apparently"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +157,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "webbed",
+        "flippers",
+        "act",
+        "hunt",
+        "hind",
+        "rivers",
+        "swim"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +178,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnaw­ ing on them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnaw",
+        "gnaws",
+        "topple",
+        "buildings",
+        "ing",
+        "concrete",
+        "tough"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +198,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its whiskers help it to maintain balance. Its fangs never stop grow­ ing, so it gnaws to pare them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "pare",
+        "gnaws",
+        "maintain",
+        "whiskers",
+        "ing",
+        "balance",
+        "help",
+        "stop"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +219,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The webs on its hind legs enable it to cross rivers. It search­ es wide areas for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "es",
+        "webs",
+        "cross",
+        "wide",
+        "enable",
+        "hind",
+        "rivers",
+        "areas",
+        "search"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +239,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "RATICATE’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnaws",
+        "logs",
+        "chew",
+        "steadily",
+        "houses",
+        "walls",
+        "sturdy",
+        "rocks"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +260,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "RATICATE’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnaws",
+        "logs",
+        "chew",
+        "steadily",
+        "houses",
+        "walls",
+        "sturdy",
+        "rocks"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +281,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A RATICATE’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnaws",
+        "logs",
+        "chew",
+        "steadily",
+        "houses",
+        "walls",
+        "sturdy",
+        "rocks"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +302,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its rear feet have three toes each. They are webbed, enabling it to swim across rivers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "toes",
+        "webbed",
+        "enabling",
+        "rivers",
+        "swim",
+        "rear",
+        "across"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +322,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slows",
+        "maintain",
+        "whiskers",
+        "cut",
+        "balance",
+        "apparently"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +339,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "cinder",
+        "whittles",
+        "gnawing",
+        "chew",
+        "apart",
+        "growing",
+        "walls",
+        "constantly"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +360,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "cinder",
+        "whittles",
+        "gnawing",
+        "chew",
+        "apart",
+        "growing",
+        "walls",
+        "constantly"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +381,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "cinder",
+        "whittles",
+        "gnawing",
+        "chew",
+        "apart",
+        "growing",
+        "walls",
+        "constantly"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +402,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnawing",
+        "gnaws",
+        "topple",
+        "buildings",
+        "concrete",
+        "tough"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +421,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "pare",
+        "gnaws",
+        "maintain",
+        "whiskers",
+        "balance",
+        "growing",
+        "help",
+        "stop"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +442,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "cinder",
+        "whittles",
+        "gnawing",
+        "chew",
+        "apart",
+        "growing",
+        "walls",
+        "constantly"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +463,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "cinder",
+        "whittles",
+        "gnawing",
+        "chew",
+        "apart",
+        "growing",
+        "walls",
+        "constantly"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +484,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnaw",
+        "surprisingly",
+        "ease",
+        "concrete",
+        "violent"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +502,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnaw",
+        "surprisingly",
+        "ease",
+        "concrete",
+        "violent"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +520,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "cinder",
+        "whittles",
+        "gnawing",
+        "chew",
+        "apart",
+        "growing",
+        "walls",
+        "constantly"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +541,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The webs on its hind legs enable it to cross rivers. It searches wide areas for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "webs",
+        "cross",
+        "searches",
+        "wide",
+        "enable",
+        "hind",
+        "rivers",
+        "areas"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +560,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnaws",
+        "logs",
+        "chew",
+        "steadily",
+        "houses",
+        "walls",
+        "sturdy",
+        "rocks"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +581,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "gnaws",
+        "logs",
+        "chew",
+        "steadily",
+        "houses",
+        "walls",
+        "sturdy",
+        "rocks"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +602,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its hind feet are webbed, so it’s a strong swimmer. It can cross rivers and sometimes even oceans.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "webbed",
+        "cross",
+        "oceans",
+        "swimmer",
+        "hind",
+        "rivers"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +619,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its disposition is far more violent than its looks would suggest. Don’t let your hand get too close to its face, as it could bite your hand clean off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "suggest",
+        "disposition",
+        "don",
+        "hand",
+        "let",
+        "clean",
+        "violent",
+        "bite",
+        "far",
+        "face",
+        "close"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +643,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fled",
+        "island",
+        "webbed",
+        "alola",
+        "hind",
+        "say",
+        "swim"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +663,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "maintaining",
+        "essential",
+        "whiskers",
+        "friendly",
+        "balance",
+        "angry",
+        "bite",
+        "matter",
+        "touch"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +683,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "webbed",
+        "flippers",
+        "act",
+        "hunt",
+        "hind",
+        "rivers",
+        "swim"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +704,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "webbed",
+        "flippers",
+        "act",
+        "hunt",
+        "hind",
+        "rivers",
+        "swim"
+      ]
     }
   ],
   "similarPokemonIds": [

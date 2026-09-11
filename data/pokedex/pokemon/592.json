@@ -10,6 +10,49 @@
   ],
   "imagePath": "/assets/pokemon/592.png",
   "entryCount": 12,
+  "entryTraits": [
+    "aquatic",
+    "arms",
+    "hunting",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "deeps",
+    "residents",
+    "envelops",
+    "drown",
+    "veillike",
+    "lairs",
+    "dragged",
+    "drags",
+    "paralyzes",
+    "stun",
+    "sunken",
+    "wrap",
+    "sinks",
+    "veil",
+    "paralyze",
+    "city",
+    "drag",
+    "wrapped",
+    "below",
+    "return",
+    "floor",
+    "changed",
+    "five",
+    "draws",
+    "legend",
+    "depths",
+    "invisible",
+    "wraps",
+    "thin",
+    "miles",
+    "causes",
+    "ocean",
+    "surface",
+    "spikes",
+    "swimming"
+  ],
   "color": "white",
   "shape": "tentacles",
   "habitat": null,
@@ -39,7 +82,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "sinks",
+        "veil",
+        "wrapped",
+        "floor",
+        "thin",
+        "ocean"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +102,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "lairs",
+        "paralyze",
+        "drag",
+        "below",
+        "five",
+        "miles",
+        "surface"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +123,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "dragged",
+        "stun",
+        "wrap",
+        "veil",
+        "below",
+        "return",
+        "miles",
+        "surface"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +144,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "dragged",
+        "stun",
+        "wrap",
+        "veil",
+        "below",
+        "return",
+        "miles",
+        "surface"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +165,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "lairs",
+        "paralyze",
+        "drag",
+        "below",
+        "five",
+        "miles",
+        "surface"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +186,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "dragged",
+        "stun",
+        "wrap",
+        "veil",
+        "below",
+        "return",
+        "miles",
+        "surface"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +207,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "lairs",
+        "paralyze",
+        "drag",
+        "below",
+        "five",
+        "miles",
+        "surface"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +228,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "dragged",
+        "stun",
+        "wrap",
+        "veil",
+        "below",
+        "return",
+        "miles",
+        "surface"
+      ]
     },
     {
       "versionId": 29,
@@ -103,7 +249,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "veillike",
+        "drags",
+        "depths",
+        "wraps",
+        "ocean",
+        "swimming"
+      ]
     },
     {
       "versionId": 30,
@@ -111,7 +270,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "poisonous"
+      ],
+      "keywords": [
+        "drown",
+        "veillike",
+        "paralyzes",
+        "invisible",
+        "causes",
+        "spikes"
+      ]
     },
     {
       "versionId": 33,
@@ -119,7 +290,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean’s surface.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "deeps",
+        "envelops",
+        "veillike",
+        "below",
+        "five",
+        "draws",
+        "miles",
+        "ocean",
+        "surface"
+      ]
     },
     {
       "versionId": 34,
@@ -127,7 +314,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Legend has it that the residents of a sunken ancient city changed into these Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "residents",
+        "sunken",
+        "city",
+        "changed",
+        "legend"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,66 @@
   ],
   "imagePath": "/assets/pokemon/368.png",
   "entryCount": 20,
+  "entryTraits": [
+    "aquatic",
+    "hunting",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "inserts",
+    "siphons",
+    "exquisitely",
+    "picture",
+    "tubular",
+    "elegance",
+    "leftover",
+    "bodily",
+    "meat",
+    "blindingly",
+    "cruel",
+    "ordinary",
+    "unharmed",
+    "sinks",
+    "springtime",
+    "coloration",
+    "built",
+    "southern",
+    "extreme",
+    "seaweed",
+    "temperatures",
+    "vivid",
+    "drains",
+    "feeding",
+    "elegant",
+    "pink",
+    "rise",
+    "finishes",
+    "incredible",
+    "beauty",
+    "pressure",
+    "withstand",
+    "sucks",
+    "enormous",
+    "alola",
+    "depths",
+    "fluids",
+    "seafloor",
+    "feeds",
+    "color",
+    "bottom",
+    "between",
+    "almost",
+    "reason",
+    "thin",
+    "turns",
+    "changes",
+    "spots",
+    "although",
+    "swimming",
+    "rocks",
+    "seas",
+    "temperature"
+  ],
   "color": "pink",
   "shape": "squiggle",
   "habitat": "sea",
@@ -38,7 +98,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this POKéMON’s body is unharmed by ordinary attacks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ordinary",
+        "unharmed",
+        "built",
+        "southern",
+        "extreme",
+        "incredible",
+        "pressure",
+        "withstand",
+        "enormous",
+        "depths",
+        "seas"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +122,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Although GOREBYSS is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this POKéMON inserts its thin mouth into the prey’s body and drains the prey of its body fluids.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "inserts",
+        "picture",
+        "elegance",
+        "cruel",
+        "drains",
+        "beauty",
+        "fluids",
+        "thin",
+        "spots",
+        "although",
+        "swimming"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +147,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A GOREBYSS siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "siphons",
+        "tubular",
+        "vivid",
+        "feeding",
+        "pink",
+        "finishes",
+        "fluids",
+        "color",
+        "thin",
+        "turns"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +171,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exquisitely",
+        "seaweed",
+        "elegant",
+        "feeds",
+        "between",
+        "thin",
+        "swimming",
+        "rocks"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +192,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exquisitely",
+        "seaweed",
+        "elegant",
+        "feeds",
+        "between",
+        "thin",
+        "swimming",
+        "rocks"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +213,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "vivid",
+        "pink",
+        "bottom",
+        "reason",
+        "turns"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +232,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "vivid",
+        "pink",
+        "bottom",
+        "reason",
+        "turns"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +251,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "vivid",
+        "pink",
+        "bottom",
+        "reason",
+        "turns"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +270,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its pink body becomes more vivid with the rise of water temperatures in the springtime.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "temperatures",
+        "vivid",
+        "pink",
+        "rise"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +288,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its pink body becomes more vivid with the rise of water temperatures in the springtime.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "temperatures",
+        "vivid",
+        "pink",
+        "rise"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +306,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "vivid",
+        "pink",
+        "bottom",
+        "reason",
+        "turns"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +325,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "vivid",
+        "pink",
+        "bottom",
+        "reason",
+        "turns"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +344,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "vivid",
+        "pink",
+        "bottom",
+        "reason",
+        "turns"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +363,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "vivid",
+        "pink",
+        "bottom",
+        "reason",
+        "turns"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +382,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "springtime",
+        "vivid",
+        "pink",
+        "bottom",
+        "reason",
+        "turns"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +401,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exquisitely",
+        "seaweed",
+        "elegant",
+        "feeds",
+        "between",
+        "thin",
+        "swimming",
+        "rocks"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +422,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Gorebyss lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this Pokémon’s body is unharmed by ordinary attacks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ordinary",
+        "unharmed",
+        "built",
+        "southern",
+        "extreme",
+        "incredible",
+        "pressure",
+        "withstand",
+        "enormous",
+        "depths",
+        "seas"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +446,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Although Gorebyss is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this Pokémon inserts its thin mouth into the prey’s body and drains the prey of its body fluids.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "inserts",
+        "picture",
+        "elegance",
+        "cruel",
+        "drains",
+        "beauty",
+        "fluids",
+        "thin",
+        "spots",
+        "although",
+        "swimming"
+      ]
     },
     {
       "versionId": 29,
@@ -182,7 +471,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The color of its body changes with the water temperature. The coloration of Gorebyss in Alola is almost blindingly vivid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "blindingly",
+        "coloration",
+        "vivid",
+        "alola",
+        "color",
+        "almost",
+        "changes",
+        "temperature"
+      ]
     },
     {
       "versionId": 30,
@@ -190,7 +492,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "leftover",
+        "bodily",
+        "meat",
+        "sinks",
+        "sucks",
+        "fluids",
+        "seafloor"
+      ]
     }
   ],
   "similarPokemonIds": [

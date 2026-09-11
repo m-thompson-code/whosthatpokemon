@@ -9,6 +9,78 @@
   ],
   "imagePath": "/assets/pokemon/328.png",
   "entryCount": 24,
+  "entryTraits": [
+    "desert-dwelling",
+    "hunting",
+    "aquatic",
+    "burrowing",
+    "nocturnal",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "funnel",
+    "access",
+    "flips",
+    "hunter",
+    "moments",
+    "obstruct",
+    "seize",
+    "tumble",
+    "sandile",
+    "sloping",
+    "bowl",
+    "patient",
+    "sloped",
+    "crunch",
+    "inescapable",
+    "upright",
+    "conical",
+    "tumbling",
+    "traps",
+    "path",
+    "trap",
+    "deserts",
+    "lying",
+    "awaits",
+    "patiently",
+    "week",
+    "pit",
+    "caught",
+    "double",
+    "lies",
+    "chance",
+    "wait",
+    "dug",
+    "getting",
+    "giant",
+    "thing",
+    "fallen",
+    "crush",
+    "beneath",
+    "arid",
+    "tips",
+    "nests",
+    "spot",
+    "waits",
+    "builds",
+    "onto",
+    "bottom",
+    "falls",
+    "escape",
+    "digs",
+    "jaws",
+    "desert",
+    "shaped",
+    "something",
+    "boulders",
+    "sand",
+    "strength",
+    "eating",
+    "whole",
+    "big",
+    "heavy",
+    "rocks"
+  ],
   "color": "brown",
   "shape": "armor",
   "habitat": "rough-terrain",
@@ -39,7 +111,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "TRAPINCH’s nest is a sloped, bowl-like pit dug in sand. This POKéMON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "tumble",
+        "bowl",
+        "sloped",
+        "patiently",
+        "pit",
+        "dug",
+        "giant",
+        "crush",
+        "waits",
+        "jaws",
+        "boulders",
+        "sand",
+        "strength"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +138,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "TRAPINCH is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This POKéMON can go a whole week without access to any water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "desert-dwelling",
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "access",
+        "hunter",
+        "patient",
+        "inescapable",
+        "tumbling",
+        "week",
+        "pit",
+        "waits",
+        "digs",
+        "desert",
+        "whole"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +165,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crunch",
+        "upright",
+        "getting",
+        "tips",
+        "onto",
+        "jaws",
+        "boulders",
+        "big"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +184,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "sloping",
+        "trap",
+        "deserts",
+        "awaits",
+        "patiently",
+        "pit",
+        "arid",
+        "sand"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +206,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "sloping",
+        "trap",
+        "deserts",
+        "awaits",
+        "patiently",
+        "pit",
+        "arid",
+        "sand"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +228,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom",
+        "desert",
+        "sand"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +250,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom",
+        "desert",
+        "sand"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +272,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom",
+        "desert",
+        "sand"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +294,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "bowl",
+        "sloped",
+        "pit",
+        "fallen",
+        "escape",
+        "desert",
+        "something"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +314,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "bowl",
+        "sloped",
+        "pit",
+        "fallen",
+        "escape",
+        "desert",
+        "something"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +334,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom",
+        "desert",
+        "sand"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +356,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom",
+        "desert",
+        "sand"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +378,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "inescapable",
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +398,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "inescapable",
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +418,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "sloping",
+        "trap",
+        "deserts",
+        "awaits",
+        "patiently",
+        "pit",
+        "arid",
+        "sand"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +440,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "inescapable",
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +460,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Trapinch’s nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "tumble",
+        "bowl",
+        "sloped",
+        "patiently",
+        "pit",
+        "dug",
+        "giant",
+        "crush",
+        "waits",
+        "jaws",
+        "boulders",
+        "sand",
+        "strength"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +487,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pokémon can go a whole week without access to any water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "desert-dwelling",
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "access",
+        "hunter",
+        "patient",
+        "inescapable",
+        "tumbling",
+        "week",
+        "pit",
+        "waits",
+        "digs",
+        "desert",
+        "whole"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +514,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It can live for a week without eating a thing. It waits patiently at the bottom of its nest for prey to appear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "patiently",
+        "week",
+        "thing",
+        "waits",
+        "bottom",
+        "eating"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +533,24 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "funnel",
+        "obstruct",
+        "path",
+        "giant",
+        "crush",
+        "builds",
+        "digs",
+        "jaws",
+        "shaped",
+        "sand",
+        "rocks"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +558,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its jaws are strong enough to crush rocks but so heavy that it can’t get up if it flips over. Sandile seize those moments as their chance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flips",
+        "moments",
+        "seize",
+        "sandile",
+        "chance",
+        "crush",
+        "jaws",
+        "heavy",
+        "rocks"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +578,28 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It builds nests that double as traps, lying in wait for its prey to get caught. When night falls, it digs itself a spot beneath the sand to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing",
+        "hunting",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "traps",
+        "lying",
+        "caught",
+        "double",
+        "wait",
+        "beneath",
+        "nests",
+        "spot",
+        "builds",
+        "falls",
+        "digs",
+        "sand"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +607,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "bowl",
+        "sloped",
+        "pit",
+        "fallen",
+        "escape",
+        "desert",
+        "something"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +627,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "inescapable",
+        "conical",
+        "tumbling",
+        "pit",
+        "lies",
+        "wait",
+        "bottom"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,53 @@
   ],
   "imagePath": "/assets/pokemon/780.png",
   "entryCount": 6,
+  "entryTraits": [
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "gale",
+    "moms",
+    "stirs",
+    "bullied",
+    "worry",
+    "flattens",
+    "personality",
+    "descends",
+    "height",
+    "calls",
+    "town",
+    "compassionate",
+    "kids",
+    "bully",
+    "destroys",
+    "towns",
+    "below",
+    "occasions",
+    "plays",
+    "friendly",
+    "house",
+    "angered",
+    "child",
+    "completely",
+    "don",
+    "play",
+    "nearly",
+    "happens",
+    "burn",
+    "home",
+    "intense",
+    "find",
+    "children",
+    "breath",
+    "friends",
+    "likes",
+    "re",
+    "rare",
+    "everything",
+    "miles",
+    "living",
+    "surroundings"
+  ],
   "color": "white",
   "shape": "squiggle",
   "habitat": null,
@@ -40,7 +87,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "personality",
+        "compassionate",
+        "destroys",
+        "angered",
+        "completely",
+        "intense",
+        "breath",
+        "surroundings"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +106,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "town",
+        "friendly",
+        "play",
+        "children",
+        "likes"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +124,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If a child it has made friends with is bullied, Drampa will find the bully’s house and burn it to the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bullied",
+        "bully",
+        "house",
+        "child",
+        "burn",
+        "find",
+        "friends"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +142,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It appears in towns and plays with the children. Drampa will protect kids when they’re in danger, so their moms don’t have to worry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "moms",
+        "worry",
+        "kids",
+        "towns",
+        "plays",
+        "don",
+        "children",
+        "re"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +161,25 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "descends",
+        "height",
+        "calls",
+        "towns",
+        "below",
+        "occasions",
+        "play",
+        "nearly",
+        "home",
+        "children",
+        "rare",
+        "miles",
+        "living"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +187,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "gale",
+        "stirs",
+        "flattens",
+        "friendly",
+        "angered",
+        "happens",
+        "everything"
+      ]
     }
   ],
   "similarPokemonIds": [

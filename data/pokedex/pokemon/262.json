@@ -9,6 +9,50 @@
   ],
   "imagePath": "/assets/pokemon/262.png",
   "entryCount": 18,
+  "entryTraits": [
+    "fangs",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "arises",
+    "flattens",
+    "growl",
+    "defy",
+    "obvious",
+    "recognizes",
+    "compels",
+    "disobey",
+    "coordinated",
+    "skill",
+    "savagely",
+    "defeat",
+    "teamwork",
+    "pointed",
+    "ten",
+    "orders",
+    "preparing",
+    "obey",
+    "commands",
+    "memory",
+    "superior",
+    "perfectly",
+    "possess",
+    "sharply",
+    "behavior",
+    "deeply",
+    "travel",
+    "packs",
+    "act",
+    "leader",
+    "chases",
+    "signals",
+    "wild",
+    "skilled",
+    "pack",
+    "bite",
+    "starts",
+    "living"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +82,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "flattens",
+        "growl",
+        "obvious",
+        "savagely",
+        "pointed",
+        "preparing",
+        "sharply",
+        "deeply",
+        "signals",
+        "bite",
+        "starts"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +106,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MIGHTYENA travel and act as a pack in the wild. The memory of its life in the wild compels the POKéMON to obey only those TRAINERS that it recognizes to possess superior skill.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "recognizes",
+        "compels",
+        "skill",
+        "obey",
+        "memory",
+        "superior",
+        "possess",
+        "travel",
+        "act",
+        "wild",
+        "pack"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +128,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "In the wild, MIGHTYENA live in a pack. They never defy their leader’s orders. They defeat foes with perfectly coordinated teamwork.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "defy",
+        "coordinated",
+        "defeat",
+        "teamwork",
+        "orders",
+        "perfectly",
+        "leader",
+        "wild",
+        "pack"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +148,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It will always obey the commands of a skilled TRAINER. Its behavior arises from its living in packs in ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "arises",
+        "obey",
+        "commands",
+        "behavior",
+        "packs",
+        "skilled",
+        "living"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +166,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It will always obey the commands of a skilled TRAINER. Its behavior arises from its living in packs in ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "arises",
+        "obey",
+        "commands",
+        "behavior",
+        "packs",
+        "skilled",
+        "living"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +184,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disobey",
+        "commands",
+        "chases",
+        "skilled",
+        "pack"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +202,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disobey",
+        "commands",
+        "chases",
+        "skilled",
+        "pack"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +220,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disobey",
+        "commands",
+        "chases",
+        "skilled",
+        "pack"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +238,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "coordinated",
+        "defeat",
+        "teamwork",
+        "ten",
+        "perfectly",
+        "chases",
+        "pack"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +258,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "coordinated",
+        "defeat",
+        "teamwork",
+        "ten",
+        "perfectly",
+        "chases",
+        "pack"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +278,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disobey",
+        "commands",
+        "chases",
+        "skilled",
+        "pack"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +296,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disobey",
+        "commands",
+        "chases",
+        "skilled",
+        "pack"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +314,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disobey",
+        "commands",
+        "chases",
+        "skilled",
+        "pack"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +332,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disobey",
+        "commands",
+        "chases",
+        "skilled",
+        "pack"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +350,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "arises",
+        "obey",
+        "commands",
+        "behavior",
+        "packs",
+        "skilled",
+        "living"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +368,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "coordinated",
+        "defeat",
+        "teamwork",
+        "ten",
+        "perfectly",
+        "chases",
+        "pack"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +388,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pokémon will bite savagely with its sharply pointed fangs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "flattens",
+        "growl",
+        "obvious",
+        "savagely",
+        "pointed",
+        "preparing",
+        "sharply",
+        "deeply",
+        "signals",
+        "bite",
+        "starts"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +412,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pokémon to obey only those Trainers that it recognizes to possess superior skill.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "recognizes",
+        "compels",
+        "skill",
+        "obey",
+        "memory",
+        "superior",
+        "possess",
+        "travel",
+        "act",
+        "wild",
+        "pack"
+      ]
     }
   ],
   "similarPokemonIds": [

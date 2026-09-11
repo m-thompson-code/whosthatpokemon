@@ -10,6 +10,109 @@
   ],
   "imagePath": "/assets/pokemon/198.png",
   "entryCount": 26,
+  "entryTraits": [
+    "nocturnal",
+    "mountain-dwelling",
+    "wings"
+  ],
+  "entryKeywords": [
+    "chant",
+    "noted",
+    "shunned",
+    "twilight",
+    "workrum",
+    "occurrences",
+    "chased",
+    "expression",
+    "stashes",
+    "detest",
+    "gabite",
+    "unlucky",
+    "alleged",
+    "bearer",
+    "bearers",
+    "disliked",
+    "generally",
+    "glitters",
+    "pursuer",
+    "collectors",
+    "incantation",
+    "misfortune",
+    "sparkle",
+    "leading",
+    "wing",
+    "loathed",
+    "presents",
+    "travelers",
+    "weakness",
+    "widely",
+    "jewels",
+    "awaken",
+    "interest",
+    "loot",
+    "meowth",
+    "ominous",
+    "sparkles",
+    "treasure",
+    "boss",
+    "attacker",
+    "told",
+    "luck",
+    "paths",
+    "fortune",
+    "trails",
+    "ve",
+    "dusk",
+    "spotted",
+    "crossing",
+    "ill",
+    "lures",
+    "secret",
+    "women",
+    "sneak",
+    "symbol",
+    "location",
+    "lure",
+    "presence",
+    "unwary",
+    "chasing",
+    "creature",
+    "lose",
+    "shiny",
+    "rings",
+    "i",
+    "object",
+    "bad",
+    "shine",
+    "protective",
+    "feared",
+    "searches",
+    "don",
+    "objects",
+    "seeing",
+    "shows",
+    "believed",
+    "person",
+    "yet",
+    "nests",
+    "steal",
+    "upon",
+    "bring",
+    "home",
+    "onto",
+    "carry",
+    "finds",
+    "try",
+    "near",
+    "forests",
+    "lost",
+    "another",
+    "dark",
+    "mountain",
+    "hides",
+    "search",
+    "close"
+  ],
   "color": "black",
   "shape": "wings",
   "habitat": "forest",
@@ -39,7 +142,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "misfortune",
+        "loathed",
+        "feared",
+        "believed",
+        "bring"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +160,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "chased",
+        "attacker",
+        "trails",
+        "lures",
+        "onto",
+        "lost",
+        "dark",
+        "mountain"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +181,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It hides any shiny object it finds in a secret location. MURKROW and MEOWTH loot one another's stashes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "stashes",
+        "loot",
+        "meowth",
+        "secret",
+        "location",
+        "shiny",
+        "object",
+        "finds",
+        "another",
+        "hides"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +202,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MURKROW was feared and loathed as the alleged bearer of ill fortune. This POKéMON shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "alleged",
+        "bearer",
+        "glitters",
+        "loathed",
+        "interest",
+        "sparkles",
+        "fortune",
+        "ill",
+        "women",
+        "rings",
+        "feared",
+        "shows",
+        "steal",
+        "try"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +227,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MURKROW was feared and loathed as the alleged bearer of ill fortune. This POKéMON shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "alleged",
+        "bearer",
+        "glitters",
+        "loathed",
+        "interest",
+        "sparkles",
+        "fortune",
+        "ill",
+        "women",
+        "rings",
+        "feared",
+        "shows",
+        "steal",
+        "try"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +252,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "MURKROW were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "alleged",
+        "bearers",
+        "interest",
+        "sparkles",
+        "fortune",
+        "ill",
+        "women",
+        "rings",
+        "feared",
+        "shows",
+        "steal",
+        "try"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +275,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "chased",
+        "attacker",
+        "trails",
+        "lures",
+        "onto",
+        "lost",
+        "dark",
+        "mountain"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +296,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "misfortune",
+        "loathed",
+        "feared",
+        "believed",
+        "bring"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +314,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is believed that seeing this Pokémon at night will bring about ominous occurrences.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "occurrences",
+        "ominous",
+        "seeing",
+        "believed",
+        "bring"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +332,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It appears near travelers to lure them into deep forests. It is said to carry misfortune.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "misfortune",
+        "travelers",
+        "lure",
+        "carry",
+        "near",
+        "forests"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +349,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "pursuer",
+        "trails",
+        "spotted",
+        "lure",
+        "unwary",
+        "chasing",
+        "lose",
+        "person",
+        "mountain"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +371,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "misfortune",
+        "loathed",
+        "feared",
+        "believed",
+        "bring"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +389,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "chased",
+        "attacker",
+        "trails",
+        "lures",
+        "onto",
+        "lost",
+        "dark",
+        "mountain"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +410,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "pursuer",
+        "trails",
+        "spotted",
+        "lure",
+        "unwary",
+        "chasing",
+        "lose",
+        "person",
+        "mountain"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +432,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "pursuer",
+        "trails",
+        "spotted",
+        "lure",
+        "unwary",
+        "chasing",
+        "lose",
+        "person",
+        "mountain"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +454,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "If spotted, it will lure an unwary person into chasing it then lose the pursuer on mountain trails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "pursuer",
+        "trails",
+        "spotted",
+        "lure",
+        "unwary",
+        "chasing",
+        "lose",
+        "person",
+        "mountain"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +476,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "If spotted, it will lure an unwary person into chasing it then lose the pursuer on mountain trails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "pursuer",
+        "trails",
+        "spotted",
+        "lure",
+        "unwary",
+        "chasing",
+        "lose",
+        "person",
+        "mountain"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +498,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It hides any shiny object it finds in a secret location. Murkrow and Meowth loot one another’s stashes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "stashes",
+        "loot",
+        "meowth",
+        "secret",
+        "location",
+        "shiny",
+        "object",
+        "finds",
+        "another",
+        "hides"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +519,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "misfortune",
+        "loathed",
+        "feared",
+        "believed",
+        "bring"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +537,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "alleged",
+        "bearer",
+        "glitters",
+        "loathed",
+        "interest",
+        "sparkles",
+        "fortune",
+        "ill",
+        "women",
+        "rings",
+        "feared",
+        "shows",
+        "steal",
+        "try"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +562,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "alleged",
+        "bearer",
+        "glitters",
+        "loathed",
+        "interest",
+        "sparkles",
+        "fortune",
+        "ill",
+        "women",
+        "rings",
+        "feared",
+        "shows",
+        "steal",
+        "try"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +587,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They awaken at dusk and take wing in the twilight, leading to the expression, “Get home before the Murkrow fly.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "twilight",
+        "expression",
+        "leading",
+        "wing",
+        "awaken",
+        "dusk",
+        "home"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +607,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Seen as a symbol of bad luck, it’s generally disliked. Yet it gives presents—objects that sparkle or shine—to Trainers it’s close to.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disliked",
+        "generally",
+        "sparkle",
+        "presents",
+        "luck",
+        "symbol",
+        "bad",
+        "shine",
+        "objects",
+        "yet",
+        "close"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +629,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has a weakness for shiny things. It’s been known to sneak into the nests of Gabite—noted collectors of jewels—in search of treasure.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noted",
+        "gabite",
+        "collectors",
+        "weakness",
+        "jewels",
+        "treasure",
+        "sneak",
+        "shiny",
+        "nests",
+        "search"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +650,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It searches for shiny things for its boss. Murkrow’s presence is said to be unlucky, so many people detest it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "detest",
+        "unlucky",
+        "boss",
+        "presence",
+        "shiny",
+        "searches"
+      ]
     },
     {
       "versionId": 39,
@@ -239,7 +667,29 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Widely shunned as a bearer of ill fortune. Upon crossing paths with this creature, I've been told one must chant ”Workrum, Workrum—bad luck, don't come” as a protective incantation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chant",
+        "shunned",
+        "workrum",
+        "bearer",
+        "incantation",
+        "widely",
+        "told",
+        "luck",
+        "paths",
+        "fortune",
+        "ve",
+        "crossing",
+        "ill",
+        "creature",
+        "i",
+        "bad",
+        "protective",
+        "don",
+        "upon"
+      ]
     }
   ],
   "similarPokemonIds": [

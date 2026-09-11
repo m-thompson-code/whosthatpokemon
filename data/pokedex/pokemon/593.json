@@ -10,6 +10,54 @@
   ],
   "imagePath": "/assets/pokemon/593.png",
   "entryCount": 12,
+  "entryTraits": [
+    "hunting",
+    "aquatic",
+    "sky-dwelling",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "cruise",
+    "terrified",
+    "hoping",
+    "tankers",
+    "crew",
+    "fancy",
+    "vanished",
+    "fate",
+    "fishermen",
+    "sunken",
+    "absorbed",
+    "expelling",
+    "lair",
+    "identical",
+    "sunk",
+    "propel",
+    "mostly",
+    "schools",
+    "castle",
+    "drag",
+    "rumored",
+    "hanging",
+    "ships",
+    "composition",
+    "waiting",
+    "wander",
+    "seawater",
+    "hangs",
+    "whenever",
+    "habitat",
+    "seafloor",
+    "steal",
+    "favorite",
+    "themselves",
+    "near",
+    "moon",
+    "lost",
+    "surface",
+    "full",
+    "gather"
+  ],
   "color": "white",
   "shape": "tentacles",
   "habitat": null,
@@ -39,7 +87,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "crew",
+        "vanished",
+        "fate",
+        "sunken",
+        "ships",
+        "wander",
+        "habitat",
+        "lost"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +106,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "absorbed",
+        "expelling",
+        "propel",
+        "seawater",
+        "favorite",
+        "themselves"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +123,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its body is mostly seawater. It’s said there’s a castle of ships Jellicent have sunk on the seafloor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sunk",
+        "mostly",
+        "castle",
+        "ships",
+        "seawater",
+        "seafloor"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +140,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its body is mostly seawater. It’s said there’s a castle of ships Jellicent have sunk on the seafloor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sunk",
+        "mostly",
+        "castle",
+        "ships",
+        "seawater",
+        "seafloor"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +157,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its body is mostly seawater. It’s said there’s a castle of ships Jellicent have sunk on the seafloor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sunk",
+        "mostly",
+        "castle",
+        "ships",
+        "seawater",
+        "seafloor"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +174,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "crew",
+        "vanished",
+        "fate",
+        "sunken",
+        "ships",
+        "wander",
+        "habitat",
+        "lost"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +193,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its body is mostly seawater. It’s said there’s a castle of ships Jellicent have sunk on the seafloor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sunk",
+        "mostly",
+        "castle",
+        "ships",
+        "seawater",
+        "seafloor"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +210,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "crew",
+        "vanished",
+        "fate",
+        "sunken",
+        "ships",
+        "wander",
+        "habitat",
+        "lost"
+      ]
     },
     {
       "versionId": 29,
@@ -103,7 +229,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "cruise",
+        "hoping",
+        "tankers",
+        "fancy",
+        "drag",
+        "hanging",
+        "ships"
+      ]
     },
     {
       "versionId": 30,
@@ -111,7 +249,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Fishermen are terrified of Jellicent. It’s rumored to drag them into the sea and steal their lives away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "terrified",
+        "fishermen",
+        "drag",
+        "rumored",
+        "steal"
+      ]
     },
     {
       "versionId": 33,
@@ -119,7 +267,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Most of this Pokémon’s body composition is identical to sea water. It makes sunken ships its lair.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunken",
+        "lair",
+        "identical",
+        "ships",
+        "composition"
+      ]
     },
     {
       "versionId": 34,
@@ -127,7 +285,24 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "schools",
+        "waiting",
+        "hangs",
+        "whenever",
+        "near",
+        "moon",
+        "surface",
+        "full",
+        "gather"
+      ]
     }
   ],
   "similarPokemonIds": [

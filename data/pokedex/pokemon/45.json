@@ -10,6 +10,75 @@
   ],
   "imagePath": "/assets/pokemon/045.png",
   "entryCount": 28,
+  "entryTraits": [
+    "poisonous",
+    "sonic",
+    "sky-dwelling",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "fiendishly",
+    "scat",
+    "ters",
+    "advisable",
+    "attractive",
+    "bang",
+    "sonous",
+    "allergy",
+    "doused",
+    "poi",
+    "immobilized",
+    "allergenic",
+    "pretty",
+    "atrocious",
+    "paralysis",
+    "triggers",
+    "bursts",
+    "devours",
+    "scattering",
+    "yellow",
+    "loud",
+    "largest",
+    "produces",
+    "hold",
+    "shaking",
+    "turning",
+    "scatter",
+    "shake",
+    "step",
+    "broad",
+    "attract",
+    "jungle",
+    "approach",
+    "seasons",
+    "powder",
+    "catches",
+    "why",
+    "bud",
+    "bloom",
+    "causing",
+    "contains",
+    "scatters",
+    "clouds",
+    "flapping",
+    "walks",
+    "flaps",
+    "spores",
+    "pollen",
+    "petals",
+    "starts",
+    "larger",
+    "turns",
+    "causes",
+    "flowers",
+    "poisonous",
+    "flower",
+    "highly",
+    "big",
+    "heavy",
+    "toxic",
+    "extremely"
+  ],
   "color": "red",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -39,7 +108,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "hold",
+        "contains",
+        "pollen",
+        "petals",
+        "larger",
+        "big",
+        "heavy",
+        "toxic"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +129,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "hold",
+        "contains",
+        "pollen",
+        "petals",
+        "larger",
+        "big",
+        "heavy",
+        "toxic"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +150,22 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "loud",
+        "scatter",
+        "broad",
+        "flapping",
+        "flaps",
+        "pollen",
+        "petals",
+        "poisonous",
+        "flower"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +173,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "largest",
+        "shake",
+        "step",
+        "clouds",
+        "pollen",
+        "petals",
+        "heavy",
+        "toxic"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +195,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poi­ sonous pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bang",
+        "sonous",
+        "poi",
+        "allergenic",
+        "bursts",
+        "scattering",
+        "bud",
+        "bloom",
+        "pollen",
+        "starts"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +216,22 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "By shaking its big petals, it scat­ ters toxic pollen into the air, turning the air yellow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "scat",
+        "ters",
+        "yellow",
+        "shaking",
+        "turning",
+        "pollen",
+        "petals",
+        "big",
+        "toxic"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +239,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "VILEPLUME’s toxic pollen triggers atrocious allergy attacks. That’s why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "advisable",
+        "attractive",
+        "allergy",
+        "pretty",
+        "atrocious",
+        "triggers",
+        "jungle",
+        "approach",
+        "why",
+        "pollen",
+        "flowers",
+        "toxic"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +264,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "VILEPLUME has the world’s largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this POKéMON catches and devours them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "doused",
+        "immobilized",
+        "devours",
+        "largest",
+        "attract",
+        "catches",
+        "spores",
+        "petals",
+        "toxic"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +287,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "In seasons when it produces more pollen, the air around a VILEPLUME turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "paralysis",
+        "yellow",
+        "produces",
+        "seasons",
+        "powder",
+        "walks",
+        "pollen",
+        "turns",
+        "causes",
+        "highly",
+        "toxic"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +312,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its petals are the largest in the world. It fiendishly scatters allergy-causing pollen from its petals.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fiendishly",
+        "allergy",
+        "largest",
+        "causing",
+        "scatters",
+        "pollen",
+        "petals"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +330,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "hold",
+        "contains",
+        "pollen",
+        "petals",
+        "larger",
+        "big",
+        "heavy",
+        "toxic"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +351,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "allergenic",
+        "largest",
+        "scatters",
+        "walks",
+        "pollen",
+        "petals",
+        "extremely"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +369,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "allergenic",
+        "largest",
+        "scatters",
+        "walks",
+        "pollen",
+        "petals",
+        "extremely"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +387,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "allergenic",
+        "largest",
+        "scatters",
+        "walks",
+        "pollen",
+        "petals",
+        "extremely"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +405,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "largest",
+        "shake",
+        "step",
+        "clouds",
+        "pollen",
+        "petals",
+        "heavy",
+        "toxic"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +427,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "bang",
+        "allergenic",
+        "bursts",
+        "scattering",
+        "bud",
+        "bloom",
+        "pollen",
+        "starts",
+        "poisonous"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +449,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "allergenic",
+        "largest",
+        "scatters",
+        "walks",
+        "pollen",
+        "petals",
+        "extremely"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +467,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "allergenic",
+        "largest",
+        "scatters",
+        "walks",
+        "pollen",
+        "petals",
+        "extremely"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +485,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "allergenic",
+        "largest",
+        "scatters",
+        "walks",
+        "pollen",
+        "petals",
+        "extremely"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +503,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "allergenic",
+        "largest",
+        "scatters",
+        "walks",
+        "pollen",
+        "petals",
+        "extremely"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +521,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "hold",
+        "contains",
+        "pollen",
+        "petals",
+        "larger",
+        "big",
+        "heavy",
+        "toxic"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +542,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "largest",
+        "shake",
+        "step",
+        "clouds",
+        "pollen",
+        "petals",
+        "heavy",
+        "toxic"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +564,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Vileplume’s toxic pollen triggers atrocious allergy attacks. That’s why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "advisable",
+        "attractive",
+        "allergy",
+        "pretty",
+        "atrocious",
+        "triggers",
+        "jungle",
+        "approach",
+        "why",
+        "pollen",
+        "flowers",
+        "toxic"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +589,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Vileplume has the world’s largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this Pokémon catches and devours them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "doused",
+        "immobilized",
+        "devours",
+        "largest",
+        "attract",
+        "catches",
+        "spores",
+        "petals",
+        "toxic"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +612,22 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "loud",
+        "scatter",
+        "broad",
+        "flapping",
+        "flaps",
+        "pollen",
+        "petals",
+        "poisonous",
+        "flower"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +635,22 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "loud",
+        "scatter",
+        "broad",
+        "flapping",
+        "flaps",
+        "pollen",
+        "petals",
+        "poisonous",
+        "flower"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +658,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "largest",
+        "shake",
+        "step",
+        "clouds",
+        "pollen",
+        "petals",
+        "heavy",
+        "toxic"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +680,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "hold",
+        "contains",
+        "pollen",
+        "petals",
+        "larger",
+        "big",
+        "heavy",
+        "toxic"
+      ]
     }
   ],
   "similarPokemonIds": [

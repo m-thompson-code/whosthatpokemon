@@ -10,6 +10,56 @@
   ],
   "imagePath": "/assets/pokemon/701.png",
   "entryCount": 8,
+  "entryTraits": [
+    "sky-dwelling",
+    "wings"
+  ],
+  "entryKeywords": [
+    "flashy",
+    "showboats",
+    "bruisers",
+    "counterattack",
+    "exhaustion",
+    "maneuver",
+    "submission",
+    "proficient",
+    "maneuvers",
+    "nimbly",
+    "overwhelms",
+    "pinch",
+    "advantage",
+    "hariyama",
+    "machamp",
+    "drives",
+    "skills",
+    "pose",
+    "combat",
+    "blind",
+    "defend",
+    "position",
+    "agile",
+    "finishing",
+    "superb",
+    "ends",
+    "taking",
+    "going",
+    "leaps",
+    "difficult",
+    "skilled",
+    "strikes",
+    "enable",
+    "quick",
+    "holds",
+    "above",
+    "fighting",
+    "likes",
+    "controls",
+    "special",
+    "against",
+    "spots",
+    "although",
+    "big"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": null,
@@ -40,7 +90,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bruisers",
+        "proficient",
+        "hariyama",
+        "machamp",
+        "skills",
+        "enable",
+        "fighting",
+        "although",
+        "big"
+      ]
     },
     {
       "versionId": 24,
@@ -48,7 +110,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "maneuver",
+        "defend",
+        "position",
+        "difficult",
+        "above",
+        "likes",
+        "controls",
+        "against"
+      ]
     },
     {
       "versionId": 25,
@@ -56,7 +132,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bruisers",
+        "proficient",
+        "hariyama",
+        "machamp",
+        "skills",
+        "enable",
+        "fighting",
+        "although",
+        "big"
+      ]
     },
     {
       "versionId": 26,
@@ -64,7 +152,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "maneuver",
+        "defend",
+        "position",
+        "difficult",
+        "above",
+        "likes",
+        "controls",
+        "against"
+      ]
     },
     {
       "versionId": 29,
@@ -72,7 +174,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it’s using a special move and gets itself into a pinch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "showboats",
+        "overwhelms",
+        "pinch",
+        "quick",
+        "special"
+      ]
     },
     {
       "versionId": 30,
@@ -80,7 +190,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents’ blind spots. It’s also skilled at using superb submission holds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "submission",
+        "nimbly",
+        "advantage",
+        "combat",
+        "blind",
+        "superb",
+        "taking",
+        "leaps",
+        "skilled",
+        "holds",
+        "spots"
+      ]
     },
     {
       "versionId": 33,
@@ -88,7 +212,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flashy",
+        "exhaustion",
+        "maneuvers",
+        "drives",
+        "agile",
+        "finishing",
+        "ends"
+      ]
     },
     {
       "versionId": 34,
@@ -96,7 +230,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "counterattack",
+        "advantage",
+        "pose",
+        "finishing",
+        "going",
+        "strikes"
+      ]
     }
   ],
   "similarPokemonIds": [

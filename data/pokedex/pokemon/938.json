@@ -9,6 +9,22 @@
   ],
   "imagePath": "/assets/pokemon/938.png",
   "entryCount": 2,
+  "entryTraits": [
+    "tail",
+    "electric"
+  ],
+  "entryKeywords": [
+    "blink",
+    "alert",
+    "allies",
+    "higher",
+    "shakes",
+    "thunderclouds",
+    "float",
+    "floats",
+    "generate",
+    "stored"
+  ],
   "color": "yellow",
   "shape": "ball",
   "habitat": null,
@@ -38,7 +54,18 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "blink",
+        "alert",
+        "allies",
+        "shakes",
+        "generate"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +73,17 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "higher",
+        "thunderclouds",
+        "float",
+        "floats",
+        "stored"
+      ]
     }
   ],
   "similarPokemonIds": [

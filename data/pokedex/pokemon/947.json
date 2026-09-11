@@ -10,6 +10,28 @@
   ],
   "imagePath": "/assets/pokemon/947.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "bury",
+    "outbreaks",
+    "discards",
+    "mass",
+    "envelop",
+    "town",
+    "occasions",
+    "expels",
+    "wanders",
+    "needs",
+    "regions",
+    "arid",
+    "branches",
+    "open",
+    "absorbs",
+    "rare",
+    "entire"
+  ],
   "color": "brown",
   "shape": "ball",
   "habitat": null,
@@ -39,7 +61,19 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "discards",
+        "envelop",
+        "expels",
+        "needs",
+        "branches",
+        "open",
+        "absorbs"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +81,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bury",
+        "outbreaks",
+        "mass",
+        "town",
+        "occasions",
+        "wanders",
+        "regions",
+        "arid",
+        "rare",
+        "entire"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,75 @@
   ],
   "imagePath": "/assets/pokemon/365.png",
   "entryCount": 21,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "aquatic",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "cost",
+    "imposing",
+    "subzero",
+    "insulates",
+    "shattering",
+    "grand",
+    "harmlessly",
+    "tons",
+    "massively",
+    "blocks",
+    "weighing",
+    "threat",
+    "icebergs",
+    "invades",
+    "herds",
+    "totally",
+    "floes",
+    "crushing",
+    "shatters",
+    "ten",
+    "usual",
+    "impressive",
+    "blubber",
+    "hisui",
+    "individuals",
+    "herd",
+    "temperatures",
+    "drift",
+    "prized",
+    "30",
+    "20",
+    "broken",
+    "icy",
+    "shatter",
+    "throughout",
+    "layer",
+    "seawater",
+    "next",
+    "bounce",
+    "frigid",
+    "repels",
+    "leader",
+    "protected",
+    "snap",
+    "coat",
+    "battles",
+    "growing",
+    "blow",
+    "year",
+    "break",
+    "tusks",
+    "region",
+    "size",
+    "protects",
+    "group",
+    "10",
+    "swims",
+    "well",
+    "big",
+    "developed",
+    "seas"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": "sea",
@@ -40,7 +109,28 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WALREIN’s two massively developed tusks can totally shatter blocks of ice weighing ten tons with one blow. This POKéMON’s thick coat of blubber insulates it from subzero temperatures.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "subzero",
+        "insulates",
+        "tons",
+        "massively",
+        "blocks",
+        "weighing",
+        "totally",
+        "ten",
+        "blubber",
+        "temperatures",
+        "shatter",
+        "coat",
+        "blow",
+        "tusks",
+        "developed"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +138,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WALREIN swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "imposing",
+        "grand",
+        "harmlessly",
+        "icebergs",
+        "crushing",
+        "blubber",
+        "layer",
+        "seawater",
+        "bounce",
+        "frigid",
+        "tusks",
+        "swims"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +163,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "cost",
+        "invades",
+        "herd",
+        "leader",
+        "snap",
+        "battles",
+        "tusks"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +183,22 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It swims through icy seas while shattering ice floes with its large tusks. It is protected by its thick blubber.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shattering",
+        "floes",
+        "blubber",
+        "icy",
+        "protected",
+        "tusks",
+        "swims",
+        "seas"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +206,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It swims through icy seas while shattering ice floes with its large tusks. It is protected by its thick blubber.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shattering",
+        "floes",
+        "blubber",
+        "icy",
+        "protected",
+        "tusks",
+        "swims",
+        "seas"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +229,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "repels",
+        "tusks",
+        "big"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +248,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "repels",
+        "tusks",
+        "big"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +267,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "repels",
+        "tusks",
+        "big"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +286,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "drift",
+        "layer",
+        "repels",
+        "tusks"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +306,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "drift",
+        "layer",
+        "repels",
+        "tusks"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +326,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "repels",
+        "tusks",
+        "big"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +345,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "repels",
+        "tusks",
+        "big"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +364,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Not only does its thick blubber keep it warm, it also protects it from attacks. It shatters ice with its prized tusks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "prized",
+        "tusks",
+        "protects"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +383,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Not only does its thick blubber keep it warm, it also protects it from attacks. It shatters ice with its prized tusks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "prized",
+        "tusks",
+        "protects"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +402,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "repels",
+        "tusks",
+        "big"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +421,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "shatters",
+        "blubber",
+        "drift",
+        "layer",
+        "repels",
+        "tusks"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +441,28 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Walrein’s two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pokémon’s thick coat of blubber insulates it from subzero temperatures.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "subzero",
+        "insulates",
+        "tons",
+        "massively",
+        "blocks",
+        "weighing",
+        "totally",
+        "blubber",
+        "temperatures",
+        "shatter",
+        "coat",
+        "blow",
+        "tusks",
+        "10",
+        "developed"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +470,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "imposing",
+        "grand",
+        "harmlessly",
+        "icebergs",
+        "crushing",
+        "blubber",
+        "layer",
+        "seawater",
+        "bounce",
+        "frigid",
+        "tusks",
+        "swims"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +495,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Walrein form herds of 20 to 30 individuals. When a threat appears, the herd’s leader will protect the group with its life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "threat",
+        "herds",
+        "individuals",
+        "herd",
+        "30",
+        "20",
+        "leader",
+        "group"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +514,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Walrein’s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "usual",
+        "impressive",
+        "broken",
+        "throughout",
+        "growing",
+        "year",
+        "tusks",
+        "size"
+      ]
     },
     {
       "versionId": 39,
@@ -200,7 +533,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "hisui",
+        "drift",
+        "broken",
+        "shatter",
+        "next",
+        "year",
+        "break",
+        "tusks",
+        "region",
+        "well"
+      ]
     }
   ],
   "similarPokemonIds": [

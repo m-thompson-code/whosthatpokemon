@@ -9,6 +9,25 @@
   ],
   "imagePath": "/assets/pokemon/968.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fur"
+  ],
+  "entryKeywords": [
+    "tendrils",
+    "pelt",
+    "maintains",
+    "consuming",
+    "wield",
+    "deserts",
+    "fists",
+    "storm",
+    "arid",
+    "metal",
+    "soil",
+    "punches",
+    "attacked",
+    "iron"
+  ],
   "color": "pink",
   "shape": "squiggle",
   "habitat": null,
@@ -38,7 +57,19 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "tendrils",
+        "pelt",
+        "wield",
+        "fists",
+        "storm",
+        "punches",
+        "attacked"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +77,17 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "maintains",
+        "consuming",
+        "deserts",
+        "arid",
+        "metal",
+        "soil",
+        "iron"
+      ]
     }
   ],
   "similarPokemonIds": [

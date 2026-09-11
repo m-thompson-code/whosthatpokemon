@@ -9,6 +9,100 @@
   ],
   "imagePath": "/assets/pokemon/056.png",
   "entryCount": 30,
+  "entryTraits": [
+    "forest-dwelling",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "ap",
+    "clears",
+    "infuriated",
+    "infuriates",
+    "proach",
+    "resonating",
+    "visitor",
+    "frenzy",
+    "smallest",
+    "spontaneously",
+    "loneliness",
+    "silence",
+    "temper",
+    "unsafe",
+    "troop",
+    "nasal",
+    "resulting",
+    "wrath",
+    "angers",
+    "hesitate",
+    "angrier",
+    "raging",
+    "treetop",
+    "breathing",
+    "handy",
+    "stress",
+    "thrashing",
+    "tires",
+    "uncontrollable",
+    "agile",
+    "wake",
+    "towering",
+    "everyone",
+    "distinguish",
+    "treetops",
+    "becoming",
+    "rampages",
+    "ill",
+    "rage",
+    "temperament",
+    "anger",
+    "ferocious",
+    "colonies",
+    "colony",
+    "hold",
+    "instant",
+    "shaking",
+    "again",
+    "lose",
+    "flee",
+    "moment",
+    "next",
+    "rough",
+    "target",
+    "violently",
+    "tempered",
+    "angered",
+    "approach",
+    "dreams",
+    "enraged",
+    "happens",
+    "loses",
+    "sign",
+    "docile",
+    "impossible",
+    "sure",
+    "sight",
+    "quick",
+    "angry",
+    "asleep",
+    "fall",
+    "friends",
+    "groups",
+    "almost",
+    "instantly",
+    "group",
+    "near",
+    "starts",
+    "rare",
+    "reason",
+    "since",
+    "turns",
+    "causes",
+    "anyone",
+    "still",
+    "whole",
+    "doesn",
+    "extremely"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +132,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thrashing",
+        "anger",
+        "instant",
+        "moment",
+        "next",
+        "docile",
+        "quick",
+        "extremely"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +151,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thrashing",
+        "anger",
+        "instant",
+        "moment",
+        "next",
+        "docile",
+        "quick",
+        "extremely"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +170,15 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "An agile POKéMON that lives in trees. It angers easily and will not hesitate to attack anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "angers",
+        "hesitate",
+        "agile"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +186,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "handy",
+        "ill",
+        "target",
+        "tempered",
+        "groups",
+        "reason",
+        "extremely"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +204,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It's unsafe to ap­ proach if it gets violently enraged for no reason and can't distinguish friends from foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ap",
+        "proach",
+        "unsafe",
+        "distinguish",
+        "violently",
+        "enraged",
+        "friends",
+        "reason"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +223,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "infuriated",
+        "loneliness",
+        "treetops",
+        "loses",
+        "sight",
+        "groups",
+        "group"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +241,28 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "When MANKEY starts shaking and its nasal breathing turns rough, it’s a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nasal",
+        "wrath",
+        "breathing",
+        "towering",
+        "becoming",
+        "rage",
+        "shaking",
+        "flee",
+        "rough",
+        "sign",
+        "impossible",
+        "sure",
+        "angry",
+        "almost",
+        "instantly",
+        "starts",
+        "turns",
+        "anyone"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +270,28 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When MANKEY starts shaking and its nasal breathing turns rough, it’s a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nasal",
+        "wrath",
+        "breathing",
+        "towering",
+        "becoming",
+        "rage",
+        "shaking",
+        "flee",
+        "rough",
+        "sign",
+        "impossible",
+        "sure",
+        "angry",
+        "almost",
+        "instantly",
+        "starts",
+        "turns",
+        "anyone"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +299,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When it starts shaking and its nasal breathing turns rough, it’s a sure sign of anger. However, since this happens instantly, there is no time to flee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nasal",
+        "breathing",
+        "anger",
+        "shaking",
+        "flee",
+        "rough",
+        "happens",
+        "sign",
+        "sure",
+        "instantly",
+        "starts",
+        "since",
+        "turns"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +323,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Light and agile on its feet, and ferocious in temperament. When angered, it flies into an uncontrollable frenzy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "frenzy",
+        "uncontrollable",
+        "agile",
+        "temperament",
+        "ferocious",
+        "angered"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +342,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Extremely quick to anger. It could be docile one moment, then thrashing away the next instant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thrashing",
+        "anger",
+        "instant",
+        "moment",
+        "next",
+        "docile",
+        "quick",
+        "extremely"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +361,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treetop",
+        "rampages",
+        "colonies",
+        "colony",
+        "enraged",
+        "reason",
+        "whole"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +379,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treetop",
+        "rampages",
+        "colonies",
+        "colony",
+        "enraged",
+        "reason",
+        "whole"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +397,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treetop",
+        "rampages",
+        "colonies",
+        "colony",
+        "enraged",
+        "reason",
+        "whole"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +415,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "handy",
+        "ill",
+        "target",
+        "tempered",
+        "groups",
+        "reason",
+        "extremely"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +433,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s unsafe to approach if it gets violently enraged for no reason and can’t distinguish friends from foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unsafe",
+        "distinguish",
+        "violently",
+        "approach",
+        "enraged",
+        "friends",
+        "reason"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +451,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treetop",
+        "rampages",
+        "colonies",
+        "colony",
+        "enraged",
+        "reason",
+        "whole"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +469,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treetop",
+        "rampages",
+        "colonies",
+        "colony",
+        "enraged",
+        "reason",
+        "whole"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +487,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treetop",
+        "rampages",
+        "colonies",
+        "colony",
+        "enraged",
+        "reason",
+        "whole"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +505,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treetop",
+        "rampages",
+        "colonies",
+        "colony",
+        "enraged",
+        "reason",
+        "whole"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +523,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It’s unsafe to approach if it gets violently enraged for no reason and can’t distinguish friends from foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unsafe",
+        "distinguish",
+        "violently",
+        "approach",
+        "enraged",
+        "friends",
+        "reason"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +541,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treetop",
+        "rampages",
+        "colonies",
+        "colony",
+        "enraged",
+        "reason",
+        "whole"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +559,28 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Mankey starts shaking and its nasal breathing turns rough, it’s a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nasal",
+        "wrath",
+        "breathing",
+        "towering",
+        "becoming",
+        "rage",
+        "shaking",
+        "flee",
+        "rough",
+        "sign",
+        "impossible",
+        "sure",
+        "angry",
+        "almost",
+        "instantly",
+        "starts",
+        "turns",
+        "anyone"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +588,28 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Mankey starts shaking and its nasal breathing turns rough, it’s a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nasal",
+        "wrath",
+        "breathing",
+        "towering",
+        "becoming",
+        "rage",
+        "shaking",
+        "flee",
+        "rough",
+        "sign",
+        "impossible",
+        "sure",
+        "angry",
+        "almost",
+        "instantly",
+        "starts",
+        "turns",
+        "anyone"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +617,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It can spontaneously become enraged. Everyone near it clears out as it rampages, and the resulting loneliness makes it angrier still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clears",
+        "spontaneously",
+        "loneliness",
+        "resulting",
+        "angrier",
+        "everyone",
+        "rampages",
+        "enraged",
+        "near",
+        "still"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +638,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its raging tires it out and causes it to fall asleep, but the anger resonating in its dreams causes it to wake up—which infuriates it all over again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "infuriates",
+        "resonating",
+        "raging",
+        "tires",
+        "wake",
+        "anger",
+        "again",
+        "dreams",
+        "asleep",
+        "fall",
+        "causes"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +660,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The smallest of things could cause it to lose its temper. Because it doesn’t hold in its stress, this Pokémon can live a long time.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "smallest",
+        "temper",
+        "stress",
+        "hold",
+        "lose",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +677,15 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If one gets angry, all the others around it will get angry, so silence is a rare visitor in a troop of Mankey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "visitor",
+        "silence",
+        "troop",
+        "angry",
+        "rare"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +693,15 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "angers",
+        "hesitate",
+        "agile"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +709,15 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "angers",
+        "hesitate",
+        "agile"
+      ]
     }
   ],
   "similarPokemonIds": [

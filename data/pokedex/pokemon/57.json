@@ -9,6 +9,85 @@
   ],
   "imagePath": "/assets/pokemon/057.png",
   "entryCount": 30,
+  "entryTraits": [
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "vessels",
+    "groggy",
+    "outrageously",
+    "semi",
+    "approached",
+    "boot",
+    "beaten",
+    "boosted",
+    "forgives",
+    "mad",
+    "theorize",
+    "abandon",
+    "forgive",
+    "meets",
+    "quarry",
+    "robust",
+    "angrily",
+    "madder",
+    "researchers",
+    "sturdier",
+    "angrier",
+    "tenaciously",
+    "view",
+    "awaken",
+    "circulation",
+    "nobody",
+    "raging",
+    "tenacious",
+    "less",
+    "else",
+    "peaceful",
+    "track",
+    "beat",
+    "death",
+    "furious",
+    "dies",
+    "caught",
+    "chasing",
+    "constant",
+    "moment",
+    "wildly",
+    "glare",
+    "target",
+    "angered",
+    "state",
+    "chase",
+    "chases",
+    "stay",
+    "catches",
+    "looking",
+    "healthy",
+    "stops",
+    "difficult",
+    "turn",
+    "intelligent",
+    "someone",
+    "poke",
+    "despite",
+    "ever",
+    "angry",
+    "asleep",
+    "blood",
+    "end",
+    "matter",
+    "run",
+    "remains",
+    "far",
+    "stronger",
+    "brain",
+    "anyone",
+    "same",
+    "face",
+    "ball",
+    "muscles"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +117,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boot",
+        "abandon",
+        "quarry",
+        "tenacious",
+        "furious",
+        "caught",
+        "chasing"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +135,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boot",
+        "abandon",
+        "quarry",
+        "tenacious",
+        "furious",
+        "caught",
+        "chasing"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +153,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "view",
+        "nobody",
+        "else",
+        "moment",
+        "stops",
+        "difficult",
+        "angry"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +171,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "groggy",
+        "semi",
+        "approached",
+        "angrily",
+        "awaken",
+        "state",
+        "chase",
+        "asleep"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +192,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "meets",
+        "furious",
+        "wildly",
+        "glare",
+        "chases",
+        "looking",
+        "someone",
+        "anyone"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +211,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It will beat up anyone who makes it mad, even if it has to chase them until the end of the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mad",
+        "beat",
+        "chase",
+        "end",
+        "anyone"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +227,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "boosted",
+        "circulation",
+        "less",
+        "furious",
+        "turn",
+        "intelligent",
+        "blood",
+        "stronger",
+        "same",
+        "muscles"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +248,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "boosted",
+        "circulation",
+        "less",
+        "furious",
+        "turn",
+        "intelligent",
+        "blood",
+        "stronger",
+        "same",
+        "muscles"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +269,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "robust",
+        "circulation",
+        "less",
+        "furious",
+        "intelligent",
+        "blood",
+        "stronger",
+        "muscles"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +288,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "outrageously",
+        "tenaciously",
+        "track",
+        "furious",
+        "target",
+        "chase",
+        "matter",
+        "far"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +307,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boot",
+        "abandon",
+        "quarry",
+        "tenacious",
+        "furious",
+        "chasing",
+        "catches"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +325,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "madder",
+        "angrier",
+        "beat",
+        "angry",
+        "run"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +341,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "madder",
+        "angrier",
+        "beat",
+        "angry",
+        "run"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +357,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "madder",
+        "angrier",
+        "beat",
+        "angry",
+        "run"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +373,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "groggy",
+        "semi",
+        "approached",
+        "angrily",
+        "awaken",
+        "state",
+        "chase",
+        "asleep"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +394,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "meets",
+        "furious",
+        "wildly",
+        "glare",
+        "chases",
+        "looking",
+        "someone",
+        "anyone"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +413,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "madder",
+        "angrier",
+        "beat",
+        "angry",
+        "run"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +429,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "madder",
+        "angrier",
+        "beat",
+        "angry",
+        "run"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +445,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "madder",
+        "angrier",
+        "beat",
+        "angry",
+        "run"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +461,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "madder",
+        "angrier",
+        "beat",
+        "angry",
+        "run"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +477,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "view",
+        "nobody",
+        "else",
+        "moment",
+        "stops",
+        "difficult",
+        "angry"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +495,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "outrageously",
+        "tenaciously",
+        "track",
+        "furious",
+        "target",
+        "chase",
+        "matter",
+        "far"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +514,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "boosted",
+        "circulation",
+        "less",
+        "furious",
+        "turn",
+        "intelligent",
+        "blood",
+        "stronger",
+        "same",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +535,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "boosted",
+        "circulation",
+        "less",
+        "furious",
+        "turn",
+        "intelligent",
+        "blood",
+        "stronger",
+        "same",
+        "muscles"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +556,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It has been known to become so angry that it dies as a result. Its face looks peaceful in death, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "death",
+        "dies",
+        "angry",
+        "face"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +572,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Some researchers theorize that Primeape remains angry even when inside a Poké Ball.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "theorize",
+        "researchers",
+        "poke",
+        "angry",
+        "remains",
+        "ball"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +589,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It will never forgive opponents who have angered it. Even after it has beaten them down until they can’t move, it never ever forgives.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "beaten",
+        "forgives",
+        "forgive",
+        "angered",
+        "ever"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +605,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The blood vessels in its brain are sturdier than those of other Pokémon, so it can stay healthy despite its constant raging.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "vessels",
+        "sturdier",
+        "raging",
+        "constant",
+        "stay",
+        "healthy",
+        "despite",
+        "blood",
+        "brain"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +625,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "view",
+        "nobody",
+        "else",
+        "moment",
+        "stops",
+        "difficult",
+        "angry"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +643,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "view",
+        "nobody",
+        "else",
+        "moment",
+        "stops",
+        "difficult",
+        "angry"
+      ]
     }
   ],
   "similarPokemonIds": [

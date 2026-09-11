@@ -10,6 +10,72 @@
   ],
   "imagePath": "/assets/pokemon/348.png",
   "entryCount": 22,
+  "entryTraits": [
+    "claws",
+    "aquatic",
+    "wings",
+    "hunting",
+    "shell",
+    "tail"
+  ],
+  "entryKeywords": [
+    "contracted",
+    "walked",
+    "skewers",
+    "determined",
+    "quarry",
+    "retractable",
+    "convenient",
+    "slab",
+    "greatest",
+    "plates",
+    "ashore",
+    "adapted",
+    "prehistoric",
+    "emerged",
+    "devastating",
+    "extended",
+    "hunts",
+    "evolving",
+    "clad",
+    "weapon",
+    "feed",
+    "dives",
+    "lower",
+    "went",
+    "ancestor",
+    "cut",
+    "bounce",
+    "blows",
+    "hunt",
+    "swimmer",
+    "enormous",
+    "punch",
+    "protected",
+    "beneath",
+    "extinct",
+    "hind",
+    "species",
+    "bug",
+    "onto",
+    "armor",
+    "became",
+    "right",
+    "lived",
+    "ocean",
+    "stronger",
+    "sturdy",
+    "living",
+    "tough",
+    "freely",
+    "entire",
+    "though",
+    "swims",
+    "search",
+    "good",
+    "usually",
+    "evolution"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -39,7 +105,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ARMALDO’s tough armor makes all attacks bounce off. This POKéMON’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "contracted",
+        "slab",
+        "extended",
+        "bounce",
+        "enormous",
+        "punch",
+        "armor",
+        "right",
+        "tough",
+        "freely"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +128,17 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ARMALDO is a POKéMON species that became extinct in prehistoric times. This POKéMON is said to have walked on its hind legs, which would have been more convenient for life on land.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "walked",
+        "convenient",
+        "prehistoric",
+        "extinct",
+        "hind",
+        "species",
+        "became"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +146,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "ARMALDO usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "hunts",
+        "dives",
+        "beneath",
+        "ocean",
+        "swims",
+        "usually"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +167,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "skewers",
+        "feed",
+        "protected",
+        "sturdy"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +186,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "skewers",
+        "feed",
+        "protected",
+        "sturdy"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +205,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ashore",
+        "evolving",
+        "clad",
+        "went",
+        "armor",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +223,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ashore",
+        "evolving",
+        "clad",
+        "went",
+        "armor",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +241,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ashore",
+        "evolving",
+        "clad",
+        "went",
+        "armor",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +259,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "retractable",
+        "plates",
+        "clad",
+        "cut",
+        "enormous",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +279,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "retractable",
+        "plates",
+        "clad",
+        "cut",
+        "enormous",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +299,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ashore",
+        "evolving",
+        "clad",
+        "went",
+        "armor",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +317,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ashore",
+        "evolving",
+        "clad",
+        "went",
+        "armor",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +335,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ashore",
+        "evolving",
+        "clad",
+        "went",
+        "armor",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +353,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ashore",
+        "evolving",
+        "clad",
+        "went",
+        "armor",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +371,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "retractable",
+        "plates",
+        "clad",
+        "cut",
+        "enormous",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +391,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "skewers",
+        "feed",
+        "protected",
+        "sturdy"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +410,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Armaldo’s tough armor makes all attacks bounce off. This Pokémon’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "contracted",
+        "slab",
+        "extended",
+        "bounce",
+        "enormous",
+        "punch",
+        "armor",
+        "right",
+        "tough",
+        "freely"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +433,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "walked",
+        "convenient",
+        "prehistoric",
+        "extinct",
+        "hind",
+        "species",
+        "became"
+      ]
     },
     {
       "versionId": 29,
@@ -183,7 +451,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It lived on land and went out into the sea to hunt for prey. Its sharp claws were its greatest weapon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "greatest",
+        "weapon",
+        "went",
+        "hunt",
+        "lived"
+      ]
     },
     {
       "versionId": 30,
@@ -191,7 +471,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "determined",
+        "adapted",
+        "ancestor",
+        "bug",
+        "living"
+      ]
     },
     {
       "versionId": 33,
@@ -199,7 +489,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "After evolution, this Pokémon emerged onto land. Its lower body has become stronger, and blows from its tail are devastating.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "emerged",
+        "devastating",
+        "lower",
+        "blows",
+        "onto",
+        "stronger",
+        "evolution"
+      ]
     },
     {
       "versionId": 34,
@@ -207,7 +509,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "quarry",
+        "dives",
+        "swimmer",
+        "ocean",
+        "though",
+        "search",
+        "good"
+      ]
     }
   ],
   "similarPokemonIds": [

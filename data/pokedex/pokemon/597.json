@@ -10,6 +10,49 @@
   ],
   "imagePath": "/assets/pokemon/597.png",
   "entryCount": 10,
+  "entryTraits": [
+    "cave-dwelling"
+  ],
+  "entryKeywords": [
+    "dwellings",
+    "mossy",
+    "preferred",
+    "ceiling",
+    "mosses",
+    "practice",
+    "barrage",
+    "improve",
+    "launching",
+    "minerals",
+    "enzymes",
+    "clinging",
+    "defends",
+    "contained",
+    "lot",
+    "threatened",
+    "cave",
+    "chance",
+    "aim",
+    "stick",
+    "isn",
+    "rolling",
+    "shooting",
+    "absorb",
+    "find",
+    "help",
+    "escape",
+    "finds",
+    "absorbs",
+    "first",
+    "shoots",
+    "caves",
+    "walls",
+    "spikes",
+    "iron",
+    "rock",
+    "good",
+    "big"
+  ],
   "color": "gray",
   "shape": "ball",
   "habitat": null,
@@ -40,7 +83,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "barrage",
+        "threatened",
+        "chance",
+        "rolling",
+        "shooting",
+        "escape",
+        "spikes"
+      ]
     },
     {
       "versionId": 18,
@@ -48,7 +101,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They stick their spikes into cave walls and absorb the minerals they find in the rock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "minerals",
+        "cave",
+        "stick",
+        "absorb",
+        "find",
+        "walls",
+        "spikes",
+        "rock"
+      ]
     },
     {
       "versionId": 21,
@@ -56,7 +122,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ceiling",
+        "clinging",
+        "finds",
+        "absorbs",
+        "shoots",
+        "spikes",
+        "iron",
+        "rock"
+      ]
     },
     {
       "versionId": 22,
@@ -64,7 +141,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ceiling",
+        "clinging",
+        "finds",
+        "absorbs",
+        "shoots",
+        "spikes",
+        "iron",
+        "rock"
+      ]
     },
     {
       "versionId": 23,
@@ -72,7 +160,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "barrage",
+        "threatened",
+        "chance",
+        "rolling",
+        "shooting",
+        "escape",
+        "spikes"
+      ]
     },
     {
       "versionId": 24,
@@ -80,7 +178,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ceiling",
+        "clinging",
+        "finds",
+        "absorbs",
+        "shoots",
+        "spikes",
+        "iron",
+        "rock"
+      ]
     },
     {
       "versionId": 25,
@@ -88,7 +197,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "barrage",
+        "threatened",
+        "chance",
+        "rolling",
+        "shooting",
+        "escape",
+        "spikes"
+      ]
     },
     {
       "versionId": 26,
@@ -96,7 +215,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ceiling",
+        "clinging",
+        "finds",
+        "absorbs",
+        "shoots",
+        "spikes",
+        "iron",
+        "rock"
+      ]
     },
     {
       "versionId": 33,
@@ -104,7 +234,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It defends itself by launching spikes, but its aim isn’t very good at first. Only after a lot of practice will it improve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "practice",
+        "improve",
+        "launching",
+        "defends",
+        "lot",
+        "aim",
+        "isn",
+        "first",
+        "spikes",
+        "good"
+      ]
     },
     {
       "versionId": 34,
@@ -112,7 +255,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "dwellings",
+        "mossy",
+        "preferred",
+        "mosses",
+        "enzymes",
+        "contained",
+        "help",
+        "caves",
+        "spikes",
+        "big"
+      ]
     }
   ],
   "similarPokemonIds": [

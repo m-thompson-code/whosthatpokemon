@@ -19,8 +19,8 @@ type RoomLobbyProps = {
 
 const teamLabel: Record<Team, string> = {
   [Team.None]: "Unassigned",
-  [Team.TeamA]: "Team A",
-  [Team.TeamB]: "Team B",
+  [Team.TeamA]: "Red Team",
+  [Team.TeamB]: "Blue Team",
 };
 
 const teamOptions = [Team.None, Team.TeamA, Team.TeamB];

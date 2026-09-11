@@ -9,6 +9,43 @@
   ],
   "imagePath": "/assets/pokemon/613.png",
   "entryCount": 10,
+  "entryTraits": [
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "smear",
+    "stickier",
+    "watery",
+    "frosty",
+    "sniffles",
+    "barometer",
+    "performing",
+    "decreases",
+    "element",
+    "sniffs",
+    "snot",
+    "mucus",
+    "raw",
+    "thicker",
+    "provides",
+    "material",
+    "provide",
+    "increases",
+    "health",
+    "icy",
+    "type",
+    "feeling",
+    "healthy",
+    "needs",
+    "sticky",
+    "running",
+    "anyone",
+    "nose",
+    "good",
+    "well",
+    "doesn"
+  ],
   "color": "white",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +75,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "watery",
+        "decreases",
+        "mucus",
+        "type",
+        "feeling",
+        "well"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +95,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sniffs",
+        "snot",
+        "mucus",
+        "raw",
+        "provides",
+        "material",
+        "running",
+        "nose"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +114,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "barometer",
+        "snot",
+        "increases",
+        "health",
+        "healthy",
+        "sticky"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +134,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "barometer",
+        "snot",
+        "increases",
+        "health",
+        "healthy",
+        "sticky"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +154,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sniffs",
+        "snot",
+        "mucus",
+        "raw",
+        "provides",
+        "material",
+        "running",
+        "nose"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +173,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "barometer",
+        "snot",
+        "increases",
+        "health",
+        "healthy",
+        "sticky"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +193,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sniffs",
+        "snot",
+        "mucus",
+        "raw",
+        "provides",
+        "material",
+        "running",
+        "nose"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +212,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "barometer",
+        "snot",
+        "increases",
+        "health",
+        "healthy",
+        "sticky"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +232,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn’t like.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "smear",
+        "stickier",
+        "snot",
+        "thicker",
+        "health",
+        "anyone",
+        "good",
+        "doesn"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +251,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "frosty",
+        "sniffles",
+        "performing",
+        "element",
+        "snot",
+        "provide",
+        "icy",
+        "needs"
+      ]
     }
   ],
   "similarPokemonIds": [

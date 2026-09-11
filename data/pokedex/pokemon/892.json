@@ -10,6 +10,30 @@
   ],
   "imagePath": "/assets/pokemon/892.png",
   "entryCount": 2,
+  "entryTraits": [
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "believer",
+    "inhabiting",
+    "refining",
+    "fist",
+    "strategy",
+    "ko",
+    "sheer",
+    "leap",
+    "devastating",
+    "distant",
+    "races",
+    "cliffs",
+    "hit",
+    "hardened",
+    "training",
+    "blow",
+    "region",
+    "across",
+    "close"
+  ],
   "color": "gray",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +63,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "believer",
+        "fist",
+        "strategy",
+        "ko",
+        "leap",
+        "devastating",
+        "hit",
+        "hardened",
+        "blow",
+        "close"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +84,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "inhabiting",
+        "refining",
+        "sheer",
+        "distant",
+        "races",
+        "cliffs",
+        "training",
+        "region",
+        "across"
+      ]
     }
   ],
   "similarPokemonIds": [

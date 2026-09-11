@@ -10,6 +10,74 @@
   ],
   "imagePath": "/assets/pokemon/034.png",
   "entryCount": 28,
+  "entryTraits": [
+    "tail",
+    "hunting",
+    "horns",
+    "arms",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "melee",
+    "prides",
+    "spirited",
+    "toppling",
+    "specialty",
+    "flinches",
+    "forceful",
+    "render",
+    "spine",
+    "transmission",
+    "nidoqueen",
+    "helpless",
+    "stopping",
+    "adds",
+    "constrict",
+    "enormously",
+    "matchstick",
+    "tower",
+    "recognized",
+    "pierce",
+    "combat",
+    "binds",
+    "pole",
+    "crushing",
+    "calms",
+    "topple",
+    "tackle",
+    "extended",
+    "forcefully",
+    "venom",
+    "mighty",
+    "smash",
+    "rampage",
+    "careful",
+    "telephone",
+    "presence",
+    "packs",
+    "swings",
+    "quite",
+    "destructive",
+    "snap",
+    "diamond",
+    "swing",
+    "metal",
+    "charge",
+    "impossible",
+    "victim",
+    "contains",
+    "break",
+    "bones",
+    "lived",
+    "hide",
+    "sturdy",
+    "strength",
+    "capable",
+    "rock",
+    "horns",
+    "horn",
+    "big"
+  ],
   "color": "purple",
   "shape": "upright",
   "habitat": "grassland",
@@ -40,7 +108,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "constrict",
+        "smash",
+        "break",
+        "bones"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +126,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "constrict",
+        "smash",
+        "break",
+        "bones"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +144,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "adds",
+        "pierce",
+        "tackle",
+        "diamond",
+        "hide",
+        "horns"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +163,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "flinches",
+        "swings",
+        "charge",
+        "sturdy",
+        "big"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +181,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "spine",
+        "binds",
+        "quite",
+        "snap",
+        "victim"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +199,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "melee",
+        "specialty",
+        "combat",
+        "forcefully"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +217,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "NIDOKING’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this POKéMON goes on a rampage, there is no stopping it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "transmission",
+        "stopping",
+        "enormously",
+        "tower",
+        "topple",
+        "rampage",
+        "packs",
+        "destructive",
+        "swing",
+        "metal"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +240,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "NIDOKING’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this POKéMON goes on a rampage, there is no stopping it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "transmission",
+        "stopping",
+        "enormously",
+        "tower",
+        "topple",
+        "rampage",
+        "packs",
+        "destructive",
+        "swing",
+        "metal"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +263,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A NIDOKING’s thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "toppling",
+        "transmission",
+        "stopping",
+        "enormously",
+        "tower",
+        "rampage",
+        "packs",
+        "destructive",
+        "metal",
+        "capable"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +286,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "recognized",
+        "extended",
+        "venom",
+        "careful",
+        "contains",
+        "hide",
+        "rock",
+        "horn"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +308,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It uses its powerful tail in battle to smash, constrict, then break the prey’s bones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "constrict",
+        "smash",
+        "break",
+        "bones"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +326,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "matchstick",
+        "pole",
+        "mighty",
+        "telephone",
+        "snap",
+        "swing"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +345,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "matchstick",
+        "pole",
+        "mighty",
+        "telephone",
+        "snap",
+        "swing"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +364,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "matchstick",
+        "pole",
+        "mighty",
+        "telephone",
+        "snap",
+        "swing"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +383,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "flinches",
+        "swings",
+        "charge",
+        "sturdy",
+        "big"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +401,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its tail is thick and powerful. If it binds an enemy, it can render the victim helpless quite easily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "render",
+        "helpless",
+        "binds",
+        "quite",
+        "victim"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +419,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "matchstick",
+        "pole",
+        "mighty",
+        "telephone",
+        "snap",
+        "swing"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +438,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "matchstick",
+        "pole",
+        "mighty",
+        "telephone",
+        "snap",
+        "swing"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +457,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "matchstick",
+        "pole",
+        "mighty",
+        "telephone",
+        "snap",
+        "swing"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +476,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "matchstick",
+        "pole",
+        "mighty",
+        "telephone",
+        "snap",
+        "swing"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +495,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "poisonous"
+      ],
+      "keywords": [
+        "recognized",
+        "extended",
+        "venom",
+        "careful",
+        "contains",
+        "hide",
+        "rock",
+        "horn"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +517,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "matchstick",
+        "pole",
+        "mighty",
+        "telephone",
+        "snap",
+        "swing"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +536,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Nidoking’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "transmission",
+        "stopping",
+        "enormously",
+        "tower",
+        "topple",
+        "rampage",
+        "packs",
+        "destructive",
+        "swing",
+        "metal"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +559,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Nidoking’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "transmission",
+        "stopping",
+        "enormously",
+        "tower",
+        "topple",
+        "rampage",
+        "packs",
+        "destructive",
+        "swing",
+        "metal"
+      ]
     },
     {
       "versionId": 31,
@@ -232,7 +582,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "adds",
+        "pierce",
+        "tackle",
+        "diamond",
+        "hide",
+        "horns"
+      ]
     },
     {
       "versionId": 32,
@@ -240,7 +601,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "adds",
+        "pierce",
+        "tackle",
+        "diamond",
+        "hide",
+        "horns"
+      ]
     },
     {
       "versionId": 33,
@@ -248,7 +620,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When it goes on a rampage, it’s impossible to control. But in the presence of a Nidoqueen it’s lived with for a long time, Nidoking calms down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nidoqueen",
+        "calms",
+        "rampage",
+        "presence",
+        "impossible",
+        "lived"
+      ]
     },
     {
       "versionId": 34,
@@ -256,7 +637,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns",
+        "tail"
+      ],
+      "keywords": [
+        "prides",
+        "spirited",
+        "forceful",
+        "crushing",
+        "diamond",
+        "strength",
+        "horn"
+      ]
     }
   ],
   "similarPokemonIds": [

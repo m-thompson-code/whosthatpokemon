@@ -10,6 +10,28 @@
   ],
   "imagePath": "/assets/pokemon/881.png",
   "entryCount": 2,
+  "entryTraits": [
+    "electric",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "preserve",
+    "seashores",
+    "upper",
+    "prehistoric",
+    "moved",
+    "shaking",
+    "went",
+    "slowly",
+    "freezing",
+    "extinct",
+    "half",
+    "generates",
+    "walking",
+    "lived",
+    "able"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +61,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "upper",
+        "shaking",
+        "freezing",
+        "half",
+        "generates",
+        "walking"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +80,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "preserve",
+        "seashores",
+        "prehistoric",
+        "moved",
+        "went",
+        "slowly",
+        "extinct",
+        "lived",
+        "able"
+      ]
     }
   ],
   "similarPokemonIds": [

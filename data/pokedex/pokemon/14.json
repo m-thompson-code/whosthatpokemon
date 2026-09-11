@@ -10,6 +10,63 @@
   ],
   "imagePath": "/assets/pokemon/014.png",
   "entryCount": 26,
+  "entryTraits": [
+    "shell",
+    "poisonous",
+    "forest-dwelling",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "leans",
+    "softer",
+    "external",
+    "temporary",
+    "busy",
+    "stage",
+    "er",
+    "stout",
+    "nooks",
+    "immobile",
+    "evident",
+    "prepares",
+    "extend",
+    "barb",
+    "endangered",
+    "busily",
+    "harden",
+    "stinger",
+    "incapable",
+    "clings",
+    "awaiting",
+    "adult",
+    "cocoon",
+    "virtually",
+    "waiting",
+    "stick",
+    "unable",
+    "hardens",
+    "completely",
+    "coming",
+    "movement",
+    "nearly",
+    "predators",
+    "slightly",
+    "branches",
+    "soft",
+    "able",
+    "almost",
+    "touch",
+    "remains",
+    "little",
+    "against",
+    "attacked",
+    "hides",
+    "moving",
+    "although",
+    "evolution",
+    "hot",
+    "extremely"
+  ],
   "color": "yellow",
   "shape": "squiggle",
   "habitat": "forest",
@@ -39,7 +96,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "harden",
+        "incapable",
+        "predators",
+        "almost",
+        "moving"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +114,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "harden",
+        "incapable",
+        "predators",
+        "almost",
+        "moving"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +132,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "endangered",
+        "stinger",
+        "stick",
+        "slightly",
+        "able"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +150,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "extend",
+        "barb",
+        "cocoon",
+        "little",
+        "attacked",
+        "although"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +169,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "From this form, it will grow into an adult. As its body becomes soft­ er, the external shell hardens.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "external",
+        "er",
+        "adult",
+        "hardens",
+        "soft"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +187,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Nearly incapable of movement, it leans against stout trees while waiting for its evolution.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "leans",
+        "stout",
+        "incapable",
+        "waiting",
+        "movement",
+        "nearly",
+        "against",
+        "evolution"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +208,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "busy",
+        "immobile",
+        "evident",
+        "prepares",
+        "clings",
+        "virtually",
+        "coming",
+        "touch",
+        "remains",
+        "evolution",
+        "hot",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +235,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "busy",
+        "immobile",
+        "evident",
+        "prepares",
+        "clings",
+        "virtually",
+        "coming",
+        "touch",
+        "remains",
+        "evolution",
+        "hot",
+        "extremely"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +262,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "immobile",
+        "evident",
+        "prepares",
+        "busily",
+        "clings",
+        "virtually",
+        "remains",
+        "evolution",
+        "hot"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +286,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON is in a temporary stage while making its body. It is almost completely unable to move on its own.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "temporary",
+        "stage",
+        "unable",
+        "completely",
+        "almost"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +302,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself when it is in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "harden",
+        "incapable",
+        "almost",
+        "moving"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +319,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nooks",
+        "awaiting",
+        "predators",
+        "branches",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +336,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nooks",
+        "awaiting",
+        "predators",
+        "branches",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +353,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nooks",
+        "awaiting",
+        "predators",
+        "branches",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +370,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "extend",
+        "barb",
+        "cocoon",
+        "little",
+        "attacked",
+        "although"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +389,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "softer",
+        "external",
+        "adult",
+        "hardens"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +406,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nooks",
+        "awaiting",
+        "predators",
+        "branches",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +423,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nooks",
+        "awaiting",
+        "predators",
+        "branches",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +440,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nooks",
+        "awaiting",
+        "predators",
+        "branches",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +457,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nooks",
+        "awaiting",
+        "predators",
+        "branches",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +474,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "harden",
+        "incapable",
+        "almost",
+        "moving"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +491,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nooks",
+        "awaiting",
+        "predators",
+        "branches",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +508,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "busy",
+        "immobile",
+        "evident",
+        "prepares",
+        "clings",
+        "virtually",
+        "coming",
+        "touch",
+        "remains",
+        "evolution",
+        "hot",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +535,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "shell",
+        "fiery"
+      ],
+      "keywords": [
+        "busy",
+        "immobile",
+        "evident",
+        "prepares",
+        "clings",
+        "virtually",
+        "coming",
+        "touch",
+        "remains",
+        "evolution",
+        "hot",
+        "extremely"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +562,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "endangered",
+        "stinger",
+        "stick",
+        "slightly",
+        "able"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +580,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "endangered",
+        "stinger",
+        "stick",
+        "slightly",
+        "able"
+      ]
     }
   ],
   "similarPokemonIds": [

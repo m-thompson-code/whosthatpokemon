@@ -9,6 +9,23 @@
   ],
   "imagePath": "/assets/pokemon/803.png",
   "entryCount": 2,
+  "entryTraits": [
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "cackles",
+    "liked",
+    "chosen",
+    "partner",
+    "beast",
+    "ultra",
+    "needles",
+    "wildly",
+    "sprays",
+    "first",
+    "different",
+    "well"
+  ],
   "color": "purple",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +55,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "liked",
+        "chosen",
+        "partner",
+        "beast",
+        "ultra",
+        "first",
+        "well"
+      ]
     },
     {
       "versionId": 30,
@@ -46,7 +73,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "cackles",
+        "beast",
+        "ultra",
+        "needles",
+        "wildly",
+        "sprays",
+        "different"
+      ]
     }
   ],
   "similarPokemonIds": [

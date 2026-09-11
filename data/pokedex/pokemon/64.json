@@ -9,6 +9,127 @@
   ],
   "imagePath": "/assets/pokemon/064.png",
   "entryCount": 33,
+  "entryTraits": [
+    "aquatic",
+    "psychic",
+    "arms",
+    "tail",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "assisting",
+    "awoke",
+    "ha",
+    "halved",
+    "happened",
+    "infests",
+    "monitors",
+    "parti",
+    "screens",
+    "televisions",
+    "unverified",
+    "cles",
+    "psyche",
+    "ruin",
+    "couldn",
+    "springy",
+    "extrasensory",
+    "immensely",
+    "malfunction",
+    "telekinesis",
+    "boy",
+    "ended",
+    "example",
+    "limited",
+    "mental",
+    "tv",
+    "clocks",
+    "creepy",
+    "enhances",
+    "pillow",
+    "telekinetic",
+    "hope",
+    "levitates",
+    "stares",
+    "devices",
+    "happen",
+    "silver",
+    "spoons",
+    "theory",
+    "focus",
+    "prepare",
+    "machines",
+    "precision",
+    "spiritual",
+    "suspect",
+    "bed",
+    "capabilities",
+    "shadow",
+    "spoon",
+    "backwards",
+    "develops",
+    "gold",
+    "holding",
+    "exists",
+    "luck",
+    "peculiar",
+    "rumors",
+    "twice",
+    "usual",
+    "alpha",
+    "mystical",
+    "particularly",
+    "eerie",
+    "induce",
+    "wave",
+    "headache",
+    "possesses",
+    "shadows",
+    "rumored",
+    "closes",
+    "presence",
+    "backward",
+    "abilities",
+    "star",
+    "amplify",
+    "faces",
+    "loose",
+    "amount",
+    "headaches",
+    "i",
+    "morning",
+    "bad",
+    "transformed",
+    "child",
+    "mind",
+    "forehead",
+    "nearby",
+    "research",
+    "seeing",
+    "doing",
+    "hand",
+    "suddenly",
+    "half",
+    "bring",
+    "holds",
+    "odd",
+    "became",
+    "young",
+    "run",
+    "remains",
+    "special",
+    "stronger",
+    "brain",
+    "surface",
+    "lets",
+    "sleeps",
+    "emits",
+    "good",
+    "stores",
+    "evolution",
+    "close",
+    "apparently"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "urban",
@@ -38,7 +159,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "It emits special alpha waves from its body that induce headaches just by being close by.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alpha",
+        "induce",
+        "headaches",
+        "special",
+        "emits",
+        "close"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +178,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "It emits special alpha waves from its body that induce headaches just by being close by.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alpha",
+        "induce",
+        "headaches",
+        "special",
+        "emits",
+        "close"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +197,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Many odd things happen if this POKéMON is close by. For example, it makes clocks run backwards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "example",
+        "clocks",
+        "happen",
+        "backwards",
+        "odd",
+        "run",
+        "close"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +215,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "spiritual",
+        "possesses",
+        "faces",
+        "stronger"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +232,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "malfunction",
+        "machines",
+        "alpha",
+        "abilities",
+        "special",
+        "emits"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +251,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it closes its eyes, twice as many alpha parti­ cles come out of the surface of its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "parti",
+        "cles",
+        "twice",
+        "alpha",
+        "closes",
+        "surface"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +268,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "KADABRA emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a TRAINER of this POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "psyche",
+        "hope",
+        "develops",
+        "peculiar",
+        "alpha",
+        "particularly",
+        "wave",
+        "headache",
+        "emits"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +290,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KADABRA holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the POKéMON is said to be limited to half the usual amount of its telekinetic powers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "limited",
+        "telekinetic",
+        "silver",
+        "spoon",
+        "usual",
+        "alpha",
+        "amplify",
+        "amount",
+        "hand",
+        "half",
+        "holds",
+        "brain"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +316,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is rumored that a boy with psychic abilities suddenly transformed into KADABRA while he was assisting research into extrasensory powers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "assisting",
+        "extrasensory",
+        "boy",
+        "rumored",
+        "abilities",
+        "transformed",
+        "research",
+        "suddenly"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +337,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It happened one morning - a boy with extrasensory powers awoke in bed transformed into KADABRA.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "awoke",
+        "happened",
+        "extrasensory",
+        "boy",
+        "bed",
+        "morning",
+        "transformed"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +355,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It emits special alpha waves from its body that induce headaches just by being close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alpha",
+        "induce",
+        "headaches",
+        "special",
+        "emits",
+        "close"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +374,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "If one is nearby, an eerie shadow appears on TV screens. Seeing the shadow is said to bring bad luck.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "screens",
+        "tv",
+        "shadow",
+        "luck",
+        "eerie",
+        "bad",
+        "nearby",
+        "seeing",
+        "bring"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +394,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When it uses its psychic power, it emits strong ha waves that can ruin precision devices.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "psychic"
+      ],
+      "keywords": [
+        "ha",
+        "ruin",
+        "devices",
+        "precision",
+        "emits"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +413,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "psychic"
+      ],
+      "keywords": [
+        "stares",
+        "silver",
+        "focus",
+        "spoon",
+        "alpha",
+        "mind",
+        "doing",
+        "emits"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +435,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "spiritual",
+        "possesses",
+        "faces",
+        "stronger"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +452,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "malfunction",
+        "machines",
+        "alpha",
+        "abilities",
+        "special",
+        "emits"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +471,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "psychic"
+      ],
+      "keywords": [
+        "stares",
+        "silver",
+        "focus",
+        "spoon",
+        "alpha",
+        "mind",
+        "doing",
+        "emits"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +493,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "psychic"
+      ],
+      "keywords": [
+        "stares",
+        "silver",
+        "focus",
+        "spoon",
+        "alpha",
+        "mind",
+        "doing",
+        "emits"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +515,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "psychic"
+      ],
+      "keywords": [
+        "stares",
+        "silver",
+        "focus",
+        "spoon",
+        "alpha",
+        "mind",
+        "doing",
+        "emits"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +537,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "psychic"
+      ],
+      "keywords": [
+        "stares",
+        "silver",
+        "focus",
+        "spoon",
+        "alpha",
+        "mind",
+        "doing",
+        "emits"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +559,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "psychic"
+      ],
+      "keywords": [
+        "ruin",
+        "devices",
+        "precision",
+        "alpha",
+        "emits"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +578,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "malfunction",
+        "machines",
+        "alpha",
+        "abilities",
+        "special",
+        "emits"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +597,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "psyche",
+        "hope",
+        "develops",
+        "peculiar",
+        "alpha",
+        "particularly",
+        "wave",
+        "headache",
+        "emits"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +619,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "limited",
+        "telekinetic",
+        "silver",
+        "spoon",
+        "usual",
+        "alpha",
+        "amplify",
+        "amount",
+        "hand",
+        "half",
+        "holds",
+        "brain"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +645,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A theory exists that this Pokémon was a young boy who couldn’t control his psychic powers and ended up transformed into this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "couldn",
+        "boy",
+        "ended",
+        "theory",
+        "exists",
+        "transformed",
+        "young"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +665,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Kadabra’s presence infests televisions and monitors with creepy shadows that bring bad luck.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "infests",
+        "monitors",
+        "televisions",
+        "creepy",
+        "luck",
+        "shadows",
+        "presence",
+        "bad",
+        "bring"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +685,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It stares at a silver spoon to amplify its psychic powers before it lets loose. Apparently, gold spoons are no good.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "stares",
+        "silver",
+        "spoons",
+        "spoon",
+        "gold",
+        "amplify",
+        "loose",
+        "lets",
+        "good",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +708,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It possesses strong mental capabilities, but its psychic powers are halved when it’s not holding a silver spoon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "halved",
+        "mental",
+        "silver",
+        "capabilities",
+        "spoon",
+        "holding",
+        "possesses"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +728,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "example",
+        "clocks",
+        "happen",
+        "backward",
+        "odd",
+        "run",
+        "close"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +746,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "example",
+        "clocks",
+        "happen",
+        "backward",
+        "odd",
+        "run",
+        "close"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +764,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "sleeping",
+        "psychic"
+      ],
+      "keywords": [
+        "springy",
+        "pillow",
+        "levitates",
+        "sleeps"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +783,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon’s telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "immensely",
+        "telekinesis",
+        "prepare",
+        "star",
+        "forehead",
+        "stores",
+        "evolution"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +803,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "unverified",
+        "enhances",
+        "suspect",
+        "spoon",
+        "rumors",
+        "mystical",
+        "i",
+        "child",
+        "holds",
+        "became",
+        "remains",
+        "brain"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,22 @@
   ],
   "imagePath": "/assets/pokemon/868.png",
   "entryCount": 2,
+  "entryTraits": [
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "guaranteed",
+    "patisserie",
+    "cream",
+    "success",
+    "visited",
+    "particles",
+    "fortune",
+    "smelling",
+    "say",
+    "good",
+    "born"
+  ],
   "color": "white",
   "shape": "ball",
   "habitat": null,
@@ -39,7 +55,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "cream",
+        "particles",
+        "smelling",
+        "born"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +72,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "guaranteed",
+        "patisserie",
+        "success",
+        "visited",
+        "fortune",
+        "say",
+        "good"
+      ]
     }
   ],
   "similarPokemonIds": [

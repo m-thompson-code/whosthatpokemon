@@ -9,6 +9,43 @@
   ],
   "imagePath": "/assets/pokemon/153.png",
   "entryCount": 21,
+  "entryTraits": [
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "ema",
+    "nates",
+    "spices",
+    "stimulant",
+    "peppy",
+    "ringed",
+    "tubular",
+    "energetic",
+    "restore",
+    "emanates",
+    "perks",
+    "buds",
+    "spicy",
+    "curled",
+    "ring",
+    "sniffing",
+    "somehow",
+    "wafts",
+    "acts",
+    "want",
+    "health",
+    "store",
+    "fragrance",
+    "shoot",
+    "smells",
+    "leaf",
+    "re",
+    "neck",
+    "causes",
+    "scent",
+    "anyone",
+    "aroma"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -39,7 +76,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spices",
+        "sniffing",
+        "somehow",
+        "want",
+        "neck",
+        "scent"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +93,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "A spicy aroma ema­ nates from around its neck. The aroma acts as a stimulant to re­ store health.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ema",
+        "nates",
+        "stimulant",
+        "spicy",
+        "acts",
+        "health",
+        "store",
+        "re",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +114,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "energetic",
+        "wafts",
+        "smells",
+        "neck",
+        "causes",
+        "scent",
+        "anyone"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +132,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "BAYLEEF’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "peppy",
+        "ringed",
+        "tubular",
+        "curled",
+        "fragrance",
+        "shoot",
+        "leaf",
+        "neck"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +153,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BAYLEEF’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "peppy",
+        "ringed",
+        "tubular",
+        "curled",
+        "fragrance",
+        "shoot",
+        "leaf",
+        "neck"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +174,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A BAYLEEF’s neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "peppy",
+        "ringed",
+        "curled",
+        "fragrance",
+        "shoot",
+        "leaf",
+        "neck"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +194,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stimulant",
+        "restore",
+        "emanates",
+        "spicy",
+        "acts",
+        "health",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +213,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spices",
+        "sniffing",
+        "somehow",
+        "want",
+        "neck",
+        "scent"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +230,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perks",
+        "buds",
+        "spicy",
+        "ring",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +247,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perks",
+        "buds",
+        "spicy",
+        "ring",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +264,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perks",
+        "buds",
+        "spicy",
+        "ring",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +281,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spices",
+        "sniffing",
+        "somehow",
+        "want",
+        "neck",
+        "scent"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +298,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stimulant",
+        "restore",
+        "emanates",
+        "spicy",
+        "acts",
+        "health",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +317,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perks",
+        "buds",
+        "spicy",
+        "ring",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +334,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perks",
+        "buds",
+        "spicy",
+        "ring",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +351,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perks",
+        "buds",
+        "spicy",
+        "ring",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +368,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perks",
+        "buds",
+        "spicy",
+        "ring",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +385,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stimulant",
+        "restore",
+        "emanates",
+        "spicy",
+        "acts",
+        "health",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +404,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perks",
+        "buds",
+        "spicy",
+        "ring",
+        "neck",
+        "aroma"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +421,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "peppy",
+        "ringed",
+        "tubular",
+        "curled",
+        "fragrance",
+        "shoot",
+        "leaf",
+        "neck"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +442,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "peppy",
+        "ringed",
+        "tubular",
+        "curled",
+        "fragrance",
+        "shoot",
+        "leaf",
+        "neck"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,43 @@
   ],
   "imagePath": "/assets/pokemon/751.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "sizes",
+    "comparing",
+    "meeting",
+    "potential",
+    "oxygen",
+    "dissolved",
+    "bubbles",
+    "crawls",
+    "smashes",
+    "bubble",
+    "meet",
+    "display",
+    "breathe",
+    "smaller",
+    "underwater",
+    "normally",
+    "allows",
+    "wears",
+    "means",
+    "covers",
+    "forms",
+    "onto",
+    "soft",
+    "walks",
+    "protects",
+    "rear",
+    "another",
+    "across",
+    "search",
+    "takes",
+    "covered"
+  ],
   "color": "green",
   "shape": "legs",
   "habitat": null,
@@ -40,7 +77,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "crawls",
+        "bubble",
+        "breathe",
+        "allows",
+        "onto",
+        "soft",
+        "protects",
+        "search"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +98,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When it comes across enemies or potential prey, this Pokémon smashes its water-bubble-covered head into them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "potential",
+        "smashes",
+        "bubble",
+        "across",
+        "covered"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +117,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When two Dewpider meet, they display their water bubbles to each other. Then the one with the smaller bubble gets out of the other’s way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bubbles",
+        "bubble",
+        "meet",
+        "display",
+        "smaller"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +135,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "oxygen",
+        "dissolved",
+        "bubble",
+        "breathe",
+        "wears",
+        "walks"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +154,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sizes",
+        "comparing",
+        "meeting",
+        "bubble",
+        "means",
+        "covers",
+        "forms",
+        "rear",
+        "another"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +176,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bubble",
+        "underwater",
+        "normally",
+        "onto",
+        "search",
+        "takes"
+      ]
     }
   ],
   "similarPokemonIds": [

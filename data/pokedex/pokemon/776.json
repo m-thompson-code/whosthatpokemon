@@ -10,6 +10,62 @@
   ],
   "imagePath": "/assets/pokemon/776.png",
   "entryCount": 6,
+  "entryTraits": [
+    "shell",
+    "fiery",
+    "poisonous",
+    "volcanic"
+  ],
+  "entryKeywords": [
+    "chemically",
+    "compounds",
+    "detonation",
+    "dung",
+    "refuge",
+    "dare",
+    "sulfur",
+    "gushes",
+    "poses",
+    "dangerously",
+    "droppings",
+    "silent",
+    "substances",
+    "develop",
+    "minerals",
+    "exploding",
+    "rainy",
+    "substance",
+    "immense",
+    "struck",
+    "basis",
+    "unstable",
+    "explodes",
+    "explosive",
+    "materials",
+    "point",
+    "volcanoes",
+    "nostrils",
+    "blown",
+    "real",
+    "put",
+    "violently",
+    "volcanic",
+    "various",
+    "habitat",
+    "hole",
+    "coat",
+    "sensitive",
+    "gases",
+    "moisture",
+    "stomach",
+    "caves",
+    "days",
+    "weak",
+    "causes",
+    "poisonous",
+    "eating",
+    "takes"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +96,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "chemically",
+        "struck",
+        "unstable",
+        "explodes",
+        "point",
+        "violently",
+        "hole",
+        "stomach",
+        "weak"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +118,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance and can be put to various uses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery",
+        "poisonous"
+      ],
+      "keywords": [
+        "dung",
+        "gushes",
+        "substance",
+        "explosive",
+        "nostrils",
+        "put",
+        "various",
+        "gases",
+        "poisonous"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +141,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "sulfur",
+        "minerals",
+        "basis",
+        "explosive",
+        "materials",
+        "volcanoes"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +160,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "refuge",
+        "poses",
+        "silent",
+        "exploding",
+        "rainy",
+        "real",
+        "sensitive",
+        "moisture",
+        "caves",
+        "days",
+        "takes"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +184,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "detonation",
+        "dare",
+        "substances",
+        "immense",
+        "explosive",
+        "blown",
+        "coat"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +204,23 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "shell"
+      ],
+      "keywords": [
+        "compounds",
+        "sulfur",
+        "dangerously",
+        "droppings",
+        "develop",
+        "explosive",
+        "volcanic",
+        "habitat",
+        "causes",
+        "eating"
+      ]
     }
   ],
   "similarPokemonIds": [

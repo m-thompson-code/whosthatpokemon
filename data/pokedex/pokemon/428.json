@@ -9,6 +9,72 @@
   ],
   "imagePath": "/assets/pokemon/428.png",
   "entryCount": 18,
+  "entryTraits": [
+    "fur",
+    "sky-dwelling",
+    "fiery",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "hats",
+    "insulating",
+    "mufflers",
+    "superdestructive",
+    "notably",
+    "preparation",
+    "regrows",
+    "sprightly",
+    "bounds",
+    "conscious",
+    "groom",
+    "monitoring",
+    "dislike",
+    "karate",
+    "responds",
+    "lithe",
+    "remarkably",
+    "replaced",
+    "cloaks",
+    "wary",
+    "colder",
+    "touched",
+    "deliver",
+    "graceful",
+    "delicate",
+    "ear",
+    "jumps",
+    "twice",
+    "lot",
+    "driving",
+    "fails",
+    "ease",
+    "roughly",
+    "winter",
+    "cautious",
+    "master",
+    "really",
+    "seasons",
+    "approaches",
+    "sheds",
+    "yet",
+    "fluffy",
+    "coat",
+    "holds",
+    "year",
+    "kicks",
+    "soft",
+    "fighting",
+    "weather",
+    "runs",
+    "constantly",
+    "surroundings",
+    "though",
+    "ears",
+    "same",
+    "quickly",
+    "hot",
+    "extremely"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +105,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "cloaks",
+        "ear",
+        "cautious",
+        "fluffy",
+        "extremely"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +123,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is very conscious of its looks and never fails to groom its ears. It runs with sprightly jumps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sprightly",
+        "conscious",
+        "groom",
+        "jumps",
+        "fails",
+        "runs",
+        "ears"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +141,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "touched",
+        "graceful",
+        "delicate",
+        "roughly",
+        "kicks",
+        "ears"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +158,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It sheds its fur twice a year. Its winter fur is soft and fluffy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "twice",
+        "winter",
+        "sheds",
+        "fluffy",
+        "year",
+        "soft"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +177,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It sheds its fur twice a year. Its winter fur is soft and fluffy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "twice",
+        "winter",
+        "sheds",
+        "fluffy",
+        "year",
+        "soft"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +196,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "touched",
+        "graceful",
+        "delicate",
+        "roughly",
+        "kicks",
+        "ears"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +213,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "touched",
+        "graceful",
+        "delicate",
+        "roughly",
+        "kicks",
+        "ears"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +230,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Extremely cautious, it quickly bounds off when it senses danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bounds",
+        "cautious",
+        "quickly",
+        "extremely"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +245,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Extremely cautious, it quickly bounds off when it senses danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bounds",
+        "cautious",
+        "quickly",
+        "extremely"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +260,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Extremely cautious, it quickly bounds off when it senses danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bounds",
+        "cautious",
+        "quickly",
+        "extremely"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +275,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "touched",
+        "graceful",
+        "delicate",
+        "roughly",
+        "kicks",
+        "ears"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +292,14 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Extremely cautious, it quickly bounds off when it senses danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bounds",
+        "cautious",
+        "quickly",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +307,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "touched",
+        "graceful",
+        "delicate",
+        "roughly",
+        "kicks",
+        "ears"
+      ]
     },
     {
       "versionId": 29,
@@ -143,7 +324,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Lopunny regrows its coat twice a year. Mufflers and hats made from its fur are really warm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "hats",
+        "mufflers",
+        "regrows",
+        "twice",
+        "really",
+        "coat",
+        "year"
+      ]
     },
     {
       "versionId": 30,
@@ -151,7 +344,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s notably wary and has a dislike of fighting, but at the same time, it can deliver powerful kicks with its lithe legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "notably",
+        "dislike",
+        "lithe",
+        "wary",
+        "deliver",
+        "kicks",
+        "fighting",
+        "same"
+      ]
     },
     {
       "versionId": 33,
@@ -159,7 +363,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "superdestructive",
+        "monitoring",
+        "responds",
+        "approaches",
+        "kicks",
+        "constantly",
+        "surroundings"
+      ]
     },
     {
       "versionId": 34,
@@ -167,7 +381,24 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Once hot seasons are over, Lopunny’s coat will be replaced with fur that holds a lot of insulating air in preparation for colder weather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "insulating",
+        "preparation",
+        "replaced",
+        "colder",
+        "lot",
+        "seasons",
+        "coat",
+        "holds",
+        "weather",
+        "hot"
+      ]
     },
     {
       "versionId": 39,
@@ -175,7 +406,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its fur is warm and yet remarkably light. This Pokémon kicks as though it were a master of karate, driving back its opponents with ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "luminous"
+      ],
+      "keywords": [
+        "karate",
+        "remarkably",
+        "driving",
+        "ease",
+        "master",
+        "yet",
+        "kicks",
+        "though"
+      ]
     }
   ],
   "similarPokemonIds": [

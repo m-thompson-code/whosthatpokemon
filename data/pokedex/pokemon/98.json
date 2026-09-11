@@ -9,6 +9,56 @@
   ],
   "imagePath": "/assets/pokemon/098.png",
   "entryCount": 28,
+  "entryTraits": [
+    "desert-dwelling",
+    "territorial",
+    "aquatic",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "ger",
+    "mouthful",
+    "dan",
+    "sockets",
+    "burrowed",
+    "squabbling",
+    "cloaks",
+    "shores",
+    "sideways",
+    "bubbles",
+    "approaching",
+    "sandy",
+    "swallowing",
+    "incapable",
+    "somehow",
+    "pincer",
+    "superb",
+    "torn",
+    "dug",
+    "ing",
+    "broken",
+    "walk",
+    "weapons",
+    "unable",
+    "balance",
+    "fully",
+    "beaches",
+    "loses",
+    "absorb",
+    "bigger",
+    "burrows",
+    "break",
+    "find",
+    "walking",
+    "holes",
+    "pincers",
+    "near",
+    "little",
+    "look",
+    "nutrients",
+    "sand",
+    "fast"
+  ],
   "color": "red",
   "shape": "armor",
   "habitat": "waters-edge",
@@ -38,7 +88,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sideways",
+        "weapons",
+        "balance",
+        "walking",
+        "pincers"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +104,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sideways",
+        "weapons",
+        "balance",
+        "walking",
+        "pincers"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +120,15 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "superb",
+        "weapons",
+        "break",
+        "pincers",
+        "fast"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +136,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If it senses dan­ ger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ger",
+        "dan",
+        "cloaks",
+        "bubbles",
+        "approaching",
+        "bigger",
+        "look"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +154,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walk­ ing sideways.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sideways",
+        "incapable",
+        "somehow",
+        "pincer",
+        "ing",
+        "walk",
+        "loses",
+        "break",
+        "pincers"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +174,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "mouthful",
+        "swallowing",
+        "unable",
+        "absorb",
+        "find",
+        "nutrients",
+        "sand"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +194,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "KRABBY live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these POKéMON can be seen squabbling with each other over territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "burrowed",
+        "squabbling",
+        "sandy",
+        "dug",
+        "beaches",
+        "holes",
+        "little",
+        "sand"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +216,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KRABBY live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these POKéMON can be seen squabbling with each other over territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "burrowed",
+        "squabbling",
+        "sandy",
+        "dug",
+        "beaches",
+        "holes",
+        "little",
+        "sand"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +238,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "KRABBY live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "squabbling",
+        "shores",
+        "sandy",
+        "dug",
+        "beaches",
+        "holes",
+        "little"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +259,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sockets",
+        "torn",
+        "pincers",
+        "near"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +276,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sideways",
+        "weapons",
+        "balance",
+        "walking",
+        "pincers"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +292,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "sandy",
+        "dug",
+        "broken",
+        "fully",
+        "beaches",
+        "burrows",
+        "pincers"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +313,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "sandy",
+        "dug",
+        "broken",
+        "fully",
+        "beaches",
+        "burrows",
+        "pincers"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +334,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "sandy",
+        "dug",
+        "broken",
+        "fully",
+        "beaches",
+        "burrows",
+        "pincers"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +355,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cloaks",
+        "bubbles",
+        "approaching",
+        "bigger",
+        "look"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +371,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sideways",
+        "incapable",
+        "somehow",
+        "pincer",
+        "loses",
+        "break",
+        "walking",
+        "pincers"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +390,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "sandy",
+        "dug",
+        "broken",
+        "fully",
+        "beaches",
+        "burrows",
+        "pincers"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +411,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "sandy",
+        "dug",
+        "broken",
+        "fully",
+        "beaches",
+        "burrows",
+        "pincers"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +432,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "sandy",
+        "dug",
+        "broken",
+        "fully",
+        "beaches",
+        "burrows",
+        "pincers"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +453,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "sandy",
+        "dug",
+        "broken",
+        "fully",
+        "beaches",
+        "burrows",
+        "pincers"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +474,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cloaks",
+        "bubbles",
+        "approaching",
+        "bigger",
+        "look"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +490,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sockets",
+        "torn",
+        "pincers",
+        "near"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +507,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "burrowed",
+        "squabbling",
+        "sandy",
+        "dug",
+        "beaches",
+        "holes",
+        "little",
+        "sand"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +529,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "burrowed",
+        "squabbling",
+        "sandy",
+        "dug",
+        "beaches",
+        "holes",
+        "little",
+        "sand"
+      ]
     },
     {
       "versionId": 31,
@@ -230,7 +551,15 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "superb",
+        "weapons",
+        "break",
+        "pincers",
+        "fast"
+      ]
     },
     {
       "versionId": 32,
@@ -238,7 +567,15 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "superb",
+        "weapons",
+        "break",
+        "pincers",
+        "fast"
+      ]
     },
     {
       "versionId": 33,
@@ -246,7 +583,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sockets",
+        "torn",
+        "pincers",
+        "near"
+      ]
     },
     {
       "versionId": 34,
@@ -254,7 +600,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cloaks",
+        "bubbles",
+        "approaching",
+        "bigger",
+        "look"
+      ]
     }
   ],
   "similarPokemonIds": [

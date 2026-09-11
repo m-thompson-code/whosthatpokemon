@@ -9,6 +9,82 @@
   ],
   "imagePath": "/assets/pokemon/265.png",
   "entryCount": 19,
+  "entryTraits": [
+    "forest-dwelling",
+    "hunting",
+    "poisonous",
+    "sky-dwelling",
+    "tail"
+  ],
+  "entryKeywords": [
+    "contacts",
+    "amidst",
+    "spiked",
+    "leaking",
+    "pointing",
+    "slows",
+    "glass",
+    "predator",
+    "slipping",
+    "starly",
+    "swellow",
+    "abundant",
+    "cling",
+    "resist",
+    "resists",
+    "weaken",
+    "pads",
+    "peels",
+    "releasing",
+    "thread",
+    "defend",
+    "desperately",
+    "tipped",
+    "gooey",
+    "targeted",
+    "venomous",
+    "immobilize",
+    "sap",
+    "raising",
+    "suction",
+    "touches",
+    "sticks",
+    "oozes",
+    "bark",
+    "allow",
+    "repels",
+    "various",
+    "tall",
+    "unknown",
+    "why",
+    "movement",
+    "spits",
+    "sticky",
+    "wild",
+    "silk",
+    "forms",
+    "white",
+    "attacking",
+    "feeds",
+    "evolves",
+    "branches",
+    "tell",
+    "try",
+    "cannot",
+    "end",
+    "likes",
+    "appearance",
+    "rear",
+    "forests",
+    "turns",
+    "among",
+    "different",
+    "spikes",
+    "attacked",
+    "grass",
+    "bird",
+    "eat"
+  ],
   "color": "red",
   "shape": "armor",
   "habitat": "forest",
@@ -38,7 +114,27 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON’s feet are tipped with suction pads that allow it to cling to glass without slipping.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "glass",
+        "slipping",
+        "cling",
+        "pads",
+        "peels",
+        "tipped",
+        "sap",
+        "suction",
+        "oozes",
+        "bark",
+        "allow",
+        "feeds",
+        "end",
+        "rear",
+        "spikes"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +142,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WURMPLE is targeted by SWELLOW as prey. This POKéMON will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "leaking",
+        "pointing",
+        "predator",
+        "swellow",
+        "resist",
+        "weaken",
+        "targeted",
+        "attacking",
+        "try",
+        "rear",
+        "spikes"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +167,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "slows",
+        "thread",
+        "gooey",
+        "touches",
+        "sticks",
+        "movement",
+        "spits",
+        "branches"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +189,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "amidst",
+        "pointing",
+        "resists",
+        "venomous",
+        "tall",
+        "forests",
+        "spikes",
+        "attacked",
+        "grass"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +209,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "amidst",
+        "pointing",
+        "resists",
+        "venomous",
+        "tall",
+        "forests",
+        "spikes",
+        "attacked",
+        "grass"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +229,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It loves to eat leaves. If it is attacked by a STARLY, it will defend itself with its spiked rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spiked",
+        "starly",
+        "defend",
+        "rear",
+        "attacked",
+        "eat"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +246,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It spits a white silk that turns sticky when it contacts air. It is used to immobilize foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "contacts",
+        "immobilize",
+        "spits",
+        "sticky",
+        "silk",
+        "white",
+        "turns"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +266,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "resists",
+        "releasing",
+        "desperately",
+        "targeted",
+        "spikes",
+        "bird"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +286,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "raising",
+        "repels",
+        "tall",
+        "rear",
+        "forests",
+        "among",
+        "spikes",
+        "grass"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +305,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "raising",
+        "repels",
+        "tall",
+        "rear",
+        "forests",
+        "among",
+        "spikes",
+        "grass"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +324,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "resists",
+        "releasing",
+        "desperately",
+        "targeted",
+        "spikes",
+        "bird"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +344,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "resists",
+        "releasing",
+        "desperately",
+        "targeted",
+        "spikes",
+        "bird"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +364,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "resists",
+        "releasing",
+        "desperately",
+        "targeted",
+        "spikes",
+        "bird"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +384,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "resists",
+        "releasing",
+        "desperately",
+        "targeted",
+        "spikes",
+        "bird"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +404,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It loves to eat leaves. If it is attacked by a Starly, it will defend itself with its spiked rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spiked",
+        "starly",
+        "defend",
+        "rear",
+        "attacked",
+        "eat"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +421,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "raising",
+        "repels",
+        "tall",
+        "rear",
+        "forests",
+        "among",
+        "spikes",
+        "grass"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +440,27 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokémon’s feet are tipped with suction pads that allow it to cling to glass without slipping.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "glass",
+        "slipping",
+        "cling",
+        "pads",
+        "peels",
+        "tipped",
+        "sap",
+        "suction",
+        "oozes",
+        "bark",
+        "allow",
+        "feeds",
+        "end",
+        "rear",
+        "spikes"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +468,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wurmple is targeted by Swellow as prey. This Pokémon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "leaking",
+        "pointing",
+        "predator",
+        "swellow",
+        "resist",
+        "weaken",
+        "targeted",
+        "attacking",
+        "try",
+        "rear",
+        "spikes"
+      ]
     },
     {
       "versionId": 39,
@@ -182,7 +493,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Likes sap and is abundant in the wild. Why it evolves into various different forms is unknown. One cannot tell from a Wurmple's appearance which form it will take when it evolves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "abundant",
+        "sap",
+        "various",
+        "unknown",
+        "why",
+        "wild",
+        "forms",
+        "evolves",
+        "tell",
+        "cannot",
+        "likes",
+        "appearance",
+        "different"
+      ]
     }
   ],
   "similarPokemonIds": [

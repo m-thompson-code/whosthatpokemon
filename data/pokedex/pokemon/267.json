@@ -10,6 +10,66 @@
   ],
   "imagePath": "/assets/pokemon/267.png",
   "entryCount": 19,
+  "entryTraits": [
+    "wings",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "colorfully",
+    "greedy",
+    "coiled",
+    "potted",
+    "window",
+    "colorful",
+    "vibrantly",
+    "prominent",
+    "jabbing",
+    "convenient",
+    "drain",
+    "feature",
+    "patterned",
+    "flits",
+    "jabs",
+    "collecting",
+    "ferociously",
+    "needle",
+    "narrow",
+    "stabs",
+    "rides",
+    "nectar",
+    "gathering",
+    "combee",
+    "disturbed",
+    "want",
+    "savage",
+    "incredibly",
+    "angered",
+    "effort",
+    "chase",
+    "sucks",
+    "looking",
+    "aggressive",
+    "fluids",
+    "leave",
+    "sure",
+    "bloom",
+    "despite",
+    "favorite",
+    "spring",
+    "fields",
+    "open",
+    "pollen",
+    "try",
+    "winds",
+    "appearance",
+    "beautiful",
+    "thin",
+    "flowers",
+    "flower",
+    "nature",
+    "gather",
+    "covered"
+  ],
   "color": "yellow",
   "shape": "bug-wings",
   "habitat": "forest",
@@ -39,7 +99,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "BEAUTIFLY’s favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "potted",
+        "window",
+        "want",
+        "looking",
+        "leave",
+        "sure",
+        "favorite",
+        "open",
+        "pollen",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +121,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BEAUTIFLY has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This POKéMON rides the spring winds as it flits around gathering pollen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "coiled",
+        "convenient",
+        "flits",
+        "collecting",
+        "needle",
+        "rides",
+        "gathering",
+        "spring",
+        "pollen",
+        "winds",
+        "flowers"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +143,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "colorfully",
+        "prominent",
+        "feature",
+        "patterned",
+        "collecting",
+        "ferociously",
+        "angered",
+        "fields",
+        "pollen",
+        "flower",
+        "covered"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +167,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jabbing",
+        "aggressive",
+        "despite",
+        "appearance",
+        "thin",
+        "nature"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +184,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jabbing",
+        "aggressive",
+        "despite",
+        "appearance",
+        "thin",
+        "nature"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +201,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "drain",
+        "narrow",
+        "stabs",
+        "aggressive",
+        "fluids",
+        "nature"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +220,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flits",
+        "collecting",
+        "savage",
+        "bloom",
+        "despite",
+        "fields",
+        "pollen",
+        "appearance",
+        "flower"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +240,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jabs",
+        "collecting",
+        "disturbed",
+        "aggressive",
+        "despite",
+        "pollen",
+        "thin"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +258,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "vibrantly",
+        "prominent",
+        "feature",
+        "patterned",
+        "nectar",
+        "sucks",
+        "flower"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +278,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "vibrantly",
+        "prominent",
+        "feature",
+        "patterned",
+        "nectar",
+        "sucks",
+        "flower"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +298,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jabs",
+        "collecting",
+        "disturbed",
+        "aggressive",
+        "despite",
+        "pollen",
+        "thin"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +316,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jabs",
+        "collecting",
+        "disturbed",
+        "aggressive",
+        "despite",
+        "pollen",
+        "thin"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +334,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jabs",
+        "collecting",
+        "disturbed",
+        "aggressive",
+        "despite",
+        "pollen",
+        "thin"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +352,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "jabs",
+        "collecting",
+        "disturbed",
+        "aggressive",
+        "despite",
+        "pollen",
+        "thin"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +370,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "vibrantly",
+        "prominent",
+        "feature",
+        "patterned",
+        "nectar",
+        "sucks",
+        "flower"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +390,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "drain",
+        "narrow",
+        "stabs",
+        "aggressive",
+        "fluids",
+        "nature"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +409,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Beautifly’s favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "potted",
+        "window",
+        "want",
+        "looking",
+        "leave",
+        "sure",
+        "favorite",
+        "open",
+        "pollen",
+        "flowers",
+        "flower"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +431,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "coiled",
+        "convenient",
+        "flits",
+        "collecting",
+        "needle",
+        "rides",
+        "gathering",
+        "spring",
+        "pollen",
+        "winds",
+        "flowers"
+      ]
     },
     {
       "versionId": 39,
@@ -183,7 +453,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "A colorful and incredibly beautiful but also greedy Pokémon. In an effort to keep its favorite food all to itself, it will chase away Combee as they try to gather nectar.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "greedy",
+        "colorful",
+        "nectar",
+        "combee",
+        "incredibly",
+        "effort",
+        "chase",
+        "favorite",
+        "try",
+        "beautiful",
+        "gather"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,65 @@
   ],
   "imagePath": "/assets/pokemon/662.png",
   "entryCount": 10,
+  "entryTraits": [
+    "beak",
+    "hunting",
+    "fiery",
+    "territorial",
+    "claws"
+  ],
+  "entryKeywords": [
+    "takeoff",
+    "grills",
+    "grounds",
+    "gobbles",
+    "bewildered",
+    "tolerate",
+    "class",
+    "feasting",
+    "exceedingly",
+    "den",
+    "entering",
+    "pop",
+    "pounces",
+    "talons",
+    "radius",
+    "already",
+    "frightened",
+    "finish",
+    "hotter",
+    "territorial",
+    "leaping",
+    "embers",
+    "caught",
+    "expels",
+    "feeding",
+    "going",
+    "several",
+    "tall",
+    "set",
+    "puts",
+    "aggressive",
+    "launches",
+    "beak",
+    "sac",
+    "bug",
+    "faster",
+    "upon",
+    "fires",
+    "scatters",
+    "themselves",
+    "right",
+    "top",
+    "miles",
+    "among",
+    "flame",
+    "grass",
+    "belly",
+    "heat",
+    "bird",
+    "takes"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +98,23 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "bewildered",
+        "pop",
+        "pounces",
+        "embers",
+        "expels",
+        "tall",
+        "set",
+        "beak",
+        "grass"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +122,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hotter",
+        "going",
+        "sac",
+        "faster",
+        "flame",
+        "belly",
+        "takes"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +142,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "bewildered",
+        "pop",
+        "pounces",
+        "embers",
+        "expels",
+        "tall",
+        "set",
+        "beak",
+        "grass"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +166,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hotter",
+        "going",
+        "sac",
+        "faster",
+        "flame",
+        "belly",
+        "takes"
+      ]
     },
     {
       "versionId": 27,
@@ -71,7 +186,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "From its beak, it fires embers at its prey. Once it has caught them, it grills them at high heat before feasting upon them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "grills",
+        "feasting",
+        "embers",
+        "caught",
+        "beak",
+        "upon",
+        "fires",
+        "heat"
+      ]
     },
     {
       "versionId": 28,
@@ -79,7 +209,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It will not tolerate other Fletchinder entering its territory, which has a radius of several miles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "tolerate",
+        "entering",
+        "radius",
+        "several",
+        "miles"
+      ]
     },
     {
       "versionId": 29,
@@ -87,7 +227,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It scatters embers in the tall grass. Then bug Pokémon, frightened by the flames, come flying out, and Fletchinder gobbles them up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "gobbles",
+        "frightened",
+        "embers",
+        "tall",
+        "bug",
+        "scatters",
+        "grass"
+      ]
     },
     {
       "versionId": 30,
@@ -95,7 +247,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its speed right after takeoff already puts it in the top speed class of all bird Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "takeoff",
+        "class",
+        "already",
+        "puts",
+        "right",
+        "top",
+        "bird"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +265,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder’s sharp talons finish it off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "den",
+        "talons",
+        "finish",
+        "leaping",
+        "embers",
+        "launches"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +285,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "grounds",
+        "exceedingly",
+        "territorial",
+        "feeding",
+        "aggressive",
+        "themselves",
+        "among"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,53 @@
   ],
   "imagePath": "/assets/pokemon/564.png",
   "entryCount": 14,
+  "entryTraits": [
+    "hunting",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "encompassed",
+    "reputed",
+    "skeletal",
+    "dove",
+    "grounds",
+    "turtle",
+    "studies",
+    "approximately",
+    "beyond",
+    "dive",
+    "crawl",
+    "oceans",
+    "based",
+    "hunting",
+    "inhabited",
+    "swam",
+    "restored",
+    "skillfully",
+    "hundred",
+    "went",
+    "ancestor",
+    "considered",
+    "broad",
+    "depths",
+    "structure",
+    "mile",
+    "half",
+    "onto",
+    "million",
+    "area",
+    "lived",
+    "fossil",
+    "came",
+    "ocean",
+    "100",
+    "still",
+    "thought",
+    "search",
+    "although",
+    "apparently",
+    "seas"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": null,
@@ -40,7 +87,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "beyond",
+        "dive",
+        "restored",
+        "depths",
+        "mile",
+        "half",
+        "fossil"
+      ]
     },
     {
       "versionId": 18,
@@ -48,7 +105,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "oceans",
+        "swam",
+        "went",
+        "million",
+        "100",
+        "thought"
+      ]
     },
     {
       "versionId": 21,
@@ -56,7 +124,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dove",
+        "beyond",
+        "swam",
+        "restored",
+        "skillfully",
+        "depths",
+        "mile",
+        "half",
+        "fossil"
+      ]
     },
     {
       "versionId": 22,
@@ -64,7 +144,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dove",
+        "beyond",
+        "swam",
+        "restored",
+        "skillfully",
+        "depths",
+        "mile",
+        "half",
+        "fossil"
+      ]
     },
     {
       "versionId": 23,
@@ -72,7 +164,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "oceans",
+        "swam",
+        "went",
+        "million",
+        "100",
+        "thought"
+      ]
     },
     {
       "versionId": 24,
@@ -80,7 +183,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "beyond",
+        "dive",
+        "restored",
+        "depths",
+        "mile",
+        "half",
+        "fossil"
+      ]
     },
     {
       "versionId": 25,
@@ -88,7 +201,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "oceans",
+        "swam",
+        "went",
+        "million",
+        "100",
+        "thought"
+      ]
     },
     {
       "versionId": 26,
@@ -96,7 +220,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "beyond",
+        "dive",
+        "restored",
+        "depths",
+        "mile",
+        "half",
+        "fossil"
+      ]
     },
     {
       "versionId": 27,
@@ -104,7 +238,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "skeletal",
+        "studies",
+        "dive",
+        "based",
+        "depths",
+        "structure",
+        "mile",
+        "half",
+        "ocean",
+        "apparently"
+      ]
     },
     {
       "versionId": 28,
@@ -112,7 +261,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Reputed to be the ancestor of most turtle Pokémon, it lived in warm seas approximately a hundred million years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reputed",
+        "turtle",
+        "approximately",
+        "hundred",
+        "ancestor",
+        "million",
+        "lived",
+        "seas"
+      ]
     },
     {
       "versionId": 29,
@@ -120,7 +280,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It was restored from an ancient fossil. Tirtouga lived in the sea but came up onto the land to search for prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "restored",
+        "onto",
+        "lived",
+        "fossil",
+        "came",
+        "search"
+      ]
     },
     {
       "versionId": 30,
@@ -128,7 +300,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "encompassed",
+        "grounds",
+        "hunting",
+        "broad",
+        "mile",
+        "half",
+        "area",
+        "ocean"
+      ]
     },
     {
       "versionId": 33,
@@ -136,7 +322,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "crawl",
+        "inhabited",
+        "onto",
+        "still",
+        "search",
+        "although",
+        "seas"
+      ]
     },
     {
       "versionId": 34,
@@ -144,7 +342,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "turtle",
+        "restored",
+        "ancestor",
+        "considered",
+        "fossil"
+      ]
     }
   ],
   "similarPokemonIds": [

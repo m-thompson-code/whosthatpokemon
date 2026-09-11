@@ -9,6 +9,126 @@
   ],
   "imagePath": "/assets/pokemon/025.png",
   "entryCount": 33,
+  "entryTraits": [
+    "electric",
+    "tail",
+    "luminous",
+    "nocturnal",
+    "sleeping",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "bolt",
+    "plan",
+    "announced",
+    "dozy",
+    "greeting",
+    "ning",
+    "roundings",
+    "sur",
+    "tingly",
+    "waking",
+    "exchange",
+    "clever",
+    "mistook",
+    "monitor",
+    "pent",
+    "blackened",
+    "ed",
+    "consuming",
+    "discharge",
+    "extra",
+    "stretchy",
+    "yank",
+    "stressed",
+    "super",
+    "berry",
+    "recharge",
+    "roasts",
+    "wary",
+    "dwelling",
+    "storms",
+    "crackling",
+    "pose",
+    "jolt",
+    "looses",
+    "electrically",
+    "evidence",
+    "struck",
+    "fellow",
+    "meet",
+    "cheek",
+    "intensity",
+    "equal",
+    "raised",
+    "burst",
+    "threatened",
+    "dweller",
+    "possesses",
+    "recently",
+    "anger",
+    "weakened",
+    "now",
+    "sacs",
+    "immediately",
+    "tender",
+    "pouches",
+    "store",
+    "storing",
+    "unable",
+    "state",
+    "getting",
+    "charged",
+    "check",
+    "several",
+    "whenever",
+    "fully",
+    "cheeks",
+    "dangerous",
+    "blasts",
+    "build",
+    "ll",
+    "intelligent",
+    "occasionally",
+    "charge",
+    "discharges",
+    "nests",
+    "sleeping",
+    "charges",
+    "generates",
+    "raises",
+    "releases",
+    "soft",
+    "generate",
+    "feel",
+    "bite",
+    "feels",
+    "try",
+    "able",
+    "touch",
+    "forest",
+    "plant",
+    "shock",
+    "something",
+    "stored",
+    "forests",
+    "since",
+    "weak",
+    "electric",
+    "new",
+    "keeps",
+    "across",
+    "sleeps",
+    "surroundings",
+    "tough",
+    "berries",
+    "tails",
+    "stores",
+    "nature",
+    "lightning",
+    "gather",
+    "eat"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "forest",
@@ -39,7 +159,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "storms",
+        "several",
+        "build",
+        "lightning",
+        "gather"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +177,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "storms",
+        "several",
+        "build",
+        "lightning",
+        "gather"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +195,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "monitor",
+        "yank",
+        "raised",
+        "bite",
+        "try",
+        "keeps",
+        "surroundings"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +215,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "This intelligent POKéMON roasts hard BERRIES with electricity to make them tender enough to eat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "roasts",
+        "tender",
+        "intelligent",
+        "berries",
+        "eat"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +233,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It raises its tail to check its sur­ roundings. The tail is sometimes struck by light­ ning in this pose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "luminous"
+      ],
+      "keywords": [
+        "ning",
+        "roundings",
+        "sur",
+        "pose",
+        "struck",
+        "check",
+        "raises"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +254,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it is anger­ ed, it immediately discharges the energy stored in the pouches in its cheeks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ed",
+        "anger",
+        "immediately",
+        "pouches",
+        "cheeks",
+        "discharges",
+        "stored"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +272,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Whenever PIKACHU comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it’s evidence that this POKéMON mistook the intensity of its charge.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "mistook",
+        "blackened",
+        "berry",
+        "jolt",
+        "evidence",
+        "intensity",
+        "whenever",
+        "blasts",
+        "charge",
+        "something",
+        "new",
+        "across"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +297,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while PIKACHU sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping",
+        "electric"
+      ],
+      "keywords": [
+        "dozy",
+        "waking",
+        "electrically",
+        "pouches",
+        "storing",
+        "charged",
+        "cheeks",
+        "occasionally",
+        "discharges",
+        "sleeps"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +322,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bolt",
+        "pent",
+        "equal",
+        "burst",
+        "sacs",
+        "cheeks",
+        "releases",
+        "electric",
+        "stores",
+        "lightning"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +345,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "looses",
+        "threatened",
+        "sacs",
+        "cheeks",
+        "charges",
+        "electric"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +364,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When several of these POKéMON gather, their electricity can build and cause lightning storms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "storms",
+        "several",
+        "build",
+        "lightning",
+        "gather"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +382,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "pouches",
+        "cheeks",
+        "forests",
+        "stores"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +399,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "If it looses crackling power from the electric pouches on its cheeks, it is being wary.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "wary",
+        "crackling",
+        "looses",
+        "pouches",
+        "cheeks",
+        "electric"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +418,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "fellow",
+        "weakened",
+        "state",
+        "occasionally",
+        "shock",
+        "electric"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +438,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "roasts",
+        "tender",
+        "intelligent",
+        "berries",
+        "eat"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +456,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "pose",
+        "struck",
+        "check",
+        "raises",
+        "surroundings",
+        "lightning"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +476,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "fellow",
+        "weakened",
+        "state",
+        "occasionally",
+        "shock",
+        "electric"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +496,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "fellow",
+        "weakened",
+        "state",
+        "occasionally",
+        "shock",
+        "electric"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +516,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "fellow",
+        "weakened",
+        "state",
+        "occasionally",
+        "shock",
+        "electric"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +536,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "fellow",
+        "weakened",
+        "state",
+        "occasionally",
+        "shock",
+        "electric"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +556,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "pose",
+        "struck",
+        "check",
+        "raises",
+        "surroundings",
+        "lightning"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +576,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "looses",
+        "threatened",
+        "sacs",
+        "cheeks",
+        "charges",
+        "electric"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +595,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it’s evidence that this Pokémon mistook the intensity of its charge.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "mistook",
+        "blackened",
+        "berry",
+        "jolt",
+        "evidence",
+        "intensity",
+        "whenever",
+        "blasts",
+        "charge",
+        "something",
+        "new",
+        "across"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +620,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping",
+        "electric"
+      ],
+      "keywords": [
+        "dozy",
+        "waking",
+        "electrically",
+        "pouches",
+        "storing",
+        "charged",
+        "cheeks",
+        "occasionally",
+        "discharges",
+        "sleeps"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +645,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "plan",
+        "announced",
+        "recently",
+        "plant",
+        "electric",
+        "gather"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +664,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It’s in its nature to store electricity. It feels stressed now and then if it’s unable to fully discharge the electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "discharge",
+        "stressed",
+        "now",
+        "store",
+        "unable",
+        "fully",
+        "feels",
+        "nature"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +685,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "struck",
+        "store",
+        "dangerous",
+        "nests",
+        "forests",
+        "since",
+        "nature",
+        "lightning"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +707,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "While sleeping, it generates electricity in the sacs in its cheeks. If it’s not getting enough sleep, it will be able to use only weak electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "electric"
+      ],
+      "keywords": [
+        "sacs",
+        "getting",
+        "cheeks",
+        "sleeping",
+        "generates",
+        "able",
+        "weak"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +728,22 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "This forest-dwelling Pokémon stores electricity in its cheeks, so you’ll feel a tingly shock if you touch it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "tingly",
+        "dwelling",
+        "cheeks",
+        "ll",
+        "feel",
+        "touch",
+        "forest",
+        "shock",
+        "stores"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +751,22 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "This forest-dwelling Pokémon stores electricity in its cheeks, so you’ll feel a tingly shock if you touch it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "tingly",
+        "dwelling",
+        "cheeks",
+        "ll",
+        "feel",
+        "touch",
+        "forest",
+        "shock",
+        "stores"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +774,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "extra",
+        "stretchy",
+        "super",
+        "cheek",
+        "sacs",
+        "soft",
+        "generate"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +794,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "greeting",
+        "exchange",
+        "meet",
+        "ll",
+        "touch",
+        "tails"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +814,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "clever",
+        "consuming",
+        "roasts",
+        "cheek",
+        "dweller",
+        "possesses",
+        "sacs",
+        "forest",
+        "shock",
+        "electric",
+        "tough",
+        "berries",
+        "stores"
+      ]
     }
   ],
   "similarPokemonIds": [

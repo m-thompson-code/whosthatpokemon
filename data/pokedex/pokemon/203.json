@@ -10,6 +10,60 @@
   ],
   "imagePath": "/assets/pokemon/203.png",
   "entryCount": 21,
+  "entryTraits": [
+    "tail",
+    "sonic",
+    "sleeping",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "herbivore",
+    "24",
+    "lash",
+    "notices",
+    "response",
+    "chewing",
+    "alluring",
+    "instinctively",
+    "react",
+    "approaching",
+    "sort",
+    "swallowing",
+    "sneak",
+    "beware",
+    "watch",
+    "thinking",
+    "facing",
+    "backward",
+    "drive",
+    "need",
+    "biting",
+    "motions",
+    "repel",
+    "hours",
+    "smells",
+    "trying",
+    "bites",
+    "smell",
+    "suddenly",
+    "tiny",
+    "contains",
+    "sounds",
+    "bite",
+    "rear",
+    "behind",
+    "shoots",
+    "brain",
+    "mysterious",
+    "keeps",
+    "scent",
+    "sleeps",
+    "surroundings",
+    "eating",
+    "grass",
+    "close",
+    "doesn"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -39,7 +93,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "react",
+        "beware",
+        "bite",
+        "brain",
+        "scent",
+        "close"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +112,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "notices",
+        "alluring",
+        "smell",
+        "contains",
+        "bite",
+        "brain"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +131,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "sort",
+        "drive",
+        "mysterious"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +147,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GIRAFARIG’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this POKéMON from behind can cause the rear head to suddenly lash out and bite.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "lash",
+        "response",
+        "approaching",
+        "smells",
+        "suddenly",
+        "sounds",
+        "bite",
+        "rear",
+        "behind",
+        "brain"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +170,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GIRAFARIG’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "24",
+        "watch",
+        "thinking",
+        "need",
+        "hours",
+        "tiny",
+        "contains",
+        "rear",
+        "brain",
+        "surroundings",
+        "doesn"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +194,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A GIRAFARIG is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "herbivore",
+        "chewing",
+        "swallowing",
+        "motions",
+        "shoots",
+        "eating",
+        "grass"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +215,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "notices",
+        "alluring",
+        "smell",
+        "contains",
+        "bite",
+        "brain"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +234,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "react",
+        "beware",
+        "bite",
+        "brain",
+        "scent",
+        "close"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +253,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its tail also has a small brain. It bites to repel any foe trying to sneak up on it from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "sneak",
+        "repel",
+        "trying",
+        "bites",
+        "behind",
+        "brain"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +272,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "While it sleeps, the head on its tail keeps watch. The tail doesn’t need to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "sleeping"
+      ],
+      "keywords": [
+        "watch",
+        "need",
+        "keeps",
+        "sleeps",
+        "doesn"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +291,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "instinctively",
+        "facing",
+        "backward",
+        "contains",
+        "brain"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +309,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "react",
+        "beware",
+        "biting",
+        "brain",
+        "scent",
+        "close"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +328,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "notices",
+        "alluring",
+        "smell",
+        "contains",
+        "bite",
+        "brain"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +347,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "instinctively",
+        "facing",
+        "backward",
+        "contains",
+        "brain"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +365,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "instinctively",
+        "facing",
+        "backward",
+        "contains",
+        "brain"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +383,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "instinctively",
+        "facing",
+        "backward",
+        "contains",
+        "brain"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +401,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "instinctively",
+        "facing",
+        "backward",
+        "contains",
+        "brain"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +419,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "While it sleeps, the head on its tail keeps watch. The tail doesn’t need to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "sleeping"
+      ],
+      "keywords": [
+        "watch",
+        "need",
+        "keeps",
+        "sleeps",
+        "doesn"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +438,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "react",
+        "beware",
+        "biting",
+        "brain",
+        "scent",
+        "close"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +457,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Girafarig’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "lash",
+        "response",
+        "approaching",
+        "smells",
+        "suddenly",
+        "sounds",
+        "bite",
+        "rear",
+        "behind",
+        "brain"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +480,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "24",
+        "watch",
+        "thinking",
+        "need",
+        "hours",
+        "tiny",
+        "contains",
+        "rear",
+        "brain",
+        "surroundings",
+        "doesn"
+      ]
     }
   ],
   "similarPokemonIds": [

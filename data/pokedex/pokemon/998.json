@@ -10,6 +10,29 @@
   ],
   "imagePath": "/assets/pokemon/998.png",
   "entryCount": 2,
+  "entryTraits": [
+    "sky-dwelling",
+    "volcanic",
+    "fiery",
+    "icy"
+  ],
+  "entryKeywords": [
+    "flipping",
+    "cryogenic",
+    "upside",
+    "spewing",
+    "blade",
+    "lava",
+    "dorsal",
+    "finishes",
+    "frigid",
+    "freeze",
+    "blasts",
+    "launches",
+    "liquid",
+    "instantly",
+    "hot"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +63,22 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "volcanic",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "cryogenic",
+        "lava",
+        "freeze",
+        "blasts",
+        "liquid",
+        "instantly",
+        "hot"
+      ]
     },
     {
       "versionId": 41,
@@ -48,7 +86,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "flipping",
+        "upside",
+        "spewing",
+        "blade",
+        "dorsal",
+        "finishes",
+        "frigid",
+        "launches"
+      ]
     }
   ],
   "similarPokemonIds": [

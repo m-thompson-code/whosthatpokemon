@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/792.png",
   "entryCount": 6,
+  "entryTraits": [
+    "nocturnal",
+    "luminous",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "brightness",
+    "converting",
+    "showering",
+    "cosmog",
+    "summons",
+    "lead",
+    "worlds",
+    "activates",
+    "third",
+    "moonless",
+    "calls",
+    "writings",
+    "veil",
+    "name",
+    "here",
+    "records",
+    "beast",
+    "devours",
+    "drawing",
+    "exist",
+    "female",
+    "taking",
+    "steals",
+    "unknown",
+    "eye",
+    "forms",
+    "holes",
+    "moon",
+    "another",
+    "across",
+    "dark",
+    "surroundings",
+    "full",
+    "evolution"
+  ],
   "color": "purple",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +80,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cosmog",
+        "activates",
+        "third",
+        "female",
+        "eye",
+        "another",
+        "evolution"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +98,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "brightness",
+        "moonless",
+        "veil",
+        "devours",
+        "drawing",
+        "another",
+        "dark"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +119,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Records of it exist in writings from long, long ago, where it was known by the name “the beast that calls the moon.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "calls",
+        "writings",
+        "name",
+        "records",
+        "beast",
+        "exist",
+        "moon"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +137,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "summons",
+        "lead",
+        "worlds",
+        "here",
+        "unknown",
+        "forms",
+        "holes"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +155,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "converting",
+        "calls",
+        "beast",
+        "taking",
+        "moon"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +173,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "showering",
+        "steals",
+        "moon",
+        "across",
+        "surroundings",
+        "full"
+      ]
     }
   ],
   "similarPokemonIds": [

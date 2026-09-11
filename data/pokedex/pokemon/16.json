@@ -10,6 +10,70 @@
   ],
   "imagePath": "/assets/pokemon/016.png",
   "entryCount": 26,
+  "entryTraits": [
+    "desert-dwelling",
+    "forest-dwelling",
+    "wings",
+    "sky-dwelling",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "ping",
+    "stirring",
+    "tects",
+    "insect",
+    "returning",
+    "familiar",
+    "unerringly",
+    "woods",
+    "foraging",
+    "drives",
+    "grassy",
+    "removed",
+    "conflict",
+    "ferociously",
+    "cloud",
+    "pro",
+    "rapidly",
+    "bugs",
+    "return",
+    "disturbed",
+    "flap",
+    "blinding",
+    "kicking",
+    "rather",
+    "kick",
+    "common",
+    "chase",
+    "dislikes",
+    "tall",
+    "level",
+    "dust",
+    "docile",
+    "sight",
+    "home",
+    "flapping",
+    "direction",
+    "flaps",
+    "open",
+    "strike",
+    "protects",
+    "fighting",
+    "areas",
+    "avoid",
+    "far",
+    "forests",
+    "prefers",
+    "sand",
+    "attacked",
+    "surroundings",
+    "capable",
+    "sense",
+    "grass",
+    "hides",
+    "usually",
+    "extremely"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": "forest",
@@ -39,7 +103,23 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "woods",
+        "blinding",
+        "kick",
+        "common",
+        "level",
+        "sight",
+        "flaps",
+        "forests",
+        "sand"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +127,23 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "woods",
+        "blinding",
+        "kick",
+        "common",
+        "level",
+        "sight",
+        "flaps",
+        "forests",
+        "sand"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +151,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "rather",
+        "kick",
+        "docile",
+        "sand",
+        "attacked"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +169,22 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It usually hides in tall grass. Be­ cause it dislikes fighting, it pro­ tects itself by kicking up sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "tects",
+        "pro",
+        "kicking",
+        "dislikes",
+        "tall",
+        "fighting",
+        "sand",
+        "grass",
+        "hides",
+        "usually"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +192,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Common in grassy areas and forests, it is very docile and will chase off enemies by flap­ ping up sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "ping",
+        "grassy",
+        "flap",
+        "common",
+        "chase",
+        "docile",
+        "areas",
+        "forests",
+        "sand"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +214,23 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It rapidly flaps its wings in the grass, stirring up a dust cloud that drives insect prey out into the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "stirring",
+        "insect",
+        "drives",
+        "cloud",
+        "rapidly",
+        "dust",
+        "flaps",
+        "open",
+        "grass"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +238,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "returning",
+        "familiar",
+        "unerringly",
+        "removed",
+        "home",
+        "direction",
+        "far",
+        "surroundings",
+        "capable",
+        "sense",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +260,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "returning",
+        "familiar",
+        "unerringly",
+        "removed",
+        "home",
+        "direction",
+        "far",
+        "surroundings",
+        "capable",
+        "sense",
+        "extremely"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +282,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "familiar",
+        "unerringly",
+        "removed",
+        "return",
+        "home",
+        "direction",
+        "far",
+        "surroundings",
+        "sense",
+        "extremely"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +303,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Does not like to fight. It hides in tall grass and so on, foraging for food such as small bugs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "foraging",
+        "bugs",
+        "tall",
+        "grass",
+        "hides"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +319,23 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "woods",
+        "blinding",
+        "kick",
+        "common",
+        "level",
+        "sight",
+        "flaps",
+        "forests",
+        "sand"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +343,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conflict",
+        "ferociously",
+        "disturbed",
+        "docile",
+        "strike",
+        "avoid",
+        "prefers"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +361,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conflict",
+        "ferociously",
+        "disturbed",
+        "docile",
+        "strike",
+        "avoid",
+        "prefers"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +379,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conflict",
+        "ferociously",
+        "disturbed",
+        "docile",
+        "strike",
+        "avoid",
+        "prefers"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +397,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "kicking",
+        "dislikes",
+        "tall",
+        "protects",
+        "fighting",
+        "sand",
+        "grass",
+        "hides",
+        "usually"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +419,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "grassy",
+        "common",
+        "chase",
+        "docile",
+        "flapping",
+        "areas",
+        "forests",
+        "sand"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +440,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conflict",
+        "ferociously",
+        "disturbed",
+        "docile",
+        "strike",
+        "avoid",
+        "prefers"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +458,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conflict",
+        "ferociously",
+        "disturbed",
+        "docile",
+        "strike",
+        "avoid",
+        "prefers"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +476,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conflict",
+        "ferociously",
+        "disturbed",
+        "docile",
+        "strike",
+        "avoid",
+        "prefers"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +494,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conflict",
+        "ferociously",
+        "disturbed",
+        "docile",
+        "strike",
+        "avoid",
+        "prefers"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +512,23 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "woods",
+        "blinding",
+        "kick",
+        "common",
+        "level",
+        "sight",
+        "flaps",
+        "forests",
+        "sand"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +536,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conflict",
+        "ferociously",
+        "disturbed",
+        "docile",
+        "strike",
+        "avoid",
+        "prefers"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +554,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "returning",
+        "familiar",
+        "unerringly",
+        "removed",
+        "home",
+        "direction",
+        "far",
+        "surroundings",
+        "capable",
+        "sense",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +576,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "returning",
+        "familiar",
+        "unerringly",
+        "removed",
+        "home",
+        "direction",
+        "far",
+        "surroundings",
+        "capable",
+        "sense",
+        "extremely"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +598,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "rather",
+        "kick",
+        "docile",
+        "sand",
+        "attacked"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +616,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "rather",
+        "kick",
+        "docile",
+        "sand",
+        "attacked"
+      ]
     }
   ],
   "similarPokemonIds": [

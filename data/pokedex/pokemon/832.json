@@ -9,6 +9,31 @@
   ],
   "imagePath": "/assets/pokemon/832.png",
   "entryCount": 2,
+  "entryTraits": [
+    "horns"
+  ],
+  "entryKeywords": [
+    "carpet",
+    "impress",
+    "trampoline",
+    "majestic",
+    "meant",
+    "opposite",
+    "springy",
+    "gender",
+    "weave",
+    "closer",
+    "wool",
+    "start",
+    "moment",
+    "bounce",
+    "set",
+    "foot",
+    "ll",
+    "end",
+    "something",
+    "horns"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +63,24 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "carpet",
+        "trampoline",
+        "springy",
+        "weave",
+        "closer",
+        "wool",
+        "start",
+        "moment",
+        "bounce",
+        "set",
+        "foot",
+        "ll",
+        "end",
+        "something"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +88,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "impress",
+        "majestic",
+        "meant",
+        "opposite",
+        "gender",
+        "horns"
+      ]
     }
   ],
   "similarPokemonIds": [

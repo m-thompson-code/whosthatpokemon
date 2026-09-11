@@ -10,6 +10,49 @@
   ],
   "imagePath": "/assets/pokemon/777.png",
   "entryCount": 6,
+  "entryTraits": [
+    "fur",
+    "electric"
+  ],
+  "entryKeywords": [
+    "involuntarily",
+    "14",
+    "limited",
+    "rods",
+    "spiny",
+    "capacity",
+    "surprised",
+    "indiscriminately",
+    "letting",
+    "hairs",
+    "stabs",
+    "somewhat",
+    "produce",
+    "normally",
+    "agitated",
+    "attackers",
+    "curls",
+    "rest",
+    "act",
+    "charged",
+    "attracts",
+    "trouble",
+    "bolts",
+    "stands",
+    "discharges",
+    "sac",
+    "stand",
+    "strike",
+    "absorbs",
+    "end",
+    "stored",
+    "electric",
+    "spikes",
+    "stores",
+    "lightning",
+    "takes",
+    "ball"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +83,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "spiny",
+        "stabs",
+        "normally",
+        "agitated",
+        "attackers",
+        "rest",
+        "stands",
+        "end"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +104,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "rods",
+        "hairs",
+        "act",
+        "attracts",
+        "bolts",
+        "sac",
+        "stored",
+        "electric",
+        "lightning"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +126,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it’s surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "involuntarily",
+        "14",
+        "surprised",
+        "agitated",
+        "stand",
+        "spikes"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +145,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "limited",
+        "capacity",
+        "letting",
+        "somewhat",
+        "produce",
+        "charged",
+        "strike",
+        "lightning"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +166,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "hairs",
+        "sac",
+        "absorbs",
+        "electric",
+        "stores",
+        "takes"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +185,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "indiscriminately",
+        "curls",
+        "trouble",
+        "discharges",
+        "stand",
+        "end",
+        "spikes",
+        "ball"
+      ]
     }
   ],
   "similarPokemonIds": [

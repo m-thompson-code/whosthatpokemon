@@ -10,6 +10,111 @@
   ],
   "imagePath": "/assets/pokemon/121.png",
   "entryCount": 32,
+  "entryTraits": [
+    "luminous",
+    "aquatic",
+    "electric",
+    "nocturnal",
+    "sky-dwelling",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "abstract",
+    "cruises",
+    "geo",
+    "geometrically",
+    "invader",
+    "locals",
+    "metric",
+    "priced",
+    "transmit",
+    "twinkled",
+    "7",
+    "accessories",
+    "ferent",
+    "luminous",
+    "propeller",
+    "symmetrical",
+    "dif",
+    "plankton",
+    "local",
+    "reflections",
+    "outer",
+    "reminiscent",
+    "sparkling",
+    "unleashing",
+    "regardless",
+    "traded",
+    "value",
+    "geometric",
+    "central",
+    "enigmatic",
+    "led",
+    "gem",
+    "nickname",
+    "spread",
+    "unusual",
+    "middle",
+    "suspect",
+    "potent",
+    "art",
+    "imagined",
+    "sending",
+    "communicating",
+    "ship",
+    "named",
+    "rumors",
+    "receive",
+    "section",
+    "rainbow",
+    "radio",
+    "rotates",
+    "secret",
+    "given",
+    "colored",
+    "organ",
+    "alien",
+    "center",
+    "shining",
+    "gentle",
+    "star",
+    "creature",
+    "brightly",
+    "headaches",
+    "sends",
+    "transformed",
+    "approach",
+    "signals",
+    "think",
+    "shines",
+    "shape",
+    "send",
+    "environment",
+    "seven",
+    "glows",
+    "color",
+    "colors",
+    "tiny",
+    "communicate",
+    "seems",
+    "stars",
+    "absorbs",
+    "space",
+    "spinning",
+    "core",
+    "called",
+    "swim",
+    "shaped",
+    "something",
+    "ocean",
+    "red",
+    "electric",
+    "different",
+    "mysterious",
+    "swims",
+    "thought",
+    "nature"
+  ],
   "color": "purple",
   "shape": "blob",
   "habitat": "sea",
@@ -39,7 +144,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "value",
+        "central",
+        "gem",
+        "rainbow",
+        "seven",
+        "glows",
+        "colors",
+        "core"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +165,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "value",
+        "central",
+        "gem",
+        "rainbow",
+        "seven",
+        "glows",
+        "colors",
+        "core"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +186,21 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The center section is named the core. People think it is communicating when it glows in 7 colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "7",
+        "communicating",
+        "named",
+        "section",
+        "center",
+        "think",
+        "glows",
+        "colors",
+        "core"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +208,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The center section of its body is called the core. It glows in a dif­ ferent color each time it is seen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "ferent",
+        "dif",
+        "section",
+        "center",
+        "glows",
+        "color",
+        "core",
+        "called"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +229,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Regardless of the environment it lives in, its body grows to form a symmetrical geo­ metric shape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "geo",
+        "metric",
+        "symmetrical",
+        "regardless",
+        "shape",
+        "environment"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +246,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is said that it uses the seven- colored core of its body to send electric waves into outer space.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "outer",
+        "colored",
+        "send",
+        "seven",
+        "space",
+        "core",
+        "electric"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +267,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "STARMIE’s center section - the core - glows brightly in seven colors. Because of its luminous nature, this POKéMON has been given the nickname “the gem of the sea.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "luminous",
+        "gem",
+        "nickname",
+        "section",
+        "given",
+        "center",
+        "brightly",
+        "seven",
+        "glows",
+        "colors",
+        "core",
+        "nature"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +293,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "STARMIE swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this POKéMON’s body glows in seven colors.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "propeller",
+        "ship",
+        "center",
+        "star",
+        "seven",
+        "glows",
+        "colors",
+        "spinning",
+        "core",
+        "shaped",
+        "swims"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +318,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "People in ancient times imagined that STARMIE were transformed from the reflections of stars that twinkled on gentle waves at night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "nocturnal"
+      ],
+      "keywords": [
+        "twinkled",
+        "reflections",
+        "imagined",
+        "gentle",
+        "transformed",
+        "stars"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +338,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON has a geometric body. Because of its body, the locals suspect that it is an alien creature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "locals",
+        "geometric",
+        "suspect",
+        "alien",
+        "creature"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +354,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "value",
+        "central",
+        "gem",
+        "rainbow",
+        "seven",
+        "glows",
+        "colors",
+        "core"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +375,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "radio",
+        "center",
+        "sends",
+        "signals",
+        "core",
+        "red",
+        "mysterious"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +396,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "radio",
+        "center",
+        "sends",
+        "signals",
+        "core",
+        "red",
+        "mysterious"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +417,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "radio",
+        "center",
+        "sends",
+        "signals",
+        "core",
+        "red",
+        "mysterious"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +438,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The middle section of its body is called the core. It glows in a different color each time it is seen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "middle",
+        "section",
+        "glows",
+        "color",
+        "core",
+        "called",
+        "different"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +458,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "symmetrical",
+        "regardless",
+        "geometric",
+        "shape",
+        "environment"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +474,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "radio",
+        "center",
+        "sends",
+        "signals",
+        "core",
+        "red",
+        "mysterious"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +495,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "radio",
+        "center",
+        "sends",
+        "signals",
+        "core",
+        "red",
+        "mysterious"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +516,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its core shines in many colors and sends radio signals into space to communicate with something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "radio",
+        "sends",
+        "signals",
+        "shines",
+        "colors",
+        "communicate",
+        "space",
+        "core",
+        "something"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +536,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its core shines in many colors and sends radio signals into space to communicate with something.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "radio",
+        "sends",
+        "signals",
+        "shines",
+        "colors",
+        "communicate",
+        "space",
+        "core",
+        "something"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +556,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "value",
+        "central",
+        "gem",
+        "rainbow",
+        "seven",
+        "glows",
+        "colors",
+        "core"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +577,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "radio",
+        "center",
+        "sends",
+        "signals",
+        "core",
+        "red",
+        "mysterious"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +598,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Starmie’s center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname “the gem of the sea.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "luminous",
+        "gem",
+        "nickname",
+        "section",
+        "given",
+        "center",
+        "brightly",
+        "seven",
+        "glows",
+        "colors",
+        "core",
+        "nature"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +624,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pokémon’s body glows in seven colors.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "propeller",
+        "ship",
+        "center",
+        "star",
+        "seven",
+        "glows",
+        "colors",
+        "spinning",
+        "core",
+        "shaped",
+        "swims"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +649,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its shining core is thought to receive and transmit enigmatic signals. It has been known to cause headaches in those who approach it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "transmit",
+        "enigmatic",
+        "receive",
+        "shining",
+        "headaches",
+        "approach",
+        "signals",
+        "core",
+        "thought"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +669,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its unusual body shape, reminiscent of abstract art, led local people to spread rumors that this Pokémon may be an invader from outer space.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "abstract",
+        "invader",
+        "local",
+        "outer",
+        "reminiscent",
+        "led",
+        "spread",
+        "unusual",
+        "art",
+        "rumors",
+        "shape",
+        "space"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +692,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its sparkling core is called “the gem of the sea.” This core can be made into high-priced accessories that are traded in secret.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "priced",
+        "accessories",
+        "sparkling",
+        "traded",
+        "gem",
+        "secret",
+        "core",
+        "called"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +713,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It rotates its geometrically shaped body to swim through the water. It always seems to be sending out mysterious radio waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "geometrically",
+        "sending",
+        "radio",
+        "rotates",
+        "seems",
+        "swim",
+        "shaped",
+        "mysterious"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +734,21 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The center section is named the core. People think it is communicating when it glows in seven colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "communicating",
+        "named",
+        "section",
+        "center",
+        "think",
+        "seven",
+        "glows",
+        "colors",
+        "core"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +756,21 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The center section is named the core. People think it is communicating when it glows in seven colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "communicating",
+        "named",
+        "section",
+        "center",
+        "think",
+        "seven",
+        "glows",
+        "colors",
+        "core"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +778,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous",
+        "psychic"
+      ],
+      "keywords": [
+        "unleashing",
+        "potent",
+        "organ",
+        "seven",
+        "glows",
+        "colors",
+        "core"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +799,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cruises",
+        "plankton",
+        "tiny",
+        "absorbs",
+        "spinning",
+        "ocean",
+        "swims"
+      ]
     }
   ],
   "similarPokemonIds": [

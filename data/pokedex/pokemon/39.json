@@ -10,6 +10,119 @@
   ],
   "imagePath": "/assets/pokemon/039.png",
   "entryCount": 32,
+  "entryTraits": [
+    "sleeping",
+    "luminous",
+    "aquatic",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "bedding",
+    "cds",
+    "department",
+    "listener",
+    "lung",
+    "octaves",
+    "purchased",
+    "recordings",
+    "waver",
+    "captivates",
+    "chords",
+    "endangering",
+    "inducing",
+    "pauses",
+    "12",
+    "cords",
+    "lullabies",
+    "notch",
+    "enrapture",
+    "hugely",
+    "pleasing",
+    "shouting",
+    "songs",
+    "wavelength",
+    "audience",
+    "sleepy",
+    "exceeds",
+    "individual",
+    "vocal",
+    "capacity",
+    "comparison",
+    "lulls",
+    "range",
+    "depends",
+    "falling",
+    "lullaby",
+    "alluring",
+    "skill",
+    "wavers",
+    "adjust",
+    "soothing",
+    "totally",
+    "relaxing",
+    "mysteriously",
+    "perform",
+    "drowsiness",
+    "drowsy",
+    "everyone",
+    "listeners",
+    "melody",
+    "precisely",
+    "song",
+    "breathe",
+    "hears",
+    "sings",
+    "hearing",
+    "inflates",
+    "possess",
+    "sing",
+    "gentle",
+    "match",
+    "pleasant",
+    "changing",
+    "start",
+    "voice",
+    "effort",
+    "singing",
+    "depending",
+    "hear",
+    "looking",
+    "puts",
+    "cute",
+    "longer",
+    "ll",
+    "strange",
+    "begins",
+    "rolls",
+    "someone",
+    "sure",
+    "round",
+    "help",
+    "right",
+    "stomach",
+    "asleep",
+    "nothing",
+    "area",
+    "fall",
+    "region",
+    "top",
+    "cannot",
+    "re",
+    "avoid",
+    "near",
+    "causes",
+    "against",
+    "brain",
+    "stop",
+    "different",
+    "mysterious",
+    "anyone",
+    "huge",
+    "freely",
+    "won",
+    "stores",
+    "big"
+  ],
   "color": "pink",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -39,7 +152,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "luminous"
+      ],
+      "keywords": [
+        "lulls",
+        "soothing",
+        "mysteriously",
+        "melody",
+        "sings",
+        "huge"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +172,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "luminous"
+      ],
+      "keywords": [
+        "lulls",
+        "soothing",
+        "mysteriously",
+        "melody",
+        "sings",
+        "huge"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +192,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "enrapture",
+        "pleasing",
+        "lulls",
+        "alluring",
+        "melody",
+        "sings"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +211,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If it inflates to SING a lullaby, it can perform longer and cause sure drowsiness in its audience.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "audience",
+        "lullaby",
+        "perform",
+        "drowsiness",
+        "inflates",
+        "sing",
+        "longer",
+        "sure"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +230,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "inducing",
+        "relaxing",
+        "melody",
+        "sing",
+        "looking",
+        "cute",
+        "round",
+        "causes"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +251,22 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It rolls its cute eyes as it sings a soothing lullaby. Its gentle song puts anyone who hears it to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "lullaby",
+        "soothing",
+        "song",
+        "hears",
+        "sings",
+        "gentle",
+        "puts",
+        "cute",
+        "rolls",
+        "anyone"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +274,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "JIGGLYPUFF’s vocal chords can freely adjust the wavelength of its voice. This POKéMON uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "chords",
+        "wavelength",
+        "vocal",
+        "adjust",
+        "drowsy",
+        "precisely",
+        "sing",
+        "voice",
+        "right",
+        "freely"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +295,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When this POKéMON sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, JIGGLYPUFF cannot breathe, endangering its life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "endangering",
+        "pauses",
+        "breathe",
+        "sings",
+        "asleep",
+        "fall",
+        "cannot",
+        "against"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +314,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Nothing can avoid falling asleep hearing a JIGGLYPUFF’s song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sleeping",
+        "sonic"
+      ],
+      "keywords": [
+        "falling",
+        "song",
+        "hearing",
+        "match",
+        "voice",
+        "singing",
+        "someone",
+        "asleep",
+        "nothing",
+        "avoid",
+        "brain"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +340,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "captivates",
+        "lulls",
+        "soothing",
+        "melody",
+        "singing",
+        "round",
+        "huge"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +360,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "waver",
+        "lulls",
+        "soothing",
+        "mysteriously",
+        "melody",
+        "sings",
+        "huge"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +380,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lullaby",
+        "wavers",
+        "drowsy",
+        "everyone",
+        "singing",
+        "begins",
+        "round",
+        "big"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +399,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lullaby",
+        "wavers",
+        "drowsy",
+        "everyone",
+        "singing",
+        "begins",
+        "round",
+        "big"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +418,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lullaby",
+        "wavers",
+        "drowsy",
+        "everyone",
+        "singing",
+        "begins",
+        "round",
+        "big"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +437,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "audience",
+        "lullaby",
+        "perform",
+        "drowsiness",
+        "inflates",
+        "sing",
+        "longer",
+        "sure"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +456,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "inducing",
+        "relaxing",
+        "melody",
+        "sing",
+        "looking",
+        "cute",
+        "round",
+        "causes"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +477,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lullaby",
+        "wavers",
+        "drowsy",
+        "everyone",
+        "singing",
+        "begins",
+        "round",
+        "big"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +496,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lullaby",
+        "wavers",
+        "drowsy",
+        "everyone",
+        "singing",
+        "begins",
+        "round",
+        "big"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +515,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Looking into its cute, round eyes makes it start singing a song so pleasant listeners can’t help but fall asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "listeners",
+        "song",
+        "pleasant",
+        "start",
+        "singing",
+        "looking",
+        "cute",
+        "round",
+        "help",
+        "asleep",
+        "fall"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +537,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Looking into its cute, round eyes makes it start singing a song so pleasant listeners can’t help but fall asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "listeners",
+        "song",
+        "pleasant",
+        "start",
+        "singing",
+        "looking",
+        "cute",
+        "round",
+        "help",
+        "asleep",
+        "fall"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +559,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "captivates",
+        "lulls",
+        "soothing",
+        "melody",
+        "singing",
+        "round",
+        "huge"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +579,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "audience",
+        "lullaby",
+        "perform",
+        "drowsiness",
+        "inflates",
+        "sing",
+        "longer",
+        "sure"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +598,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Jigglypuff’s vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cords",
+        "wavelength",
+        "vocal",
+        "adjust",
+        "drowsy",
+        "precisely",
+        "sing",
+        "voice",
+        "right",
+        "freely"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +619,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When this Pokémon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "endangering",
+        "pauses",
+        "breathe",
+        "sings",
+        "asleep",
+        "fall",
+        "cannot",
+        "against"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +638,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you’ll become sleepy right away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hugely",
+        "sleepy",
+        "melody",
+        "sings",
+        "inflates",
+        "hear",
+        "ll",
+        "right",
+        "stomach",
+        "mysterious"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +659,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Jigglypuff possess a vocal range that exceeds 12 octaves, but each individual’s singing skill depends on its own effort.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "octaves",
+        "12",
+        "exceeds",
+        "individual",
+        "vocal",
+        "range",
+        "depends",
+        "skill",
+        "possess",
+        "effort",
+        "singing"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +681,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Recordings of Jigglypuff’s strange lullabies can be purchased from department stores. These CDs can be found near the bedding area.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bedding",
+        "cds",
+        "department",
+        "purchased",
+        "recordings",
+        "lullabies",
+        "strange",
+        "area",
+        "near",
+        "stores"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +702,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The songs they sing are totally different depending on the region they live in. Some even sound like they’re shouting!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "shouting",
+        "songs",
+        "totally",
+        "sing",
+        "depending",
+        "region",
+        "re",
+        "different"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +723,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "enrapture",
+        "pleasing",
+        "lulls",
+        "melody",
+        "sings",
+        "cute",
+        "round"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +743,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "enrapture",
+        "pleasing",
+        "lulls",
+        "melody",
+        "sings",
+        "cute",
+        "round"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +763,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won’t stop singing its lullabies until its foes fall asleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lung",
+        "lullabies",
+        "notch",
+        "capacity",
+        "comparison",
+        "singing",
+        "asleep",
+        "fall",
+        "top",
+        "stop",
+        "won"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +785,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "listener",
+        "wavelength",
+        "sleepy",
+        "melody",
+        "sings",
+        "changing",
+        "voice",
+        "sure",
+        "mysterious",
+        "freely"
+      ]
     }
   ],
   "similarPokemonIds": [

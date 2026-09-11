@@ -10,6 +10,50 @@
   ],
   "imagePath": "/assets/pokemon/246.png",
   "entryCount": 25,
+  "entryTraits": [
+    "mountain-dwelling",
+    "cave-dwelling",
+    "sleeping",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "worth",
+    "deal",
+    "finished",
+    "aboveground",
+    "consumed",
+    "pupa",
+    "parent",
+    "raised",
+    "emerge",
+    "parents",
+    "roughly",
+    "dirt",
+    "faces",
+    "surrounding",
+    "eaten",
+    "reach",
+    "feeds",
+    "entirely",
+    "bright",
+    "above",
+    "falls",
+    "asleep",
+    "fall",
+    "finds",
+    "cannot",
+    "nutrients",
+    "soil",
+    "surface",
+    "underground",
+    "mountain",
+    "eating",
+    "well",
+    "face",
+    "doesn",
+    "born",
+    "eat"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": "mountain",
@@ -39,7 +83,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "eaten",
+        "feeds",
+        "asleep",
+        "fall",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +102,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "consumed",
+        "emerge",
+        "entirely",
+        "soil",
+        "underground",
+        "born"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +121,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Born deep under­ ground, this POKéMON becomes a pupa after eating enough dirt to make a mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "pupa",
+        "dirt",
+        "mountain",
+        "eating",
+        "born"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +139,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LARVITAR is born deep under the ground. To come up to the surface, this POKéMON must eat its way through the soil above. Until it does so, LARVITAR cannot see its parent’s face.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parent",
+        "above",
+        "cannot",
+        "soil",
+        "surface",
+        "face",
+        "born",
+        "eat"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +158,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LARVITAR is born deep under the ground. To come up to the surface, this POKéMON must eat its way through the soil above. Until it does so, LARVITAR cannot see its parent’s face.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parent",
+        "above",
+        "cannot",
+        "soil",
+        "surface",
+        "face",
+        "born",
+        "eat"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +177,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A LARVITAR is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents’ faces.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parents",
+        "faces",
+        "reach",
+        "above",
+        "soil",
+        "surface",
+        "born",
+        "eat"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +196,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is born deep underground. It can’t emerge until it has entirely consumed the soil around it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "consumed",
+        "emerge",
+        "entirely",
+        "soil",
+        "underground",
+        "born"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +215,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "eaten",
+        "feeds",
+        "asleep",
+        "fall",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +234,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "eaten",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +251,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "eaten",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +268,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "eaten",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +285,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "eaten",
+        "feeds",
+        "falls",
+        "asleep",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +304,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is born deep underground. It can’t emerge until it has entirely consumed the soil around it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "consumed",
+        "emerge",
+        "entirely",
+        "soil",
+        "underground",
+        "born"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +323,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "eaten",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +340,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "eaten",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +357,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "finished",
+        "aboveground",
+        "pupa",
+        "surrounding",
+        "soil",
+        "underground",
+        "eating",
+        "born"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +378,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "finished",
+        "aboveground",
+        "pupa",
+        "surrounding",
+        "soil",
+        "underground",
+        "eating",
+        "born"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +399,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "eaten",
+        "feeds",
+        "falls",
+        "asleep",
+        "soil",
+        "mountain"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +418,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "finished",
+        "aboveground",
+        "pupa",
+        "surrounding",
+        "soil",
+        "underground",
+        "eating",
+        "born"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +439,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parents",
+        "above",
+        "cannot",
+        "soil",
+        "surface",
+        "born",
+        "eat"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +457,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parents",
+        "above",
+        "cannot",
+        "soil",
+        "surface",
+        "born",
+        "eat"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +475,23 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Born underground, it eats its way through dirt to the surface, where its parents are. It doesn’t deal well with the bright light it finds there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "deal",
+        "parents",
+        "dirt",
+        "bright",
+        "finds",
+        "surface",
+        "underground",
+        "well",
+        "doesn",
+        "born"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +499,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Raised on nutrients it finds in the dirt, it eats roughly a mountain’s worth of dirt before it becomes a pupa.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "worth",
+        "pupa",
+        "raised",
+        "roughly",
+        "dirt",
+        "finds",
+        "nutrients",
+        "mountain"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +520,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "finished",
+        "aboveground",
+        "pupa",
+        "surrounding",
+        "soil",
+        "underground",
+        "eating",
+        "born"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +541,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "eaten",
+        "feeds",
+        "asleep",
+        "fall",
+        "soil",
+        "mountain"
+      ]
     }
   ],
   "similarPokemonIds": [

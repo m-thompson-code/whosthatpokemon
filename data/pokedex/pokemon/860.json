@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/860.png",
   "entryCount": 2,
+  "entryTraits": [
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "beg",
+    "forgiveness",
+    "sly",
+    "spear",
+    "stab",
+    "fours",
+    "woods",
+    "cunning",
+    "crops",
+    "lure",
+    "tries",
+    "believe",
+    "trying",
+    "hair"
+  ],
   "color": "pink",
   "shape": "humanoid",
   "habitat": null,
@@ -40,7 +59,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When it gets down on all fours as if to beg for forgiveness, it’s trying to lure opponents in so that it can stab them with its spear-like hair.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "beg",
+        "forgiveness",
+        "spear",
+        "stab",
+        "fours",
+        "lure",
+        "trying",
+        "hair"
+      ]
     },
     {
       "versionId": 34,
@@ -48,7 +78,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "sly",
+        "woods",
+        "cunning",
+        "crops",
+        "lure",
+        "tries",
+        "believe"
+      ]
     }
   ],
   "similarPokemonIds": [

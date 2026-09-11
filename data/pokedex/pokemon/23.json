@@ -9,6 +9,79 @@
   ],
   "imagePath": "/assets/pokemon/023.png",
   "entryCount": 28,
+  "entryTraits": [
+    "forest-dwelling",
+    "nocturnal",
+    "hunting",
+    "poisonous",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "detach",
+    "dislocating",
+    "flicks",
+    "tach",
+    "faints",
+    "grassland",
+    "de",
+    "harmless",
+    "assuming",
+    "birds",
+    "etc",
+    "upraised",
+    "painful",
+    "stealthily",
+    "threat",
+    "respond",
+    "meal",
+    "pidgey",
+    "spearow",
+    "position",
+    "stuck",
+    "rests",
+    "swallow",
+    "jaw",
+    "seek",
+    "flutters",
+    "older",
+    "sneaks",
+    "unsuspecting",
+    "curls",
+    "glare",
+    "rest",
+    "common",
+    "allows",
+    "spiral",
+    "silently",
+    "longer",
+    "egg",
+    "strikes",
+    "wraps",
+    "swallows",
+    "sight",
+    "favorite",
+    "branches",
+    "direction",
+    "bite",
+    "first",
+    "behind",
+    "tongue",
+    "larger",
+    "eggs",
+    "scent",
+    "surroundings",
+    "freely",
+    "sense",
+    "grass",
+    "hides",
+    "moving",
+    "whole",
+    "quickly",
+    "bird",
+    "tip",
+    "heavy",
+    "born"
+  ],
   "color": "purple",
   "shape": "squiggle",
   "habitat": "grassland",
@@ -39,7 +112,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "birds",
+        "stealthily",
+        "pidgey",
+        "spearow",
+        "silently",
+        "eggs",
+        "whole"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +130,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "birds",
+        "stealthily",
+        "pidgey",
+        "spearow",
+        "silently",
+        "eggs",
+        "whole"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +148,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "older",
+        "rest",
+        "longer",
+        "wraps",
+        "branches"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +167,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It can freely de­ tach its jaw to swallow large prey whole. It can be­ come too heavy to move, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tach",
+        "de",
+        "swallow",
+        "jaw",
+        "freely",
+        "whole",
+        "heavy"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +187,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "harmless",
+        "painful",
+        "bite",
+        "first",
+        "grass",
+        "hides",
+        "born"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +207,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It flutters the tip of its tongue to seek out the scent of prey, then swallows the prey whole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "seek",
+        "flutters",
+        "swallows",
+        "tongue",
+        "scent",
+        "whole",
+        "tip"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +227,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "EKANS curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "assuming",
+        "upraised",
+        "threat",
+        "respond",
+        "position",
+        "rests",
+        "curls",
+        "glare",
+        "allows",
+        "spiral",
+        "direction",
+        "quickly"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +250,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "EKANS curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "assuming",
+        "upraised",
+        "threat",
+        "respond",
+        "position",
+        "rests",
+        "curls",
+        "glare",
+        "allows",
+        "spiral",
+        "direction",
+        "quickly"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +273,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "An EKANS curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "upraised",
+        "threat",
+        "respond",
+        "position",
+        "rests",
+        "curls",
+        "allows",
+        "spiral",
+        "direction",
+        "quickly"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +294,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A very common sight in grassland, etc. It flicks its tongue in and out to sense danger in its surroundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flicks",
+        "grassland",
+        "etc",
+        "common",
+        "sight",
+        "tongue",
+        "surroundings",
+        "sense"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +313,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Moving silently and stealthily, it eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "birds",
+        "stealthily",
+        "pidgey",
+        "spearow",
+        "silently",
+        "eggs",
+        "moving",
+        "whole"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +332,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "sneaks",
+        "unsuspecting",
+        "strikes",
+        "behind",
+        "grass"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +351,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "sneaks",
+        "unsuspecting",
+        "strikes",
+        "behind",
+        "grass"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +370,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "sneaks",
+        "unsuspecting",
+        "strikes",
+        "behind",
+        "grass"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +389,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "detach",
+        "swallow",
+        "jaw",
+        "freely",
+        "whole",
+        "heavy"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +408,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "harmless",
+        "painful",
+        "bite",
+        "first",
+        "grass",
+        "hides",
+        "born"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +428,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "sneaks",
+        "unsuspecting",
+        "strikes",
+        "behind",
+        "grass"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +447,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "sneaks",
+        "unsuspecting",
+        "strikes",
+        "behind",
+        "grass"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +466,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "sneaks",
+        "unsuspecting",
+        "strikes",
+        "behind",
+        "grass"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +485,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "sneaks",
+        "unsuspecting",
+        "strikes",
+        "behind",
+        "grass"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +504,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "older",
+        "rest",
+        "longer",
+        "wraps",
+        "branches"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +523,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Moving silently and stealthily, it eats the eggs of birds, such as Pidgey and Spearow, whole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "birds",
+        "stealthily",
+        "pidgey",
+        "spearow",
+        "silently",
+        "eggs",
+        "moving",
+        "whole"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +542,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "assuming",
+        "upraised",
+        "threat",
+        "respond",
+        "position",
+        "rests",
+        "curls",
+        "glare",
+        "allows",
+        "spiral",
+        "direction",
+        "quickly"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +565,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "assuming",
+        "upraised",
+        "threat",
+        "respond",
+        "position",
+        "rests",
+        "curls",
+        "glare",
+        "allows",
+        "spiral",
+        "direction",
+        "quickly"
+      ]
     },
     {
       "versionId": 29,
@@ -231,7 +588,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "dislocating",
+        "meal",
+        "rests",
+        "swallow",
+        "jaw",
+        "curls",
+        "larger"
+      ]
     },
     {
       "versionId": 30,
@@ -239,7 +608,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The eggs of bird Pokémon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "faints",
+        "stuck",
+        "egg",
+        "swallows",
+        "favorite",
+        "eggs",
+        "whole",
+        "bird"
+      ]
     },
     {
       "versionId": 31,
@@ -247,7 +627,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "older",
+        "rest",
+        "longer",
+        "wraps",
+        "branches"
+      ]
     },
     {
       "versionId": 32,
@@ -255,7 +646,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "older",
+        "rest",
+        "longer",
+        "wraps",
+        "branches"
+      ]
     }
   ],
   "similarPokemonIds": [

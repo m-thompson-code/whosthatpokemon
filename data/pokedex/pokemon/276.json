@@ -10,6 +10,54 @@
   ],
   "imagePath": "/assets/pokemon/276.png",
   "entryCount": 18,
+  "entryTraits": [
+    "arms",
+    "sonic",
+    "nocturnal",
+    "cold-climate",
+    "migratory",
+    "icy",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "defiant",
+    "courageous",
+    "lonesome",
+    "courageously",
+    "warmth",
+    "skarmory",
+    "wurmple",
+    "loss",
+    "climates",
+    "gutsy",
+    "bravely",
+    "migrate",
+    "weakens",
+    "footing",
+    "180",
+    "equal",
+    "tasty",
+    "hunts",
+    "hungry",
+    "loudly",
+    "remain",
+    "dislikes",
+    "seasons",
+    "lands",
+    "stands",
+    "hand",
+    "feeds",
+    "left",
+    "young",
+    "forests",
+    "larger",
+    "miles",
+    "against",
+    "spirit",
+    "tough",
+    "search",
+    "although"
+  ],
   "color": "blue",
   "shape": "wings",
   "habitat": "grassland",
@@ -39,7 +87,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POKéMON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "sonic"
+      ],
+      "keywords": [
+        "defiant",
+        "courageously",
+        "loss",
+        "gutsy",
+        "hungry",
+        "loudly",
+        "remain",
+        "stands",
+        "hand",
+        "against"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +111,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "TAILLOW is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This POKéMON feeds on WURMPLE that live in forests.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sonic"
+      ],
+      "keywords": [
+        "lonesome",
+        "wurmple",
+        "feeds",
+        "left",
+        "young",
+        "forests"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +131,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Although it is small, it is very courageous. It will take on a larger SKARMORY on an equal footing. However, its will weakens if it becomes hungry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "courageous",
+        "skarmory",
+        "weakens",
+        "footing",
+        "equal",
+        "hungry",
+        "larger",
+        "although"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +150,22 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "migratory",
+        "icy"
+      ],
+      "keywords": [
+        "warmth",
+        "migrate",
+        "180",
+        "dislikes",
+        "seasons",
+        "lands",
+        "miles",
+        "search"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +173,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "migratory",
+        "icy"
+      ],
+      "keywords": [
+        "warmth",
+        "migrate",
+        "180",
+        "dislikes",
+        "seasons",
+        "lands",
+        "miles",
+        "search"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +196,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "climates",
+        "gutsy",
+        "bravely",
+        "spirit",
+        "tough",
+        "search"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +213,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "climates",
+        "gutsy",
+        "bravely",
+        "spirit",
+        "tough",
+        "search"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +230,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "climates",
+        "gutsy",
+        "bravely",
+        "spirit",
+        "tough",
+        "search"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +247,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it gets cold, they migrate, flying over 180 miles a day. It hunts for tasty prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "migratory",
+        "icy"
+      ],
+      "keywords": [
+        "migrate",
+        "180",
+        "tasty",
+        "hunts",
+        "miles"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +268,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it gets cold, they migrate, flying over 180 miles a day. It hunts for tasty prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "migratory",
+        "icy"
+      ],
+      "keywords": [
+        "migrate",
+        "180",
+        "tasty",
+        "hunts",
+        "miles"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +289,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "climates",
+        "gutsy",
+        "bravely",
+        "spirit",
+        "tough",
+        "search"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +306,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "climates",
+        "gutsy",
+        "bravely",
+        "spirit",
+        "tough",
+        "search"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +323,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "climates",
+        "gutsy",
+        "bravely",
+        "spirit",
+        "tough",
+        "search"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +340,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "climates",
+        "gutsy",
+        "bravely",
+        "spirit",
+        "tough",
+        "search"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +357,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "climates",
+        "gutsy",
+        "bravely",
+        "spirit",
+        "tough",
+        "search"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +374,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "migratory",
+        "icy"
+      ],
+      "keywords": [
+        "warmth",
+        "migrate",
+        "180",
+        "dislikes",
+        "seasons",
+        "lands",
+        "miles",
+        "search"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +397,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "sonic"
+      ],
+      "keywords": [
+        "defiant",
+        "courageously",
+        "loss",
+        "gutsy",
+        "hungry",
+        "loudly",
+        "remain",
+        "stands",
+        "hand",
+        "against"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +421,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sonic"
+      ],
+      "keywords": [
+        "lonesome",
+        "wurmple",
+        "feeds",
+        "left",
+        "young",
+        "forests"
+      ]
     }
   ],
   "similarPokemonIds": [

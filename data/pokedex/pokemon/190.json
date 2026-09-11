@@ -9,6 +9,69 @@
   ],
   "imagePath": "/assets/pokemon/190.png",
   "entryCount": 24,
+  "entryTraits": [
+    "forest-dwelling",
+    "sky-dwelling",
+    "tail",
+    "arms",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "armed",
+    "describe",
+    "handlike",
+    "oddity",
+    "bounsweet",
+    "dexterous",
+    "manipulated",
+    "did",
+    "hang",
+    "appendage",
+    "grab",
+    "momentum",
+    "pounces",
+    "writings",
+    "treetop",
+    "clumsy",
+    "pluck",
+    "tops",
+    "atop",
+    "leap",
+    "treetops",
+    "dweller",
+    "fruits",
+    "possesses",
+    "leaping",
+    "hold",
+    "ing",
+    "rather",
+    "real",
+    "ends",
+    "cleverly",
+    "deftly",
+    "excited",
+    "balance",
+    "giant",
+    "adept",
+    "tall",
+    "searches",
+    "swing",
+    "hand",
+    "reach",
+    "wraps",
+    "favorite",
+    "branches",
+    "branch",
+    "became",
+    "asleep",
+    "fall",
+    "hands",
+    "among",
+    "spots",
+    "another",
+    "freely",
+    "won"
+  ],
   "color": "purple",
   "shape": "upright",
   "habitat": "forest",
@@ -38,7 +101,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "sky-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "grab",
+        "hold",
+        "branch"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +119,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It lives atop tall trees. When leap­ ing from branch to branch, it deftly uses its tail for balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "atop",
+        "leap",
+        "ing",
+        "deftly",
+        "balance",
+        "tall",
+        "branch"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +140,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It uses its tail to hang on to tree branches. It uses its momentum to swing from one branch to another.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "hang",
+        "momentum",
+        "swing",
+        "branches",
+        "branch",
+        "another"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +160,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "AIPOM’s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the POKéMON uses its tail so much, its real hands have become rather clumsy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "manipulated",
+        "appendage",
+        "clumsy",
+        "rather",
+        "real",
+        "ends",
+        "cleverly",
+        "hand",
+        "hands"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +183,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "AIPOM’s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the POKéMON uses its tail so much, its real hands have become rather clumsy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "manipulated",
+        "appendage",
+        "clumsy",
+        "rather",
+        "real",
+        "ends",
+        "cleverly",
+        "hand",
+        "hands"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +206,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its tail ends with a dexterous, handlike appendage. However, because it uses the tail so much, AIPOM’s real hands have become rather clumsy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "handlike",
+        "dexterous",
+        "appendage",
+        "clumsy",
+        "rather",
+        "real",
+        "ends",
+        "hands"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +228,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "atop",
+        "leaping",
+        "deftly",
+        "balance",
+        "tall",
+        "branch"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +248,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "sky-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "grab",
+        "hold",
+        "branch"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +266,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It uses its tail to pluck fruits that are out of reach. Its tail is more adept than its real hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "pluck",
+        "fruits",
+        "real",
+        "adept",
+        "reach",
+        "hands"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +286,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives atop giant trees. It wraps its tail around a branch so it won’t fall off while asleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "atop",
+        "giant",
+        "wraps",
+        "branch",
+        "asleep",
+        "fall",
+        "won"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +307,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "treetops",
+        "cleverly",
+        "hands",
+        "among",
+        "freely"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +326,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "sky-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "grab",
+        "hold",
+        "branch"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +344,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "atop",
+        "leaping",
+        "deftly",
+        "balance",
+        "tall",
+        "branch"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +364,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "treetops",
+        "cleverly",
+        "hands",
+        "among",
+        "freely"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +383,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "treetops",
+        "cleverly",
+        "hands",
+        "among",
+        "freely"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +402,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "treetops",
+        "cleverly",
+        "hands",
+        "among",
+        "freely"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +421,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "treetops",
+        "cleverly",
+        "hands",
+        "among",
+        "freely"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +440,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "atop",
+        "leaping",
+        "deftly",
+        "balance",
+        "tall",
+        "branch"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +460,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "sky-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "grab",
+        "hold",
+        "branch"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +478,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Aipom’s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "manipulated",
+        "appendage",
+        "clumsy",
+        "rather",
+        "real",
+        "ends",
+        "cleverly",
+        "hand",
+        "hands"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +501,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Aipom’s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "manipulated",
+        "appendage",
+        "clumsy",
+        "rather",
+        "real",
+        "ends",
+        "cleverly",
+        "hand",
+        "hands"
+      ]
     },
     {
       "versionId": 29,
@@ -206,7 +524,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "did",
+        "clumsy",
+        "treetops",
+        "became",
+        "hands"
+      ]
     },
     {
       "versionId": 30,
@@ -214,7 +543,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It searches for prey from the tops of trees. When it spots its favorite food, Bounsweet, Aipom gets excited and pounces.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "bounsweet",
+        "pounces",
+        "tops",
+        "excited",
+        "searches",
+        "favorite",
+        "spots"
+      ]
     },
     {
       "versionId": 39,
@@ -222,7 +564,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This treetop dweller possesses a tail as dexterous as a hand. Ancient writings describe this Pokémon as a one-armed oddity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "tail"
+      ],
+      "keywords": [
+        "armed",
+        "describe",
+        "oddity",
+        "dexterous",
+        "writings",
+        "treetop",
+        "dweller",
+        "possesses",
+        "hand"
+      ]
     }
   ],
   "similarPokemonIds": [

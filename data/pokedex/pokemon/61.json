@@ -9,6 +9,89 @@
   ],
   "imagePath": "/assets/pokemon/061.png",
   "entryCount": 32,
+  "entryTraits": [
+    "aquatic",
+    "sleeping",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "dine",
+    "drowsi",
+    "dulates",
+    "gradual",
+    "moisturize",
+    "marches",
+    "ness",
+    "slither",
+    "lullabies",
+    "oily",
+    "fewer",
+    "greasy",
+    "trait",
+    "un",
+    "clutches",
+    "slippery",
+    "suffers",
+    "swirl",
+    "captured",
+    "ly",
+    "slide",
+    "mucus",
+    "smooth",
+    "grasp",
+    "plentiful",
+    "slick",
+    "less",
+    "subtly",
+    "sweat",
+    "sweats",
+    "undulates",
+    "moist",
+    "diligently",
+    "drowsiness",
+    "slip",
+    "dries",
+    "gradually",
+    "wet",
+    "safe",
+    "fish",
+    "staring",
+    "underwater",
+    "ing",
+    "health",
+    "put",
+    "slimy",
+    "walk",
+    "spends",
+    "spiral",
+    "natural",
+    "stay",
+    "skilled",
+    "sure",
+    "covering",
+    "bug",
+    "children",
+    "escape",
+    "pattern",
+    "feels",
+    "prefers",
+    "causes",
+    "place",
+    "constantly",
+    "surface",
+    "living",
+    "capable",
+    "fluid",
+    "though",
+    "belly",
+    "search",
+    "well",
+    "skin",
+    "although",
+    "takes",
+    "developed",
+    "eat"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": "waters-edge",
@@ -38,7 +121,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sweats",
+        "slimy",
+        "living",
+        "capable"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +138,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sweats",
+        "slimy",
+        "living",
+        "capable"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +155,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "put",
+        "spiral",
+        "escape",
+        "belly"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +172,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The swirl on its belly subtly un­ dulates. Staring at it may gradual­ ly cause drowsi­ ness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "drowsi",
+        "dulates",
+        "gradual",
+        "ness",
+        "un",
+        "swirl",
+        "ly",
+        "subtly",
+        "staring",
+        "belly"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +193,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "smooth",
+        "moist",
+        "spiral",
+        "feels",
+        "belly",
+        "skin"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +210,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Though it is skilled at walk­ ing, it prefers to live underwater where there is less danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "less",
+        "underwater",
+        "ing",
+        "walk",
+        "skilled",
+        "prefers",
+        "though"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +228,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The surface of POLIWHIRL’s body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "oily",
+        "greasy",
+        "clutches",
+        "slide",
+        "slick",
+        "slip",
+        "wet",
+        "covering",
+        "surface",
+        "fluid"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +249,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "The surface of POLIWHIRL’s body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "oily",
+        "greasy",
+        "clutches",
+        "slide",
+        "slick",
+        "slip",
+        "wet",
+        "covering",
+        "surface",
+        "fluid"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +270,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "oily",
+        "greasy",
+        "clutches",
+        "slide",
+        "slick",
+        "slip",
+        "wet",
+        "covering",
+        "surface",
+        "fluid"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +291,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "prefers",
+        "living",
+        "though",
+        "well",
+        "developed"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +309,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sweats",
+        "slimy",
+        "constantly"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +325,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subtly",
+        "undulates",
+        "drowsiness",
+        "gradually",
+        "staring",
+        "spiral",
+        "pattern",
+        "causes",
+        "belly"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +345,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subtly",
+        "undulates",
+        "drowsiness",
+        "gradually",
+        "staring",
+        "spiral",
+        "pattern",
+        "causes",
+        "belly"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +365,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subtly",
+        "undulates",
+        "drowsiness",
+        "gradually",
+        "staring",
+        "spiral",
+        "pattern",
+        "causes",
+        "belly"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +385,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swirl",
+        "subtly",
+        "undulates",
+        "drowsiness",
+        "gradually",
+        "staring",
+        "belly"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +403,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "smooth",
+        "moist",
+        "spiral",
+        "feels",
+        "belly",
+        "skin"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +420,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subtly",
+        "undulates",
+        "drowsiness",
+        "gradually",
+        "staring",
+        "spiral",
+        "pattern",
+        "causes",
+        "belly"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +440,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subtly",
+        "undulates",
+        "drowsiness",
+        "gradually",
+        "staring",
+        "spiral",
+        "pattern",
+        "causes",
+        "belly"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +460,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subtly",
+        "undulates",
+        "drowsiness",
+        "gradually",
+        "staring",
+        "spiral",
+        "pattern",
+        "causes",
+        "belly"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +480,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "subtly",
+        "undulates",
+        "drowsiness",
+        "gradually",
+        "staring",
+        "spiral",
+        "pattern",
+        "causes",
+        "belly"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +500,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sweats",
+        "slimy",
+        "constantly"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +516,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "prefers",
+        "living",
+        "though",
+        "well",
+        "developed"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +534,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "clutches",
+        "slippery",
+        "slide",
+        "slick",
+        "slip",
+        "wet",
+        "slimy",
+        "covering",
+        "surface",
+        "fluid"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +555,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "clutches",
+        "slippery",
+        "slide",
+        "slick",
+        "slip",
+        "wet",
+        "slimy",
+        "covering",
+        "surface",
+        "fluid"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +576,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Although it can live on land, it prefers to stay in the water, where it has fewer natural enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fewer",
+        "natural",
+        "stay",
+        "prefers",
+        "although"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +594,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It marches over the land in search of bug Pokémon to eat. Then it takes them underwater so it can dine on them where it’s safe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dine",
+        "marches",
+        "safe",
+        "underwater",
+        "bug",
+        "search",
+        "takes",
+        "eat"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +613,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pokémon, are plentiful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "plentiful",
+        "fish",
+        "spends",
+        "living",
+        "capable",
+        "although"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +633,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its health suffers when its skin dries out, so be sure to moisturize it diligently.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "moisturize",
+        "suffers",
+        "diligently",
+        "dries",
+        "health",
+        "sure",
+        "skin"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +651,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "put",
+        "spiral",
+        "escape",
+        "belly"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +668,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "put",
+        "spiral",
+        "escape",
+        "belly"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +685,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "lullabies",
+        "trait",
+        "swirl",
+        "drowsiness",
+        "staring",
+        "children",
+        "causes",
+        "place",
+        "belly"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +707,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "slither",
+        "captured",
+        "mucus",
+        "grasp",
+        "sweat",
+        "slimy",
+        "escape"
+      ]
     }
   ],
   "similarPokemonIds": [

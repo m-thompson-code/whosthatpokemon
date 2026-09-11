@@ -9,6 +9,99 @@
   ],
   "imagePath": "/assets/pokemon/078.png",
   "entryCount": 29,
+  "entryTraits": [
+    "fiery"
+  ],
+  "entryKeywords": [
+    "ablaze",
+    "canters",
+    "incredi",
+    "prodigiously",
+    "aglow",
+    "bly",
+    "runner",
+    "standstill",
+    "traverse",
+    "darts",
+    "fastest",
+    "bullet",
+    "cantering",
+    "race",
+    "racing",
+    "blaze",
+    "enhancing",
+    "casually",
+    "hopes",
+    "er",
+    "galloping",
+    "gallops",
+    "acceleration",
+    "arrow",
+    "competitive",
+    "decides",
+    "manes",
+    "plains",
+    "gallop",
+    "astounding",
+    "sparkles",
+    "swaying",
+    "flare",
+    "pace",
+    "fluttering",
+    "serious",
+    "swift",
+    "vast",
+    "hooves",
+    "reaches",
+    "ten",
+    "ferociously",
+    "150",
+    "hisui",
+    "steps",
+    "herd",
+    "hour",
+    "barely",
+    "blazing",
+    "per",
+    "incredible",
+    "travel",
+    "creature",
+    "train",
+    "incredibly",
+    "races",
+    "thing",
+    "chase",
+    "leader",
+    "nearly",
+    "sees",
+    "mane",
+    "reach",
+    "fiery",
+    "half",
+    "faster",
+    "speeds",
+    "fields",
+    "direction",
+    "region",
+    "top",
+    "touch",
+    "wind",
+    "appearance",
+    "run",
+    "running",
+    "something",
+    "beautiful",
+    "mph",
+    "four",
+    "miles",
+    "turns",
+    "within",
+    "10",
+    "across",
+    "fast",
+    "full",
+    "usually"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +131,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "racing",
+        "hopes",
+        "competitive",
+        "chase",
+        "fast"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +147,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "racing",
+        "hopes",
+        "competitive",
+        "chase",
+        "fast"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +163,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Just loves to run. If it sees some­ thing faster than itself, it will give chase at top speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "thing",
+        "chase",
+        "sees",
+        "faster",
+        "top",
+        "run"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +180,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "At full gallop, its four hooves barely touch the ground because it moves so incredi­ bly fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "incredi",
+        "bly",
+        "gallop",
+        "hooves",
+        "barely",
+        "touch",
+        "four",
+        "fast",
+        "full"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +200,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "acceleration",
+        "reaches",
+        "ten",
+        "150",
+        "steps",
+        "incredible",
+        "top",
+        "running",
+        "mph"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +220,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It just loves to gallop. The faster it goes, the long­ er the swaying flames of its mane will become.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "er",
+        "gallop",
+        "swaying",
+        "mane",
+        "faster"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +238,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cantering",
+        "blaze",
+        "casually",
+        "gallops",
+        "manes",
+        "plains",
+        "flare",
+        "serious",
+        "150",
+        "fiery",
+        "fields",
+        "mph",
+        "turns",
+        "usually"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +265,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cantering",
+        "blaze",
+        "casually",
+        "gallops",
+        "manes",
+        "plains",
+        "flare",
+        "serious",
+        "150",
+        "fiery",
+        "fields",
+        "mph",
+        "turns",
+        "usually"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +292,26 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It usually canters casually in the fields and plains. But once a RAPIDASH turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "canters",
+        "blaze",
+        "casually",
+        "gallops",
+        "manes",
+        "plains",
+        "flare",
+        "serious",
+        "150",
+        "fiery",
+        "fields",
+        "mph",
+        "turns",
+        "usually"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +319,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It can gallop at a top speed of 150 miles per hour. It can race as fast as a bullet train while ablaze.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ablaze",
+        "bullet",
+        "race",
+        "gallop",
+        "150",
+        "hour",
+        "per",
+        "train",
+        "top",
+        "miles",
+        "fast"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +341,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "racing",
+        "hopes",
+        "competitive",
+        "chase",
+        "fast"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +357,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gallops",
+        "arrow",
+        "ferociously",
+        "150",
+        "blazing",
+        "races",
+        "nearly",
+        "mane",
+        "mph"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +377,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has astounding acceleration. From a standstill, it can reach top speed within 10 steps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "standstill",
+        "acceleration",
+        "astounding",
+        "steps",
+        "reach",
+        "top",
+        "within",
+        "10"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +396,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enhancing",
+        "gallop",
+        "sparkles",
+        "blazing",
+        "mane",
+        "appearance",
+        "beautiful"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +414,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gallop",
+        "hooves",
+        "barely",
+        "incredibly",
+        "touch",
+        "four",
+        "fast",
+        "full"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +433,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "With incredible acceleration, it reaches its top speed of 150 mph after running just 10 steps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "acceleration",
+        "reaches",
+        "150",
+        "steps",
+        "incredible",
+        "top",
+        "running",
+        "mph",
+        "10"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +453,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enhancing",
+        "gallop",
+        "sparkles",
+        "blazing",
+        "mane",
+        "appearance",
+        "beautiful"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +471,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enhancing",
+        "gallop",
+        "sparkles",
+        "blazing",
+        "mane",
+        "appearance",
+        "beautiful"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +489,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enhancing",
+        "gallop",
+        "sparkles",
+        "blazing",
+        "mane",
+        "appearance",
+        "beautiful"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +507,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enhancing",
+        "gallop",
+        "sparkles",
+        "blazing",
+        "mane",
+        "appearance",
+        "beautiful"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +525,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "racing",
+        "hopes",
+        "competitive",
+        "chase",
+        "fast"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +541,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gallops",
+        "arrow",
+        "ferociously",
+        "150",
+        "blazing",
+        "races",
+        "nearly",
+        "mane",
+        "mph"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +561,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cantering",
+        "blaze",
+        "casually",
+        "gallops",
+        "manes",
+        "plains",
+        "flare",
+        "serious",
+        "150",
+        "fiery",
+        "fields",
+        "mph",
+        "turns",
+        "usually"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +588,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "cantering",
+        "blaze",
+        "casually",
+        "gallops",
+        "manes",
+        "plains",
+        "flare",
+        "serious",
+        "150",
+        "fiery",
+        "fields",
+        "mph",
+        "turns",
+        "usually"
+      ]
     },
     {
       "versionId": 31,
@@ -230,7 +615,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chase",
+        "sees",
+        "faster",
+        "top",
+        "run",
+        "something"
+      ]
     },
     {
       "versionId": 32,
@@ -238,7 +632,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chase",
+        "sees",
+        "faster",
+        "top",
+        "run",
+        "something"
+      ]
     },
     {
       "versionId": 33,
@@ -246,7 +649,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "galloping",
+        "fluttering",
+        "150",
+        "mane",
+        "fiery",
+        "speeds",
+        "fields",
+        "wind",
+        "mph"
+      ]
     },
     {
       "versionId": 34,
@@ -254,7 +671,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "runner",
+        "fastest",
+        "decides",
+        "pace",
+        "herd",
+        "travel",
+        "leader",
+        "direction"
+      ]
     },
     {
       "versionId": 39,
@@ -262,7 +690,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "prodigiously",
+        "aglow",
+        "traverse",
+        "darts",
+        "arrow",
+        "swift",
+        "vast",
+        "hisui",
+        "creature",
+        "mane",
+        "fiery",
+        "half",
+        "region",
+        "across"
+      ]
     }
   ],
   "similarPokemonIds": [

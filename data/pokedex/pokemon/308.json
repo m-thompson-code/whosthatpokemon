@@ -10,6 +10,59 @@
   ],
   "imagePath": "/assets/pokemon/308.png",
   "entryCount": 18,
+  "entryTraits": [
+    "mountain-dwelling",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "crushingly",
+    "hones",
+    "honed",
+    "merging",
+    "meditate",
+    "honing",
+    "sixth",
+    "starvation",
+    "month",
+    "foretell",
+    "yoga",
+    "motion",
+    "actions",
+    "spiritual",
+    "heightens",
+    "meditation",
+    "sharpens",
+    "steps",
+    "avoids",
+    "devastating",
+    "gained",
+    "gains",
+    "thinking",
+    "presence",
+    "daily",
+    "elegant",
+    "psychokinetic",
+    "elegantly",
+    "next",
+    "predict",
+    "mind",
+    "aura",
+    "movement",
+    "training",
+    "launches",
+    "battles",
+    "blow",
+    "harsh",
+    "fields",
+    "dance",
+    "movements",
+    "eating",
+    "sense",
+    "hides",
+    "same",
+    "whole",
+    "developed"
+  ],
   "color": "red",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -39,7 +92,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POKéMON hides its presence by merging itself with fields and mountains.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "merging",
+        "sixth",
+        "heightens",
+        "meditation",
+        "sharpens",
+        "presence",
+        "fields",
+        "sense",
+        "hides"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +114,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Through the power of meditation, MEDICHAM developed its sixth sense. It gained the ability to use psychokinetic powers. This POKéMON is known to meditate for a whole month without eating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "meditate",
+        "sixth",
+        "month",
+        "meditation",
+        "gained",
+        "psychokinetic",
+        "eating",
+        "sense",
+        "whole",
+        "developed"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +135,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Through crushingly harsh yoga training, it gained the power to foretell its foe’s actions. It battles with elegant, dance- like movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crushingly",
+        "foretell",
+        "yoga",
+        "actions",
+        "gained",
+        "elegant",
+        "movement",
+        "training",
+        "battles",
+        "harsh",
+        "dance"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +157,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It elegantly avoids attacks with dance- like steps, then launches a devastating blow in the same motion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "motion",
+        "steps",
+        "avoids",
+        "devastating",
+        "elegantly",
+        "launches",
+        "blow",
+        "dance",
+        "same"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +177,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It elegantly avoids attacks with dance- like steps, then launches a devastating blow in the same motion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "motion",
+        "steps",
+        "avoids",
+        "devastating",
+        "elegantly",
+        "launches",
+        "blow",
+        "dance",
+        "same"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +197,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Through yoga training, it has honed its sixth sense. Its movements are elegant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "honed",
+        "sixth",
+        "yoga",
+        "elegant",
+        "training",
+        "movements",
+        "sense"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +215,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Through daily meditation, it hones its spiritual power. It can sense what others are thinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hones",
+        "spiritual",
+        "meditation",
+        "thinking",
+        "daily",
+        "sense"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +232,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "honing",
+        "starvation",
+        "gains",
+        "mind",
+        "aura"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +250,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Through yoga training, it gained the psychic power to predict its foe’s next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "yoga",
+        "gained",
+        "next",
+        "predict",
+        "training"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +268,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Through yoga training, it gained the psychic power to predict its foe’s next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "yoga",
+        "gained",
+        "next",
+        "predict",
+        "training"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +286,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "honing",
+        "starvation",
+        "gains",
+        "mind",
+        "aura"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +304,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "honing",
+        "starvation",
+        "gains",
+        "mind",
+        "aura"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +322,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "honing",
+        "starvation",
+        "gains",
+        "mind",
+        "aura"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +340,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "honing",
+        "starvation",
+        "gains",
+        "mind",
+        "aura"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +358,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "motion",
+        "steps",
+        "avoids",
+        "devastating",
+        "elegantly",
+        "launches",
+        "blow",
+        "dance",
+        "same"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +378,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Through yoga training, it gained the psychic power to predict its foe’s next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "yoga",
+        "gained",
+        "next",
+        "predict",
+        "training"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +396,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pokémon hides its presence by merging itself with fields and mountains.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "merging",
+        "sixth",
+        "heightens",
+        "meditation",
+        "sharpens",
+        "presence",
+        "fields",
+        "sense",
+        "hides"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +418,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to meditate for a whole month without eating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "meditate",
+        "sixth",
+        "month",
+        "meditation",
+        "gained",
+        "psychokinetic",
+        "eating",
+        "sense",
+        "whole",
+        "developed"
+      ]
     }
   ],
   "similarPokemonIds": [

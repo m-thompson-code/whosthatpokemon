@@ -10,6 +10,62 @@
   ],
   "imagePath": "/assets/pokemon/637.png",
   "entryCount": 12,
+  "entryTraits": [
+    "volcanic",
+    "fiery",
+    "aquatic",
+    "wings",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "depict",
+    "darkened",
+    "ember",
+    "engulfs",
+    "referred",
+    "suffer",
+    "hatched",
+    "murals",
+    "embodiment",
+    "ash",
+    "emerges",
+    "replacement",
+    "bitterly",
+    "rescue",
+    "suffering",
+    "flaming",
+    "provided",
+    "saved",
+    "raging",
+    "save",
+    "rage",
+    "appeared",
+    "deity",
+    "cocoon",
+    "burning",
+    "scatter",
+    "winter",
+    "start",
+    "legends",
+    "volcanic",
+    "feared",
+    "freezing",
+    "trying",
+    "atmosphere",
+    "battles",
+    "formed",
+    "according",
+    "fires",
+    "scatters",
+    "say",
+    "six",
+    "since",
+    "scales",
+    "surroundings",
+    "thought",
+    "sun"
+  ],
   "color": "white",
   "shape": "bug-wings",
   "habitat": null,
@@ -39,7 +95,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When volcanic ash darkened the atmosphere, it is said that Volcarona’s fire provided a replacement for the sun.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "darkened",
+        "ash",
+        "replacement",
+        "provided",
+        "volcanic",
+        "atmosphere",
+        "sun"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +116,22 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "ember",
+        "engulfs",
+        "scatter",
+        "battles",
+        "six",
+        "since",
+        "scales",
+        "surroundings"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +139,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "embodiment",
+        "bitterly",
+        "saved",
+        "appeared",
+        "winter",
+        "freezing",
+        "thought",
+        "sun"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +161,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "embodiment",
+        "bitterly",
+        "saved",
+        "appeared",
+        "winter",
+        "freezing",
+        "thought",
+        "sun"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +183,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "ember",
+        "engulfs",
+        "scatter",
+        "battles",
+        "six",
+        "since",
+        "scales",
+        "surroundings"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +206,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When volcanic ash darkened the atmosphere, it is said that Volcarona’s fire provided a replacement for the sun.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "darkened",
+        "ash",
+        "replacement",
+        "provided",
+        "volcanic",
+        "atmosphere",
+        "sun"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +227,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "ember",
+        "engulfs",
+        "scatter",
+        "battles",
+        "six",
+        "since",
+        "scales",
+        "surroundings"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +250,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When volcanic ash darkened the atmosphere, it is said that Volcarona’s fire provided a replacement for the sun.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "darkened",
+        "ash",
+        "replacement",
+        "provided",
+        "volcanic",
+        "atmosphere",
+        "sun"
+      ]
     },
     {
       "versionId": 29,
@@ -103,7 +271,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "As it flies, it scatters its flaming scales. It was feared by ancient people, who referred to it as “the rage of the sun.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "referred",
+        "flaming",
+        "rage",
+        "feared",
+        "scatters",
+        "scales",
+        "sun"
+      ]
     },
     {
       "versionId": 30,
@@ -111,7 +289,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "hatched",
+        "suffering",
+        "flaming",
+        "save",
+        "cocoon",
+        "legends",
+        "according"
+      ]
     },
     {
       "versionId": 33,
@@ -119,7 +310,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Volcarona scatters burning scales. Some say it does this to start fires. Others say it’s trying to rescue those that suffer in the cold.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "suffer",
+        "rescue",
+        "burning",
+        "start",
+        "trying",
+        "fires",
+        "scatters",
+        "say",
+        "scales"
+      ]
     },
     {
       "versionId": 34,
@@ -127,7 +333,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "depict",
+        "murals",
+        "emerges",
+        "raging",
+        "deity",
+        "cocoon",
+        "formed"
+      ]
     }
   ],
   "similarPokemonIds": [

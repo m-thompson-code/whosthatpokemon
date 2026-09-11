@@ -10,6 +10,65 @@
   ],
   "imagePath": "/assets/pokemon/176.png",
   "entryCount": 24,
+  "entryTraits": [
+    "wings",
+    "sky-dwelling",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "abound",
+    "bestows",
+    "dispirit",
+    "tags",
+    "whom",
+    "companion",
+    "trusted",
+    "wilds",
+    "dispirited",
+    "ed",
+    "hearted",
+    "caring",
+    "loving",
+    "car",
+    "kindly",
+    "records",
+    "glowing",
+    "rumors",
+    "fortune",
+    "exist",
+    "shower",
+    "kindhearted",
+    "midair",
+    "flap",
+    "brings",
+    "scatter",
+    "ing",
+    "joy",
+    "pure",
+    "stay",
+    "float",
+    "share",
+    "seeking",
+    "dust",
+    "person",
+    "shares",
+    "someone",
+    "evolves",
+    "front",
+    "upon",
+    "great",
+    "care",
+    "say",
+    "happiness",
+    "called",
+    "heart",
+    "human",
+    "spots",
+    "along",
+    "good",
+    "moving",
+    "although"
+  ],
   "color": "white",
   "shape": "humanoid",
   "habitat": "forest",
@@ -40,7 +99,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "They say that it will appear before kindhearted, car­ ing people and shower them with happiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "car",
+        "shower",
+        "kindhearted",
+        "ing",
+        "say",
+        "happiness"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +116,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It grows dispirit­ ed if it is not with kind people. It can float in midair without moving its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "dispirit",
+        "ed",
+        "midair",
+        "float",
+        "moving"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +134,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "tags",
+        "flap",
+        "stay",
+        "along",
+        "although"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +153,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "TOGETIC is said to be a POKéMON that brings good fortune. When the POKéMON spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "brings",
+        "pure",
+        "share",
+        "person",
+        "someone",
+        "happiness",
+        "heart",
+        "spots",
+        "good"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +174,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "TOGETIC is said to be a POKéMON that brings good fortune. When the POKéMON spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "brings",
+        "pure",
+        "share",
+        "person",
+        "someone",
+        "happiness",
+        "heart",
+        "spots",
+        "good"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +195,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is said to be a POKéMON that brings good fortune. When it spots someone who is pure of heart, a TOGETIC appears and shares its happiness with that person.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "brings",
+        "pure",
+        "person",
+        "shares",
+        "someone",
+        "happiness",
+        "heart",
+        "spots",
+        "good"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +216,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "dispirited",
+        "midair",
+        "float",
+        "moving"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +233,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "caring",
+        "shower",
+        "kindhearted",
+        "say",
+        "happiness"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +249,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is said to appear in front of kindly people to scatter a glowing down called “joy dust.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "kindly",
+        "glowing",
+        "scatter",
+        "joy",
+        "dust",
+        "front",
+        "called"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +269,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is said to appear in front of kindly people to scatter a glowing down called “joy dust.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "kindly",
+        "glowing",
+        "scatter",
+        "joy",
+        "dust",
+        "front",
+        "called"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +289,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "To share its happiness, it flies around the world seeking kind­ hearted people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hearted",
+        "share",
+        "seeking",
+        "happiness"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +304,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "caring",
+        "shower",
+        "kindhearted",
+        "say",
+        "happiness"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +320,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "dispirited",
+        "midair",
+        "float",
+        "moving"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +337,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "To share its happiness, it flies around the world seeking kind- hearted people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hearted",
+        "share",
+        "seeking",
+        "happiness"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +352,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "To share its happiness, it flies around the world seeking kind- hearted people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hearted",
+        "share",
+        "seeking",
+        "happiness"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +367,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "To share its happiness, it flies around the world seeking kind- hearted people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hearted",
+        "share",
+        "seeking",
+        "happiness"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +382,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "To share its happiness, it flies around the world seeking kind- hearted people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hearted",
+        "share",
+        "seeking",
+        "happiness"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +397,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "dispirited",
+        "midair",
+        "float",
+        "moving"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +414,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "caring",
+        "shower",
+        "kindhearted",
+        "say",
+        "happiness"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +430,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "brings",
+        "pure",
+        "share",
+        "person",
+        "someone",
+        "happiness",
+        "heart",
+        "spots",
+        "good"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +451,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "brings",
+        "pure",
+        "share",
+        "person",
+        "someone",
+        "happiness",
+        "heart",
+        "spots",
+        "good"
+      ]
     },
     {
       "versionId": 33,
@@ -208,7 +472,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "caring",
+        "shower",
+        "kindhearted",
+        "say",
+        "happiness"
+      ]
     },
     {
       "versionId": 34,
@@ -216,7 +488,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "dispirited",
+        "midair",
+        "float",
+        "moving"
+      ]
     },
     {
       "versionId": 39,
@@ -224,7 +505,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokémon then bestows great joy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "abound",
+        "bestows",
+        "whom",
+        "companion",
+        "trusted",
+        "wilds",
+        "loving",
+        "records",
+        "rumors",
+        "exist",
+        "joy",
+        "evolves",
+        "upon",
+        "great",
+        "care",
+        "human"
+      ]
     }
   ],
   "similarPokemonIds": [

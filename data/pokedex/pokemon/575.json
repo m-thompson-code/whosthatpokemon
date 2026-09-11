@@ -9,6 +9,47 @@
   ],
   "imagePath": "/assets/pokemon/575.png",
   "entryCount": 10,
+  "entryTraits": [
+    "nocturnal",
+    "psychic",
+    "sleeping",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "astray",
+    "witch",
+    "punishment",
+    "positions",
+    "universe",
+    "leading",
+    "starry",
+    "hypnosis",
+    "link",
+    "told",
+    "starlight",
+    "strongest",
+    "corner",
+    "controlling",
+    "greater",
+    "tales",
+    "call",
+    "mark",
+    "stones",
+    "star",
+    "shine",
+    "unknown",
+    "float",
+    "source",
+    "sleeping",
+    "according",
+    "nights",
+    "old",
+    "children",
+    "stars",
+    "friends",
+    "spirit",
+    "creates"
+  ],
   "color": "purple",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +79,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "astray",
+        "leading",
+        "hypnosis",
+        "told",
+        "corner",
+        "tales"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +96,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "psychic"
+      ],
+      "keywords": [
+        "positions",
+        "starlight",
+        "mark",
+        "stones",
+        "star",
+        "float",
+        "source"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +117,23 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "starry",
+        "controlling",
+        "tales",
+        "sleeping",
+        "according",
+        "nights",
+        "old",
+        "children",
+        "friends",
+        "creates"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +141,23 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "starry",
+        "controlling",
+        "tales",
+        "sleeping",
+        "according",
+        "nights",
+        "old",
+        "children",
+        "friends",
+        "creates"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +165,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "psychic"
+      ],
+      "keywords": [
+        "positions",
+        "starlight",
+        "mark",
+        "stones",
+        "star",
+        "float",
+        "source"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +186,23 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "starry",
+        "controlling",
+        "tales",
+        "sleeping",
+        "according",
+        "nights",
+        "old",
+        "children",
+        "friends",
+        "creates"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +210,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "psychic"
+      ],
+      "keywords": [
+        "positions",
+        "starlight",
+        "mark",
+        "stones",
+        "star",
+        "float",
+        "source"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +231,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "starry",
+        "controlling",
+        "tales",
+        "sleeping",
+        "according",
+        "nights",
+        "old",
+        "children",
+        "friends",
+        "creates"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +255,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "witch",
+        "punishment",
+        "call",
+        "shine",
+        "sleeping",
+        "children",
+        "stars",
+        "spirit"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +278,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "psychic"
+      ],
+      "keywords": [
+        "universe",
+        "link",
+        "strongest",
+        "greater",
+        "shine",
+        "unknown",
+        "nights",
+        "stars"
+      ]
     }
   ],
   "similarPokemonIds": [

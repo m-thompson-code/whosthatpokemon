@@ -9,6 +9,52 @@
   ],
   "imagePath": "/assets/pokemon/713.png",
   "entryCount": 7,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "aquatic",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "barrels",
+    "cleaving",
+    "latitudes",
+    "aircraft",
+    "carrier",
+    "cumbersome",
+    "deepen",
+    "bergmite",
+    "huddle",
+    "shame",
+    "frame",
+    "pristine",
+    "crushes",
+    "overnight",
+    "icebergs",
+    "cracks",
+    "paths",
+    "steep",
+    "clusters",
+    "jaw",
+    "returns",
+    "ease",
+    "lower",
+    "shatter",
+    "state",
+    "several",
+    "puts",
+    "stands",
+    "covering",
+    "armor",
+    "snow",
+    "look",
+    "among",
+    "along",
+    "mountain",
+    "swims",
+    "rocks",
+    "covered"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +85,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "cumbersome",
+        "frame",
+        "crushes",
+        "stands",
+        "covered"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +104,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "aircraft",
+        "carrier",
+        "bergmite",
+        "huddle",
+        "several",
+        "look"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +124,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "cumbersome",
+        "frame",
+        "crushes",
+        "stands",
+        "covered"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +143,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "aircraft",
+        "carrier",
+        "bergmite",
+        "huddle",
+        "several",
+        "look"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +163,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "latitudes",
+        "bergmite",
+        "icebergs",
+        "clusters",
+        "among",
+        "swims"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +182,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "deepen",
+        "pristine",
+        "overnight",
+        "cracks",
+        "returns",
+        "state"
+      ]
     },
     {
       "versionId": 39,
@@ -87,7 +199,30 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease. This Pokémon barrels along steep mountain paths, cleaving through the deep snow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "barrels",
+        "cleaving",
+        "shame",
+        "paths",
+        "steep",
+        "jaw",
+        "ease",
+        "lower",
+        "shatter",
+        "puts",
+        "covering",
+        "armor",
+        "snow",
+        "along",
+        "mountain",
+        "rocks"
+      ]
     }
   ],
   "similarPokemonIds": [

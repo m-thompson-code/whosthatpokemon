@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/981.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "synced",
+    "girafarig",
+    "headbutt",
+    "main",
+    "now",
+    "whips",
+    "hardened",
+    "protects",
+    "neck",
+    "stronger",
+    "brain",
+    "10"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +58,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "psychic"
+      ],
+      "keywords": [
+        "synced",
+        "girafarig",
+        "now",
+        "stronger",
+        "brain",
+        "10"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +79,18 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "headbutt",
+        "main",
+        "whips",
+        "hardened",
+        "protects",
+        "neck"
+      ]
     }
   ],
   "similarPokemonIds": [

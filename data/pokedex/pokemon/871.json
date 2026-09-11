@@ -9,6 +9,30 @@
   ],
   "imagePath": "/assets/pokemon/871.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fangs",
+    "electric"
+  ],
+  "entryKeywords": [
+    "scrape",
+    "spine",
+    "continues",
+    "least",
+    "flows",
+    "emit",
+    "current",
+    "seaweed",
+    "teeth",
+    "broken",
+    "spines",
+    "hours",
+    "tips",
+    "feeds",
+    "electric",
+    "still",
+    "stores",
+    "rocks"
+  ],
   "color": "purple",
   "shape": "tentacles",
   "habitat": null,
@@ -39,7 +63,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "electric"
+      ],
+      "keywords": [
+        "scrape",
+        "flows",
+        "current",
+        "seaweed",
+        "teeth",
+        "spines",
+        "tips",
+        "feeds",
+        "electric",
+        "rocks"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +87,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "spine",
+        "continues",
+        "least",
+        "emit",
+        "broken",
+        "hours",
+        "still",
+        "stores"
+      ]
     }
   ],
   "similarPokemonIds": [

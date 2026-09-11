@@ -10,6 +10,93 @@
   ],
   "imagePath": "/assets/pokemon/199.png",
   "entryCount": 27,
+  "entryTraits": [
+    "poisonous",
+    "psychic",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "ask",
+    "blessing",
+    "doubt",
+    "famed",
+    "genius",
+    "ideas",
+    "miraculously",
+    "presented",
+    "raced",
+    "reacted",
+    "sage",
+    "tuition",
+    "wns",
+    "ya",
+    "engages",
+    "intuition",
+    "latent",
+    "persists",
+    "son",
+    "wits",
+    "extraordinary",
+    "oranguru",
+    "unlocked",
+    "entered",
+    "poi",
+    "enhanced",
+    "proverb",
+    "award",
+    "former",
+    "idea",
+    "intellect",
+    "winning",
+    "comparable",
+    "mysteries",
+    "problem",
+    "says",
+    "injects",
+    "learned",
+    "solve",
+    "undertakes",
+    "situation",
+    "gave",
+    "collected",
+    "hits",
+    "understand",
+    "slowpoke",
+    "system",
+    "incredible",
+    "bitten",
+    "draw",
+    "scientists",
+    "whatever",
+    "toxins",
+    "drawn",
+    "forgets",
+    "effort",
+    "thing",
+    "coming",
+    "intelligence",
+    "research",
+    "regions",
+    "soon",
+    "calm",
+    "intelligent",
+    "shellder",
+    "battles",
+    "upon",
+    "bite",
+    "change",
+    "called",
+    "remains",
+    "everything",
+    "poisonous",
+    "brain",
+    "constantly",
+    "new",
+    "still",
+    "full",
+    "usually",
+    "apparently"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -40,7 +127,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It has incredible intellect and in­ tuition. Whatever the situation, it remains calm and collected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tuition",
+        "intellect",
+        "situation",
+        "collected",
+        "incredible",
+        "whatever",
+        "calm",
+        "remains"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +146,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "When its head was bitten, toxins entered SLOWPOKE's head and unlocked an extraordinary power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extraordinary",
+        "unlocked",
+        "entered",
+        "slowpoke",
+        "bitten",
+        "toxins"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +163,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Every time it ya­ wns, SHELLDER injects more poi­ son into it. The poison makes it more intelligent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "wns",
+        "ya",
+        "son",
+        "poi",
+        "injects",
+        "intelligent",
+        "shellder"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +183,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mysteries",
+        "learned",
+        "solve",
+        "undertakes",
+        "forgets",
+        "effort",
+        "research",
+        "shellder",
+        "everything",
+        "apparently"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +204,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mysteries",
+        "learned",
+        "solve",
+        "undertakes",
+        "forgets",
+        "effort",
+        "research",
+        "shellder",
+        "everything",
+        "apparently"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +225,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the SHELLDER on its head comes off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mysteries",
+        "solve",
+        "undertakes",
+        "forgets",
+        "research",
+        "shellder",
+        "everything",
+        "apparently"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +244,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When its head was bitten, toxins entered SLOWPOKE’s head and unlocked an extraordinary power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extraordinary",
+        "unlocked",
+        "entered",
+        "slowpoke",
+        "bitten",
+        "toxins"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +261,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intuition",
+        "intellect",
+        "situation",
+        "collected",
+        "incredible",
+        "whatever",
+        "calm",
+        "remains"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +280,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "award",
+        "winning",
+        "comparable",
+        "gave",
+        "bitten",
+        "scientists",
+        "intelligence",
+        "shellder"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +299,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "award",
+        "winning",
+        "comparable",
+        "gave",
+        "bitten",
+        "scientists",
+        "intelligence",
+        "shellder"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +318,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "award",
+        "winning",
+        "comparable",
+        "gave",
+        "bitten",
+        "scientists",
+        "intelligence",
+        "shellder"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +337,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intuition",
+        "intellect",
+        "situation",
+        "collected",
+        "incredible",
+        "whatever",
+        "calm",
+        "remains"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +356,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When its head was bitten, toxins entered SLOWPOKE’s head and unlocked an extraordinary power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extraordinary",
+        "unlocked",
+        "entered",
+        "slowpoke",
+        "bitten",
+        "toxins"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +373,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "award",
+        "winning",
+        "comparable",
+        "gave",
+        "bitten",
+        "scientists",
+        "intelligence",
+        "shellder"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +392,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "award",
+        "winning",
+        "comparable",
+        "gave",
+        "bitten",
+        "scientists",
+        "intelligence",
+        "shellder"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +411,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "award",
+        "winning",
+        "comparable",
+        "gave",
+        "bitten",
+        "scientists",
+        "intelligence",
+        "shellder"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +430,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "award",
+        "winning",
+        "comparable",
+        "gave",
+        "bitten",
+        "scientists",
+        "intelligence",
+        "shellder"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +449,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intuition",
+        "intellect",
+        "situation",
+        "collected",
+        "incredible",
+        "whatever",
+        "calm",
+        "remains"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +468,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When its head was bitten, toxins entered Slowpoke’s head and unlocked an extraordinary power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extraordinary",
+        "unlocked",
+        "entered",
+        "slowpoke",
+        "bitten",
+        "toxins"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +485,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mysteries",
+        "learned",
+        "solve",
+        "undertakes",
+        "forgets",
+        "effort",
+        "research",
+        "shellder",
+        "everything",
+        "apparently"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +506,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mysteries",
+        "learned",
+        "solve",
+        "undertakes",
+        "forgets",
+        "effort",
+        "research",
+        "shellder",
+        "everything",
+        "apparently"
+      ]
     },
     {
       "versionId": 27,
@@ -208,7 +527,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A poisonous bite reacted with its system, blessing it with the enhanced intellect of a genius. It has full control of its psychic powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous",
+        "psychic"
+      ],
+      "keywords": [
+        "blessing",
+        "genius",
+        "reacted",
+        "enhanced",
+        "intellect",
+        "system",
+        "bite",
+        "poisonous",
+        "full"
+      ]
     },
     {
       "versionId": 28,
@@ -216,7 +550,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon is so famed for its intellect that a proverb still persists in some regions: “When in doubt, ask Slowking.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ask",
+        "doubt",
+        "famed",
+        "persists",
+        "proverb",
+        "intellect",
+        "regions",
+        "still"
+      ]
     },
     {
       "versionId": 29,
@@ -224,7 +569,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s constantly coming up with new ideas that would change the world, but as soon as it hits upon a new idea, it forgets it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ideas",
+        "idea",
+        "hits",
+        "forgets",
+        "coming",
+        "soon",
+        "upon",
+        "change",
+        "constantly",
+        "new"
+      ]
     },
     {
       "versionId": 30,
@@ -232,7 +590,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s called “the sage of the sea.” It engages in battles of wits with Oranguru, but the result is usually a draw.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sage",
+        "engages",
+        "wits",
+        "oranguru",
+        "draw",
+        "battles",
+        "called",
+        "usually"
+      ]
     },
     {
       "versionId": 33,
@@ -240,7 +611,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Miraculously, this former Slowpoke’s latent intelligence was drawn out when Shellder poison raced through its brain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "miraculously",
+        "raced",
+        "latent",
+        "former",
+        "slowpoke",
+        "drawn",
+        "intelligence",
+        "shellder",
+        "brain"
+      ]
     },
     {
       "versionId": 34,
@@ -248,7 +633,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "presented",
+        "problem",
+        "says",
+        "solve",
+        "understand",
+        "thing"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,81 @@
   ],
   "imagePath": "/assets/pokemon/546.png",
   "entryCount": 14,
+  "entryTraits": [
+    "forest-dwelling",
+    "sky-dwelling",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "airy",
+    "brands",
+    "cumulonimbus",
+    "eldegoss",
+    "hurricane",
+    "puffy",
+    "altogether",
+    "beds",
+    "diversion",
+    "pillows",
+    "decoy",
+    "distract",
+    "heavier",
+    "luxury",
+    "weaving",
+    "exhaled",
+    "cloth",
+    "exquisite",
+    "mass",
+    "stuffed",
+    "sent",
+    "perhaps",
+    "attacker",
+    "shelter",
+    "moist",
+    "rainy",
+    "quality",
+    "cloud",
+    "collected",
+    "escapes",
+    "ease",
+    "produces",
+    "wet",
+    "caught",
+    "prized",
+    "wherever",
+    "expels",
+    "resembles",
+    "stick",
+    "earth",
+    "serves",
+    "looking",
+    "side",
+    "beneath",
+    "cotton",
+    "loses",
+    "shooting",
+    "find",
+    "soft",
+    "feel",
+    "finds",
+    "top",
+    "rain",
+    "end",
+    "winds",
+    "wind",
+    "group",
+    "shoots",
+    "days",
+    "attacked",
+    "highly",
+    "strength",
+    "create",
+    "well",
+    "quickly",
+    "takes",
+    "big",
+    "heavy"
+  ],
   "color": "green",
   "shape": "ball",
   "habitat": null,
@@ -40,7 +115,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decoy",
+        "distract",
+        "attacker",
+        "escapes",
+        "serves",
+        "cotton",
+        "shooting",
+        "attacked"
+      ]
     },
     {
       "versionId": 18,
@@ -48,7 +134,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "heavier",
+        "shelter",
+        "rainy",
+        "wherever",
+        "beneath",
+        "wind",
+        "days",
+        "takes",
+        "big"
+      ]
     },
     {
       "versionId": 21,
@@ -56,7 +156,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "perhaps",
+        "cloud",
+        "ease",
+        "stick",
+        "looking",
+        "find",
+        "feel",
+        "end",
+        "group"
+      ]
     },
     {
       "versionId": 22,
@@ -64,7 +178,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "perhaps",
+        "cloud",
+        "ease",
+        "stick",
+        "looking",
+        "find",
+        "feel",
+        "end",
+        "group"
+      ]
     },
     {
       "versionId": 23,
@@ -72,7 +200,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decoy",
+        "distract",
+        "attacker",
+        "escapes",
+        "serves",
+        "cotton",
+        "shooting",
+        "attacked"
+      ]
     },
     {
       "versionId": 24,
@@ -80,7 +219,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "perhaps",
+        "cloud",
+        "ease",
+        "stick",
+        "looking",
+        "find",
+        "feel",
+        "end",
+        "group"
+      ]
     },
     {
       "versionId": 25,
@@ -88,7 +241,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decoy",
+        "distract",
+        "attacker",
+        "escapes",
+        "serves",
+        "cotton",
+        "shooting",
+        "attacked"
+      ]
     },
     {
       "versionId": 26,
@@ -96,7 +260,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "perhaps",
+        "cloud",
+        "ease",
+        "stick",
+        "looking",
+        "find",
+        "feel",
+        "end",
+        "group"
+      ]
     },
     {
       "versionId": 27,
@@ -104,7 +282,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "cumulonimbus",
+        "mass",
+        "cloud",
+        "collected",
+        "resembles",
+        "stick",
+        "finds"
+      ]
     },
     {
       "versionId": 28,
@@ -112,7 +302,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "airy",
+        "puffy",
+        "altogether",
+        "beds",
+        "pillows",
+        "exhaled",
+        "stuffed",
+        "quality",
+        "cotton",
+        "soft",
+        "top"
+      ]
     },
     {
       "versionId": 29,
@@ -120,7 +326,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can’t move as well.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "moist",
+        "wet",
+        "cotton",
+        "rain",
+        "shoots",
+        "well",
+        "heavy"
+      ]
     },
     {
       "versionId": 30,
@@ -128,7 +344,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "diversion",
+        "expels",
+        "cotton",
+        "loses",
+        "attacked",
+        "create",
+        "quickly"
+      ]
     },
     {
       "versionId": 33,
@@ -136,7 +362,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hurricane",
+        "sent",
+        "caught",
+        "earth",
+        "side",
+        "cotton",
+        "winds",
+        "shoots",
+        "strength"
+      ]
     },
     {
       "versionId": 34,
@@ -144,7 +382,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "brands",
+        "eldegoss",
+        "luxury",
+        "weaving",
+        "cloth",
+        "exquisite",
+        "produces",
+        "prized",
+        "cotton",
+        "highly"
+      ]
     }
   ],
   "similarPokemonIds": [

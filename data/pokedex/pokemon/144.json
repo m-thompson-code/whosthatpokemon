@@ -10,6 +10,52 @@
   ],
   "imagePath": "/assets/pokemon/144.png",
   "entryCount": 28,
+  "entryTraits": [
+    "cold-climate",
+    "mountain-dwelling",
+    "icy",
+    "aquatic",
+    "sky-dwelling",
+    "wings",
+    "tail"
+  ],
+  "entryKeywords": [
+    "cent",
+    "dary",
+    "legen",
+    "permafrost",
+    "riddled",
+    "trailing",
+    "translu",
+    "translucent",
+    "doomed",
+    "chills",
+    "seemingly",
+    "fluttering",
+    "contained",
+    "cools",
+    "freezes",
+    "blizzards",
+    "winter",
+    "magnificent",
+    "snowy",
+    "icy",
+    "blue",
+    "freezing",
+    "atmosphere",
+    "causing",
+    "moisture",
+    "flapping",
+    "fall",
+    "behind",
+    "snow",
+    "beautiful",
+    "lost",
+    "along",
+    "legendary",
+    "create",
+    "bird"
+  ],
   "color": "blue",
   "shape": "wings",
   "habitat": "rare",
@@ -39,7 +85,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "doomed",
+        "icy",
+        "lost",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +105,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "doomed",
+        "icy",
+        "lost",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +125,21 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A legendary bird POKéMON. It freezes water that is contained in winter air and makes it snow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "contained",
+        "freezes",
+        "winter",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +147,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The magnificent, seemingly translu­ cent wings of this legendary bird POKéMON are said to be made of ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "wings",
+        "icy"
+      ],
+      "keywords": [
+        "cent",
+        "translu",
+        "seemingly",
+        "magnificent",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +168,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "One of the legen­ dary bird POKéMON, it chills moisture in the atmosphere to create snow while flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "dary",
+        "legen",
+        "chills",
+        "atmosphere",
+        "moisture",
+        "snow",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +189,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Legendary bird POKéMON. As it flies through the sky, it cools the air, causing snow to fall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "cools",
+        "causing",
+        "fall",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +209,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "wings",
+        "icy"
+      ],
+      "keywords": [
+        "chills",
+        "flapping",
+        "fall",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +231,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "wings",
+        "icy"
+      ],
+      "keywords": [
+        "chills",
+        "flapping",
+        "fall",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +253,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "wings",
+        "icy"
+      ],
+      "keywords": [
+        "chills",
+        "flapping",
+        "fall",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +275,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "One of the legendary bird POKéMON. With its long tail trailing behind, its flying form is magnificent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "trailing",
+        "magnificent",
+        "behind",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +293,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "doomed",
+        "icy",
+        "lost",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +313,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "blizzards",
+        "freezing",
+        "moisture",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +332,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "blizzards",
+        "freezing",
+        "moisture",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +351,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "blizzards",
+        "freezing",
+        "moisture",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +370,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The magnificent, seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "wings",
+        "icy"
+      ],
+      "keywords": [
+        "translucent",
+        "seemingly",
+        "magnificent",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +390,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "chills",
+        "atmosphere",
+        "moisture",
+        "snow",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +410,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "blizzards",
+        "freezing",
+        "moisture",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +429,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "blizzards",
+        "freezing",
+        "moisture",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +448,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "blizzards",
+        "freezing",
+        "moisture",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +467,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "blizzards",
+        "freezing",
+        "moisture",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +486,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "blizzards",
+        "freezing",
+        "moisture",
+        "legendary",
+        "create",
+        "bird"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +505,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "doomed",
+        "icy",
+        "lost",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +525,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "wings",
+        "icy"
+      ],
+      "keywords": [
+        "chills",
+        "flapping",
+        "fall",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +547,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "wings",
+        "icy"
+      ],
+      "keywords": [
+        "chills",
+        "flapping",
+        "fall",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +569,21 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "contained",
+        "freezes",
+        "winter",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +591,21 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "contained",
+        "freezes",
+        "winter",
+        "snow",
+        "legendary",
+        "bird"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +613,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "tail",
+        "wings",
+        "icy"
+      ],
+      "keywords": [
+        "fluttering",
+        "snowy",
+        "blue",
+        "behind",
+        "beautiful",
+        "along"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +636,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "permafrost",
+        "riddled",
+        "snowy"
+      ]
     }
   ],
   "similarPokemonIds": [

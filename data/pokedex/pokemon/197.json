@@ -9,6 +9,84 @@
   ],
   "imagePath": "/assets/pokemon/197.png",
   "entryCount": 28,
+  "entryTraits": [
+    "poisonous",
+    "luminous",
+    "nocturnal",
+    "aquatic",
+    "hunting",
+    "fur"
+  ],
+  "entryKeywords": [
+    "bides",
+    "clarity",
+    "dimly",
+    "ominously",
+    "wee",
+    "perceive",
+    "absolute",
+    "tects",
+    "bathes",
+    "pores",
+    "pounces",
+    "blends",
+    "faintly",
+    "eevee",
+    "pierce",
+    "pulses",
+    "sweat",
+    "total",
+    "moonlight",
+    "spraying",
+    "lurks",
+    "secrete",
+    "yellow",
+    "ring",
+    "pro",
+    "throat",
+    "clearly",
+    "gains",
+    "hearts",
+    "nocturnal",
+    "begin",
+    "striking",
+    "agitated",
+    "excited",
+    "rings",
+    "moment",
+    "changed",
+    "leaps",
+    "silently",
+    "fear",
+    "nearby",
+    "genetic",
+    "sprays",
+    "aura",
+    "exposure",
+    "looking",
+    "structure",
+    "hours",
+    "evolved",
+    "glow",
+    "spot",
+    "exposed",
+    "waits",
+    "filled",
+    "falls",
+    "angry",
+    "protects",
+    "moon",
+    "active",
+    "patterns",
+    "black",
+    "poisonous",
+    "mysterious",
+    "anyone",
+    "dark",
+    "darkness",
+    "hides",
+    "full"
+  ],
   "color": "black",
   "shape": "quadruped",
   "habitat": "urban",
@@ -38,7 +116,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When agitated, this POKéMON pro­ tects itself by spraying poisonous sweat from its pores.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "tects",
+        "pores",
+        "sweat",
+        "spraying",
+        "pro",
+        "agitated",
+        "poisonous"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +136,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "hearts",
+        "begin",
+        "striking",
+        "rings",
+        "fear",
+        "nearby",
+        "glow",
+        "falls",
+        "anyone",
+        "darkness"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +159,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "yellow",
+        "ring",
+        "excited",
+        "glow",
+        "moon",
+        "patterns",
+        "full"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +180,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "UMBREON evolved as a result of exposure to the moon’s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "rings",
+        "leaps",
+        "silently",
+        "exposure",
+        "evolved",
+        "glow",
+        "waits",
+        "moon",
+        "darkness",
+        "hides"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +204,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "UMBREON evolved as a result of exposure to the moon’s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "rings",
+        "leaps",
+        "silently",
+        "exposure",
+        "evolved",
+        "glow",
+        "waits",
+        "moon",
+        "darkness",
+        "hides"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +228,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "UMBREON evolved from exposure to the moon’s energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "pulses",
+        "lurks",
+        "rings",
+        "leaps",
+        "exposure",
+        "evolved",
+        "glow",
+        "waits",
+        "moon",
+        "darkness"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +251,22 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When darkness falls, the rings on its body begin to glow, striking fear in the hearts of anyone nearby.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "hearts",
+        "begin",
+        "striking",
+        "rings",
+        "fear",
+        "nearby",
+        "glow",
+        "falls",
+        "anyone",
+        "darkness"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +274,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When agitated, this POKéMON protects itself by spraying poisonous sweat from its pores.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "pores",
+        "sweat",
+        "spraying",
+        "agitated",
+        "protects",
+        "poisonous"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +293,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The light of the moon changed EEVEE’s genetic structure. It lurks in darkness for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "eevee",
+        "lurks",
+        "changed",
+        "genetic",
+        "structure",
+        "moon",
+        "darkness"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +314,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The light of the moon changed EEVEE’s genetic structure. It lurks in darkness for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "eevee",
+        "lurks",
+        "changed",
+        "genetic",
+        "structure",
+        "moon",
+        "darkness"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +335,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "faintly",
+        "gains",
+        "rings",
+        "aura",
+        "glow",
+        "exposed",
+        "moon",
+        "mysterious"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +356,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When agitated, this Pokémon protects itself by spraying poisonous sweat from its pores.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "pores",
+        "sweat",
+        "spraying",
+        "agitated",
+        "protects",
+        "poisonous"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +375,22 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "hearts",
+        "begin",
+        "striking",
+        "rings",
+        "fear",
+        "nearby",
+        "glow",
+        "falls",
+        "anyone",
+        "darkness"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +398,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "faintly",
+        "gains",
+        "rings",
+        "aura",
+        "glow",
+        "exposed",
+        "moon",
+        "mysterious"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +419,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "faintly",
+        "gains",
+        "rings",
+        "aura",
+        "glow",
+        "exposed",
+        "moon",
+        "mysterious"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +440,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When exposed to the moon’s aura, the rings on its body glow faintly and it’s filled with a mysterious power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "faintly",
+        "rings",
+        "aura",
+        "glow",
+        "exposed",
+        "filled",
+        "moon",
+        "mysterious"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +461,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When exposed to the moon’s aura, the rings on its body glow faintly and it’s filled with a mysterious power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "faintly",
+        "rings",
+        "aura",
+        "glow",
+        "exposed",
+        "filled",
+        "moon",
+        "mysterious"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +482,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The light of the moon changed Eevee’s genetic structure. It lurks in darkness for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "eevee",
+        "lurks",
+        "changed",
+        "genetic",
+        "structure",
+        "moon",
+        "darkness"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +503,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When exposed to the moon’s aura, the rings on its body glow faintly and it’s filled with a mysterious power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "faintly",
+        "rings",
+        "aura",
+        "glow",
+        "exposed",
+        "filled",
+        "moon",
+        "mysterious"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +524,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Umbreon evolved as a result of exposure to the moon’s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "rings",
+        "leaps",
+        "silently",
+        "exposure",
+        "evolved",
+        "glow",
+        "waits",
+        "moon",
+        "darkness",
+        "hides"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +548,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Umbreon evolved as a result of exposure to the moon’s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "rings",
+        "leaps",
+        "silently",
+        "exposure",
+        "evolved",
+        "glow",
+        "waits",
+        "moon",
+        "darkness",
+        "hides"
+      ]
     },
     {
       "versionId": 27,
@@ -206,7 +572,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When this Pokémon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent’s eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "pores",
+        "sweat",
+        "secrete",
+        "sprays",
+        "angry",
+        "poisonous"
+      ]
     },
     {
       "versionId": 28,
@@ -214,7 +591,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "With its black fur, it blends into the darkness. It bides its time, and when prey appears, this Pokémon goes for its throat, and then eats it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "hunting"
+      ],
+      "keywords": [
+        "bides",
+        "blends",
+        "throat",
+        "black",
+        "darkness"
+      ]
     },
     {
       "versionId": 29,
@@ -222,7 +610,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon is nocturnal. Even in total darkness, its large eyes can spot its prey clearly!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "total",
+        "clearly",
+        "nocturnal",
+        "spot",
+        "darkness"
+      ]
     },
     {
       "versionId": 30,
@@ -230,7 +629,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It lurks in the dark of night looking for prey. At the moment it pounces, the rings on its body glow dimly but ominously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "dimly",
+        "ominously",
+        "pounces",
+        "lurks",
+        "rings",
+        "moment",
+        "looking",
+        "glow",
+        "dark"
+      ]
     },
     {
       "versionId": 33,
@@ -238,7 +653,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When this Pokémon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent’s eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "pores",
+        "sweat",
+        "secrete",
+        "sprays",
+        "angry",
+        "poisonous"
+      ]
     },
     {
       "versionId": 34,
@@ -246,7 +672,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "yellow",
+        "ring",
+        "excited",
+        "glow",
+        "moon",
+        "patterns",
+        "full"
+      ]
     },
     {
       "versionId": 39,
@@ -254,7 +693,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "clarity",
+        "wee",
+        "perceive",
+        "absolute",
+        "bathes",
+        "pierce",
+        "moonlight",
+        "hours",
+        "active",
+        "darkness"
+      ]
     }
   ],
   "similarPokemonIds": [

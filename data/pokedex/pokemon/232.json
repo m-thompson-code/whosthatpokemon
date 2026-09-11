@@ -9,6 +9,56 @@
   ],
   "imagePath": "/assets/pokemon/232.png",
   "entryCount": 21,
+  "entryTraits": [
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "toughened",
+    "slides",
+    "haul",
+    "destroyed",
+    "rank",
+    "ordinary",
+    "charging",
+    "block",
+    "normal",
+    "dump",
+    "higher",
+    "sort",
+    "tackle",
+    "trails",
+    "curling",
+    "herd",
+    "scratch",
+    "helps",
+    "truck",
+    "house",
+    "rugged",
+    "clear",
+    "state",
+    "hit",
+    "longer",
+    "knock",
+    "rolling",
+    "mud",
+    "leave",
+    "apart",
+    "bigger",
+    "massive",
+    "blow",
+    "favorite",
+    "tusks",
+    "starts",
+    "hide",
+    "stop",
+    "tough",
+    "strength",
+    "mountain",
+    "rock",
+    "won",
+    "skin",
+    "ball"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": "rough-terrain",
@@ -38,7 +88,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It has sharp, hard tusks and a rugged hide. Its TACKLE is strong enough to knock down a house.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tackle",
+        "house",
+        "rugged",
+        "knock",
+        "tusks",
+        "hide"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +105,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rank",
+        "higher",
+        "herd",
+        "longer",
+        "bigger",
+        "tusks"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +122,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Because this POKéMON's skin is so tough, a normal attack won't even leave a scratch on it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "normal",
+        "scratch",
+        "leave",
+        "tough",
+        "won",
+        "skin"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +139,17 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DONPHAN’s favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this POKéMON can’t stop very easily.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "charging",
+        "curling",
+        "rolling",
+        "favorite",
+        "starts",
+        "stop",
+        "ball"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +157,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If DONPHAN were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the POKéMON helps clear rock and mud slides that block mountain trails.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "slides",
+        "destroyed",
+        "block",
+        "tackle",
+        "trails",
+        "helps",
+        "house",
+        "clear",
+        "mud",
+        "massive",
+        "strength",
+        "mountain",
+        "rock"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +183,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A DONPHAN is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won’t even leave a scratch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "toughened",
+        "haul",
+        "ordinary",
+        "dump",
+        "sort",
+        "scratch",
+        "truck",
+        "state",
+        "leave",
+        "hide",
+        "rock",
+        "won"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +206,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take a long time to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rank",
+        "higher",
+        "herd",
+        "longer",
+        "bigger",
+        "tusks"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +223,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has sharp, hard tusks and a rugged hide. Its TACKLE is strong enough to knock down a house.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tackle",
+        "house",
+        "rugged",
+        "knock",
+        "tusks",
+        "hide"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +240,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curling",
+        "house",
+        "hit",
+        "rolling",
+        "apart",
+        "blow"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +257,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curling",
+        "house",
+        "hit",
+        "rolling",
+        "apart",
+        "blow"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +274,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curling",
+        "house",
+        "hit",
+        "rolling",
+        "apart",
+        "blow"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +291,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has sharp, hard tusks and a rugged hide. Its tackle is strong enough to knock down a house.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tackle",
+        "house",
+        "rugged",
+        "knock",
+        "tusks",
+        "hide"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +308,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rank",
+        "higher",
+        "herd",
+        "longer",
+        "bigger",
+        "tusks"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +325,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curling",
+        "house",
+        "hit",
+        "rolling",
+        "apart",
+        "blow"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +342,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curling",
+        "house",
+        "hit",
+        "rolling",
+        "apart",
+        "blow"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +359,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It attacks by curling up then rolling into its foe. It can blow apart a house in one hit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curling",
+        "house",
+        "hit",
+        "rolling",
+        "apart",
+        "blow"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +376,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It attacks by curling up then rolling into its foe. It can blow apart a house in one hit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curling",
+        "house",
+        "hit",
+        "rolling",
+        "apart",
+        "blow"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +393,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has sharp, hard tusks and a rugged hide. Its Tackle is strong enough to knock down a house.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tackle",
+        "house",
+        "rugged",
+        "knock",
+        "tusks",
+        "hide"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +410,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rank",
+        "higher",
+        "herd",
+        "longer",
+        "bigger",
+        "tusks"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +427,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Donphan’s favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can’t stop very easily.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "charging",
+        "curling",
+        "rolling",
+        "favorite",
+        "starts",
+        "stop",
+        "ball"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +445,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "slides",
+        "destroyed",
+        "block",
+        "tackle",
+        "trails",
+        "helps",
+        "house",
+        "clear",
+        "mud",
+        "massive",
+        "strength",
+        "mountain",
+        "rock"
+      ]
     }
   ],
   "similarPokemonIds": [

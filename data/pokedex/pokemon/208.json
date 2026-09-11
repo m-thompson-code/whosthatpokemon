@@ -10,6 +10,68 @@
   ],
   "imagePath": "/assets/pokemon/208.png",
   "entryCount": 24,
+  "entryTraits": [
+    "luminous",
+    "cave-dwelling",
+    "burrowing",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "diamondlike",
+    "notably",
+    "reflect",
+    "ingested",
+    "accumulating",
+    "tenths",
+    "towards",
+    "item",
+    "compressed",
+    "diamonds",
+    "internally",
+    "further",
+    "chews",
+    "coated",
+    "reaching",
+    "records",
+    "onix",
+    "particles",
+    "swallowed",
+    "swallowing",
+    "depth",
+    "composition",
+    "scratch",
+    "toward",
+    "cover",
+    "pressure",
+    "earth",
+    "tempered",
+    "transformed",
+    "powder",
+    "diamond",
+    "dig",
+    "evolved",
+    "strange",
+    "metal",
+    "leave",
+    "harder",
+    "mile",
+    "evolves",
+    "bright",
+    "core",
+    "six",
+    "jaws",
+    "boulders",
+    "soil",
+    "changes",
+    "sturdy",
+    "100",
+    "darkness",
+    "underground",
+    "iron",
+    "thought",
+    "well",
+    "heat"
+  ],
   "color": "gray",
   "shape": "squiggle",
   "habitat": "cave",
@@ -39,7 +101,13 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compressed",
+        "diamond",
+        "harder"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +115,15 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It is said that if an ONIX lives for over 100 years, its composition changes to become diamond-like.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "onix",
+        "composition",
+        "diamond",
+        "changes",
+        "100"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +131,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The many small metal particles that cover this POKéMON's body reflect bright light well.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "reflect",
+        "particles",
+        "cover",
+        "metal",
+        "bright",
+        "well"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +150,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "STEELIX lives even further underground than ONIX. This POKéMON is known to dig towards the earth’s core. There are records of this POKéMON reaching a depth of over six-tenths of a mile underground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "tenths",
+        "towards",
+        "further",
+        "reaching",
+        "records",
+        "onix",
+        "depth",
+        "earth",
+        "dig",
+        "mile",
+        "core",
+        "six",
+        "underground"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +177,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "STEELIX lives even further underground than ONIX. This POKéMON is known to dig towards the earth’s core. There are records of this POKéMON reaching a depth of over six-tenths of a mile underground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "tenths",
+        "towards",
+        "further",
+        "reaching",
+        "records",
+        "onix",
+        "depth",
+        "earth",
+        "dig",
+        "mile",
+        "core",
+        "six",
+        "underground"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +204,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "STEELIX live even further underground than ONIX. This POKéMON is known to dig toward the earth’s core, reaching a depth of over six-tenths of a mile underground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "tenths",
+        "further",
+        "reaching",
+        "onix",
+        "depth",
+        "toward",
+        "earth",
+        "dig",
+        "mile",
+        "core",
+        "six",
+        "underground"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +230,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is said that if an ONIX lives for over 100 years, its composition changes to become diamond-like.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "onix",
+        "composition",
+        "diamond",
+        "changes",
+        "100"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +246,13 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its body has been compressed deep under the ground. As a result, it is even harder than diamond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compressed",
+        "diamond",
+        "harder"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +260,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Tempered underground under high pressure and heat, its body is harder than any metal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "pressure",
+        "tempered",
+        "metal",
+        "harder",
+        "underground",
+        "heat"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +280,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "chews",
+        "jaws",
+        "boulders",
+        "sturdy",
+        "darkness",
+        "underground"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +299,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "accumulating",
+        "internally",
+        "swallowing",
+        "transformed",
+        "soil",
+        "iron",
+        "thought"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +317,13 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compressed",
+        "diamond",
+        "harder"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +331,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It’s said that if an ONIX lives for 100 years, its composition becomes diamondlike as it evolves into a STEELIX.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "diamondlike",
+        "onix",
+        "composition",
+        "evolves",
+        "100"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +347,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "accumulating",
+        "internally",
+        "swallowing",
+        "transformed",
+        "soil",
+        "iron",
+        "thought"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +365,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "accumulating",
+        "internally",
+        "swallowing",
+        "transformed",
+        "soil",
+        "iron",
+        "thought"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +383,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingested",
+        "diamonds",
+        "swallowed",
+        "transformed",
+        "harder",
+        "soil",
+        "iron"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +401,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingested",
+        "diamonds",
+        "swallowed",
+        "transformed",
+        "harder",
+        "soil",
+        "iron"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +419,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Tempered underground under high pressure and heat, its body is harder than any metal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "pressure",
+        "tempered",
+        "metal",
+        "harder",
+        "underground",
+        "heat"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +439,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "chews",
+        "jaws",
+        "boulders",
+        "sturdy",
+        "darkness",
+        "underground"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +458,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth’s core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "tenths",
+        "further",
+        "reaching",
+        "records",
+        "onix",
+        "depth",
+        "toward",
+        "earth",
+        "dig",
+        "mile",
+        "core",
+        "six",
+        "underground"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +485,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth’s core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "tenths",
+        "further",
+        "reaching",
+        "records",
+        "onix",
+        "depth",
+        "toward",
+        "earth",
+        "dig",
+        "mile",
+        "core",
+        "six",
+        "underground"
+      ]
     },
     {
       "versionId": 33,
@@ -207,7 +512,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "onix",
+        "composition",
+        "diamond",
+        "changes",
+        "100"
+      ]
     },
     {
       "versionId": 34,
@@ -215,7 +528,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "accumulating",
+        "internally",
+        "swallowing",
+        "transformed",
+        "soil",
+        "iron",
+        "thought"
+      ]
     },
     {
       "versionId": 39,
@@ -223,7 +546,19 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "notably",
+        "item",
+        "coated",
+        "scratch",
+        "powder",
+        "diamond",
+        "evolved",
+        "strange",
+        "leave"
+      ]
     }
   ],
   "similarPokemonIds": [

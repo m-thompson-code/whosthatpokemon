@@ -10,6 +10,53 @@
   ],
   "imagePath": "/assets/pokemon/768.png",
   "entryCount": 6,
+  "entryTraits": [
+    "sky-dwelling",
+    "claws",
+    "aquatic",
+    "arms",
+    "shell"
+  ],
+  "entryKeywords": [
+    "grapploct",
+    "cleaves",
+    "meditating",
+    "peacefully",
+    "winner",
+    "accompanied",
+    "wimpod",
+    "retract",
+    "loser",
+    "advantage",
+    "sunken",
+    "greatest",
+    "slash",
+    "win",
+    "seabed",
+    "meal",
+    "extend",
+    "finishing",
+    "flashing",
+    "ships",
+    "skillfully",
+    "opening",
+    "taking",
+    "seawater",
+    "weapons",
+    "spends",
+    "giant",
+    "diamond",
+    "beneath",
+    "covering",
+    "battles",
+    "front",
+    "right",
+    "do",
+    "holes",
+    "six",
+    "caves",
+    "takes"
+  ],
   "color": "gray",
   "shape": "humanoid",
   "habitat": null,
@@ -40,7 +87,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "cleaves",
+        "slash",
+        "flashing",
+        "seawater",
+        "giant",
+        "right"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +107,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "meditating",
+        "peacefully",
+        "skillfully",
+        "spends",
+        "beneath",
+        "battles",
+        "six",
+        "caves"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +129,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The shell covering its body is as hard as diamond. This Pokémon will do anything it takes to win.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "win",
+        "diamond",
+        "covering",
+        "do",
+        "takes"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +147,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "accompanied",
+        "wimpod",
+        "retract",
+        "greatest",
+        "extend",
+        "weapons"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +166,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "advantage",
+        "win",
+        "finishing",
+        "opening",
+        "taking",
+        "front",
+        "do"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +186,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner’s meal.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "grapploct",
+        "winner",
+        "loser",
+        "sunken",
+        "seabed",
+        "meal",
+        "ships",
+        "holes"
+      ]
     }
   ],
   "similarPokemonIds": [

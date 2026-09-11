@@ -9,6 +9,58 @@
   ],
   "imagePath": "/assets/pokemon/258.png",
   "entryCount": 18,
+  "entryTraits": [
+    "aquatic",
+    "sky-dwelling",
+    "sleeping",
+    "tail"
+  ],
+  "entryKeywords": [
+    "heaving",
+    "propels",
+    "burying",
+    "faced",
+    "acceleration",
+    "planting",
+    "alert",
+    "gills",
+    "unleash",
+    "lift",
+    "situation",
+    "tight",
+    "heft",
+    "flow",
+    "rests",
+    "powerfully",
+    "spite",
+    "amazing",
+    "radar",
+    "acts",
+    "taking",
+    "breathes",
+    "edge",
+    "determine",
+    "river",
+    "crush",
+    "fin",
+    "cheeks",
+    "mud",
+    "covering",
+    "bigger",
+    "sensitive",
+    "bottom",
+    "size",
+    "four",
+    "boulders",
+    "soil",
+    "place",
+    "movements",
+    "highly",
+    "sleeps",
+    "strength",
+    "sense",
+    "rocks"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": "waters-edge",
@@ -39,7 +91,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The fin on MUDKIP’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "radar",
+        "acts",
+        "taking",
+        "determine",
+        "fin",
+        "sensitive",
+        "place",
+        "movements",
+        "highly",
+        "sense"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +115,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "In water, MUDKIP breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this POKéMON will unleash its amazing power - it can crush rocks bigger than itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "faced",
+        "gills",
+        "unleash",
+        "situation",
+        "tight",
+        "amazing",
+        "breathes",
+        "crush",
+        "cheeks",
+        "bigger",
+        "rocks"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +139,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water’s edge.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "heaving",
+        "burying",
+        "planting",
+        "lift",
+        "powerfully",
+        "edge",
+        "four",
+        "boulders",
+        "soil",
+        "sleeps"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +163,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "propels",
+        "acceleration",
+        "spite",
+        "fin",
+        "size"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +182,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "propels",
+        "acceleration",
+        "spite",
+        "fin",
+        "size"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +201,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alert",
+        "heft",
+        "flow",
+        "fin",
+        "boulders",
+        "strength"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +220,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alert",
+        "heft",
+        "flow",
+        "fin",
+        "boulders",
+        "strength"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +239,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alert",
+        "heft",
+        "flow",
+        "fin",
+        "boulders",
+        "strength"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +258,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "rests",
+        "river",
+        "crush",
+        "mud",
+        "covering",
+        "bottom",
+        "boulders"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +278,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "rests",
+        "river",
+        "crush",
+        "mud",
+        "covering",
+        "bottom",
+        "boulders"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +298,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alert",
+        "heft",
+        "flow",
+        "fin",
+        "boulders",
+        "strength"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +317,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alert",
+        "heft",
+        "flow",
+        "fin",
+        "boulders",
+        "strength"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +336,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alert",
+        "heft",
+        "flow",
+        "fin",
+        "boulders",
+        "strength"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +355,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alert",
+        "heft",
+        "flow",
+        "fin",
+        "boulders",
+        "strength"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +374,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "propels",
+        "acceleration",
+        "spite",
+        "fin",
+        "size"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +393,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "alert",
+        "heft",
+        "flow",
+        "fin",
+        "boulders",
+        "strength"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +412,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "radar",
+        "acts",
+        "taking",
+        "determine",
+        "fin",
+        "sensitive",
+        "place",
+        "movements",
+        "highly",
+        "sense"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +436,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "faced",
+        "gills",
+        "unleash",
+        "situation",
+        "tight",
+        "amazing",
+        "breathes",
+        "crush",
+        "cheeks",
+        "bigger",
+        "rocks"
+      ]
     }
   ],
   "similarPokemonIds": [

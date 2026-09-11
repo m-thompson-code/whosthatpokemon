@@ -9,6 +9,31 @@
   ],
   "imagePath": "/assets/pokemon/684.png",
   "entryCount": 6,
+  "entryTraits": [
+    "fur"
+  ],
+  "entryKeywords": [
+    "grumpy",
+    "sugar",
+    "extrudes",
+    "perfumes",
+    "tangle",
+    "entangle",
+    "candy",
+    "sweets",
+    "string",
+    "threads",
+    "incredibly",
+    "weight",
+    "spits",
+    "sticky",
+    "cotton",
+    "fluffy",
+    "smell",
+    "white",
+    "nothing",
+    "doesn"
+  ],
   "color": "white",
   "shape": "legs",
   "habitat": null,
@@ -38,7 +63,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extrudes",
+        "entangle",
+        "candy",
+        "threads",
+        "sticky",
+        "cotton",
+        "white"
+      ]
     },
     {
       "versionId": 24,
@@ -46,7 +81,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "candy",
+        "sweets",
+        "sticky",
+        "cotton",
+        "nothing"
+      ]
     },
     {
       "versionId": 25,
@@ -54,7 +99,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extrudes",
+        "entangle",
+        "candy",
+        "threads",
+        "sticky",
+        "cotton",
+        "white"
+      ]
     },
     {
       "versionId": 26,
@@ -62,7 +117,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "candy",
+        "sweets",
+        "sticky",
+        "cotton",
+        "nothing"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +135,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It eats its own weight in sugar every day. If it doesn’t get enough sugar, it becomes incredibly grumpy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grumpy",
+        "sugar",
+        "incredibly",
+        "weight",
+        "doesn"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +151,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The sweet smell of cotton candy perfumes Swirlix’s fluffy fur. This Pokémon spits out sticky string to tangle up its enemies.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "perfumes",
+        "tangle",
+        "candy",
+        "string",
+        "spits",
+        "sticky",
+        "cotton",
+        "fluffy",
+        "smell"
+      ]
     }
   ],
   "similarPokemonIds": [

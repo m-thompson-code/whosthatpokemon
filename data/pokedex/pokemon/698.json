@@ -10,6 +10,42 @@
   ],
   "imagePath": "/assets/pokemon/698.png",
   "entryCount": 8,
+  "entryTraits": [
+    "cold-climate",
+    "icy",
+    "sky-dwelling",
+    "nocturnal",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "whinnies",
+    "expected",
+    "tyrantrum",
+    "fewer",
+    "specimens",
+    "auroras",
+    "successfully",
+    "gone",
+    "current",
+    "restored",
+    "frozen",
+    "part",
+    "lands",
+    "predators",
+    "calm",
+    "environment",
+    "extinct",
+    "species",
+    "past",
+    "violent",
+    "had",
+    "million",
+    "lived",
+    "fossil",
+    "areas",
+    "100",
+    "heat"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +75,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "restored",
+        "frozen",
+        "part",
+        "had",
+        "million",
+        "100"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +95,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "tyrantrum",
+        "predators",
+        "calm",
+        "violent",
+        "lived"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +114,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "restored",
+        "frozen",
+        "part",
+        "had",
+        "million",
+        "100"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +134,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "tyrantrum",
+        "predators",
+        "calm",
+        "violent",
+        "lived"
+      ]
     },
     {
       "versionId": 29,
@@ -71,7 +153,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It lived in cold areas in ancient times. It’s said that when Amaura whinnies, auroras appear in the night sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "nocturnal",
+        "icy"
+      ],
+      "keywords": [
+        "whinnies",
+        "auroras",
+        "lived",
+        "areas"
+      ]
     },
     {
       "versionId": 30,
@@ -79,7 +173,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Amaura was restored successfully, but it’s not expected to live long because of the heat of the current environment.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "expected",
+        "successfully",
+        "current",
+        "restored",
+        "environment",
+        "heat"
+      ]
     },
     {
       "versionId": 33,
@@ -87,7 +192,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon was successfully restored from a fossil. In the past, it lived with others of its kind in cold lands where there were fewer predators.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "fewer",
+        "successfully",
+        "restored",
+        "lands",
+        "predators",
+        "past",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 34,
@@ -95,7 +214,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Amaura is an ancient Pokémon that has gone extinct. Specimens of this species can sometimes be found frozen in ice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "specimens",
+        "gone",
+        "frozen",
+        "extinct",
+        "species"
+      ]
     }
   ],
   "similarPokemonIds": [

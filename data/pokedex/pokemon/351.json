@@ -9,6 +9,57 @@
   ],
   "imagePath": "/assets/pokemon/351.png",
   "entryCount": 22,
+  "entryTraits": [
+    "cold-climate",
+    "sky-dwelling",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "borrows",
+    "guises",
+    "rougher",
+    "alters",
+    "reactions",
+    "affect",
+    "chemical",
+    "conditions",
+    "climate",
+    "vast",
+    "reaction",
+    "free",
+    "based",
+    "cloud",
+    "recently",
+    "molecules",
+    "humidity",
+    "gained",
+    "cellular",
+    "transform",
+    "taking",
+    "disposition",
+    "depending",
+    "due",
+    "structure",
+    "forms",
+    "sensitive",
+    "according",
+    "tiny",
+    "clouds",
+    "change",
+    "feelings",
+    "rain",
+    "appearance",
+    "cells",
+    "weather",
+    "snow",
+    "changes",
+    "different",
+    "nature",
+    "although",
+    "apparently",
+    "sun",
+    "temperature"
+  ],
   "color": "gray",
   "shape": "ball",
   "habitat": "grassland",
@@ -39,7 +90,17 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CASTFORM’s appearance changes with the weather. This POKéMON gained the ability to use the vast power of nature to protect its tiny body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "vast",
+        "gained",
+        "tiny",
+        "appearance",
+        "weather",
+        "changes",
+        "nature"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +108,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CASTFORM borrows the power of nature to transform itself into the guises of the sun, rain clouds, and snow clouds. This POKéMON’s feelings change with the weather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "borrows",
+        "guises",
+        "transform",
+        "clouds",
+        "change",
+        "feelings",
+        "rain",
+        "weather",
+        "snow",
+        "nature",
+        "sun"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +133,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "alters",
+        "affect",
+        "climate",
+        "humidity",
+        "cellular",
+        "depending",
+        "structure",
+        "weather",
+        "changes",
+        "temperature"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +154,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "cloud",
+        "depending",
+        "change",
+        "rain",
+        "weather",
+        "snow",
+        "sun"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +175,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "cloud",
+        "depending",
+        "change",
+        "rain",
+        "weather",
+        "snow",
+        "sun"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +196,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "recently",
+        "molecules",
+        "appearance",
+        "weather",
+        "changes"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +214,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "recently",
+        "molecules",
+        "appearance",
+        "weather",
+        "changes"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +232,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "recently",
+        "molecules",
+        "appearance",
+        "weather",
+        "changes"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +250,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "based",
+        "humidity",
+        "taking",
+        "forms",
+        "change",
+        "cells",
+        "different",
+        "temperature"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +269,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "based",
+        "humidity",
+        "taking",
+        "forms",
+        "change",
+        "cells",
+        "different",
+        "temperature"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +288,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "recently",
+        "molecules",
+        "appearance",
+        "weather",
+        "changes"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +306,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "recently",
+        "molecules",
+        "appearance",
+        "weather",
+        "changes"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +324,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "affect",
+        "cellular",
+        "structure",
+        "according",
+        "weather",
+        "changes",
+        "temperature"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +342,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "affect",
+        "cellular",
+        "structure",
+        "according",
+        "weather",
+        "changes",
+        "temperature"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +360,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "based",
+        "humidity",
+        "taking",
+        "forms",
+        "change",
+        "cells",
+        "different",
+        "temperature"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +379,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "cloud",
+        "depending",
+        "change",
+        "rain",
+        "weather",
+        "snow",
+        "sun"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +400,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Castform’s appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "vast",
+        "gained",
+        "tiny",
+        "appearance",
+        "weather",
+        "changes",
+        "nature"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +418,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon’s feelings change with the weather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "borrows",
+        "guises",
+        "transform",
+        "clouds",
+        "change",
+        "feelings",
+        "rain",
+        "weather",
+        "snow",
+        "nature",
+        "sun"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +443,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It changes its form depending on the weather. Changes in the temperature or humidity appear to affect its cellular structure.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "affect",
+        "humidity",
+        "cellular",
+        "depending",
+        "structure",
+        "weather",
+        "changes",
+        "temperature"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +462,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its form changes on its own, due to its cells’ sensitive reactions to temperature and humidity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reactions",
+        "humidity",
+        "due",
+        "sensitive",
+        "cells",
+        "changes",
+        "temperature"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +480,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although its form changes with the weather, that is apparently the result of a chemical reaction and not the result of its own free will.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chemical",
+        "reaction",
+        "free",
+        "weather",
+        "changes",
+        "although",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +498,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "rougher",
+        "conditions",
+        "disposition",
+        "depending",
+        "weather",
+        "changes"
+      ]
     }
   ],
   "similarPokemonIds": [

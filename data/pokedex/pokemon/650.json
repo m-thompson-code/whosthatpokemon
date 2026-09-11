@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/650.png",
   "entryCount": 4,
+  "entryTraits": [
+    "forest-dwelling",
+    "shell"
+  ],
+  "entryKeywords": [
+    "flexes",
+    "wouldn",
+    "faze",
+    "direct",
+    "wood",
+    "points",
+    "pierce",
+    "quills",
+    "truck",
+    "hit",
+    "covers",
+    "soft",
+    "rock",
+    "usually"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +58,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flexes",
+        "points",
+        "pierce",
+        "quills",
+        "soft",
+        "rock",
+        "usually"
+      ]
     },
     {
       "versionId": 24,
@@ -46,7 +76,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "wouldn",
+        "faze",
+        "direct",
+        "wood",
+        "truck",
+        "hit",
+        "covers"
+      ]
     },
     {
       "versionId": 25,
@@ -54,7 +97,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flexes",
+        "points",
+        "pierce",
+        "quills",
+        "soft",
+        "rock",
+        "usually"
+      ]
     },
     {
       "versionId": 26,
@@ -62,7 +115,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "wouldn",
+        "faze",
+        "direct",
+        "wood",
+        "truck",
+        "hit",
+        "covers"
+      ]
     }
   ],
   "similarPokemonIds": [

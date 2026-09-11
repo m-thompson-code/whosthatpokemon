@@ -9,6 +9,21 @@
   ],
   "imagePath": "/assets/pokemon/869.png",
   "entryCount": 2,
+  "entryTraits": [
+    "arms"
+  ],
+  "entryKeywords": [
+    "decorated",
+    "richer",
+    "cream",
+    "treat",
+    "sweeter",
+    "trusts",
+    "content",
+    "secretes",
+    "hands",
+    "berries"
+  ],
   "color": "white",
   "shape": "blob",
   "habitat": null,
@@ -39,7 +54,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When it trusts a Trainer, it will treat them to berries it’s decorated with cream.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decorated",
+        "cream",
+        "treat",
+        "trusts",
+        "berries"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +70,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "richer",
+        "cream",
+        "sweeter",
+        "content",
+        "secretes",
+        "hands"
+      ]
     }
   ],
   "similarPokemonIds": [

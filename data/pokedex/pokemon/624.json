@@ -10,6 +10,55 @@
   ],
   "imagePath": "/assets/pokemon/624.png",
   "entryCount": 12,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "clangs",
+    "tee",
+    "sharpening",
+    "ignoring",
+    "lead",
+    "sharpened",
+    "command",
+    "shredding",
+    "dulls",
+    "follows",
+    "cling",
+    "comprise",
+    "inflict",
+    "sinking",
+    "slashing",
+    "boss",
+    "bisharp",
+    "edges",
+    "injuries",
+    "diligently",
+    "cutting",
+    "orders",
+    "sharpens",
+    "dreaming",
+    "trains",
+    "battling",
+    "stones",
+    "maintain",
+    "serve",
+    "cover",
+    "damage",
+    "taking",
+    "stone",
+    "blades",
+    "allow",
+    "river",
+    "forms",
+    "covering",
+    "bring",
+    "favorite",
+    "pack",
+    "groups",
+    "entire"
+  ],
   "color": "red",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +88,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Blades comprise this Pokémon’s entire body. If battling dulls the blades, it sharpens them on stones by the river.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dulls",
+        "comprise",
+        "sharpens",
+        "battling",
+        "stones",
+        "blades",
+        "river",
+        "entire"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +109,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They fight at Bisharp’s command. They cling to their prey and inflict damage by sinking their blades into it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "command",
+        "cling",
+        "inflict",
+        "sinking",
+        "bisharp",
+        "damage",
+        "blades"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +129,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ignoring",
+        "sinking",
+        "injuries",
+        "cover",
+        "blades",
+        "groups"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +148,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ignoring",
+        "sinking",
+        "injuries",
+        "cover",
+        "blades",
+        "groups"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +167,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Blades comprise this Pokémon’s entire body. If battling dulls the blades, it sharpens them on stones by the river.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dulls",
+        "comprise",
+        "sharpens",
+        "battling",
+        "stones",
+        "blades",
+        "river",
+        "entire"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +188,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ignoring",
+        "sinking",
+        "injuries",
+        "cover",
+        "blades",
+        "groups"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +207,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Blades comprise this Pokémon’s entire body. If battling dulls the blades, it sharpens them on stones by the river.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dulls",
+        "comprise",
+        "sharpens",
+        "battling",
+        "stones",
+        "blades",
+        "river",
+        "entire"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +228,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ignoring",
+        "sinking",
+        "injuries",
+        "cover",
+        "blades",
+        "groups"
+      ]
     },
     {
       "versionId": 29,
@@ -103,7 +247,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "sharpening",
+        "shredding",
+        "sharpens",
+        "stone",
+        "blades",
+        "river",
+        "favorite"
+      ]
     },
     {
       "versionId": 30,
@@ -111,7 +268,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It follows Bisharp’s orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "clangs",
+        "tee",
+        "follows",
+        "slashing",
+        "bisharp",
+        "orders",
+        "blades"
+      ]
     },
     {
       "versionId": 33,
@@ -119,7 +286,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sharpened",
+        "edges",
+        "cutting",
+        "stones",
+        "maintain",
+        "blades",
+        "allow",
+        "river",
+        "covering",
+        "bring"
+      ]
     },
     {
       "versionId": 34,
@@ -127,7 +309,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lead",
+        "boss",
+        "bisharp",
+        "diligently",
+        "dreaming",
+        "trains",
+        "serve",
+        "taking",
+        "forms",
+        "pack"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,61 @@
   ],
   "imagePath": "/assets/pokemon/460.png",
   "entryCount": 16,
+  "entryTraits": [
+    "cold-climate",
+    "mountain-dwelling",
+    "icy",
+    "arms"
+  ],
+  "entryKeywords": [
+    "abominable",
+    "associating",
+    "sizable",
+    "snowman",
+    "whiteout",
+    "hammers",
+    "snover",
+    "blankets",
+    "darumaka",
+    "monster",
+    "retreat",
+    "perpetually",
+    "chooses",
+    "conditions",
+    "whipping",
+    "ease",
+    "playing",
+    "split",
+    "blizzards",
+    "again",
+    "shake",
+    "swinging",
+    "whips",
+    "going",
+    "buried",
+    "packs",
+    "dislikes",
+    "chases",
+    "unknown",
+    "quietly",
+    "sees",
+    "wide",
+    "quiet",
+    "bloom",
+    "massive",
+    "bring",
+    "fall",
+    "areas",
+    "petals",
+    "snow",
+    "within",
+    "boulders",
+    "flowers",
+    "huge",
+    "places",
+    "hides",
+    "covered"
+  ],
   "color": "white",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +95,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "abominable",
+        "snowman",
+        "blizzards",
+        "whips",
+        "buried",
+        "snow"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +115,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It blankets wide areas in snow by whipping up blizzards. It is also known as “The Ice Monster.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "blankets",
+        "monster",
+        "whipping",
+        "blizzards",
+        "wide",
+        "areas",
+        "snow"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +136,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "retreat",
+        "again",
+        "unknown",
+        "bloom",
+        "fall",
+        "petals",
+        "snow",
+        "flowers",
+        "places"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +158,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "perpetually",
+        "whipping",
+        "blizzards",
+        "quiet",
+        "snow",
+        "hides",
+        "covered"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +179,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "perpetually",
+        "whipping",
+        "blizzards",
+        "quiet",
+        "snow",
+        "hides",
+        "covered"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +200,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "retreat",
+        "again",
+        "unknown",
+        "bloom",
+        "fall",
+        "petals",
+        "snow",
+        "flowers",
+        "places"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +222,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "retreat",
+        "again",
+        "unknown",
+        "bloom",
+        "fall",
+        "petals",
+        "snow",
+        "flowers",
+        "places"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +244,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "retreat",
+        "again",
+        "unknown",
+        "bloom",
+        "fall",
+        "petals",
+        "snow",
+        "flowers",
+        "places"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +266,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "retreat",
+        "again",
+        "unknown",
+        "bloom",
+        "fall",
+        "petals",
+        "snow",
+        "flowers",
+        "places"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +288,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It blankets wide areas in snow by whipping up blizzards. It is also known as “The Ice Monster.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "blankets",
+        "monster",
+        "whipping",
+        "blizzards",
+        "wide",
+        "areas",
+        "snow"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +309,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "perpetually",
+        "whipping",
+        "blizzards",
+        "quiet",
+        "snow",
+        "hides",
+        "covered"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +330,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It blankets wide areas in snow by whipping up blizzards. It is also known as “The Ice Monster.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "blankets",
+        "monster",
+        "whipping",
+        "blizzards",
+        "wide",
+        "areas",
+        "snow"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +351,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "perpetually",
+        "whipping",
+        "blizzards",
+        "quiet",
+        "snow",
+        "hides",
+        "covered"
+      ]
     },
     {
       "versionId": 33,
@@ -144,7 +372,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If it sees any packs of Darumaka going after Snover, it chases them off, swinging its sizable arms like hammers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "sizable",
+        "hammers",
+        "snover",
+        "darumaka",
+        "swinging",
+        "going",
+        "packs",
+        "chases",
+        "sees"
+      ]
     },
     {
       "versionId": 34,
@@ -152,7 +394,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whiteout",
+        "conditions",
+        "blizzards",
+        "shake",
+        "massive",
+        "bring"
+      ]
     },
     {
       "versionId": 39,
@@ -160,7 +411,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "A powerful Pokémon that can split huge boulders with ease. Dislikes associating with others and chooses to live quietly deep within the mountains, playing with the snow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "associating",
+        "chooses",
+        "ease",
+        "playing",
+        "split",
+        "dislikes",
+        "quietly",
+        "snow",
+        "within",
+        "boulders",
+        "huge"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,68 @@
   ],
   "imagePath": "/assets/pokemon/630.png",
   "entryCount": 14,
+  "entryTraits": [
+    "claws",
+    "hunting",
+    "sky-dwelling",
+    "wings"
+  ],
+  "entryKeywords": [
+    "arranges",
+    "choicest",
+    "construct",
+    "hauls",
+    "trends",
+    "till",
+    "adorn",
+    "decorate",
+    "vullaby",
+    "supposedly",
+    "swoop",
+    "swoops",
+    "wing",
+    "keen",
+    "popularity",
+    "talons",
+    "watching",
+    "ruffian",
+    "cubone",
+    "ready",
+    "grabs",
+    "beautifully",
+    "searching",
+    "fashion",
+    "seem",
+    "males",
+    "weakened",
+    "bit",
+    "ease",
+    "male",
+    "circles",
+    "skillfully",
+    "keeping",
+    "attract",
+    "effort",
+    "state",
+    "eye",
+    "leave",
+    "spot",
+    "themselves",
+    "ever",
+    "care",
+    "carry",
+    "right",
+    "strike",
+    "bones",
+    "fall",
+    "finds",
+    "re",
+    "lost",
+    "weak",
+    "among",
+    "different",
+    "although"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +101,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "hauls",
+        "talons",
+        "grabs",
+        "weakened",
+        "bones",
+        "finds"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +121,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "decorate",
+        "swoop",
+        "watching",
+        "weakened",
+        "themselves",
+        "strike",
+        "bones"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +141,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "ease",
+        "circles",
+        "spot",
+        "carry"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +159,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "ease",
+        "circles",
+        "spot",
+        "carry"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +177,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "ease",
+        "circles",
+        "spot",
+        "carry"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +195,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "decorate",
+        "swoop",
+        "watching",
+        "weakened",
+        "themselves",
+        "strike",
+        "bones"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +215,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "ease",
+        "circles",
+        "spot",
+        "carry"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +233,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "decorate",
+        "swoop",
+        "watching",
+        "weakened",
+        "themselves",
+        "strike",
+        "bones"
+      ]
     },
     {
       "versionId": 27,
@@ -103,7 +253,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They adorn themselves beautifully with bones. This is supposedly an effort to attract males, but no male Mandibuzz have ever been found.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "adorn",
+        "supposedly",
+        "beautifully",
+        "males",
+        "male",
+        "attract",
+        "effort",
+        "themselves",
+        "ever",
+        "bones"
+      ]
     },
     {
       "versionId": 28,
@@ -111,7 +274,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It circles in the sky, keeping a keen eye out for Pokémon in a weakened state. Its choicest food is Cubone.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "choicest",
+        "keen",
+        "cubone",
+        "weakened",
+        "circles",
+        "keeping",
+        "state",
+        "eye"
+      ]
     },
     {
       "versionId": 29,
@@ -119,7 +295,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "arranges",
+        "construct",
+        "cubone",
+        "skillfully",
+        "bones"
+      ]
     },
     {
       "versionId": 30,
@@ -127,7 +313,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "vullaby",
+        "swoops",
+        "searching",
+        "right",
+        "finds",
+        "weak"
+      ]
     },
     {
       "versionId": 33,
@@ -135,7 +330,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Although it’s a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they’re ready to leave the nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "till",
+        "vullaby",
+        "wing",
+        "ruffian",
+        "ready",
+        "bit",
+        "leave",
+        "care",
+        "re",
+        "lost",
+        "although"
+      ]
     },
     {
       "versionId": 34,
@@ -143,7 +354,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trends",
+        "adorn",
+        "popularity",
+        "fashion",
+        "seem",
+        "themselves",
+        "bones",
+        "fall",
+        "among",
+        "different"
+      ]
     }
   ],
   "similarPokemonIds": [

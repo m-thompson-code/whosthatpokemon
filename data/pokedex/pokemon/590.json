@@ -10,6 +10,36 @@
   ],
   "imagePath": "/assets/pokemon/590.png",
   "entryCount": 10,
+  "entryTraits": [
+    "poisonous",
+    "arms"
+  ],
+  "entryKeywords": [
+    "dried",
+    "released",
+    "thoroughly",
+    "lures",
+    "medicine",
+    "resembles",
+    "release",
+    "repel",
+    "means",
+    "knows",
+    "unknown",
+    "why",
+    "poke",
+    "releases",
+    "spores",
+    "stomach",
+    "pattern",
+    "hands",
+    "try",
+    "reason",
+    "catch",
+    "poisonous",
+    "highly",
+    "ball"
+  ],
   "color": "white",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +69,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "lures",
+        "resembles",
+        "unknown",
+        "why",
+        "poke",
+        "releases",
+        "spores",
+        "pattern",
+        "ball"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +91,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "resembles",
+        "release",
+        "repel",
+        "poke",
+        "spores",
+        "try",
+        "reason",
+        "catch",
+        "ball"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +113,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "lures",
+        "poke",
+        "releases",
+        "spores",
+        "pattern",
+        "ball"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +132,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "lures",
+        "poke",
+        "releases",
+        "spores",
+        "pattern",
+        "ball"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +151,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "lures",
+        "resembles",
+        "unknown",
+        "why",
+        "poke",
+        "releases",
+        "spores",
+        "pattern",
+        "ball"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +173,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "lures",
+        "poke",
+        "releases",
+        "spores",
+        "pattern",
+        "ball"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +192,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "lures",
+        "resembles",
+        "unknown",
+        "why",
+        "poke",
+        "releases",
+        "spores",
+        "pattern",
+        "ball"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +214,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "lures",
+        "poke",
+        "releases",
+        "spores",
+        "pattern",
+        "ball"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +233,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "No one knows what the Poké Ball–like pattern on Foongus means or why Foongus has it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "means",
+        "knows",
+        "why",
+        "poke",
+        "pattern",
+        "ball"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +250,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The spores released from this Pokémon’s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "poisonous"
+      ],
+      "keywords": [
+        "dried",
+        "released",
+        "thoroughly",
+        "medicine",
+        "spores",
+        "stomach",
+        "hands",
+        "poisonous",
+        "highly"
+      ]
     }
   ],
   "similarPokemonIds": [

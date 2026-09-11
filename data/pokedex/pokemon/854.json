@@ -9,6 +9,27 @@
   ],
   "imagePath": "/assets/pokemon/854.png",
   "entryCount": 2,
+  "entryTraits": [
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "tableware",
+    "teacup",
+    "antique",
+    "forgeries",
+    "cup",
+    "tea",
+    "leftover",
+    "lonely",
+    "piece",
+    "circulation",
+    "possessed",
+    "famous",
+    "home",
+    "spirit",
+    "born"
+  ],
   "color": "purple",
   "shape": "ball",
   "habitat": null,
@@ -39,7 +60,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "cup",
+        "tea",
+        "leftover",
+        "lonely",
+        "possessed",
+        "spirit",
+        "born"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +81,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tableware",
+        "teacup",
+        "antique",
+        "forgeries",
+        "piece",
+        "circulation",
+        "famous",
+        "home"
+      ]
     }
   ],
   "similarPokemonIds": [

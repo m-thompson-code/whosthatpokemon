@@ -9,6 +9,109 @@
   ],
   "imagePath": "/assets/pokemon/239.png",
   "entryCount": 28,
+  "entryTraits": [
+    "arms",
+    "electric",
+    "sky-dwelling",
+    "horns",
+    "luminous",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "bottles",
+    "thunderstorm",
+    "togedemaru",
+    "improves",
+    "wilderness",
+    "restless",
+    "rumbles",
+    "whirling",
+    "flickers",
+    "rowdy",
+    "lively",
+    "record",
+    "outlets",
+    "pretty",
+    "shocks",
+    "voices",
+    "bluish",
+    "charging",
+    "recharge",
+    "crash",
+    "accidentally",
+    "tires",
+    "jolt",
+    "sticking",
+    "shocking",
+    "flows",
+    "happily",
+    "useful",
+    "baby",
+    "mood",
+    "built",
+    "thunder",
+    "current",
+    "rotates",
+    "hears",
+    "bit",
+    "hearing",
+    "homes",
+    "unwary",
+    "plays",
+    "sneaks",
+    "touches",
+    "match",
+    "serve",
+    "circles",
+    "swinging",
+    "house",
+    "store",
+    "storing",
+    "shine",
+    "charged",
+    "sucks",
+    "feeling",
+    "approaches",
+    "looking",
+    "play",
+    "fully",
+    "blue",
+    "ll",
+    "yet",
+    "storm",
+    "begins",
+    "electrical",
+    "metal",
+    "sign",
+    "hand",
+    "vicious",
+    "discharges",
+    "white",
+    "steal",
+    "charges",
+    "generates",
+    "violent",
+    "children",
+    "generate",
+    "between",
+    "area",
+    "space",
+    "spinning",
+    "try",
+    "fighting",
+    "touch",
+    "actually",
+    "little",
+    "stored",
+    "weak",
+    "constantly",
+    "electric",
+    "full",
+    "good",
+    "stores",
+    "horns",
+    "eat"
+  ],
   "color": "yellow",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -38,7 +141,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "tires",
+        "rotates",
+        "bit",
+        "charges",
+        "generate",
+        "little"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +161,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Even in the most vicious storm, this POKéMON plays happily if thunder rumbles in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "rumbles",
+        "happily",
+        "thunder",
+        "plays",
+        "storm",
+        "vicious"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +181,22 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It loves violent thunder. The space between its horns flickers bluish- white when it is charging energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns",
+        "electric"
+      ],
+      "keywords": [
+        "flickers",
+        "bluish",
+        "charging",
+        "thunder",
+        "white",
+        "violent",
+        "between",
+        "space",
+        "horns"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +204,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ELEKID stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this POKéMON begins swinging its arms in circles to recharge itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "accidentally",
+        "built",
+        "touches",
+        "circles",
+        "swinging",
+        "begins",
+        "metal",
+        "discharges",
+        "stores"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +228,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ELEKID stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this POKéMON begins swinging its arms in circles to recharge itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "accidentally",
+        "built",
+        "touches",
+        "circles",
+        "swinging",
+        "begins",
+        "metal",
+        "discharges",
+        "stores"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +252,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "If it touches metal and discharges the electricity it has stored in its body, an ELEKID begins swinging its arms in circles to recharge itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "touches",
+        "circles",
+        "swinging",
+        "begins",
+        "metal",
+        "discharges",
+        "stored"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +274,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Even in the most vicious storm, this POKéMON plays happily if thunder rumbles in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "rumbles",
+        "happily",
+        "thunder",
+        "plays",
+        "storm",
+        "vicious"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +294,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "tires",
+        "rotates",
+        "bit",
+        "charges",
+        "generate",
+        "little"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +314,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It generates electricity by whirling its arms. However, it can’t store the energy it makes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "whirling",
+        "store",
+        "generates"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +331,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It generates electricity by whirling its arms. However, it can’t store the energy it makes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "whirling",
+        "store",
+        "generates"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +348,24 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "horns",
+        "electric"
+      ],
+      "keywords": [
+        "shocks",
+        "sticking",
+        "flows",
+        "current",
+        "unwary",
+        "hand",
+        "between",
+        "weak",
+        "electric",
+        "horns"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +373,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It rotates its arms to generate electricity, but it tires easily, so it only charges up a little bit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "tires",
+        "rotates",
+        "bit",
+        "charges",
+        "generate",
+        "little"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +393,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Even in the most vicious storm, this Pokémon plays happily if thunder rumbles in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "rumbles",
+        "happily",
+        "thunder",
+        "plays",
+        "storm",
+        "vicious"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +413,24 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "horns",
+        "electric"
+      ],
+      "keywords": [
+        "shocks",
+        "sticking",
+        "flows",
+        "current",
+        "unwary",
+        "hand",
+        "between",
+        "weak",
+        "electric",
+        "horns"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +438,24 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "horns",
+        "electric"
+      ],
+      "keywords": [
+        "shocks",
+        "sticking",
+        "flows",
+        "current",
+        "unwary",
+        "hand",
+        "between",
+        "weak",
+        "electric",
+        "horns"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +463,22 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Spinning its arms around to generate electricity makes the area between its horns shine light blue.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "horns",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "shine",
+        "blue",
+        "generate",
+        "between",
+        "area",
+        "spinning",
+        "horns"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +486,22 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Spinning its arms around to generate electricity makes the area between its horns shine light blue.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "horns",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "shine",
+        "blue",
+        "generate",
+        "between",
+        "area",
+        "spinning",
+        "horns"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +509,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It generates electricity by whirling its arms. However, it can’t store the energy it makes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "whirling",
+        "store",
+        "generates"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +526,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Spinning its arms around to generate electricity makes the area between its horns shine light blue.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "horns",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "shine",
+        "blue",
+        "generate",
+        "between",
+        "area",
+        "spinning",
+        "horns"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +549,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "accidentally",
+        "built",
+        "touches",
+        "circles",
+        "swinging",
+        "begins",
+        "metal",
+        "discharges",
+        "stores"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +573,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "recharge",
+        "accidentally",
+        "built",
+        "touches",
+        "circles",
+        "swinging",
+        "begins",
+        "metal",
+        "discharges",
+        "stores"
+      ]
     },
     {
       "versionId": 27,
@@ -206,7 +597,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When it’s in a house, electrical outlets serve as its baby bottles. It sucks down electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bottles",
+        "outlets",
+        "baby",
+        "serve",
+        "house",
+        "sucks",
+        "electrical"
+      ]
     },
     {
       "versionId": 28,
@@ -214,7 +617,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon is constantly fighting with Togedemaru that try to steal its electricity. It’s a pretty even match.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "togedemaru",
+        "pretty",
+        "match",
+        "steal",
+        "try",
+        "fighting",
+        "constantly"
+      ]
     },
     {
       "versionId": 29,
@@ -222,7 +637,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it hears the crash of thunder, Elekid’s mood improves. It can be useful to record that sound and play it when Elekid’s feeling down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric",
+        "sonic"
+      ],
+      "keywords": [
+        "improves",
+        "record",
+        "crash",
+        "useful",
+        "mood",
+        "thunder",
+        "hears",
+        "feeling",
+        "play"
+      ]
     },
     {
       "versionId": 30,
@@ -230,7 +660,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When its horns shine a bluish white, that’s the sign it’s fully charged. You’ll get a shocking jolt if you touch it!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "bluish",
+        "jolt",
+        "shocking",
+        "shine",
+        "charged",
+        "fully",
+        "ll",
+        "sign",
+        "white",
+        "touch",
+        "horns"
+      ]
     },
     {
       "versionId": 33,
@@ -238,7 +684,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When a storm approaches, this Pokémon gets restless. Once Elekid hears the sound of thunder, it gets full-on rowdy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric",
+        "sonic"
+      ],
+      "keywords": [
+        "restless",
+        "rowdy",
+        "thunder",
+        "hears",
+        "approaches",
+        "storm",
+        "full"
+      ]
     },
     {
       "versionId": 34,
@@ -246,7 +705,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s not good at storing electricity yet. This Pokémon sneaks into people’s homes, looking for electrical outlets to eat electricity from.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "outlets",
+        "homes",
+        "sneaks",
+        "storing",
+        "looking",
+        "yet",
+        "electrical",
+        "good",
+        "eat"
+      ]
     },
     {
       "versionId": 39,
@@ -254,7 +727,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "thunderstorm",
+        "wilderness",
+        "lively",
+        "voices",
+        "hears",
+        "hearing",
+        "children",
+        "generate",
+        "spinning",
+        "actually"
+      ]
     }
   ],
   "similarPokemonIds": [

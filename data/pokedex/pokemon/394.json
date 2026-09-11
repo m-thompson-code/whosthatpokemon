@@ -9,6 +9,41 @@
   ],
   "imagePath": "/assets/pokemon/394.png",
   "entryCount": 14,
+  "entryTraits": [
+    "cold-climate",
+    "forest-dwelling",
+    "wings",
+    "hunting",
+    "icy",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "dignity",
+    "roaring",
+    "believes",
+    "solitary",
+    "thickest",
+    "considers",
+    "important",
+    "gracefully",
+    "deliver",
+    "wicked",
+    "tide",
+    "sings",
+    "match",
+    "icy",
+    "voice",
+    "frigid",
+    "blows",
+    "alone",
+    "searches",
+    "snap",
+    "group",
+    "sturdy",
+    "swims",
+    "apparently",
+    "seas"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +74,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "believes",
+        "important",
+        "alone",
+        "apparently"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +89,24 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "forest-dwelling",
+        "wings",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "thickest",
+        "deliver",
+        "wicked",
+        "icy",
+        "blows",
+        "searches",
+        "snap",
+        "seas"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +114,13 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Because every PRINPLUP considers itself to be the most important, they can never form a group.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "considers",
+        "important",
+        "group"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +128,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "solitary",
+        "thickest",
+        "deliver",
+        "wicked",
+        "blows",
+        "snap"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +148,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "solitary",
+        "thickest",
+        "deliver",
+        "wicked",
+        "blows",
+        "snap"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +168,13 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Because every Prinplup considers itself to be the most important, they can never form a group.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "considers",
+        "important",
+        "group"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +182,13 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Because every Prinplup considers itself to be the most important, they can never form a group.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "considers",
+        "important",
+        "group"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +196,13 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Because every Prinplup considers itself to be the most important, they can never form a group.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "considers",
+        "important",
+        "group"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +210,13 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Because every Prinplup considers itself to be the most important, they can never form a group.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "considers",
+        "important",
+        "group"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +224,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "believes",
+        "important",
+        "alone",
+        "apparently"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +239,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "solitary",
+        "thickest",
+        "deliver",
+        "wicked",
+        "blows",
+        "snap"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +259,14 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "believes",
+        "important",
+        "alone",
+        "apparently"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +274,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "solitary",
+        "thickest",
+        "deliver",
+        "wicked",
+        "blows",
+        "snap"
+      ]
     },
     {
       "versionId": 39,
@@ -143,7 +294,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It swims gracefully through the frigid sea and sings with a voice like the roaring tide. It has powerful, sturdy wings and dignity to match.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "dignity",
+        "roaring",
+        "gracefully",
+        "tide",
+        "sings",
+        "match",
+        "voice",
+        "frigid",
+        "sturdy",
+        "swims"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,48 @@
   ],
   "imagePath": "/assets/pokemon/782.png",
   "entryCount": 6,
+  "entryTraits": [
+    "mountain-dwelling",
+    "sonic",
+    "fur"
+  ],
+  "entryKeywords": [
+    "expresses",
+    "smacking",
+    "smacks",
+    "warriors",
+    "detected",
+    "dueling",
+    "frighten",
+    "strengthens",
+    "trace",
+    "valiant",
+    "liked",
+    "metallic",
+    "smashing",
+    "skills",
+    "echo",
+    "noises",
+    "learn",
+    "show",
+    "contact",
+    "disposition",
+    "tall",
+    "metal",
+    "strikes",
+    "sounds",
+    "communicate",
+    "spirits",
+    "friends",
+    "feelings",
+    "humans",
+    "actually",
+    "little",
+    "scales",
+    "against",
+    "another",
+    "rocks"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +80,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "expresses",
+        "smacking",
+        "metallic",
+        "echo",
+        "tall",
+        "sounds",
+        "feelings",
+        "scales"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +102,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "They live in mountains where no trace of humans can be detected. Jangmo-o grow little by little as they battle one another.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "detected",
+        "trace",
+        "humans",
+        "little",
+        "another"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +120,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "smacks",
+        "frighten",
+        "noises",
+        "contact",
+        "friends",
+        "scales",
+        "against",
+        "rocks"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +139,15 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "warriors",
+        "valiant",
+        "liked",
+        "show",
+        "disposition"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +155,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dueling",
+        "strengthens",
+        "smashing",
+        "skills",
+        "learn",
+        "spirits",
+        "scales"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +173,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "metal",
+        "strikes",
+        "communicate",
+        "actually",
+        "scales"
+      ]
     }
   ],
   "similarPokemonIds": [

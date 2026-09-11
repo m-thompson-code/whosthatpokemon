@@ -36,7 +36,7 @@ describe("Free Mode rounds", () => {
     expect(round.answerId).toBe(bulbasaur.id);
   });
 
-  test("uses a hard strategy with game-valid, unrelated distractors", () => {
+  test("uses compound hard matches with game-valid, unrelated distractors", () => {
     const round = createFreeModeRound(
       bulbasaur,
       catalog.pokemon,
@@ -51,35 +51,39 @@ describe("Free Mode rounds", () => {
     expect(round.entryText.toLocaleLowerCase("en-US")).not.toContain("bulbasaur");
     expect(round.sourceGame.length).toBeGreaterThan(0);
     expect(round.choices.every((choice) => choice.name && choice.imagePath)).toBe(true);
-    expect(round.similarityStrategy).not.toBe("overall");
+    expect(round.similarityStrategy).toBe("overall");
     expect(distractorIds.every((id) => versionPokemonIndex.red.includes(id))).toBe(true);
     expect(distractorIds).not.toContain(2);
     expect(distractorIds).not.toContain(3);
   });
 
-  test("can randomly choose different viable sorting strategies", () => {
-    let call = 0;
-    const chooseLastStrategy = (upperBound: number) => {
-      call += 1;
-      return call === 2 ? upperBound - 1 : 0;
-    };
-    const firstStrategy = createFreeModeRound(
+  test("censors a Pokémon name when its selected Pokédex entry reveals it", () => {
+    const round = createFreeModeRound(
+      bulbasaur,
+      catalog.pokemon,
+      versionPokemonIndex,
+      () => 0,
+      "round-censored",
+      ["ruby"],
+    );
+
+    expect(round.entryText.toLocaleLowerCase("en-US")).not.toContain("bulbasaur");
+    expect(round.entryText).toContain("_______");
+  });
+
+  test("prioritizes distractors supported by multiple similarity strategies", () => {
+    const round = createFreeModeRound(
       bulbasaur,
       catalog.pokemon,
       versionPokemonIndex,
       () => 0,
       "round-3",
-    ).similarityStrategy;
-    const lastStrategy = createFreeModeRound(
-      bulbasaur,
-      catalog.pokemon,
-      versionPokemonIndex,
-      chooseLastStrategy,
-      "round-4",
-    ).similarityStrategy;
+    );
+    const allPools = Object.values(bulbasaur.similarityPools);
+    const distractorIds = round.choices
+      .filter((choice) => choice.id !== round.answerId)
+      .map((choice) => choice.id);
 
-    expect(firstStrategy).not.toBe("overall");
-    expect(lastStrategy).not.toBe("overall");
-    expect(lastStrategy).not.toBe(firstStrategy);
+    expect(distractorIds.every((id) => allPools.filter((pool) => pool.includes(id)).length >= 2)).toBe(true);
   });
 });

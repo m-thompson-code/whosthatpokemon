@@ -10,6 +10,60 @@
   ],
   "imagePath": "/assets/pokemon/017.png",
   "entryCount": 26,
+  "entryTraits": [
+    "territorial",
+    "hunting",
+    "claws"
+  ],
+  "entryKeywords": [
+    "distin",
+    "guish",
+    "ments",
+    "renders",
+    "tern",
+    "pat",
+    "immobilizes",
+    "circular",
+    "sprawling",
+    "violated",
+    "punishing",
+    "patrolling",
+    "downing",
+    "immobile",
+    "intruder",
+    "lookout",
+    "mercy",
+    "vision",
+    "outstanding",
+    "thoroughly",
+    "distinguish",
+    "territorial",
+    "fiercely",
+    "vitality",
+    "claims",
+    "exeggcute",
+    "peck",
+    "slowly",
+    "keeping",
+    "protective",
+    "shows",
+    "wide",
+    "60",
+    "carry",
+    "area",
+    "space",
+    "able",
+    "carries",
+    "miles",
+    "constantly",
+    "movements",
+    "living",
+    "highly",
+    "full",
+    "search",
+    "well",
+    "developed"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": "forest",
@@ -39,7 +93,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "sprawling",
+        "intruder",
+        "territorial",
+        "fiercely",
+        "peck",
+        "protective",
+        "area"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +113,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "sprawling",
+        "intruder",
+        "territorial",
+        "fiercely",
+        "peck",
+        "protective",
+        "area"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +133,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "This POKéMON is full of vitality. It constantly flies around its large territory in search of prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "vitality",
+        "constantly",
+        "full",
+        "search"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +151,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It has outstanding vision. However high it flies, it is able to distin­ guish the move­ ments of its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "distin",
+        "guish",
+        "ments",
+        "vision",
+        "outstanding",
+        "able"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +170,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It immobilizes its prey using well- developed claws, then carries the prey more than 60 miles to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "immobilizes",
+        "60",
+        "carries",
+        "miles",
+        "well",
+        "developed"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +190,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It slowly flies in a circular pat­ tern, all the while keeping a sharp lookout for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tern",
+        "pat",
+        "circular",
+        "lookout",
+        "slowly",
+        "keeping"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +209,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PIDGEOTTO claims a large area as its own territory. This POKéMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "territorial"
+      ],
+      "keywords": [
+        "violated",
+        "punishing",
+        "patrolling",
+        "mercy",
+        "thoroughly",
+        "claims",
+        "shows",
+        "area",
+        "space",
+        "living"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +233,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PIDGEOTTO claims a large area as its own territory. This POKéMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "territorial"
+      ],
+      "keywords": [
+        "violated",
+        "punishing",
+        "patrolling",
+        "mercy",
+        "thoroughly",
+        "claims",
+        "shows",
+        "area",
+        "space",
+        "living"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +257,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "This POKéMON flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "territorial"
+      ],
+      "keywords": [
+        "violated",
+        "punishing",
+        "patrolling",
+        "mercy",
+        "thoroughly",
+        "shows",
+        "space",
+        "living"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +279,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The claws on its feet are well developed. It can carry prey such as an EXEGGCUTE to its nest over 60 miles away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "exeggcute",
+        "60",
+        "carry",
+        "miles",
+        "well",
+        "developed"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +299,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "sprawling",
+        "intruder",
+        "territorial",
+        "fiercely",
+        "peck",
+        "protective",
+        "area"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +319,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "downing",
+        "wide",
+        "highly",
+        "search",
+        "developed"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +339,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "downing",
+        "wide",
+        "highly",
+        "search",
+        "developed"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +359,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "downing",
+        "wide",
+        "highly",
+        "search",
+        "developed"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +379,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "vision",
+        "outstanding",
+        "distinguish",
+        "able",
+        "movements"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +397,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It renders its prey immobile using well-developed claws, then carries the prey more than 60 miles to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "renders",
+        "immobile",
+        "60",
+        "carries",
+        "miles",
+        "well",
+        "developed"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +418,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "downing",
+        "wide",
+        "highly",
+        "search",
+        "developed"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +438,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "downing",
+        "wide",
+        "highly",
+        "search",
+        "developed"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +458,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "downing",
+        "wide",
+        "highly",
+        "search",
+        "developed"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +478,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "downing",
+        "wide",
+        "highly",
+        "search",
+        "developed"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +498,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "exeggcute",
+        "60",
+        "carry",
+        "miles",
+        "well",
+        "developed"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +518,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "sprawling",
+        "intruder",
+        "territorial",
+        "fiercely",
+        "peck",
+        "protective",
+        "area"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +538,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "territorial"
+      ],
+      "keywords": [
+        "violated",
+        "punishing",
+        "patrolling",
+        "mercy",
+        "thoroughly",
+        "claims",
+        "shows",
+        "area",
+        "space",
+        "living"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +562,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "territorial"
+      ],
+      "keywords": [
+        "violated",
+        "punishing",
+        "patrolling",
+        "mercy",
+        "thoroughly",
+        "claims",
+        "shows",
+        "area",
+        "space",
+        "living"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +586,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "vitality",
+        "constantly",
+        "full",
+        "search"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +604,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "territorial"
+      ],
+      "keywords": [
+        "vitality",
+        "constantly",
+        "full",
+        "search"
+      ]
     }
   ],
   "similarPokemonIds": [

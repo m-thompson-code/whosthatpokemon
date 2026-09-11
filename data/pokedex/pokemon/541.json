@@ -10,6 +10,30 @@
   ],
   "imagePath": "/assets/pokemon/541.png",
   "entryCount": 8,
+  "entryTraits": [
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "preferring",
+    "foliage",
+    "nourish",
+    "wrapping",
+    "lie",
+    "superb",
+    "damp",
+    "spends",
+    "fallen",
+    "stays",
+    "protects",
+    "plant",
+    "forests",
+    "nutrients",
+    "dark",
+    "eating",
+    "entire",
+    "places"
+  ],
   "color": "green",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +63,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "foliage",
+        "nourish",
+        "superb",
+        "fallen",
+        "plant",
+        "forests",
+        "nutrients"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +81,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "wrapping",
+        "stays",
+        "protects",
+        "forests",
+        "eating"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +100,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "preferring",
+        "lie",
+        "damp",
+        "spends",
+        "fallen",
+        "dark",
+        "eating",
+        "entire",
+        "places"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +120,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "preferring",
+        "lie",
+        "damp",
+        "spends",
+        "fallen",
+        "dark",
+        "eating",
+        "entire",
+        "places"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +140,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "foliage",
+        "nourish",
+        "superb",
+        "fallen",
+        "plant",
+        "forests",
+        "nutrients"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +158,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "wrapping",
+        "stays",
+        "protects",
+        "forests",
+        "eating"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +177,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "foliage",
+        "nourish",
+        "superb",
+        "fallen",
+        "plant",
+        "forests",
+        "nutrients"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +195,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "wrapping",
+        "stays",
+        "protects",
+        "forests",
+        "eating"
+      ]
     }
   ],
   "similarPokemonIds": [

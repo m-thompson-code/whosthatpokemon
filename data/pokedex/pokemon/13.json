@@ -10,6 +10,51 @@
   ],
   "imagePath": "/assets/pokemon/013.png",
   "entryCount": 26,
+  "entryTraits": [
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "distinguishes",
+    "grasslands",
+    "inches",
+    "proboscis",
+    "bushes",
+    "fends",
+    "distinguishing",
+    "intended",
+    "inch",
+    "injects",
+    "acute",
+    "barb",
+    "needle",
+    "venomous",
+    "warn",
+    "stinger",
+    "sniffing",
+    "beware",
+    "colored",
+    "attackers",
+    "weight",
+    "dislikes",
+    "kinds",
+    "secretes",
+    "smell",
+    "favorite",
+    "bright",
+    "top",
+    "forests",
+    "red",
+    "nose",
+    "capable",
+    "eating",
+    "sense",
+    "grass",
+    "hides",
+    "usually",
+    "big",
+    "toxic",
+    "extremely"
+  ],
   "color": "brown",
   "shape": "armor",
   "habitat": "forest",
@@ -39,7 +84,14 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venomous",
+        "stinger",
+        "forests",
+        "eating"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +99,14 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venomous",
+        "stinger",
+        "forests",
+        "eating"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +114,15 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bushes",
+        "stinger",
+        "beware",
+        "grass",
+        "hides"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +130,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "intended",
+        "warn",
+        "stinger",
+        "colored",
+        "bright"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +148,15 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inch",
+        "barb",
+        "usually"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +164,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "barb",
+        "secretes",
+        "top",
+        "toxic"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +181,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WEEDLE has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "proboscis",
+        "distinguishing",
+        "acute",
+        "sniffing",
+        "dislikes",
+        "kinds",
+        "smell",
+        "favorite",
+        "red",
+        "nose",
+        "capable",
+        "sense",
+        "big",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +206,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WEEDLE has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "proboscis",
+        "distinguishing",
+        "acute",
+        "sniffing",
+        "dislikes",
+        "kinds",
+        "smell",
+        "favorite",
+        "red",
+        "nose",
+        "capable",
+        "sense",
+        "big",
+        "extremely"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +231,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A WEEDLE has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "distinguishes",
+        "proboscis",
+        "acute",
+        "sniffing",
+        "dislikes",
+        "kinds",
+        "smell",
+        "favorite",
+        "red",
+        "nose",
+        "sense",
+        "big",
+        "extremely"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +255,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "grasslands",
+        "inches",
+        "barb",
+        "top",
+        "forests",
+        "toxic"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +274,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Often found in forests, eating leaves. It has a sharp stinger on its head that injects poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "injects",
+        "stinger",
+        "forests",
+        "eating"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +291,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fends",
+        "needle",
+        "attackers",
+        "weight"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +306,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fends",
+        "needle",
+        "attackers",
+        "weight"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +321,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fends",
+        "needle",
+        "attackers",
+        "weight"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +336,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "intended",
+        "warn",
+        "stinger",
+        "colored",
+        "bright"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +354,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "inch",
+        "barb",
+        "usually"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +370,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fends",
+        "needle",
+        "attackers",
+        "weight"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +385,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fends",
+        "needle",
+        "attackers",
+        "weight"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +400,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fends",
+        "needle",
+        "attackers",
+        "weight"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +415,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fends",
+        "needle",
+        "attackers",
+        "weight"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +430,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "grasslands",
+        "inches",
+        "barb",
+        "top",
+        "forests",
+        "toxic"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +449,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "intended",
+        "warn",
+        "stinger",
+        "colored",
+        "bright"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +467,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "proboscis",
+        "distinguishing",
+        "acute",
+        "sniffing",
+        "dislikes",
+        "kinds",
+        "smell",
+        "favorite",
+        "red",
+        "nose",
+        "capable",
+        "sense",
+        "big",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +492,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "proboscis",
+        "distinguishing",
+        "acute",
+        "sniffing",
+        "dislikes",
+        "kinds",
+        "smell",
+        "favorite",
+        "red",
+        "nose",
+        "capable",
+        "sense",
+        "big",
+        "extremely"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +517,15 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bushes",
+        "stinger",
+        "beware",
+        "grass",
+        "hides"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +533,15 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bushes",
+        "stinger",
+        "beware",
+        "grass",
+        "hides"
+      ]
     }
   ],
   "similarPokemonIds": [

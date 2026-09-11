@@ -9,6 +9,64 @@
   ],
   "imagePath": "/assets/pokemon/293.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sleeping",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "canals",
+    "decibels",
+    "audible",
+    "earsplitting",
+    "louder",
+    "paying",
+    "scares",
+    "engine",
+    "finally",
+    "murmurs",
+    "shrieks",
+    "attention",
+    "frightened",
+    "stuck",
+    "shut",
+    "ear",
+    "equal",
+    "inhales",
+    "headache",
+    "startles",
+    "barely",
+    "plane",
+    "continually",
+    "volume",
+    "exhausted",
+    "loudly",
+    "system",
+    "tired",
+    "normally",
+    "voice",
+    "crying",
+    "startled",
+    "covers",
+    "stops",
+    "ll",
+    "harder",
+    "having",
+    "quiet",
+    "timid",
+    "jet",
+    "falls",
+    "breath",
+    "asleep",
+    "re",
+    "cry",
+    "starts",
+    "catch",
+    "100",
+    "lets",
+    "same",
+    "usually",
+    "close"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": "cave",
@@ -39,7 +97,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Normally, WHISMUR’s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POKéMON senses danger, it starts crying at an earsplitting volume.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "audible",
+        "earsplitting",
+        "paying",
+        "attention",
+        "barely",
+        "volume",
+        "normally",
+        "voice",
+        "crying",
+        "quiet",
+        "starts",
+        "close"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +120,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WHISMUR is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the POKéMON goes to sleep, all tired out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping",
+        "sonic"
+      ],
+      "keywords": [
+        "finally",
+        "loudly",
+        "tired",
+        "crying",
+        "startled",
+        "stops",
+        "harder",
+        "timid",
+        "cry",
+        "starts"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +144,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "canals",
+        "ear",
+        "equal",
+        "inhales",
+        "plane",
+        "continually",
+        "volume",
+        "system",
+        "having",
+        "jet",
+        "breath",
+        "cry",
+        "catch"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +170,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "murmurs",
+        "shut",
+        "ear",
+        "loudly",
+        "crying",
+        "covers",
+        "stops",
+        "starts",
+        "usually"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +190,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "murmurs",
+        "shut",
+        "ear",
+        "loudly",
+        "crying",
+        "covers",
+        "stops",
+        "starts",
+        "usually"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +210,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "murmurs",
+        "shrieks",
+        "frightened",
+        "plane",
+        "volume",
+        "quiet",
+        "jet",
+        "same",
+        "usually"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +232,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "murmurs",
+        "shrieks",
+        "frightened",
+        "plane",
+        "volume",
+        "quiet",
+        "jet",
+        "same",
+        "usually"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +254,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "murmurs",
+        "shrieks",
+        "frightened",
+        "plane",
+        "volume",
+        "quiet",
+        "jet",
+        "same",
+        "usually"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +276,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scares",
+        "engine",
+        "plane",
+        "volume",
+        "crying",
+        "jet"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +293,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scares",
+        "engine",
+        "plane",
+        "volume",
+        "crying",
+        "jet"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +310,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "murmurs",
+        "shrieks",
+        "frightened",
+        "plane",
+        "volume",
+        "quiet",
+        "jet",
+        "same",
+        "usually"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +332,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "murmurs",
+        "shrieks",
+        "frightened",
+        "plane",
+        "volume",
+        "quiet",
+        "jet",
+        "same",
+        "usually"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +354,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "murmurs",
+        "shrieks",
+        "frightened",
+        "plane",
+        "volume",
+        "quiet",
+        "jet",
+        "same",
+        "usually"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +376,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "murmurs",
+        "shrieks",
+        "frightened",
+        "plane",
+        "volume",
+        "quiet",
+        "jet",
+        "same",
+        "usually"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +398,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It usually murmurs but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "murmurs",
+        "shut",
+        "ear",
+        "loudly",
+        "crying",
+        "covers",
+        "stops",
+        "starts",
+        "usually"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +418,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scares",
+        "engine",
+        "plane",
+        "volume",
+        "crying",
+        "jet"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +435,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Normally, Whismur’s voice is very quiet—it is barely audible even if one is paying close attention. However, if this Pokémon senses danger, it starts crying at an earsplitting volume.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "audible",
+        "earsplitting",
+        "paying",
+        "attention",
+        "barely",
+        "volume",
+        "normally",
+        "voice",
+        "crying",
+        "quiet",
+        "starts",
+        "close"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +458,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pokémon goes to sleep, all tired out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping",
+        "sonic"
+      ],
+      "keywords": [
+        "finally",
+        "loudly",
+        "tired",
+        "crying",
+        "startled",
+        "stops",
+        "harder",
+        "timid",
+        "cry",
+        "starts"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +482,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The cry of a Whismur is over 100 decibels. If you’re close to a Whismur when it lets out a cry, you’ll be stuck with an all-day headache.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "decibels",
+        "stuck",
+        "headache",
+        "ll",
+        "re",
+        "cry",
+        "100",
+        "lets",
+        "close"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +502,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it’s exhausted, then it falls asleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "louder",
+        "startles",
+        "exhausted",
+        "voice",
+        "falls",
+        "asleep",
+        "cry"
+      ]
     }
   ],
   "similarPokemonIds": [

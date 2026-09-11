@@ -9,6 +9,113 @@
   ],
   "imagePath": "/assets/pokemon/108.png",
   "entryCount": 31,
+  "entryTraits": [
+    "arms",
+    "tail",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "questionable",
+    "rash",
+    "stinks",
+    "unfamiliar",
+    "viscous",
+    "yields",
+    "7",
+    "adhesive",
+    "itch",
+    "boiled",
+    "chameleon",
+    "deft",
+    "possibility",
+    "slathered",
+    "connected",
+    "licking",
+    "retracts",
+    "memorizes",
+    "quivers",
+    "manipulated",
+    "paralyzes",
+    "filth",
+    "licked",
+    "nerves",
+    "tingling",
+    "grabbing",
+    "height",
+    "ly",
+    "sour",
+    "spans",
+    "checks",
+    "either",
+    "length",
+    "paralysis",
+    "afterward",
+    "unfailingly",
+    "main",
+    "texture",
+    "taste",
+    "wields",
+    "gooey",
+    "useful",
+    "twice",
+    "whether",
+    "moved",
+    "sensation",
+    "6",
+    "licks",
+    "collected",
+    "extended",
+    "somewhat",
+    "grips",
+    "extending",
+    "saliva",
+    "lick",
+    "sticks",
+    "put",
+    "deftly",
+    "whatever",
+    "really",
+    "object",
+    "thing",
+    "extends",
+    "forelegs",
+    "whenever",
+    "set",
+    "source",
+    "don",
+    "foot",
+    "sees",
+    "ll",
+    "sticky",
+    "arm",
+    "seven",
+    "attacking",
+    "spot",
+    "swallows",
+    "bug",
+    "instead",
+    "intense",
+    "break",
+    "clean",
+    "hands",
+    "almost",
+    "six",
+    "run",
+    "tongue",
+    "something",
+    "everything",
+    "new",
+    "across",
+    "highly",
+    "freely",
+    "though",
+    "won",
+    "well",
+    "whole",
+    "tip",
+    "developed",
+    "covered"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": "grassland",
@@ -38,7 +145,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chameleon",
+        "tingling",
+        "sensation",
+        "licks",
+        "extended",
+        "tongue"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +162,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chameleon",
+        "tingling",
+        "sensation",
+        "licks",
+        "extended",
+        "tongue"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +179,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "7",
+        "spans",
+        "paralysis",
+        "licks",
+        "forelegs",
+        "almost",
+        "tongue",
+        "freely"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +198,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its tongue has well-developed nerves that run to the very tip, so it can be deft­ ly manipulated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "deft",
+        "manipulated",
+        "nerves",
+        "ly",
+        "run",
+        "tongue",
+        "well",
+        "tip",
+        "developed"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +218,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its long tongue, slathered with a gooey saliva, sticks to any­ thing, so it is very useful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slathered",
+        "gooey",
+        "useful",
+        "saliva",
+        "sticks",
+        "thing",
+        "tongue"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +236,14 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It has a tongue that is over 6’6’’ long. It uses this long tongue to lick its body clean.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "6",
+        "lick",
+        "clean",
+        "tongue"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +251,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "memorizes",
+        "sour",
+        "unfailingly",
+        "texture",
+        "taste",
+        "somewhat",
+        "lick",
+        "put",
+        "whenever",
+        "something",
+        "new",
+        "across"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +274,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "memorizes",
+        "sour",
+        "unfailingly",
+        "texture",
+        "taste",
+        "somewhat",
+        "lick",
+        "put",
+        "whenever",
+        "something",
+        "new",
+        "across"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +297,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unfamiliar",
+        "memorizes",
+        "sour",
+        "texture",
+        "taste",
+        "licks",
+        "somewhat",
+        "put",
+        "object",
+        "whenever",
+        "sees",
+        "something"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +320,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "grabbing",
+        "length",
+        "twice",
+        "moved",
+        "arm",
+        "attacking",
+        "tongue"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +340,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its tongue can be extended like a chameleon’s. It leaves a tingling sensation when it licks enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chameleon",
+        "tingling",
+        "sensation",
+        "licks",
+        "extended",
+        "tongue"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +357,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Instead of hands, it uses its tongue, which is twice its height. Its sticky saliva grips anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "height",
+        "twice",
+        "grips",
+        "saliva",
+        "sticky",
+        "instead",
+        "hands",
+        "tongue"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +378,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Instead of hands, it uses its tongue, which is twice its height. Its sticky saliva grips anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "height",
+        "twice",
+        "grips",
+        "saliva",
+        "sticky",
+        "instead",
+        "hands",
+        "tongue"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +399,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "possibility",
+        "connected",
+        "quivers",
+        "extends",
+        "foot",
+        "six",
+        "tongue"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +419,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "manipulated",
+        "nerves",
+        "deftly",
+        "run",
+        "tongue",
+        "well",
+        "tip",
+        "developed"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +438,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slathered",
+        "gooey",
+        "useful",
+        "saliva",
+        "sticks",
+        "tongue"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +455,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "possibility",
+        "connected",
+        "quivers",
+        "extends",
+        "foot",
+        "six",
+        "tongue"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +475,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "possibility",
+        "connected",
+        "quivers",
+        "extends",
+        "foot",
+        "six",
+        "tongue"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +495,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "retracts",
+        "licked",
+        "tingling",
+        "sensation",
+        "extending",
+        "saliva",
+        "tongue",
+        "covered"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +516,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "retracts",
+        "licked",
+        "tingling",
+        "sensation",
+        "extending",
+        "saliva",
+        "tongue",
+        "covered"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +537,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slathered",
+        "gooey",
+        "useful",
+        "saliva",
+        "sticks",
+        "tongue"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +554,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "grabbing",
+        "length",
+        "twice",
+        "moved",
+        "arm",
+        "attacking",
+        "tongue"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +574,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "memorizes",
+        "sour",
+        "unfailingly",
+        "texture",
+        "taste",
+        "somewhat",
+        "lick",
+        "put",
+        "whenever",
+        "something",
+        "new",
+        "across"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +597,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "memorizes",
+        "sour",
+        "unfailingly",
+        "texture",
+        "taste",
+        "somewhat",
+        "lick",
+        "put",
+        "whenever",
+        "something",
+        "new",
+        "across"
+      ]
     },
     {
       "versionId": 29,
@@ -230,7 +620,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It checks out whatever’s around it by licking everything. If you don’t clean off a spot where it’s licked you, you’ll break out in a rash!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rash",
+        "licking",
+        "licked",
+        "checks",
+        "whatever",
+        "don",
+        "ll",
+        "spot",
+        "break",
+        "clean",
+        "everything"
+      ]
     },
     {
       "versionId": 30,
@@ -238,7 +642,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It licks filth clean with its tongue. Whatever it licks always stinks afterward, so whether it’s really clean is...questionable.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "questionable",
+        "stinks",
+        "filth",
+        "afterward",
+        "whether",
+        "licks",
+        "whatever",
+        "really",
+        "clean",
+        "tongue"
+      ]
     },
     {
       "versionId": 31,
@@ -246,7 +663,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spans",
+        "paralysis",
+        "licks",
+        "forelegs",
+        "seven",
+        "almost",
+        "tongue",
+        "freely"
+      ]
     },
     {
       "versionId": 32,
@@ -254,7 +682,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spans",
+        "paralysis",
+        "licks",
+        "forelegs",
+        "seven",
+        "almost",
+        "tongue",
+        "freely"
+      ]
     },
     {
       "versionId": 33,
@@ -262,7 +701,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "itch",
+        "either",
+        "saliva",
+        "set",
+        "don",
+        "sticky",
+        "intense",
+        "clean",
+        "won"
+      ]
     },
     {
       "versionId": 34,
@@ -270,7 +721,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Bug Pokémon are Lickitung’s main food source. This Pokémon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "paralyzes",
+        "main",
+        "lick",
+        "source",
+        "swallows",
+        "bug",
+        "tongue",
+        "whole"
+      ]
     },
     {
       "versionId": 39,
@@ -278,7 +742,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Wields its long tongue deftly, as though it were an arm. The Pokémon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "viscous",
+        "yields",
+        "adhesive",
+        "boiled",
+        "wields",
+        "useful",
+        "collected",
+        "saliva",
+        "deftly",
+        "arm",
+        "tongue",
+        "highly",
+        "though"
+      ]
     }
   ],
   "similarPokemonIds": [

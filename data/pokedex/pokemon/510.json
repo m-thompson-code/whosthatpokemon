@@ -9,6 +9,41 @@
   ],
   "imagePath": "/assets/pokemon/510.png",
   "entryCount": 10,
+  "entryTraits": [
+    "fur",
+    "nocturnal",
+    "hunting",
+    "territorial",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "figure",
+    "moody",
+    "thievul",
+    "fooled",
+    "stealthy",
+    "unexpectedly",
+    "competes",
+    "stealthily",
+    "vanish",
+    "react",
+    "gorgeous",
+    "chance",
+    "sneaks",
+    "elegant",
+    "striking",
+    "drawn",
+    "target",
+    "silently",
+    "don",
+    "vicious",
+    "victim",
+    "run",
+    "behind",
+    "beautiful",
+    "developed",
+    "muscles"
+  ],
   "color": "purple",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +73,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "unexpectedly",
+        "vanish",
+        "drawn",
+        "beautiful"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +90,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stealthily",
+        "react",
+        "chance",
+        "sneaks",
+        "striking",
+        "target",
+        "victim",
+        "behind"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +109,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "silently",
+        "run",
+        "beautiful",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +127,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "silently",
+        "run",
+        "beautiful",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +145,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "silently",
+        "run",
+        "beautiful",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +163,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stealthily",
+        "react",
+        "chance",
+        "sneaks",
+        "striking",
+        "target",
+        "victim",
+        "behind"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +182,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "silently",
+        "run",
+        "beautiful",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +200,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stealthily",
+        "react",
+        "chance",
+        "sneaks",
+        "striking",
+        "target",
+        "victim",
+        "behind"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +219,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "figure",
+        "moody",
+        "fooled",
+        "gorgeous",
+        "elegant",
+        "don",
+        "vicious"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +239,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "territorial",
+        "sonic"
+      ],
+      "keywords": [
+        "thievul",
+        "stealthy",
+        "competes",
+        "sneaks",
+        "behind"
+      ]
     }
   ],
   "similarPokemonIds": [

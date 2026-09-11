@@ -10,6 +10,99 @@
   ],
   "imagePath": "/assets/pokemon/222.png",
   "entryCount": 27,
+  "entryTraits": [
+    "aquatic",
+    "nocturnal",
+    "migratory",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "childbirth",
+    "discolored",
+    "pursued",
+    "communi",
+    "communities",
+    "diversion",
+    "ties",
+    "vibrant",
+    "charms",
+    "deteriorate",
+    "nation",
+    "promote",
+    "regrow",
+    "stubby",
+    "unpolluted",
+    "tatters",
+    "congregate",
+    "migrates",
+    "stalks",
+    "mareanie",
+    "crumble",
+    "points",
+    "treasure",
+    "plentiful",
+    "prehistoric",
+    "south",
+    "beautifully",
+    "breaks",
+    "coral",
+    "particularly",
+    "clusters",
+    "oceans",
+    "built",
+    "continuously",
+    "southern",
+    "escapes",
+    "ideal",
+    "smaller",
+    "glitter",
+    "polluted",
+    "hiding",
+    "prized",
+    "safe",
+    "pink",
+    "prefer",
+    "serve",
+    "beauty",
+    "thanks",
+    "lose",
+    "nutrition",
+    "galar",
+    "natural",
+    "quite",
+    "alola",
+    "waters",
+    "dirty",
+    "snap",
+    "sheds",
+    "survive",
+    "seven",
+    "absorb",
+    "color",
+    "colors",
+    "branches",
+    "break",
+    "clean",
+    "branch",
+    "filled",
+    "falls",
+    "lived",
+    "region",
+    "groups",
+    "cannot",
+    "beautiful",
+    "days",
+    "catch",
+    "nutrients",
+    "places",
+    "well",
+    "tip",
+    "apparently",
+    "seas",
+    "sunlight",
+    "temperature",
+    "heads"
+  ],
   "color": "pink",
   "shape": "armor",
   "habitat": "sea",
@@ -40,7 +133,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treasure",
+        "continuously",
+        "prized",
+        "beauty",
+        "sheds",
+        "tip"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +150,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "In a south sea nation, the people live in communi­ ties that are built on groups of these POKéMON.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "communi",
+        "ties",
+        "nation",
+        "south",
+        "built",
+        "groups"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +169,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The points on its head absorb nutrients from clean water. They cannot survive in polluted water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "points",
+        "polluted",
+        "survive",
+        "absorb",
+        "clean",
+        "cannot",
+        "nutrients"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +189,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CORSOLA’s branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this POKéMON grows it back in just one night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "beautifully",
+        "breaks",
+        "glitter",
+        "seven",
+        "colors",
+        "branches",
+        "branch",
+        "catch",
+        "sunlight"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +211,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Clusters of CORSOLA congregate in warm seas where they serve as ideal hiding places for smaller POKéMON. When the water temperature falls, this POKéMON migrates to the southern seas.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "migratory"
+      ],
+      "keywords": [
+        "congregate",
+        "migrates",
+        "clusters",
+        "southern",
+        "ideal",
+        "smaller",
+        "hiding",
+        "serve",
+        "falls",
+        "places",
+        "seas",
+        "temperature"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +237,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "CORSOLA live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "discolored",
+        "tatters",
+        "stalks",
+        "crumble",
+        "coral",
+        "southern",
+        "polluted",
+        "beautiful",
+        "seas"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +260,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "In a south sea nation, the people live in communities that are built on groups of these POKéMON.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "communities",
+        "nation",
+        "south",
+        "built",
+        "groups"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +278,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treasure",
+        "continuously",
+        "prized",
+        "beauty",
+        "sheds",
+        "tip"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +295,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "south",
+        "polluted",
+        "waters",
+        "clean",
+        "apparently",
+        "seas"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +312,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "south",
+        "polluted",
+        "waters",
+        "clean",
+        "apparently",
+        "seas"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +329,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "south",
+        "polluted",
+        "waters",
+        "clean",
+        "apparently",
+        "seas"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +346,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treasure",
+        "continuously",
+        "prized",
+        "beauty",
+        "sheds",
+        "tip"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +363,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "In a south-sea nation, the people live in communities that are built on groups of these Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "communities",
+        "nation",
+        "south",
+        "built",
+        "groups"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +381,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "south",
+        "polluted",
+        "waters",
+        "clean",
+        "apparently",
+        "seas"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +398,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "south",
+        "polluted",
+        "waters",
+        "clean",
+        "apparently",
+        "seas"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +415,22 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deteriorate",
+        "unpolluted",
+        "coral",
+        "southern",
+        "prefer",
+        "lose",
+        "dirty",
+        "color",
+        "branches",
+        "seas"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +438,22 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deteriorate",
+        "unpolluted",
+        "coral",
+        "southern",
+        "prefer",
+        "lose",
+        "dirty",
+        "color",
+        "branches",
+        "seas"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +461,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treasure",
+        "continuously",
+        "prized",
+        "beauty",
+        "sheds",
+        "tip"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +478,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "deteriorate",
+        "unpolluted",
+        "coral",
+        "southern",
+        "prefer",
+        "lose",
+        "dirty",
+        "color",
+        "branches",
+        "seas"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +501,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Corsola’s branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "beautifully",
+        "breaks",
+        "glitter",
+        "seven",
+        "colors",
+        "branches",
+        "branch",
+        "catch",
+        "sunlight"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +523,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "migratory"
+      ],
+      "keywords": [
+        "congregate",
+        "migrates",
+        "clusters",
+        "southern",
+        "ideal",
+        "smaller",
+        "hiding",
+        "serve",
+        "falls",
+        "places",
+        "seas",
+        "temperature"
+      ]
     },
     {
       "versionId": 27,
@@ -208,7 +549,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Coral branches grow from its head. They break off quite easily, but they grow back in about three days.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "coral",
+        "quite",
+        "branches",
+        "break",
+        "days"
+      ]
     },
     {
       "versionId": 28,
@@ -216,7 +565,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Pursued by Mareanie for the branches on its head, this Pokémon will sometimes snap its own branches off as a diversion while it escapes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pursued",
+        "diversion",
+        "mareanie",
+        "escapes",
+        "snap",
+        "branches"
+      ]
     },
     {
       "versionId": 29,
@@ -224,7 +582,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The pink of Corsola that live in Alola is deep and vibrant, thanks to seas filled with nutrition.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "vibrant",
+        "pink",
+        "thanks",
+        "nutrition",
+        "alola",
+        "filled",
+        "seas"
+      ]
     },
     {
       "versionId": 30,
@@ -232,7 +600,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "In Alola, where their natural enemies Mareanie are plentiful, many Corsola have stubby branches on their heads.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "stubby",
+        "mareanie",
+        "plentiful",
+        "natural",
+        "alola",
+        "branches",
+        "heads"
+      ]
     },
     {
       "versionId": 33,
@@ -240,7 +618,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "childbirth",
+        "charms",
+        "promote",
+        "regrow",
+        "particularly",
+        "safe",
+        "branches",
+        "break",
+        "beautiful"
+      ]
     },
     {
       "versionId": 34,
@@ -248,7 +638,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "prehistoric",
+        "oceans",
+        "galar",
+        "lived",
+        "region",
+        "well",
+        "seas"
+      ]
     }
   ],
   "similarPokemonIds": [

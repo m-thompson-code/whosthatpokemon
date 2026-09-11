@@ -10,6 +10,101 @@
   ],
   "imagePath": "/assets/pokemon/112.png",
   "entryCount": 29,
+  "entryTraits": [
+    "volcanic",
+    "fiery",
+    "horns",
+    "tail"
+  ],
+  "entryKeywords": [
+    "armorlike",
+    "devel",
+    "oped",
+    "swaggers",
+    "insensitive",
+    "ning",
+    "rams",
+    "stood",
+    "uncut",
+    "direct",
+    "sweeping",
+    "freed",
+    "smarter",
+    "bores",
+    "destroying",
+    "bore",
+    "cannon",
+    "forgetful",
+    "diamonds",
+    "lightly",
+    "prevents",
+    "destroys",
+    "topple",
+    "bedrock",
+    "spin",
+    "buildings",
+    "lava",
+    "streams",
+    "rapidly",
+    "rotates",
+    "began",
+    "hits",
+    "molten",
+    "standing",
+    "building",
+    "tunnels",
+    "drill",
+    "signs",
+    "600",
+    "scratch",
+    "shatter",
+    "rugged",
+    "solid",
+    "rough",
+    "repels",
+    "volcanic",
+    "forelegs",
+    "serves",
+    "tall",
+    "feeling",
+    "punch",
+    "crush",
+    "protected",
+    "don",
+    "intelligence",
+    "diamond",
+    "regions",
+    "shows",
+    "stands",
+    "3",
+    "begins",
+    "occasionally",
+    "leave",
+    "hind",
+    "blow",
+    "armor",
+    "walks",
+    "strike",
+    "walking",
+    "protects",
+    "holes",
+    "boulders",
+    "magma",
+    "brain",
+    "hide",
+    "living",
+    "tough",
+    "fahrenheit",
+    "capable",
+    "rock",
+    "well",
+    "heat",
+    "evolution",
+    "horn",
+    "rocks",
+    "developed",
+    "extremely"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": "rough-terrain",
@@ -40,7 +135,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "lava",
+        "molten",
+        "600",
+        "protected",
+        "3",
+        "armor",
+        "hide",
+        "living",
+        "capable"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +157,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "lava",
+        "molten",
+        "600",
+        "protected",
+        "3",
+        "armor",
+        "hide",
+        "living",
+        "capable"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +179,22 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "lava",
+        "molten",
+        "signs",
+        "repels",
+        "intelligence",
+        "shows",
+        "hind",
+        "armor",
+        "walks",
+        "hide"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +202,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "insensitive",
+        "lava",
+        "rugged",
+        "protects",
+        "hide",
+        "heat"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +222,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its brain devel­ oped when it began walking on hind legs. Its thick hide protects it even in magma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "devel",
+        "oped",
+        "began",
+        "hind",
+        "walking",
+        "protects",
+        "magma",
+        "brain",
+        "hide"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +242,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "By lightly spin­ ning its drill- like horn, it can easily shatter even a diamond in the rough.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "ning",
+        "lightly",
+        "spin",
+        "drill",
+        "shatter",
+        "rough",
+        "diamond",
+        "horn"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +263,30 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "RHYDON’s horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This POKéMON’s hide is extremely tough. Even direct cannon hits don’t leave a scratch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns",
+        "tail"
+      ],
+      "keywords": [
+        "uncut",
+        "direct",
+        "sweeping",
+        "cannon",
+        "diamonds",
+        "topple",
+        "hits",
+        "building",
+        "scratch",
+        "crush",
+        "don",
+        "leave",
+        "blow",
+        "hide",
+        "tough",
+        "horn",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +294,28 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "RHYDON has a horn that serves as a drill. It is used for destroying rocks and boulders. This POKéMON occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns",
+        "fiery"
+      ],
+      "keywords": [
+        "rams",
+        "destroying",
+        "prevents",
+        "streams",
+        "drill",
+        "serves",
+        "feeling",
+        "occasionally",
+        "armor",
+        "boulders",
+        "magma",
+        "hide",
+        "heat",
+        "horn",
+        "rocks"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +323,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "destroys",
+        "buildings",
+        "rotates",
+        "drill",
+        "tall",
+        "stands",
+        "hind",
+        "strike",
+        "brain",
+        "well",
+        "horn",
+        "developed"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +348,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "punch",
+        "begins",
+        "hind",
+        "walking",
+        "holes",
+        "boulders",
+        "evolution",
+        "horn"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +369,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "lava",
+        "molten",
+        "600",
+        "protected",
+        "3",
+        "armor",
+        "hide",
+        "living",
+        "fahrenheit",
+        "capable"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +392,22 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its brain developed after it stood up on its hind legs. Its drill horn bores tunnels through solid rock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "stood",
+        "bores",
+        "tunnels",
+        "drill",
+        "solid",
+        "hind",
+        "brain",
+        "rock",
+        "horn",
+        "developed"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +415,22 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its brain developed after it stood up on its hind legs. Its drill horn bores tunnels through solid rock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "stood",
+        "bores",
+        "tunnels",
+        "drill",
+        "solid",
+        "hind",
+        "brain",
+        "rock",
+        "horn",
+        "developed"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +438,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "freed",
+        "smarter",
+        "forgetful",
+        "standing",
+        "forelegs",
+        "hind"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +455,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "insensitive",
+        "lava",
+        "rugged",
+        "protects",
+        "hide",
+        "heat"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +475,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "began",
+        "hind",
+        "walking",
+        "protects",
+        "magma",
+        "brain",
+        "hide",
+        "developed"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +494,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "freed",
+        "smarter",
+        "forgetful",
+        "standing",
+        "forelegs",
+        "hind"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +511,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "freed",
+        "smarter",
+        "forgetful",
+        "standing",
+        "forelegs",
+        "hind"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +528,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "freed",
+        "smarter",
+        "forgetful",
+        "standing",
+        "forelegs",
+        "hind"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +545,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "freed",
+        "smarter",
+        "forgetful",
+        "standing",
+        "forelegs",
+        "hind"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +562,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "lava",
+        "molten",
+        "600",
+        "protected",
+        "3",
+        "armor",
+        "hide",
+        "living",
+        "fahrenheit",
+        "capable"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +585,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "punch",
+        "begins",
+        "hind",
+        "walking",
+        "holes",
+        "boulders",
+        "evolution",
+        "horn"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +606,30 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rhydon’s horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon’s hide is extremely tough. Even direct cannon hits don’t leave a scratch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns",
+        "tail"
+      ],
+      "keywords": [
+        "uncut",
+        "direct",
+        "sweeping",
+        "cannon",
+        "diamonds",
+        "topple",
+        "hits",
+        "building",
+        "scratch",
+        "crush",
+        "don",
+        "leave",
+        "blow",
+        "hide",
+        "tough",
+        "horn",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +637,28 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pokémon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns",
+        "fiery"
+      ],
+      "keywords": [
+        "rams",
+        "destroying",
+        "prevents",
+        "streams",
+        "drill",
+        "serves",
+        "feeling",
+        "occasionally",
+        "armor",
+        "boulders",
+        "magma",
+        "hide",
+        "heat",
+        "horn",
+        "rocks"
+      ]
     },
     {
       "versionId": 31,
@@ -232,7 +666,22 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its brain developed when it began walking on its hind legs. Its armor-like hide even repels molten lava.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "lava",
+        "began",
+        "molten",
+        "repels",
+        "hind",
+        "armor",
+        "walking",
+        "brain",
+        "hide",
+        "developed"
+      ]
     },
     {
       "versionId": 32,
@@ -240,7 +689,22 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its brain developed when it began walking on its hind legs. Its armor-like hide even repels molten lava.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "lava",
+        "began",
+        "molten",
+        "repels",
+        "hind",
+        "armor",
+        "walking",
+        "brain",
+        "hide",
+        "developed"
+      ]
     },
     {
       "versionId": 33,
@@ -248,7 +712,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "punch",
+        "begins",
+        "hind",
+        "walking",
+        "holes",
+        "boulders",
+        "evolution",
+        "horn"
+      ]
     },
     {
       "versionId": 34,
@@ -256,7 +733,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "lava",
+        "molten",
+        "600",
+        "protected",
+        "3",
+        "armor",
+        "hide",
+        "living",
+        "fahrenheit",
+        "capable"
+      ]
     },
     {
       "versionId": 39,
@@ -264,7 +756,28 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "horns",
+        "fiery"
+      ],
+      "keywords": [
+        "armorlike",
+        "swaggers",
+        "bore",
+        "bedrock",
+        "lava",
+        "rapidly",
+        "rotates",
+        "volcanic",
+        "protected",
+        "regions",
+        "hide",
+        "tough",
+        "heat",
+        "horn"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,69 @@
   ],
   "imagePath": "/assets/pokemon/345.png",
   "entryCount": 22,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "disguised",
+    "petallike",
+    "suckers",
+    "surf",
+    "anchored",
+    "perch",
+    "permanently",
+    "entangles",
+    "got",
+    "ambush",
+    "devoured",
+    "approximately",
+    "scientifically",
+    "sway",
+    "disguises",
+    "seabed",
+    "immobile",
+    "techniques",
+    "scans",
+    "existed",
+    "advanced",
+    "approaching",
+    "intently",
+    "reanimated",
+    "swallowed",
+    "washed",
+    "seaweed",
+    "roughly",
+    "clings",
+    "restored",
+    "regenerated",
+    "sticks",
+    "attaches",
+    "hundred",
+    "unsuspecting",
+    "rough",
+    "attract",
+    "catches",
+    "seafloor",
+    "extinct",
+    "became",
+    "million",
+    "lived",
+    "fossil",
+    "matter",
+    "petals",
+    "remains",
+    "tentacles",
+    "shaped",
+    "catch",
+    "flowers",
+    "100",
+    "flower",
+    "rock",
+    "whole",
+    "close",
+    "rocks",
+    "seas"
+  ],
   "color": "purple",
   "shape": "blob",
   "habitat": "sea",
@@ -39,7 +102,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LILEEP became extinct approximately a hundred million years ago. This ancient POKéMON attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "approximately",
+        "approaching",
+        "attaches",
+        "hundred",
+        "catches",
+        "seafloor",
+        "extinct",
+        "became",
+        "million",
+        "petals",
+        "tentacles",
+        "shaped",
+        "flower",
+        "rock"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +129,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LILEEP is an ancient POKéMON that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this POKéMON intently scans for prey with its two eyes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "anchored",
+        "perch",
+        "permanently",
+        "immobile",
+        "scans",
+        "intently",
+        "regenerated",
+        "fossil",
+        "remains",
+        "rock"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +152,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "sway",
+        "disguises",
+        "swallowed",
+        "seaweed",
+        "unsuspecting",
+        "extinct",
+        "became",
+        "million",
+        "tentacles",
+        "100",
+        "whole",
+        "close"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +177,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "techniques",
+        "advanced",
+        "roughly",
+        "regenerated",
+        "extinct",
+        "became",
+        "million",
+        "fossil",
+        "100"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +197,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "techniques",
+        "advanced",
+        "roughly",
+        "regenerated",
+        "extinct",
+        "became",
+        "million",
+        "fossil",
+        "100"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +217,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scientifically",
+        "reanimated",
+        "seafloor",
+        "million",
+        "lived",
+        "100"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +234,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scientifically",
+        "reanimated",
+        "seafloor",
+        "million",
+        "lived",
+        "100"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +251,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scientifically",
+        "reanimated",
+        "seafloor",
+        "million",
+        "lived",
+        "100"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +268,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disguises",
+        "attract",
+        "extinct",
+        "became",
+        "tentacles",
+        "catch",
+        "flowers"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +288,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disguises",
+        "attract",
+        "extinct",
+        "became",
+        "tentacles",
+        "catch",
+        "flowers"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +308,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scientifically",
+        "reanimated",
+        "seafloor",
+        "million",
+        "lived",
+        "100"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +325,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scientifically",
+        "reanimated",
+        "seafloor",
+        "million",
+        "lived",
+        "100"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +342,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scientifically",
+        "reanimated",
+        "seafloor",
+        "million",
+        "lived",
+        "100"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +359,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scientifically",
+        "reanimated",
+        "seafloor",
+        "million",
+        "lived",
+        "100"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +376,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disguises",
+        "attract",
+        "extinct",
+        "became",
+        "tentacles",
+        "catch",
+        "flowers"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +396,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scientifically",
+        "reanimated",
+        "seafloor",
+        "million",
+        "lived",
+        "100"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +413,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "approximately",
+        "approaching",
+        "attaches",
+        "hundred",
+        "catches",
+        "seafloor",
+        "extinct",
+        "became",
+        "million",
+        "petals",
+        "tentacles",
+        "shaped",
+        "flower",
+        "rock"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +440,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Lileep is an ancient Pokémon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pokémon intently scans for prey with its two eyes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "anchored",
+        "perch",
+        "permanently",
+        "immobile",
+        "scans",
+        "intently",
+        "regenerated",
+        "fossil",
+        "remains",
+        "rock"
+      ]
     },
     {
       "versionId": 29,
@@ -183,7 +463,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "In ancient times, it lived in warm seas. It disguised itself as seaweed to ambush its prey and devoured them whole when they got close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "disguised",
+        "got",
+        "ambush",
+        "devoured",
+        "seaweed",
+        "lived",
+        "whole",
+        "close",
+        "seas"
+      ]
     },
     {
       "versionId": 30,
@@ -191,7 +485,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sticks to rocks with its powerful suckers and can’t be washed away no matter how rough the surf gets.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "suckers",
+        "surf",
+        "washed",
+        "sticks",
+        "rough",
+        "matter",
+        "rocks"
+      ]
     },
     {
       "versionId": 33,
@@ -199,7 +503,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon was restored from a fossil. Lileep once lived in warm seas that existed approximately 100,000,000 years ago.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "approximately",
+        "existed",
+        "restored",
+        "lived",
+        "fossil",
+        "100",
+        "seas"
+      ]
     },
     {
       "versionId": 34,
@@ -207,7 +521,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "petallike",
+        "entangles",
+        "seabed",
+        "clings",
+        "tentacles",
+        "close",
+        "rocks"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,76 @@
   ],
   "imagePath": "/assets/pokemon/364.png",
   "entryCount": 21,
+  "entryTraits": [
+    "aquatic",
+    "cold-climate",
+    "hunting",
+    "icy"
+  ],
+  "entryKeywords": [
+    "checking",
+    "entertains",
+    "juggling",
+    "balances",
+    "balancing",
+    "textures",
+    "odors",
+    "examine",
+    "greatest",
+    "checks",
+    "test",
+    "herds",
+    "flippers",
+    "floes",
+    "texture",
+    "shatters",
+    "spheal",
+    "whether",
+    "spin",
+    "habitually",
+    "learns",
+    "drift",
+    "ease",
+    "plays",
+    "touches",
+    "balls",
+    "dives",
+    "whiskers",
+    "object",
+    "five",
+    "determine",
+    "balance",
+    "hunt",
+    "habit",
+    "healthy",
+    "seeking",
+    "rolling",
+    "sees",
+    "occasionally",
+    "rolls",
+    "doing",
+    "spins",
+    "smell",
+    "sure",
+    "white",
+    "sensitive",
+    "poke",
+    "round",
+    "feel",
+    "top",
+    "spinning",
+    "first",
+    "likes",
+    "re",
+    "something",
+    "new",
+    "scent",
+    "aroma",
+    "nose",
+    "swimming",
+    "tip",
+    "ball"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "sea",
@@ -40,7 +110,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "entertains",
+        "juggling",
+        "balancing",
+        "spheal",
+        "habit",
+        "rolling",
+        "sees",
+        "occasionally",
+        "first",
+        "nose",
+        "tip"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +132,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SEALEO often balances and rolls things on the tip of its nose. While the POKéMON is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "balances",
+        "checks",
+        "texture",
+        "whether",
+        "object",
+        "determine",
+        "rolling",
+        "rolls",
+        "likes",
+        "something",
+        "aroma",
+        "nose",
+        "tip"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +156,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "SEALEO live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "herds",
+        "flippers",
+        "floes",
+        "shatters",
+        "dives",
+        "five",
+        "hunt"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +179,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It touches new things with its nose to test for smell and feel. It plays by spinning SPHEAL on its nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "test",
+        "spheal",
+        "plays",
+        "touches",
+        "smell",
+        "feel",
+        "spinning",
+        "new",
+        "nose"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +199,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It touches new things with its nose to test for smell and feel. It plays by spinning SPHEAL on its nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "test",
+        "spheal",
+        "plays",
+        "touches",
+        "smell",
+        "feel",
+        "spinning",
+        "new",
+        "nose"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +219,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "textures",
+        "odors",
+        "habitually",
+        "learns",
+        "doing",
+        "spins",
+        "nose"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +237,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "textures",
+        "odors",
+        "habitually",
+        "learns",
+        "doing",
+        "spins",
+        "nose"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +255,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "textures",
+        "odors",
+        "habitually",
+        "learns",
+        "doing",
+        "spins",
+        "nose"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +273,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a very sensitive nose. It touches new things with its nose to examine them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "examine",
+        "touches",
+        "sensitive",
+        "new",
+        "nose"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +289,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a very sensitive nose. It touches new things with its nose to examine them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "examine",
+        "touches",
+        "sensitive",
+        "new",
+        "nose"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +305,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "textures",
+        "odors",
+        "habitually",
+        "learns",
+        "doing",
+        "spins",
+        "nose"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +323,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "textures",
+        "odors",
+        "habitually",
+        "learns",
+        "doing",
+        "spins",
+        "nose"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +341,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "greatest",
+        "spheal",
+        "spin",
+        "ease",
+        "object",
+        "poke",
+        "round",
+        "nose",
+        "ball"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +361,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "greatest",
+        "spheal",
+        "spin",
+        "ease",
+        "object",
+        "poke",
+        "round",
+        "nose",
+        "ball"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +381,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has a very sensitive nose. It touches new things with its nose to examine them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "examine",
+        "touches",
+        "sensitive",
+        "new",
+        "nose"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +397,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "greatest",
+        "spheal",
+        "spin",
+        "ease",
+        "object",
+        "poke",
+        "round",
+        "nose",
+        "ball"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +417,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "entertains",
+        "juggling",
+        "balancing",
+        "spheal",
+        "habit",
+        "rolling",
+        "sees",
+        "occasionally",
+        "first",
+        "nose",
+        "tip"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +439,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "balances",
+        "checks",
+        "texture",
+        "whether",
+        "object",
+        "determine",
+        "rolling",
+        "rolls",
+        "likes",
+        "something",
+        "aroma",
+        "nose",
+        "tip"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +463,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Sealeo live on top of drift ice. They go swimming when they’re on the hunt, seeking out their prey by scent.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "drift",
+        "hunt",
+        "seeking",
+        "top",
+        "re",
+        "scent",
+        "swimming"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +486,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spheal",
+        "whether",
+        "balls",
+        "habit",
+        "poke",
+        "round",
+        "spinning",
+        "nose"
+      ]
     },
     {
       "versionId": 39,
@@ -200,7 +505,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its white whiskers are very sensitive. Sealeo will balance Spheal on the tip of its nose, checking its scent and its feel to be sure the Spheal is healthy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "checking",
+        "spheal",
+        "whiskers",
+        "balance",
+        "healthy",
+        "sure",
+        "white",
+        "sensitive",
+        "feel",
+        "scent",
+        "nose",
+        "tip"
+      ]
     }
   ],
   "similarPokemonIds": [

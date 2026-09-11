@@ -10,6 +10,52 @@
   ],
   "imagePath": "/assets/pokemon/752.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "caretaker",
+    "protectively",
+    "savor",
+    "subdued",
+    "values",
+    "drown",
+    "suggests",
+    "dewpider",
+    "leftover",
+    "sucked",
+    "cares",
+    "putting",
+    "meal",
+    "letting",
+    "bubbles",
+    "delivers",
+    "passes",
+    "bubble",
+    "vulnerable",
+    "drowning",
+    "headbutts",
+    "watch",
+    "acts",
+    "brings",
+    "put",
+    "storing",
+    "habit",
+    "launches",
+    "despite",
+    "finds",
+    "try",
+    "appearance",
+    "weak",
+    "within",
+    "belly",
+    "full",
+    "stores",
+    "usually",
+    "doesn",
+    "eat"
+  ],
   "color": "green",
   "shape": "armor",
   "habitat": null,
@@ -40,7 +86,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "drown",
+        "sucked",
+        "delivers",
+        "bubble",
+        "headbutts"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +104,22 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Despite what its appearance suggests, it cares for others. If it finds vulnerable, weak Pokémon, it protectively brings them into its water bubble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "protectively",
+        "suggests",
+        "cares",
+        "bubble",
+        "vulnerable",
+        "brings",
+        "despite",
+        "finds",
+        "appearance",
+        "weak"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +127,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It usually passes its time in the water. When its belly is full, it stores its subdued prey in the water bubble on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "subdued",
+        "passes",
+        "bubble",
+        "belly",
+        "full",
+        "stores",
+        "usually"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +148,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has a habit of storing things it values in its water bubble. If its Trainer doesn’t watch out, Araquanid will try to put them in its bubble!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "values",
+        "bubble",
+        "watch",
+        "put",
+        "storing",
+        "habit",
+        "try",
+        "doesn"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +169,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "savor",
+        "meal",
+        "bubbles",
+        "drowning",
+        "launches",
+        "within"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +189,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "caretaker",
+        "dewpider",
+        "leftover",
+        "putting",
+        "letting",
+        "bubble",
+        "acts",
+        "eat"
+      ]
     }
   ],
   "similarPokemonIds": [

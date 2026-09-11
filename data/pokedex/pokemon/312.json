@@ -9,6 +9,53 @@
   ],
   "imagePath": "/assets/pokemon/312.png",
   "entryCount": 18,
+  "entryTraits": [
+    "electric",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "simultaneous",
+    "academics",
+    "announced",
+    "teammates",
+    "concerned",
+    "promote",
+    "promotes",
+    "cheer",
+    "meeting",
+    "increasing",
+    "boost",
+    "dislike",
+    "brilliant",
+    "cheering",
+    "shorts",
+    "partners",
+    "plusle",
+    "relaxes",
+    "circulation",
+    "pom",
+    "poms",
+    "showers",
+    "shelter",
+    "partner",
+    "cheers",
+    "losing",
+    "amounts",
+    "eaves",
+    "vitality",
+    "safety",
+    "trouble",
+    "exposure",
+    "houses",
+    "doing",
+    "sparks",
+    "blood",
+    "friends",
+    "rain",
+    "lets",
+    "create",
+    "muscles"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": "grassland",
@@ -38,7 +85,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "teammates",
+        "concerned",
+        "cheer",
+        "brilliant",
+        "cheering",
+        "shorts",
+        "partners",
+        "showers",
+        "safety",
+        "sparks",
+        "create"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +109,17 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MINUN loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this POKéMON gives off increasing amounts of sparks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cheer",
+        "increasing",
+        "partner",
+        "amounts",
+        "trouble",
+        "doing",
+        "sparks"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +127,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "At a meeting of POKéMON academics, it was announced that simultaneous exposure to electricity from a PLUSLE and MINUN will promote circulation and boost vitality.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "simultaneous",
+        "academics",
+        "announced",
+        "promote",
+        "meeting",
+        "boost",
+        "plusle",
+        "circulation",
+        "vitality",
+        "exposure"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +150,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dislike",
+        "cheering",
+        "pom",
+        "poms",
+        "shelter",
+        "eaves",
+        "houses",
+        "sparks",
+        "rain"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +172,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dislike",
+        "cheering",
+        "pom",
+        "poms",
+        "shelter",
+        "eaves",
+        "houses",
+        "sparks",
+        "rain"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +194,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheers",
+        "losing",
+        "sparks",
+        "friends",
+        "lets"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +210,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheers",
+        "losing",
+        "sparks",
+        "friends",
+        "lets"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +226,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheers",
+        "losing",
+        "sparks",
+        "friends",
+        "lets"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +242,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Exposure to electricity from MINUN and PLUSLE promotes blood circulation and relaxes muscles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "promotes",
+        "plusle",
+        "relaxes",
+        "circulation",
+        "exposure",
+        "blood",
+        "muscles"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +262,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Exposure to electricity from MINUN and PLUSLE promotes blood circulation and relaxes muscles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "promotes",
+        "plusle",
+        "relaxes",
+        "circulation",
+        "exposure",
+        "blood",
+        "muscles"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +282,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheers",
+        "losing",
+        "sparks",
+        "friends",
+        "lets"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +298,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheers",
+        "losing",
+        "sparks",
+        "friends",
+        "lets"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +314,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheers",
+        "losing",
+        "sparks",
+        "friends",
+        "lets"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +330,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheers",
+        "losing",
+        "sparks",
+        "friends",
+        "lets"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +346,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "promotes",
+        "plusle",
+        "relaxes",
+        "circulation",
+        "exposure",
+        "blood",
+        "muscles"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +366,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheers",
+        "losing",
+        "sparks",
+        "friends",
+        "lets"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +382,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Minun is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "teammates",
+        "concerned",
+        "cheer",
+        "brilliant",
+        "cheering",
+        "shorts",
+        "partners",
+        "showers",
+        "safety",
+        "sparks",
+        "create"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +406,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cheer",
+        "increasing",
+        "partner",
+        "amounts",
+        "trouble",
+        "doing",
+        "sparks"
+      ]
     }
   ],
   "similarPokemonIds": [

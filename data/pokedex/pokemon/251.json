@@ -10,6 +10,52 @@
   ],
   "imagePath": "/assets/pokemon/251.png",
   "entryCount": 23,
+  "entryTraits": [
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "bolsters",
+    "ders",
+    "describing",
+    "disap",
+    "pears",
+    "traveled",
+    "wan",
+    "eras",
+    "flourish",
+    "disappears",
+    "us",
+    "brought",
+    "heal",
+    "records",
+    "revered",
+    "peaceful",
+    "wounds",
+    "awaits",
+    "exist",
+    "crossing",
+    "appeared",
+    "deity",
+    "guardian",
+    "wherever",
+    "shining",
+    "travel",
+    "wanders",
+    "egg",
+    "leave",
+    "future",
+    "bright",
+    "came",
+    "forest",
+    "behind",
+    "beautiful",
+    "forests",
+    "different",
+    "across",
+    "strength",
+    "grass",
+    "thought"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": "forest",
@@ -39,7 +85,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "This POKéMON wan­ ders across time. Grass and trees flourish in the forests in which it has appeared.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "ders",
+        "wan",
+        "flourish",
+        "appeared",
+        "forests",
+        "across",
+        "grass"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +105,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "When CELEBI disap­ pears deep in a forest, it is said to leave behind an egg it brought from the future.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "disap",
+        "pears",
+        "brought",
+        "egg",
+        "leave",
+        "future",
+        "forest",
+        "behind"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +126,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Revered as a guardian of the forest, CELEBI appears wherever beautiful forests exist.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "revered",
+        "exist",
+        "guardian",
+        "wherever",
+        "forest",
+        "beautiful",
+        "forests"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +146,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "us",
+        "awaits",
+        "crossing",
+        "shining",
+        "future",
+        "bright",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +165,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "us",
+        "awaits",
+        "crossing",
+        "shining",
+        "future",
+        "bright",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +184,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "us",
+        "awaits",
+        "crossing",
+        "shining",
+        "future",
+        "bright",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +203,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "disappears",
+        "brought",
+        "egg",
+        "leave",
+        "future",
+        "forest",
+        "behind"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +223,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON wanders across time. Grass and trees flourish in the forests in which it has appeared.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "flourish",
+        "appeared",
+        "wanders",
+        "forests",
+        "across",
+        "grass"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +242,13 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "travel",
+        "across"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +256,13 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "travel",
+        "across"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +270,13 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "travel",
+        "across"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +284,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "flourish",
+        "appeared",
+        "wanders",
+        "forests",
+        "across",
+        "grass"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +303,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "disappears",
+        "brought",
+        "egg",
+        "leave",
+        "future",
+        "forest",
+        "behind"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +323,13 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "travel",
+        "across"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +337,13 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "travel",
+        "across"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +351,13 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "travel",
+        "across"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +365,13 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "travel",
+        "across"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +379,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "flourish",
+        "appeared",
+        "wanders",
+        "forests",
+        "across",
+        "grass"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +398,13 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "peaceful",
+        "travel",
+        "across"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +412,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "us",
+        "awaits",
+        "crossing",
+        "shining",
+        "future",
+        "bright",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +431,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "us",
+        "awaits",
+        "crossing",
+        "shining",
+        "future",
+        "bright",
+        "came",
+        "thought"
+      ]
     },
     {
       "versionId": 33,
@@ -207,7 +450,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon has the ability to move through time. Records describing it as a forest deity can be found from many different eras.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "describing",
+        "eras",
+        "records",
+        "deity",
+        "forest",
+        "different"
+      ]
     },
     {
       "versionId": 34,
@@ -215,7 +469,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "bolsters",
+        "traveled",
+        "heal",
+        "wounds",
+        "future",
+        "strength",
+        "grass"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,37 @@
   ],
   "imagePath": "/assets/pokemon/797.png",
   "entryCount": 4,
+  "entryTraits": [
+    "sky-dwelling",
+    "forest-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "readings",
+    "ubs",
+    "detected",
+    "witnesses",
+    "observed",
+    "organism",
+    "wormhole",
+    "expelling",
+    "here",
+    "beast",
+    "alien",
+    "appeared",
+    "ultra",
+    "normally",
+    "common",
+    "coming",
+    "dangerous",
+    "burn",
+    "gas",
+    "forest",
+    "across",
+    "huge",
+    "although",
+    "apparently"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +70,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "witnesses",
+        "observed",
+        "wormhole",
+        "appeared",
+        "ultra",
+        "across"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +89,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "witnesses",
+        "expelling",
+        "beast",
+        "ultra",
+        "burn",
+        "gas",
+        "forest"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +110,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "readings",
+        "ubs",
+        "detected",
+        "coming",
+        "dangerous",
+        "huge"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +129,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "organism",
+        "here",
+        "alien",
+        "normally",
+        "common",
+        "although",
+        "apparently"
+      ]
     }
   ],
   "similarPokemonIds": [

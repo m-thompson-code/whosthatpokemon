@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/835.png",
   "entryCount": 2,
+  "entryTraits": [
+    "tail",
+    "electric"
+  ],
+  "entryKeywords": [
+    "herding",
+    "crackles",
+    "gluttonous",
+    "dog",
+    "treats",
+    "assists",
+    "base",
+    "wants",
+    "galar",
+    "work",
+    "generates",
+    "region",
+    "popular",
+    "runs"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +58,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "herding",
+        "dog",
+        "base",
+        "galar",
+        "generates",
+        "region",
+        "popular",
+        "runs"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +80,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "crackles",
+        "gluttonous",
+        "treats",
+        "assists",
+        "wants",
+        "work",
+        "runs"
+      ]
     }
   ],
   "similarPokemonIds": [

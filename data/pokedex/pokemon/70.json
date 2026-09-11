@@ -10,6 +10,68 @@
   ],
   "imagePath": "/assets/pokemon/070.png",
   "entryCount": 26,
+  "entryTraits": [
+    "hunting",
+    "forest-dwelling",
+    "nocturnal",
+    "sleeping",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "izing",
+    "neutral",
+    "acids",
+    "cutters",
+    "poisonpowder",
+    "slicing",
+    "unlucky",
+    "razor",
+    "morsel",
+    "dissolved",
+    "hapless",
+    "dousing",
+    "slices",
+    "hook",
+    "leafy",
+    "slashing",
+    "dissolves",
+    "hooked",
+    "hooks",
+    "melted",
+    "wake",
+    "captures",
+    "spray",
+    "immobilize",
+    "hungry",
+    "acid",
+    "unwary",
+    "finishes",
+    "oozes",
+    "object",
+    "hangs",
+    "swings",
+    "parts",
+    "act",
+    "melt",
+    "protective",
+    "nearby",
+    "powder",
+    "spits",
+    "bigger",
+    "swallows",
+    "victim",
+    "branch",
+    "filled",
+    "find",
+    "end",
+    "plant",
+    "rear",
+    "everything",
+    "sleeps",
+    "fluid",
+    "though",
+    "toxic"
+  ],
   "color": "green",
   "shape": "blob",
   "habitat": "forest",
@@ -39,7 +101,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "poisonpowder",
+        "spray",
+        "immobilize",
+        "acid",
+        "finishes",
+        "spits"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +118,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "poisonpowder",
+        "spray",
+        "immobilize",
+        "acid",
+        "finishes",
+        "spits"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +135,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "acids",
+        "hapless",
+        "melted",
+        "hungry",
+        "swallows"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +153,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Even though it is filled with ACID, it does not melt because it also oozes a neutral­ izing fluid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "izing",
+        "neutral",
+        "acid",
+        "oozes",
+        "melt",
+        "filled",
+        "fluid",
+        "though"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +172,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "morsel",
+        "slices",
+        "bigger",
+        "victim"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +189,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it's hungry, it swings its razor-sharp leaves, slicing up any unlucky object nearby for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slicing",
+        "unlucky",
+        "razor",
+        "hungry",
+        "object",
+        "swings",
+        "nearby"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +207,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "hook",
+        "hooks",
+        "wake",
+        "branch",
+        "find",
+        "end",
+        "rear"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +229,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "hook",
+        "hooks",
+        "wake",
+        "branch",
+        "find",
+        "end",
+        "rear"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +251,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "At night, a WEEPINBELL hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "hooked",
+        "wake",
+        "hangs",
+        "branch",
+        "find",
+        "rear",
+        "sleeps"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +273,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cutters",
+        "leafy",
+        "slashing",
+        "dissolves",
+        "parts",
+        "act",
+        "spits",
+        "everything",
+        "fluid"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +293,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "poisonpowder",
+        "spray",
+        "immobilize",
+        "acid",
+        "finishes",
+        "spits"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +310,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "dousing",
+        "captures",
+        "unwary",
+        "powder",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +330,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "dousing",
+        "captures",
+        "unwary",
+        "powder",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +350,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "dousing",
+        "captures",
+        "unwary",
+        "powder",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +370,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Even though it is filled with acid, it does not melt because it also oozes a protective fluid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "acid",
+        "oozes",
+        "melt",
+        "protective",
+        "filled",
+        "fluid",
+        "though"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +388,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "morsel",
+        "slices",
+        "bigger",
+        "victim"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +405,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "dousing",
+        "captures",
+        "unwary",
+        "powder",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +425,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "dousing",
+        "captures",
+        "unwary",
+        "powder",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +445,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "dousing",
+        "captures",
+        "unwary",
+        "powder",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +465,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "dousing",
+        "captures",
+        "unwary",
+        "powder",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +485,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cutters",
+        "leafy",
+        "slashing",
+        "dissolves",
+        "parts",
+        "act",
+        "spits",
+        "everything",
+        "fluid"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +505,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "spray",
+        "immobilize",
+        "acid",
+        "finishes",
+        "powder",
+        "spits"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +524,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "hook",
+        "hooks",
+        "wake",
+        "branch",
+        "find",
+        "end",
+        "rear"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +546,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "hook",
+        "hooks",
+        "wake",
+        "branch",
+        "find",
+        "end",
+        "rear"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +568,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "acids",
+        "dissolved",
+        "hapless",
+        "hungry",
+        "swallows"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +586,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "acids",
+        "dissolved",
+        "hapless",
+        "hungry",
+        "swallows"
+      ]
     }
   ],
   "similarPokemonIds": [

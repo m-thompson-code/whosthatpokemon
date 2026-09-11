@@ -10,6 +10,71 @@
   ],
   "imagePath": "/assets/pokemon/567.png",
   "entryCount": 14,
+  "entryTraits": [
+    "hunting",
+    "sky-dwelling",
+    "feathers",
+    "wings"
+  ],
+  "entryKeywords": [
+    "averaging",
+    "cornered",
+    "runway",
+    "professional",
+    "tended",
+    "cooperate",
+    "swoop",
+    "automobile",
+    "comparable",
+    "restore",
+    "25",
+    "course",
+    "experienced",
+    "fail",
+    "plumage",
+    "delicate",
+    "wants",
+    "flocks",
+    "hunted",
+    "hunting",
+    "building",
+    "roughly",
+    "flap",
+    "start",
+    "5",
+    "ancestor",
+    "2",
+    "better",
+    "tries",
+    "catches",
+    "nearly",
+    "needs",
+    "flight",
+    "intelligent",
+    "order",
+    "speeds",
+    "had",
+    "able",
+    "first",
+    "run",
+    "running",
+    "runs",
+    "mph",
+    "catch",
+    "miles",
+    "weak",
+    "anyone",
+    "another",
+    "along",
+    "still",
+    "capable",
+    "though",
+    "although",
+    "bird",
+    "takes",
+    "apparently",
+    "muscles"
+  ],
   "color": "yellow",
   "shape": "wings",
   "habitat": null,
@@ -40,7 +105,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "cooperate",
+        "start",
+        "flight",
+        "intelligent",
+        "running",
+        "catch"
+      ]
     },
     {
       "versionId": 18,
@@ -48,7 +124,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "automobile",
+        "comparable",
+        "better",
+        "catches",
+        "speeds",
+        "running",
+        "runs"
+      ]
     },
     {
       "versionId": 21,
@@ -56,7 +144,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "25",
+        "better",
+        "running",
+        "runs",
+        "mph",
+        "takes"
+      ]
     },
     {
       "versionId": 22,
@@ -64,7 +163,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "25",
+        "better",
+        "running",
+        "runs",
+        "mph",
+        "takes"
+      ]
     },
     {
       "versionId": 23,
@@ -72,7 +182,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "cooperate",
+        "start",
+        "flight",
+        "intelligent",
+        "running",
+        "catch"
+      ]
     },
     {
       "versionId": 24,
@@ -80,7 +201,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "25",
+        "better",
+        "running",
+        "runs",
+        "mph",
+        "takes"
+      ]
     },
     {
       "versionId": 25,
@@ -88,7 +220,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "cooperate",
+        "start",
+        "flight",
+        "intelligent",
+        "running",
+        "catch"
+      ]
     },
     {
       "versionId": 26,
@@ -96,7 +239,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "25",
+        "better",
+        "running",
+        "runs",
+        "mph",
+        "takes"
+      ]
     },
     {
       "versionId": 27,
@@ -104,7 +258,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Although apparently able to fly, they tended to run along the ground, averaging speeds of roughly 25 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "averaging",
+        "tended",
+        "25",
+        "roughly",
+        "speeds",
+        "able",
+        "run",
+        "mph",
+        "along",
+        "although",
+        "apparently"
+      ]
     },
     {
       "versionId": 28,
@@ -112,7 +280,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "They hunted in flocks. When one Archeops had the prey cornered, another would swoop on it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "cornered",
+        "swoop",
+        "flocks",
+        "hunted",
+        "had",
+        "another"
+      ]
     },
     {
       "versionId": 29,
@@ -120,7 +299,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This ancient Pokémon’s plumage is delicate, so if anyone other than an experienced professional tries to restore it, they will fail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "professional",
+        "restore",
+        "experienced",
+        "fail",
+        "plumage",
+        "delicate",
+        "tries",
+        "anyone"
+      ]
     },
     {
       "versionId": 30,
@@ -128,7 +320,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "runway",
+        "flap",
+        "ancestor",
+        "needs",
+        "order",
+        "weak",
+        "still",
+        "bird",
+        "muscles"
+      ]
     },
     {
       "versionId": 33,
@@ -136,7 +342,24 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "25",
+        "course",
+        "wants",
+        "building",
+        "start",
+        "5",
+        "2",
+        "nearly",
+        "needs",
+        "first",
+        "run",
+        "running",
+        "mph",
+        "miles"
+      ]
     },
     {
       "versionId": 34,
@@ -144,7 +367,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Though capable of flight, Archeops was apparently better at hunting on the ground.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "hunting",
+        "better",
+        "flight",
+        "capable",
+        "though",
+        "apparently"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,53 @@
   ],
   "imagePath": "/assets/pokemon/573.png",
   "entryCount": 12,
+  "entryTraits": [
+    "fur",
+    "electric"
+  ],
+  "entryKeywords": [
+    "fetches",
+    "price",
+    "speck",
+    "market",
+    "stuff",
+    "treatment",
+    "tolerate",
+    "coating",
+    "troubled",
+    "deflect",
+    "slide",
+    "smooth",
+    "effective",
+    "seeps",
+    "coated",
+    "prevents",
+    "easy",
+    "secreted",
+    "amazing",
+    "building",
+    "helps",
+    "spreads",
+    "really",
+    "bad",
+    "oil",
+    "parts",
+    "repels",
+    "dust",
+    "secretes",
+    "static",
+    "white",
+    "coat",
+    "right",
+    "feels",
+    "touch",
+    "avoid",
+    "special",
+    "punches",
+    "won",
+    "skin",
+    "covered"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +85,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Their white fur is coated in a special oil that makes it easy for them to deflect attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "deflect",
+        "coated",
+        "easy",
+        "oil",
+        "white",
+        "special"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +104,22 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "prevents",
+        "amazing",
+        "building",
+        "repels",
+        "dust",
+        "static",
+        "white",
+        "feels",
+        "touch"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +127,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Cinccino’s body is coated in a special oil that helps it deflect attacks, such as punches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "deflect",
+        "coated",
+        "helps",
+        "oil",
+        "special",
+        "punches"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +144,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Cinccino’s body is coated in a special oil that helps it deflect attacks, such as punches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "deflect",
+        "coated",
+        "helps",
+        "oil",
+        "special",
+        "punches"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +161,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "prevents",
+        "amazing",
+        "building",
+        "repels",
+        "dust",
+        "static",
+        "white",
+        "feels",
+        "touch"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +184,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Cinccino’s body is coated in a special oil that helps it deflect attacks, such as punches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "deflect",
+        "coated",
+        "helps",
+        "oil",
+        "special",
+        "punches"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +201,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "prevents",
+        "amazing",
+        "building",
+        "repels",
+        "dust",
+        "static",
+        "white",
+        "feels",
+        "touch"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +224,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cinccino’s body is coated in a special oil that helps it deflect attacks, such as punches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "deflect",
+        "coated",
+        "helps",
+        "oil",
+        "special",
+        "punches"
+      ]
     },
     {
       "versionId": 29,
@@ -102,7 +241,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The white parts of its coat are covered in an oil secreted from its body, so this Pokémon can slide right away from its enemies’ attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slide",
+        "secreted",
+        "oil",
+        "parts",
+        "white",
+        "coat",
+        "right",
+        "covered"
+      ]
     },
     {
       "versionId": 30,
@@ -110,7 +260,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "treatment",
+        "troubled",
+        "smooth",
+        "effective",
+        "seeps",
+        "really",
+        "bad",
+        "oil",
+        "skin"
+      ]
     },
     {
       "versionId": 33,
@@ -118,7 +280,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won’t tolerate even a speck of the stuff.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "speck",
+        "stuff",
+        "tolerate",
+        "coating",
+        "spreads",
+        "oil",
+        "dust",
+        "secretes",
+        "won"
+      ]
     },
     {
       "versionId": 34,
@@ -126,7 +300,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "fetches",
+        "price",
+        "market",
+        "seeps",
+        "helps",
+        "oil",
+        "avoid",
+        "special"
+      ]
     }
   ],
   "similarPokemonIds": [

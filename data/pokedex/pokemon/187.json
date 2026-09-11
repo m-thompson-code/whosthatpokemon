@@ -10,6 +10,38 @@
   ],
   "imagePath": "/assets/pokemon/187.png",
   "entryCount": 21,
+  "entryTraits": [
+    "luminous",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "gentlest",
+    "breezes",
+    "links",
+    "town",
+    "prepare",
+    "breeze",
+    "carried",
+    "firmly",
+    "enjoy",
+    "grip",
+    "clusters",
+    "blown",
+    "gentle",
+    "next",
+    "approach",
+    "drifts",
+    "float",
+    "floats",
+    "spring",
+    "fields",
+    "do",
+    "winds",
+    "wind",
+    "against",
+    "though",
+    "gather"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": "grassland",
@@ -40,7 +72,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breezes",
+        "enjoy",
+        "clusters",
+        "blown",
+        "gentle",
+        "do",
+        "wind",
+        "though",
+        "gather"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +92,15 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "firmly",
+        "grip",
+        "blown"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +108,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It can be carried away on even the gentlest breeze. It may even float all the way to the next town.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gentlest",
+        "town",
+        "breeze",
+        "carried",
+        "next",
+        "float"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +125,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "links",
+        "prepare",
+        "blown",
+        "approach",
+        "drifts",
+        "floats",
+        "winds",
+        "wind",
+        "against"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +145,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "links",
+        "prepare",
+        "blown",
+        "approach",
+        "drifts",
+        "floats",
+        "winds",
+        "wind",
+        "against"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +165,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, a HOPPIP links leaves with others to prepare against being blown away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "links",
+        "prepare",
+        "blown",
+        "approach",
+        "drifts",
+        "floats",
+        "winds",
+        "wind",
+        "against"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +185,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "firmly",
+        "grip",
+        "blown"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +201,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breezes",
+        "enjoy",
+        "clusters",
+        "blown",
+        "gentle",
+        "do",
+        "wind",
+        "though",
+        "gather"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +221,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "drifts",
+        "spring",
+        "fields",
+        "winds",
+        "gather"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +239,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "drifts",
+        "spring",
+        "fields",
+        "winds",
+        "gather"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +257,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "drifts",
+        "spring",
+        "fields",
+        "winds",
+        "gather"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +275,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "To keep from being blown away by the wind, they gather in clusters. But they do enjoy gentle breezes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breezes",
+        "enjoy",
+        "clusters",
+        "blown",
+        "gentle",
+        "do",
+        "wind",
+        "gather"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +294,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "firmly",
+        "grip",
+        "blown"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +310,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "drifts",
+        "spring",
+        "fields",
+        "winds",
+        "gather"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +328,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "drifts",
+        "spring",
+        "fields",
+        "winds",
+        "gather"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +346,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "drifts",
+        "spring",
+        "fields",
+        "winds",
+        "gather"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +364,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "drifts",
+        "spring",
+        "fields",
+        "winds",
+        "gather"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +382,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "firmly",
+        "grip",
+        "blown"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +398,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "drifts",
+        "spring",
+        "fields",
+        "winds",
+        "gather"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +416,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "links",
+        "prepare",
+        "blown",
+        "approach",
+        "drifts",
+        "floats",
+        "winds",
+        "wind",
+        "against"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +436,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "links",
+        "prepare",
+        "blown",
+        "approach",
+        "drifts",
+        "floats",
+        "winds",
+        "wind",
+        "against"
+      ]
     }
   ],
   "similarPokemonIds": [

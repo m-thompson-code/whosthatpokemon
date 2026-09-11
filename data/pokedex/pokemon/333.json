@@ -10,6 +10,73 @@
   ],
   "imagePath": "/assets/pokemon/333.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sky-dwelling",
+    "wings",
+    "luminous",
+    "aquatic",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "cumulus",
+    "diligent",
+    "tufts",
+    "perches",
+    "polish",
+    "relax",
+    "grooms",
+    "sits",
+    "wipe",
+    "wipes",
+    "softly",
+    "hat",
+    "available",
+    "cottony",
+    "fluff",
+    "springwater",
+    "showers",
+    "sit",
+    "frightened",
+    "enduring",
+    "stream",
+    "towns",
+    "flocks",
+    "closer",
+    "cloud",
+    "shower",
+    "turned",
+    "dirt",
+    "generations",
+    "winter",
+    "finding",
+    "act",
+    "mind",
+    "lands",
+    "dirty",
+    "cotton",
+    "fluffy",
+    "someone",
+    "white",
+    "bring",
+    "spring",
+    "clouds",
+    "clean",
+    "care",
+    "finds",
+    "likes",
+    "touch",
+    "little",
+    "reason",
+    "something",
+    "since",
+    "constantly",
+    "spots",
+    "surroundings",
+    "full",
+    "takes",
+    "apparently",
+    "heads"
+  ],
   "color": "blue",
   "shape": "wings",
   "habitat": "forest",
@@ -40,7 +107,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SWABLU has light and fluffy wings that are like cottony clouds. This POKéMON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "sits",
+        "hat",
+        "cottony",
+        "fluff",
+        "frightened",
+        "lands",
+        "cotton",
+        "fluffy",
+        "clouds",
+        "heads"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +132,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SWABLU loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this POKéMON finds a stream and showers itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "polish",
+        "wipe",
+        "cottony",
+        "showers",
+        "stream",
+        "dirty",
+        "clean",
+        "finds",
+        "something",
+        "spots"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +156,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A POKéMON that has wings like cottony clouds. After enduring winter, in which little food is available, SWABLU flocks move closer to towns in the spring.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "available",
+        "cottony",
+        "enduring",
+        "towns",
+        "flocks",
+        "closer",
+        "winter",
+        "spring",
+        "clouds",
+        "little"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +180,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "grooms",
+        "shower",
+        "dirty",
+        "cotton",
+        "clean",
+        "constantly",
+        "takes"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +200,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "grooms",
+        "shower",
+        "dirty",
+        "cotton",
+        "clean",
+        "constantly",
+        "takes"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +220,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its wings are like cotton tufts. If it perches on someone’s head, it looks like a cotton hat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "tufts",
+        "perches",
+        "hat",
+        "cotton",
+        "someone"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +238,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its wings are like cotton tufts. If it perches on someone’s head, it looks like a cotton hat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "tufts",
+        "perches",
+        "hat",
+        "cotton",
+        "someone"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +256,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "relax",
+        "wipes",
+        "dirt",
+        "clean",
+        "surroundings"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +274,22 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "psychic"
+      ],
+      "keywords": [
+        "grooms",
+        "cottony",
+        "springwater",
+        "sit",
+        "mind",
+        "bring",
+        "clouds",
+        "heads"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +297,22 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "psychic"
+      ],
+      "keywords": [
+        "grooms",
+        "cottony",
+        "springwater",
+        "sit",
+        "mind",
+        "bring",
+        "clouds",
+        "heads"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +320,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "relax",
+        "wipes",
+        "dirt",
+        "clean",
+        "surroundings"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +338,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "relax",
+        "wipes",
+        "dirt",
+        "clean",
+        "surroundings"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +356,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "For some reason, it likes to land on people’s heads softly and act like it’s a hat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "softly",
+        "hat",
+        "act",
+        "likes",
+        "reason",
+        "heads"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +373,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "For some reason, it likes to land on people’s heads softly and act like it’s a hat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "softly",
+        "hat",
+        "act",
+        "likes",
+        "reason",
+        "heads"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +390,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "For some reason, it likes to land on people’s heads softly and act like it’s a hat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "softly",
+        "hat",
+        "act",
+        "likes",
+        "reason",
+        "heads"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +407,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "grooms",
+        "shower",
+        "dirty",
+        "cotton",
+        "clean",
+        "constantly",
+        "takes"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +427,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swablu has light and fluffy wings that are like cottony clouds. This Pokémon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "sits",
+        "hat",
+        "cottony",
+        "fluff",
+        "frightened",
+        "lands",
+        "cotton",
+        "fluffy",
+        "clouds",
+        "heads"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +452,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "polish",
+        "wipe",
+        "cottony",
+        "showers",
+        "stream",
+        "dirty",
+        "clean",
+        "finds",
+        "something",
+        "spots"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +476,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its cottony wings are full of air, making them light and fluffy to the touch. Swablu takes diligent care of its wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "diligent",
+        "cottony",
+        "fluffy",
+        "care",
+        "touch",
+        "full",
+        "takes"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +498,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "cumulus",
+        "cloud",
+        "turned",
+        "generations",
+        "finding",
+        "white",
+        "since",
+        "apparently"
+      ]
     }
   ],
   "similarPokemonIds": [

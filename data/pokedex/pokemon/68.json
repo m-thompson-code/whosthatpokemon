@@ -9,6 +9,115 @@
   ],
   "imagePath": "/assets/pokemon/068.png",
   "entryCount": 33,
+  "entryTraits": [
+    "mountain-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "doled",
+    "intricate",
+    "megaton",
+    "superpowerful",
+    "supremacy",
+    "requiring",
+    "ruggedly",
+    "angles",
+    "grasps",
+    "loads",
+    "offensive",
+    "afford",
+    "ceaseless",
+    "dexterity",
+    "overwhelm",
+    "tangled",
+    "twists",
+    "valiant",
+    "defensive",
+    "muscled",
+    "aside",
+    "hapless",
+    "slam",
+    "blink",
+    "greatest",
+    "mastered",
+    "awesome",
+    "execute",
+    "simultaneously",
+    "horizon",
+    "action",
+    "clumsy",
+    "flurry",
+    "precision",
+    "terrible",
+    "trucks",
+    "chops",
+    "hurl",
+    "react",
+    "unleashes",
+    "art",
+    "combat",
+    "pin",
+    "defend",
+    "lift",
+    "tends",
+    "thrown",
+    "dump",
+    "grabs",
+    "delicate",
+    "heft",
+    "fingers",
+    "leap",
+    "seconds",
+    "arts",
+    "call",
+    "flares",
+    "martial",
+    "ease",
+    "fists",
+    "launch",
+    "hold",
+    "blinding",
+    "thinks",
+    "faces",
+    "train",
+    "clear",
+    "swings",
+    "blows",
+    "alone",
+    "think",
+    "punch",
+    "limbs",
+    "level",
+    "knock",
+    "prevent",
+    "send",
+    "arm",
+    "trying",
+    "doing",
+    "impossible",
+    "throws",
+    "work",
+    "victim",
+    "fires",
+    "1",
+    "care",
+    "do",
+    "fighting",
+    "far",
+    "four",
+    "causes",
+    "special",
+    "against",
+    "punches",
+    "spirit",
+    "tough",
+    "rock",
+    "quickly",
+    "close",
+    "heavy",
+    "developed",
+    "muscles"
+  ],
   "color": "gray",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -38,7 +147,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "horizon",
+        "clear",
+        "send",
+        "throws",
+        "victim",
+        "punches",
+        "heavy",
+        "muscles"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +166,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "horizon",
+        "clear",
+        "send",
+        "throws",
+        "victim",
+        "punches",
+        "heavy",
+        "muscles"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +185,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "One arm alone can move mountains. Using all four arms, this POKéMON fires off awesome punches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "awesome",
+        "alone",
+        "arm",
+        "fires",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +205,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "angles",
+        "ceaseless",
+        "chops",
+        "swings",
+        "four",
+        "punches",
+        "rock",
+        "quickly"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +226,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "horizon",
+        "pin",
+        "limbs",
+        "throws",
+        "victim",
+        "four"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +245,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "With four arms that react more quickly than it can think, it can execute many punches at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "execute",
+        "react",
+        "think",
+        "four",
+        "punches",
+        "quickly"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +264,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MACHAMP has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This POKéMON tends to leap into action before it thinks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "requiring",
+        "dexterity",
+        "tangled",
+        "aside",
+        "action",
+        "hurl",
+        "tends",
+        "leap",
+        "thinks",
+        "trying",
+        "work",
+        "care",
+        "do",
+        "causes"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +291,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MACHAMP is known as the POKéMON that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "hapless",
+        "mastered",
+        "horizon",
+        "thrown",
+        "grabs",
+        "arts",
+        "martial",
+        "hold",
+        "far",
+        "four"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +314,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "doled",
+        "chops",
+        "defend",
+        "flares",
+        "faces",
+        "impossible",
+        "fighting",
+        "four",
+        "against",
+        "punches",
+        "spirit",
+        "tough"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +339,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "ruggedly",
+        "flurry",
+        "seconds",
+        "launch",
+        "1",
+        "four",
+        "punches",
+        "developed"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +360,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its superpowerful punches are said to knock the victim flying clear over the horizon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "superpowerful",
+        "horizon",
+        "clear",
+        "knock",
+        "victim",
+        "punches"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +377,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It punches with its four arms at blinding speed. It can launch 1,000 punches in two seconds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "seconds",
+        "launch",
+        "blinding",
+        "1",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +396,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It can knock a train flying with a punch. However, it is terrible at delicate work using its fingers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "terrible",
+        "delicate",
+        "fingers",
+        "train",
+        "punch",
+        "knock",
+        "work"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +414,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its four muscled arms slam foes with powerful punches and chops at blinding speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "muscled",
+        "slam",
+        "chops",
+        "blinding",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +433,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "angles",
+        "ceaseless",
+        "chops",
+        "swings",
+        "four",
+        "punches",
+        "rock",
+        "quickly"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +454,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "horizon",
+        "pin",
+        "limbs",
+        "throws",
+        "victim",
+        "four"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +473,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its four muscled arms slam foes with powerful punches and chops at blinding speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "muscled",
+        "slam",
+        "chops",
+        "blinding",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +492,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its four muscled arms slam foes with powerful punches and chops at blinding speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "muscled",
+        "slam",
+        "chops",
+        "blinding",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +511,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its four muscled arms slam foes with powerful punches and chops at blinding speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "muscled",
+        "slam",
+        "chops",
+        "blinding",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +530,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its four muscled arms slam foes with powerful punches and chops at blinding speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "muscled",
+        "slam",
+        "chops",
+        "blinding",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +549,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "ruggedly",
+        "flurry",
+        "seconds",
+        "launch",
+        "1",
+        "four",
+        "punches",
+        "developed"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +570,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "horizon",
+        "pin",
+        "limbs",
+        "throws",
+        "victim",
+        "four"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +589,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "requiring",
+        "dexterity",
+        "tangled",
+        "aside",
+        "action",
+        "hurl",
+        "tends",
+        "leap",
+        "thinks",
+        "trying",
+        "work",
+        "care",
+        "do",
+        "causes"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +616,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Machamp is known as the Pokémon that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "hapless",
+        "mastered",
+        "horizon",
+        "thrown",
+        "grabs",
+        "arts",
+        "martial",
+        "hold",
+        "far",
+        "four"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +639,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It unleashes megaton-level punches that send opponents flying clear over the horizon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "megaton",
+        "horizon",
+        "unleashes",
+        "clear",
+        "level",
+        "send",
+        "punches"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +657,24 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It can lift heavy loads with the greatest of ease. It can even heft dump trucks. But its clumsy fingers prevent it from doing any precision work.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "loads",
+        "greatest",
+        "clumsy",
+        "precision",
+        "trucks",
+        "lift",
+        "dump",
+        "heft",
+        "fingers",
+        "ease",
+        "prevent",
+        "doing",
+        "work",
+        "heavy"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +682,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It grasps its opponents with its four arms and twists them up in an intricate hold. People call it “the Machamp special.”",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "intricate",
+        "grasps",
+        "twists",
+        "call",
+        "hold",
+        "four",
+        "special"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +702,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "With four arms, it can attack and defend simultaneously. It’s said to have mastered every martial art in the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "mastered",
+        "simultaneously",
+        "art",
+        "defend",
+        "martial",
+        "four"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +721,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "One arm alone can move mountains. Using all four arms, this Pokémon fires off awesome punches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "awesome",
+        "alone",
+        "arm",
+        "fires",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +741,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "One arm alone can move mountains. Using all four arms, this Pokémon fires off awesome punches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "awesome",
+        "alone",
+        "arm",
+        "fires",
+        "four",
+        "punches"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +761,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "angles",
+        "ceaseless",
+        "chops",
+        "swings",
+        "four",
+        "punches",
+        "rock",
+        "quickly"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +782,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "With four arms that react more quickly than it can think, it can execute many punches at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "execute",
+        "react",
+        "think",
+        "four",
+        "punches",
+        "quickly"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +801,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pokémon can overwhelm its foes with more than 1,000 blows from its fists.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "supremacy",
+        "offensive",
+        "afford",
+        "overwhelm",
+        "valiant",
+        "defensive",
+        "blink",
+        "combat",
+        "fists",
+        "blows",
+        "1",
+        "four",
+        "close"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,40 @@
   ],
   "imagePath": "/assets/pokemon/529.png",
   "entryCount": 10,
+  "entryTraits": [
+    "burrowing",
+    "claws",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "digger",
+    "vegetable",
+    "whirls",
+    "rushing",
+    "race",
+    "aboveground",
+    "farmers",
+    "rotating",
+    "putting",
+    "car",
+    "swiftly",
+    "crops",
+    "30",
+    "brings",
+    "toward",
+    "damage",
+    "burrow",
+    "love",
+    "dig",
+    "straight",
+    "spinning",
+    "running",
+    "little",
+    "mph",
+    "causes",
+    "soil",
+    "good"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +72,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "race",
+        "aboveground",
+        "car",
+        "30",
+        "dig",
+        "running",
+        "mph",
+        "good"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +93,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "rotating",
+        "putting",
+        "swiftly",
+        "soil"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +110,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "30",
+        "dig",
+        "straight",
+        "spinning",
+        "mph"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +128,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "30",
+        "dig",
+        "straight",
+        "spinning",
+        "mph"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +146,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "rotating",
+        "putting",
+        "swiftly",
+        "soil"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +163,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "30",
+        "dig",
+        "straight",
+        "spinning",
+        "mph"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +181,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "rotating",
+        "putting",
+        "swiftly",
+        "soil"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +198,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "30",
+        "dig",
+        "straight",
+        "spinning",
+        "mph"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +216,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "whirls",
+        "rushing",
+        "brings",
+        "toward"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +234,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "burrowing"
+      ],
+      "keywords": [
+        "digger",
+        "vegetable",
+        "farmers",
+        "crops",
+        "damage",
+        "burrow",
+        "love",
+        "little",
+        "causes"
+      ]
     }
   ],
   "similarPokemonIds": [

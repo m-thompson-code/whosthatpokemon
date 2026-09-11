@@ -10,6 +10,74 @@
   ],
   "imagePath": "/assets/pokemon/006.png",
   "entryCount": 28,
+  "entryTraits": [
+    "forest-dwelling",
+    "fiery",
+    "tail",
+    "wings",
+    "sky-dwelling",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "exper",
+    "ience",
+    "torch",
+    "inflicts",
+    "4",
+    "superhot",
+    "unintentionally",
+    "altitude",
+    "expelling",
+    "super",
+    "weaker",
+    "experienced",
+    "breathing",
+    "terrible",
+    "whitish",
+    "blowing",
+    "shade",
+    "material",
+    "hotter",
+    "flares",
+    "furious",
+    "blast",
+    "temperatures",
+    "gains",
+    "expels",
+    "increases",
+    "600",
+    "melts",
+    "breathes",
+    "melt",
+    "thing",
+    "blows",
+    "intensely",
+    "spits",
+    "blue",
+    "pain",
+    "fiery",
+    "battles",
+    "color",
+    "fires",
+    "intense",
+    "great",
+    "harsh",
+    "breath",
+    "carry",
+    "almost",
+    "forest",
+    "turns",
+    "boulders",
+    "red",
+    "flame",
+    "burns",
+    "search",
+    "heat",
+    "hot",
+    "tip",
+    "close",
+    "temperature"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": "mountain",
@@ -40,7 +108,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "unintentionally",
+        "melt",
+        "spits",
+        "fires",
+        "forest",
+        "boulders",
+        "hot"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +129,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "unintentionally",
+        "melt",
+        "spits",
+        "fires",
+        "forest",
+        "boulders",
+        "hot"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +150,22 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "expelling",
+        "super",
+        "blast",
+        "intensely",
+        "red",
+        "flame",
+        "burns",
+        "hot",
+        "tip"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +173,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If CHARIZARD be­ comes furious, the flame at the tip of its tail flares up in a whitish- blue color.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "whitish",
+        "flares",
+        "furious",
+        "blue",
+        "color",
+        "flame",
+        "tip"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +194,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Breathing intense, hot flames, it can melt almost any­ thing. Its breath inflicts terrible pain on enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "inflicts",
+        "breathing",
+        "terrible",
+        "melt",
+        "thing",
+        "pain",
+        "intense",
+        "breath",
+        "almost",
+        "hot"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +217,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It uses its wings to fly high. The temperature of its fire increases as it gains exper­ ience in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "exper",
+        "ience",
+        "gains",
+        "increases",
+        "temperature"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +236,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "weaker",
+        "melts",
+        "breathes",
+        "fiery",
+        "great",
+        "breath",
+        "turns",
+        "search",
+        "heat"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +259,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "weaker",
+        "melts",
+        "breathes",
+        "fiery",
+        "great",
+        "breath",
+        "turns",
+        "search",
+        "heat"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +282,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A CHARIZARD flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "torch",
+        "weaker",
+        "material",
+        "breathes",
+        "melt",
+        "intense",
+        "search"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +302,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its wings can carry this POKéMON close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "4",
+        "altitude",
+        "temperatures",
+        "600",
+        "blows",
+        "carry",
+        "close"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +323,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "blowing",
+        "melt",
+        "spits",
+        "fires",
+        "forest",
+        "boulders",
+        "hot"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +344,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "experienced",
+        "hotter",
+        "battles",
+        "harsh",
+        "burns"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +362,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "experienced",
+        "hotter",
+        "battles",
+        "harsh",
+        "burns"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +380,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "experienced",
+        "hotter",
+        "battles",
+        "harsh",
+        "burns"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +398,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If CHARIZARD becomes furious, the flame at the tip of its tail flares up in a light blue shade.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery",
+        "luminous"
+      ],
+      "keywords": [
+        "shade",
+        "flares",
+        "furious",
+        "blue",
+        "flame",
+        "tip"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +419,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "inflicts",
+        "breathing",
+        "terrible",
+        "melt",
+        "pain",
+        "intense",
+        "breath",
+        "almost",
+        "hot"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +441,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "experienced",
+        "hotter",
+        "battles",
+        "harsh",
+        "burns"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +459,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "experienced",
+        "hotter",
+        "battles",
+        "harsh",
+        "burns"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +477,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "experienced",
+        "hotter",
+        "battles",
+        "harsh",
+        "burns"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +495,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "experienced",
+        "hotter",
+        "battles",
+        "harsh",
+        "burns"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +513,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "superhot",
+        "expelling",
+        "blast",
+        "intensely",
+        "red",
+        "flame",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +535,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "4",
+        "altitude",
+        "temperatures",
+        "600",
+        "blows",
+        "carry",
+        "close"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +556,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "weaker",
+        "melts",
+        "breathes",
+        "fiery",
+        "great",
+        "breath",
+        "turns",
+        "search",
+        "heat"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +579,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "weaker",
+        "melts",
+        "breathes",
+        "fiery",
+        "great",
+        "breath",
+        "turns",
+        "search",
+        "heat"
+      ]
     },
     {
       "versionId": 31,
@@ -232,7 +602,21 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "superhot",
+        "blast",
+        "expels",
+        "intensely",
+        "red",
+        "flame",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 32,
@@ -240,7 +624,21 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "superhot",
+        "blast",
+        "expels",
+        "intensely",
+        "red",
+        "flame",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 33,
@@ -248,7 +646,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "blowing",
+        "melt",
+        "spits",
+        "fires",
+        "forest",
+        "boulders",
+        "hot"
+      ]
     },
     {
       "versionId": 34,
@@ -256,7 +667,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "4",
+        "altitude",
+        "temperatures",
+        "600",
+        "blows",
+        "carry",
+        "close"
+      ]
     }
   ],
   "similarPokemonIds": [

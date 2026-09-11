@@ -10,6 +10,96 @@
   ],
   "imagePath": "/assets/pokemon/340.png",
   "entryCount": 25,
+  "entryTraits": [
+    "territorial",
+    "nocturnal",
+    "sleeping",
+    "hunting",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "intensities",
+    "caudal",
+    "exclusive",
+    "quake",
+    "glutton",
+    "herald",
+    "mistook",
+    "quakes",
+    "sighting",
+    "thrashes",
+    "tremor",
+    "setting",
+    "swamp",
+    "foretell",
+    "swamps",
+    "awakens",
+    "fleeing",
+    "earthquakes",
+    "startle",
+    "bed",
+    "pond",
+    "radius",
+    "thrashing",
+    "alive",
+    "claim",
+    "extend",
+    "mysteriously",
+    "triggers",
+    "vibrations",
+    "vision",
+    "tremors",
+    "lying",
+    "devours",
+    "lurks",
+    "swallow",
+    "earthquake",
+    "territorial",
+    "leaping",
+    "shakes",
+    "continually",
+    "location",
+    "rampage",
+    "claims",
+    "behavior",
+    "wait",
+    "whiskers",
+    "floor",
+    "real",
+    "shake",
+    "intimidate",
+    "throughout",
+    "determine",
+    "predict",
+    "repels",
+    "daytime",
+    "protective",
+    "approaches",
+    "sets",
+    "fin",
+    "quietly",
+    "believed",
+    "wild",
+    "mud",
+    "vicious",
+    "mile",
+    "strikes",
+    "feeds",
+    "massive",
+    "swallows",
+    "causing",
+    "bottom",
+    "near",
+    "miles",
+    "against",
+    "sleeps",
+    "along",
+    "good",
+    "whole",
+    "developed",
+    "eat",
+    "extremely"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "waters-edge",
@@ -39,7 +129,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WHISCASH is extremely territorial. Just one of these POKéMON will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "exclusive",
+        "thrashes",
+        "pond",
+        "claim",
+        "triggers",
+        "earthquake",
+        "territorial",
+        "approaches",
+        "massive",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +152,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If WHISCASH goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This POKéMON has the ability to predict real earthquakes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "quake",
+        "tremor",
+        "earthquakes",
+        "radius",
+        "rampage",
+        "real",
+        "predict",
+        "sets",
+        "wild",
+        "miles"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +173,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "foretell",
+        "awakens",
+        "earthquakes",
+        "pond",
+        "mysteriously",
+        "continually",
+        "throughout",
+        "daytime",
+        "mud",
+        "feeds",
+        "bottom",
+        "sleeps"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +199,14 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It makes its nest at the bottom of swamps. It will eat anything - if it is alive, WHISCASH will eat it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "swamps",
+        "alive",
+        "bottom",
+        "eat"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +214,14 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It makes its nest at the bottom of swamps. It will eat anything - if it is alive, WHISCASH will eat it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "swamps",
+        "alive",
+        "bottom",
+        "eat"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +229,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is very territorial. It repels foes by setting off tremors that extend over a three-mile radius.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "setting",
+        "radius",
+        "extend",
+        "tremors",
+        "territorial",
+        "repels",
+        "mile"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +249,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "As a result of causing tremors by thrashing about, it developed the ability to foretell real quakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "quakes",
+        "foretell",
+        "thrashing",
+        "tremors",
+        "real",
+        "causing",
+        "developed"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +267,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "tremors",
+        "protective",
+        "approaches",
+        "vicious",
+        "extremely"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +285,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swamp",
+        "thrashing",
+        "tremors",
+        "claims",
+        "sets",
+        "near"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +302,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swamp",
+        "thrashing",
+        "tremors",
+        "claims",
+        "sets",
+        "near"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +319,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "tremors",
+        "protective",
+        "approaches",
+        "vicious",
+        "extremely"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +337,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "tremors",
+        "protective",
+        "approaches",
+        "vicious",
+        "extremely"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +355,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "tremors",
+        "protective",
+        "approaches",
+        "vicious",
+        "extremely"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +373,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "tremors",
+        "protective",
+        "approaches",
+        "vicious",
+        "extremely"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +391,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swamp",
+        "thrashing",
+        "tremors",
+        "claims",
+        "sets",
+        "near"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +408,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It makes its nest at the bottom of swamps. It will eat anything--if it is alive, Whiscash will eat it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "swamps",
+        "alive",
+        "bottom",
+        "eat"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +423,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Whiscash is extremely territorial. Just one of these Pokémon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "exclusive",
+        "thrashes",
+        "pond",
+        "claim",
+        "triggers",
+        "earthquake",
+        "territorial",
+        "approaches",
+        "massive",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +446,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This Pokémon has the ability to predict real earthquakes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "quake",
+        "tremor",
+        "earthquakes",
+        "radius",
+        "rampage",
+        "real",
+        "predict",
+        "sets",
+        "wild",
+        "miles"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +467,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A glutton that devours anything that moves, it quietly lurks at the bottom of swamps, lying in wait for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "glutton",
+        "swamps",
+        "lying",
+        "devours",
+        "lurks",
+        "wait",
+        "quietly",
+        "bottom"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +488,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Sighting Whiscash leaping from the water is believed to herald an earthquake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "herald",
+        "sighting",
+        "earthquake",
+        "leaping",
+        "believed"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +506,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Whiscash shakes the ground at high intensities to intimidate its opponents. It swallows its prey whole—along with mud from the swamp floor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "intensities",
+        "swamp",
+        "shakes",
+        "floor",
+        "intimidate",
+        "mud",
+        "swallows",
+        "along",
+        "whole"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +528,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its vision is not that good. It senses vibrations in the water with its whiskers to determine the location of its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "vibrations",
+        "vision",
+        "location",
+        "whiskers",
+        "determine",
+        "good"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +548,14 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It makes its nest at the bottom of swamps. It will eat anything—if it is alive, Whiscash will eat it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "swamps",
+        "alive",
+        "bottom",
+        "eat"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +563,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swamp",
+        "thrashing",
+        "tremors",
+        "claims",
+        "sets",
+        "near"
+      ]
     },
     {
       "versionId": 39,
@@ -231,7 +580,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "caudal",
+        "mistook",
+        "swamp",
+        "fleeing",
+        "earthquakes",
+        "startle",
+        "bed",
+        "swallow",
+        "behavior",
+        "shake",
+        "fin",
+        "strikes",
+        "against",
+        "whole"
+      ]
     }
   ],
   "similarPokemonIds": [

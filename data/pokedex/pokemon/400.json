@@ -10,6 +10,44 @@
   ],
   "imagePath": "/assets/pokemon/400.png",
   "entryCount": 14,
+  "entryTraits": [
+    "aquatic",
+    "fur",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "dams",
+    "retention",
+    "damming",
+    "industrious",
+    "stacks",
+    "appreciated",
+    "dammed",
+    "overflow",
+    "banks",
+    "worker",
+    "feebas",
+    "incisors",
+    "fantastic",
+    "material",
+    "busily",
+    "sluggish",
+    "streams",
+    "bark",
+    "cut",
+    "repels",
+    "nearby",
+    "river",
+    "mud",
+    "roots",
+    "branches",
+    "rivers",
+    "swim",
+    "movements",
+    "fast",
+    "create",
+    "heat"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +78,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "damming",
+        "industrious",
+        "worker",
+        "streams",
+        "bark",
+        "mud"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +95,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "While its movements out of water are sluggish, it can swim as fast as any FEEBAS.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "feebas",
+        "sluggish",
+        "swim",
+        "movements",
+        "fast"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +113,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "appreciated",
+        "dammed",
+        "overflow",
+        "banks",
+        "nearby",
+        "river"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +132,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stacks",
+        "incisors",
+        "busily",
+        "cut",
+        "roots",
+        "branches"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +149,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stacks",
+        "incisors",
+        "busily",
+        "cut",
+        "roots",
+        "branches"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +166,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "appreciated",
+        "dammed",
+        "overflow",
+        "banks",
+        "nearby",
+        "river"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +185,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "appreciated",
+        "dammed",
+        "overflow",
+        "banks",
+        "nearby",
+        "river"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +204,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "appreciated",
+        "dammed",
+        "overflow",
+        "banks",
+        "nearby",
+        "river"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +223,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "appreciated",
+        "dammed",
+        "overflow",
+        "banks",
+        "nearby",
+        "river"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +242,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stacks",
+        "incisors",
+        "busily",
+        "cut",
+        "roots",
+        "branches"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +259,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "damming",
+        "industrious",
+        "worker",
+        "streams",
+        "bark",
+        "mud"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +276,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stacks",
+        "incisors",
+        "busily",
+        "cut",
+        "roots",
+        "branches"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +293,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "damming",
+        "industrious",
+        "worker",
+        "streams",
+        "bark",
+        "mud"
+      ]
     },
     {
       "versionId": 39,
@@ -144,7 +310,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokémon create dams on rivers to live in.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "dams",
+        "retention",
+        "fantastic",
+        "material",
+        "repels",
+        "rivers",
+        "create",
+        "heat"
+      ]
     }
   ],
   "similarPokemonIds": [

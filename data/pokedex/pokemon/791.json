@@ -10,6 +10,44 @@
   ],
   "imagePath": "/assets/pokemon/791.png",
   "entryCount": 6,
+  "entryTraits": [
+    "nocturnal",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "activation",
+    "boundlessly",
+    "darkest",
+    "midday",
+    "departs",
+    "cosmog",
+    "dispel",
+    "worlds",
+    "third",
+    "radiates",
+    "wormhole",
+    "writings",
+    "name",
+    "here",
+    "beast",
+    "devours",
+    "ultra",
+    "male",
+    "distant",
+    "opening",
+    "eye",
+    "forms",
+    "nights",
+    "intense",
+    "past",
+    "almost",
+    "called",
+    "surface",
+    "another",
+    "darkness",
+    "evolution",
+    "sun"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +77,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "darkest",
+        "midday",
+        "radiates",
+        "nights",
+        "intense",
+        "surface",
+        "another"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +98,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon is said to be a male evolution of Cosmog. At the activation of its third eye, it departs for another world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "activation",
+        "departs",
+        "cosmog",
+        "third",
+        "male",
+        "eye",
+        "another",
+        "evolution"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +117,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "worlds",
+        "wormhole",
+        "here",
+        "ultra",
+        "opening",
+        "forms",
+        "called"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +135,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "In writings from the distant past, it’s called by the name “the beast that devours the sun.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "writings",
+        "name",
+        "beast",
+        "devours",
+        "distant",
+        "past",
+        "called",
+        "sun"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +154,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "dispel",
+        "radiates",
+        "almost",
+        "darkness",
+        "sun"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +172,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "boundlessly",
+        "radiates",
+        "beast",
+        "devours",
+        "sun"
+      ]
     }
   ],
   "similarPokemonIds": [

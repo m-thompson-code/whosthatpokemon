@@ -10,6 +10,46 @@
   ],
   "imagePath": "/assets/pokemon/380.png",
   "entryCount": 18,
+  "entryTraits": [
+    "feathers",
+    "sonic",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "enfolds",
+    "ruffles",
+    "shrilly",
+    "understanding",
+    "telepathically",
+    "glass",
+    "members",
+    "refract",
+    "refracts",
+    "hostility",
+    "disappear",
+    "alter",
+    "herd",
+    "telepathy",
+    "intimidate",
+    "communicates",
+    "contact",
+    "speech",
+    "several",
+    "intelligent",
+    "invisible",
+    "feathers",
+    "sensitive",
+    "communicate",
+    "rarely",
+    "appearance",
+    "changes",
+    "emotions",
+    "human",
+    "highly",
+    "capable",
+    "sense",
+    "covered"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": "waters-edge",
@@ -39,7 +79,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POKéMON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers",
+        "sonic"
+      ],
+      "keywords": [
+        "ruffles",
+        "shrilly",
+        "hostility",
+        "intimidate",
+        "feathers",
+        "sensitive",
+        "emotions",
+        "highly"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +101,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LATIAS is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The POKéMON enfolds its body with its down and refracts light to alter its appearance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "enfolds",
+        "understanding",
+        "glass",
+        "refracts",
+        "alter",
+        "speech",
+        "intelligent",
+        "appearance",
+        "human",
+        "highly",
+        "capable",
+        "covered"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +126,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "They make a small herd of only several members. They rarely make contact with people or other POKéMON. They disappear if they sense enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "members",
+        "disappear",
+        "herd",
+        "contact",
+        "several",
+        "rarely",
+        "sense"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +144,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "telepathically",
+        "refracts",
+        "communicate",
+        "appearance",
+        "changes"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +162,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "telepathically",
+        "refracts",
+        "communicate",
+        "appearance",
+        "changes"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +180,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refract",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +196,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refract",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +212,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refract",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +228,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refracts",
+        "telepathy",
+        "communicates",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +246,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refracts",
+        "telepathy",
+        "communicates",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +264,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refract",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +280,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refract",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +296,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refract",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +312,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refract",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +328,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "refracts",
+        "telepathy",
+        "communicates",
+        "invisible",
+        "covered"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +346,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "telepathically",
+        "refracts",
+        "communicate",
+        "appearance",
+        "changes"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +364,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Latias is highly sensitive to the emotions of people. If it senses any hostility, this Pokémon ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers",
+        "sonic"
+      ],
+      "keywords": [
+        "ruffles",
+        "shrilly",
+        "hostility",
+        "intimidate",
+        "feathers",
+        "sensitive",
+        "emotions",
+        "highly"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +386,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "enfolds",
+        "understanding",
+        "glass",
+        "refracts",
+        "alter",
+        "speech",
+        "intelligent",
+        "appearance",
+        "human",
+        "highly",
+        "capable",
+        "covered"
+      ]
     }
   ],
   "similarPokemonIds": [

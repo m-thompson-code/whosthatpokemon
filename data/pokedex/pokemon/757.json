@@ -10,6 +10,60 @@
   ],
   "imagePath": "/assets/pokemon/757.png",
   "entryCount": 6,
+  "entryTraits": [
+    "poisonous",
+    "tail",
+    "fiery",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "disoriented",
+    "malnutrition",
+    "reeling",
+    "slink",
+    "realizes",
+    "deal",
+    "sneaky",
+    "bodily",
+    "craggy",
+    "emanates",
+    "heats",
+    "process",
+    "females",
+    "weakens",
+    "immobilize",
+    "smelling",
+    "spinda",
+    "venom",
+    "males",
+    "inhaling",
+    "volcanoes",
+    "produce",
+    "sacs",
+    "whatever",
+    "dry",
+    "sends",
+    "attracts",
+    "due",
+    "fluids",
+    "bug",
+    "home",
+    "evolve",
+    "tell",
+    "do",
+    "gas",
+    "behind",
+    "since",
+    "poisonous",
+    "flame",
+    "burns",
+    "create",
+    "fluid",
+    "places",
+    "creates",
+    "well",
+    "doesn"
+  ],
   "color": "black",
   "shape": "quadruped",
   "habitat": null,
@@ -40,7 +94,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "disoriented",
+        "bodily",
+        "inhaling",
+        "fluids",
+        "gas",
+        "poisonous",
+        "burns",
+        "create"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +115,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Volcanoes or dry, craggy places are its home. It emanates a sweet-smelling poisonous gas that attracts bug Pokémon, then attacks them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "craggy",
+        "emanates",
+        "smelling",
+        "volcanoes",
+        "dry",
+        "attracts",
+        "bug",
+        "home",
+        "gas",
+        "poisonous",
+        "places"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +139,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The males will do whatever the females tell them. They give the females most of their food. Due to malnutrition, the males can’t evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "malnutrition",
+        "females",
+        "males",
+        "whatever",
+        "due",
+        "evolve",
+        "tell",
+        "do"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +158,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn’t deal well with Spinda, since it’s always reeling.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "reeling",
+        "deal",
+        "weakens",
+        "spinda",
+        "sends",
+        "gas",
+        "since",
+        "poisonous",
+        "well",
+        "doesn"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +181,24 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit’s poisonous gas.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery",
+        "poisonous"
+      ],
+      "keywords": [
+        "heats",
+        "process",
+        "venom",
+        "produce",
+        "sacs",
+        "gas",
+        "poisonous",
+        "flame",
+        "fluid",
+        "creates"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +206,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "slink",
+        "realizes",
+        "sneaky",
+        "immobilize",
+        "gas",
+        "behind",
+        "poisonous"
+      ]
     }
   ],
   "similarPokemonIds": [

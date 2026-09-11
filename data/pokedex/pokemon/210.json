@@ -9,6 +9,71 @@
   ],
   "imagePath": "/assets/pokemon/210.png",
   "entryCount": 25,
+  "entryTraits": [
+    "fangs"
+  ],
+  "entryKeywords": [
+    "doted",
+    "incompetent",
+    "tacked",
+    "tilt",
+    "watchdog",
+    "provoked",
+    "attitude",
+    "contrast",
+    "spooked",
+    "tilted",
+    "amused",
+    "fend",
+    "snubbull",
+    "flails",
+    "disputes",
+    "indiscriminately",
+    "attacker",
+    "reveal",
+    "totally",
+    "particularly",
+    "unless",
+    "simply",
+    "display",
+    "jaw",
+    "spite",
+    "chance",
+    "lower",
+    "opening",
+    "weapons",
+    "startled",
+    "might",
+    "balance",
+    "enormous",
+    "wide",
+    "enraged",
+    "bites",
+    "timid",
+    "sensitive",
+    "causing",
+    "care",
+    "strike",
+    "between",
+    "young",
+    "bite",
+    "try",
+    "rarely",
+    "jaws",
+    "run",
+    "popular",
+    "actually",
+    "keeps",
+    "attacked",
+    "huge",
+    "well",
+    "although",
+    "tip",
+    "big",
+    "doesn",
+    "heavy",
+    "developed"
+  ],
   "color": "purple",
   "shape": "upright",
   "habitat": "urban",
@@ -39,7 +104,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is actually timid and easily spooked. If at­ tacked, it flails about to fend off its attacker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tacked",
+        "spooked",
+        "fend",
+        "flails",
+        "attacker",
+        "timid",
+        "actually"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +122,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Because its fangs are too heavy, it always keeps its head tilted down. However, its BITE is powerful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "tilted",
+        "bite",
+        "keeps",
+        "heavy"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +139,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It can make most any POKéMON run away simply by opening its mouth wide to reveal its big fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "reveal",
+        "simply",
+        "opening",
+        "wide",
+        "run",
+        "big"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +158,27 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GRANBULL has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the POKéMON to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "indiscriminately",
+        "particularly",
+        "unless",
+        "jaw",
+        "lower",
+        "startled",
+        "balance",
+        "enormous",
+        "causing",
+        "bite",
+        "try",
+        "well",
+        "tip",
+        "heavy",
+        "developed"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +186,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GRANBULL has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the POKéMON to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "indiscriminately",
+        "particularly",
+        "unless",
+        "jaw",
+        "lower",
+        "startled",
+        "balance",
+        "enormous",
+        "causing",
+        "bite",
+        "try",
+        "well",
+        "tip",
+        "heavy",
+        "developed"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +214,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "tilt",
+        "particularly",
+        "unless",
+        "jaw",
+        "lower",
+        "startled",
+        "causing",
+        "bite",
+        "try",
+        "huge",
+        "well",
+        "heavy",
+        "developed"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +240,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Because its fangs are too heavy, it always keeps its head tilted down. However, its BITE is powerful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "tilted",
+        "bite",
+        "keeps",
+        "heavy"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +257,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spooked",
+        "fend",
+        "flails",
+        "attacker",
+        "timid",
+        "actually",
+        "attacked"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +275,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "spite",
+        "enraged",
+        "timid",
+        "strike",
+        "huge"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +293,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "spite",
+        "enraged",
+        "timid",
+        "strike",
+        "huge"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +311,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "spite",
+        "enraged",
+        "timid",
+        "strike",
+        "huge"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +329,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spooked",
+        "fend",
+        "flails",
+        "attacker",
+        "timid",
+        "actually",
+        "attacked"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +347,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Because its fangs are too heavy, it always keeps its head tilted down. However, its bite is powerful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "tilted",
+        "bite",
+        "keeps",
+        "heavy"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +364,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "spite",
+        "enraged",
+        "timid",
+        "strike",
+        "huge"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +382,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "spite",
+        "enraged",
+        "timid",
+        "strike",
+        "huge"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +400,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "spite",
+        "enraged",
+        "timid",
+        "strike",
+        "huge"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +418,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "spite",
+        "enraged",
+        "timid",
+        "strike",
+        "huge"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +436,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "spite",
+        "enraged",
+        "timid",
+        "strike",
+        "huge"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +454,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can make most any Pokémon run away simply by opening its mouth wide to reveal its big fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "reveal",
+        "simply",
+        "opening",
+        "wide",
+        "run",
+        "big"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +473,27 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "indiscriminately",
+        "particularly",
+        "unless",
+        "jaw",
+        "lower",
+        "startled",
+        "balance",
+        "enormous",
+        "causing",
+        "bite",
+        "try",
+        "well",
+        "tip",
+        "heavy",
+        "developed"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +501,27 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "indiscriminately",
+        "particularly",
+        "unless",
+        "jaw",
+        "lower",
+        "startled",
+        "balance",
+        "enormous",
+        "causing",
+        "bite",
+        "try",
+        "well",
+        "tip",
+        "heavy",
+        "developed"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +529,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its well-developed lower jaw and heavy fangs are its weapons. As long as it’s not provoked, it rarely bites.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "provoked",
+        "jaw",
+        "lower",
+        "weapons",
+        "bites",
+        "rarely",
+        "well",
+        "heavy",
+        "developed"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +551,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "More timid than Snubbull, this Pokémon is doted on by young people amused at the contrast between its looks and its attitude.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "doted",
+        "attitude",
+        "contrast",
+        "amused",
+        "snubbull",
+        "timid",
+        "between",
+        "young"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +570,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "While it has powerful jaws, it doesn’t care for disputes, so it rarely has a chance to display their might.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disputes",
+        "display",
+        "chance",
+        "might",
+        "care",
+        "rarely",
+        "jaws",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +589,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s popular with young people, Granbull is timid and sensitive, so it’s totally incompetent as a watchdog.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "incompetent",
+        "watchdog",
+        "totally",
+        "timid",
+        "sensitive",
+        "young",
+        "popular",
+        "although"
+      ]
     }
   ],
   "similarPokemonIds": [

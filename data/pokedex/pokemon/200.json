@@ -9,6 +9,105 @@
   ],
   "imagePath": "/assets/pokemon/200.png",
   "entryCount": 26,
+  "entryTraits": [
+    "nocturnal",
+    "sleeping",
+    "sonic",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "childlike",
+    "folks",
+    "glee",
+    "hone",
+    "scar",
+    "shrieklike",
+    "undoubtedly",
+    "weeping",
+    "fearful",
+    "frighten",
+    "late",
+    "necessary",
+    "shrieking",
+    "surprising",
+    "vacant",
+    "wailing",
+    "reactions",
+    "creepy",
+    "deal",
+    "ed",
+    "frightens",
+    "imitating",
+    "room",
+    "sobbing",
+    "spheres",
+    "meaning",
+    "screaming",
+    "chills",
+    "observes",
+    "travelers",
+    "tricks",
+    "yank",
+    "scaring",
+    "voices",
+    "skill",
+    "middle",
+    "startle",
+    "aren",
+    "emanating",
+    "nourishment",
+    "sending",
+    "frightened",
+    "mischievous",
+    "shocked",
+    "ear",
+    "practices",
+    "eerie",
+    "everyone",
+    "mischief",
+    "conceals",
+    "orbs",
+    "startles",
+    "sneak",
+    "bit",
+    "playing",
+    "watch",
+    "loudly",
+    "ing",
+    "nutrition",
+    "chest",
+    "happy",
+    "spines",
+    "gathers",
+    "daytime",
+    "means",
+    "warning",
+    "fear",
+    "hear",
+    "set",
+    "turn",
+    "absorb",
+    "suddenly",
+    "let",
+    "causing",
+    "upon",
+    "hair",
+    "bite",
+    "absorbs",
+    "feelings",
+    "likes",
+    "cry",
+    "behind",
+    "neck",
+    "red",
+    "against",
+    "constantly",
+    "sleeps",
+    "darkness",
+    "well",
+    "doesn",
+    "apparently"
+  ],
   "color": "gray",
   "shape": "ball",
   "habitat": "cave",
@@ -38,7 +137,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "wailing",
+        "screaming",
+        "tricks",
+        "startle",
+        "mischievous",
+        "playing",
+        "likes"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +157,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reactions",
+        "yank",
+        "shocked",
+        "warning",
+        "hair",
+        "bite",
+        "behind"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +175,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It loves to watch people it's scar­ ed. It frightens them by screaming loudly or appear­ ing suddenly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scar",
+        "ed",
+        "frightens",
+        "screaming",
+        "watch",
+        "loudly",
+        "ing",
+        "suddenly"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +194,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MISDREAVUS frightens people with a creepy, sobbing cry. The POKéMON apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fearful",
+        "creepy",
+        "frightens",
+        "sobbing",
+        "spheres",
+        "nutrition",
+        "turn",
+        "absorb",
+        "feelings",
+        "cry",
+        "red",
+        "apparently"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +217,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MISDREAVUS frightens people with a creepy, sobbing cry. The POKéMON apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fearful",
+        "creepy",
+        "frightens",
+        "sobbing",
+        "spheres",
+        "nutrition",
+        "turn",
+        "absorb",
+        "feelings",
+        "cry",
+        "red",
+        "apparently"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +240,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A MISDREAVUS frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "creepy",
+        "frightens",
+        "sobbing",
+        "spheres",
+        "nutrition",
+        "fear",
+        "absorb",
+        "cry",
+        "red",
+        "apparently"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +261,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It loves to bite and yank people’s hair from behind without warning, just to see their shocked reactions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reactions",
+        "yank",
+        "shocked",
+        "warning",
+        "hair",
+        "bite",
+        "behind"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +279,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "wailing",
+        "screaming",
+        "tricks",
+        "startle",
+        "mischievous",
+        "playing",
+        "likes"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +299,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It loves to sneak up on people late at night, then startle them with its shrieklike cry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "shrieklike",
+        "late",
+        "startle",
+        "sneak",
+        "cry"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +317,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It gets nourishment from fear that it absorbs into its red orbs. In daytime, it sleeps in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "nourishment",
+        "orbs",
+        "daytime",
+        "fear",
+        "absorbs",
+        "red",
+        "sleeps",
+        "darkness"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +338,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "middle",
+        "startles",
+        "gathers",
+        "fear"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +355,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It likes playing mischievous tricks, such as screaming and wailing to startle people at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "wailing",
+        "screaming",
+        "tricks",
+        "startle",
+        "mischievous",
+        "playing",
+        "likes"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +375,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It loves to bite and yank people’s hair from behind without warning, just to see their shocked reactions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reactions",
+        "yank",
+        "shocked",
+        "warning",
+        "hair",
+        "bite",
+        "behind"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +393,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "middle",
+        "startles",
+        "gathers",
+        "fear"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +410,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "middle",
+        "startles",
+        "gathers",
+        "fear"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +427,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "middle",
+        "startles",
+        "gathers",
+        "fear"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +444,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "middle",
+        "startles",
+        "gathers",
+        "fear"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +461,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It gets nourishment from fear that it absorbs into its red orbs. In daytime, it sleeps in darkness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "nourishment",
+        "orbs",
+        "daytime",
+        "fear",
+        "absorbs",
+        "red",
+        "sleeps",
+        "darkness"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +482,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It likes playing mischievous tricks, such as screaming and wailing to startle people at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "wailing",
+        "screaming",
+        "tricks",
+        "startle",
+        "mischievous",
+        "playing",
+        "likes"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +502,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fearful",
+        "creepy",
+        "frightens",
+        "sobbing",
+        "spheres",
+        "nutrition",
+        "turn",
+        "absorb",
+        "feelings",
+        "cry",
+        "red",
+        "apparently"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +525,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fearful",
+        "creepy",
+        "frightens",
+        "sobbing",
+        "spheres",
+        "nutrition",
+        "turn",
+        "absorb",
+        "feelings",
+        "cry",
+        "red",
+        "apparently"
+      ]
     },
     {
       "versionId": 27,
@@ -206,7 +548,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It will use any means necessary to frighten people and absorb their life energy. It practices constantly to hone its skill in causing fear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hone",
+        "frighten",
+        "necessary",
+        "skill",
+        "practices",
+        "means",
+        "fear",
+        "absorb",
+        "causing",
+        "constantly"
+      ]
     },
     {
       "versionId": 28,
@@ -214,7 +569,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "If you hear a sobbing sound emanating from a vacant room, it’s undoubtedly a bit of mischief from Misdreavus.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "undoubtedly",
+        "vacant",
+        "room",
+        "sobbing",
+        "emanating",
+        "mischief",
+        "bit",
+        "hear"
+      ]
     },
     {
       "versionId": 29,
@@ -222,7 +590,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "What gives meaning to its life is surprising others. If you set your ear against the red orbs around its neck, you can hear shrieking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shrieking",
+        "surprising",
+        "meaning",
+        "ear",
+        "orbs",
+        "hear",
+        "set",
+        "neck",
+        "red",
+        "against"
+      ]
     },
     {
       "versionId": 30,
@@ -230,7 +611,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn’t deal well with folks who aren’t easily frightened.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "folks",
+        "weeping",
+        "deal",
+        "imitating",
+        "scaring",
+        "voices",
+        "aren",
+        "frightened",
+        "everyone",
+        "happy",
+        "well",
+        "doesn"
+      ]
     },
     {
       "versionId": 39,
@@ -238,7 +634,29 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It conceals itself in darkness, sending chills up travelers' spines with its childlike weeping. As it observes the frightened travelers with glee, the red orbs upon its chest let off an eerie light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "childlike",
+        "glee",
+        "weeping",
+        "chills",
+        "observes",
+        "travelers",
+        "sending",
+        "frightened",
+        "eerie",
+        "conceals",
+        "orbs",
+        "chest",
+        "spines",
+        "let",
+        "upon",
+        "red",
+        "darkness"
+      ]
     }
   ],
   "similarPokemonIds": [

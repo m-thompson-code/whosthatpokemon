@@ -9,6 +9,46 @@
   ],
   "imagePath": "/assets/pokemon/455.png",
   "entryCount": 14,
+  "entryTraits": [
+    "hunting",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "gluttonous",
+    "maw",
+    "dangle",
+    "unruly",
+    "ambush",
+    "cavernous",
+    "lash",
+    "marshes",
+    "luring",
+    "binds",
+    "gulps",
+    "awaits",
+    "chomps",
+    "drool",
+    "smelling",
+    "temperament",
+    "hanging",
+    "lies",
+    "saliva",
+    "wait",
+    "attracts",
+    "wide",
+    "branches",
+    "branch",
+    "walks",
+    "open",
+    "plant",
+    "tentacles",
+    "though",
+    "search",
+    "whole",
+    "takes",
+    "close",
+    "eat"
+  ],
   "color": "green",
   "shape": "tentacles",
   "habitat": null,
@@ -38,7 +78,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It attracts prey with its sweet- smelling saliva, then chomps down. It takes a whole day to eat prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "chomps",
+        "smelling",
+        "saliva",
+        "attracts",
+        "whole",
+        "takes",
+        "eat"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +98,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Hanging from branches using its tentacles, it looks like a plant. It awaits prey, mouth wide open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "awaits",
+        "hanging",
+        "wide",
+        "branches",
+        "open",
+        "plant",
+        "tentacles"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +118,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "marshes",
+        "binds",
+        "gulps",
+        "drool",
+        "smelling",
+        "attracts"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +138,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "dangle",
+        "ambush",
+        "branch",
+        "walks",
+        "tentacles",
+        "search"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +158,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "dangle",
+        "ambush",
+        "branch",
+        "walks",
+        "tentacles",
+        "search"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +178,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "marshes",
+        "binds",
+        "gulps",
+        "drool",
+        "smelling",
+        "attracts"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +198,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "marshes",
+        "binds",
+        "gulps",
+        "drool",
+        "smelling",
+        "attracts"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +218,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Using its tentacles to lash itself to trees, it lies in wait for prey, luring it close with sweet-smelling drool.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "lash",
+        "luring",
+        "drool",
+        "smelling",
+        "lies",
+        "wait",
+        "tentacles",
+        "close"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +240,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Using its tentacles to lash itself to trees, it lies in wait for prey, luring it close with sweet-smelling drool.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "lash",
+        "luring",
+        "drool",
+        "smelling",
+        "lies",
+        "wait",
+        "tentacles",
+        "close"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +262,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "chomps",
+        "smelling",
+        "saliva",
+        "attracts",
+        "whole",
+        "takes",
+        "eat"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +282,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "marshes",
+        "binds",
+        "gulps",
+        "drool",
+        "smelling",
+        "attracts"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +302,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "chomps",
+        "smelling",
+        "saliva",
+        "attracts",
+        "whole",
+        "takes",
+        "eat"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +322,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "marshes",
+        "binds",
+        "gulps",
+        "drool",
+        "smelling",
+        "attracts"
+      ]
     },
     {
       "versionId": 39,
@@ -142,7 +342,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Though this is a plant Pokémon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "gluttonous",
+        "maw",
+        "unruly",
+        "cavernous",
+        "temperament",
+        "wide",
+        "open",
+        "plant",
+        "though"
+      ]
     }
   ],
   "similarPokemonIds": [

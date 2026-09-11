@@ -10,6 +10,50 @@
   ],
   "imagePath": "/assets/pokemon/307.png",
   "entryCount": 18,
+  "entryTraits": [
+    "mountain-dwelling",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "dedicated",
+    "workouts",
+    "aspect",
+    "rigorous",
+    "skips",
+    "concentration",
+    "mental",
+    "inner",
+    "misses",
+    "levitates",
+    "meditates",
+    "survives",
+    "yoga",
+    "berry",
+    "focus",
+    "heighten",
+    "sharper",
+    "spiritual",
+    "undertakes",
+    "enduring",
+    "heightens",
+    "meditation",
+    "hunger",
+    "minimal",
+    "trains",
+    "continually",
+    "daily",
+    "ends",
+    "tempered",
+    "whenever",
+    "float",
+    "training",
+    "hours",
+    "loses",
+    "another",
+    "spirit",
+    "strength",
+    "eating"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -39,7 +83,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POKéMON always loses its concentration and focus. As a result, its training never ends.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "rigorous",
+        "concentration",
+        "mental",
+        "meditates",
+        "focus",
+        "undertakes",
+        "ends",
+        "whenever",
+        "training",
+        "loses"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +106,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MEDITITE heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this POKéMON’s training.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "aspect",
+        "inner",
+        "survives",
+        "berry",
+        "heightens",
+        "meditation",
+        "minimal",
+        "training",
+        "another",
+        "eating"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +127,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dedicated",
+        "rigorous",
+        "meditates",
+        "yoga",
+        "spiritual",
+        "continually",
+        "tempered",
+        "training",
+        "hours"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +147,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skips",
+        "inner",
+        "yoga",
+        "heightens",
+        "meditation",
+        "daily",
+        "training",
+        "strength"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +166,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skips",
+        "inner",
+        "yoga",
+        "heightens",
+        "meditation",
+        "daily",
+        "training",
+        "strength"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +185,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "berry",
+        "sharper",
+        "enduring",
+        "hunger",
+        "tempered",
+        "spirit"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +202,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It never misses its daily yoga workouts, and it heightens its spiritual power through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "workouts",
+        "misses",
+        "yoga",
+        "spiritual",
+        "heightens",
+        "meditation",
+        "daily"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +220,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "levitates",
+        "spiritual",
+        "heightens",
+        "meditation",
+        "trains"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +238,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It meditates to heighten its inner energy and to float in the air. It eats one berry a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "inner",
+        "meditates",
+        "berry",
+        "heighten",
+        "float"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +256,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It meditates to heighten its inner energy and to float in the air. It eats one berry a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "inner",
+        "meditates",
+        "berry",
+        "heighten",
+        "float"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +274,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "levitates",
+        "spiritual",
+        "heightens",
+        "meditation",
+        "trains"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +292,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "levitates",
+        "spiritual",
+        "heightens",
+        "meditation",
+        "trains"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +310,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "levitates",
+        "spiritual",
+        "heightens",
+        "meditation",
+        "trains"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +328,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "levitates",
+        "spiritual",
+        "heightens",
+        "meditation",
+        "trains"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +346,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "levitates",
+        "spiritual",
+        "heightens",
+        "meditation",
+        "trains"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +364,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "berry",
+        "sharper",
+        "enduring",
+        "hunger",
+        "tempered",
+        "spirit"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +381,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pokémon always loses its concentration and focus. As a result, its training never ends.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "rigorous",
+        "concentration",
+        "mental",
+        "meditates",
+        "focus",
+        "undertakes",
+        "ends",
+        "whenever",
+        "training",
+        "loses"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +404,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "aspect",
+        "inner",
+        "survives",
+        "berry",
+        "heightens",
+        "meditation",
+        "minimal",
+        "training",
+        "another",
+        "eating"
+      ]
     }
   ],
   "similarPokemonIds": [

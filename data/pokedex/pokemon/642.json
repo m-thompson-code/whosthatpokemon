@@ -10,6 +10,48 @@
   ],
   "imagePath": "/assets/pokemon/642.png",
   "entryCount": 9,
+  "entryTraits": [
+    "tail",
+    "electric",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "mar",
+    "nemesis",
+    "waged",
+    "charred",
+    "enrich",
+    "immemorial",
+    "landscape",
+    "wielder",
+    "tornadus",
+    "disliked",
+    "passed",
+    "war",
+    "discharge",
+    "therefore",
+    "unova",
+    "hurls",
+    "firing",
+    "pierce",
+    "immense",
+    "countless",
+    "earth",
+    "bolts",
+    "fires",
+    "region",
+    "say",
+    "forest",
+    "remains",
+    "shoots",
+    "since",
+    "causes",
+    "soil",
+    "place",
+    "spikes",
+    "places",
+    "lightning"
+  ],
   "color": "blue",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +81,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Countless charred remains mar the landscape of places through which Thundurus has passed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mar",
+        "charred",
+        "landscape",
+        "passed",
+        "countless",
+        "remains",
+        "places"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +99,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "discharge",
+        "unova",
+        "firing",
+        "immense",
+        "bolts",
+        "region",
+        "spikes",
+        "lightning"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +121,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "disliked",
+        "therefore",
+        "fires",
+        "forest",
+        "shoots",
+        "causes",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +143,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "disliked",
+        "therefore",
+        "fires",
+        "forest",
+        "shoots",
+        "causes",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +165,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "discharge",
+        "unova",
+        "firing",
+        "immense",
+        "bolts",
+        "region",
+        "spikes",
+        "lightning"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +187,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "disliked",
+        "therefore",
+        "fires",
+        "forest",
+        "shoots",
+        "causes",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +209,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "discharge",
+        "unova",
+        "firing",
+        "immense",
+        "bolts",
+        "region",
+        "spikes",
+        "lightning"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +231,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "disliked",
+        "therefore",
+        "fires",
+        "forest",
+        "shoots",
+        "causes",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 39,
@@ -103,7 +253,27 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "nemesis",
+        "waged",
+        "enrich",
+        "immemorial",
+        "wielder",
+        "tornadus",
+        "war",
+        "hurls",
+        "pierce",
+        "earth",
+        "bolts",
+        "say",
+        "since",
+        "soil",
+        "lightning"
+      ]
     }
   ],
   "similarPokemonIds": [

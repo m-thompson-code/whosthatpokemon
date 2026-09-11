@@ -9,6 +9,112 @@
   ],
   "imagePath": "/assets/pokemon/028.png",
   "entryCount": 32,
+  "entryTraits": [
+    "claws",
+    "burrowing",
+    "forest-dwelling",
+    "hunting",
+    "horns",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "drier",
+    "heatstroke",
+    "park",
+    "plows",
+    "tilling",
+    "farm",
+    "temporary",
+    "carve",
+    "sections",
+    "stunned",
+    "jabbing",
+    "hooking",
+    "scurrying",
+    "smoother",
+    "flinch",
+    "spiny",
+    "climbs",
+    "sandshrew",
+    "climbing",
+    "replaced",
+    "inflict",
+    "loss",
+    "slashing",
+    "dropping",
+    "attempt",
+    "ready",
+    "ones",
+    "pace",
+    "touched",
+    "climb",
+    "plenty",
+    "bothered",
+    "curled",
+    "severe",
+    "threatened",
+    "roll",
+    "temperatures",
+    "below",
+    "blinding",
+    "rise",
+    "sharply",
+    "incredible",
+    "waiting",
+    "damage",
+    "thanks",
+    "start",
+    "broken",
+    "kick",
+    "tear",
+    "wildly",
+    "curls",
+    "next",
+    "spines",
+    "gathers",
+    "daytime",
+    "drop",
+    "leaps",
+    "adept",
+    "snap",
+    "beneath",
+    "dust",
+    "hardened",
+    "prevent",
+    "shares",
+    "storm",
+    "rolls",
+    "harder",
+    "skilled",
+    "attacking",
+    "onto",
+    "themselves",
+    "year",
+    "break",
+    "above",
+    "fields",
+    "old",
+    "escape",
+    "right",
+    "feel",
+    "area",
+    "digs",
+    "fall",
+    "top",
+    "try",
+    "run",
+    "hide",
+    "new",
+    "spikes",
+    "tough",
+    "berries",
+    "good",
+    "although",
+    "horns",
+    "quickly",
+    "ball",
+    "covered"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": "rough-terrain",
@@ -38,7 +144,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spiny",
+        "curled",
+        "threatened",
+        "roll",
+        "curls",
+        "escape",
+        "ball"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +162,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spiny",
+        "curled",
+        "threatened",
+        "roll",
+        "curls",
+        "escape",
+        "ball"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +180,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "slashing",
+        "start",
+        "broken",
+        "skilled"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +197,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "attempt",
+        "blinding",
+        "kick",
+        "dust",
+        "storm",
+        "top",
+        "run",
+        "hide"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +216,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "burrowing"
+      ],
+      "keywords": [
+        "pace",
+        "incredible",
+        "snap",
+        "digs",
+        "spikes"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +235,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Adept at climbing trees, it rolls into a spiny ball, then attacks its enemies from above.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "spiny",
+        "climbing",
+        "adept",
+        "rolls",
+        "above",
+        "ball"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +254,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SANDSLASH’s body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sections",
+        "replaced",
+        "ones",
+        "beneath",
+        "hardened",
+        "year",
+        "old",
+        "fall",
+        "hide",
+        "new",
+        "spikes",
+        "tough",
+        "covered"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +278,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SANDSLASH can roll up its body as if it were a ball covered with large spikes. In battle, this POKéMON will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "stunned",
+        "jabbing",
+        "flinch",
+        "roll",
+        "tear",
+        "wildly",
+        "spines",
+        "leaps",
+        "try",
+        "spikes",
+        "ball",
+        "covered"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +303,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heatstroke",
+        "temperatures",
+        "rise",
+        "sharply",
+        "curls",
+        "daytime",
+        "prevent",
+        "ball"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +322,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "scurrying",
+        "spines",
+        "adept",
+        "attacking",
+        "quickly"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +340,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spiny",
+        "curled",
+        "threatened",
+        "roll",
+        "curls",
+        "escape",
+        "ball"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +358,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inflict",
+        "severe",
+        "damage",
+        "curls",
+        "spines",
+        "rolls"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +375,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inflict",
+        "severe",
+        "damage",
+        "curls",
+        "spines",
+        "rolls"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +392,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inflict",
+        "severe",
+        "damage",
+        "curls",
+        "spines",
+        "rolls"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +409,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "attempt",
+        "blinding",
+        "kick",
+        "dust",
+        "storm",
+        "top",
+        "run",
+        "hide"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +428,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "burrowing"
+      ],
+      "keywords": [
+        "pace",
+        "incredible",
+        "snap",
+        "digs",
+        "spikes"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +447,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inflict",
+        "severe",
+        "damage",
+        "curls",
+        "spines",
+        "rolls"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +464,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inflict",
+        "severe",
+        "damage",
+        "curls",
+        "spines",
+        "rolls"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +481,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hardened",
+        "rolls",
+        "hide",
+        "spikes"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +496,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hardened",
+        "rolls",
+        "hide",
+        "spikes"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +511,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "burrowing"
+      ],
+      "keywords": [
+        "pace",
+        "incredible",
+        "snap",
+        "digs",
+        "spikes"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +530,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spiny",
+        "curled",
+        "threatened",
+        "roll",
+        "curls",
+        "escape",
+        "ball"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +548,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sandslash’s body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sections",
+        "replaced",
+        "ones",
+        "beneath",
+        "hardened",
+        "year",
+        "old",
+        "fall",
+        "hide",
+        "new",
+        "spikes",
+        "tough",
+        "covered"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +572,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pokémon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "stunned",
+        "jabbing",
+        "flinch",
+        "roll",
+        "tear",
+        "wildly",
+        "spines",
+        "leaps",
+        "try",
+        "spikes",
+        "ball",
+        "covered"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +597,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Although they are sharp, its claws and spikes often break off. They grow back the next day, so it is not bothered by the temporary loss.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "temporary",
+        "loss",
+        "bothered",
+        "next",
+        "break",
+        "spikes",
+        "although"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +617,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It uses its claws to climb trees and then curls its body into a spiny ball, ready to drop onto any prey that appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "spiny",
+        "ready",
+        "climb",
+        "curls",
+        "drop",
+        "onto",
+        "ball"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +639,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its claws and horns often break off. The broken claws and horns can be used to carve plows for tilling farm fields.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "horns"
+      ],
+      "keywords": [
+        "plows",
+        "tilling",
+        "farm",
+        "carve",
+        "broken",
+        "break",
+        "fields",
+        "horns"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +661,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Thanks to its thick claws, it’s good at climbing trees. There are plenty of Sandslash that park themselves in trees and go right to sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws",
+        "sleeping"
+      ],
+      "keywords": [
+        "park",
+        "climbing",
+        "plenty",
+        "thanks",
+        "themselves",
+        "right",
+        "good"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +683,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "slashing",
+        "start",
+        "broken",
+        "skilled"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +700,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "slashing",
+        "start",
+        "broken",
+        "skilled"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +717,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drier",
+        "smoother",
+        "touched",
+        "harder",
+        "feel",
+        "area",
+        "spikes"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +735,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "hooking",
+        "climbs",
+        "sandshrew",
+        "dropping",
+        "below",
+        "waiting",
+        "gathers",
+        "shares",
+        "berries"
+      ]
     }
   ],
   "similarPokemonIds": [

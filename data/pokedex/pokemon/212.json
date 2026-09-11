@@ -10,6 +10,81 @@
   ],
   "imagePath": "/assets/pokemon/212.png",
   "entryCount": 28,
+  "entryTraits": [
+    "wings",
+    "fiery",
+    "shell"
+  ],
+  "entryKeywords": [
+    "account",
+    "ahold",
+    "forged",
+    "bulky",
+    "upraising",
+    "scare",
+    "flapped",
+    "suited",
+    "third",
+    "dangerously",
+    "smashing",
+    "grabbing",
+    "fazed",
+    "item",
+    "ordinary",
+    "otherwise",
+    "patterned",
+    "regulate",
+    "shown",
+    "adjust",
+    "identified",
+    "scraps",
+    "bits",
+    "eyelike",
+    "markings",
+    "beating",
+    "hardness",
+    "mercilessly",
+    "tremendous",
+    "intimidation",
+    "slim",
+    "smashes",
+    "continue",
+    "curious",
+    "sorts",
+    "intimidates",
+    "hold",
+    "contain",
+    "weight",
+    "boulder",
+    "object",
+    "swings",
+    "melt",
+    "completely",
+    "crush",
+    "swing",
+    "evolved",
+    "metal",
+    "eye",
+    "covering",
+    "attacking",
+    "left",
+    "raises",
+    "single",
+    "flaps",
+    "nothing",
+    "pincers",
+    "something",
+    "look",
+    "stronger",
+    "tough",
+    "though",
+    "heat",
+    "hot",
+    "heavy",
+    "muscles",
+    "temperature",
+    "heads"
+  ],
   "color": "red",
   "shape": "bug-wings",
   "habitat": "grassland",
@@ -39,7 +114,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It swings its eye- patterned pincers up to scare its foes. This makes it look like it has three heads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scare",
+        "patterned",
+        "swings",
+        "eye",
+        "pincers",
+        "look",
+        "heads"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +132,15 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "flapped",
+        "adjust",
+        "temperature"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +148,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This POKéMON's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bits",
+        "hold",
+        "contain",
+        "object",
+        "crush",
+        "pincers"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +165,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fazed",
+        "ordinary",
+        "regulate",
+        "hardness",
+        "sorts",
+        "flaps",
+        "temperature"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +185,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fazed",
+        "ordinary",
+        "regulate",
+        "hardness",
+        "sorts",
+        "flaps",
+        "temperature"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +205,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fazed",
+        "ordinary",
+        "regulate",
+        "hardness",
+        "sorts",
+        "flaps",
+        "temperature"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +225,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "flapped",
+        "adjust",
+        "temperature"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +241,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scare",
+        "patterned",
+        "swings",
+        "eye",
+        "pincers",
+        "look",
+        "heads"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +259,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "upraising",
+        "patterned",
+        "intimidates",
+        "eye",
+        "pincers"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +275,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "upraising",
+        "patterned",
+        "intimidates",
+        "eye",
+        "pincers"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +291,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dangerously",
+        "eyelike",
+        "markings",
+        "intimidation",
+        "swings",
+        "raises",
+        "pincers"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +309,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scare",
+        "patterned",
+        "swings",
+        "eye",
+        "pincers",
+        "look",
+        "heads"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +327,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "flapped",
+        "adjust",
+        "temperature"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +343,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dangerously",
+        "eyelike",
+        "markings",
+        "intimidation",
+        "swings",
+        "raises",
+        "pincers"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +361,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dangerously",
+        "eyelike",
+        "markings",
+        "intimidation",
+        "swings",
+        "raises",
+        "pincers"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +379,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dangerously",
+        "eyelike",
+        "markings",
+        "intimidation",
+        "swings",
+        "raises",
+        "pincers"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +397,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dangerously",
+        "eyelike",
+        "markings",
+        "intimidation",
+        "swings",
+        "raises",
+        "pincers"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +415,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This Pokémon’s pincers, which contain steel, can crush any hard object it gets ahold of into bits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ahold",
+        "bits",
+        "contain",
+        "object",
+        "crush",
+        "pincers"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +432,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "upraising",
+        "patterned",
+        "intimidates",
+        "eye",
+        "pincers"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +448,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fazed",
+        "ordinary",
+        "regulate",
+        "hardness",
+        "sorts",
+        "flaps",
+        "temperature"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +468,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fazed",
+        "ordinary",
+        "regulate",
+        "hardness",
+        "sorts",
+        "flaps",
+        "temperature"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +488,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It uses its wings to adjust its body temperature. Otherwise, its metal body would become too hot and melt in the heat of battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "fiery"
+      ],
+      "keywords": [
+        "otherwise",
+        "adjust",
+        "melt",
+        "metal",
+        "heat",
+        "hot",
+        "temperature"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +509,14 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "identified",
+        "mercilessly",
+        "smashes",
+        "pincers"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +524,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "suited",
+        "smashing",
+        "grabbing",
+        "pincers",
+        "tough",
+        "heavy"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +541,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there’s nothing left but scraps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "identified",
+        "scraps",
+        "beating",
+        "continue",
+        "left",
+        "nothing",
+        "pincers",
+        "something"
+      ]
     },
     {
       "versionId": 33,
@@ -239,7 +560,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Bulky pincers account for one third of Scizor’s body weight. A single swing of one of these pincers will crush a boulder completely.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "account",
+        "bulky",
+        "third",
+        "weight",
+        "boulder",
+        "completely",
+        "crush",
+        "swing",
+        "single",
+        "pincers"
+      ]
     },
     {
       "versionId": 34,
@@ -247,7 +581,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Though its body is slim, Scizor has tremendous attacking power. Even Scizor’s muscles are made of metal.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "tremendous",
+        "slim",
+        "metal",
+        "attacking",
+        "though",
+        "muscles"
+      ]
     },
     {
       "versionId": 39,
@@ -255,7 +598,19 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "forged",
+        "item",
+        "shown",
+        "curious",
+        "evolved",
+        "covering",
+        "stronger"
+      ]
     }
   ],
   "similarPokemonIds": [

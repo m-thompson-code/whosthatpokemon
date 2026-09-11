@@ -9,6 +9,79 @@
   ],
   "imagePath": "/assets/pokemon/446.png",
   "entryCount": 20,
+  "entryTraits": [
+    "fur"
+  ],
+  "entryKeywords": [
+    "disturbance",
+    "fatter",
+    "indifferent",
+    "nonchalantly",
+    "tasteless",
+    "wolfs",
+    "yummy",
+    "ahead",
+    "compost",
+    "concerned",
+    "edible",
+    "stuffing",
+    "carts",
+    "concern",
+    "frequent",
+    "handle",
+    "stash",
+    "rotted",
+    "villages",
+    "desperation",
+    "pays",
+    "robust",
+    "trusts",
+    "flavor",
+    "fresh",
+    "gone",
+    "chewing",
+    "visits",
+    "intended",
+    "devour",
+    "scraps",
+    "stinky",
+    "vast",
+    "consume",
+    "rotten",
+    "whether",
+    "gulp",
+    "swallow",
+    "swallowing",
+    "conceals",
+    "amounts",
+    "really",
+    "weight",
+    "forgets",
+    "might",
+    "allows",
+    "why",
+    "share",
+    "needs",
+    "seeking",
+    "beneath",
+    "hidden",
+    "swallows",
+    "hair",
+    "care",
+    "right",
+    "stomach",
+    "bite",
+    "finds",
+    "almost",
+    "matter",
+    "far",
+    "something",
+    "causes",
+    "tough",
+    "hides",
+    "stores",
+    "whole"
+  ],
   "color": "black",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +111,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wolfs",
+        "chewing",
+        "swallowing",
+        "weight",
+        "almost",
+        "whole"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +128,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It hides food under its long body hair. However, it forgets it has hidden the food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forgets",
+        "hidden",
+        "hair",
+        "hides"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +143,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "desperation",
+        "gulp",
+        "forgets",
+        "hidden"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +160,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "carts",
+        "stash",
+        "chewing",
+        "conceals",
+        "swallows"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +178,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "carts",
+        "stash",
+        "chewing",
+        "conceals",
+        "swallows"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +196,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "desperation",
+        "gulp",
+        "forgets",
+        "hidden"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +213,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "desperation",
+        "gulp",
+        "forgets",
+        "hidden"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +230,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "desperation",
+        "gulp",
+        "forgets",
+        "hidden"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +247,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "desperation",
+        "gulp",
+        "forgets",
+        "hidden"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +264,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It hides food under its long body hair. However, it forgets it has hidden the food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forgets",
+        "hidden",
+        "hair",
+        "hides"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +279,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "carts",
+        "stash",
+        "chewing",
+        "conceals",
+        "swallows"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +297,14 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It hides food under its long body hair. However, it forgets it has hidden the food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "forgets",
+        "hidden",
+        "hair",
+        "hides"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +312,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "carts",
+        "stash",
+        "chewing",
+        "conceals",
+        "swallows"
+      ]
     },
     {
       "versionId": 27,
@@ -142,7 +330,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It needs to consume its own weight in food every day. As far as flavor is concerned, it’s indifferent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "indifferent",
+        "concerned",
+        "flavor",
+        "consume",
+        "weight",
+        "needs",
+        "far"
+      ]
     },
     {
       "versionId": 28,
@@ -150,7 +348,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When it finds something that looks like it might be edible, it goes right ahead and swallows it whole. That’s why it gets fatter day by day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fatter",
+        "ahead",
+        "edible",
+        "might",
+        "why",
+        "swallows",
+        "right",
+        "finds",
+        "something",
+        "whole"
+      ]
     },
     {
       "versionId": 29,
@@ -158,7 +369,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It hides food under its long fur, but it sometimes forgets about it and causes a stinky disturbance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "disturbance",
+        "stinky",
+        "forgets",
+        "causes",
+        "hides"
+      ]
     },
     {
       "versionId": 30,
@@ -166,7 +387,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "edible",
+        "handle",
+        "gone",
+        "rotten",
+        "swallow",
+        "stomach",
+        "tough",
+        "whole"
+      ]
     },
     {
       "versionId": 33,
@@ -174,7 +406,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Stuffing itself with vast amounts of food is its only concern. Whether the food is rotten or fresh, yummy or tasteless—it does not care.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tasteless",
+        "yummy",
+        "stuffing",
+        "concern",
+        "fresh",
+        "vast",
+        "rotten",
+        "whether",
+        "amounts",
+        "care"
+      ]
     },
     {
       "versionId": 34,
@@ -182,7 +427,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It stores food beneath its fur. It might share just one bite, but only if it really trusts you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "trusts",
+        "really",
+        "might",
+        "share",
+        "beneath",
+        "bite",
+        "stores"
+      ]
     },
     {
       "versionId": 39,
@@ -190,7 +447,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nonchalantly",
+        "compost",
+        "frequent",
+        "rotted",
+        "villages",
+        "pays",
+        "robust",
+        "visits",
+        "intended",
+        "devour",
+        "scraps",
+        "allows",
+        "seeking",
+        "stomach",
+        "matter"
+      ]
     }
   ],
   "similarPokemonIds": [

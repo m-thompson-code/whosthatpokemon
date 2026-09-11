@@ -9,6 +9,78 @@
   ],
   "imagePath": "/assets/pokemon/223.png",
   "entryCount": 26,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "curacy",
+    "gun",
+    "prosperity",
+    "sniper",
+    "adaptation",
+    "ac",
+    "dangle",
+    "downstream",
+    "underside",
+    "abdominal",
+    "burmy",
+    "pad",
+    "velocity",
+    "misses",
+    "yards",
+    "scavenge",
+    "squirts",
+    "accuracy",
+    "expel",
+    "mouths",
+    "leftovers",
+    "scraps",
+    "attacker",
+    "fail",
+    "mantine",
+    "captures",
+    "swallowed",
+    "alongside",
+    "dorsal",
+    "forcefully",
+    "clings",
+    "suction",
+    "backward",
+    "expels",
+    "superb",
+    "feed",
+    "incredible",
+    "travels",
+    "draws",
+    "hit",
+    "sucks",
+    "300",
+    "approaches",
+    "fin",
+    "side",
+    "shoot",
+    "spits",
+    "shares",
+    "shooting",
+    "jet",
+    "branches",
+    "rivers",
+    "escape",
+    "strike",
+    "swim",
+    "avoid",
+    "shoots",
+    "near",
+    "100",
+    "force",
+    "attacked",
+    "moving",
+    "evolution",
+    "big",
+    "seas",
+    "muscles"
+  ],
   "color": "gray",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +111,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It has superb ac­ curacy. The water it shoots out can strike even moving prey from more than 300 feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "curacy",
+        "ac",
+        "superb",
+        "300",
+        "strike",
+        "shoots",
+        "moving"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +132,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Using its dorsal fin as a suction pad, it clings to a MANTINE's under­ side to scavenge for leftovers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pad",
+        "scavenge",
+        "leftovers",
+        "mantine",
+        "dorsal",
+        "clings",
+        "suction",
+        "fin",
+        "side"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +152,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "To escape from an attacker, it may shoot water out of its mouth, then use that force to swim backward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "attacker",
+        "backward",
+        "shoot",
+        "escape",
+        "swim",
+        "force"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +171,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "REMORAID sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this POKéMON travels downstream from rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "downstream",
+        "abdominal",
+        "velocity",
+        "expels",
+        "travels",
+        "draws",
+        "sucks",
+        "shoot",
+        "rivers",
+        "near",
+        "evolution",
+        "muscles"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +197,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "REMORAID sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this POKéMON travels downstream from rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "downstream",
+        "abdominal",
+        "velocity",
+        "expels",
+        "travels",
+        "draws",
+        "sucks",
+        "shoot",
+        "rivers",
+        "near",
+        "evolution",
+        "muscles"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +223,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A REMORAID uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "abdominal",
+        "expel",
+        "swallowed",
+        "forcefully",
+        "travels",
+        "approaches",
+        "shoot",
+        "rivers",
+        "evolution",
+        "muscles"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +247,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Using its dorsal fin as a suction pad, it clings to a MANTINE’s underside to scavenge for leftovers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "underside",
+        "pad",
+        "scavenge",
+        "leftovers",
+        "mantine",
+        "dorsal",
+        "clings",
+        "suction",
+        "fin"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +267,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 100 yards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "yards",
+        "accuracy",
+        "superb",
+        "strike",
+        "shoots",
+        "100",
+        "moving"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +288,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It squirts water forcefully from its mouth to shoot down flying prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "squirts",
+        "forcefully",
+        "shoot"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +305,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It clings to MANTINE to feed on the big Pokémon’s scraps. This is an adaptation to avoid foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "adaptation",
+        "scraps",
+        "mantine",
+        "clings",
+        "feed",
+        "avoid",
+        "big"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +323,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "misses",
+        "squirts",
+        "forcefully",
+        "jet"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +341,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has superb accuracy. The water it shoots out can strike moving prey from more than 300 feet away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "accuracy",
+        "superb",
+        "300",
+        "strike",
+        "shoots",
+        "moving"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +361,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Using its dorsal fin as a suction pad, it clings to a MANTINE’s underside to scavenge for leftovers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "underside",
+        "pad",
+        "scavenge",
+        "leftovers",
+        "mantine",
+        "dorsal",
+        "clings",
+        "suction",
+        "fin"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +381,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "misses",
+        "squirts",
+        "forcefully",
+        "jet"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +399,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "misses",
+        "squirts",
+        "forcefully",
+        "jet"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +417,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "mouths",
+        "hit",
+        "300",
+        "shoot",
+        "moving"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +436,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "mouths",
+        "hit",
+        "300",
+        "shoot",
+        "moving"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +455,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has superb accuracy. The water it shoots out can strike moving prey from more than 300 feet away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "accuracy",
+        "superb",
+        "300",
+        "strike",
+        "shoots",
+        "moving"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +475,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Using its dorsal fin as a suction pad, it clings to a Mantine’s underside to scavenge for leftovers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "underside",
+        "pad",
+        "scavenge",
+        "leftovers",
+        "mantine",
+        "dorsal",
+        "clings",
+        "suction",
+        "fin"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +495,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "downstream",
+        "abdominal",
+        "velocity",
+        "expels",
+        "travels",
+        "draws",
+        "sucks",
+        "shoot",
+        "rivers",
+        "near",
+        "evolution",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +521,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "downstream",
+        "abdominal",
+        "velocity",
+        "expels",
+        "travels",
+        "draws",
+        "sucks",
+        "shoot",
+        "rivers",
+        "near",
+        "evolution",
+        "muscles"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +547,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon clings to Mantine and shares in its prosperity. When its Mantine is attacked, Remoraid will fight alongside it!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "prosperity",
+        "mantine",
+        "alongside",
+        "clings",
+        "shares",
+        "attacked"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +564,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Also known as the “sniper of the seas,” its water gun can hit prey without fail from over 300 feet away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "gun",
+        "sniper",
+        "fail",
+        "hit",
+        "300",
+        "seas"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +584,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "mouths",
+        "hit",
+        "300",
+        "shoot",
+        "moving"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +603,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Using its dorsal fin as a suction pad, it clings to a Mantine’s underside to scavenge for leftovers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "underside",
+        "pad",
+        "scavenge",
+        "leftovers",
+        "mantine",
+        "dorsal",
+        "clings",
+        "suction",
+        "fin"
+      ]
     },
     {
       "versionId": 39,
@@ -239,7 +623,20 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Spits water from its mouth with incredible accuracy. It captures Burmy by shooting them down off the branches from which they dangle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dangle",
+        "burmy",
+        "accuracy",
+        "captures",
+        "incredible",
+        "spits",
+        "shooting",
+        "branches"
+      ]
     }
   ],
   "similarPokemonIds": [

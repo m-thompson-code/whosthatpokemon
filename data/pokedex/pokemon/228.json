@@ -10,6 +10,54 @@
   ],
   "imagePath": "/assets/pokemon/228.png",
   "entryCount": 23,
+  "entryTraits": [
+    "hunting",
+    "sonic",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "cooperates",
+    "howl",
+    "announce",
+    "pursuing",
+    "barks",
+    "echoes",
+    "repeated",
+    "unparalleled",
+    "coordinated",
+    "dawn",
+    "ominous",
+    "remarkable",
+    "attention",
+    "corner",
+    "partner",
+    "communicating",
+    "teamwork",
+    "works",
+    "conveys",
+    "eerie",
+    "howls",
+    "orders",
+    "call",
+    "obey",
+    "simply",
+    "loyal",
+    "location",
+    "variety",
+    "understand",
+    "skillfully",
+    "smart",
+    "cleverly",
+    "packs",
+    "check",
+    "hunt",
+    "kinds",
+    "pack",
+    "communicate",
+    "area",
+    "feelings",
+    "different"
+  ],
   "color": "black",
   "shape": "quadruped",
   "habitat": "rough-terrain",
@@ -39,7 +87,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "pursuing",
+        "communicating",
+        "kinds",
+        "different"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +105,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "To corner prey, they check each other's location using barks that only they can understand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "barks",
+        "corner",
+        "location",
+        "understand",
+        "check"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +123,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Around dawn, its ominous howl echoes through the area to announce that this is its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "howl",
+        "announce",
+        "echoes",
+        "dawn",
+        "ominous",
+        "area"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +142,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This POKéMON’s remarkable teamwork is unparalleled.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "unparalleled",
+        "coordinated",
+        "remarkable",
+        "corner",
+        "teamwork",
+        "variety",
+        "hunt",
+        "pack",
+        "communicate"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +165,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This POKéMON’s remarkable teamwork is unparalleled.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "unparalleled",
+        "coordinated",
+        "remarkable",
+        "corner",
+        "teamwork",
+        "variety",
+        "hunt",
+        "pack",
+        "communicate"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +188,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "HOUNDOUR communicate with each other using a variety of cries to corner their prey. This POKéMON’s remarkable teamwork is simply unparalleled.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "unparalleled",
+        "remarkable",
+        "corner",
+        "teamwork",
+        "simply",
+        "variety",
+        "communicate"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +209,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "To corner prey, they check each other’s location using barks that only they can understand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "barks",
+        "corner",
+        "location",
+        "understand",
+        "check"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +227,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It uses different kinds of cries for communicating with others of its kind and for pursuing prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "pursuing",
+        "communicating",
+        "kinds",
+        "different"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +245,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It conveys its feelings using different cries. It works in a pack to cleverly take down prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "works",
+        "conveys",
+        "cleverly",
+        "pack",
+        "feelings",
+        "different"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +265,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It conveys its feelings using different cries. It works in a pack to cleverly take down prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "works",
+        "conveys",
+        "cleverly",
+        "pack",
+        "feelings",
+        "different"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +285,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "communicating",
+        "variety",
+        "smart",
+        "packs",
+        "hunt"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +304,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "pursuing",
+        "communicating",
+        "kinds",
+        "different"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +322,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "To corner prey, they check each other’s location using barks that only they can understand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "barks",
+        "corner",
+        "location",
+        "understand",
+        "check"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +340,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "communicating",
+        "variety",
+        "smart",
+        "packs",
+        "hunt"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +359,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "communicating",
+        "variety",
+        "smart",
+        "packs",
+        "hunt"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +378,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "communicating",
+        "variety",
+        "smart",
+        "packs",
+        "hunt"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +397,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "communicating",
+        "variety",
+        "smart",
+        "packs",
+        "hunt"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +416,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Around dawn, its ominous howl echoes through the area to announce that this is its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "howl",
+        "announce",
+        "echoes",
+        "dawn",
+        "ominous",
+        "area"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +435,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "To corner prey, they check each other’s location using barks that only they can understand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "barks",
+        "corner",
+        "location",
+        "understand",
+        "check"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +453,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon’s remarkable teamwork is unparalleled.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "unparalleled",
+        "coordinated",
+        "remarkable",
+        "corner",
+        "teamwork",
+        "variety",
+        "hunt",
+        "pack",
+        "communicate"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +476,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon’s remarkable teamwork is unparalleled.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "unparalleled",
+        "coordinated",
+        "remarkable",
+        "corner",
+        "teamwork",
+        "variety",
+        "hunt",
+        "pack",
+        "communicate"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +499,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It cooperates with others skillfully. When it becomes your partner, it’s very loyal to you as its Trainer and will obey your orders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cooperates",
+        "partner",
+        "orders",
+        "obey",
+        "loyal",
+        "skillfully"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +516,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They make repeated eerie howls before dawn to call attention to their pack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "repeated",
+        "dawn",
+        "attention",
+        "eerie",
+        "howls",
+        "call",
+        "pack"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,46 @@
   ],
   "imagePath": "/assets/pokemon/527.png",
   "entryCount": 10,
+  "entryTraits": [
+    "aquatic",
+    "cave-dwelling",
+    "sleeping",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "lining",
+    "evidence",
+    "lots",
+    "searching",
+    "fortune",
+    "learn",
+    "cave",
+    "mark",
+    "flutters",
+    "marks",
+    "nostrils",
+    "suction",
+    "stick",
+    "attached",
+    "habitat",
+    "enables",
+    "left",
+    "bug",
+    "bring",
+    "ultrasonic",
+    "behind",
+    "caves",
+    "shaped",
+    "walls",
+    "forests",
+    "look",
+    "heart",
+    "dark",
+    "surroundings",
+    "nose",
+    "emits",
+    "good"
+  ],
   "color": "blue",
   "shape": "wings",
   "habitat": null,
@@ -40,7 +80,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "learn",
+        "habitat",
+        "ultrasonic",
+        "caves",
+        "forests",
+        "dark",
+        "surroundings",
+        "nose",
+        "emits"
+      ]
     },
     {
       "versionId": 18,
@@ -48,7 +102,23 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "cave",
+        "mark",
+        "nostrils",
+        "suction",
+        "stick",
+        "enables",
+        "behind",
+        "shaped",
+        "walls",
+        "heart"
+      ]
     },
     {
       "versionId": 21,
@@ -56,7 +126,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "mark",
+        "attached",
+        "left",
+        "bring",
+        "shaped",
+        "heart",
+        "good"
+      ]
     },
     {
       "versionId": 22,
@@ -64,7 +145,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "mark",
+        "attached",
+        "left",
+        "bring",
+        "shaped",
+        "heart",
+        "good"
+      ]
     },
     {
       "versionId": 23,
@@ -72,7 +164,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "learn",
+        "habitat",
+        "ultrasonic",
+        "caves",
+        "forests",
+        "dark",
+        "surroundings",
+        "nose",
+        "emits"
+      ]
     },
     {
       "versionId": 24,
@@ -80,7 +186,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "mark",
+        "attached",
+        "left",
+        "bring",
+        "shaped",
+        "heart",
+        "good"
+      ]
     },
     {
       "versionId": 25,
@@ -88,7 +205,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "learn",
+        "habitat",
+        "ultrasonic",
+        "caves",
+        "forests",
+        "dark",
+        "surroundings",
+        "nose",
+        "emits"
+      ]
     },
     {
       "versionId": 26,
@@ -96,7 +227,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fortune",
+        "mark",
+        "attached",
+        "left",
+        "bring",
+        "shaped",
+        "heart",
+        "good"
+      ]
     },
     {
       "versionId": 33,
@@ -104,7 +246,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it’s evidence that Woobat live there.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "lining",
+        "evidence",
+        "lots",
+        "cave",
+        "marks",
+        "shaped",
+        "walls",
+        "look",
+        "heart"
+      ]
     },
     {
       "versionId": 34,
@@ -112,7 +268,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "searching",
+        "flutters",
+        "bug",
+        "ultrasonic",
+        "emits"
+      ]
     }
   ],
   "similarPokemonIds": [

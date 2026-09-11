@@ -9,6 +9,40 @@
   ],
   "imagePath": "/assets/pokemon/491.png",
   "entryCount": 14,
+  "entryTraits": [
+    "nocturnal",
+    "sleeping",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "attested",
+    "inhabitants",
+    "suffered",
+    "villagers",
+    "nightmarish",
+    "slumbers",
+    "afflicts",
+    "incident",
+    "occurred",
+    "horrific",
+    "folklore",
+    "moonless",
+    "village",
+    "experience",
+    "nightmares",
+    "lull",
+    "harm",
+    "appeared",
+    "means",
+    "chases",
+    "dream",
+    "strange",
+    "causing",
+    "nights",
+    "moon",
+    "active",
+    "new"
+  ],
   "color": "black",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +72,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "lull",
+        "dream",
+        "nights",
+        "moon",
+        "active",
+        "new"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +92,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Folklore has it that on moonless nights, this Pokémon will make people see horrific nightmares.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "horrific",
+        "folklore",
+        "moonless",
+        "nightmares",
+        "nights"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +110,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "afflicts",
+        "nightmares",
+        "harm",
+        "means"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +125,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "territorial"
+      ],
+      "keywords": [
+        "nightmarish",
+        "slumbers",
+        "experience",
+        "chases",
+        "causing"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +144,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "territorial"
+      ],
+      "keywords": [
+        "nightmarish",
+        "slumbers",
+        "experience",
+        "chases",
+        "causing"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +163,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "afflicts",
+        "nightmares",
+        "harm",
+        "means"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +178,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "afflicts",
+        "nightmares",
+        "harm",
+        "means"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +193,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "afflicts",
+        "nightmares",
+        "harm",
+        "means"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +208,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "afflicts",
+        "nightmares",
+        "harm",
+        "means"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +223,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "territorial"
+      ],
+      "keywords": [
+        "nightmarish",
+        "slumbers",
+        "experience",
+        "chases",
+        "causing"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +242,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "lull",
+        "dream",
+        "nights",
+        "moon",
+        "active",
+        "new"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +262,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping",
+        "territorial"
+      ],
+      "keywords": [
+        "nightmarish",
+        "slumbers",
+        "experience",
+        "chases",
+        "causing"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +281,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "lull",
+        "dream",
+        "nights",
+        "moon",
+        "active",
+        "new"
+      ]
     },
     {
       "versionId": 39,
@@ -142,7 +301,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "On a moonless night, a strange incident occurred in which every one of a village's inhabitants suffered nightmares. The villagers attested that Darkrai appeared before them in these nightmares.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "attested",
+        "inhabitants",
+        "suffered",
+        "villagers",
+        "incident",
+        "occurred",
+        "moonless",
+        "village",
+        "nightmares",
+        "appeared",
+        "strange"
+      ]
     }
   ],
   "similarPokemonIds": [

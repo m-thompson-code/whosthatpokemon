@@ -9,6 +9,45 @@
   ],
   "imagePath": "/assets/pokemon/152.png",
   "entryCount": 21,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "bask",
+    "battlers",
+    "hu",
+    "midity",
+    "sunrays",
+    "perature",
+    "tem",
+    "becalms",
+    "cozy",
+    "pleasantly",
+    "bay",
+    "becalming",
+    "aromatic",
+    "sunbathe",
+    "gently",
+    "seek",
+    "battling",
+    "soak",
+    "creating",
+    "humidity",
+    "wafts",
+    "friendly",
+    "rays",
+    "determine",
+    "check",
+    "fragrance",
+    "docile",
+    "atmosphere",
+    "leaf",
+    "aroma",
+    "places",
+    "sun",
+    "sunlight",
+    "temperature"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -39,7 +78,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gently",
+        "soak",
+        "wafts",
+        "rays",
+        "docile",
+        "leaf",
+        "aroma",
+        "sun"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +97,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its pleasantly aromatic leaves have the ability to check the hu­ midity and tem­ perature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hu",
+        "midity",
+        "perature",
+        "tem",
+        "pleasantly",
+        "aromatic",
+        "check"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +115,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It loves to bask in the sunlight. It uses the leaf on its head to seek out warm places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bask",
+        "seek",
+        "leaf",
+        "places",
+        "sunlight"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +131,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "In battle, CHIKORITA waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling POKéMON and creating a cozy, friendly atmosphere all around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cozy",
+        "bay",
+        "becalming",
+        "battling",
+        "creating",
+        "wafts",
+        "friendly",
+        "fragrance",
+        "atmosphere",
+        "leaf"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +154,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "In battle, CHIKORITA waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling POKéMON and creating a cozy, friendly atmosphere all around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cozy",
+        "bay",
+        "becalming",
+        "battling",
+        "creating",
+        "wafts",
+        "friendly",
+        "fragrance",
+        "atmosphere",
+        "leaf"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +177,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "battlers",
+        "becalms",
+        "bay",
+        "creating",
+        "wafts",
+        "friendly",
+        "fragrance",
+        "atmosphere",
+        "leaf"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +199,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its pleasantly aromatic leaves have the ability to check the humidity and temperature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pleasantly",
+        "aromatic",
+        "humidity",
+        "check",
+        "temperature"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +215,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun’s rays.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gently",
+        "soak",
+        "wafts",
+        "rays",
+        "docile",
+        "leaf",
+        "aroma",
+        "sun"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +234,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunbathe",
+        "humidity",
+        "determine",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +250,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunbathe",
+        "humidity",
+        "determine",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +266,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunbathe",
+        "humidity",
+        "determine",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +282,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sunrays.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunrays",
+        "gently",
+        "soak",
+        "wafts",
+        "docile",
+        "leaf",
+        "aroma"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +300,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its pleasantly aromatic leaf has the ability to check humidity and temperature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pleasantly",
+        "aromatic",
+        "humidity",
+        "check",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +317,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunbathe",
+        "humidity",
+        "determine",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +333,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunbathe",
+        "humidity",
+        "determine",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +349,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunbathe",
+        "humidity",
+        "determine",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +365,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunbathe",
+        "humidity",
+        "determine",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +381,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gently",
+        "soak",
+        "wafts",
+        "rays",
+        "docile",
+        "leaf",
+        "aroma",
+        "sun"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +400,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sunbathe",
+        "humidity",
+        "determine",
+        "leaf",
+        "temperature"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +416,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cozy",
+        "bay",
+        "becalming",
+        "battling",
+        "creating",
+        "wafts",
+        "friendly",
+        "fragrance",
+        "atmosphere",
+        "leaf"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +439,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "cozy",
+        "bay",
+        "becalming",
+        "battling",
+        "creating",
+        "wafts",
+        "friendly",
+        "fragrance",
+        "atmosphere",
+        "leaf"
+      ]
     }
   ],
   "similarPokemonIds": [

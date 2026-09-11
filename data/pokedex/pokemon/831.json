@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/831.png",
   "entryCount": 2,
+  "entryTraits": [
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "cushion",
+    "curly",
+    "cliff",
+    "cloth",
+    "unharmed",
+    "effective",
+    "fleece",
+    "surprisingly",
+    "wool",
+    "bottom",
+    "stand",
+    "right",
+    "fall",
+    "able",
+    "won"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +58,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "cushion",
+        "curly",
+        "cliff",
+        "unharmed",
+        "effective",
+        "fleece",
+        "bottom",
+        "stand",
+        "right",
+        "fall"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +81,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "cloth",
+        "fleece",
+        "surprisingly",
+        "wool",
+        "able",
+        "won"
+      ]
     }
   ],
   "similarPokemonIds": [

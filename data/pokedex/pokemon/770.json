@@ -10,6 +10,58 @@
   ],
   "imagePath": "/assets/pokemon/770.png",
   "entryCount": 6,
+  "entryTraits": [
+    "desert-dwelling",
+    "hunting",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "drenched",
+    "essence",
+    "snatches",
+    "nightmare",
+    "vital",
+    "siphons",
+    "whipped",
+    "grains",
+    "halt",
+    "mound",
+    "masses",
+    "dried",
+    "controlled",
+    "drained",
+    "sandstorm",
+    "terrifying",
+    "possessed",
+    "beach",
+    "curse",
+    "alive",
+    "souls",
+    "controlling",
+    "pulls",
+    "castle",
+    "whose",
+    "maintain",
+    "vitality",
+    "hates",
+    "tracks",
+    "buried",
+    "transformed",
+    "sucks",
+    "grew",
+    "shape",
+    "beaches",
+    "beneath",
+    "evolved",
+    "ever",
+    "bones",
+    "rain",
+    "re",
+    "stronger",
+    "sand",
+    "still",
+    "heavy"
+  ],
   "color": "brown",
   "shape": "squiggle",
   "habitat": null,
@@ -39,7 +91,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "mound",
+        "controlled",
+        "possessed",
+        "curse",
+        "castle",
+        "transformed",
+        "grew",
+        "evolved",
+        "ever",
+        "stronger",
+        "sand"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +115,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "masses",
+        "dried",
+        "drained",
+        "castle",
+        "whose",
+        "vitality",
+        "buried",
+        "beneath",
+        "bones"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +135,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they’re still alive.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "essence",
+        "vital",
+        "siphons",
+        "grains",
+        "alive",
+        "re",
+        "sand",
+        "still"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +156,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "snatches",
+        "whipped",
+        "halt",
+        "sandstorm",
+        "terrifying",
+        "vitality",
+        "tracks"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +174,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "nightmare",
+        "beach",
+        "souls",
+        "controlling",
+        "pulls",
+        "sucks",
+        "sand"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +195,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon lives on beaches, but it hates water. Palossand can’t maintain its castle-like shape if it gets drenched by a heavy rain.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "drenched",
+        "castle",
+        "maintain",
+        "hates",
+        "shape",
+        "beaches",
+        "rain",
+        "heavy"
+      ]
     }
   ],
   "similarPokemonIds": [

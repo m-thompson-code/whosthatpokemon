@@ -9,6 +9,70 @@
   ],
   "imagePath": "/assets/pokemon/264.png",
   "entryCount": 20,
+  "entryTraits": [
+    "hunting",
+    "claws",
+    "fur"
+  ],
+  "entryKeywords": [
+    "shaving",
+    "winding",
+    "beeline",
+    "brushes",
+    "challenged",
+    "curving",
+    "evade",
+    "topping",
+    "halt",
+    "screeching",
+    "razor",
+    "exceedingly",
+    "obstacle",
+    "lines",
+    "roads",
+    "supple",
+    "dwelling",
+    "curved",
+    "pond",
+    "suit",
+    "paths",
+    "gently",
+    "angle",
+    "hairs",
+    "fails",
+    "hour",
+    "hunting",
+    "explosive",
+    "prized",
+    "facing",
+    "per",
+    "underwater",
+    "shed",
+    "line",
+    "leaps",
+    "catches",
+    "turn",
+    "straight",
+    "60",
+    "charges",
+    "bring",
+    "speeds",
+    "right",
+    "top",
+    "run",
+    "running",
+    "runs",
+    "mph",
+    "miles",
+    "spots",
+    "highly",
+    "tough",
+    "along",
+    "fast",
+    "capable",
+    "full",
+    "quickly"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +102,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This POKéMON is very challenged by gently curving roads.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "challenged",
+        "curving",
+        "evade",
+        "obstacle",
+        "lines",
+        "roads",
+        "gently",
+        "angle",
+        "facing",
+        "turn",
+        "straight",
+        "right",
+        "runs",
+        "full"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +127,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When hunting, LINOONE will make a beeline straight for the prey at a full run. While this POKéMON is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "beeline",
+        "topping",
+        "halt",
+        "screeching",
+        "hunting",
+        "turn",
+        "straight",
+        "60",
+        "run",
+        "mph",
+        "capable",
+        "full"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +152,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is exceedingly fast if it only has to run in a straight line. When it spots pond- dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "exceedingly",
+        "dwelling",
+        "pond",
+        "underwater",
+        "line",
+        "leaps",
+        "catches",
+        "straight",
+        "run",
+        "spots",
+        "fast",
+        "quickly"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +178,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When running in a straight line, it can top 60 miles per hour. However, it has a tough time with curved roads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roads",
+        "curved",
+        "hour",
+        "per",
+        "line",
+        "straight",
+        "60",
+        "top",
+        "running",
+        "miles",
+        "tough"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +200,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When running in a straight line, it can top 60 miles per hour. However, it has a tough time with curved roads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roads",
+        "curved",
+        "hour",
+        "per",
+        "line",
+        "straight",
+        "60",
+        "top",
+        "running",
+        "miles",
+        "tough"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +222,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fails",
+        "straight",
+        "60",
+        "charges",
+        "speeds",
+        "run",
+        "mph"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +242,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fails",
+        "straight",
+        "60",
+        "charges",
+        "speeds",
+        "run",
+        "mph"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +262,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fails",
+        "straight",
+        "60",
+        "charges",
+        "speeds",
+        "run",
+        "mph"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +282,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roads",
+        "curved",
+        "hour",
+        "line",
+        "straight",
+        "60",
+        "top",
+        "running",
+        "miles",
+        "tough"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +303,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roads",
+        "curved",
+        "hour",
+        "line",
+        "straight",
+        "60",
+        "top",
+        "running",
+        "miles",
+        "tough"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +324,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fails",
+        "straight",
+        "60",
+        "charges",
+        "speeds",
+        "run",
+        "mph"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +344,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fails",
+        "straight",
+        "60",
+        "charges",
+        "speeds",
+        "run",
+        "mph"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +364,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fails",
+        "straight",
+        "60",
+        "charges",
+        "speeds",
+        "run",
+        "mph"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +384,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fails",
+        "straight",
+        "60",
+        "charges",
+        "speeds",
+        "run",
+        "mph"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +404,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roads",
+        "curved",
+        "hour",
+        "line",
+        "straight",
+        "60",
+        "top",
+        "running",
+        "miles",
+        "tough"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +425,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "fails",
+        "straight",
+        "60",
+        "charges",
+        "speeds",
+        "run",
+        "mph"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +445,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pokémon is very challenged by gently curving roads.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "challenged",
+        "curving",
+        "evade",
+        "obstacle",
+        "lines",
+        "roads",
+        "gently",
+        "angle",
+        "facing",
+        "turn",
+        "straight",
+        "right",
+        "runs",
+        "full"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +470,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pokémon is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "beeline",
+        "topping",
+        "halt",
+        "screeching",
+        "hunting",
+        "turn",
+        "straight",
+        "60",
+        "run",
+        "mph",
+        "capable",
+        "full"
+      ]
     },
     {
       "versionId": 33,
@@ -182,7 +495,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its fur is strong and supple. Shaving brushes made with shed Linoone hairs are highly prized.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "shaving",
+        "brushes",
+        "supple",
+        "hairs",
+        "prized",
+        "shed",
+        "highly"
+      ]
     },
     {
       "versionId": 34,
@@ -190,7 +515,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "winding",
+        "razor",
+        "suit",
+        "paths",
+        "explosive",
+        "bring",
+        "running",
+        "along"
+      ]
     }
   ],
   "similarPokemonIds": [

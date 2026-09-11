@@ -10,6 +10,88 @@
   ],
   "imagePath": "/assets/pokemon/085.png",
   "entryCount": 26,
+  "entryTraits": [
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "respectively",
+    "severely",
+    "wisely",
+    "decide",
+    "lungs",
+    "prairies",
+    "separate",
+    "immobility",
+    "pecked",
+    "plans",
+    "awake",
+    "squabbling",
+    "breed",
+    "immobilized",
+    "plains",
+    "execute",
+    "wary",
+    "aren",
+    "data",
+    "grassy",
+    "represent",
+    "doduo",
+    "peculiar",
+    "complex",
+    "satisfied",
+    "collects",
+    "rainfall",
+    "distances",
+    "splits",
+    "anger",
+    "sadness",
+    "vigorously",
+    "directions",
+    "watch",
+    "hearts",
+    "40",
+    "peck",
+    "guard",
+    "races",
+    "unique",
+    "2",
+    "joy",
+    "rest",
+    "parts",
+    "state",
+    "second",
+    "seasons",
+    "think",
+    "stay",
+    "looking",
+    "sets",
+    "don",
+    "stays",
+    "nearly",
+    "arid",
+    "sign",
+    "sure",
+    "brains",
+    "evolves",
+    "species",
+    "odd",
+    "fall",
+    "rarely",
+    "running",
+    "near",
+    "little",
+    "runs",
+    "mph",
+    "stop",
+    "across",
+    "capable",
+    "well",
+    "takes",
+    "close",
+    "apparently",
+    "eat",
+    "heads"
+  ],
   "color": "brown",
   "shape": "legs",
   "habitat": "grassland",
@@ -39,7 +121,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "plans",
+        "awake",
+        "execute",
+        "complex",
+        "stays",
+        "brains",
+        "heads"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +141,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "plans",
+        "awake",
+        "execute",
+        "complex",
+        "stays",
+        "brains",
+        "heads"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +161,21 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "One of DODUO's 2 heads splits to form a unique species. It runs close to 40 MPH in prairies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "prairies",
+        "doduo",
+        "splits",
+        "40",
+        "unique",
+        "2",
+        "species",
+        "runs",
+        "mph",
+        "close",
+        "heads"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +183,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It collects data and plans three times as wisely, but it may think too much and be­ come immobilized.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wisely",
+        "plans",
+        "immobilized",
+        "data",
+        "collects",
+        "think"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +200,15 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squabbling",
+        "satisfied",
+        "stop",
+        "eat",
+        "heads"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +216,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "severely",
+        "pecked",
+        "second",
+        "takes",
+        "heads"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +232,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Watch out if DODRIO’s three heads are looking in three separate directions. It’s a sure sign that it is on its guard. Don’t go near this POKéMON if it’s being wary - it may decide to peck you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "decide",
+        "separate",
+        "wary",
+        "directions",
+        "watch",
+        "peck",
+        "guard",
+        "looking",
+        "don",
+        "sign",
+        "sure",
+        "near",
+        "heads"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +256,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Apparently, the heads aren’t the only parts of the body that DODRIO has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lungs",
+        "aren",
+        "distances",
+        "hearts",
+        "rest",
+        "parts",
+        "sets",
+        "running",
+        "capable",
+        "well",
+        "apparently",
+        "heads"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +279,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A peculiar POKéMON species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "plains",
+        "grassy",
+        "peculiar",
+        "rainfall",
+        "vigorously",
+        "races",
+        "seasons",
+        "arid",
+        "species",
+        "little",
+        "across",
+        "heads"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +302,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "respectively",
+        "represent",
+        "anger",
+        "sadness",
+        "joy",
+        "species",
+        "odd",
+        "rarely",
+        "heads"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +322,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Uses its three brains to execute complex plans. While two heads sleep, one head is said to stay awake.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "plans",
+        "awake",
+        "execute",
+        "complex",
+        "stay",
+        "brains",
+        "heads"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +342,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breed",
+        "doduo",
+        "splits",
+        "40",
+        "nearly",
+        "evolves",
+        "odd",
+        "runs",
+        "mph",
+        "heads"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +363,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breed",
+        "doduo",
+        "splits",
+        "40",
+        "nearly",
+        "evolves",
+        "odd",
+        "runs",
+        "mph",
+        "heads"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +384,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breed",
+        "doduo",
+        "splits",
+        "40",
+        "nearly",
+        "evolves",
+        "odd",
+        "runs",
+        "mph",
+        "heads"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +405,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It collects data and plans three times as wisely, but it may think too much and fall into a state of immobility.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wisely",
+        "immobility",
+        "plans",
+        "data",
+        "collects",
+        "state",
+        "think",
+        "fall"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +424,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "squabbling",
+        "satisfied",
+        "stop",
+        "eat",
+        "heads"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +440,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breed",
+        "doduo",
+        "splits",
+        "40",
+        "nearly",
+        "evolves",
+        "odd",
+        "runs",
+        "mph",
+        "heads"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +461,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breed",
+        "doduo",
+        "splits",
+        "40",
+        "nearly",
+        "evolves",
+        "odd",
+        "runs",
+        "mph",
+        "heads"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +482,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breed",
+        "doduo",
+        "splits",
+        "40",
+        "nearly",
+        "evolves",
+        "odd",
+        "runs",
+        "mph",
+        "heads"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +503,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breed",
+        "doduo",
+        "splits",
+        "40",
+        "nearly",
+        "evolves",
+        "odd",
+        "runs",
+        "mph",
+        "heads"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +524,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "severely",
+        "pecked",
+        "second",
+        "takes",
+        "heads"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +540,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "respectively",
+        "represent",
+        "anger",
+        "sadness",
+        "joy",
+        "species",
+        "odd",
+        "rarely",
+        "heads"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +560,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Watch out if Dodrio’s three heads are looking in three separate directions. It’s a sure sign that it is on its guard. Don’t go near this Pokémon if it’s being wary—it may decide to peck you.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "decide",
+        "separate",
+        "wary",
+        "directions",
+        "watch",
+        "peck",
+        "guard",
+        "looking",
+        "don",
+        "sign",
+        "sure",
+        "near",
+        "heads"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +584,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Apparently, the heads aren’t the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lungs",
+        "aren",
+        "distances",
+        "hearts",
+        "rest",
+        "parts",
+        "sets",
+        "running",
+        "capable",
+        "well",
+        "apparently",
+        "heads"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +607,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "prairies",
+        "doduo",
+        "splits",
+        "40",
+        "unique",
+        "species",
+        "runs",
+        "mph",
+        "close",
+        "heads"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +628,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "prairies",
+        "doduo",
+        "splits",
+        "40",
+        "unique",
+        "species",
+        "runs",
+        "mph",
+        "close",
+        "heads"
+      ]
     }
   ],
   "similarPokemonIds": [

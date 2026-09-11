@@ -9,6 +9,54 @@
   ],
   "imagePath": "/assets/pokemon/800.png",
   "entryCount": 6,
+  "entryTraits": [
+    "cave-dwelling",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "darken",
+    "extraordinarily",
+    "pained",
+    "accumulated",
+    "darkens",
+    "devouring",
+    "impurities",
+    "rages",
+    "slumbering",
+    "spent",
+    "reminiscent",
+    "laser",
+    "beasts",
+    "survives",
+    "firing",
+    "absorbing",
+    "pieces",
+    "somehow",
+    "rampage",
+    "ultra",
+    "cut",
+    "isn",
+    "disposition",
+    "serves",
+    "source",
+    "beams",
+    "stops",
+    "needs",
+    "seeking",
+    "build",
+    "survive",
+    "vicious",
+    "causing",
+    "asleep",
+    "within",
+    "constantly",
+    "another",
+    "underground",
+    "thought",
+    "search",
+    "moving",
+    "apparently"
+  ],
   "color": "black",
   "shape": "arms",
   "habitat": null,
@@ -38,7 +86,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Reminiscent of the Ultra Beasts, this life-form, apparently asleep underground, is thought to have come from another world in ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "reminiscent",
+        "beasts",
+        "ultra",
+        "asleep",
+        "another",
+        "underground",
+        "thought",
+        "apparently"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +107,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Light is apparently the source of its energy. It has an extraordinarily vicious disposition and is constantly firing off laser beams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "extraordinarily",
+        "laser",
+        "firing",
+        "disposition",
+        "source",
+        "beams",
+        "vicious",
+        "constantly",
+        "apparently"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +129,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It looks somehow pained as it rages around in search of light, which serves as its energy. It’s apparently from another world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "pained",
+        "rages",
+        "somehow",
+        "serves",
+        "another",
+        "search",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +149,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Light is the source of its energy. If it isn’t devouring light, impurities build up in it and on it, and Necrozma darkens and stops moving.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "darkens",
+        "devouring",
+        "impurities",
+        "isn",
+        "source",
+        "stops",
+        "build",
+        "moving"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +170,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It survives by absorbing light. After a long time spent slumbering underground, impurities accumulated within it, causing its body to darken.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "darken",
+        "accumulated",
+        "impurities",
+        "slumbering",
+        "spent",
+        "survives",
+        "absorbing",
+        "causing",
+        "within",
+        "underground"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +194,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "laser",
+        "pieces",
+        "rampage",
+        "cut",
+        "beams",
+        "needs",
+        "seeking",
+        "survive"
+      ]
     }
   ],
   "similarPokemonIds": [

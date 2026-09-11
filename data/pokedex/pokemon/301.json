@@ -9,6 +9,61 @@
   ],
   "imagePath": "/assets/pokemon/301.png",
   "entryCount": 18,
+  "entryTraits": [
+    "sleeping",
+    "nocturnal",
+    "fur"
+  ],
+  "entryKeywords": [
+    "competition",
+    "random",
+    "trend",
+    "permanent",
+    "routines",
+    "unfettered",
+    "conscious",
+    "groom",
+    "pleases",
+    "decides",
+    "existence",
+    "lair",
+    "style",
+    "sublime",
+    "pace",
+    "anywhere",
+    "else",
+    "wants",
+    "simply",
+    "dusk",
+    "habitually",
+    "comfortable",
+    "daily",
+    "female",
+    "nocturnal",
+    "somewhere",
+    "rather",
+    "keeping",
+    "dislikes",
+    "approach",
+    "whenever",
+    "seeks",
+    "completely",
+    "searches",
+    "dirty",
+    "favorite",
+    "clean",
+    "do",
+    "popular",
+    "reason",
+    "prefers",
+    "active",
+    "among",
+    "place",
+    "spots",
+    "highly",
+    "sleeps",
+    "places"
+  ],
   "color": "purple",
   "shape": "quadruped",
   "habitat": "forest",
@@ -39,7 +94,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POKéMON eats and sleeps whenever it decides, its daily routines are completely random.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "random",
+        "routines",
+        "unfettered",
+        "pleases",
+        "decides",
+        "existence",
+        "pace",
+        "daily",
+        "whenever",
+        "completely",
+        "do",
+        "prefers",
+        "sleeps"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +120,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DELCATTY sleeps anywhere it wants without keeping a permanent nest. If other POKéMON approach it as it sleeps, this POKéMON will never fight - it will just move away somewhere else.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "permanent",
+        "anywhere",
+        "else",
+        "wants",
+        "somewhere",
+        "keeping",
+        "approach",
+        "sleeps"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +141,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "permanent",
+        "lair",
+        "dusk",
+        "habitually",
+        "comfortable",
+        "nocturnal",
+        "rather",
+        "keeping",
+        "seeks",
+        "active",
+        "spots",
+        "sleeps"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +167,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The favorite of trend-conscious female TRAINERS, they are used in competition for their style and fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "competition",
+        "trend",
+        "conscious",
+        "style",
+        "female",
+        "favorite"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +186,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The favorite of trend-conscious female TRAINERS, they are used in competition for their style and fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "competition",
+        "trend",
+        "conscious",
+        "style",
+        "female",
+        "favorite"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +205,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "female",
+        "popular",
+        "among",
+        "highly"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +223,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "female",
+        "popular",
+        "among",
+        "highly"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +241,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "female",
+        "popular",
+        "among",
+        "highly"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +259,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "groom",
+        "comfortable",
+        "dislikes",
+        "searches",
+        "dirty",
+        "place",
+        "places"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +277,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "groom",
+        "comfortable",
+        "dislikes",
+        "searches",
+        "dirty",
+        "place",
+        "places"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +295,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "female",
+        "popular",
+        "among",
+        "highly"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +313,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "female",
+        "popular",
+        "among",
+        "highly"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +331,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The reason it does not have a nest is that it simply searches for a clean, comfortable place then sleeps there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "simply",
+        "comfortable",
+        "searches",
+        "clean",
+        "reason",
+        "place",
+        "sleeps"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +351,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The reason it does not have a nest is that it simply searches for a clean, comfortable place then sleeps there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "simply",
+        "comfortable",
+        "searches",
+        "clean",
+        "reason",
+        "place",
+        "sleeps"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +371,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "groom",
+        "comfortable",
+        "dislikes",
+        "searches",
+        "dirty",
+        "place",
+        "places"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +389,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "female",
+        "popular",
+        "among",
+        "highly"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +407,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "random",
+        "routines",
+        "unfettered",
+        "pleases",
+        "decides",
+        "existence",
+        "pace",
+        "daily",
+        "whenever",
+        "completely",
+        "do",
+        "prefers",
+        "sleeps"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +433,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "permanent",
+        "anywhere",
+        "else",
+        "wants",
+        "somewhere",
+        "keeping",
+        "approach",
+        "sleeps"
+      ]
     }
   ],
   "similarPokemonIds": [

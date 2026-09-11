@@ -9,6 +9,72 @@
   ],
   "imagePath": "/assets/pokemon/030.png",
   "entryCount": 28,
+  "entryTraits": [
+    "horns",
+    "burrowing",
+    "sonic",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "assault",
+    "band",
+    "izes",
+    "poked",
+    "chorus",
+    "paste",
+    "atrophied",
+    "hurting",
+    "retract",
+    "befuddle",
+    "slower",
+    "develop",
+    "relaxed",
+    "injury",
+    "caring",
+    "clawing",
+    "family",
+    "nidorino",
+    "tucked",
+    "chews",
+    "develops",
+    "resting",
+    "physical",
+    "thorns",
+    "threatened",
+    "temperament",
+    "proof",
+    "separated",
+    "feeding",
+    "nervous",
+    "gentle",
+    "female",
+    "offspring",
+    "biting",
+    "tender",
+    "slowly",
+    "burrow",
+    "barbs",
+    "spits",
+    "mother",
+    "prevent",
+    "happens",
+    "calm",
+    "docile",
+    "raises",
+    "children",
+    "young",
+    "friends",
+    "first",
+    "group",
+    "ultrasonic",
+    "prefers",
+    "emits",
+    "thought",
+    "won",
+    "nature",
+    "horns",
+    "horn"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +104,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "clawing",
+        "develops",
+        "physical",
+        "female",
+        "biting",
+        "slowly",
+        "prefers",
+        "horn"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +125,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "clawing",
+        "develops",
+        "physical",
+        "female",
+        "biting",
+        "slowly",
+        "prefers",
+        "horn"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +146,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "retract",
+        "relaxed",
+        "resting",
+        "thorns",
+        "proof",
+        "burrow"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +165,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "When feeding its young, it first chews and tender­ izes the food, then spits it out for the offspring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "izes",
+        "chews",
+        "feeding",
+        "offspring",
+        "tender",
+        "spits",
+        "young",
+        "first"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +184,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "caring",
+        "slowly",
+        "calm",
+        "prefers",
+        "nature",
+        "horn"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +203,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It has a docile nature. If it is threatened with attack, it raises the barbs that are all over its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "threatened",
+        "barbs",
+        "docile",
+        "raises",
+        "nature"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +219,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "hurting",
+        "family",
+        "tucked",
+        "separated",
+        "nervous",
+        "barbs",
+        "prevent",
+        "friends"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +238,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "hurting",
+        "family",
+        "tucked",
+        "separated",
+        "nervous",
+        "barbs",
+        "prevent",
+        "friends"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +257,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "injury",
+        "family",
+        "tucked",
+        "separated",
+        "nervous",
+        "barbs",
+        "prevent",
+        "friends"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +276,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "befuddle",
+        "temperament",
+        "gentle",
+        "female",
+        "ultrasonic",
+        "emits"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +295,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The female’s horns develop slowly. Prefers physical attacks such as clawing and biting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "develop",
+        "clawing",
+        "physical",
+        "female",
+        "biting",
+        "slowly",
+        "prefers",
+        "horns"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +316,14 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slower",
+        "nidorino",
+        "barbs",
+        "raises"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +331,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slower",
+        "nidorino",
+        "barbs",
+        "raises"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +346,14 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slower",
+        "nidorino",
+        "barbs",
+        "raises"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +361,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "paste",
+        "chews",
+        "feeding",
+        "offspring",
+        "spits",
+        "young",
+        "first"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +379,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "caring",
+        "slowly",
+        "calm",
+        "prefers",
+        "nature",
+        "horn"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +398,14 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slower",
+        "nidorino",
+        "barbs",
+        "raises"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +413,14 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slower",
+        "nidorino",
+        "barbs",
+        "raises"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +428,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slower",
+        "nidorino",
+        "barbs",
+        "raises"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +443,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino’s.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slower",
+        "nidorino",
+        "barbs",
+        "raises"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +458,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "befuddle",
+        "temperament",
+        "gentle",
+        "female",
+        "ultrasonic",
+        "emits"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +477,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "paste",
+        "chews",
+        "feeding",
+        "offspring",
+        "spits",
+        "young",
+        "first"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +495,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "hurting",
+        "family",
+        "tucked",
+        "separated",
+        "nervous",
+        "barbs",
+        "prevent",
+        "friends"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +514,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "hurting",
+        "family",
+        "tucked",
+        "separated",
+        "nervous",
+        "barbs",
+        "prevent",
+        "friends"
+      ]
     },
     {
       "versionId": 31,
@@ -230,7 +533,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "retract",
+        "relaxed",
+        "resting",
+        "proof",
+        "burrow",
+        "barbs"
+      ]
     },
     {
       "versionId": 32,
@@ -238,7 +552,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "retract",
+        "relaxed",
+        "resting",
+        "proof",
+        "burrow",
+        "barbs"
+      ]
     },
     {
       "versionId": 33,
@@ -246,7 +571,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "poked",
+        "atrophied",
+        "feeding",
+        "mother",
+        "happens",
+        "children",
+        "thought",
+        "won",
+        "horn"
+      ]
     },
     {
       "versionId": 34,
@@ -254,7 +593,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "assault",
+        "band",
+        "chorus",
+        "threatened",
+        "group",
+        "ultrasonic"
+      ]
     }
   ],
   "similarPokemonIds": [

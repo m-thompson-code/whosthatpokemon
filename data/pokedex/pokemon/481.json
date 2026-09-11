@@ -9,6 +9,40 @@
   ],
   "imagePath": "/assets/pokemon/481.png",
   "entryCount": 14,
+  "entryTraits": [
+    "aquatic",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "disrespect",
+    "showed",
+    "disarray",
+    "nobility",
+    "sorrow",
+    "endowed",
+    "emotion",
+    "taught",
+    "lake",
+    "learned",
+    "thrown",
+    "flew",
+    "sadness",
+    "joy",
+    "legend",
+    "feared",
+    "leave",
+    "pain",
+    "bottom",
+    "birth",
+    "humans",
+    "heart",
+    "emotions",
+    "human",
+    "surface",
+    "living",
+    "sleeps",
+    "spirit"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +72,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nobility",
+        "sorrow",
+        "emotion",
+        "taught",
+        "joy",
+        "pain",
+        "humans"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +90,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "lake",
+        "leave",
+        "bottom",
+        "surface",
+        "sleeps",
+        "spirit"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +110,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "learned",
+        "flew",
+        "sadness",
+        "joy",
+        "birth",
+        "emotions",
+        "living"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +128,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon is said to have endowed the human heart with emotions, such as sorrow and joy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sorrow",
+        "endowed",
+        "joy",
+        "heart",
+        "emotions",
+        "human"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +145,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon is said to have endowed the human heart with emotions, such as sorrow and joy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sorrow",
+        "endowed",
+        "joy",
+        "heart",
+        "emotions",
+        "human"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +162,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "learned",
+        "flew",
+        "sadness",
+        "joy",
+        "birth",
+        "emotions",
+        "living"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +180,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "learned",
+        "flew",
+        "sadness",
+        "joy",
+        "birth",
+        "emotions",
+        "living"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +198,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "learned",
+        "flew",
+        "sadness",
+        "joy",
+        "birth",
+        "emotions",
+        "living"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +216,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "learned",
+        "flew",
+        "sadness",
+        "joy",
+        "birth",
+        "emotions",
+        "living"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +234,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nobility",
+        "sorrow",
+        "emotion",
+        "taught",
+        "joy",
+        "pain",
+        "humans"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +252,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "lake",
+        "leave",
+        "bottom",
+        "surface",
+        "sleeps",
+        "spirit"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +272,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nobility",
+        "sorrow",
+        "emotion",
+        "taught",
+        "joy",
+        "pain",
+        "humans"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +290,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "lake",
+        "leave",
+        "bottom",
+        "surface",
+        "sleeps",
+        "spirit"
+      ]
     },
     {
       "versionId": 39,
@@ -142,7 +310,18 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Known as the Being of Emotion. In legend, this Pokémon was feared, as any who showed disrespect would have their emotions thrown into disarray.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disrespect",
+        "showed",
+        "disarray",
+        "emotion",
+        "thrown",
+        "legend",
+        "feared",
+        "emotions"
+      ]
     }
   ],
   "similarPokemonIds": [

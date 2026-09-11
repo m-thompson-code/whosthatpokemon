@@ -9,6 +9,67 @@
   ],
   "imagePath": "/assets/pokemon/263.png",
   "entryCount": 20,
+  "entryTraits": [
+    "forest-dwelling",
+    "territorial",
+    "fur"
+  ],
+  "entryKeywords": [
+    "acquired",
+    "friendlier",
+    "native",
+    "zigzags",
+    "calmer",
+    "bristly",
+    "distinguished",
+    "restlessly",
+    "zags",
+    "zigs",
+    "interested",
+    "curiosity",
+    "abundant",
+    "fool",
+    "interest",
+    "likely",
+    "forth",
+    "markings",
+    "everywhere",
+    "footprints",
+    "items",
+    "outside",
+    "adapted",
+    "curious",
+    "ve",
+    "zigzag",
+    "fashion",
+    "territorial",
+    "rubbing",
+    "variety",
+    "marks",
+    "rubs",
+    "finding",
+    "wanders",
+    "galar",
+    "why",
+    "dead",
+    "play",
+    "regions",
+    "shows",
+    "happens",
+    "leave",
+    "find",
+    "hair",
+    "walks",
+    "appearance",
+    "something",
+    "everything",
+    "lost",
+    "against",
+    "nose",
+    "grass",
+    "search",
+    "good"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +99,16 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ZIGZAGOON restlessly wanders everywhere at all times. This POKéMON does so because it is very curious. It becomes interested in anything that it happens to see.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "restlessly",
+        "interested",
+        "everywhere",
+        "curious",
+        "wanders",
+        "happens"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +116,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "The hair on ZIGZAGOON’s back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This POKéMON may play dead to fool foes in battle.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bristly",
+        "fool",
+        "markings",
+        "territorial",
+        "rubs",
+        "dead",
+        "play",
+        "leave",
+        "hair",
+        "against"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +140,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "distinguished",
+        "forth",
+        "footprints",
+        "zigzag",
+        "rubbing",
+        "wanders",
+        "something",
+        "against",
+        "nose",
+        "search"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +161,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A POKéMON with abundant curiosity. It shows an interest in everything, so it always zigs and zags.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zags",
+        "zigs",
+        "curiosity",
+        "abundant",
+        "interest",
+        "shows",
+        "everything"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +179,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A POKéMON with abundant curiosity. It shows an interest in everything, so it always zigs and zags.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zags",
+        "zigs",
+        "curiosity",
+        "abundant",
+        "interest",
+        "shows",
+        "everything"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +197,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "items",
+        "zigzag",
+        "fashion",
+        "finding",
+        "walks",
+        "grass",
+        "good"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +215,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "items",
+        "zigzag",
+        "fashion",
+        "finding",
+        "walks",
+        "grass",
+        "good"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +233,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "items",
+        "zigzag",
+        "fashion",
+        "finding",
+        "walks",
+        "grass",
+        "good"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +251,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It gets interested in everything, which is why it zigs and zags. It is good at finding items.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zags",
+        "zigs",
+        "interested",
+        "items",
+        "finding",
+        "why",
+        "everything",
+        "good"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +270,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It gets interested in everything, which is why it zigs and zags. It is good at finding items.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zags",
+        "zigs",
+        "interested",
+        "items",
+        "finding",
+        "why",
+        "everything",
+        "good"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +289,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "items",
+        "zigzag",
+        "fashion",
+        "finding",
+        "walks",
+        "grass",
+        "good"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +307,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "items",
+        "zigzag",
+        "fashion",
+        "finding",
+        "walks",
+        "grass",
+        "good"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +325,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "items",
+        "zigzag",
+        "fashion",
+        "finding",
+        "walks",
+        "grass",
+        "good"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +343,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "items",
+        "zigzag",
+        "fashion",
+        "finding",
+        "walks",
+        "grass",
+        "good"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +361,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It walks in zigzag fashion. It’s good at finding items in the grass and even in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "items",
+        "zigzag",
+        "fashion",
+        "finding",
+        "walks",
+        "grass",
+        "good"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +379,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A Pokémon with abundant curiosity. It shows an interest in everything, so it always zigzags.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "zigzags",
+        "curiosity",
+        "abundant",
+        "interest",
+        "shows",
+        "everything"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +396,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "restlessly",
+        "interested",
+        "everywhere",
+        "curious",
+        "wanders",
+        "happens"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +413,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The hair on Zigzagoon’s back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pokémon may play dead to fool foes in battle.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bristly",
+        "fool",
+        "markings",
+        "territorial",
+        "rubs",
+        "dead",
+        "play",
+        "leave",
+        "hair",
+        "against"
+      ]
     },
     {
       "versionId": 33,
@@ -182,7 +437,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "fur",
+        "territorial"
+      ],
+      "keywords": [
+        "friendlier",
+        "native",
+        "calmer",
+        "bristly",
+        "rubbing",
+        "variety",
+        "marks",
+        "galar"
+      ]
     },
     {
       "versionId": 34,
@@ -190,7 +460,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "acquired",
+        "likely",
+        "outside",
+        "adapted",
+        "ve",
+        "galar",
+        "regions",
+        "find",
+        "appearance",
+        "something",
+        "lost"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,51 @@
   ],
   "imagePath": "/assets/pokemon/216.png",
   "entryCount": 22,
+  "entryTraits": [
+    "luminous"
+  ],
+  "entryKeywords": [
+    "hid",
+    "palm",
+    "amassed",
+    "concocts",
+    "wintertime",
+    "hoard",
+    "stealing",
+    "sweetened",
+    "blending",
+    "den",
+    "absorbed",
+    "scarce",
+    "tastes",
+    "beedrill",
+    "cunning",
+    "crescent",
+    "palms",
+    "soaked",
+    "licks",
+    "collected",
+    "fruits",
+    "mark",
+    "soak",
+    "locations",
+    "combee",
+    "lick",
+    "paws",
+    "taking",
+    "unique",
+    "habit",
+    "set",
+    "glows",
+    "nests",
+    "hidden",
+    "finds",
+    "pollen",
+    "likes",
+    "re",
+    "honey",
+    "lets"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +83,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "crescent",
+        "soaked",
+        "licks",
+        "mark",
+        "paws",
+        "glows",
+        "finds",
+        "honey"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +104,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Before food be­ comes scarce in wintertime, its habit is to hoard food in many hid­ den locations.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hid",
+        "wintertime",
+        "hoard",
+        "den",
+        "scarce",
+        "locations",
+        "habit"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +122,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It always licks honey. Its palm tastes sweet because of all the honey it has absorbed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "palm",
+        "absorbed",
+        "tastes",
+        "licks",
+        "honey"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +138,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "concocts",
+        "sweetened",
+        "blending",
+        "beedrill",
+        "palms",
+        "soaked",
+        "collected",
+        "fruits",
+        "lick",
+        "pollen",
+        "likes",
+        "honey"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +161,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "concocts",
+        "sweetened",
+        "blending",
+        "beedrill",
+        "palms",
+        "soaked",
+        "collected",
+        "fruits",
+        "lick",
+        "pollen",
+        "likes",
+        "honey"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +184,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It licks its palms that are sweetened by being soaked in honey. A TEDDIURSA makes its own honey by blending fruits and pollen collected by BEEDRILL.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sweetened",
+        "blending",
+        "beedrill",
+        "palms",
+        "soaked",
+        "licks",
+        "collected",
+        "fruits",
+        "pollen",
+        "honey"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +205,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wintertime",
+        "hoard",
+        "scarce",
+        "locations",
+        "habit",
+        "hidden"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +222,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "crescent",
+        "soaked",
+        "licks",
+        "mark",
+        "paws",
+        "glows",
+        "finds",
+        "honey"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +243,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastes",
+        "soak",
+        "lick",
+        "paws",
+        "unique",
+        "set",
+        "honey",
+        "lets"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +262,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastes",
+        "soak",
+        "lick",
+        "paws",
+        "unique",
+        "set",
+        "honey",
+        "lets"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +281,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastes",
+        "soak",
+        "lick",
+        "paws",
+        "unique",
+        "set",
+        "honey",
+        "lets"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +300,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it finds honey, its crescent mark glows. It always licks its paws because they’re soaked with honey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "crescent",
+        "soaked",
+        "licks",
+        "mark",
+        "paws",
+        "glows",
+        "finds",
+        "re",
+        "honey"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +322,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wintertime",
+        "hoard",
+        "scarce",
+        "locations",
+        "habit",
+        "hidden"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +339,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastes",
+        "soak",
+        "lick",
+        "paws",
+        "unique",
+        "set",
+        "honey",
+        "lets"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +358,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastes",
+        "soak",
+        "lick",
+        "paws",
+        "unique",
+        "set",
+        "honey",
+        "lets"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +377,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastes",
+        "soak",
+        "lick",
+        "paws",
+        "unique",
+        "set",
+        "honey",
+        "lets"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +396,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastes",
+        "soak",
+        "lick",
+        "paws",
+        "unique",
+        "set",
+        "honey",
+        "lets"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +415,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "If it finds honey, its crescent mark glows. It always licks its paws because they’re soaked with honey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "crescent",
+        "soaked",
+        "licks",
+        "mark",
+        "paws",
+        "glows",
+        "finds",
+        "re",
+        "honey"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +437,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wintertime",
+        "hoard",
+        "scarce",
+        "locations",
+        "habit",
+        "hidden"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +454,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "concocts",
+        "sweetened",
+        "blending",
+        "beedrill",
+        "palms",
+        "soaked",
+        "collected",
+        "fruits",
+        "lick",
+        "pollen",
+        "likes",
+        "honey"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +477,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "concocts",
+        "sweetened",
+        "blending",
+        "beedrill",
+        "palms",
+        "soaked",
+        "collected",
+        "fruits",
+        "lick",
+        "pollen",
+        "likes",
+        "honey"
+      ]
     },
     {
       "versionId": 39,
@@ -206,7 +500,20 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "amassed",
+        "stealing",
+        "cunning",
+        "soaked",
+        "licks",
+        "combee",
+        "paws",
+        "taking",
+        "nests",
+        "honey"
+      ]
     }
   ],
   "similarPokemonIds": [

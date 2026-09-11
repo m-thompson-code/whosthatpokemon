@@ -10,6 +10,113 @@
   ],
   "imagePath": "/assets/pokemon/042.png",
   "entryCount": 33,
+  "entryTraits": [
+    "fangs",
+    "hunting",
+    "nocturnal",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "akin",
+    "slurping",
+    "clumsily",
+    "flitting",
+    "plunges",
+    "punctures",
+    "straws",
+    "feast",
+    "fragile",
+    "gorges",
+    "greedily",
+    "inky",
+    "slurps",
+    "specialized",
+    "veins",
+    "draining",
+    "puncture",
+    "stealthy",
+    "toughest",
+    "ounces",
+    "anymore",
+    "unexpectedly",
+    "fresh",
+    "moonless",
+    "reveals",
+    "animal",
+    "clamps",
+    "sinking",
+    "sinks",
+    "drives",
+    "flits",
+    "manner",
+    "missing",
+    "gulps",
+    "gathered",
+    "ten",
+    "gulp",
+    "hunger",
+    "needle",
+    "particularly",
+    "creatures",
+    "suck",
+    "sucking",
+    "closer",
+    "drinks",
+    "pitch",
+    "fatal",
+    "hungry",
+    "drains",
+    "sneaks",
+    "skillfully",
+    "biting",
+    "going",
+    "amount",
+    "drink",
+    "type",
+    "draws",
+    "warning",
+    "hollow",
+    "dead",
+    "longer",
+    "nearly",
+    "seeking",
+    "ll",
+    "shares",
+    "happens",
+    "skies",
+    "bites",
+    "strikes",
+    "victim",
+    "sleeping",
+    "nights",
+    "tiny",
+    "walks",
+    "blood",
+    "bite",
+    "fall",
+    "finds",
+    "humans",
+    "try",
+    "holes",
+    "instantly",
+    "behind",
+    "neck",
+    "starts",
+    "four",
+    "look",
+    "active",
+    "black",
+    "hide",
+    "stop",
+    "living",
+    "10",
+    "dark",
+    "darkness",
+    "hides",
+    "full",
+    "search",
+    "heavy"
+  ],
   "color": "purple",
   "shape": "wings",
   "habitat": "cave",
@@ -39,7 +146,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "draining",
+        "strikes",
+        "victim",
+        "stop",
+        "heavy"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +162,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "draining",
+        "strikes",
+        "victim",
+        "stop",
+        "heavy"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +178,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "stealthy",
+        "manner",
+        "suck",
+        "warning",
+        "blood",
+        "bite"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +197,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "punctures",
+        "gorges",
+        "victim",
+        "blood",
+        "hide"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +215,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clumsily",
+        "ounces",
+        "drink",
+        "blood",
+        "10",
+        "heavy"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +232,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it plunges its fangs into its prey, it instantly draws and gulps down more than ten ounces of blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "plunges",
+        "ounces",
+        "gulps",
+        "ten",
+        "draws",
+        "blood",
+        "instantly"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +253,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GOLBAT loves to drink the blood of living things. It is particularly active in the pitch black of night. This POKéMON flits around in the night skies, seeking fresh blood.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "fresh",
+        "flits",
+        "particularly",
+        "pitch",
+        "drink",
+        "seeking",
+        "skies",
+        "blood",
+        "active",
+        "black",
+        "living"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +277,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GOLBAT bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "inky",
+        "moonless",
+        "drinks",
+        "bites",
+        "victim",
+        "nights",
+        "blood",
+        "four",
+        "active",
+        "dark"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +302,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and POKéMON. It flits about in darkness and strikes from behind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "feast",
+        "puncture",
+        "animal",
+        "flits",
+        "strikes",
+        "blood",
+        "behind",
+        "hide",
+        "darkness"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +324,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It clamps down on its prey with needle- sharp fangs and drains over 10 ounces of blood in one gulp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "ounces",
+        "clamps",
+        "gulp",
+        "needle",
+        "drains",
+        "blood",
+        "10"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +345,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "draining",
+        "bites",
+        "victim",
+        "stop",
+        "heavy"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +361,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It loves the blood of humans and Pokémon. It flies around at night in search of neck veins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "veins",
+        "blood",
+        "humans",
+        "neck",
+        "search"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +379,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "sucking",
+        "blood",
+        "starts",
+        "stop",
+        "full",
+        "search"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +399,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "greedily",
+        "puncture",
+        "toughest",
+        "sucking",
+        "blood",
+        "holes",
+        "hides"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +419,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "However hard its victim’s hide may be, it punctures with sharp fangs and gorges itself with blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "punctures",
+        "gorges",
+        "victim",
+        "blood",
+        "hide"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +437,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clumsily",
+        "ounces",
+        "drink",
+        "blood",
+        "10",
+        "heavy"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +454,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "greedily",
+        "puncture",
+        "toughest",
+        "sucking",
+        "blood",
+        "holes",
+        "hides"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +474,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "greedily",
+        "puncture",
+        "toughest",
+        "sucking",
+        "blood",
+        "holes",
+        "hides"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +494,22 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "flitting",
+        "sinks",
+        "fatal",
+        "drains",
+        "amount",
+        "dead",
+        "nearly",
+        "blood"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +517,22 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "flitting",
+        "sinks",
+        "fatal",
+        "drains",
+        "amount",
+        "dead",
+        "nearly",
+        "blood"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +540,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "draining",
+        "bites",
+        "victim",
+        "stop",
+        "heavy"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +556,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "sucking",
+        "blood",
+        "starts",
+        "stop",
+        "full",
+        "search"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +576,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "fresh",
+        "flits",
+        "particularly",
+        "pitch",
+        "drink",
+        "seeking",
+        "skies",
+        "blood",
+        "active",
+        "black",
+        "living"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +600,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "inky",
+        "moonless",
+        "drinks",
+        "bites",
+        "victim",
+        "nights",
+        "blood",
+        "four",
+        "active",
+        "dark"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +625,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its thick fangs are hollow like straws, making them unexpectedly fragile. These fangs are specialized for sucking blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "straws",
+        "fragile",
+        "specialized",
+        "unexpectedly",
+        "sucking",
+        "hollow",
+        "blood"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +645,14 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Sometimes they drink so much blood, they can’t fly anymore. Then they fall to the ground and become food for other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "anymore",
+        "drink",
+        "blood",
+        "fall"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +660,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Every once in a while, you’ll see a Golbat that’s missing some fangs. This happens when hunger drives it to try biting a Steel-type Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "drives",
+        "missing",
+        "hunger",
+        "biting",
+        "type",
+        "ll",
+        "happens",
+        "try"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +681,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They can suck down over 10 ounces of blood in one go. They have been known to drink so much blood that they can no longer fly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ounces",
+        "suck",
+        "drink",
+        "longer",
+        "blood",
+        "10"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +698,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "stealthy",
+        "manner",
+        "suck",
+        "warning",
+        "blood",
+        "bite"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +717,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "stealthy",
+        "manner",
+        "suck",
+        "warning",
+        "blood",
+        "bite"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +736,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gathered",
+        "creatures",
+        "hungry",
+        "going",
+        "drink",
+        "shares",
+        "blood",
+        "finds"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +755,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting",
+        "sleeping"
+      ],
+      "keywords": [
+        "slurping",
+        "sinking",
+        "sneaks",
+        "skillfully",
+        "sleeping",
+        "tiny",
+        "walks",
+        "blood"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +778,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "akin",
+        "straws",
+        "slurps",
+        "reveals",
+        "sinks",
+        "creatures",
+        "closer",
+        "hollow",
+        "blood",
+        "look"
+      ]
     }
   ],
   "similarPokemonIds": [

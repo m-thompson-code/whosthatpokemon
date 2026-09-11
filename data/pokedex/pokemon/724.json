@@ -10,6 +10,73 @@
   ],
   "imagePath": "/assets/pokemon/724.png",
   "entryCount": 7,
+  "entryTraits": [
+    "wings",
+    "fiery",
+    "feathers",
+    "cold-climate",
+    "sky-dwelling",
+    "icy"
+  ],
+  "entryKeywords": [
+    "nocks",
+    "quill",
+    "rachises",
+    "seized",
+    "firm",
+    "happening",
+    "nock",
+    "panic",
+    "piercing",
+    "tenth",
+    "wielding",
+    "bow",
+    "insulates",
+    "pebble",
+    "shots",
+    "afford",
+    "decided",
+    "tugs",
+    "influenced",
+    "miss",
+    "basically",
+    "improve",
+    "surprise",
+    "yards",
+    "arrow",
+    "blink",
+    "focus",
+    "precision",
+    "pierce",
+    "vine",
+    "quills",
+    "distances",
+    "hisui",
+    "simply",
+    "extreme",
+    "point",
+    "caught",
+    "proof",
+    "cool",
+    "cautious",
+    "hundred",
+    "notice",
+    "second",
+    "launches",
+    "environment",
+    "eye",
+    "feathers",
+    "battles",
+    "hidden",
+    "fires",
+    "shoots",
+    "stored",
+    "weak",
+    "among",
+    "against",
+    "although",
+    "evolution"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +106,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "pebble",
+        "yards",
+        "arrow",
+        "precision",
+        "pierce",
+        "quills",
+        "distances",
+        "hundred",
+        "fires"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +128,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Although basically cool and cautious, when it’s caught by surprise, it’s seized by panic.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seized",
+        "panic",
+        "basically",
+        "surprise",
+        "caught",
+        "cool",
+        "cautious",
+        "although"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +147,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It nocks its arrow quills and shoots them at opponents. When it simply can’t afford to miss, it tugs the vine on its head to improve its focus.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nocks",
+        "afford",
+        "tugs",
+        "miss",
+        "improve",
+        "arrow",
+        "focus",
+        "vine",
+        "quills",
+        "simply",
+        "shoots"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +169,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Decidueye can nock and fire an arrow at an enemy in a tenth of a second, so its battles are decided in the blink of an eye.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "nock",
+        "tenth",
+        "decided",
+        "arrow",
+        "blink",
+        "second",
+        "eye",
+        "battles"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +190,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye’s shots never miss.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers",
+        "wings"
+      ],
+      "keywords": [
+        "wielding",
+        "bow",
+        "shots",
+        "miss",
+        "arrow",
+        "quills",
+        "launches",
+        "feathers",
+        "hidden",
+        "among"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +214,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "quill",
+        "happening",
+        "nock",
+        "piercing",
+        "tenth",
+        "arrow",
+        "point",
+        "notice",
+        "second",
+        "weak"
+      ]
     },
     {
       "versionId": 39,
@@ -87,7 +237,27 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "The air stored inside the rachises of Decidueye's feathers insulates the Pokémon against Hisui's extreme cold. This is firm proof that evolution can be influenced by environment.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "feathers",
+        "icy"
+      ],
+      "keywords": [
+        "rachises",
+        "firm",
+        "insulates",
+        "influenced",
+        "hisui",
+        "extreme",
+        "proof",
+        "environment",
+        "feathers",
+        "stored",
+        "against",
+        "evolution"
+      ]
     }
   ],
   "similarPokemonIds": [

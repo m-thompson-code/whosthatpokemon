@@ -9,6 +9,64 @@
   ],
   "imagePath": "/assets/pokemon/367.png",
   "entryCount": 20,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "hunting",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "wags",
+    "mimicry",
+    "onshore",
+    "snake",
+    "unfortunate",
+    "wiggling",
+    "filters",
+    "fishlike",
+    "slender",
+    "unnoticed",
+    "spine",
+    "tradition",
+    "wash",
+    "animal",
+    "happen",
+    "gaping",
+    "strongest",
+    "gulps",
+    "crushing",
+    "pitch",
+    "clearly",
+    "extreme",
+    "murky",
+    "lure",
+    "presence",
+    "fish",
+    "lights",
+    "went",
+    "pressure",
+    "unsuspecting",
+    "withstand",
+    "attract",
+    "attracts",
+    "swimmer",
+    "depths",
+    "habitat",
+    "soon",
+    "swallows",
+    "according",
+    "ever",
+    "shaped",
+    "something",
+    "ocean",
+    "sturdy",
+    "dark",
+    "swims",
+    "moving",
+    "whole",
+    "close",
+    "seas"
+  ],
   "color": "blue",
   "shape": "squiggle",
   "habitat": "sea",
@@ -38,7 +96,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "HUNTAIL’s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POKéMON’s eyes can see clearly even in the murky dark depths of the ocean.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "unnoticed",
+        "clearly",
+        "extreme",
+        "murky",
+        "presence",
+        "went",
+        "depths",
+        "ocean",
+        "dark"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +118,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "HUNTAIL’s tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This POKéMON swims by wiggling its slender body like a snake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "snake",
+        "wiggling",
+        "slender",
+        "gaping",
+        "fish",
+        "attract",
+        "swallows",
+        "shaped",
+        "swims",
+        "whole"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +143,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "To withstand the crushing pressure of water deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "luminous"
+      ],
+      "keywords": [
+        "spine",
+        "crushing",
+        "fish",
+        "pressure",
+        "withstand",
+        "shaped",
+        "sturdy"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +165,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "filters",
+        "fishlike",
+        "lights",
+        "attract",
+        "ever"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +186,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "filters",
+        "fishlike",
+        "lights",
+        "attract",
+        "ever"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +207,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "fish",
+        "unsuspecting",
+        "attracts",
+        "shaped"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +226,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "fish",
+        "unsuspecting",
+        "attracts",
+        "shaped"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +245,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "fish",
+        "unsuspecting",
+        "attracts",
+        "shaped"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +264,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives deep in the pitch-dark sea. It attracts prey by moving its tail in mimicry of a small animal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "mimicry",
+        "animal",
+        "pitch",
+        "attracts",
+        "dark",
+        "moving"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +285,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives deep in the pitch-dark sea. It attracts prey by moving its tail in mimicry of a small animal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "mimicry",
+        "animal",
+        "pitch",
+        "attracts",
+        "dark",
+        "moving"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +306,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "fish",
+        "unsuspecting",
+        "attracts",
+        "shaped"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +325,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "fish",
+        "unsuspecting",
+        "attracts",
+        "shaped"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +344,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "fish",
+        "unsuspecting",
+        "attracts",
+        "shaped"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +363,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "fish",
+        "unsuspecting",
+        "attracts",
+        "shaped"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +382,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "filters",
+        "fishlike",
+        "lights",
+        "attract",
+        "ever"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +403,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "fish",
+        "unsuspecting",
+        "attracts",
+        "shaped"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +422,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Huntail’s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This Pokémon’s eyes can see clearly even in the murky dark depths of the ocean.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "unnoticed",
+        "clearly",
+        "extreme",
+        "murky",
+        "presence",
+        "went",
+        "depths",
+        "ocean",
+        "dark"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +444,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Huntail’s tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This Pokémon swims by wiggling its slender body like a snake.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "snake",
+        "wiggling",
+        "slender",
+        "gaping",
+        "fish",
+        "attract",
+        "swallows",
+        "shaped",
+        "swims",
+        "whole"
+      ]
     },
     {
       "versionId": 29,
@@ -182,7 +469,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s not the strongest swimmer. It wags its tail to lure in its prey and then gulps them down as soon as they get close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "wags",
+        "strongest",
+        "gulps",
+        "lure",
+        "swimmer",
+        "soon",
+        "close"
+      ]
     },
     {
       "versionId": 30,
@@ -190,7 +490,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "onshore",
+        "unfortunate",
+        "tradition",
+        "wash",
+        "happen",
+        "habitat",
+        "according",
+        "something",
+        "seas"
+      ]
     }
   ],
   "similarPokemonIds": [

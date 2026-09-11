@@ -9,6 +9,51 @@
   ],
   "imagePath": "/assets/pokemon/261.png",
   "entryCount": 18,
+  "entryTraits": [
+    "tail",
+    "hunting",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "bared",
+    "omnivore",
+    "compared",
+    "threatens",
+    "distinguishing",
+    "feature",
+    "bristle",
+    "fleeing",
+    "tenaciously",
+    "persistent",
+    "tenacious",
+    "savagely",
+    "acute",
+    "chosen",
+    "track",
+    "losing",
+    "exhausted",
+    "targets",
+    "intimidate",
+    "chase",
+    "chases",
+    "tries",
+    "turn",
+    "smell",
+    "strikes",
+    "victim",
+    "sight",
+    "ever",
+    "hair",
+    "bite",
+    "first",
+    "runs",
+    "turns",
+    "lets",
+    "sense",
+    "nature",
+    "takes",
+    "eat"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +83,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "At first sight, POOCHYENA takes a bite at anything that moves. This POKéMON chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "exhausted",
+        "chases",
+        "turn",
+        "strikes",
+        "victim",
+        "sight",
+        "bite",
+        "first",
+        "takes"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +106,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "POOCHYENA is an omnivore - it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This POKéMON tries to intimidate its foes by making the hair on its tail bristle out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs",
+        "tail"
+      ],
+      "keywords": [
+        "omnivore",
+        "compared",
+        "distinguishing",
+        "feature",
+        "bristle",
+        "intimidate",
+        "tries",
+        "hair",
+        "eat"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +129,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "tail"
+      ],
+      "keywords": [
+        "bared",
+        "threatens",
+        "fleeing",
+        "tenaciously",
+        "savagely",
+        "targets",
+        "chases",
+        "strikes",
+        "runs",
+        "turns"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +153,23 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tenacious",
+        "acute",
+        "chosen",
+        "track",
+        "losing",
+        "chase",
+        "smell",
+        "ever",
+        "lets",
+        "sense",
+        "nature"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +177,23 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tenacious",
+        "acute",
+        "chosen",
+        "track",
+        "losing",
+        "chase",
+        "smell",
+        "ever",
+        "lets",
+        "sense",
+        "nature"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +201,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "persistent",
+        "chosen",
+        "exhausted",
+        "chases",
+        "nature"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +219,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "persistent",
+        "chosen",
+        "exhausted",
+        "chases",
+        "nature"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +237,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "persistent",
+        "chosen",
+        "exhausted",
+        "chases",
+        "nature"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +255,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It chases its prey until the victim becomes exhausted. However, it turns tail if the prey strikes back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "exhausted",
+        "chases",
+        "strikes",
+        "victim",
+        "turns"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +274,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It chases its prey until the victim becomes exhausted. However, it turns tail if the prey strikes back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "exhausted",
+        "chases",
+        "strikes",
+        "victim",
+        "turns"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +293,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "persistent",
+        "chosen",
+        "exhausted",
+        "chases",
+        "nature"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +311,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "persistent",
+        "chosen",
+        "exhausted",
+        "chases",
+        "nature"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +329,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "persistent",
+        "chosen",
+        "exhausted",
+        "chases",
+        "nature"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +347,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "persistent",
+        "chosen",
+        "exhausted",
+        "chases",
+        "nature"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +365,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "persistent",
+        "chosen",
+        "exhausted",
+        "chases",
+        "nature"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +383,23 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tenacious",
+        "acute",
+        "chosen",
+        "track",
+        "losing",
+        "chase",
+        "smell",
+        "ever",
+        "lets",
+        "sense",
+        "nature"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +407,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "At first sight, Poochyena takes a bite at anything that moves. This Pokémon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "exhausted",
+        "chases",
+        "turn",
+        "strikes",
+        "victim",
+        "sight",
+        "bite",
+        "first",
+        "takes"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +430,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs",
+        "tail"
+      ],
+      "keywords": [
+        "omnivore",
+        "compared",
+        "distinguishing",
+        "feature",
+        "bristle",
+        "intimidate",
+        "tries",
+        "hair",
+        "eat"
+      ]
     }
   ],
   "similarPokemonIds": [

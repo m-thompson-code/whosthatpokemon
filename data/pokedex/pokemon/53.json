@@ -9,6 +9,115 @@
   ],
   "imagePath": "/assets/pokemon/053.png",
   "entryCount": 32,
+  "entryTraits": [
+    "fur",
+    "luminous",
+    "sky-dwelling",
+    "sonic",
+    "hunting",
+    "tail",
+    "claws"
+  ],
+  "entryKeywords": [
+    "disdain",
+    "opinion",
+    "perrserker",
+    "pounce",
+    "refined",
+    "annoyed",
+    "hunters",
+    "mere",
+    "mutual",
+    "prideful",
+    "sophisticated",
+    "whim",
+    "adore",
+    "extent",
+    "meanness",
+    "relationship",
+    "alolan",
+    "barbaric",
+    "signal",
+    "clashes",
+    "elegance",
+    "fickle",
+    "lash",
+    "admirers",
+    "bold",
+    "haughty",
+    "lithe",
+    "grace",
+    "toughness",
+    "gem",
+    "inflict",
+    "jewel",
+    "queen",
+    "grabbed",
+    "pet",
+    "talk",
+    "vicinity",
+    "mostly",
+    "topic",
+    "claw",
+    "lot",
+    "material",
+    "targeted",
+    "wounds",
+    "fans",
+    "temperament",
+    "raise",
+    "beware",
+    "instant",
+    "lies",
+    "proud",
+    "rich",
+    "elegant",
+    "behavior",
+    "scratch",
+    "whiskers",
+    "moment",
+    "tear",
+    "walk",
+    "determine",
+    "allow",
+    "effort",
+    "surrounding",
+    "getting",
+    "forehead",
+    "quite",
+    "side",
+    "difficult",
+    "straight",
+    "docile",
+    "eye",
+    "vicious",
+    "apart",
+    "glows",
+    "color",
+    "raises",
+    "violent",
+    "walks",
+    "between",
+    "bite",
+    "friends",
+    "size",
+    "six",
+    "appearance",
+    "behind",
+    "popular",
+    "little",
+    "reason",
+    "look",
+    "among",
+    "different",
+    "movements",
+    "tough",
+    "sense",
+    "same",
+    "although",
+    "takes",
+    "muscles"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "urban",
@@ -38,7 +147,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "meanness",
+        "fickle",
+        "admirers",
+        "pet",
+        "raise",
+        "tough",
+        "although"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +167,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "meanness",
+        "fickle",
+        "admirers",
+        "pet",
+        "raise",
+        "tough",
+        "although"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +187,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "elegance",
+        "grace",
+        "gem",
+        "queen",
+        "proud",
+        "forehead",
+        "glows",
+        "walks"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +208,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "sophisticated",
+        "adore",
+        "lash",
+        "scratch",
+        "little",
+        "reason"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +227,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "lithe",
+        "instant",
+        "walk",
+        "allow",
+        "muscles"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +245,23 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Behind its lithe, elegant appearance lies a barbaric side. It will tear apart its prey on a mere whim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "mere",
+        "whim",
+        "barbaric",
+        "lithe",
+        "lies",
+        "elegant",
+        "tear",
+        "side",
+        "apart",
+        "appearance",
+        "behind"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +269,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PERSIAN has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the POKéMON’s surrounding vicinity. It becomes docile if grabbed by the whiskers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "bold",
+        "toughness",
+        "grabbed",
+        "vicinity",
+        "whiskers",
+        "determine",
+        "surrounding",
+        "docile",
+        "six",
+        "look",
+        "movements",
+        "sense"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +294,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PERSIAN has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the POKéMON’s surrounding vicinity. It becomes docile if grabbed by the whiskers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "bold",
+        "toughness",
+        "grabbed",
+        "vicinity",
+        "whiskers",
+        "determine",
+        "surrounding",
+        "docile",
+        "six",
+        "look",
+        "movements",
+        "sense"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +319,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A PERSIAN’s six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "bold",
+        "grabbed",
+        "vicinity",
+        "whiskers",
+        "determine",
+        "docile",
+        "six",
+        "movements",
+        "sense"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +341,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Has a vicious temperament. Beware if it raises its tail straight up. It is a signal that it is about to pounce and bite.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pounce",
+        "signal",
+        "temperament",
+        "beware",
+        "straight",
+        "vicious",
+        "raises",
+        "bite"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +362,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "meanness",
+        "fickle",
+        "admirers",
+        "pet",
+        "raise",
+        "tough",
+        "although"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +382,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "haughty",
+        "jewel",
+        "talk",
+        "topic",
+        "fans",
+        "forehead",
+        "size",
+        "among"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +401,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "haughty",
+        "jewel",
+        "talk",
+        "topic",
+        "fans",
+        "forehead",
+        "size",
+        "among"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +420,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "haughty",
+        "jewel",
+        "talk",
+        "topic",
+        "fans",
+        "forehead",
+        "size",
+        "among"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +439,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "sophisticated",
+        "adore",
+        "lash",
+        "scratch",
+        "little",
+        "reason"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +458,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "lithe",
+        "instant",
+        "walk",
+        "allow",
+        "muscles"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +476,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "haughty",
+        "jewel",
+        "talk",
+        "topic",
+        "fans",
+        "forehead",
+        "size",
+        "among"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +495,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "haughty",
+        "jewel",
+        "talk",
+        "topic",
+        "fans",
+        "forehead",
+        "size",
+        "among"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +514,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "haughty",
+        "jewel",
+        "talk",
+        "topic",
+        "fans",
+        "forehead",
+        "size",
+        "among"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +533,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "haughty",
+        "jewel",
+        "talk",
+        "topic",
+        "fans",
+        "forehead",
+        "size",
+        "among"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +552,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "meanness",
+        "fickle",
+        "admirers",
+        "pet",
+        "raise",
+        "tough",
+        "although"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +572,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "lithe",
+        "instant",
+        "walk",
+        "allow",
+        "muscles"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +590,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon’s surrounding vicinity. It becomes docile if grabbed by the whiskers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "bold",
+        "toughness",
+        "grabbed",
+        "vicinity",
+        "whiskers",
+        "determine",
+        "surrounding",
+        "docile",
+        "six",
+        "look",
+        "movements",
+        "sense"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +615,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon’s surrounding vicinity. It becomes docile if grabbed by the whiskers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "bold",
+        "toughness",
+        "grabbed",
+        "vicinity",
+        "whiskers",
+        "determine",
+        "surrounding",
+        "docile",
+        "six",
+        "look",
+        "movements",
+        "sense"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +640,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It has a violent temperament. It will attack anything that looks it in the eye. Its sharp claws inflict deep wounds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "inflict",
+        "wounds",
+        "temperament",
+        "eye",
+        "violent"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +658,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It has a high opinion of itself, although not to the same extent as the Alolan Persian. It’s quite difficult to make friends with this Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "opinion",
+        "extent",
+        "alolan",
+        "quite",
+        "difficult",
+        "friends",
+        "same",
+        "although"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +677,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it’s mostly made of the same material.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "alolan",
+        "jewel",
+        "mostly",
+        "material",
+        "forehead",
+        "color",
+        "different",
+        "same",
+        "although"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +697,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon is popular with rich people. It’s also targeted by hunters who are after the jewel in its forehead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hunters",
+        "jewel",
+        "targeted",
+        "rich",
+        "forehead",
+        "popular"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +714,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "elegance",
+        "grace",
+        "gem",
+        "queen",
+        "proud",
+        "forehead",
+        "glows",
+        "walks"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +735,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "elegance",
+        "grace",
+        "gem",
+        "queen",
+        "proud",
+        "forehead",
+        "glows",
+        "walks"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +756,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "annoyed",
+        "prideful",
+        "claw",
+        "lot",
+        "moment",
+        "effort",
+        "getting",
+        "takes"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +777,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disdain",
+        "perrserker",
+        "refined",
+        "mutual",
+        "relationship",
+        "barbaric",
+        "clashes",
+        "elegant",
+        "behavior",
+        "between"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,21 @@
   ],
   "imagePath": "/assets/pokemon/666.png",
   "entryCount": 4,
+  "entryTraits": [
+    "wings"
+  ],
+  "entryKeywords": [
+    "topography",
+    "colorful",
+    "depend",
+    "affected",
+    "climate",
+    "habitat",
+    "scatters",
+    "patterns",
+    "scales",
+    "different"
+  ],
   "color": "white",
   "shape": "bug-wings",
   "habitat": null,
@@ -39,7 +54,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "affected",
+        "climate",
+        "habitat",
+        "patterns",
+        "different"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +70,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "topography",
+        "colorful",
+        "depend",
+        "climate",
+        "habitat",
+        "scatters",
+        "patterns",
+        "scales"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +91,15 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "affected",
+        "climate",
+        "habitat",
+        "patterns",
+        "different"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +107,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "topography",
+        "colorful",
+        "depend",
+        "climate",
+        "habitat",
+        "scatters",
+        "patterns",
+        "scales"
+      ]
     }
   ],
   "similarPokemonIds": [

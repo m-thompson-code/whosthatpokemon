@@ -9,6 +9,41 @@
   ],
   "imagePath": "/assets/pokemon/617.png",
   "entryCount": 10,
+  "entryTraits": [
+    "shell",
+    "luminous",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "bands",
+    "comic",
+    "discarding",
+    "lobs",
+    "movie",
+    "surefire",
+    "character",
+    "dehydration",
+    "featuring",
+    "dehydrating",
+    "nimble",
+    "layers",
+    "removed",
+    "main",
+    "ninja",
+    "weakens",
+    "dries",
+    "blinding",
+    "membrane",
+    "spits",
+    "prevent",
+    "having",
+    "wraps",
+    "protection",
+    "popular",
+    "thin",
+    "movements",
+    "heavy"
+  ],
   "color": "red",
   "shape": "arms",
   "habitat": null,
@@ -38,7 +73,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dehydration",
+        "layers",
+        "weakens",
+        "dries",
+        "membrane",
+        "prevent",
+        "wraps",
+        "thin"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +92,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "luminous"
+      ],
+      "keywords": [
+        "removed",
+        "ninja",
+        "having",
+        "movements",
+        "heavy"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +111,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "weakens",
+        "dries",
+        "membrane",
+        "spits",
+        "wraps",
+        "protection"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +130,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "weakens",
+        "dries",
+        "membrane",
+        "spits",
+        "wraps",
+        "protection"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +149,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "luminous"
+      ],
+      "keywords": [
+        "removed",
+        "ninja",
+        "having",
+        "movements",
+        "heavy"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +168,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dehydration",
+        "layers",
+        "weakens",
+        "dries",
+        "membrane",
+        "prevent",
+        "wraps",
+        "thin"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +187,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "luminous"
+      ],
+      "keywords": [
+        "removed",
+        "ninja",
+        "having",
+        "movements",
+        "heavy"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +206,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dehydration",
+        "layers",
+        "weakens",
+        "dries",
+        "membrane",
+        "prevent",
+        "wraps",
+        "thin"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +225,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "comic",
+        "lobs",
+        "movie",
+        "surefire",
+        "character",
+        "featuring",
+        "main",
+        "blinding",
+        "popular"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +247,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "bands",
+        "discarding",
+        "dehydrating",
+        "nimble",
+        "membrane",
+        "wraps"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,54 @@
   ],
   "imagePath": "/assets/pokemon/256.png",
   "entryCount": 18,
+  "entryTraits": [
+    "mountain-dwelling",
+    "beak",
+    "fiery",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "distracting",
+    "thighs",
+    "instinct",
+    "offensive",
+    "concentration",
+    "dole",
+    "compels",
+    "outstandingly",
+    "lashes",
+    "mastery",
+    "toughens",
+    "boosts",
+    "outstanding",
+    "ten",
+    "loud",
+    "emitting",
+    "spews",
+    "per",
+    "increases",
+    "kicking",
+    "possess",
+    "loose",
+    "intimidate",
+    "enabling",
+    "second",
+    "destructive",
+    "intensely",
+    "beak",
+    "battles",
+    "harsh",
+    "fields",
+    "kicks",
+    "fighting",
+    "cry",
+    "running",
+    "flame",
+    "10",
+    "lets",
+    "emits",
+    "hot"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": "grassland",
@@ -39,7 +87,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON’s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "thighs",
+        "dole",
+        "toughens",
+        "ten",
+        "possess",
+        "enabling",
+        "second",
+        "fields",
+        "kicks",
+        "running"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +110,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "COMBUSKEN battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This POKéMON’s cry is very loud and distracting.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "beak",
+        "fiery"
+      ],
+      "keywords": [
+        "distracting",
+        "outstandingly",
+        "loud",
+        "spews",
+        "destructive",
+        "intensely",
+        "beak",
+        "battles",
+        "kicks",
+        "cry",
+        "hot"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +135,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "instinct",
+        "offensive",
+        "compels",
+        "lashes",
+        "per",
+        "second",
+        "kicks",
+        "fighting",
+        "10"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +155,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "concentration",
+        "boosts",
+        "outstanding",
+        "emitting",
+        "destructive",
+        "harsh",
+        "kicks"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +175,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "concentration",
+        "boosts",
+        "outstanding",
+        "emitting",
+        "destructive",
+        "harsh",
+        "kicks"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +195,22 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mastery",
+        "per",
+        "kicking",
+        "loose",
+        "intimidate",
+        "second",
+        "kicks",
+        "10",
+        "lets",
+        "emits"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +218,22 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mastery",
+        "per",
+        "kicking",
+        "loose",
+        "intimidate",
+        "second",
+        "kicks",
+        "10",
+        "lets",
+        "emits"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +241,22 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mastery",
+        "per",
+        "kicking",
+        "loose",
+        "intimidate",
+        "second",
+        "kicks",
+        "10",
+        "lets",
+        "emits"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +264,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "outstanding",
+        "increases",
+        "destructive",
+        "kicks",
+        "flame",
+        "hot"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +283,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "outstanding",
+        "increases",
+        "destructive",
+        "kicks",
+        "flame",
+        "hot"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +302,22 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mastery",
+        "per",
+        "kicking",
+        "loose",
+        "intimidate",
+        "second",
+        "kicks",
+        "10",
+        "lets",
+        "emits"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +325,22 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mastery",
+        "per",
+        "kicking",
+        "loose",
+        "intimidate",
+        "second",
+        "kicks",
+        "10",
+        "lets",
+        "emits"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +348,22 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mastery",
+        "per",
+        "kicking",
+        "loose",
+        "intimidate",
+        "second",
+        "kicks",
+        "10",
+        "lets",
+        "emits"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +371,22 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mastery",
+        "per",
+        "kicking",
+        "loose",
+        "intimidate",
+        "second",
+        "kicks",
+        "10",
+        "lets",
+        "emits"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +394,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "mastery",
+        "per",
+        "kicking",
+        "loose",
+        "intimidate",
+        "second",
+        "kicks",
+        "10",
+        "lets",
+        "emits"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +417,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "outstanding",
+        "increases",
+        "destructive",
+        "kicks",
+        "flame",
+        "hot"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +436,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon’s legs possess both speed and power, enabling it to dole out 10 kicks in one second.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "thighs",
+        "dole",
+        "toughens",
+        "possess",
+        "enabling",
+        "second",
+        "fields",
+        "kicks",
+        "running",
+        "10"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +459,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "beak",
+        "fiery"
+      ],
+      "keywords": [
+        "distracting",
+        "outstandingly",
+        "loud",
+        "spews",
+        "destructive",
+        "intensely",
+        "beak",
+        "battles",
+        "kicks",
+        "cry",
+        "hot"
+      ]
     }
   ],
   "similarPokemonIds": [

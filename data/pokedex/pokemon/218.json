@@ -9,6 +9,64 @@
   ],
   "imagePath": "/assets/pokemon/218.png",
   "entryCount": 21,
+  "entryTraits": [
+    "sleeping",
+    "volcanic",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "gether",
+    "stant",
+    "chunks",
+    "circulatory",
+    "reducing",
+    "chilled",
+    "immobilizes",
+    "stopped",
+    "slithers",
+    "essential",
+    "oxygen",
+    "brittle",
+    "circulates",
+    "con",
+    "normal",
+    "courses",
+    "cools",
+    "hotter",
+    "harden",
+    "organs",
+    "molten",
+    "carrying",
+    "system",
+    "constant",
+    "cool",
+    "slowly",
+    "throughout",
+    "common",
+    "volcanic",
+    "hardens",
+    "intensely",
+    "species",
+    "instead",
+    "sight",
+    "blood",
+    "fall",
+    "size",
+    "areas",
+    "group",
+    "avoid",
+    "near",
+    "nutrients",
+    "turns",
+    "magma",
+    "sleeps",
+    "places",
+    "search",
+    "moving",
+    "skin",
+    "hot",
+    "doesn"
+  ],
   "color": "red",
   "shape": "squiggle",
   "habitat": "mountain",
@@ -38,7 +96,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "stopped",
+        "harden",
+        "cool",
+        "magma",
+        "sleeps",
+        "moving"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +115,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "A common sight in volcanic areas, it slowly slithers around in a con­ stant search for warm places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "stant",
+        "slithers",
+        "con",
+        "slowly",
+        "common",
+        "volcanic",
+        "sight",
+        "areas",
+        "places",
+        "search"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +138,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "These group to­ gether in areas that are hotter than normal. If it cools off, its skin hardens.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gether",
+        "normal",
+        "cools",
+        "hotter",
+        "hardens",
+        "areas",
+        "group",
+        "skin"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +157,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Molten magma courses throughout SLUGMA’s circulatory system. If this POKéMON is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "chunks",
+        "circulatory",
+        "reducing",
+        "chilled",
+        "brittle",
+        "courses",
+        "cools",
+        "molten",
+        "system",
+        "throughout",
+        "hardens",
+        "fall",
+        "size",
+        "turns",
+        "magma"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +183,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SLUGMA does not have any blood in its body. Instead, intensely hot magma circulates throughout this POKéMON’s body, carrying essential nutrients and oxygen to its organs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "essential",
+        "oxygen",
+        "circulates",
+        "organs",
+        "carrying",
+        "throughout",
+        "intensely",
+        "instead",
+        "blood",
+        "nutrients",
+        "magma",
+        "hot"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +208,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is a species of POKéMON that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "sleeping"
+      ],
+      "keywords": [
+        "immobilizes",
+        "cools",
+        "volcanic",
+        "hardens",
+        "species",
+        "areas",
+        "avoid",
+        "near",
+        "magma",
+        "sleeps",
+        "skin"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +233,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "slithers",
+        "constant",
+        "slowly",
+        "common",
+        "volcanic",
+        "sight",
+        "areas",
+        "places",
+        "search"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +255,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "stopped",
+        "harden",
+        "cool",
+        "magma",
+        "sleeps",
+        "moving"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +274,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harden",
+        "cool",
+        "magma",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +290,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harden",
+        "cool",
+        "magma",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +306,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harden",
+        "cool",
+        "magma",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +322,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "stopped",
+        "harden",
+        "cool",
+        "magma",
+        "sleeps",
+        "moving"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +341,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "slithers",
+        "constant",
+        "slowly",
+        "common",
+        "volcanic",
+        "sight",
+        "areas",
+        "places",
+        "search"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +363,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harden",
+        "cool",
+        "magma",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +379,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harden",
+        "cool",
+        "magma",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +395,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harden",
+        "cool",
+        "magma",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +411,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harden",
+        "cool",
+        "magma",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +427,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "slithers",
+        "constant",
+        "slowly",
+        "common",
+        "volcanic",
+        "sight",
+        "areas",
+        "places",
+        "search"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +449,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "harden",
+        "cool",
+        "magma",
+        "moving",
+        "doesn"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +465,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Molten magma courses throughout Slugma’s circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "chunks",
+        "circulatory",
+        "reducing",
+        "chilled",
+        "brittle",
+        "courses",
+        "cools",
+        "molten",
+        "system",
+        "throughout",
+        "hardens",
+        "fall",
+        "size",
+        "turns",
+        "magma"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +491,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon’s body, carrying essential nutrients and oxygen to its organs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "essential",
+        "oxygen",
+        "circulates",
+        "organs",
+        "carrying",
+        "throughout",
+        "intensely",
+        "instead",
+        "blood",
+        "nutrients",
+        "magma",
+        "hot"
+      ]
     }
   ],
   "similarPokemonIds": [

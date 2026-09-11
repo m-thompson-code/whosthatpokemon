@@ -10,6 +10,35 @@
   ],
   "imagePath": "/assets/pokemon/774.png",
   "entryCount": 4,
+  "entryTraits": [
+    "shell"
+  ],
+  "entryKeywords": [
+    "hurtles",
+    "nanoparticles",
+    "enclosing",
+    "smithereens",
+    "uncommonly",
+    "outer",
+    "impacts",
+    "mutated",
+    "falling",
+    "smashes",
+    "ozone",
+    "durable",
+    "originally",
+    "layer",
+    "tries",
+    "knock",
+    "home",
+    "falls",
+    "run",
+    "shock",
+    "stronger",
+    "although",
+    "heavy",
+    "born"
+  ],
   "color": "brown",
   "shape": "ball",
   "habitat": null,
@@ -39,7 +68,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "hurtles",
+        "enclosing",
+        "ozone",
+        "originally",
+        "layer",
+        "home",
+        "heavy"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +88,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Strong impacts can knock it out of its shell. This Pokémon was born from mutated nanoparticles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "nanoparticles",
+        "impacts",
+        "mutated",
+        "knock",
+        "born"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +106,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It lives in the ozone layer, where it becomes food for stronger Pokémon. When it tries to run away, it falls to the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ozone",
+        "layer",
+        "tries",
+        "falls",
+        "run",
+        "stronger"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +123,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "smithereens",
+        "uncommonly",
+        "outer",
+        "falling",
+        "smashes",
+        "durable",
+        "shock",
+        "although"
+      ]
     }
   ],
   "similarPokemonIds": [

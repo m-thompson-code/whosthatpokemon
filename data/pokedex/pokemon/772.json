@@ -9,6 +9,56 @@
   ],
   "imagePath": "/assets/pokemon/772.png",
   "entryCount": 6,
+  "entryTraits": [
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "berserk",
+    "cryogenically",
+    "instance",
+    "intrinsic",
+    "mission",
+    "synthetic",
+    "theft",
+    "experiment",
+    "modeled",
+    "suppresses",
+    "limits",
+    "restrain",
+    "placed",
+    "specific",
+    "myth",
+    "rumor",
+    "sealed",
+    "led",
+    "notes",
+    "capabilities",
+    "mask",
+    "secret",
+    "mighty",
+    "rampage",
+    "weapon",
+    "went",
+    "going",
+    "true",
+    "galar",
+    "wears",
+    "frozen",
+    "due",
+    "research",
+    "beneath",
+    "hidden",
+    "order",
+    "upon",
+    "created",
+    "region",
+    "top",
+    "special",
+    "new",
+    "heavy",
+    "developed"
+  ],
   "color": "gray",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +88,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intrinsic",
+        "suppresses",
+        "capabilities",
+        "mask",
+        "wears",
+        "hidden",
+        "special",
+        "heavy"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +107,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "synthetic",
+        "restrain",
+        "mask",
+        "rampage",
+        "wears",
+        "due"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +124,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "berserk",
+        "cryogenically",
+        "mission",
+        "experiment",
+        "specific",
+        "weapon",
+        "went",
+        "frozen",
+        "developed"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +147,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "There’s danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sealed",
+        "mask",
+        "rampage",
+        "going",
+        "true",
+        "beneath"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +164,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "instance",
+        "theft",
+        "rumor",
+        "led",
+        "notes",
+        "secret",
+        "galar",
+        "research",
+        "created",
+        "region",
+        "top",
+        "new"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +187,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "modeled",
+        "limits",
+        "placed",
+        "myth",
+        "mask",
+        "mighty",
+        "order",
+        "upon"
+      ]
     }
   ],
   "similarPokemonIds": [

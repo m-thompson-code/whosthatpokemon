@@ -10,6 +10,117 @@
   ],
   "imagePath": "/assets/pokemon/073.png",
   "entryCount": 33,
+  "entryTraits": [
+    "hunting",
+    "poisonous",
+    "aquatic",
+    "luminous",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "alerts",
+    "extendible",
+    "formations",
+    "lengthening",
+    "stridently",
+    "dosing",
+    "ensnaring",
+    "entrap",
+    "lashing",
+    "outbreak",
+    "outburst",
+    "shortened",
+    "shrink",
+    "attempts",
+    "blinking",
+    "entangle",
+    "ers",
+    "nent",
+    "oppo",
+    "fewer",
+    "poisoning",
+    "caution",
+    "encircling",
+    "stings",
+    "stretches",
+    "stabbing",
+    "sting",
+    "ensnare",
+    "constrict",
+    "strict",
+    "wrap",
+    "net",
+    "occurs",
+    "weaken",
+    "lighting",
+    "spread",
+    "con",
+    "endlessly",
+    "disappear",
+    "victims",
+    "alive",
+    "delivering",
+    "traps",
+    "contract",
+    "elongated",
+    "prevents",
+    "vicinity",
+    "weakens",
+    "complex",
+    "ensnares",
+    "venomous",
+    "toxin",
+    "kept",
+    "burst",
+    "extended",
+    "immobilize",
+    "blast",
+    "hunts",
+    "orbs",
+    "weakened",
+    "80",
+    "flashing",
+    "watch",
+    "fish",
+    "floor",
+    "normally",
+    "agitated",
+    "excited",
+    "brightly",
+    "rough",
+    "communicates",
+    "surrounding",
+    "extends",
+    "stretch",
+    "warning",
+    "longer",
+    "difficult",
+    "sign",
+    "absorb",
+    "pain",
+    "wraps",
+    "glow",
+    "causing",
+    "fires",
+    "harsh",
+    "escape",
+    "feel",
+    "short",
+    "almost",
+    "ultrasonic",
+    "tentacles",
+    "rare",
+    "catch",
+    "ocean",
+    "poisonous",
+    "red",
+    "freely",
+    "creates",
+    "rock",
+    "same",
+    "although",
+    "tip"
+  ],
   "color": "blue",
   "shape": "tentacles",
   "habitat": "sea",
@@ -39,7 +150,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ensnare",
+        "kept",
+        "extended",
+        "immobilize",
+        "hunts",
+        "normally",
+        "short",
+        "tentacles"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +171,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ensnare",
+        "kept",
+        "extended",
+        "immobilize",
+        "hunts",
+        "normally",
+        "short",
+        "tentacles"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +192,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "wrap",
+        "weaken",
+        "contract",
+        "80",
+        "stretch",
+        "tentacles",
+        "freely"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +213,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its 80 tentacles absorb water and stretch almost endlessly to CON­ STRICT its prey and enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "strict",
+        "con",
+        "endlessly",
+        "80",
+        "stretch",
+        "absorb",
+        "almost",
+        "tentacles"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +235,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "In battle, it extends all 80 of its tentacles to entrap its oppo­ nent inside a poisonous net.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "entrap",
+        "nent",
+        "oppo",
+        "net",
+        "80",
+        "extends",
+        "tentacles",
+        "poisonous"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +256,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When its 80 feel­ ers absorb water, it stretches to become like a net to entangle its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "entangle",
+        "ers",
+        "stretches",
+        "net",
+        "80",
+        "absorb",
+        "feel"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +277,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "TENTACRUEL has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This POKéMON’s outburst creates rough waves around it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "lashing",
+        "outburst",
+        "vicinity",
+        "blast",
+        "orbs",
+        "rough",
+        "glow",
+        "harsh",
+        "ultrasonic",
+        "red",
+        "creates"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +302,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "TENTACRUEL has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "dosing",
+        "shortened",
+        "elongated",
+        "weakens",
+        "ensnares",
+        "toxin",
+        "80",
+        "harsh",
+        "tentacles",
+        "catch",
+        "freely",
+        "same"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +327,27 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting",
+        "luminous"
+      ],
+      "keywords": [
+        "formations",
+        "traps",
+        "complex",
+        "orbs",
+        "80",
+        "floor",
+        "agitated",
+        "excited",
+        "glow",
+        "tentacles",
+        "ocean",
+        "red",
+        "rock"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +355,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "poisoning",
+        "stabbing",
+        "sting",
+        "80",
+        "pain",
+        "causing",
+        "tentacles",
+        "freely"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +374,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ensnare",
+        "kept",
+        "extended",
+        "immobilize",
+        "hunts",
+        "normally",
+        "short",
+        "tentacles"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +395,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "ensnaring",
+        "victims",
+        "prevents",
+        "weakened",
+        "80",
+        "escape",
+        "tentacles"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +416,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It alerts others to danger by stridently flashing the red orbs on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "alerts",
+        "stridently",
+        "orbs",
+        "flashing",
+        "red"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +432,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "encircling",
+        "net",
+        "80",
+        "extends",
+        "difficult",
+        "escape",
+        "tentacles",
+        "poisonous"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +453,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "constrict",
+        "endlessly",
+        "80",
+        "stretch",
+        "absorb",
+        "almost",
+        "tentacles"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +474,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "entrap",
+        "net",
+        "80",
+        "extends",
+        "tentacles",
+        "poisonous"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +493,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "encircling",
+        "net",
+        "80",
+        "extends",
+        "difficult",
+        "escape",
+        "tentacles",
+        "poisonous"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +514,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "encircling",
+        "net",
+        "80",
+        "extends",
+        "difficult",
+        "escape",
+        "tentacles",
+        "poisonous"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +535,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "encircling",
+        "net",
+        "80",
+        "extends",
+        "difficult",
+        "escape",
+        "tentacles",
+        "poisonous"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +556,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "encircling",
+        "net",
+        "80",
+        "extends",
+        "difficult",
+        "escape",
+        "tentacles",
+        "poisonous"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +577,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "ensnare",
+        "kept",
+        "extended",
+        "immobilize",
+        "hunts",
+        "normally",
+        "short",
+        "tentacles"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +598,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "poisoning",
+        "stabbing",
+        "sting",
+        "80",
+        "pain",
+        "causing",
+        "tentacles",
+        "freely"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +617,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon’s outburst creates rough waves around it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "luminous"
+      ],
+      "keywords": [
+        "lashing",
+        "outburst",
+        "vicinity",
+        "blast",
+        "orbs",
+        "rough",
+        "glow",
+        "harsh",
+        "ultrasonic",
+        "red",
+        "creates"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +642,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "dosing",
+        "shortened",
+        "elongated",
+        "weakens",
+        "ensnares",
+        "toxin",
+        "80",
+        "harsh",
+        "tentacles",
+        "catch",
+        "freely",
+        "same"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +667,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Normally, it has 80 poisonous tentacles. The longer one has been alive, the fewer tentacles it will have.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "fewer",
+        "alive",
+        "80",
+        "normally",
+        "longer",
+        "tentacles",
+        "poisonous"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +687,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Although these Pokémon are rare, when a large outbreak of them occurs, all fish Pokémon disappear from the surrounding sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "outbreak",
+        "occurs",
+        "disappear",
+        "fish",
+        "surrounding",
+        "rare",
+        "although"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +707,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It fires off ultrasonic waves from its red orbs to weaken its prey, and then it wraps them up in its 80 tentacles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "weaken",
+        "orbs",
+        "80",
+        "wraps",
+        "fires",
+        "ultrasonic",
+        "tentacles",
+        "red"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +729,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It communicates with others of its kind by lighting up the red orbs on its head. When the orbs are blinking, it’s a warning sign.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blinking",
+        "lighting",
+        "orbs",
+        "communicates",
+        "warning",
+        "sign",
+        "red"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +747,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "wrap",
+        "weaken",
+        "contract",
+        "80",
+        "stretch",
+        "tentacles",
+        "freely"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +768,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "wrap",
+        "weaken",
+        "contract",
+        "80",
+        "stretch",
+        "tentacles",
+        "freely"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +789,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "fiery",
+        "luminous"
+      ],
+      "keywords": [
+        "burst",
+        "orbs",
+        "watch",
+        "brightly",
+        "glow",
+        "ultrasonic",
+        "red"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +811,24 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "shrink",
+        "stings",
+        "net",
+        "spread",
+        "delivering",
+        "ensnares",
+        "venomous",
+        "80",
+        "stretch",
+        "tentacles",
+        "catch",
+        "freely"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +836,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "extendible",
+        "lengthening",
+        "attempts",
+        "caution",
+        "venomous",
+        "80",
+        "tentacles",
+        "catch",
+        "tip"
+      ]
     }
   ],
   "similarPokemonIds": [

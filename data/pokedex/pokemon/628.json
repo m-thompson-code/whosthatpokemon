@@ -10,6 +10,75 @@
   ],
   "imagePath": "/assets/pokemon/628.png",
   "entryCount": 15,
+  "entryTraits": [
+    "sky-dwelling",
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "bloodcurdling",
+    "emblems",
+    "heroic",
+    "mocked",
+    "referring",
+    "soldiers",
+    "banded",
+    "belligerent",
+    "bravery",
+    "fears",
+    "habitats",
+    "hotheaded",
+    "majestic",
+    "motif",
+    "transportation",
+    "corviknight",
+    "alolan",
+    "sake",
+    "respected",
+    "scars",
+    "hero",
+    "screaming",
+    "warrior",
+    "retreat",
+    "role",
+    "scoops",
+    "peers",
+    "car",
+    "brave",
+    "respect",
+    "death",
+    "battling",
+    "flock",
+    "ferocious",
+    "taken",
+    "disturbed",
+    "proud",
+    "considered",
+    "galar",
+    "pride",
+    "injured",
+    "various",
+    "disposition",
+    "hunt",
+    "float",
+    "kinds",
+    "lakes",
+    "blasts",
+    "skies",
+    "front",
+    "themselves",
+    "past",
+    "carry",
+    "nothing",
+    "friends",
+    "cry",
+    "shock",
+    "stop",
+    "surface",
+    "huge",
+    "thought",
+    "bird"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +108,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "car",
+        "themselves",
+        "carry",
+        "friends",
+        "thought"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +124,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soldiers",
+        "scars",
+        "peers",
+        "brave",
+        "respect"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +142,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "sake",
+        "warrior",
+        "brave",
+        "battling",
+        "injured",
+        "friends",
+        "stop"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +162,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "sake",
+        "warrior",
+        "brave",
+        "battling",
+        "injured",
+        "friends",
+        "stop"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +182,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "sake",
+        "warrior",
+        "brave",
+        "battling",
+        "injured",
+        "friends",
+        "stop"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +202,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "car",
+        "themselves",
+        "carry",
+        "friends",
+        "thought"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +218,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "sake",
+        "warrior",
+        "brave",
+        "battling",
+        "injured",
+        "friends",
+        "stop"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +238,15 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "car",
+        "themselves",
+        "carry",
+        "friends",
+        "thought"
+      ]
     },
     {
       "versionId": 27,
@@ -103,7 +254,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "With its brave disposition, it fears nothing—not even death. Ancient Alolan people respected it, referring to it as “the hero of the sky.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "referring",
+        "fears",
+        "alolan",
+        "respected",
+        "hero",
+        "brave",
+        "death",
+        "disposition",
+        "nothing"
+      ]
     },
     {
       "versionId": 28,
@@ -111,7 +276,15 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It’s thought that people disturbed their habitats in the past, so Braviary banded together to fight back.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "banded",
+        "habitats",
+        "disturbed",
+        "past",
+        "thought"
+      ]
     },
     {
       "versionId": 29,
@@ -119,7 +292,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The more scars it has on its front, the more heroic it’s considered to be. Those with many scars on their back are mocked by the flock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heroic",
+        "mocked",
+        "scars",
+        "flock",
+        "considered",
+        "front"
+      ]
     },
     {
       "versionId": 30,
@@ -127,7 +309,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Known as “the hero of the skies,” this Pokémon is so proud and so brave that it will never retreat, even when it’s injured.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hero",
+        "retreat",
+        "brave",
+        "proud",
+        "injured",
+        "skies"
+      ]
     },
     {
       "versionId": 33,
@@ -135,7 +326,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Known for its bravery and pride, this majestic Pokémon is often seen as a motif for various kinds of emblems.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "emblems",
+        "bravery",
+        "majestic",
+        "motif",
+        "pride",
+        "various",
+        "kinds"
+      ]
     },
     {
       "versionId": 34,
@@ -143,7 +344,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Because this Pokémon is hotheaded and belligerent, it’s Corviknight that’s taken the role of transportation in Galar.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "belligerent",
+        "hotheaded",
+        "transportation",
+        "corviknight",
+        "role",
+        "taken",
+        "galar"
+      ]
     },
     {
       "versionId": 39,
@@ -151,7 +362,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "bloodcurdling",
+        "screaming",
+        "scoops",
+        "ferocious",
+        "hunt",
+        "float",
+        "lakes",
+        "blasts",
+        "cry",
+        "shock",
+        "surface",
+        "huge",
+        "bird"
+      ]
     }
   ],
   "similarPokemonIds": [

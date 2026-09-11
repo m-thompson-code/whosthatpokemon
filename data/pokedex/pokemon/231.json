@@ -9,6 +9,70 @@
   ],
   "imagePath": "/assets/pokemon/231.png",
   "entryCount": 21,
+  "entryTraits": [
+    "desert-dwelling",
+    "aquatic",
+    "burrowing",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "fection",
+    "gerous",
+    "af",
+    "dan",
+    "claimed",
+    "affection",
+    "drying",
+    "ed",
+    "soaking",
+    "douse",
+    "compact",
+    "vertical",
+    "ashore",
+    "playfully",
+    "thoroughly",
+    "trunk",
+    "busily",
+    "know",
+    "snout",
+    "fans",
+    "shower",
+    "pit",
+    "wet",
+    "marks",
+    "adult",
+    "cool",
+    "serve",
+    "deftly",
+    "bumps",
+    "morning",
+    "broad",
+    "edge",
+    "swings",
+    "pick",
+    "river",
+    "play",
+    "fully",
+    "dangerous",
+    "send",
+    "hours",
+    "sign",
+    "let",
+    "despite",
+    "flaps",
+    "carry",
+    "young",
+    "area",
+    "digs",
+    "size",
+    "desert",
+    "human",
+    "nose",
+    "ears",
+    "hot",
+    "gather",
+    "big"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": "rough-terrain",
@@ -38,7 +102,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It swings its long snout around play­ fully, but because it is so strong, that can be dan­ gerous.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gerous",
+        "dan",
+        "snout",
+        "swings",
+        "play",
+        "fully"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +119,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "As a sign of af­ fection, it bumps with its snout. However, it is so strong, it may send you flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fection",
+        "af",
+        "snout",
+        "bumps",
+        "send",
+        "sign"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +136,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "During the desert­ ed morning hours, it comes ashore where it deftly uses its trunk to take a shower.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "ed",
+        "ashore",
+        "trunk",
+        "shower",
+        "deftly",
+        "morning",
+        "hours",
+        "desert"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +157,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "For its nest, PHANPY digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "burrowing"
+      ],
+      "keywords": [
+        "claimed",
+        "vertical",
+        "trunk",
+        "know",
+        "pit",
+        "marks",
+        "edge",
+        "river",
+        "let",
+        "area",
+        "digs"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +182,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PHANPY uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These POKéMON can be seen drying their soaking-wet bodies at the edge of water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "drying",
+        "soaking",
+        "douse",
+        "thoroughly",
+        "shower",
+        "wet",
+        "edge",
+        "nose",
+        "gather"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +204,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "PHANPY’s big ears serve as broad fans. When it becomes hot, it flaps the ears busily to cool down. Even the young are very strong.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "busily",
+        "fans",
+        "cool",
+        "serve",
+        "broad",
+        "flaps",
+        "young",
+        "ears",
+        "hot",
+        "big"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +227,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "affection",
+        "snout",
+        "bumps",
+        "send",
+        "sign"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +243,14 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It swings its long snout around playfully, but because it is so strong, this can be dangerous.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "playfully",
+        "snout",
+        "swings",
+        "dangerous"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +258,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compact",
+        "adult",
+        "pick",
+        "despite",
+        "carry",
+        "size",
+        "human"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +276,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compact",
+        "adult",
+        "pick",
+        "despite",
+        "carry",
+        "size",
+        "human"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +294,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compact",
+        "adult",
+        "pick",
+        "despite",
+        "carry",
+        "size",
+        "human"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +312,14 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It swings its long snout around playfully, but because it is so strong, that can be dangerous.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "playfully",
+        "snout",
+        "swings",
+        "dangerous"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +327,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "affection",
+        "snout",
+        "bumps",
+        "send",
+        "sign"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +343,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compact",
+        "adult",
+        "pick",
+        "despite",
+        "carry",
+        "size",
+        "human"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +361,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compact",
+        "adult",
+        "pick",
+        "despite",
+        "carry",
+        "size",
+        "human"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +379,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compact",
+        "adult",
+        "pick",
+        "despite",
+        "carry",
+        "size",
+        "human"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +397,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compact",
+        "adult",
+        "pick",
+        "despite",
+        "carry",
+        "size",
+        "human"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +415,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "affection",
+        "snout",
+        "bumps",
+        "send",
+        "sign"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +431,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "compact",
+        "adult",
+        "pick",
+        "despite",
+        "carry",
+        "size",
+        "human"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +449,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "burrowing"
+      ],
+      "keywords": [
+        "claimed",
+        "vertical",
+        "trunk",
+        "know",
+        "pit",
+        "marks",
+        "edge",
+        "river",
+        "let",
+        "area",
+        "digs"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +474,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "drying",
+        "soaking",
+        "douse",
+        "thoroughly",
+        "shower",
+        "wet",
+        "edge",
+        "nose",
+        "gather"
+      ]
     }
   ],
   "similarPokemonIds": [

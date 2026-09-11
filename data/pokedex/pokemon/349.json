@@ -9,6 +9,90 @@
   ],
   "imagePath": "/assets/pokemon/349.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "populous",
+    "wretched",
+    "dimwitted",
+    "heavily",
+    "hopelessly",
+    "marvelous",
+    "ridiculed",
+    "shoddy",
+    "subject",
+    "unattractive",
+    "unpopular",
+    "shabbiest",
+    "choked",
+    "pay",
+    "ragged",
+    "tattered",
+    "tatters",
+    "pays",
+    "tend",
+    "ugly",
+    "researchers",
+    "collect",
+    "ignored",
+    "largely",
+    "infested",
+    "tenacious",
+    "shabby",
+    "weeds",
+    "attention",
+    "d",
+    "taste",
+    "continue",
+    "easy",
+    "schools",
+    "anywhere",
+    "streams",
+    "raise",
+    "locations",
+    "numbers",
+    "perfectly",
+    "polluted",
+    "ponds",
+    "vitality",
+    "cluster",
+    "famous",
+    "hardy",
+    "start",
+    "bad",
+    "isn",
+    "slow",
+    "alone",
+    "set",
+    "catches",
+    "due",
+    "dirty",
+    "lakes",
+    "research",
+    "predators",
+    "few",
+    "survive",
+    "forms",
+    "enables",
+    "fine",
+    "bottom",
+    "rivers",
+    "seems",
+    "appearance",
+    "popular",
+    "fins",
+    "little",
+    "catch",
+    "look",
+    "living",
+    "force",
+    "tough",
+    "capable",
+    "won",
+    "although",
+    "eat"
+  ],
   "color": "brown",
   "shape": "fish",
   "habitat": "waters-edge",
@@ -39,7 +123,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "FEEBAS’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POKéMON is largely ignored. It is capable of living in both the sea and in rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "shoddy",
+        "ragged",
+        "tattered",
+        "ignored",
+        "largely",
+        "start",
+        "rivers",
+        "appearance",
+        "fins",
+        "living",
+        "capable"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +147,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "While FEEBAS’s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this POKéMON is also slow and dimwitted, making it an easy catch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "dimwitted",
+        "tatters",
+        "tenacious",
+        "easy",
+        "anywhere",
+        "hardy",
+        "slow",
+        "enables",
+        "catch",
+        "force"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +168,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "FEEBAS live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few TRAINERS raise it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "heavily",
+        "hopelessly",
+        "infested",
+        "shabby",
+        "weeds",
+        "raise",
+        "ponds",
+        "few",
+        "seems",
+        "appearance"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +189,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ridiculed",
+        "choked",
+        "researchers",
+        "ignored",
+        "shabby",
+        "weeds",
+        "ponds",
+        "appearance"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +208,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ridiculed",
+        "choked",
+        "researchers",
+        "ignored",
+        "shabby",
+        "weeds",
+        "ponds",
+        "appearance"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +227,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is famous for its shabby appearance. While populous, they tend to cluster in set locations.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "populous",
+        "tend",
+        "shabby",
+        "locations",
+        "cluster",
+        "famous",
+        "set",
+        "appearance"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +246,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pays",
+        "attention",
+        "streams",
+        "polluted",
+        "lakes"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +262,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ugly",
+        "shabby",
+        "hardy",
+        "survive",
+        "little"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +280,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shabbiest",
+        "schools",
+        "forms",
+        "bottom",
+        "rivers"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +296,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shabbiest",
+        "schools",
+        "forms",
+        "bottom",
+        "rivers"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +312,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ugly",
+        "shabby",
+        "hardy",
+        "survive",
+        "little"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +330,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ugly",
+        "shabby",
+        "hardy",
+        "survive",
+        "little"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +348,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ugly",
+        "shabby",
+        "hardy",
+        "survive",
+        "little"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +366,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ugly",
+        "shabby",
+        "hardy",
+        "survive",
+        "little"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +384,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pays",
+        "attention",
+        "streams",
+        "polluted",
+        "lakes"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +400,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "shabbiest",
+        "schools",
+        "forms",
+        "bottom",
+        "rivers"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +416,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Feebas’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "shoddy",
+        "ragged",
+        "tattered",
+        "ignored",
+        "largely",
+        "start",
+        "rivers",
+        "appearance",
+        "fins",
+        "living",
+        "capable"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +440,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "While Feebas’s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "dimwitted",
+        "tatters",
+        "tenacious",
+        "easy",
+        "anywhere",
+        "hardy",
+        "slow",
+        "enables",
+        "catch",
+        "force"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +461,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A tough Pokémon that is perfectly fine even in dirty water. However, due to its ragged, shabby appearance, it isn’t popular.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ragged",
+        "shabby",
+        "perfectly",
+        "isn",
+        "due",
+        "dirty",
+        "fine",
+        "appearance",
+        "popular",
+        "tough"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +484,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Although unattractive and unpopular, this Pokémon’s marvelous vitality has made it a subject of research.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "marvelous",
+        "subject",
+        "unattractive",
+        "unpopular",
+        "vitality",
+        "research",
+        "although"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +502,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They look ragged, so no one catches them. They look like they’d taste bad, so predators won’t eat them. And their numbers continue to grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ragged",
+        "d",
+        "taste",
+        "continue",
+        "numbers",
+        "bad",
+        "catches",
+        "predators",
+        "look",
+        "won",
+        "eat"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +524,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Because of its wretched appearance, most people pay it no attention, but there are some who collect Feebas—and Feebas alone!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "wretched",
+        "pay",
+        "collect",
+        "attention",
+        "alone",
+        "appearance"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +541,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Although unattractive and unpopular, this Pokémon’s marvelous vitality has made it a subject of research.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "marvelous",
+        "subject",
+        "unattractive",
+        "unpopular",
+        "vitality",
+        "research",
+        "although"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +559,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ugly",
+        "shabby",
+        "hardy",
+        "survive",
+        "little"
+      ]
     }
   ],
   "similarPokemonIds": [

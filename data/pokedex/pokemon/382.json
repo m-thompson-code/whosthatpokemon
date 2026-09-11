@@ -9,6 +9,67 @@
   ],
   "imagePath": "/assets/pokemon/382.png",
   "entryCount": 18,
+  "entryTraits": [
+    "sky-dwelling",
+    "aquatic",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "droughts",
+    "cataclysmic",
+    "personification",
+    "primal",
+    "reversion",
+    "torrential",
+    "creator",
+    "feuding",
+    "sought",
+    "swelled",
+    "clashes",
+    "took",
+    "expanded",
+    "mythical",
+    "suffering",
+    "summon",
+    "bringing",
+    "saved",
+    "widened",
+    "downpours",
+    "battled",
+    "storms",
+    "groudon",
+    "marine",
+    "levels",
+    "tidal",
+    "mythology",
+    "named",
+    "rains",
+    "trench",
+    "towering",
+    "gain",
+    "appeared",
+    "rise",
+    "cover",
+    "true",
+    "legends",
+    "covering",
+    "massive",
+    "causing",
+    "bring",
+    "clouds",
+    "bottom",
+    "had",
+    "tell",
+    "asleep",
+    "rain",
+    "against",
+    "create",
+    "entire",
+    "full",
+    "nature",
+    "heavy",
+    "seas"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "sea",
@@ -38,7 +99,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "KYOGRE has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours. This POKéMON saved people who were suffering from droughts.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "droughts",
+        "torrential",
+        "suffering",
+        "saved",
+        "downpours",
+        "cover",
+        "massive",
+        "bring",
+        "clouds",
+        "rain",
+        "create",
+        "entire"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +124,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KYOGRE is named in mythology as the POKéMON that expanded the sea by covering the land with torrential rains and towering tidal waves. It took to sleep after a cataclysmic battle with GROUDON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "cataclysmic",
+        "torrential",
+        "took",
+        "expanded",
+        "groudon",
+        "tidal",
+        "mythology",
+        "named",
+        "rains",
+        "towering",
+        "covering"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +149,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "KYOGRE has appeared in mythology as the creator of the sea. After long years of feuding with GROUDON, it took to sleep at the bottom of the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "creator",
+        "feuding",
+        "took",
+        "groudon",
+        "mythology",
+        "appeared",
+        "bottom"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +170,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON is said to have expanded the sea by bringing heavy rains. It has the power to control water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "expanded",
+        "bringing",
+        "rains",
+        "heavy"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +187,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON is said to have expanded the sea by bringing heavy rains. It has the power to control water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "expanded",
+        "bringing",
+        "rains",
+        "heavy"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +204,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "widened",
+        "downpours",
+        "marine",
+        "trench",
+        "causing",
+        "had",
+        "asleep",
+        "seas"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +223,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "widened",
+        "downpours",
+        "marine",
+        "trench",
+        "causing",
+        "had",
+        "asleep",
+        "seas"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +242,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "widened",
+        "downpours",
+        "marine",
+        "trench",
+        "causing",
+        "had",
+        "asleep",
+        "seas"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +261,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with GROUDON.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "swelled",
+        "mythical",
+        "battled",
+        "groudon",
+        "tidal",
+        "rain",
+        "seas"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +281,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with GROUDON.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "swelled",
+        "mythical",
+        "battled",
+        "groudon",
+        "tidal",
+        "rain",
+        "seas"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +301,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "widened",
+        "downpours",
+        "marine",
+        "trench",
+        "causing",
+        "had",
+        "asleep",
+        "seas"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +320,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "widened",
+        "downpours",
+        "marine",
+        "trench",
+        "causing",
+        "had",
+        "asleep",
+        "seas"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +339,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "widened",
+        "downpours",
+        "marine",
+        "trench",
+        "causing",
+        "had",
+        "asleep",
+        "seas"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +358,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "widened",
+        "downpours",
+        "marine",
+        "trench",
+        "causing",
+        "had",
+        "asleep",
+        "seas"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +377,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with Groudon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "swelled",
+        "mythical",
+        "battled",
+        "groudon",
+        "tidal",
+        "rain",
+        "seas"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +397,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "widened",
+        "downpours",
+        "marine",
+        "trench",
+        "causing",
+        "had",
+        "asleep",
+        "seas"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +416,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can summon storms that cause the sea levels to rise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "primal",
+        "reversion",
+        "summon",
+        "storms",
+        "levels",
+        "rise",
+        "true",
+        "full",
+        "nature"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +438,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "personification",
+        "sought",
+        "clashes",
+        "groudon",
+        "gain",
+        "legends",
+        "tell",
+        "against",
+        "nature"
+      ]
     }
   ],
   "similarPokemonIds": [

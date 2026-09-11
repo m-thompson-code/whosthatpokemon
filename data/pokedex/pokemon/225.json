@@ -10,6 +10,70 @@
   ],
   "imagePath": "/assets/pokemon/225.png",
   "entryCount": 27,
+  "entryTraits": [
+    "mountain-dwelling",
+    "tail",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "await",
+    "omnivorous",
+    "generous",
+    "locales",
+    "scrounging",
+    "everest",
+    "mt",
+    "extent",
+    "bundled",
+    "explorer",
+    "highest",
+    "stranded",
+    "chicks",
+    "saved",
+    "naturally",
+    "peak",
+    "boss",
+    "colder",
+    "managed",
+    "scale",
+    "sharing",
+    "rolled",
+    "tales",
+    "seem",
+    "biggest",
+    "flock",
+    "wherever",
+    "awaiting",
+    "carrying",
+    "famous",
+    "ing",
+    "thanks",
+    "certain",
+    "withstand",
+    "edge",
+    "spends",
+    "cliffs",
+    "habit",
+    "alola",
+    "shares",
+    "someone",
+    "reach",
+    "throws",
+    "wraps",
+    "nests",
+    "bug",
+    "had",
+    "carry",
+    "able",
+    "carries",
+    "stored",
+    "prefers",
+    "lost",
+    "attacked",
+    "mountain",
+    "heat",
+    "although"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": "mountain",
@@ -40,7 +104,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "saved",
+        "tales",
+        "had",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +120,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It nests at the edge of sharp cliffs. It spends all day carrying food to its await­ ing chicks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "await",
+        "chicks",
+        "carrying",
+        "ing",
+        "edge",
+        "spends",
+        "cliffs",
+        "nests"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +141,14 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wherever",
+        "throws",
+        "carries",
+        "attacked"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +156,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DELIBIRD carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these POKéMON sharing its food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "everest",
+        "mt",
+        "bundled",
+        "explorer",
+        "peak",
+        "managed",
+        "sharing",
+        "famous",
+        "thanks",
+        "reach",
+        "carries"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +180,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DELIBIRD carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these POKéMON sharing its food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "everest",
+        "mt",
+        "bundled",
+        "explorer",
+        "peak",
+        "managed",
+        "sharing",
+        "famous",
+        "thanks",
+        "reach",
+        "carries"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +204,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a DELIBIRD sharing its food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "everest",
+        "mt",
+        "bundled",
+        "explorer",
+        "managed",
+        "scale",
+        "sharing",
+        "famous",
+        "thanks",
+        "carries"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +227,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "chicks",
+        "awaiting",
+        "carrying",
+        "edge",
+        "spends",
+        "cliffs",
+        "nests"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +247,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "saved",
+        "tales",
+        "had",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +263,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "sharing",
+        "rolled",
+        "habit",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +282,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "sharing",
+        "rolled",
+        "habit",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +301,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "sharing",
+        "rolled",
+        "habit",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +320,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It carries food all day long. There are tales about lost people who were saved by its stored food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "saved",
+        "tales",
+        "carries",
+        "stored",
+        "lost"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +336,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "chicks",
+        "awaiting",
+        "carrying",
+        "edge",
+        "spends",
+        "cliffs",
+        "nests"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +356,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "sharing",
+        "rolled",
+        "habit",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +375,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "sharing",
+        "rolled",
+        "habit",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +394,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "shares",
+        "someone",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +411,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "shares",
+        "someone",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +428,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "sharing",
+        "rolled",
+        "habit",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +447,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "shares",
+        "someone",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +464,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world’s highest mountain, thanks to one of these Pokémon sharing its food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "bundled",
+        "explorer",
+        "highest",
+        "peak",
+        "managed",
+        "sharing",
+        "famous",
+        "thanks",
+        "reach",
+        "carries",
+        "mountain"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +489,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world’s highest mountain, thanks to one of these Pokémon sharing its food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "bundled",
+        "explorer",
+        "highest",
+        "peak",
+        "managed",
+        "sharing",
+        "famous",
+        "thanks",
+        "reach",
+        "carries",
+        "mountain"
+      ]
     },
     {
       "versionId": 27,
@@ -208,7 +514,24 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Although it naturally prefers colder locales, Delibird in Alola seem able to withstand the heat to a certain extent.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "locales",
+        "extent",
+        "naturally",
+        "colder",
+        "seem",
+        "certain",
+        "withstand",
+        "alola",
+        "able",
+        "prefers",
+        "heat",
+        "although"
+      ]
     },
     {
       "versionId": 28,
@@ -216,7 +539,14 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "generous",
+        "scrounging",
+        "sharing",
+        "habit"
+      ]
     },
     {
       "versionId": 29,
@@ -224,7 +554,14 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It shares its food with people who are stranded. Because Delibird is omnivorous, sometimes it gives those people bug Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "omnivorous",
+        "stranded",
+        "shares",
+        "bug"
+      ]
     },
     {
       "versionId": 30,
@@ -232,7 +569,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It wraps food in its tail to carry it around. The Delibird with the biggest tail is the boss of the flock!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "boss",
+        "biggest",
+        "flock",
+        "wraps",
+        "carry"
+      ]
     },
     {
       "versionId": 33,
@@ -240,7 +587,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "saved",
+        "tales",
+        "had",
+        "carries",
+        "lost"
+      ]
     },
     {
       "versionId": 34,
@@ -248,7 +603,14 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "generous",
+        "scrounging",
+        "sharing",
+        "habit"
+      ]
     }
   ],
   "similarPokemonIds": [

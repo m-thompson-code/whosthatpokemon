@@ -10,6 +10,62 @@
   ],
   "imagePath": "/assets/pokemon/451.png",
   "entryCount": 16,
+  "entryTraits": [
+    "claws",
+    "tail",
+    "hunting",
+    "poisonous",
+    "desert-dwelling",
+    "burrowing",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "locked",
+    "descent",
+    "sizzlipede",
+    "razor",
+    "burrowing",
+    "tenaciously",
+    "lie",
+    "injects",
+    "seeps",
+    "buries",
+    "inject",
+    "needle",
+    "grip",
+    "patiently",
+    "secrete",
+    "grips",
+    "temperatures",
+    "weakened",
+    "lies",
+    "wait",
+    "waiting",
+    "savage",
+    "unsuspecting",
+    "unable",
+    "hangs",
+    "common",
+    "lands",
+    "share",
+    "regions",
+    "dangerous",
+    "soon",
+    "survive",
+    "arid",
+    "tips",
+    "waits",
+    "burrows",
+    "year",
+    "seems",
+    "near",
+    "poisonous",
+    "sand",
+    "highly",
+    "takes",
+    "close"
+  ],
   "color": "purple",
   "shape": "armor",
   "habitat": null,
@@ -40,7 +96,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "tenaciously",
+        "injects",
+        "grips",
+        "hangs",
+        "takes"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +117,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "buries",
+        "lies",
+        "wait",
+        "unsuspecting",
+        "lands",
+        "arid",
+        "sand"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +138,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "needle",
+        "secrete",
+        "soon",
+        "survive",
+        "tips",
+        "year",
+        "close"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +160,23 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "claws",
+        "tail",
+        "burrowing",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "lie",
+        "inject",
+        "wait",
+        "savage",
+        "burrows",
+        "sand"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +184,23 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "claws",
+        "tail",
+        "burrowing",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "lie",
+        "inject",
+        "wait",
+        "savage",
+        "burrows",
+        "sand"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +208,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "needle",
+        "secrete",
+        "soon",
+        "survive",
+        "tips",
+        "year",
+        "close"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +230,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "needle",
+        "secrete",
+        "soon",
+        "survive",
+        "tips",
+        "year",
+        "close"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +252,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in arid regions and can go without food for a year while waiting for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "waiting",
+        "regions",
+        "arid",
+        "year"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +269,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in arid regions and can go without food for a year while waiting for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "waiting",
+        "regions",
+        "arid",
+        "year"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +286,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "tenaciously",
+        "injects",
+        "grips",
+        "hangs",
+        "takes"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +307,23 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "claws",
+        "tail",
+        "burrowing",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "lie",
+        "inject",
+        "wait",
+        "savage",
+        "burrows",
+        "sand"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +331,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "tenaciously",
+        "injects",
+        "grips",
+        "hangs",
+        "takes"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +352,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "claws",
+        "tail",
+        "burrowing",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "lie",
+        "inject",
+        "wait",
+        "savage",
+        "burrows",
+        "sand"
+      ]
     },
     {
       "versionId": 33,
@@ -144,7 +376,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "After burrowing into the sand, it waits patiently for prey to come near. This Pokémon and Sizzlipede share common descent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing",
+        "hunting"
+      ],
+      "keywords": [
+        "descent",
+        "sizzlipede",
+        "burrowing",
+        "patiently",
+        "common",
+        "share",
+        "waits",
+        "near",
+        "sand"
+      ]
     },
     {
       "versionId": 34,
@@ -152,7 +400,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon’s poison seeps in.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "tail",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "locked",
+        "seeps",
+        "grip",
+        "unable"
+      ]
     },
     {
       "versionId": 39,
@@ -160,7 +420,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "claws",
+        "icy",
+        "poisonous"
+      ],
+      "keywords": [
+        "razor",
+        "temperatures",
+        "weakened",
+        "dangerous",
+        "seems",
+        "poisonous",
+        "highly"
+      ]
     }
   ],
   "similarPokemonIds": [

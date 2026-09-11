@@ -9,6 +9,40 @@
   ],
   "imagePath": "/assets/pokemon/616.png",
   "entryCount": 10,
+  "entryTraits": [
+    "shell",
+    "poisonous",
+    "electric"
+  ],
+  "entryKeywords": [
+    "lid",
+    "physiology",
+    "responds",
+    "shuts",
+    "stimulation",
+    "spit",
+    "karrablast",
+    "bathed",
+    "defends",
+    "tightly",
+    "reaction",
+    "receive",
+    "fails",
+    "closing",
+    "unknown",
+    "sticky",
+    "liquid",
+    "strange",
+    "electrical",
+    "evolves",
+    "evolve",
+    "reason",
+    "poisonous",
+    "electric",
+    "attacked",
+    "along",
+    "still"
+  ],
   "color": "red",
   "shape": "ball",
   "habitat": null,
@@ -38,7 +72,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "poisonous"
+      ],
+      "keywords": [
+        "lid",
+        "spit",
+        "defends",
+        "closing",
+        "sticky",
+        "liquid",
+        "poisonous",
+        "attacked"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +94,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "karrablast",
+        "bathed",
+        "unknown",
+        "evolves",
+        "reason",
+        "electric",
+        "along",
+        "still"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +115,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stimulation",
+        "karrablast",
+        "receive",
+        "electrical",
+        "evolve"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +131,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stimulation",
+        "karrablast",
+        "receive",
+        "electrical",
+        "evolve"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +147,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stimulation",
+        "karrablast",
+        "receive",
+        "electrical",
+        "evolve"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +163,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "karrablast",
+        "bathed",
+        "unknown",
+        "evolves",
+        "reason",
+        "electric",
+        "along",
+        "still"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +184,15 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stimulation",
+        "karrablast",
+        "receive",
+        "electrical",
+        "evolve"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +200,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "karrablast",
+        "bathed",
+        "unknown",
+        "evolves",
+        "reason",
+        "electric",
+        "along",
+        "still"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +221,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "lid",
+        "shuts",
+        "karrablast",
+        "tightly",
+        "reaction",
+        "fails",
+        "attacked",
+        "still"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +242,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "physiology",
+        "responds",
+        "karrablast",
+        "strange",
+        "evolves",
+        "reason"
+      ]
     }
   ],
   "similarPokemonIds": [

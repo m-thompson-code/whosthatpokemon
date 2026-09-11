@@ -10,6 +10,49 @@
   ],
   "imagePath": "/assets/pokemon/702.png",
   "entryCount": 8,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "electric"
+  ],
+  "entryKeywords": [
+    "handiwork",
+    "rascal",
+    "survey",
+    "receiving",
+    "upper",
+    "outlets",
+    "antennas",
+    "sensors",
+    "sending",
+    "vast",
+    "distances",
+    "bill",
+    "organs",
+    "locations",
+    "homes",
+    "sneaks",
+    "serve",
+    "lower",
+    "whiskers",
+    "steals",
+    "pick",
+    "share",
+    "shoot",
+    "send",
+    "houses",
+    "electrical",
+    "absorb",
+    "fires",
+    "communicate",
+    "seems",
+    "generate",
+    "since",
+    "electric",
+    "plants",
+    "another",
+    "surroundings"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +83,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "receiving",
+        "antennas",
+        "sending",
+        "vast",
+        "distances",
+        "serve",
+        "whiskers",
+        "electrical",
+        "communicate"
+      ]
     },
     {
       "versionId": 24,
@@ -48,7 +105,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "outlets",
+        "whiskers",
+        "houses",
+        "absorb",
+        "fires",
+        "plants"
+      ]
     },
     {
       "versionId": 25,
@@ -56,7 +125,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "receiving",
+        "antennas",
+        "sending",
+        "vast",
+        "distances",
+        "serve",
+        "whiskers",
+        "electrical",
+        "communicate"
+      ]
     },
     {
       "versionId": 26,
@@ -64,7 +147,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "electric"
+      ],
+      "keywords": [
+        "outlets",
+        "whiskers",
+        "houses",
+        "absorb",
+        "fires",
+        "plants"
+      ]
     },
     {
       "versionId": 29,
@@ -72,7 +167,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It sneaks into people’s homes and steals electricity from their outlets. When your electric bill seems off, it’s the handiwork of this rascal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "handiwork",
+        "rascal",
+        "outlets",
+        "bill",
+        "homes",
+        "sneaks",
+        "steals",
+        "seems",
+        "electric"
+      ]
     },
     {
       "versionId": 30,
@@ -80,7 +189,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "survey",
+        "upper",
+        "sensors",
+        "organs",
+        "lower",
+        "whiskers",
+        "shoot",
+        "surroundings"
+      ]
     },
     {
       "versionId": 33,
@@ -88,7 +210,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "A Dedenne’s whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "electric"
+      ],
+      "keywords": [
+        "locations",
+        "whiskers",
+        "pick",
+        "share",
+        "send",
+        "electrical",
+        "another"
+      ]
     },
     {
       "versionId": 34,
@@ -96,7 +231,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "outlets",
+        "steals",
+        "generate",
+        "since",
+        "electric"
+      ]
     }
   ],
   "similarPokemonIds": [

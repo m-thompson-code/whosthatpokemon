@@ -9,6 +9,56 @@
   ],
   "imagePath": "/assets/pokemon/007.png",
   "entryCount": 28,
+  "entryTraits": [
+    "shell",
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "ding",
+    "prod",
+    "prodding",
+    "foam",
+    "retracts",
+    "resilient",
+    "vigorous",
+    "merely",
+    "rounded",
+    "squirts",
+    "grooves",
+    "minimize",
+    "shelters",
+    "swells",
+    "resistance",
+    "withdraws",
+    "fingers",
+    "opportunity",
+    "powerfully",
+    "threatened",
+    "enabling",
+    "bounce",
+    "draws",
+    "hardens",
+    "sprays",
+    "limbs",
+    "spouts",
+    "shape",
+    "soon",
+    "strikes",
+    "poke",
+    "speeds",
+    "protection",
+    "help",
+    "birth",
+    "soft",
+    "feels",
+    "swim",
+    "shoots",
+    "neck",
+    "surface",
+    "force",
+    "born"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -39,7 +89,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "foam",
+        "swells",
+        "powerfully",
+        "hardens",
+        "sprays",
+        "birth"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +108,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "foam",
+        "swells",
+        "powerfully",
+        "hardens",
+        "sprays",
+        "birth"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +127,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "withdraws",
+        "shoots"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +144,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The shell is soft when it is born. It soon becomes so resilient, prod­ ding fingers will bounce off it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "ding",
+        "prod",
+        "resilient",
+        "fingers",
+        "bounce",
+        "soon",
+        "soft",
+        "born"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +165,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "resilient",
+        "bounce",
+        "hardens",
+        "soon",
+        "poke",
+        "born"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +184,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it feels threatened, it draws its legs inside its shell and sprays water from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "threatened",
+        "draws",
+        "sprays",
+        "feels"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +202,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SQUIRTLE’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this POKéMON to swim at high speeds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "merely",
+        "rounded",
+        "grooves",
+        "minimize",
+        "resistance",
+        "enabling",
+        "shape",
+        "speeds",
+        "protection",
+        "help",
+        "swim",
+        "surface"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +228,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SQUIRTLE’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this POKéMON to swim at high speeds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "merely",
+        "rounded",
+        "grooves",
+        "minimize",
+        "resistance",
+        "enabling",
+        "shape",
+        "speeds",
+        "protection",
+        "help",
+        "swim",
+        "surface"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +254,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling SQUIRTLE to swim at high speeds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "rounded",
+        "grooves",
+        "minimize",
+        "resistance",
+        "enabling",
+        "shape",
+        "speeds",
+        "protection",
+        "swim",
+        "surface"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +278,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "retracts",
+        "vigorous",
+        "squirts",
+        "neck",
+        "force"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +297,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "After birth, its back swells and hardens into a shell. It powerfully sprays foam from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "foam",
+        "swells",
+        "powerfully",
+        "hardens",
+        "sprays",
+        "birth"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +316,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "shelters",
+        "opportunity",
+        "spouts",
+        "strikes"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +334,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "shelters",
+        "opportunity",
+        "spouts",
+        "strikes"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +352,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "shelters",
+        "opportunity",
+        "spouts",
+        "strikes"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +370,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "prodding",
+        "resilient",
+        "fingers",
+        "bounce",
+        "soon",
+        "soft",
+        "born"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +390,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "resilient",
+        "bounce",
+        "hardens",
+        "soon",
+        "poke",
+        "born"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +409,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "shelters",
+        "opportunity",
+        "spouts",
+        "strikes"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +427,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "shelters",
+        "opportunity",
+        "spouts",
+        "strikes"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +445,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It shelters itself in its shell then strikes back with spouts of water at every opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "shelters",
+        "opportunity",
+        "spouts",
+        "strikes"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +463,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It shelters itself in its shell then strikes back with spouts of water at every opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "shelters",
+        "opportunity",
+        "spouts",
+        "strikes"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +481,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "shelters",
+        "opportunity",
+        "spouts",
+        "strikes"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +499,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "withdraws",
+        "shoots"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +516,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Squirtle’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "merely",
+        "rounded",
+        "grooves",
+        "minimize",
+        "resistance",
+        "enabling",
+        "shape",
+        "speeds",
+        "protection",
+        "help",
+        "swim",
+        "surface"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +542,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Squirtle’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "merely",
+        "rounded",
+        "grooves",
+        "minimize",
+        "resistance",
+        "enabling",
+        "shape",
+        "speeds",
+        "protection",
+        "help",
+        "swim",
+        "surface"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +568,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "withdraws",
+        "shoots"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +585,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "withdraws",
+        "shoots"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +602,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "retracts",
+        "vigorous",
+        "squirts",
+        "neck",
+        "force"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +621,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "threatened",
+        "draws",
+        "sprays",
+        "limbs",
+        "feels"
+      ]
     }
   ],
   "similarPokemonIds": [

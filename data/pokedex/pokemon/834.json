@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/834.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "shear",
+    "unfortunate",
+    "retractable",
+    "rods",
+    "sink",
+    "chomps",
+    "rapidly",
+    "distant",
+    "extends",
+    "aggressive",
+    "jaws",
+    "neck",
+    "highly"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": null,
@@ -40,7 +59,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "shear",
+        "unfortunate",
+        "rods",
+        "chomps",
+        "aggressive",
+        "jaws",
+        "highly"
+      ]
     },
     {
       "versionId": 34,
@@ -48,7 +79,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "retractable",
+        "sink",
+        "rapidly",
+        "distant",
+        "extends",
+        "neck"
+      ]
     }
   ],
   "similarPokemonIds": [

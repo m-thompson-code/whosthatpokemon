@@ -9,6 +9,49 @@
   ],
   "imagePath": "/assets/pokemon/753.png",
   "entryCount": 6,
+  "entryTraits": [
+    "nocturnal",
+    "sleeping",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "safer",
+    "peacefully",
+    "refreshing",
+    "soaks",
+    "basks",
+    "pleasantly",
+    "regularly",
+    "bathes",
+    "cutiefly",
+    "sunshine",
+    "bathed",
+    "wakes",
+    "coloration",
+    "rises",
+    "vivid",
+    "hiding",
+    "pleasant",
+    "spreads",
+    "tall",
+    "looking",
+    "bug",
+    "walks",
+    "falls",
+    "near",
+    "four",
+    "causes",
+    "place",
+    "scent",
+    "aroma",
+    "sleeps",
+    "emits",
+    "grass",
+    "tip",
+    "gather",
+    "sun",
+    "sunlight"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +81,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "sleeping",
+        "luminous"
+      ],
+      "keywords": [
+        "safer",
+        "soaks",
+        "looking",
+        "walks",
+        "falls",
+        "place",
+        "sleeps"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +103,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "They give off a sweet and refreshing scent. Cutiefly often gather near the tall grass where Fomantis are hiding.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "refreshing",
+        "cutiefly",
+        "hiding",
+        "tall",
+        "near",
+        "scent",
+        "grass",
+        "gather"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +122,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When the sun rises, Fomantis spreads its four leaves and bathes in the sunlight. The tip of its head has a pleasant aroma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bathes",
+        "rises",
+        "pleasant",
+        "spreads",
+        "four",
+        "aroma",
+        "tip",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +142,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "basks",
+        "regularly",
+        "sunshine",
+        "coloration",
+        "vivid",
+        "sunlight"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +159,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When bathed in sunlight, this Pokémon emits a pleasantly sweet scent, which causes bug Pokémon to gather around it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pleasantly",
+        "bathed",
+        "bug",
+        "causes",
+        "scent",
+        "emits",
+        "gather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +178,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "peacefully",
+        "basks",
+        "wakes",
+        "sleeps",
+        "sunlight"
+      ]
     }
   ],
   "similarPokemonIds": [

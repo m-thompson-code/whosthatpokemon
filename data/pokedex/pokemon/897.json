@@ -9,6 +9,29 @@
   ],
   "imagePath": "/assets/pokemon/897.png",
   "entryCount": 2,
+  "entryTraits": [
+    "nocturnal",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "craves",
+    "silence",
+    "separate",
+    "solitude",
+    "probes",
+    "save",
+    "dashes",
+    "creatures",
+    "soul",
+    "sight",
+    "sleeping",
+    "kicks",
+    "absorbs",
+    "force",
+    "surroundings",
+    "sense",
+    "doesn"
+  ],
   "color": "black",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +61,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It probes its surroundings with all its senses save one—it doesn’t use its sense of sight. Spectrier’s kicks are said to separate soul from body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "separate",
+        "probes",
+        "save",
+        "soul",
+        "sight",
+        "kicks",
+        "surroundings",
+        "sense",
+        "doesn"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +81,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "craves",
+        "silence",
+        "solitude",
+        "dashes",
+        "creatures",
+        "sleeping",
+        "absorbs",
+        "force"
+      ]
     }
   ],
   "similarPokemonIds": [

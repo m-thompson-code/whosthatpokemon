@@ -9,6 +9,84 @@
   ],
   "imagePath": "/assets/pokemon/096.png",
   "entryCount": 30,
+  "entryTraits": [
+    "sleeping",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "ancestry",
+    "baku",
+    "descendent",
+    "facilities",
+    "hypnotism",
+    "intending",
+    "musharna",
+    "recreational",
+    "munna",
+    "nourishes",
+    "twitches",
+    "probably",
+    "tastier",
+    "itchy",
+    "enjoyed",
+    "pillow",
+    "sour",
+    "animal",
+    "adults",
+    "remembers",
+    "fun",
+    "taste",
+    "particularly",
+    "remember",
+    "devours",
+    "dreaming",
+    "tasty",
+    "spotted",
+    "sniffing",
+    "show",
+    "standing",
+    "sick",
+    "nostrils",
+    "pleasant",
+    "really",
+    "bad",
+    "common",
+    "eaten",
+    "think",
+    "dream",
+    "puts",
+    "share",
+    "person",
+    "dreams",
+    "occasionally",
+    "sign",
+    "trying",
+    "skilled",
+    "someone",
+    "sure",
+    "sleeping",
+    "delicious",
+    "themselves",
+    "past",
+    "above",
+    "ever",
+    "had",
+    "seems",
+    "children",
+    "tell",
+    "finds",
+    "friends",
+    "rarely",
+    "near",
+    "nose",
+    "legendary",
+    "eating",
+    "thought",
+    "good",
+    "big",
+    "doesn",
+    "eat"
+  ],
   "color": "yellow",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -38,7 +116,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "sick",
+        "bad",
+        "puts",
+        "dreams",
+        "occasionally",
+        "eating"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +135,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "sick",
+        "bad",
+        "puts",
+        "dreams",
+        "occasionally",
+        "eating"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +154,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "show",
+        "eaten",
+        "dreams",
+        "past"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +171,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If you think that you had a good dream, but you can't remember it, a DROWZEE has probably eaten it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "probably",
+        "remember",
+        "eaten",
+        "think",
+        "dream",
+        "had",
+        "good"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +189,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastier",
+        "adults",
+        "remembers",
+        "dream",
+        "dreams",
+        "children",
+        "rarely"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +207,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "twitches",
+        "dreaming",
+        "person",
+        "someone",
+        "sleeping",
+        "tell",
+        "nose"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +227,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "If your nose becomes itchy while you are sleeping, it’s a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "itchy",
+        "pillow",
+        "standing",
+        "nostrils",
+        "dream",
+        "sign",
+        "trying",
+        "sure",
+        "sleeping",
+        "above",
+        "nose",
+        "eat"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +252,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If your nose becomes itchy while you are sleeping, it’s a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "itchy",
+        "pillow",
+        "standing",
+        "nostrils",
+        "dream",
+        "sign",
+        "trying",
+        "sure",
+        "sleeping",
+        "above",
+        "nose",
+        "eat"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +277,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "If your nose becomes itchy while you are sleeping, it’s a sure sign that a DROWZEE is standing above your pillow and trying to eat your dream through your nostrils.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "itchy",
+        "pillow",
+        "standing",
+        "nostrils",
+        "dream",
+        "sign",
+        "trying",
+        "sure",
+        "sleeping",
+        "above",
+        "nose",
+        "eat"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +302,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A descendent of the legendary animal baku, which is said to eat dreams. It is skilled at hypnotism.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "baku",
+        "descendent",
+        "hypnotism",
+        "animal",
+        "dreams",
+        "skilled",
+        "legendary",
+        "eat"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +321,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "sick",
+        "bad",
+        "puts",
+        "dreams",
+        "occasionally",
+        "eating"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +340,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fun",
+        "dreaming",
+        "sniffing",
+        "dreams",
+        "tell",
+        "nose",
+        "big"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +358,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fun",
+        "dreaming",
+        "sniffing",
+        "dreams",
+        "tell",
+        "nose",
+        "big"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +376,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fun",
+        "dreaming",
+        "sniffing",
+        "dreams",
+        "tell",
+        "nose",
+        "big"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +394,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If you think that you had a good dream but you can’t remember it, a DROWZEE has probably eaten it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "probably",
+        "remember",
+        "eaten",
+        "think",
+        "dream",
+        "had",
+        "good"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +412,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It remembers every dream it eats. It rarely eats the dreams of adults because children’s are much tastier.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tastier",
+        "adults",
+        "remembers",
+        "dream",
+        "dreams",
+        "children",
+        "rarely"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +430,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fun",
+        "dreaming",
+        "sniffing",
+        "dreams",
+        "tell",
+        "nose",
+        "big"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +448,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fun",
+        "dreaming",
+        "sniffing",
+        "dreams",
+        "tell",
+        "nose",
+        "big"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +466,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fun",
+        "dreaming",
+        "sniffing",
+        "dreams",
+        "tell",
+        "nose",
+        "big"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +484,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fun",
+        "dreaming",
+        "sniffing",
+        "dreams",
+        "tell",
+        "nose",
+        "big"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +502,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "sick",
+        "bad",
+        "puts",
+        "dreams",
+        "occasionally",
+        "eating"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +521,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If you think that you had a good dream but you can’t remember it, a Drowzee has probably eaten it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "probably",
+        "remember",
+        "eaten",
+        "think",
+        "dream",
+        "had",
+        "good"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +539,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If your nose becomes itchy while you are sleeping, it’s a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "itchy",
+        "pillow",
+        "standing",
+        "nostrils",
+        "dream",
+        "sign",
+        "trying",
+        "sure",
+        "sleeping",
+        "above",
+        "nose",
+        "eat"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +564,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If your nose becomes itchy while you are sleeping, it’s a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "itchy",
+        "pillow",
+        "standing",
+        "nostrils",
+        "dream",
+        "sign",
+        "trying",
+        "sure",
+        "sleeping",
+        "above",
+        "nose",
+        "eat"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +589,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A Pokémon that nourishes itself by eating dreams, it is thought to share common ancestry with Munna and Musharna.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ancestry",
+        "musharna",
+        "munna",
+        "nourishes",
+        "common",
+        "share",
+        "dreams",
+        "eating",
+        "thought"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +609,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It finds really fun dreams tasty. When it makes friends with people, it may show them the most delicious dreams it’s ever eaten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fun",
+        "tasty",
+        "show",
+        "really",
+        "eaten",
+        "dreams",
+        "delicious",
+        "ever",
+        "finds",
+        "friends"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +630,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It can be spotted near recreational facilities, intending to eat the pleasant dreams of children who enjoyed themselves there that day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "facilities",
+        "intending",
+        "recreational",
+        "enjoyed",
+        "spotted",
+        "pleasant",
+        "dreams",
+        "themselves",
+        "children",
+        "near",
+        "eat"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +652,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It puts its prey to sleep and devours their dreams. It seems that bad dreams taste sour, so Drowzee doesn’t particularly like eating them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "sleeping"
+      ],
+      "keywords": [
+        "sour",
+        "taste",
+        "particularly",
+        "devours",
+        "bad",
+        "puts",
+        "dreams",
+        "seems",
+        "eating",
+        "doesn"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +676,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "show",
+        "eaten",
+        "dreams",
+        "past",
+        "had"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +694,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "show",
+        "eaten",
+        "dreams",
+        "past",
+        "had"
+      ]
     }
   ],
   "similarPokemonIds": [

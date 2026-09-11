@@ -9,6 +9,86 @@
   ],
   "imagePath": "/assets/pokemon/010.png",
   "entryCount": 32,
+  "entryTraits": [
+    "forest-dwelling",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "horri",
+    "novice",
+    "recommendations",
+    "hesitation",
+    "ble",
+    "feeler",
+    "forage",
+    "perpetual",
+    "terribly",
+    "camouflages",
+    "fate",
+    "foliage",
+    "compels",
+    "cups",
+    "designed",
+    "voracious",
+    "climbs",
+    "stink",
+    "resists",
+    "tenaciously",
+    "devour",
+    "molting",
+    "perhaps",
+    "terrifically",
+    "slopes",
+    "pads",
+    "tirelessly",
+    "crawls",
+    "odor",
+    "releasing",
+    "climb",
+    "tipped",
+    "easy",
+    "appetite",
+    "horrible",
+    "green",
+    "suction",
+    "cocoon",
+    "drive",
+    "antenna",
+    "repeatedly",
+    "hundred",
+    "release",
+    "stick",
+    "repel",
+    "covers",
+    "stench",
+    "sheds",
+    "silk",
+    "bigger",
+    "enable",
+    "color",
+    "antennae",
+    "protection",
+    "releases",
+    "soft",
+    "right",
+    "short",
+    "top",
+    "touch",
+    "walls",
+    "catch",
+    "weak",
+    "among",
+    "red",
+    "surface",
+    "attacked",
+    "eating",
+    "same",
+    "nature",
+    "skin",
+    "quickly",
+    "bird",
+    "covered"
+  ],
   "color": "green",
   "shape": "armor",
   "habitat": "forest",
@@ -38,7 +118,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slopes",
+        "pads",
+        "tirelessly",
+        "climb",
+        "tipped",
+        "suction",
+        "enable",
+        "short",
+        "walls"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +138,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slopes",
+        "pads",
+        "tirelessly",
+        "climb",
+        "tipped",
+        "suction",
+        "enable",
+        "short",
+        "walls"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +158,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "feeler",
+        "stink",
+        "horrible",
+        "release",
+        "top",
+        "touch"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +175,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "For protection, it releases a horri­ ble stench from the antenna on its head to drive away enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "horri",
+        "ble",
+        "drive",
+        "antenna",
+        "stench",
+        "protection",
+        "releases"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +193,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "forage",
+        "cups",
+        "designed",
+        "climbs",
+        "tenaciously",
+        "suction",
+        "stick",
+        "surface"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +214,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It crawls into foliage where it camouflages itself among leaves that are the same color as its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "camouflages",
+        "foliage",
+        "crawls",
+        "color",
+        "among",
+        "same"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +231,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CATERPIE has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this POKéMON releases a terrifically strong odor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "voracious",
+        "devour",
+        "terrifically",
+        "odor",
+        "appetite",
+        "antenna",
+        "bigger",
+        "releases",
+        "right"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +251,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CATERPIE has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this POKéMON releases a terrifically strong odor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "voracious",
+        "devour",
+        "terrifically",
+        "odor",
+        "appetite",
+        "antenna",
+        "bigger",
+        "releases",
+        "right"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +271,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hesitation",
+        "terribly",
+        "compels",
+        "voracious",
+        "devour",
+        "odor",
+        "appetite",
+        "bigger",
+        "antennae",
+        "releases"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +292,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is covered with a green skin. When it grows, it sheds the skin, covers itself with silk, and becomes a cocoon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "green",
+        "cocoon",
+        "covers",
+        "sheds",
+        "silk",
+        "skin",
+        "covered"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +310,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slopes",
+        "pads",
+        "tirelessly",
+        "climb",
+        "tipped",
+        "suction",
+        "enable",
+        "short",
+        "walls"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +330,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "molting",
+        "antenna",
+        "repeatedly",
+        "repel",
+        "stench",
+        "releases",
+        "red"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +348,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "molting",
+        "antenna",
+        "repeatedly",
+        "repel",
+        "stench",
+        "releases",
+        "red"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +366,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "molting",
+        "antenna",
+        "repeatedly",
+        "repel",
+        "stench",
+        "releases",
+        "red"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +384,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "horrible",
+        "drive",
+        "stench",
+        "antennae",
+        "protection",
+        "releases"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +401,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "forage",
+        "cups",
+        "designed",
+        "climbs",
+        "tenaciously",
+        "suction",
+        "stick",
+        "surface"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +422,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "molting",
+        "antenna",
+        "repeatedly",
+        "repel",
+        "stench",
+        "releases",
+        "red"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +440,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "molting",
+        "antenna",
+        "repeatedly",
+        "repel",
+        "stench",
+        "releases",
+        "red"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +458,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "molting",
+        "antenna",
+        "repeatedly",
+        "repel",
+        "stench",
+        "releases",
+        "red"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +476,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "molting",
+        "antenna",
+        "repeatedly",
+        "repel",
+        "stench",
+        "releases",
+        "red"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +494,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "horrible",
+        "drive",
+        "stench",
+        "antennae",
+        "protection",
+        "releases"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +511,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "forage",
+        "cups",
+        "designed",
+        "climbs",
+        "tenaciously",
+        "suction",
+        "stick",
+        "surface"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +532,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "voracious",
+        "devour",
+        "terrifically",
+        "odor",
+        "appetite",
+        "antenna",
+        "bigger",
+        "releases",
+        "right"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +552,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "voracious",
+        "devour",
+        "terrifically",
+        "odor",
+        "appetite",
+        "antenna",
+        "bigger",
+        "releases",
+        "right"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +572,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When attacked by bird Pokémon, it resists by releasing a terrifically strong odor from its antennae, but it often becomes their prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "resists",
+        "terrifically",
+        "odor",
+        "releasing",
+        "antennae",
+        "attacked",
+        "bird"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +592,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It’s easy to catch, and it grows quickly, making it one of the top recommendations for novice Pokémon Trainers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "novice",
+        "recommendations",
+        "easy",
+        "top",
+        "catch",
+        "quickly"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +609,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "voracious",
+        "perhaps",
+        "appetite",
+        "hundred",
+        "eating",
+        "quickly"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +626,15 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perpetual",
+        "fate",
+        "soft",
+        "weak",
+        "nature"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +642,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "feeler",
+        "stink",
+        "horrible",
+        "release",
+        "top",
+        "touch"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +659,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "feeler",
+        "stink",
+        "horrible",
+        "release",
+        "top",
+        "touch"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +676,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "horrible",
+        "drive",
+        "antenna",
+        "stench",
+        "protection",
+        "releases"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +693,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "slopes",
+        "pads",
+        "tirelessly",
+        "climb",
+        "tipped",
+        "suction",
+        "enable",
+        "short",
+        "walls"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,100 @@
   ],
   "imagePath": "/assets/pokemon/110.png",
   "entryCount": 28,
+  "entryTraits": [
+    "poisonous",
+    "nocturnal",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "counterpart",
+    "conjoined",
+    "est",
+    "fouler",
+    "koffings",
+    "stantly",
+    "unkempt",
+    "feast",
+    "grade",
+    "kitchen",
+    "diluting",
+    "mixing",
+    "shrinks",
+    "twins",
+    "deflates",
+    "galarian",
+    "highest",
+    "rotted",
+    "expands",
+    "extracted",
+    "fumes",
+    "perfume",
+    "putrid",
+    "mixes",
+    "waste",
+    "worse",
+    "fuse",
+    "trash",
+    "ultimate",
+    "spread",
+    "con",
+    "mixed",
+    "alternately",
+    "emanating",
+    "koffing",
+    "potent",
+    "process",
+    "twin",
+    "germs",
+    "absorbing",
+    "insides",
+    "contained",
+    "meet",
+    "released",
+    "mix",
+    "suck",
+    "becoming",
+    "exist",
+    "inhales",
+    "triplets",
+    "given",
+    "mutation",
+    "inhaling",
+    "inflates",
+    "feeding",
+    "garbage",
+    "sudden",
+    "house",
+    "galar",
+    "toxins",
+    "2",
+    "quite",
+    "stench",
+    "dirty",
+    "kinds",
+    "level",
+    "dust",
+    "smell",
+    "internal",
+    "gases",
+    "home",
+    "find",
+    "between",
+    "asleep",
+    "region",
+    "top",
+    "gas",
+    "rarely",
+    "rare",
+    "poisonous",
+    "special",
+    "constantly",
+    "lets",
+    "though",
+    "creates",
+    "well",
+    "toxic"
+  ],
   "color": "purple",
   "shape": "heads",
   "habitat": "urban",
@@ -38,7 +132,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "koffings",
+        "fuse",
+        "meet",
+        "2",
+        "kinds",
+        "gases"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +151,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "koffings",
+        "fuse",
+        "meet",
+        "2",
+        "kinds",
+        "gases"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +170,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "waste",
+        "germs",
+        "absorbing",
+        "contained",
+        "garbage",
+        "dust",
+        "gases",
+        "toxic"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +191,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If one of the twin KOFFING inflates, the other one deflates. It con­ stantly mixes its poisonous gases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "stantly",
+        "deflates",
+        "mixes",
+        "con",
+        "koffing",
+        "twin",
+        "inflates",
+        "gases",
+        "poisonous"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +213,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Top-grade perfume is made using its internal poison gases by diluting them to the high­ est level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "est",
+        "grade",
+        "diluting",
+        "perfume",
+        "level",
+        "internal",
+        "gases",
+        "top"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +234,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "expands",
+        "worse",
+        "insides",
+        "inhales",
+        "garbage",
+        "smell",
+        "gases",
+        "poisonous"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +255,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WEEZING loves the gases given off by rotted kitchen garbage. This POKéMON will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "unkempt",
+        "kitchen",
+        "rotted",
+        "trash",
+        "given",
+        "garbage",
+        "house",
+        "dirty",
+        "gases",
+        "home",
+        "find",
+        "asleep"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +280,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WEEZING alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The POKéMON also becomes more putrid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "shrinks",
+        "putrid",
+        "mixed",
+        "alternately",
+        "twin",
+        "mix",
+        "inflates",
+        "toxins",
+        "gases",
+        "toxic"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +303,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To WEEZING, gases emanating from garbage are the ultimate feast.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "feast",
+        "grade",
+        "diluting",
+        "highest",
+        "extracted",
+        "perfume",
+        "ultimate",
+        "emanating",
+        "process",
+        "garbage",
+        "gases",
+        "special",
+        "toxic"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +329,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Very rarely, a sudden mutation can result in two small KOFFING twins becoming conjoined as a WEEZING.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "conjoined",
+        "twins",
+        "koffing",
+        "becoming",
+        "mutation",
+        "sudden",
+        "rarely"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +347,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Where two kinds of poison gases meet, two KOFFING can fuse into a WEEZING over many years.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "fuse",
+        "koffing",
+        "meet",
+        "kinds",
+        "gases"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +365,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "released",
+        "triplets",
+        "feeding",
+        "garbage",
+        "gases",
+        "rare",
+        "though"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +383,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "released",
+        "triplets",
+        "feeding",
+        "garbage",
+        "gases",
+        "rare",
+        "though"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +401,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "released",
+        "triplets",
+        "feeding",
+        "garbage",
+        "gases",
+        "rare",
+        "though"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +419,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If one of the twin KOFFING inflates, the other one deflates. It constantly mixes its poisonous gases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "deflates",
+        "mixes",
+        "koffing",
+        "twin",
+        "inflates",
+        "gases",
+        "poisonous",
+        "constantly"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +440,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "grade",
+        "diluting",
+        "highest",
+        "perfume",
+        "level",
+        "internal",
+        "gases",
+        "top"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +461,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "released",
+        "triplets",
+        "feeding",
+        "garbage",
+        "gases",
+        "rare",
+        "though"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +479,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "released",
+        "triplets",
+        "feeding",
+        "garbage",
+        "gases",
+        "rare",
+        "though"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +497,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "fouler",
+        "mixing",
+        "fumes",
+        "trash",
+        "spread",
+        "inhaling",
+        "stench",
+        "lets",
+        "toxic"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +519,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "fouler",
+        "mixing",
+        "fumes",
+        "trash",
+        "spread",
+        "inhaling",
+        "stench",
+        "lets",
+        "toxic"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +541,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "deflates",
+        "mixes",
+        "koffing",
+        "twin",
+        "inflates",
+        "gases",
+        "poisonous",
+        "constantly"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +562,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "conjoined",
+        "twins",
+        "koffing",
+        "becoming",
+        "mutation",
+        "sudden",
+        "rarely"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +580,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "unkempt",
+        "kitchen",
+        "rotted",
+        "trash",
+        "given",
+        "garbage",
+        "house",
+        "dirty",
+        "gases",
+        "home",
+        "find",
+        "asleep"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +605,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "shrinks",
+        "putrid",
+        "mixed",
+        "alternately",
+        "twin",
+        "mix",
+        "inflates",
+        "toxins",
+        "gases",
+        "toxic"
+      ]
     },
     {
       "versionId": 31,
@@ -230,7 +628,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "germs",
+        "absorbing",
+        "exist",
+        "garbage",
+        "dust",
+        "gas"
+      ]
     },
     {
       "versionId": 32,
@@ -238,7 +647,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "germs",
+        "absorbing",
+        "exist",
+        "garbage",
+        "dust",
+        "gas"
+      ]
     },
     {
       "versionId": 33,
@@ -246,7 +666,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mixes",
+        "galar",
+        "gases",
+        "between",
+        "region"
+      ]
     },
     {
       "versionId": 34,
@@ -254,7 +682,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "counterpart",
+        "galarian",
+        "potent",
+        "suck",
+        "toxins",
+        "quite",
+        "creates",
+        "well"
+      ]
     }
   ],
   "similarPokemonIds": [

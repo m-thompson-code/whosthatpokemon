@@ -10,6 +10,27 @@
   ],
   "imagePath": "/assets/pokemon/872.png",
   "entryCount": 2,
+  "entryTraits": [
+    "sleeping",
+    "cold-climate"
+  ],
+  "entryKeywords": [
+    "disguising",
+    "tie",
+    "piles",
+    "icicle",
+    "thread",
+    "sort",
+    "imbued",
+    "impressive",
+    "frigid",
+    "spits",
+    "bigger",
+    "branches",
+    "snow",
+    "spikes",
+    "sleeps"
+  ],
   "color": "white",
   "shape": "squiggle",
   "habitat": null,
@@ -39,7 +60,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "disguising",
+        "tie",
+        "icicle",
+        "thread",
+        "sort",
+        "imbued",
+        "frigid",
+        "spits",
+        "branches",
+        "sleeps"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +83,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate"
+      ],
+      "keywords": [
+        "piles",
+        "impressive",
+        "bigger",
+        "snow",
+        "spikes"
+      ]
     }
   ],
   "similarPokemonIds": [

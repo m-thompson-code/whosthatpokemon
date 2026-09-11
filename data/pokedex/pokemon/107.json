@@ -9,6 +9,71 @@
   ],
   "imagePath": "/assets/pokemon/107.png",
   "entryCount": 28,
+  "entryTraits": [
+    "electric",
+    "sky-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "cork",
+    "corkscrew",
+    "aimed",
+    "champion",
+    "graze",
+    "infused",
+    "adversity",
+    "bullet",
+    "championship",
+    "indomitable",
+    "towards",
+    "volleys",
+    "launched",
+    "screw",
+    "boxer",
+    "increase",
+    "working",
+    "minutes",
+    "pulverize",
+    "slight",
+    "rests",
+    "twisting",
+    "fashion",
+    "pro",
+    "drill",
+    "need",
+    "possess",
+    "toward",
+    "slice",
+    "wall",
+    "train",
+    "concrete",
+    "contact",
+    "means",
+    "punch",
+    "arm",
+    "doing",
+    "spins",
+    "burn",
+    "having",
+    "impossible",
+    "throws",
+    "faster",
+    "fires",
+    "break",
+    "had",
+    "seems",
+    "nothing",
+    "short",
+    "fighting",
+    "punches",
+    "spirit",
+    "fast",
+    "strength",
+    "same",
+    "lightning",
+    "face",
+    "apparently"
+  ],
   "color": "brown",
   "shape": "humanoid",
   "habitat": "urban",
@@ -38,7 +103,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "volleys",
+        "doing",
+        "impossible",
+        "fires",
+        "nothing",
+        "punches",
+        "fast",
+        "lightning",
+        "apparently"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +125,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "volleys",
+        "doing",
+        "impossible",
+        "fires",
+        "nothing",
+        "punches",
+        "fast",
+        "lightning",
+        "apparently"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +147,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Punches in cork­ screw fashion. It can punch its way through a concrete wall in the same way as a drill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cork",
+        "screw",
+        "fashion",
+        "drill",
+        "wall",
+        "concrete",
+        "punch",
+        "punches",
+        "same"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +167,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minutes",
+        "need",
+        "slice",
+        "break",
+        "seems",
+        "short",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +188,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "graze",
+        "launched",
+        "slight",
+        "slice",
+        "burn",
+        "punches"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +207,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "To increase the strength of all its punch moves, it spins its arms just before making contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "increase",
+        "contact",
+        "punch",
+        "spins",
+        "strength"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +225,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "HITMONCHAN is said to possess the spirit of a boxer who had been working towards a world championship. This POKéMON has an indomitable spirit and will never give up in the face of adversity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "adversity",
+        "championship",
+        "indomitable",
+        "towards",
+        "boxer",
+        "working",
+        "possess",
+        "had",
+        "spirit",
+        "face"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +246,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "HITMONCHAN is said to possess the spirit of a boxer who had been working towards a world championship. This POKéMON has an indomitable spirit and will never give up in the face of adversity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "adversity",
+        "championship",
+        "indomitable",
+        "towards",
+        "boxer",
+        "working",
+        "possess",
+        "had",
+        "spirit",
+        "face"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +267,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A HITMONCHAN is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "aimed",
+        "champion",
+        "indomitable",
+        "boxer",
+        "possess",
+        "means",
+        "having",
+        "spirit"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +286,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The spirit of a pro boxer has infused this POKéMON. It throws punches that are faster than a bullet train.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "infused",
+        "bullet",
+        "boxer",
+        "pro",
+        "train",
+        "throws",
+        "faster",
+        "punches",
+        "spirit"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +306,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "While apparently doing nothing, it fires punches in lightning-fast volleys that are impossible to see.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "volleys",
+        "doing",
+        "impossible",
+        "fires",
+        "nothing",
+        "punches",
+        "fast",
+        "lightning",
+        "apparently"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +328,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "minutes",
+        "pulverize",
+        "rests",
+        "twisting",
+        "concrete",
+        "arm",
+        "throws",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +350,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "minutes",
+        "pulverize",
+        "rests",
+        "twisting",
+        "concrete",
+        "arm",
+        "throws",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +372,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "minutes",
+        "pulverize",
+        "rests",
+        "twisting",
+        "concrete",
+        "arm",
+        "throws",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +394,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minutes",
+        "need",
+        "slice",
+        "break",
+        "seems",
+        "short",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +415,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "graze",
+        "launched",
+        "slight",
+        "slice",
+        "burn",
+        "punches"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +434,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "minutes",
+        "pulverize",
+        "rests",
+        "twisting",
+        "concrete",
+        "arm",
+        "throws",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +456,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "minutes",
+        "pulverize",
+        "rests",
+        "twisting",
+        "concrete",
+        "arm",
+        "throws",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +478,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "minutes",
+        "pulverize",
+        "rests",
+        "twisting",
+        "concrete",
+        "arm",
+        "throws",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +500,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "minutes",
+        "pulverize",
+        "rests",
+        "twisting",
+        "concrete",
+        "arm",
+        "throws",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +522,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "minutes",
+        "pulverize",
+        "rests",
+        "twisting",
+        "concrete",
+        "arm",
+        "throws",
+        "fighting",
+        "punches"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +544,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "infused",
+        "bullet",
+        "boxer",
+        "pro",
+        "train",
+        "throws",
+        "faster",
+        "punches",
+        "spirit"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +564,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "adversity",
+        "championship",
+        "indomitable",
+        "boxer",
+        "working",
+        "possess",
+        "toward",
+        "had",
+        "spirit",
+        "face"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +585,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "adversity",
+        "championship",
+        "indomitable",
+        "boxer",
+        "working",
+        "possess",
+        "toward",
+        "had",
+        "spirit",
+        "face"
+      ]
     },
     {
       "versionId": 31,
@@ -230,7 +606,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corkscrew",
+        "fashion",
+        "drill",
+        "wall",
+        "concrete",
+        "punch",
+        "punches"
+      ]
     },
     {
       "versionId": 32,
@@ -238,7 +624,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "corkscrew",
+        "fashion",
+        "drill",
+        "wall",
+        "concrete",
+        "punch",
+        "punches"
+      ]
     },
     {
       "versionId": 33,
@@ -246,7 +642,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "graze",
+        "launched",
+        "slight",
+        "slice",
+        "burn",
+        "punches"
+      ]
     },
     {
       "versionId": 34,
@@ -254,7 +661,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "minutes",
+        "need",
+        "slice",
+        "break",
+        "seems",
+        "short",
+        "fighting",
+        "punches"
+      ]
     }
   ],
   "similarPokemonIds": [

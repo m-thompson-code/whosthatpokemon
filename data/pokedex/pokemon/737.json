@@ -10,6 +10,48 @@
   ],
   "imagePath": "/assets/pokemon/737.png",
   "entryCount": 6,
+  "entryTraits": [
+    "electric",
+    "shell"
+  ],
+  "entryKeywords": [
+    "camping",
+    "discharged",
+    "humus",
+    "munching",
+    "processes",
+    "trips",
+    "grateful",
+    "digests",
+    "jolts",
+    "convert",
+    "stout",
+    "persistent",
+    "accidentally",
+    "later",
+    "excellent",
+    "provides",
+    "digestive",
+    "buries",
+    "durable",
+    "barely",
+    "defense",
+    "step",
+    "storing",
+    "fallen",
+    "ll",
+    "strikes",
+    "tips",
+    "sac",
+    "generates",
+    "protects",
+    "jaws",
+    "shock",
+    "electric",
+    "capable",
+    "belly",
+    "stores"
+  ],
   "color": "green",
   "shape": "squiggle",
   "habitat": null,
@@ -39,7 +81,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its body is capable of storing electricity. On camping trips, people are grateful to have one around.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "camping",
+        "trips",
+        "grateful",
+        "storing",
+        "capable"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +99,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "digests",
+        "sac",
+        "generates",
+        "electric",
+        "stores"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +117,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you’ll get a shock!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "humus",
+        "munching",
+        "accidentally",
+        "buries",
+        "barely",
+        "step",
+        "fallen",
+        "ll",
+        "shock"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +137,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "electric"
+      ],
+      "keywords": [
+        "stout",
+        "persistent",
+        "excellent",
+        "provides",
+        "defense"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +156,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "electric"
+      ],
+      "keywords": [
+        "discharged",
+        "jolts",
+        "durable",
+        "strikes",
+        "tips",
+        "protects",
+        "jaws"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +177,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "processes",
+        "convert",
+        "later",
+        "digestive",
+        "sac",
+        "electric",
+        "belly",
+        "stores"
+      ]
     }
   ],
   "similarPokemonIds": [

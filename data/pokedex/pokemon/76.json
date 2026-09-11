@@ -10,6 +10,114 @@
   ],
   "imagePath": "/assets/pokemon/076.png",
   "entryCount": 31,
+  "entryTraits": [
+    "sky-dwelling",
+    "shell",
+    "mountain-dwelling",
+    "volcanic"
+  ],
+  "entryKeywords": [
+    "crop",
+    "enclosed",
+    "enriched",
+    "ens",
+    "detonates",
+    "diverting",
+    "foothills",
+    "guideways",
+    "rocklike",
+    "shedding",
+    "promote",
+    "boulderlike",
+    "crumbles",
+    "downhill",
+    "powered",
+    "slabs",
+    "tumbles",
+    "explosion",
+    "cast",
+    "mass",
+    "reverting",
+    "farmers",
+    "collect",
+    "course",
+    "grooves",
+    "molts",
+    "base",
+    "peak",
+    "spread",
+    "moss",
+    "peaks",
+    "dynamite",
+    "fail",
+    "growth",
+    "whitish",
+    "blowing",
+    "craters",
+    "jump",
+    "process",
+    "propel",
+    "discarded",
+    "paths",
+    "masse",
+    "steep",
+    "en",
+    "durable",
+    "earthquake",
+    "green",
+    "explosive",
+    "returns",
+    "amazing",
+    "below",
+    "harm",
+    "homes",
+    "humidity",
+    "shells",
+    "sides",
+    "hates",
+    "immediately",
+    "serve",
+    "leaving",
+    "scratch",
+    "damage",
+    "dug",
+    "shed",
+    "taking",
+    "tender",
+    "rugged",
+    "boulder",
+    "withstand",
+    "clear",
+    "volcanic",
+    "hardens",
+    "stay",
+    "sheds",
+    "blasts",
+    "prevent",
+    "rolling",
+    "survive",
+    "exposed",
+    "year",
+    "single",
+    "fields",
+    "old",
+    "lived",
+    "rain",
+    "larger",
+    "turns",
+    "soil",
+    "hide",
+    "stop",
+    "force",
+    "across",
+    "tough",
+    "capable",
+    "mountain",
+    "creates",
+    "rock",
+    "skin",
+    "extremely"
+  ],
   "color": "brown",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -39,7 +147,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dynamite",
+        "damage",
+        "boulder",
+        "withstand",
+        "blasts",
+        "extremely"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +164,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dynamite",
+        "damage",
+        "boulder",
+        "withstand",
+        "blasts",
+        "extremely"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +181,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it's exposed to air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "whitish",
+        "tender",
+        "hardens",
+        "sheds",
+        "exposed",
+        "turns",
+        "hide",
+        "skin"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +202,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It sheds its skin once a year. The discarded shell immediately hard­ ens and crumbles away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "ens",
+        "crumbles",
+        "discarded",
+        "immediately",
+        "sheds",
+        "year",
+        "skin"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +222,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "blowing",
+        "jump",
+        "explosive",
+        "force",
+        "capable",
+        "mountain"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +241,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its rock-like body is so durable, even high-powered dynamite blasts fail to scratch its rugged hide.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "powered",
+        "dynamite",
+        "fail",
+        "durable",
+        "scratch",
+        "rugged",
+        "blasts",
+        "hide",
+        "rock"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +261,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GOLEM live up on mountains. If there is a large earthquake, these POKéMON will come rolling down off the mountains en masse to the foothills below.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "foothills",
+        "masse",
+        "en",
+        "earthquake",
+        "below",
+        "rolling"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +280,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GOLEM is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this POKéMON’s course.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "diverting",
+        "guideways",
+        "downhill",
+        "course",
+        "grooves",
+        "homes",
+        "sides",
+        "serve",
+        "dug",
+        "prevent",
+        "rolling"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +304,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is said to live in volcanic craters on mountain peaks. Once a year, it sheds its hide and grows larger. The shed hide crumbles and returns to the soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "volcanic"
+      ],
+      "keywords": [
+        "crumbles",
+        "peaks",
+        "craters",
+        "returns",
+        "shed",
+        "volcanic",
+        "sheds",
+        "year",
+        "larger",
+        "soil",
+        "hide",
+        "mountain"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +330,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "enclosed",
+        "slabs",
+        "rugged",
+        "sheds",
+        "year",
+        "larger",
+        "rock",
+        "skin"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +351,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without taking damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dynamite",
+        "damage",
+        "taking",
+        "boulder",
+        "withstand",
+        "blasts",
+        "extremely"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +369,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It sheds its hide once a year. Its boulderlike body is so tough, even dynamite can’t harm it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boulderlike",
+        "dynamite",
+        "harm",
+        "sheds",
+        "year",
+        "hide",
+        "tough"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +387,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "tumbles",
+        "grooves",
+        "base",
+        "peak",
+        "leaving",
+        "clear",
+        "stay"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +407,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boulderlike",
+        "dynamite",
+        "harm",
+        "sheds",
+        "year",
+        "hide"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +424,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It sheds its skin once a year. The discarded shell immediately hardens and crumbles away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crumbles",
+        "discarded",
+        "immediately",
+        "hardens",
+        "sheds",
+        "year",
+        "skin"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +444,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "blowing",
+        "jump",
+        "explosive",
+        "force",
+        "capable",
+        "mountain"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +463,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boulderlike",
+        "dynamite",
+        "harm",
+        "sheds",
+        "year",
+        "hide"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +480,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boulderlike",
+        "dynamite",
+        "harm",
+        "sheds",
+        "year",
+        "hide"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +497,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Even dynamite can’t harm its hard, boulder-like body. It sheds its hide just once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dynamite",
+        "harm",
+        "boulder",
+        "sheds",
+        "year",
+        "hide"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +514,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Even dynamite can’t harm its hard, boulder-like body. It sheds its hide just once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dynamite",
+        "harm",
+        "boulder",
+        "sheds",
+        "year",
+        "hide"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +531,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "tumbles",
+        "grooves",
+        "base",
+        "peak",
+        "leaving",
+        "clear",
+        "stay"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +551,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Even dynamite can’t harm its hard, boulder-like body. It sheds its hide just once a year.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dynamite",
+        "harm",
+        "boulder",
+        "sheds",
+        "year",
+        "hide"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +568,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "foothills",
+        "masse",
+        "en",
+        "earthquake",
+        "below",
+        "rolling"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +587,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Golem is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this Pokémon’s course.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "diverting",
+        "guideways",
+        "downhill",
+        "course",
+        "grooves",
+        "homes",
+        "sides",
+        "serve",
+        "dug",
+        "prevent",
+        "rolling"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +611,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its body can survive dynamite blasts without a single scratch, but it hates rain and humidity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dynamite",
+        "humidity",
+        "hates",
+        "scratch",
+        "blasts",
+        "survive",
+        "single",
+        "rain"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +630,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Once a year, this Pokémon molts, and its shed shell returns to the soil. This process creates enriched soil, so farmers collect the shells.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "enriched",
+        "farmers",
+        "collect",
+        "molts",
+        "process",
+        "returns",
+        "shells",
+        "shed",
+        "year",
+        "soil",
+        "creates"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +654,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shedding",
+        "moss",
+        "green",
+        "shells",
+        "old",
+        "lived",
+        "stop"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +674,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It detonates its own body. The power from that explosion can propel it up steep mountain paths with amazing speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "detonates",
+        "explosion",
+        "propel",
+        "paths",
+        "steep",
+        "amazing",
+        "mountain"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +694,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "whitish",
+        "tender",
+        "hardens",
+        "sheds",
+        "exposed",
+        "turns",
+        "hide",
+        "skin"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +715,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "whitish",
+        "tender",
+        "hardens",
+        "sheds",
+        "exposed",
+        "turns",
+        "hide",
+        "skin"
+      ]
     },
     {
       "versionId": 39,
@@ -279,7 +736,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crop",
+        "rocklike",
+        "promote",
+        "crumbles",
+        "cast",
+        "mass",
+        "reverting",
+        "spread",
+        "growth",
+        "shed",
+        "year",
+        "fields",
+        "soil",
+        "across"
+      ]
     }
   ],
   "similarPokemonIds": [

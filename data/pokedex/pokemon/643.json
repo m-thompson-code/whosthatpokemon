@@ -10,6 +10,41 @@
   ],
   "imagePath": "/assets/pokemon/643.png",
   "entryCount": 10,
+  "entryTraits": [
+    "sky-dwelling",
+    "tail",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "airplane",
+    "greed",
+    "ignore",
+    "kingdoms",
+    "spew",
+    "myth",
+    "consumed",
+    "truth",
+    "arrive",
+    "flares",
+    "scorch",
+    "want",
+    "burning",
+    "helps",
+    "sends",
+    "legends",
+    "build",
+    "atmosphere",
+    "burn",
+    "jet",
+    "let",
+    "according",
+    "themselves",
+    "weather",
+    "everything",
+    "changes",
+    "legendary",
+    "heat"
+  ],
   "color": "white",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +74,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "burning",
+        "sends",
+        "legends",
+        "everything"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +93,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "flares",
+        "atmosphere",
+        "weather",
+        "changes",
+        "heat"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +112,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "truth",
+        "scorch",
+        "want",
+        "helps",
+        "build",
+        "legendary"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +131,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "truth",
+        "scorch",
+        "want",
+        "helps",
+        "build",
+        "legendary"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +150,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "truth",
+        "scorch",
+        "want",
+        "helps",
+        "build",
+        "legendary"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +169,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "flares",
+        "atmosphere",
+        "weather",
+        "changes",
+        "heat"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +188,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "truth",
+        "scorch",
+        "want",
+        "helps",
+        "build",
+        "legendary"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +207,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "flares",
+        "atmosphere",
+        "weather",
+        "changes",
+        "heat"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +226,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Flames spew from its tail as it flies through the sky like a jet airplane. It’s said that this Pokémon will scorch the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "airplane",
+        "spew",
+        "scorch",
+        "jet"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +245,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "greed",
+        "ignore",
+        "kingdoms",
+        "myth",
+        "consumed",
+        "truth",
+        "arrive",
+        "burn",
+        "let",
+        "according",
+        "themselves"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,48 @@
   ],
   "imagePath": "/assets/pokemon/292.png",
   "entryCount": 20,
+  "entryTraits": [
+    "shell",
+    "sky-dwelling",
+    "wings"
+  ],
+  "entryKeywords": [
+    "twitch",
+    "unsought",
+    "bizarre",
+    "fact",
+    "merely",
+    "immobile",
+    "nincada",
+    "utterly",
+    "crack",
+    "discarded",
+    "peculiar",
+    "peering",
+    "breathe",
+    "somehow",
+    "remain",
+    "completely",
+    "hollow",
+    "believed",
+    "strange",
+    "floats",
+    "steal",
+    "evolves",
+    "bug",
+    "entirely",
+    "poke",
+    "seems",
+    "came",
+    "anyone",
+    "dark",
+    "spirit",
+    "still",
+    "though",
+    "moving",
+    "doesn",
+    "ball"
+  ],
   "color": "brown",
   "shape": "blob",
   "habitat": "forest",
@@ -39,7 +81,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SHEDINJA’s hard body doesn’t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POKéMON will steal the spirit of anyone peering into its hollow body from its back.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "twitch",
+        "fact",
+        "merely",
+        "peering",
+        "hollow",
+        "believed",
+        "steal",
+        "anyone",
+        "spirit",
+        "doesn"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +104,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SHEDINJA is a peculiar POKéMON. It seems to appear unsought in a POKé BALL after a NINCADA evolves. This bizarre POKéMON is entirely immobile - it doesn’t even breathe.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "unsought",
+        "bizarre",
+        "immobile",
+        "nincada",
+        "peculiar",
+        "breathe",
+        "evolves",
+        "entirely",
+        "poke",
+        "seems",
+        "doesn",
+        "ball"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +127,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A peculiar POKéMON that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "utterly",
+        "peculiar",
+        "remain",
+        "completely",
+        "hollow",
+        "floats",
+        "dark",
+        "still",
+        "though"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +150,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A most peculiar POKéMON that somehow appears in a POKé BALL when a NINCADA evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nincada",
+        "peculiar",
+        "somehow",
+        "evolves",
+        "poke",
+        "ball"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +167,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A most peculiar POKéMON that somehow appears in a POKé BALL when a NINCADA evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nincada",
+        "peculiar",
+        "somehow",
+        "evolves",
+        "poke",
+        "ball"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +184,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crack",
+        "discarded",
+        "peering",
+        "steal",
+        "bug",
+        "came",
+        "spirit"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +204,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crack",
+        "discarded",
+        "peering",
+        "steal",
+        "bug",
+        "came",
+        "spirit"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +224,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crack",
+        "discarded",
+        "peering",
+        "steal",
+        "bug",
+        "came",
+        "spirit"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +244,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "A strange Pokémon--it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "wings"
+      ],
+      "keywords": [
+        "breathe",
+        "hollow",
+        "strange",
+        "moving"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +262,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A strange Pokémon--it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "wings"
+      ],
+      "keywords": [
+        "breathe",
+        "hollow",
+        "strange",
+        "moving"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +280,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crack",
+        "discarded",
+        "peering",
+        "steal",
+        "bug",
+        "came",
+        "spirit"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +300,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crack",
+        "discarded",
+        "peering",
+        "steal",
+        "bug",
+        "came",
+        "spirit"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +320,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crack",
+        "discarded",
+        "peering",
+        "steal",
+        "bug",
+        "came",
+        "spirit"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +340,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crack",
+        "discarded",
+        "peering",
+        "steal",
+        "bug",
+        "came",
+        "spirit"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +360,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "crack",
+        "discarded",
+        "peering",
+        "steal",
+        "bug",
+        "came",
+        "spirit"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +380,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nincada",
+        "peculiar",
+        "somehow",
+        "evolves",
+        "poke",
+        "ball"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +397,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shedinja’s hard body doesn’t move—not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this Pokémon will steal the spirit of anyone peering into its hollow body from its back.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "twitch",
+        "fact",
+        "merely",
+        "peering",
+        "hollow",
+        "believed",
+        "steal",
+        "anyone",
+        "spirit",
+        "doesn"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +420,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shedinja is a peculiar Pokémon. It seems to appear unsought in a Poké Ball after a Nincada evolves. This bizarre Pokémon is entirely immobile—it doesn’t even breathe.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "unsought",
+        "bizarre",
+        "immobile",
+        "nincada",
+        "peculiar",
+        "breathe",
+        "evolves",
+        "entirely",
+        "poke",
+        "seems",
+        "doesn",
+        "ball"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +443,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nincada",
+        "peculiar",
+        "somehow",
+        "evolves",
+        "poke",
+        "ball"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +460,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "wings"
+      ],
+      "keywords": [
+        "breathe",
+        "hollow",
+        "strange",
+        "moving"
+      ]
     }
   ],
   "similarPokemonIds": [

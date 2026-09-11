@@ -9,6 +9,76 @@
   ],
   "imagePath": "/assets/pokemon/196.png",
   "entryCount": 28,
+  "entryTraits": [
+    "sky-dwelling",
+    "tail",
+    "fur",
+    "luminous",
+    "psychic",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "arcane",
+    "brow",
+    "ene",
+    "faculties",
+    "weath",
+    "predicting",
+    "scarlet",
+    "velvet",
+    "quivers",
+    "awakened",
+    "precognitive",
+    "worthy",
+    "bathes",
+    "dull",
+    "er",
+    "psycho",
+    "forked",
+    "my",
+    "reading",
+    "instantaneously",
+    "sunshine",
+    "considers",
+    "shifts",
+    "actions",
+    "bathed",
+    "unleashes",
+    "minute",
+    "orb",
+    "wields",
+    "thoughts",
+    "battling",
+    "originally",
+    "loyal",
+    "harm",
+    "currents",
+    "exhausted",
+    "need",
+    "next",
+    "predict",
+    "forehead",
+    "covers",
+    "feeling",
+    "glows",
+    "fine",
+    "sensitive",
+    "builds",
+    "hair",
+    "had",
+    "feel",
+    "say",
+    "weather",
+    "look",
+    "movements",
+    "dark",
+    "sense",
+    "good",
+    "although",
+    "tip",
+    "developed",
+    "extremely"
+  ],
   "color": "purple",
   "shape": "quadruped",
   "habitat": "urban",
@@ -38,7 +108,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It uses the fine hair that covers its body to sense air currents and predict its ene­ my's actions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "ene",
+        "my",
+        "actions",
+        "currents",
+        "predict",
+        "covers",
+        "fine",
+        "hair",
+        "sense"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +130,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "By reading air currents, it can predict things such as the weath­ er or its foe's next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "weath",
+        "er",
+        "reading",
+        "currents",
+        "next",
+        "predict"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +149,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The tip of its forked tail quivers when it is predicting its opponent's next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "predicting",
+        "quivers",
+        "forked",
+        "next",
+        "tip"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +167,17 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "precognitive",
+        "worthy",
+        "considers",
+        "loyal",
+        "harm",
+        "developed",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +185,17 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "precognitive",
+        "worthy",
+        "considers",
+        "loyal",
+        "harm",
+        "developed",
+        "extremely"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +203,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "An ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said to have developed precognitive powers to protect its TRAINER from harm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "precognitive",
+        "worthy",
+        "considers",
+        "loyal",
+        "harm",
+        "developed",
+        "extremely"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +221,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "By reading air currents, it can predict things such as the weather or its foe’s next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "reading",
+        "currents",
+        "next",
+        "predict",
+        "weather"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +239,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It uses the fine hair that covers its body to sense air currents and predict its enemy’s actions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "actions",
+        "currents",
+        "predict",
+        "covers",
+        "fine",
+        "hair",
+        "sense"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +259,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "luminous"
+      ],
+      "keywords": [
+        "velvet",
+        "psycho",
+        "orb",
+        "forehead",
+        "glows",
+        "feel",
+        "look"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +280,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "luminous"
+      ],
+      "keywords": [
+        "velvet",
+        "psycho",
+        "orb",
+        "forehead",
+        "glows",
+        "feel",
+        "look"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +301,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "shifts",
+        "minute",
+        "predict",
+        "sensitive",
+        "weather",
+        "sense"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +321,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It uses the fine hair that covers its body to sense air currents and predict its enemy’s actions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "actions",
+        "currents",
+        "predict",
+        "covers",
+        "fine",
+        "hair",
+        "sense"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +341,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "By reading air currents, it can predict things such as the weather or its foe’s next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "reading",
+        "currents",
+        "next",
+        "predict",
+        "weather"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +359,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "shifts",
+        "minute",
+        "predict",
+        "sensitive",
+        "weather",
+        "sense"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +379,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "shifts",
+        "minute",
+        "predict",
+        "sensitive",
+        "weather",
+        "sense"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +399,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes’ thoughts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "shifts",
+        "minute",
+        "thoughts",
+        "predict",
+        "sensitive",
+        "feel",
+        "weather"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +420,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes’ thoughts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "shifts",
+        "minute",
+        "thoughts",
+        "predict",
+        "sensitive",
+        "feel",
+        "weather"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +441,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The tip of its forked tail quivers when it is predicting its opponent’s next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "predicting",
+        "quivers",
+        "forked",
+        "next",
+        "tip"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +459,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes’ thoughts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "shifts",
+        "minute",
+        "thoughts",
+        "predict",
+        "sensitive",
+        "feel",
+        "weather"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +480,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "precognitive",
+        "worthy",
+        "considers",
+        "loyal",
+        "harm",
+        "developed",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +498,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "precognitive",
+        "worthy",
+        "considers",
+        "loyal",
+        "harm",
+        "developed",
+        "extremely"
+      ]
     },
     {
       "versionId": 27,
@@ -206,7 +516,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It can instantaneously sense its opponent’s movements by feeling air currents with its fine fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "instantaneously",
+        "currents",
+        "feeling",
+        "fine",
+        "movements",
+        "sense"
+      ]
     },
     {
       "versionId": 28,
@@ -214,7 +536,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "dull",
+        "unleashes",
+        "orb",
+        "exhausted",
+        "forehead",
+        "dark"
+      ]
     },
     {
       "versionId": 29,
@@ -222,7 +555,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it originally had no powers at all, people say its precognitive faculties were awakened by its need to protect itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "faculties",
+        "awakened",
+        "precognitive",
+        "originally",
+        "need",
+        "had",
+        "say",
+        "although"
+      ]
     },
     {
       "versionId": 30,
@@ -230,7 +574,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Psychic power builds up in the orb on its forehead as it bathes in the sunshine. Espeon is not good at battling at night.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "psychic"
+      ],
+      "keywords": [
+        "bathes",
+        "sunshine",
+        "orb",
+        "battling",
+        "forehead",
+        "builds",
+        "good"
+      ]
     },
     {
       "versionId": 33,
@@ -238,7 +595,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "By reading air currents, it can predict things such as the weather or its foe’s next move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "reading",
+        "currents",
+        "next",
+        "predict",
+        "weather"
+      ]
     },
     {
       "versionId": 34,
@@ -246,7 +613,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "dull",
+        "unleashes",
+        "orb",
+        "exhausted",
+        "forehead",
+        "dark"
+      ]
     },
     {
       "versionId": 39,
@@ -254,7 +632,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Wields an arcane power with which it can predict the weather and even people's thoughts. When bathed in sunshine, the scarlet orb on its brow glows and builds energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "arcane",
+        "brow",
+        "scarlet",
+        "sunshine",
+        "bathed",
+        "orb",
+        "wields",
+        "thoughts",
+        "predict",
+        "glows",
+        "builds",
+        "weather"
+      ]
     }
   ],
   "similarPokemonIds": [

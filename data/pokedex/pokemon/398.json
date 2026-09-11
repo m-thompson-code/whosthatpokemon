@@ -10,6 +10,42 @@
   ],
   "imagePath": "/assets/pokemon/398.png",
   "entryCount": 14,
+  "entryTraits": [
+    "wings",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "burly",
+    "gripping",
+    "comb",
+    "courageously",
+    "fusses",
+    "staravia",
+    "astounding",
+    "challenge",
+    "flock",
+    "gained",
+    "targets",
+    "savage",
+    "allows",
+    "injured",
+    "alone",
+    "stops",
+    "shape",
+    "survive",
+    "leave",
+    "having",
+    "attacking",
+    "left",
+    "evolve",
+    "carry",
+    "larger",
+    "sturdy",
+    "force",
+    "strength",
+    "nature",
+    "muscles"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +75,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a savage nature. It will courageously challenge foes that are much larger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "courageously",
+        "challenge",
+        "savage",
+        "larger",
+        "nature"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +91,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "gripping",
+        "muscles"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +106,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "comb",
+        "fusses",
+        "injured",
+        "stops",
+        "shape",
+        "attacking"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +123,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When STARAVIA evolve into STARAPTOR, they leave the flock to live alone. They have sturdy wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "staravia",
+        "flock",
+        "alone",
+        "leave",
+        "evolve",
+        "sturdy"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +142,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When STARAVIA evolve into STARAPTOR, they leave the flock to live alone. They have sturdy wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "staravia",
+        "flock",
+        "alone",
+        "leave",
+        "evolve",
+        "sturdy"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +161,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "comb",
+        "fusses",
+        "injured",
+        "stops",
+        "shape",
+        "attacking"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +178,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "comb",
+        "fusses",
+        "injured",
+        "stops",
+        "shape",
+        "attacking"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +195,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "comb",
+        "fusses",
+        "injured",
+        "stops",
+        "shape",
+        "attacking"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +212,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "comb",
+        "fusses",
+        "injured",
+        "stops",
+        "shape",
+        "attacking"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +229,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "gripping",
+        "muscles"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +244,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "staravia",
+        "flock",
+        "alone",
+        "leave",
+        "evolve",
+        "sturdy"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +263,14 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "gripping",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +278,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "staravia",
+        "flock",
+        "alone",
+        "leave",
+        "evolve",
+        "sturdy"
+      ]
     },
     {
       "versionId": 39,
@@ -143,7 +297,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "burly",
+        "astounding",
+        "flock",
+        "gained",
+        "targets",
+        "allows",
+        "survive",
+        "having",
+        "left",
+        "carry",
+        "force",
+        "strength"
+      ]
     }
   ],
   "similarPokemonIds": [

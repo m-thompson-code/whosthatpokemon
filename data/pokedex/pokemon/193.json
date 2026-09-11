@@ -10,6 +10,68 @@
   ],
   "imagePath": "/assets/pokemon/193.png",
   "entryCount": 22,
+  "entryTraits": [
+    "aquatic",
+    "wings",
+    "hunting",
+    "territorial",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "churn",
+    "dows",
+    "skyward",
+    "frail",
+    "windows",
+    "flier",
+    "miss",
+    "helping",
+    "win",
+    "problem",
+    "scan",
+    "360",
+    "flits",
+    "exhibit",
+    "hover",
+    "insects",
+    "targeted",
+    "seek",
+    "directions",
+    "launch",
+    "midair",
+    "turning",
+    "sudden",
+    "attackers",
+    "house",
+    "shatter",
+    "really",
+    "guard",
+    "clear",
+    "adept",
+    "chase",
+    "stops",
+    "seeing",
+    "flight",
+    "having",
+    "spot",
+    "great",
+    "flapping",
+    "flaps",
+    "generate",
+    "right",
+    "area",
+    "behind",
+    "shock",
+    "thin",
+    "force",
+    "fast",
+    "freely",
+    "capable",
+    "won",
+    "moving",
+    "quickly",
+    "big"
+  ],
   "color": "red",
   "shape": "bug-wings",
   "habitat": "forest",
@@ -39,7 +101,22 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "If it flaps its wings really fast, it can generate shock waves that will shatter win­ dows in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "dows",
+        "win",
+        "shatter",
+        "really",
+        "flaps",
+        "generate",
+        "area",
+        "shock",
+        "fast"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +124,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "scan",
+        "360",
+        "insects",
+        "seek",
+        "directions"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +142,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It can see in all directions without moving its big eyes, helping it spot attackers and food right away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "helping",
+        "directions",
+        "attackers",
+        "spot",
+        "right",
+        "moving",
+        "big"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +160,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This POKéMON uses its flying ability to quickly chase down targeted prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flier",
+        "360",
+        "targeted",
+        "midair",
+        "turning",
+        "sudden",
+        "adept",
+        "chase",
+        "stops",
+        "seeing",
+        "having",
+        "great",
+        "capable",
+        "quickly"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +187,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This POKéMON uses its flying ability to quickly chase down targeted prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flier",
+        "360",
+        "targeted",
+        "midair",
+        "turning",
+        "sudden",
+        "adept",
+        "chase",
+        "stops",
+        "seeing",
+        "having",
+        "great",
+        "capable",
+        "quickly"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +214,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flier",
+        "360",
+        "targeted",
+        "midair",
+        "turning",
+        "sudden",
+        "chase",
+        "stops",
+        "great",
+        "capable",
+        "moving",
+        "quickly"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +239,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "scan",
+        "360",
+        "insects",
+        "seek",
+        "directions"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +257,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "windows",
+        "shatter",
+        "really",
+        "flaps",
+        "generate",
+        "area",
+        "shock",
+        "fast"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +279,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its eyes can see 360 degrees without moving its head. It won’t miss prey--even those behind it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "miss",
+        "360",
+        "behind",
+        "won",
+        "moving"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +297,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its eyes can see 360 degrees without moving its head. It won’t miss prey--even those behind it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "miss",
+        "360",
+        "behind",
+        "won",
+        "moving"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +315,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "territorial"
+      ],
+      "keywords": [
+        "flits",
+        "hover",
+        "guard",
+        "spot",
+        "flapping"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +334,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "windows",
+        "shatter",
+        "really",
+        "flaps",
+        "generate",
+        "area",
+        "shock",
+        "fast"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +356,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "scan",
+        "360",
+        "insects",
+        "seek",
+        "directions"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +374,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "territorial"
+      ],
+      "keywords": [
+        "flits",
+        "hover",
+        "guard",
+        "spot",
+        "flapping"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +393,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings",
+        "territorial"
+      ],
+      "keywords": [
+        "flits",
+        "hover",
+        "guard",
+        "spot",
+        "flapping"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +412,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "problem",
+        "sudden",
+        "stops",
+        "flapping",
+        "freely"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +431,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "problem",
+        "sudden",
+        "stops",
+        "flapping",
+        "freely"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +450,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its eyes can see 360 degrees without moving its head. It won’t miss prey--even those behind it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "miss",
+        "360",
+        "behind",
+        "won",
+        "moving"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +468,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "windows",
+        "shatter",
+        "really",
+        "flaps",
+        "generate",
+        "area",
+        "shock",
+        "fast"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +490,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flier",
+        "360",
+        "targeted",
+        "midair",
+        "turning",
+        "sudden",
+        "adept",
+        "chase",
+        "stops",
+        "seeing",
+        "having",
+        "great",
+        "capable",
+        "quickly"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +517,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flier",
+        "360",
+        "targeted",
+        "midair",
+        "turning",
+        "sudden",
+        "adept",
+        "chase",
+        "stops",
+        "seeing",
+        "having",
+        "great",
+        "capable",
+        "quickly"
+      ]
     },
     {
       "versionId": 39,
@@ -207,7 +544,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "churn",
+        "skyward",
+        "frail",
+        "exhibit",
+        "launch",
+        "house",
+        "clear",
+        "flight",
+        "thin",
+        "force"
+      ]
     }
   ],
   "similarPokemonIds": [

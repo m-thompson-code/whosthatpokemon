@@ -9,6 +9,45 @@
   ],
   "imagePath": "/assets/pokemon/313.png",
   "entryCount": 18,
+  "entryTraits": [
+    "tail",
+    "nocturnal",
+    "luminous",
+    "sky-dwelling",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "taillights",
+    "arrival",
+    "lit",
+    "designs",
+    "geometric",
+    "lightbulb",
+    "converses",
+    "lighting",
+    "adjusting",
+    "pond",
+    "illumise",
+    "intensity",
+    "drawing",
+    "attracted",
+    "given",
+    "flashing",
+    "ponds",
+    "shapes",
+    "lights",
+    "draw",
+    "communicates",
+    "dirty",
+    "swarm",
+    "glows",
+    "nests",
+    "communicate",
+    "clean",
+    "rear",
+    "aroma",
+    "emits"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": "forest",
@@ -39,7 +78,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This POKéMON is attracted by the sweet aroma of ILLUMISE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "arrival",
+        "adjusting",
+        "illumise",
+        "intensity",
+        "attracted",
+        "flashing",
+        "communicates",
+        "aroma",
+        "emits"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +102,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "VOLBEAT’s tail glows like a lightbulb. With other VOLBEAT, it uses its tail to draw geometric shapes in the night sky. This POKéMON loves the sweet aroma given off by ILLUMISE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "geometric",
+        "lightbulb",
+        "illumise",
+        "given",
+        "shapes",
+        "draw",
+        "glows",
+        "aroma"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +126,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "With their taillights lit, VOLBEAT fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "taillights",
+        "lit",
+        "designs",
+        "geometric",
+        "pond",
+        "drawing",
+        "dirty",
+        "swarm",
+        "nests"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +150,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "converses",
+        "flashing",
+        "ponds",
+        "lights",
+        "clean",
+        "rear"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +170,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "converses",
+        "flashing",
+        "ponds",
+        "lights",
+        "clean",
+        "rear"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +190,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "lighting",
+        "illumise",
+        "communicates",
+        "rear",
+        "aroma"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +208,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "lighting",
+        "illumise",
+        "communicates",
+        "rear",
+        "aroma"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +226,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "lighting",
+        "illumise",
+        "communicates",
+        "rear",
+        "aroma"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +244,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It emits light from its tail to communicate. It loves the sweet aroma given off by ILLUMISE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "luminous"
+      ],
+      "keywords": [
+        "illumise",
+        "given",
+        "communicate",
+        "aroma",
+        "emits"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +263,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It emits light from its tail to communicate. It loves the sweet aroma given off by ILLUMISE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "luminous"
+      ],
+      "keywords": [
+        "illumise",
+        "given",
+        "communicate",
+        "aroma",
+        "emits"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +282,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "lighting",
+        "illumise",
+        "communicates",
+        "rear",
+        "aroma"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +300,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "lighting",
+        "illumise",
+        "communicates",
+        "rear",
+        "aroma"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +318,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "lighting",
+        "illumise",
+        "communicates",
+        "rear",
+        "aroma"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +336,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "lighting",
+        "illumise",
+        "communicates",
+        "rear",
+        "aroma"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +354,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "lighting",
+        "illumise",
+        "communicates",
+        "rear",
+        "aroma"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +372,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "converses",
+        "flashing",
+        "ponds",
+        "lights",
+        "clean",
+        "rear"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +392,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pokémon is attracted by the sweet aroma of Illumise.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "arrival",
+        "adjusting",
+        "illumise",
+        "intensity",
+        "attracted",
+        "flashing",
+        "communicates",
+        "aroma",
+        "emits"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +416,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "tail",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "geometric",
+        "lightbulb",
+        "illumise",
+        "given",
+        "shapes",
+        "draw",
+        "glows",
+        "aroma"
+      ]
     }
   ],
   "similarPokemonIds": [

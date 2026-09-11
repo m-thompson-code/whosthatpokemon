@@ -10,6 +10,105 @@
   ],
   "imagePath": "/assets/pokemon/079.png",
   "entryCount": 32,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "absent",
+    "flavorful",
+    "oblivious",
+    "simmering",
+    "minded",
+    "salty",
+    "stew",
+    "dopey",
+    "lazes",
+    "loll",
+    "sweetness",
+    "worrying",
+    "worshiped",
+    "yawns",
+    "trait",
+    "alolan",
+    "drying",
+    "loafing",
+    "vacantly",
+    "ingredient",
+    "belief",
+    "content",
+    "cooking",
+    "dipping",
+    "involves",
+    "precious",
+    "either",
+    "naturally",
+    "react",
+    "seeps",
+    "bothered",
+    "rains",
+    "breaks",
+    "lying",
+    "particularly",
+    "seconds",
+    "soaked",
+    "witted",
+    "sluggish",
+    "nutritious",
+    "sap",
+    "standing",
+    "lure",
+    "thinking",
+    "fish",
+    "pleasant",
+    "bitten",
+    "leaks",
+    "5",
+    "chew",
+    "incredibly",
+    "really",
+    "edge",
+    "fishing",
+    "five",
+    "forgets",
+    "notice",
+    "spends",
+    "isn",
+    "slow",
+    "whenever",
+    "eaten",
+    "knows",
+    "quite",
+    "river",
+    "catches",
+    "side",
+    "bites",
+    "doing",
+    "skilled",
+    "pain",
+    "home",
+    "feel",
+    "fall",
+    "re",
+    "near",
+    "something",
+    "days",
+    "catch",
+    "lost",
+    "entire",
+    "places",
+    "though",
+    "thought",
+    "tails",
+    "won",
+    "good",
+    "whole",
+    "although",
+    "takes",
+    "tip",
+    "doesn"
+  ],
   "color": "pink",
   "shape": "quadruped",
   "habitat": "waters-edge",
@@ -40,7 +139,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dopey",
+        "seconds",
+        "5",
+        "incredibly",
+        "slow",
+        "pain",
+        "feel",
+        "takes"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +158,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dopey",
+        "seconds",
+        "5",
+        "incredibly",
+        "slow",
+        "pain",
+        "feel",
+        "takes"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +177,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "loll",
+        "worrying",
+        "content",
+        "sluggish",
+        "incredibly",
+        "slow",
+        "quite"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +195,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lazes",
+        "vacantly",
+        "notice",
+        "bites",
+        "near",
+        "something",
+        "won",
+        "whole"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +217,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "nutritious",
+        "sap",
+        "pleasant",
+        "leaks",
+        "chew",
+        "although",
+        "tip"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +237,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is always so absent-minded that it won't react, even if its flavorful tail is bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "absent",
+        "flavorful",
+        "minded",
+        "react",
+        "bitten",
+        "won"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +256,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SLOWPOKE uses its tail to catch prey by dipping it in water at the side of a river. However, this POKéMON often forgets what it’s doing and often spends entire days just loafing at water’s edge.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "loafing",
+        "dipping",
+        "edge",
+        "forgets",
+        "spends",
+        "river",
+        "side",
+        "doing",
+        "days",
+        "catch",
+        "entire"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +282,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SLOWPOKE uses its tail to catch prey by dipping it in water at the side of a river. However, this POKéMON often forgets what it’s doing and often spends entire days just loafing at water’s edge.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "loafing",
+        "dipping",
+        "edge",
+        "forgets",
+        "spends",
+        "river",
+        "side",
+        "doing",
+        "days",
+        "catch",
+        "entire"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +308,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water’s edge.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "loafing",
+        "dipping",
+        "edge",
+        "forgets",
+        "spends",
+        "river",
+        "catches",
+        "side",
+        "doing",
+        "days",
+        "entire"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +334,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "vacantly",
+        "thinking",
+        "fishing",
+        "knows",
+        "lost",
+        "thought",
+        "good"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +354,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dopey",
+        "seconds",
+        "incredibly",
+        "five",
+        "slow",
+        "pain",
+        "feel",
+        "takes"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +373,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "bitten",
+        "fishing",
+        "slow",
+        "skilled",
+        "pain",
+        "feel",
+        "although"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +393,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "bitten",
+        "fishing",
+        "slow",
+        "skilled",
+        "pain",
+        "feel",
+        "although"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +413,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "bitten",
+        "fishing",
+        "slow",
+        "skilled",
+        "pain",
+        "feel",
+        "although"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +433,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lazes vacantly near water. If something bites its tail, it won’t even notice for a whole day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lazes",
+        "vacantly",
+        "notice",
+        "bites",
+        "near",
+        "something",
+        "won",
+        "whole"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +455,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A sweet sap leaks from its tail’s tip. Although not nutritious, the tail is pleasant to chew on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "nutritious",
+        "sap",
+        "pleasant",
+        "leaks",
+        "chew",
+        "although",
+        "tip"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +475,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "bitten",
+        "fishing",
+        "slow",
+        "skilled",
+        "pain",
+        "feel",
+        "although"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +495,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "bitten",
+        "fishing",
+        "slow",
+        "skilled",
+        "pain",
+        "feel",
+        "although"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +515,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "bitten",
+        "fishing",
+        "slow",
+        "skilled",
+        "pain",
+        "feel",
+        "although"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +535,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "bitten",
+        "fishing",
+        "slow",
+        "skilled",
+        "pain",
+        "feel",
+        "although"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +555,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "vacantly",
+        "thinking",
+        "fishing",
+        "knows",
+        "lost",
+        "thought",
+        "good"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +575,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lazes vacantly near water. If something bites its tail, it won’t even notice for a whole day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "lazes",
+        "vacantly",
+        "notice",
+        "bites",
+        "near",
+        "something",
+        "won",
+        "whole"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +597,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it’s doing and often spends entire days just loafing at water’s edge.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "loafing",
+        "dipping",
+        "edge",
+        "forgets",
+        "spends",
+        "river",
+        "side",
+        "doing",
+        "days",
+        "catch",
+        "entire"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +623,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it’s doing and often spends entire days just loafing at water’s edge.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "loafing",
+        "dipping",
+        "edge",
+        "forgets",
+        "spends",
+        "river",
+        "side",
+        "doing",
+        "days",
+        "catch",
+        "entire"
+      ]
     },
     {
       "versionId": 27,
@@ -232,7 +649,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its long tail often breaks off. It doesn’t really feel any pain, though, and the tail grows back, so Slowpoke isn’t particularly bothered.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "bothered",
+        "breaks",
+        "particularly",
+        "really",
+        "isn",
+        "pain",
+        "feel",
+        "though",
+        "doesn"
+      ]
     },
     {
       "versionId": 28,
@@ -240,7 +671,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Alolan home cooking involves drying Slowpoke tails and then simmering them into a salty stew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "simmering",
+        "salty",
+        "stew",
+        "alolan",
+        "drying",
+        "cooking",
+        "involves",
+        "home",
+        "tails"
+      ]
     },
     {
       "versionId": 29,
@@ -248,7 +693,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "There are some places where Slowpoke is worshiped because of a long-standing belief that whenever Slowpoke yawns, it rains.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "worshiped",
+        "yawns",
+        "belief",
+        "rains",
+        "standing",
+        "whenever",
+        "places"
+      ]
     },
     {
       "versionId": 30,
@@ -256,7 +711,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although their tails, which fall off naturally, can easily be found lying around, they’re a precious ingredient for cooking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "ingredient",
+        "cooking",
+        "precious",
+        "naturally",
+        "lying",
+        "fall",
+        "re",
+        "tails",
+        "although"
+      ]
     },
     {
       "versionId": 31,
@@ -264,7 +733,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "loll",
+        "worrying",
+        "content",
+        "sluggish",
+        "incredibly",
+        "slow",
+        "quite"
+      ]
     },
     {
       "versionId": 32,
@@ -272,7 +751,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "loll",
+        "worrying",
+        "content",
+        "sluggish",
+        "incredibly",
+        "slow",
+        "quite"
+      ]
     },
     {
       "versionId": 33,
@@ -280,7 +769,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "oblivious",
+        "either",
+        "witted",
+        "notice",
+        "slow",
+        "eaten",
+        "pain",
+        "feel",
+        "won"
+      ]
     },
     {
       "versionId": 34,
@@ -288,7 +791,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "sweetness",
+        "trait",
+        "seeps",
+        "soaked",
+        "lure",
+        "fish"
+      ]
     }
   ],
   "similarPokemonIds": [

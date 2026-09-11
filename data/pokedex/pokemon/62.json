@@ -10,6 +10,106 @@
   ],
   "imagePath": "/assets/pokemon/062.png",
   "entryCount": 32,
+  "entryTraits": [
+    "aquatic",
+    "arms",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "butterfly",
+    "dish",
+    "getic",
+    "mus",
+    "percentage",
+    "breast",
+    "cles",
+    "ener",
+    "gifted",
+    "plow",
+    "prowess",
+    "breaststroke",
+    "champion",
+    "square",
+    "zero",
+    "overtakes",
+    "brawny",
+    "class",
+    "imitating",
+    "energetic",
+    "exercises",
+    "forward",
+    "develop",
+    "stroke",
+    "fatigued",
+    "muscle",
+    "swimmers",
+    "fat",
+    "trained",
+    "forces",
+    "forth",
+    "tirelessly",
+    "pacific",
+    "resting",
+    "overtake",
+    "impressive",
+    "arts",
+    "crawl",
+    "learn",
+    "martial",
+    "powerfully",
+    "crossing",
+    "drift",
+    "smash",
+    "split",
+    "kicking",
+    "normally",
+    "best",
+    "dry",
+    "solid",
+    "effort",
+    "spends",
+    "type",
+    "adept",
+    "second",
+    "knows",
+    "quite",
+    "swimmer",
+    "lands",
+    "punch",
+    "alola",
+    "nearly",
+    "dust",
+    "turn",
+    "skilled",
+    "front",
+    "entirely",
+    "faster",
+    "children",
+    "region",
+    "swim",
+    "run",
+    "among",
+    "boulders",
+    "ocean",
+    "human",
+    "surface",
+    "across",
+    "punches",
+    "highly",
+    "tough",
+    "huge",
+    "capable",
+    "swims",
+    "well",
+    "although",
+    "swimming",
+    "heavy",
+    "developed",
+    "seas",
+    "muscles",
+    "extremely"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": "waters-edge",
@@ -39,7 +139,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breast",
+        "overtakes",
+        "stroke",
+        "swimmers",
+        "crawl",
+        "best",
+        "adept",
+        "swimmer",
+        "front",
+        "human"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +160,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breast",
+        "overtakes",
+        "stroke",
+        "swimmers",
+        "crawl",
+        "best",
+        "adept",
+        "swimmer",
+        "front",
+        "human"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +181,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Swims powerfully using all the muscles in its body. It can even overtake champion swimmers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "champion",
+        "swimmers",
+        "overtake",
+        "powerfully",
+        "swims",
+        "muscles"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +200,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "crossing",
+        "kicking",
+        "swimmer",
+        "skilled",
+        "ocean",
+        "capable"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +220,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Although an ener­ getic, skilled swimmer that uses all of its mus­ cles, it lives on dry land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "getic",
+        "mus",
+        "cles",
+        "ener",
+        "dry",
+        "swimmer",
+        "skilled",
+        "although"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +239,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It can use its well-developed arms and legs to run on the surface of the water for a split second.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "split",
+        "second",
+        "run",
+        "surface",
+        "well",
+        "developed"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +259,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "POLIWRATH’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "brawny",
+        "exercises",
+        "fatigued",
+        "forth",
+        "tirelessly",
+        "pacific",
+        "effort",
+        "swim",
+        "ocean",
+        "across",
+        "highly",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +285,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "POLIWRATH’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "brawny",
+        "exercises",
+        "fatigued",
+        "forth",
+        "tirelessly",
+        "pacific",
+        "effort",
+        "swim",
+        "ocean",
+        "across",
+        "highly",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +311,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its highly developed muscles never grow fatigued, however much it exercises. This POKéMON can swim back and forth across the Pacific Ocean without effort.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exercises",
+        "fatigued",
+        "forth",
+        "pacific",
+        "effort",
+        "swim",
+        "ocean",
+        "across",
+        "highly",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +335,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "butterfly",
+        "swimmers",
+        "crawl",
+        "best",
+        "adept",
+        "knows",
+        "swimmer",
+        "front",
+        "faster",
+        "human"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +356,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breaststroke",
+        "overtakes",
+        "swimmers",
+        "crawl",
+        "best",
+        "adept",
+        "swimmer",
+        "front",
+        "human"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +376,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "resting",
+        "ocean",
+        "tough",
+        "swimming",
+        "muscles",
+        "extremely"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +396,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "resting",
+        "ocean",
+        "tough",
+        "swimming",
+        "muscles",
+        "extremely"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +416,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "resting",
+        "ocean",
+        "tough",
+        "swimming",
+        "muscles",
+        "extremely"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +436,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "crossing",
+        "kicking",
+        "swimmer",
+        "skilled",
+        "ocean",
+        "capable"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +456,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "energetic",
+        "dry",
+        "swimmer",
+        "skilled",
+        "although",
+        "muscles"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +473,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "resting",
+        "ocean",
+        "tough",
+        "swimming",
+        "muscles",
+        "extremely"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +493,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "resting",
+        "ocean",
+        "tough",
+        "swimming",
+        "muscles",
+        "extremely"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +513,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "resting",
+        "ocean",
+        "tough",
+        "swimming",
+        "muscles",
+        "extremely"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +533,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "resting",
+        "ocean",
+        "tough",
+        "swimming",
+        "muscles",
+        "extremely"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +553,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pacific",
+        "resting",
+        "ocean",
+        "tough",
+        "swimming",
+        "muscles",
+        "extremely"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +573,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "breaststroke",
+        "overtakes",
+        "swimmers",
+        "crawl",
+        "best",
+        "adept",
+        "swimmer",
+        "front",
+        "human"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +593,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Poliwrath’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "brawny",
+        "exercises",
+        "fatigued",
+        "forth",
+        "tirelessly",
+        "effort",
+        "swim",
+        "ocean",
+        "across",
+        "highly",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +618,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Poliwrath’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "brawny",
+        "exercises",
+        "fatigued",
+        "forth",
+        "tirelessly",
+        "effort",
+        "swim",
+        "ocean",
+        "across",
+        "highly",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +643,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Poliwrath in the Alola region are strong swimmers that use the breaststroke. Many children learn to swim by imitating Poliwrath.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "breaststroke",
+        "imitating",
+        "swimmers",
+        "learn",
+        "alola",
+        "children",
+        "region",
+        "swim"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +664,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its percentage of body fat is nearly zero. Its body is entirely muscle, which makes it heavy and forces its swimming prowess to develop.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "percentage",
+        "prowess",
+        "zero",
+        "develop",
+        "muscle",
+        "fat",
+        "forces",
+        "nearly",
+        "entirely",
+        "swimming",
+        "heavy"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +688,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s quite a gifted swimmer, even among Water-type Pokémon, but it normally spends its time on land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gifted",
+        "normally",
+        "spends",
+        "type",
+        "quite",
+        "swimmer",
+        "among"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +708,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The muscles it has developed through swimming are thick and powerful. When it lands a square punch, it can turn huge boulders to dust.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "square",
+        "lands",
+        "punch",
+        "dust",
+        "turn",
+        "boulders",
+        "huge",
+        "swimming",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +731,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "class",
+        "swimmers",
+        "overtake",
+        "powerfully",
+        "swims",
+        "muscles"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +750,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "class",
+        "swimmers",
+        "overtake",
+        "powerfully",
+        "swims",
+        "muscles"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +769,24 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "arms",
+        "icy"
+      ],
+      "keywords": [
+        "plow",
+        "forward",
+        "muscle",
+        "impressive",
+        "drift",
+        "smash",
+        "solid",
+        "swimming",
+        "seas"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +794,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "dish",
+        "trained",
+        "arts",
+        "martial",
+        "skilled",
+        "punches",
+        "well",
+        "swimming"
+      ]
     }
   ],
   "similarPokemonIds": [

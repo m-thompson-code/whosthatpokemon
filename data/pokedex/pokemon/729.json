@@ -9,6 +9,52 @@
   ],
   "imagePath": "/assets/pokemon/729.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "artfully",
+    "bombards",
+    "briskly",
+    "cheery",
+    "sequence",
+    "smacking",
+    "dodges",
+    "primarina",
+    "skillful",
+    "companions",
+    "overwhelm",
+    "busy",
+    "worker",
+    "leading",
+    "performs",
+    "cares",
+    "forming",
+    "bunch",
+    "exploding",
+    "dancer",
+    "balloons",
+    "diligently",
+    "practices",
+    "know",
+    "learn",
+    "dances",
+    "deeply",
+    "excited",
+    "singing",
+    "feeling",
+    "sees",
+    "calm",
+    "dancing",
+    "nights",
+    "help",
+    "try",
+    "dance",
+    "another",
+    "creates",
+    "doesn"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": null,
@@ -39,7 +85,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bombards",
+        "briskly",
+        "sequence",
+        "skillful",
+        "dancer",
+        "balloons",
+        "dances",
+        "creates"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +106,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try and help.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheery",
+        "companions",
+        "performs",
+        "cares",
+        "deeply",
+        "feeling",
+        "help",
+        "try",
+        "dance"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +126,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It gets excited when it sees a dance it doesn’t know. This hard worker practices diligently until it can learn that dance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "worker",
+        "diligently",
+        "practices",
+        "know",
+        "learn",
+        "excited",
+        "sees",
+        "dance",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +146,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It attacks by smacking its enemies with the exploding water balloons that it creates.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "smacking",
+        "exploding",
+        "balloons",
+        "creates"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +163,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "As if dancing, it artfully dodges the attacks of its enemies. All the while, it’s busy forming a bunch of balloons to overwhelm its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "artfully",
+        "dodges",
+        "overwhelm",
+        "busy",
+        "forming",
+        "bunch",
+        "balloons",
+        "dancing"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +182,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that’s leading them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "nocturnal"
+      ],
+      "keywords": [
+        "primarina",
+        "leading",
+        "singing",
+        "calm",
+        "nights",
+        "dance",
+        "another"
+      ]
     }
   ],
   "similarPokemonIds": [

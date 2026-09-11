@@ -9,6 +9,99 @@
   ],
   "imagePath": "/assets/pokemon/035.png",
   "entryCount": 33,
+  "entryTraits": [
+    "wings",
+    "nocturnal",
+    "mountain-dwelling",
+    "sleeping",
+    "sky-dwelling",
+    "luminous"
+  ],
+  "entryKeywords": [
+    "abnormal",
+    "confer",
+    "fairylike",
+    "havior",
+    "recklessly",
+    "thieves",
+    "adored",
+    "appeal",
+    "magical",
+    "playfulness",
+    "easier",
+    "men",
+    "nestled",
+    "retreats",
+    "admirers",
+    "collect",
+    "lovely",
+    "bathing",
+    "dawn",
+    "bathed",
+    "faintly",
+    "pet",
+    "enveloped",
+    "adorable",
+    "glowing",
+    "moonlight",
+    "quality",
+    "targeted",
+    "field",
+    "rises",
+    "women",
+    "show",
+    "dances",
+    "gathering",
+    "numbers",
+    "midair",
+    "return",
+    "arrives",
+    "tired",
+    "behavior",
+    "certain",
+    "surrounding",
+    "float",
+    "play",
+    "cute",
+    "difficult",
+    "few",
+    "quiet",
+    "dancing",
+    "glow",
+    "spot",
+    "upon",
+    "nights",
+    "tiny",
+    "flapping",
+    "find",
+    "old",
+    "young",
+    "area",
+    "do",
+    "groups",
+    "magnetic",
+    "areas",
+    "happiness",
+    "dance",
+    "rarely",
+    "re",
+    "cry",
+    "appearance",
+    "popular",
+    "rare",
+    "reason",
+    "moon",
+    "against",
+    "highly",
+    "mountain",
+    "though",
+    "thought",
+    "full",
+    "stores",
+    "nature",
+    "gather",
+    "apparently"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +131,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "appeal",
+        "magical",
+        "admirers",
+        "certain",
+        "cute",
+        "areas",
+        "rare"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +149,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "appeal",
+        "magical",
+        "admirers",
+        "certain",
+        "cute",
+        "areas",
+        "rare"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +167,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "adored",
+        "playfulness",
+        "cute",
+        "do",
+        "rare",
+        "thought"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +184,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "moonlight",
+        "midair",
+        "float",
+        "stores",
+        "apparently"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +202,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its adorable be­ havior and cry make it highly popular. However, this cute POKéMON is rarely found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "havior",
+        "adorable",
+        "cute",
+        "rarely",
+        "cry",
+        "popular",
+        "highly"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +220,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "easier",
+        "spot",
+        "rarely",
+        "reason",
+        "moon",
+        "though",
+        "full"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +240,27 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "On every night of a full moon, groups of this POKéMON come out to play. When dawn arrives, the tired CLEFAIRY return to their quiet mountain retreats and go to sleep nestled up against each other.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "nestled",
+        "retreats",
+        "dawn",
+        "return",
+        "arrives",
+        "tired",
+        "play",
+        "quiet",
+        "groups",
+        "moon",
+        "against",
+        "mountain",
+        "full"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +268,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "On every night of a full moon, groups of this POKéMON come out to play. When dawn arrives, the tired CLEFAIRY return to their quiet mountain retreats and go to sleep nestled up against each other.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "nestled",
+        "retreats",
+        "dawn",
+        "return",
+        "arrives",
+        "tired",
+        "play",
+        "quiet",
+        "groups",
+        "moon",
+        "against",
+        "mountain",
+        "full"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +296,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "On every night of a full moon, they come out to play. When dawn arrives, the tired CLEFAIRY go to sleep nestled up against each other in deep and quiet mountains.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "nestled",
+        "dawn",
+        "arrives",
+        "tired",
+        "play",
+        "quiet",
+        "moon",
+        "against",
+        "full"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +320,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its adorable appearance makes it popular as a pet. However, it is rare and difficult to find.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pet",
+        "adorable",
+        "difficult",
+        "find",
+        "appearance",
+        "popular",
+        "rare"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +338,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "With its magical and cute appeal, it has many admirers. It is rare and found only in certain areas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "appeal",
+        "magical",
+        "admirers",
+        "certain",
+        "cute",
+        "areas",
+        "rare"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +356,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "adorable",
+        "quiet",
+        "popular",
+        "thought",
+        "nature"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +374,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It flies using the wings on its back to collect moonlight. This Pokémon is difficult to find.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "collect",
+        "moonlight",
+        "difficult",
+        "find"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +391,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "gathering",
+        "dancing",
+        "happiness",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +407,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "moonlight",
+        "midair",
+        "float",
+        "stores",
+        "apparently"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +425,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "adorable",
+        "behavior",
+        "cute",
+        "rarely",
+        "cry",
+        "popular",
+        "highly"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +443,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "gathering",
+        "dancing",
+        "happiness",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +459,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "gathering",
+        "dancing",
+        "happiness",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +475,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "bathing",
+        "moonlight",
+        "float",
+        "nights",
+        "dance",
+        "moon",
+        "full",
+        "gather"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +496,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "bathing",
+        "moonlight",
+        "float",
+        "nights",
+        "dance",
+        "moon",
+        "full",
+        "gather"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +517,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "gathering",
+        "dancing",
+        "happiness",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +533,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "moonlight",
+        "midair",
+        "float",
+        "stores",
+        "apparently"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +551,27 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "nestled",
+        "retreats",
+        "dawn",
+        "return",
+        "arrives",
+        "tired",
+        "play",
+        "quiet",
+        "groups",
+        "moon",
+        "against",
+        "mountain",
+        "full"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +579,27 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "nestled",
+        "retreats",
+        "dawn",
+        "return",
+        "arrives",
+        "tired",
+        "play",
+        "quiet",
+        "groups",
+        "moon",
+        "against",
+        "mountain",
+        "full"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +607,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its adorable behavior and appearance make it popular with men and women, young and old. Its numbers are few, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "men",
+        "adorable",
+        "women",
+        "numbers",
+        "behavior",
+        "few",
+        "old",
+        "young",
+        "appearance",
+        "popular"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +628,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "abnormal",
+        "enveloped",
+        "field",
+        "surrounding",
+        "nights",
+        "area",
+        "magnetic",
+        "dance",
+        "moon",
+        "full",
+        "gather"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +652,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They’re popular, but they’re rare. Trainers who show them off recklessly may be targeted by thieves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recklessly",
+        "thieves",
+        "targeted",
+        "show",
+        "re",
+        "popular",
+        "rare"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +670,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Bathed in moonlight, its wings glow faintly. Without even flapping, Clefairy rises into the air, where it dances around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "bathed",
+        "faintly",
+        "moonlight",
+        "rises",
+        "dances",
+        "glow",
+        "flapping"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +692,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "adored",
+        "playfulness",
+        "cute",
+        "do",
+        "rare",
+        "thought"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +709,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "adored",
+        "playfulness",
+        "cute",
+        "do",
+        "rare",
+        "thought"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +726,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "gathering",
+        "dancing",
+        "happiness",
+        "moon",
+        "full"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +742,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "adorable",
+        "behavior",
+        "cute",
+        "rarely",
+        "cry",
+        "popular",
+        "highly"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +760,29 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "wings",
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "confer",
+        "fairylike",
+        "lovely",
+        "faintly",
+        "glowing",
+        "quality",
+        "quiet",
+        "dancing",
+        "upon",
+        "tiny",
+        "areas",
+        "moon",
+        "mountain",
+        "full"
+      ]
     }
   ],
   "similarPokemonIds": [

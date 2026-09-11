@@ -10,6 +10,67 @@
   ],
   "imagePath": "/assets/pokemon/247.png",
   "entryCount": 25,
+  "entryTraits": [
+    "mountain-dwelling",
+    "shell",
+    "arms"
+  ],
+  "entryKeywords": [
+    "compression",
+    "destruc",
+    "propelling",
+    "relieves",
+    "containing",
+    "tive",
+    "collision",
+    "ejects",
+    "thrashes",
+    "compresses",
+    "troublesome",
+    "forming",
+    "sealed",
+    "venting",
+    "compressed",
+    "pupa",
+    "pressurized",
+    "stress",
+    "thrashing",
+    "propel",
+    "already",
+    "sheet",
+    "outstanding",
+    "rocket",
+    "topple",
+    "bedrock",
+    "avoids",
+    "durable",
+    "gradually",
+    "forcefully",
+    "hits",
+    "standing",
+    "launch",
+    "wait",
+    "damage",
+    "solid",
+    "wildly",
+    "withstand",
+    "stay",
+    "destructive",
+    "dangerous",
+    "jet",
+    "great",
+    "evolve",
+    "gas",
+    "within",
+    "new",
+    "force",
+    "fast",
+    "freely",
+    "still",
+    "mountain",
+    "creates",
+    "rock"
+  ],
   "color": "gray",
   "shape": "squiggle",
   "habitat": "mountain",
@@ -39,7 +100,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "thrashing",
+        "sheet",
+        "topple",
+        "mountain",
+        "rock"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +119,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Even sealed in its shell, it can move freely. Hard and fast, it has out­ standing destruc­ tive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "destruc",
+        "tive",
+        "sealed",
+        "standing",
+        "fast",
+        "freely"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +138,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It will not stay still, even while it's a pupa. It already has arms and legs under its solid shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "shell"
+      ],
+      "keywords": [
+        "pupa",
+        "already",
+        "solid",
+        "stay",
+        "still"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +157,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ejects",
+        "compresses",
+        "propel",
+        "avoids",
+        "durable",
+        "forcefully",
+        "hits",
+        "damage",
+        "solid",
+        "jet",
+        "gas",
+        "creates"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +180,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ejects",
+        "compresses",
+        "propel",
+        "avoids",
+        "durable",
+        "forcefully",
+        "hits",
+        "damage",
+        "solid",
+        "jet",
+        "gas",
+        "creates"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +203,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A PUPITAR creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "compression",
+        "collision",
+        "ejects",
+        "propel",
+        "solid",
+        "withstand",
+        "jet",
+        "gas",
+        "creates"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +223,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "sealed",
+        "outstanding",
+        "destructive",
+        "fast",
+        "freely"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +241,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "thrashing",
+        "sheet",
+        "topple",
+        "mountain",
+        "rock"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +260,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venting",
+        "pressurized",
+        "rocket",
+        "bedrock",
+        "launch",
+        "gas"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +277,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venting",
+        "pressurized",
+        "rocket",
+        "bedrock",
+        "launch",
+        "gas"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +294,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venting",
+        "pressurized",
+        "rocket",
+        "bedrock",
+        "launch",
+        "gas"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +311,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "thrashing",
+        "sheet",
+        "topple",
+        "mountain",
+        "rock"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +330,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "sealed",
+        "outstanding",
+        "destructive",
+        "fast",
+        "freely"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +348,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venting",
+        "pressurized",
+        "rocket",
+        "bedrock",
+        "launch",
+        "gas"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +365,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venting",
+        "pressurized",
+        "rocket",
+        "bedrock",
+        "launch",
+        "gas"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +382,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venting",
+        "pupa",
+        "pressurized",
+        "wildly",
+        "great",
+        "gas",
+        "force"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +400,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venting",
+        "pupa",
+        "pressurized",
+        "wildly",
+        "great",
+        "gas",
+        "force"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +418,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "venting",
+        "pressurized",
+        "rocket",
+        "bedrock",
+        "launch",
+        "gas"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +435,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "thrashing",
+        "sheet",
+        "topple",
+        "mountain",
+        "rock"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +454,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ejects",
+        "compresses",
+        "propel",
+        "avoids",
+        "durable",
+        "forcefully",
+        "hits",
+        "damage",
+        "solid",
+        "jet",
+        "gas",
+        "creates"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +477,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ejects",
+        "compresses",
+        "propel",
+        "avoids",
+        "durable",
+        "forcefully",
+        "hits",
+        "damage",
+        "solid",
+        "jet",
+        "gas",
+        "creates"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +500,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This troublesome Pokémon can’t wait to evolve, so it relieves its stress by wildly propelling itself around using compressed gas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "propelling",
+        "relieves",
+        "troublesome",
+        "compressed",
+        "stress",
+        "wait",
+        "wildly",
+        "evolve",
+        "gas"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +520,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This dangerous pupa thrashes about. Its shell is as hard as bedrock, containing its gradually forming new body within.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "containing",
+        "thrashes",
+        "forming",
+        "pupa",
+        "bedrock",
+        "gradually",
+        "dangerous",
+        "within",
+        "new"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +542,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "sealed",
+        "outstanding",
+        "destructive",
+        "fast",
+        "freely"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +560,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "shell"
+      ],
+      "keywords": [
+        "pupa",
+        "already",
+        "solid",
+        "stay",
+        "still"
+      ]
     }
   ],
   "similarPokemonIds": [

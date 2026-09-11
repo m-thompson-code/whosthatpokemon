@@ -9,6 +9,86 @@
   ],
   "imagePath": "/assets/pokemon/447.png",
   "entryCount": 20,
+  "entryTraits": [
+    "mountain-dwelling",
+    "nocturnal",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "approval",
+    "canyons",
+    "discern",
+    "emotional",
+    "infantile",
+    "loathing",
+    "gauge",
+    "met",
+    "noise",
+    "youngster",
+    "intensifies",
+    "afraid",
+    "exceedingly",
+    "worker",
+    "energetic",
+    "lithe",
+    "crest",
+    "states",
+    "emanates",
+    "emotion",
+    "earn",
+    "experience",
+    "alert",
+    "minds",
+    "peculiar",
+    "stamina",
+    "cross",
+    "physical",
+    "challenging",
+    "detect",
+    "read",
+    "ill",
+    "rage",
+    "shapes",
+    "auras",
+    "sad",
+    "taking",
+    "joy",
+    "state",
+    "pure",
+    "natural",
+    "approach",
+    "knows",
+    "aura",
+    "feeling",
+    "looking",
+    "shape",
+    "dangerous",
+    "yet",
+    "environment",
+    "according",
+    "communicate",
+    "walks",
+    "right",
+    "tell",
+    "feel",
+    "change",
+    "humans",
+    "able",
+    "called",
+    "appearance",
+    "run",
+    "running",
+    "heart",
+    "emotions",
+    "mysterious",
+    "another",
+    "tough",
+    "still",
+    "though",
+    "same",
+    "nature",
+    "doesn"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +118,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intensifies",
+        "afraid",
+        "emanates",
+        "alert",
+        "sad",
+        "aura"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +135,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "canyons",
+        "lithe",
+        "crest",
+        "cross",
+        "yet"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +154,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "peculiar",
+        "rage",
+        "joy",
+        "able",
+        "emotions"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +172,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "They communicate with one another using their auras. They are able to run all through the night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "auras",
+        "communicate",
+        "able",
+        "run",
+        "another"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +190,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "They communicate with one another using their auras. They are able to run all through the night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "auras",
+        "communicate",
+        "able",
+        "run",
+        "another"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +208,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "peculiar",
+        "rage",
+        "joy",
+        "able",
+        "emotions"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +226,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "peculiar",
+        "rage",
+        "joy",
+        "able",
+        "emotions"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +244,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "emotion",
+        "shapes",
+        "auras",
+        "according",
+        "communicate",
+        "change"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +261,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "emotion",
+        "shapes",
+        "auras",
+        "according",
+        "communicate",
+        "change"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +278,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "emotion",
+        "shapes",
+        "auras",
+        "according",
+        "communicate",
+        "change"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +295,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intensifies",
+        "afraid",
+        "emanates",
+        "alert",
+        "sad",
+        "aura"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +312,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "emotion",
+        "shapes",
+        "auras",
+        "according",
+        "communicate",
+        "change"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +329,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "intensifies",
+        "afraid",
+        "emanates",
+        "alert",
+        "sad",
+        "aura"
+      ]
     },
     {
       "versionId": 27,
@@ -142,7 +346,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It can discern the physical and emotional states of people, Pokémon, and other natural things from the shape of their aura waves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "discern",
+        "emotional",
+        "states",
+        "physical",
+        "natural",
+        "aura",
+        "shape"
+      ]
     },
     {
       "versionId": 28,
@@ -150,7 +366,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It’s tough enough to run right through the night, and it’s also a hard worker, but it’s still just a youngster.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "youngster",
+        "worker",
+        "right",
+        "run",
+        "tough",
+        "still"
+      ]
     },
     {
       "versionId": 29,
@@ -158,7 +385,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It knows how people and Pokémon feel by looking at their auras. It doesn’t approach dangerous opponents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "auras",
+        "approach",
+        "knows",
+        "looking",
+        "dangerous",
+        "feel",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -166,7 +403,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It uses waves called auras to communicate with others of its kind. It doesn’t make any noise during this time, so its enemies can’t detect it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "noise",
+        "detect",
+        "auras",
+        "communicate",
+        "called",
+        "doesn"
+      ]
     },
     {
       "versionId": 33,
@@ -174,7 +422,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s exceedingly energetic, with enough stamina to keep running all through the night. Taking it for walks can be a challenging experience.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "exceedingly",
+        "energetic",
+        "experience",
+        "stamina",
+        "challenging",
+        "taking",
+        "walks",
+        "running"
+      ]
     },
     {
       "versionId": 34,
@@ -182,7 +443,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gauge",
+        "auras",
+        "state",
+        "feeling",
+        "environment",
+        "tell",
+        "called",
+        "same"
+      ]
     },
     {
       "versionId": 39,
@@ -190,7 +464,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Though infantile in appearance, it has the mysterious ability to read the minds of humans. The pure of heart are met with Riolu's approval, while those of ill nature earn only its loathing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "approval",
+        "infantile",
+        "loathing",
+        "met",
+        "earn",
+        "minds",
+        "read",
+        "ill",
+        "pure",
+        "humans",
+        "appearance",
+        "heart",
+        "mysterious",
+        "though",
+        "nature"
+      ]
     }
   ],
   "similarPokemonIds": [

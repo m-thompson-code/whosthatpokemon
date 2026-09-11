@@ -10,6 +10,66 @@
   ],
   "imagePath": "/assets/pokemon/230.png",
   "entryCount": 23,
+  "entryTraits": [
+    "aquatic",
+    "sleeping",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "royalty",
+    "splendorous",
+    "ensues",
+    "spiraling",
+    "uninhabited",
+    "whirlpool",
+    "devoid",
+    "tornadoes",
+    "arrival",
+    "gleam",
+    "gifts",
+    "yawning",
+    "dragonite",
+    "otherwise",
+    "awaken",
+    "wakes",
+    "whirlpools",
+    "meet",
+    "ve",
+    "swallow",
+    "extreme",
+    "given",
+    "show",
+    "fierce",
+    "currents",
+    "ships",
+    "arrives",
+    "underwater",
+    "floor",
+    "wander",
+    "shed",
+    "giant",
+    "depths",
+    "quietly",
+    "believed",
+    "build",
+    "seafloor",
+    "storm",
+    "survive",
+    "forms",
+    "sleeping",
+    "caves",
+    "ocean",
+    "scales",
+    "surface",
+    "sleeps",
+    "huge",
+    "create",
+    "creates",
+    "hides",
+    "search",
+    "stores",
+    "usually"
+  ],
   "color": "blue",
   "shape": "blob",
   "habitat": "sea",
@@ -40,7 +100,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "yawning",
+        "whirlpools",
+        "underwater",
+        "caves",
+        "create",
+        "hides",
+        "usually"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +118,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "tornadoes",
+        "wakes",
+        "floor",
+        "build",
+        "ocean",
+        "sleeps"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +138,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "underwater",
+        "depths",
+        "survive",
+        "forms",
+        "sleeping",
+        "stores"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +157,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "KINGDRA lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this POKéMON creates spiraling ocean currents.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spiraling",
+        "uninhabited",
+        "yawning",
+        "otherwise",
+        "extreme",
+        "currents",
+        "depths",
+        "believed",
+        "ocean",
+        "creates"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +180,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KINGDRA sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the POKéMON is said to awaken and wander about in search of prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "sleeping"
+      ],
+      "keywords": [
+        "devoid",
+        "otherwise",
+        "awaken",
+        "arrives",
+        "wander",
+        "seafloor",
+        "storm",
+        "sleeps",
+        "search"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +203,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "whirlpool",
+        "swallow",
+        "ships",
+        "quietly",
+        "seafloor",
+        "surface",
+        "sleeps",
+        "huge",
+        "creates"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +225,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "tornadoes",
+        "wakes",
+        "floor",
+        "build",
+        "ocean",
+        "sleeps"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +245,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "yawning",
+        "whirlpools",
+        "underwater",
+        "caves",
+        "create",
+        "hides",
+        "usually"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +263,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whirlpools",
+        "giant",
+        "seafloor",
+        "caves",
+        "creates"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +279,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whirlpools",
+        "giant",
+        "seafloor",
+        "caves",
+        "creates"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +295,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whirlpools",
+        "giant",
+        "seafloor",
+        "caves",
+        "creates"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +311,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "yawning",
+        "whirlpools",
+        "underwater",
+        "caves",
+        "create",
+        "hides",
+        "usually"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +329,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sleeping"
+      ],
+      "keywords": [
+        "tornadoes",
+        "wakes",
+        "floor",
+        "build",
+        "ocean",
+        "sleeps"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +349,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whirlpools",
+        "giant",
+        "seafloor",
+        "caves",
+        "creates"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +365,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whirlpools",
+        "giant",
+        "seafloor",
+        "caves",
+        "creates"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +381,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whirlpools",
+        "giant",
+        "seafloor",
+        "caves",
+        "creates"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +397,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "whirlpools",
+        "giant",
+        "seafloor",
+        "caves",
+        "creates"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +413,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "yawning",
+        "whirlpools",
+        "underwater",
+        "caves",
+        "create",
+        "hides",
+        "usually"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +431,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It stores energy by sleeping at underwater depths at which no other life-forms can survive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "underwater",
+        "depths",
+        "survive",
+        "forms",
+        "sleeping",
+        "stores"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +450,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "spiraling",
+        "uninhabited",
+        "yawning",
+        "otherwise",
+        "extreme",
+        "currents",
+        "depths",
+        "believed",
+        "ocean",
+        "creates"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +473,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "sleeping"
+      ],
+      "keywords": [
+        "devoid",
+        "otherwise",
+        "awaken",
+        "arrives",
+        "wander",
+        "seafloor",
+        "storm",
+        "sleeps",
+        "search"
+      ]
     },
     {
       "versionId": 33,
@@ -208,7 +496,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "ensues",
+        "arrival",
+        "dragonite",
+        "meet",
+        "show",
+        "fierce",
+        "storm",
+        "surface"
+      ]
     },
     {
       "versionId": 34,
@@ -216,7 +517,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "royalty",
+        "splendorous",
+        "gleam",
+        "gifts",
+        "ve",
+        "given",
+        "shed",
+        "scales"
+      ]
     }
   ],
   "similarPokemonIds": [

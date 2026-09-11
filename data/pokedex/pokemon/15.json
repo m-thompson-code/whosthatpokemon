@@ -10,6 +10,50 @@
   ],
   "imagePath": "/assets/pokemon/015.png",
   "entryCount": 26,
+  "entryTraits": [
+    "tail",
+    "poisonous",
+    "hunting",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "reasons",
+    "son",
+    "poi",
+    "stings",
+    "stabbing",
+    "involves",
+    "defeat",
+    "stingers",
+    "barb",
+    "swarms",
+    "venomous",
+    "furious",
+    "jab",
+    "stinger",
+    "territorial",
+    "needles",
+    "repeatedly",
+    "striking",
+    "best",
+    "angered",
+    "safety",
+    "approach",
+    "forelegs",
+    "barbs",
+    "swarm",
+    "secretes",
+    "3",
+    "victim",
+    "speeds",
+    "violent",
+    "ever",
+    "rear",
+    "poisonous",
+    "takes",
+    "toxic",
+    "extremely"
+  ],
   "color": "yellow",
   "shape": "bug-wings",
   "habitat": "forest",
@@ -39,7 +83,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "stingers",
+        "venomous",
+        "forelegs"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +99,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "stingers",
+        "venomous",
+        "forelegs"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +115,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "stingers",
+        "jab",
+        "repeatedly",
+        "forelegs",
+        "3",
+        "poisonous"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +135,14 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It can take down any opponent with its powerful poi­ son stingers. It sometimes attacks in swarms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "son",
+        "poi",
+        "stingers",
+        "swarms"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +150,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "barb",
+        "barbs",
+        "secretes"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +167,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "stings",
+        "defeat",
+        "victim",
+        "poisonous",
+        "takes"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +186,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "BEEDRILL is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "furious",
+        "territorial",
+        "angered",
+        "safety",
+        "approach",
+        "swarm",
+        "ever",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +207,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BEEDRILL is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "furious",
+        "territorial",
+        "angered",
+        "safety",
+        "approach",
+        "swarm",
+        "ever",
+        "extremely"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +228,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A BEEDRILL is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "reasons",
+        "territorial",
+        "angered",
+        "safety",
+        "approach",
+        "swarm",
+        "ever",
+        "extremely"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +249,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "stabbing",
+        "stinger",
+        "swarm",
+        "speeds",
+        "violent",
+        "rear",
+        "toxic"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +269,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It flies at high speed and attacks using the large venomous stingers on its forelegs and tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "stingers",
+        "venomous",
+        "forelegs"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +285,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "involves",
+        "needles",
+        "striking",
+        "best"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +302,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "involves",
+        "needles",
+        "striking",
+        "best"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +319,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "involves",
+        "needles",
+        "striking",
+        "best"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +336,14 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "stingers",
+        "swarms"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +351,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "barb",
+        "barbs",
+        "secretes"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +368,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "involves",
+        "needles",
+        "striking",
+        "best"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +385,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "involves",
+        "needles",
+        "striking",
+        "best"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +402,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "involves",
+        "needles",
+        "striking",
+        "best"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +419,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "involves",
+        "needles",
+        "striking",
+        "best"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +436,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "stingers",
+        "jab",
+        "repeatedly",
+        "forelegs",
+        "poisonous"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +455,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "stabbing",
+        "stinger",
+        "swarm",
+        "speeds",
+        "violent",
+        "rear",
+        "toxic"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +475,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "furious",
+        "territorial",
+        "angered",
+        "safety",
+        "approach",
+        "swarm",
+        "ever",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +496,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "furious",
+        "territorial",
+        "angered",
+        "safety",
+        "approach",
+        "swarm",
+        "ever",
+        "extremely"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +517,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "stingers",
+        "jab",
+        "repeatedly",
+        "forelegs",
+        "poisonous"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +536,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "poisonous"
+      ],
+      "keywords": [
+        "stingers",
+        "jab",
+        "repeatedly",
+        "forelegs",
+        "poisonous"
+      ]
     }
   ],
   "similarPokemonIds": [

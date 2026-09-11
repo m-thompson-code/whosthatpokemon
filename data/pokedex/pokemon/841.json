@@ -10,6 +10,27 @@
   ],
   "imagePath": "/assets/pokemon/841.png",
   "entryCount": 2,
+  "entryTraits": [
+    "wings"
+  ],
+  "entryKeywords": [
+    "induced",
+    "ate",
+    "apple",
+    "sour",
+    "chemical",
+    "acid",
+    "shape",
+    "cheeks",
+    "spits",
+    "causing",
+    "change",
+    "burns",
+    "capable",
+    "stores",
+    "skin",
+    "evolution"
+  ],
   "color": "green",
   "shape": "wings",
   "habitat": null,
@@ -40,7 +61,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "induced",
+        "ate",
+        "apple",
+        "sour",
+        "chemical",
+        "acid",
+        "cheeks",
+        "causing",
+        "burns",
+        "capable",
+        "stores",
+        "evolution"
+      ]
     },
     {
       "versionId": 34,
@@ -48,7 +84,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "apple",
+        "acid",
+        "shape",
+        "spits",
+        "change",
+        "skin"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,74 @@
   ],
   "imagePath": "/assets/pokemon/207.png",
   "entryCount": 22,
+  "entryTraits": [
+    "poisonous",
+    "mountain-dwelling",
+    "wings",
+    "hunting",
+    "sky-dwelling",
+    "sonic",
+    "claws",
+    "tail"
+  ],
+  "entryKeywords": [
+    "tled",
+    "obscure",
+    "sails",
+    "grasps",
+    "aims",
+    "stunned",
+    "cliff",
+    "surprise",
+    "clamping",
+    "done",
+    "gliding",
+    "clamps",
+    "clawed",
+    "jabs",
+    "sliding",
+    "injects",
+    "barb",
+    "chosen",
+    "tipped",
+    "hops",
+    "vision",
+    "steep",
+    "inject",
+    "stabs",
+    "horrible",
+    "extended",
+    "stinger",
+    "glides",
+    "startles",
+    "venom",
+    "clings",
+    "star",
+    "faces",
+    "spreads",
+    "startled",
+    "target",
+    "hangs",
+    "cliffs",
+    "forelegs",
+    "limbs",
+    "straight",
+    "covering",
+    "hind",
+    "front",
+    "victim",
+    "bring",
+    "builds",
+    "single",
+    "strike",
+    "first",
+    "winds",
+    "pincers",
+    "spots",
+    "along",
+    "face",
+    "usually"
+  ],
   "color": "purple",
   "shape": "wings",
   "habitat": "mountain",
@@ -39,7 +107,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It flies straight at its target's face then clamps down on the star­ tled victim to inject poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "tled",
+        "clamps",
+        "inject",
+        "star",
+        "target",
+        "straight",
+        "victim",
+        "face"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +128,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "glides",
+        "clings",
+        "spreads",
+        "cliffs",
+        "spots",
+        "usually"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +149,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "cliff",
+        "done",
+        "gliding",
+        "hops",
+        "steep",
+        "builds",
+        "along"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +169,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GLIGAR glides through the air without a sound as if it were sliding. This POKéMON hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "hunting",
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "clawed",
+        "sliding",
+        "injects",
+        "barb",
+        "glides",
+        "hangs",
+        "forelegs",
+        "hind",
+        "pincers",
+        "face"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +195,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GLIGAR glides through the air without a sound as if it were sliding. This POKéMON hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "hunting",
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "clawed",
+        "sliding",
+        "injects",
+        "barb",
+        "glides",
+        "hangs",
+        "forelegs",
+        "hind",
+        "pincers",
+        "face"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +221,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "grasps",
+        "barb",
+        "stabs",
+        "glides",
+        "hind",
+        "front",
+        "single",
+        "face"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +244,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "glides",
+        "clings",
+        "spreads",
+        "cliffs",
+        "spots",
+        "usually"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +265,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It flies straight at its target’s face, then clamps down on the startled victim to inject poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "clamps",
+        "inject",
+        "startled",
+        "target",
+        "straight",
+        "victim",
+        "face"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +285,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey’s face.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "sails",
+        "aims",
+        "extended",
+        "limbs",
+        "strike",
+        "winds",
+        "face"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +306,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey’s face.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "sails",
+        "aims",
+        "extended",
+        "limbs",
+        "strike",
+        "winds",
+        "face"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +327,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "clamping",
+        "jabs",
+        "sliding",
+        "stinger",
+        "glides",
+        "startles",
+        "faces"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +347,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flies straight at its target’s face, then clamps down on the startled victim to inject poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "clamps",
+        "inject",
+        "startled",
+        "target",
+        "straight",
+        "victim",
+        "face"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +367,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "glides",
+        "clings",
+        "spreads",
+        "cliffs",
+        "spots",
+        "usually"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +388,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "clamping",
+        "jabs",
+        "sliding",
+        "stinger",
+        "glides",
+        "startles",
+        "faces"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +408,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "clamping",
+        "jabs",
+        "sliding",
+        "stinger",
+        "glides",
+        "startles",
+        "faces"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +428,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It clamps on to its chosen prey then jabs the stinger on its tail into the prey while it’s stunned with surprise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "stunned",
+        "surprise",
+        "clamps",
+        "jabs",
+        "chosen",
+        "stinger"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +448,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It clamps on to its chosen prey then jabs the stinger on its tail into the prey while it’s stunned with surprise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "stunned",
+        "surprise",
+        "clamps",
+        "jabs",
+        "chosen",
+        "stinger"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +468,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "wings",
+        "hunting"
+      ],
+      "keywords": [
+        "glides",
+        "clings",
+        "spreads",
+        "cliffs",
+        "spots",
+        "usually"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +489,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It flies straight at its target’s face, then clamps down on the startled victim to inject poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "clamps",
+        "inject",
+        "startled",
+        "target",
+        "straight",
+        "victim",
+        "face"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +509,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "hunting",
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "clawed",
+        "sliding",
+        "injects",
+        "barb",
+        "glides",
+        "hangs",
+        "forelegs",
+        "hind",
+        "pincers",
+        "face"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +535,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "hunting",
+        "poisonous",
+        "sonic"
+      ],
+      "keywords": [
+        "clawed",
+        "sliding",
+        "injects",
+        "barb",
+        "glides",
+        "hangs",
+        "forelegs",
+        "hind",
+        "pincers",
+        "face"
+      ]
     },
     {
       "versionId": 39,
@@ -207,7 +561,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "obscure",
+        "tipped",
+        "vision",
+        "inject",
+        "horrible",
+        "stinger",
+        "venom",
+        "faces",
+        "covering",
+        "bring",
+        "first"
+      ]
     }
   ],
   "similarPokemonIds": [

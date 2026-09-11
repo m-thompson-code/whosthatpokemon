@@ -10,6 +10,78 @@
   ],
   "imagePath": "/assets/pokemon/342.png",
   "entryCount": 22,
+  "entryTraits": [
+    "shell",
+    "burrowing",
+    "claws",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "marked",
+    "prevailed",
+    "stinking",
+    "desolate",
+    "nasty",
+    "streambed",
+    "unlike",
+    "clauncher",
+    "customer",
+    "pinches",
+    "crabrawler",
+    "refuse",
+    "brutish",
+    "regularly",
+    "compels",
+    "scars",
+    "veteran",
+    "flails",
+    "cowardly",
+    "meat",
+    "molts",
+    "molting",
+    "crash",
+    "hundreds",
+    "ruffian",
+    "loving",
+    "pond",
+    "toss",
+    "utterly",
+    "challenge",
+    "countless",
+    "temperament",
+    "inhabited",
+    "raise",
+    "ponds",
+    "enter",
+    "immediately",
+    "tender",
+    "wildly",
+    "burrow",
+    "rough",
+    "giant",
+    "pick",
+    "hardens",
+    "approaches",
+    "stays",
+    "sheds",
+    "soon",
+    "forms",
+    "timid",
+    "throws",
+    "battles",
+    "break",
+    "violent",
+    "soft",
+    "fall",
+    "avoid",
+    "pincers",
+    "turns",
+    "living",
+    "places",
+    "hides",
+    "nature",
+    "extremely"
+  ],
   "color": "red",
   "shape": "armor",
   "habitat": "waters-edge",
@@ -40,7 +112,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CRAWDAUNT has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this POKéMON, making them desolate places.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "desolate",
+        "refuse",
+        "compels",
+        "challenge",
+        "inhabited",
+        "ponds",
+        "forms",
+        "violent",
+        "living",
+        "places",
+        "nature",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +135,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CRAWDAUNT molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this POKéMON hides in its streambed burrow to avoid attack from its foes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "burrowing"
+      ],
+      "keywords": [
+        "streambed",
+        "regularly",
+        "molts",
+        "molting",
+        "immediately",
+        "tender",
+        "burrow",
+        "hardens",
+        "sheds",
+        "soft",
+        "avoid",
+        "hides"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +161,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A brutish POKéMON that loves to battle. A veteran CRAWDAUNT that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "marked",
+        "prevailed",
+        "brutish",
+        "scars",
+        "veteran",
+        "hundreds",
+        "countless",
+        "giant",
+        "battles",
+        "pincers"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +182,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "customer",
+        "flails",
+        "raise",
+        "wildly",
+        "rough",
+        "giant",
+        "extremely"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +202,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "customer",
+        "flails",
+        "raise",
+        "wildly",
+        "rough",
+        "giant",
+        "extremely"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +222,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ruffian",
+        "pond",
+        "toss",
+        "pick",
+        "pincers"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +238,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ruffian",
+        "pond",
+        "toss",
+        "pick",
+        "pincers"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +254,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ruffian",
+        "pond",
+        "toss",
+        "pick",
+        "pincers"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +270,13 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "brutish",
+        "crash",
+        "approaches"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +284,13 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "brutish",
+        "crash",
+        "approaches"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +298,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ruffian",
+        "pond",
+        "toss",
+        "pick",
+        "pincers"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +314,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ruffian",
+        "pond",
+        "toss",
+        "pick",
+        "pincers"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +330,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "pinches",
+        "loving",
+        "enter",
+        "throws",
+        "pincers"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +348,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "pinches",
+        "loving",
+        "enter",
+        "throws",
+        "pincers"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +366,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ruffian",
+        "pond",
+        "toss",
+        "pick",
+        "pincers"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +382,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "pinches",
+        "loving",
+        "enter",
+        "throws",
+        "pincers"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +400,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "desolate",
+        "refuse",
+        "compels",
+        "challenge",
+        "inhabited",
+        "ponds",
+        "forms",
+        "violent",
+        "living",
+        "places",
+        "nature",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +423,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell",
+        "burrowing"
+      ],
+      "keywords": [
+        "streambed",
+        "regularly",
+        "molts",
+        "molting",
+        "immediately",
+        "tender",
+        "burrow",
+        "hardens",
+        "sheds",
+        "soft",
+        "avoid",
+        "hides"
+      ]
     },
     {
       "versionId": 29,
@@ -184,7 +449,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cowardly",
+        "temperament",
+        "rough",
+        "stays",
+        "soon",
+        "timid",
+        "break",
+        "pincers",
+        "turns"
+      ]
     },
     {
       "versionId": 30,
@@ -192,7 +469,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "stinking",
+        "nasty",
+        "unlike",
+        "clauncher",
+        "crabrawler",
+        "meat",
+        "utterly",
+        "fall",
+        "pincers"
+      ]
     },
     {
       "versionId": 33,
@@ -200,7 +491,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "customer",
+        "flails",
+        "raise",
+        "wildly",
+        "rough",
+        "giant",
+        "extremely"
+      ]
     },
     {
       "versionId": 34,
@@ -208,7 +511,13 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "brutish",
+        "crash",
+        "approaches"
+      ]
     }
   ],
   "similarPokemonIds": [

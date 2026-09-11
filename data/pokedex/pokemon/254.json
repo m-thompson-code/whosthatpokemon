@@ -9,6 +9,44 @@
   ],
   "imagePath": "/assets/pokemon/254.png",
   "entryCount": 18,
+  "entryTraits": [
+    "forest-dwelling",
+    "arms",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "revitalize",
+    "regulates",
+    "edged",
+    "basking",
+    "agilely",
+    "carefully",
+    "loving",
+    "combat",
+    "peer",
+    "agile",
+    "bursting",
+    "jumps",
+    "equal",
+    "swords",
+    "slice",
+    "seeds",
+    "jungle",
+    "leaps",
+    "forelegs",
+    "growing",
+    "raises",
+    "branches",
+    "above",
+    "care",
+    "strike",
+    "forest",
+    "behind",
+    "nutrients",
+    "plants",
+    "sunlight",
+    "temperature"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": "forest",
@@ -39,7 +77,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "edged",
+        "agile",
+        "jumps",
+        "leaps",
+        "growing",
+        "branches",
+        "above",
+        "behind"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +98,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SCEPTILE has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This POKéMON raises the trees in a forest with loving care.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "revitalize",
+        "loving",
+        "bursting",
+        "seeds",
+        "growing",
+        "raises",
+        "care",
+        "forest",
+        "nutrients"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +120,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "In the jungle, its power is without equal. This POKéMON carefully grows trees and plants. It regulates its body temperature by basking in sunlight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "regulates",
+        "basking",
+        "carefully",
+        "equal",
+        "jungle",
+        "plants",
+        "sunlight",
+        "temperature"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +141,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "agilely",
+        "swords",
+        "leaps",
+        "forelegs",
+        "branches",
+        "strike"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +160,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "agilely",
+        "swords",
+        "leaps",
+        "forelegs",
+        "branches",
+        "strike"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +179,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "combat",
+        "peer",
+        "slice",
+        "jungle"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +197,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "combat",
+        "peer",
+        "slice",
+        "jungle"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +215,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "combat",
+        "peer",
+        "slice",
+        "jungle"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +233,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "agilely",
+        "jungle",
+        "leaps",
+        "strike"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +251,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "agilely",
+        "jungle",
+        "leaps",
+        "strike"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +269,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "combat",
+        "peer",
+        "slice",
+        "jungle"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +287,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "combat",
+        "peer",
+        "slice",
+        "jungle"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +305,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "combat",
+        "peer",
+        "slice",
+        "jungle"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +323,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "combat",
+        "peer",
+        "slice",
+        "jungle"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +341,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "combat",
+        "peer",
+        "slice",
+        "jungle"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +359,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "agilely",
+        "jungle",
+        "leaps",
+        "strike"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +377,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The leaves growing on Sceptile’s body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "edged",
+        "agile",
+        "jumps",
+        "leaps",
+        "growing",
+        "branches",
+        "above",
+        "behind"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +398,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "revitalize",
+        "loving",
+        "bursting",
+        "seeds",
+        "growing",
+        "raises",
+        "care",
+        "forest",
+        "nutrients"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,27 @@
   ],
   "imagePath": "/assets/pokemon/980.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "risky",
+    "retaliate",
+    "wooper",
+    "swamps",
+    "sticking",
+    "ferry",
+    "ponds",
+    "shore",
+    "spines",
+    "line",
+    "puts",
+    "bottom",
+    "carry",
+    "everything",
+    "across",
+    "attacked"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -40,7 +61,18 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "risky",
+        "retaliate",
+        "sticking",
+        "spines",
+        "line",
+        "puts",
+        "everything",
+        "attacked"
+      ]
     },
     {
       "versionId": 41,
@@ -48,7 +80,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "wooper",
+        "swamps",
+        "ferry",
+        "ponds",
+        "shore",
+        "bottom",
+        "carry",
+        "across"
+      ]
     }
   ],
   "similarPokemonIds": [

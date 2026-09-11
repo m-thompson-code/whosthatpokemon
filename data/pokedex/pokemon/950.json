@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/950.png",
   "entryCount": 2,
+  "entryTraits": [
+    "mountain-dwelling",
+    "hunting",
+    "claws"
+  ],
+  "entryKeywords": [
+    "sidesteps",
+    "lunges",
+    "upside",
+    "rushes",
+    "position",
+    "sheer",
+    "remain",
+    "waiting",
+    "hangs",
+    "cliffs",
+    "blood",
+    "weak",
+    "spots"
+  ],
   "color": "red",
   "shape": "armor",
   "habitat": null,
@@ -38,7 +58,21 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "upside",
+        "rushes",
+        "position",
+        "remain",
+        "waiting",
+        "hangs",
+        "cliffs",
+        "blood"
+      ]
     },
     {
       "versionId": 41,
@@ -46,7 +80,19 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "sidesteps",
+        "lunges",
+        "sheer",
+        "cliffs",
+        "weak",
+        "spots"
+      ]
     }
   ],
   "similarPokemonIds": [

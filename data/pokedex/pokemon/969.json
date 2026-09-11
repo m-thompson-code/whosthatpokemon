@@ -10,6 +10,28 @@
   ],
   "imagePath": "/assets/pokemon/969.png",
   "entryCount": 2,
+  "entryTraits": [
+    "cave-dwelling",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "crystallized",
+    "mineral",
+    "cave",
+    "crystals",
+    "wears",
+    "powder",
+    "scatters",
+    "pollen",
+    "absorbs",
+    "petals",
+    "walls",
+    "look",
+    "nutrients",
+    "poisonous",
+    "flower",
+    "toxic"
+  ],
   "color": "blue",
   "shape": "ball",
   "habitat": null,
@@ -39,7 +61,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "crystallized",
+        "cave",
+        "wears",
+        "absorbs",
+        "petals",
+        "walls",
+        "nutrients"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +82,22 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "mineral",
+        "crystals",
+        "powder",
+        "scatters",
+        "pollen",
+        "petals",
+        "look",
+        "poisonous",
+        "flower",
+        "toxic"
+      ]
     }
   ],
   "similarPokemonIds": [

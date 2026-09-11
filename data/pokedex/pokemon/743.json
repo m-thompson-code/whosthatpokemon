@@ -10,6 +10,57 @@
   ],
   "imagePath": "/assets/pokemon/743.png",
   "entryCount": 6,
+  "entryTraits": [
+    "forest-dwelling",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "rained",
+    "row",
+    "sold",
+    "stock",
+    "supplements",
+    "varieties",
+    "hate",
+    "cloudy",
+    "effects",
+    "depend",
+    "puffs",
+    "seldom",
+    "reveals",
+    "ominous",
+    "ingredients",
+    "absolutely",
+    "levels",
+    "nutritious",
+    "nectar",
+    "wet",
+    "hates",
+    "damp",
+    "galar",
+    "clear",
+    "predict",
+    "type",
+    "getting",
+    "hollow",
+    "sees",
+    "few",
+    "rolls",
+    "waits",
+    "moisture",
+    "clouds",
+    "direction",
+    "finds",
+    "pollen",
+    "region",
+    "rain",
+    "wind",
+    "weather",
+    "days",
+    "different",
+    "highly",
+    "still"
+  ],
   "color": "yellow",
   "shape": "bug-wings",
   "habitat": null,
@@ -40,7 +91,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "varieties",
+        "puffs",
+        "rolls",
+        "pollen",
+        "different"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +107,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Some of Ribombee’s pollen puffs are highly nutritious. They are sometimes sold as supplements.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sold",
+        "supplements",
+        "puffs",
+        "nutritious",
+        "pollen",
+        "highly"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +124,25 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "stock",
+        "ominous",
+        "hates",
+        "damp",
+        "hollow",
+        "sees",
+        "waits",
+        "clouds",
+        "finds",
+        "pollen",
+        "rain",
+        "still"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +150,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "row",
+        "reveals",
+        "levels",
+        "clear",
+        "predict",
+        "few",
+        "moisture",
+        "direction",
+        "wind",
+        "weather",
+        "days"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +172,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It makes pollen puffs from pollen and nectar. The puffs’ effects depend on the type of ingredients and how much of each one is used.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "effects",
+        "depend",
+        "puffs",
+        "ingredients",
+        "nectar",
+        "type",
+        "pollen"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +190,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "rained",
+        "hate",
+        "cloudy",
+        "seldom",
+        "absolutely",
+        "wet",
+        "galar",
+        "getting",
+        "region"
+      ]
     }
   ],
   "similarPokemonIds": [

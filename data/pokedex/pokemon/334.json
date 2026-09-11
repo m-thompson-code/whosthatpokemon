@@ -10,6 +10,84 @@
   ],
   "imagePath": "/assets/pokemon/334.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sky-dwelling",
+    "wings",
+    "fiery",
+    "mountain-dwelling",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "shrill",
+    "buoyant",
+    "dreamy",
+    "provoked",
+    "trilling",
+    "wonderment",
+    "yonder",
+    "hum",
+    "hums",
+    "billowing",
+    "enrapture",
+    "wheels",
+    "audience",
+    "bonds",
+    "humming",
+    "melodic",
+    "crystal",
+    "envelop",
+    "performs",
+    "relaxed",
+    "soprano",
+    "blends",
+    "experience",
+    "friend",
+    "manner",
+    "mercy",
+    "gracefully",
+    "gorgeous",
+    "updrafts",
+    "gently",
+    "melodies",
+    "threaten",
+    "soars",
+    "listeners",
+    "melody",
+    "song",
+    "cloud",
+    "sings",
+    "dances",
+    "sunny",
+    "fireballs",
+    "voice",
+    "clear",
+    "disposition",
+    "singing",
+    "hear",
+    "dream",
+    "catches",
+    "intensely",
+    "blue",
+    "flight",
+    "launches",
+    "person",
+    "wild",
+    "cotton",
+    "calm",
+    "fluffy",
+    "white",
+    "attacking",
+    "clouds",
+    "soft",
+    "feel",
+    "re",
+    "far",
+    "beautiful",
+    "days",
+    "among",
+    "freely",
+    "hot"
+  ],
   "color": "blue",
   "shape": "wings",
   "habitat": "forest",
@@ -40,7 +118,27 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "dreamy",
+        "wonderment",
+        "billowing",
+        "wheels",
+        "crystal",
+        "experience",
+        "melodies",
+        "listeners",
+        "dances",
+        "voice",
+        "clear",
+        "singing",
+        "cotton",
+        "clouds",
+        "among"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +146,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ALTARIA sings in a gorgeous soprano. Its wings are like cotton clouds. This POKéMON catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "buoyant",
+        "yonder",
+        "soprano",
+        "gorgeous",
+        "updrafts",
+        "soars",
+        "sings",
+        "catches",
+        "blue",
+        "wild",
+        "cotton",
+        "clouds"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +172,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "hums",
+        "soprano",
+        "fireballs",
+        "voice",
+        "intensely",
+        "blue",
+        "launches",
+        "white",
+        "clouds",
+        "beautiful",
+        "among",
+        "hot"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +198,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If you hear a beautiful melody trilling deep among mountains far from people, it is ALTARIA’s humming.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "trilling",
+        "humming",
+        "melody",
+        "hear",
+        "far",
+        "beautiful",
+        "among"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +218,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If you hear a beautiful melody trilling deep among mountains far from people, it is ALTARIA’s humming.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "trilling",
+        "humming",
+        "melody",
+        "hear",
+        "far",
+        "beautiful",
+        "among"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +238,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "hums",
+        "soprano",
+        "cloud",
+        "voice",
+        "flight",
+        "fluffy"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +257,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "hums",
+        "soprano",
+        "cloud",
+        "voice",
+        "flight",
+        "fluffy"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +276,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hum",
+        "bonds",
+        "envelop",
+        "friend",
+        "gently",
+        "person",
+        "soft"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +296,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flies gracefully through the sky. Its melodic humming makes you feel like you’re in a dream.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "humming",
+        "melodic",
+        "gracefully",
+        "dream",
+        "feel",
+        "re"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +315,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flies gracefully through the sky. Its melodic humming makes you feel like you’re in a dream.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "humming",
+        "melodic",
+        "gracefully",
+        "dream",
+        "feel",
+        "re"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +334,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hum",
+        "bonds",
+        "envelop",
+        "friend",
+        "gently",
+        "person",
+        "soft"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +354,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hum",
+        "bonds",
+        "envelop",
+        "friend",
+        "gently",
+        "person",
+        "soft"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +374,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soprano",
+        "blends",
+        "sings",
+        "sunny",
+        "clouds",
+        "beautiful",
+        "days",
+        "freely"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +395,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soprano",
+        "blends",
+        "sings",
+        "sunny",
+        "clouds",
+        "beautiful",
+        "days",
+        "freely"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +416,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It flies gracefully through the sky. Its melodic humming makes you feel like you’re in a dream.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "humming",
+        "melodic",
+        "gracefully",
+        "dream",
+        "feel",
+        "re"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +435,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soprano",
+        "blends",
+        "sings",
+        "sunny",
+        "clouds",
+        "beautiful",
+        "days",
+        "freely"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +456,27 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "dreamy",
+        "wonderment",
+        "billowing",
+        "wheels",
+        "crystal",
+        "experience",
+        "melodies",
+        "listeners",
+        "dances",
+        "voice",
+        "clear",
+        "singing",
+        "cotton",
+        "clouds",
+        "among"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +484,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "buoyant",
+        "yonder",
+        "soprano",
+        "gorgeous",
+        "updrafts",
+        "soars",
+        "sings",
+        "catches",
+        "blue",
+        "wild",
+        "cotton",
+        "clouds"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +510,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "enrapture",
+        "audience",
+        "humming",
+        "performs",
+        "relaxed",
+        "manner",
+        "song",
+        "calm"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +529,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon has a kind disposition, but if it’s provoked, it will threaten opponents with shrill cries before attacking them without mercy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "shrill",
+        "provoked",
+        "mercy",
+        "threaten",
+        "disposition",
+        "attacking"
+      ]
     }
   ],
   "similarPokemonIds": [

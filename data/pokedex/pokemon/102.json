@@ -10,6 +10,92 @@
   ],
   "imagePath": "/assets/pokemon/102.png",
   "entryCount": 32,
+  "entryTraits": [
+    "shell"
+  ],
+  "entryKeywords": [
+    "fledged",
+    "proper",
+    "rejoin",
+    "spilling",
+    "crabrawler",
+    "knit",
+    "member",
+    "contents",
+    "employ",
+    "psychokinesis",
+    "produced",
+    "cowardly",
+    "bunch",
+    "converse",
+    "via",
+    "closely",
+    "crack",
+    "cracks",
+    "missing",
+    "ones",
+    "minute",
+    "genes",
+    "sort",
+    "swarms",
+    "consists",
+    "receive",
+    "hunted",
+    "increasingly",
+    "spin",
+    "6",
+    "durable",
+    "packed",
+    "telepathy",
+    "bond",
+    "disturbed",
+    "maintain",
+    "shells",
+    "separated",
+    "drive",
+    "mistaken",
+    "nervous",
+    "cluster",
+    "morning",
+    "next",
+    "communicates",
+    "seeds",
+    "attract",
+    "balance",
+    "quite",
+    "alola",
+    "believed",
+    "survive",
+    "species",
+    "themselves",
+    "communicate",
+    "discovered",
+    "single",
+    "care",
+    "carry",
+    "between",
+    "size",
+    "re",
+    "instantly",
+    "six",
+    "group",
+    "plant",
+    "look",
+    "lost",
+    "among",
+    "eggs",
+    "though",
+    "full",
+    "same",
+    "although",
+    "quickly",
+    "evolution",
+    "gather",
+    "close",
+    "heavy",
+    "apparently",
+    "heads"
+  ],
   "color": "pink",
   "shape": "heads",
   "habitat": "forest",
@@ -39,7 +125,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swarms",
+        "disturbed",
+        "mistaken",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +142,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swarms",
+        "disturbed",
+        "mistaken",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +159,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The heads attract each other and spin around. There must be 6 heads for it to maintain balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spin",
+        "6",
+        "maintain",
+        "attract",
+        "balance",
+        "heads"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +176,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The shell is very durable. Even if it cracks, it can survive without spilling the contents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spilling",
+        "contents",
+        "cracks",
+        "durable",
+        "survive"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +194,14 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Using telepathy only they can receive, they always form a cluster of six EXEGGCUTE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "receive",
+        "telepathy",
+        "cluster",
+        "six"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +209,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "If even one is separated from the group, the energy bond between the six will make them rejoin instantly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rejoin",
+        "bond",
+        "separated",
+        "between",
+        "instantly",
+        "six",
+        "group"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +227,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, EXEGGCUTE is close to evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "knit",
+        "closely",
+        "cracks",
+        "consists",
+        "increasingly",
+        "spin",
+        "cluster",
+        "attract",
+        "six",
+        "eggs",
+        "evolution",
+        "close"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +250,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, EXEGGCUTE is close to evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "knit",
+        "closely",
+        "cracks",
+        "consists",
+        "increasingly",
+        "spin",
+        "cluster",
+        "attract",
+        "six",
+        "eggs",
+        "evolution",
+        "close"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +273,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cracks",
+        "consists",
+        "increasingly",
+        "spin",
+        "attract",
+        "care",
+        "six",
+        "eggs",
+        "evolution",
+        "close"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +294,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Even though it appears to be eggs of some sort, it was discovered to be a life- form more like plant seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sort",
+        "seeds",
+        "discovered",
+        "plant",
+        "eggs",
+        "though"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +311,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "swarms",
+        "disturbed",
+        "mistaken",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +328,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converse",
+        "telepathy",
+        "separated",
+        "six",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +346,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converse",
+        "telepathy",
+        "separated",
+        "six",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +364,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converse",
+        "telepathy",
+        "separated",
+        "six",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +382,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Their shells are very durable. Even if they crack, they can survive without spilling their contents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "spilling",
+        "contents",
+        "crack",
+        "durable",
+        "shells",
+        "survive"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +401,14 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Using telepathy only they can employ, they always form a cluster of six EXEGGCUTE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "employ",
+        "telepathy",
+        "cluster",
+        "six"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +416,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converse",
+        "telepathy",
+        "separated",
+        "six",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +434,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converse",
+        "telepathy",
+        "separated",
+        "six",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +452,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converse",
+        "telepathy",
+        "separated",
+        "six",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +470,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converse",
+        "telepathy",
+        "separated",
+        "six",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +488,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "converse",
+        "telepathy",
+        "separated",
+        "six",
+        "eggs",
+        "quickly",
+        "gather"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +506,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sort",
+        "seeds",
+        "discovered",
+        "plant",
+        "eggs",
+        "though"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +523,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "knit",
+        "closely",
+        "cracks",
+        "consists",
+        "increasingly",
+        "spin",
+        "cluster",
+        "attract",
+        "six",
+        "eggs",
+        "evolution",
+        "close"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +546,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "knit",
+        "closely",
+        "cracks",
+        "consists",
+        "increasingly",
+        "spin",
+        "cluster",
+        "attract",
+        "six",
+        "eggs",
+        "evolution",
+        "close"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +569,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its six eggs use telepathy to communicate among themselves. It is believed to carry plant genes and the genes of other species.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "genes",
+        "telepathy",
+        "believed",
+        "species",
+        "themselves",
+        "communicate",
+        "carry",
+        "six",
+        "plant",
+        "among",
+        "eggs"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +591,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Six of them together form a full-fledged Pokémon. It’s often hunted by Crabrawler, but uses psychokinesis to drive it off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fledged",
+        "crabrawler",
+        "psychokinesis",
+        "hunted",
+        "drive",
+        "six",
+        "full"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +609,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Six of them form a single Pokémon. Should one of the six be lost, the next morning there will once more be six.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "morning",
+        "next",
+        "single",
+        "six",
+        "lost"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +625,23 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although they are the same size as other Exeggcute, the ones produced in Alola are quite heavy. Their shells are packed full.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "produced",
+        "ones",
+        "packed",
+        "shells",
+        "quite",
+        "alola",
+        "size",
+        "full",
+        "same",
+        "although",
+        "heavy"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +649,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spin",
+        "maintain",
+        "attract",
+        "balance",
+        "six",
+        "heads"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +666,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spin",
+        "maintain",
+        "attract",
+        "balance",
+        "six",
+        "heads"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +683,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "proper",
+        "bunch",
+        "via",
+        "telepathy",
+        "communicates",
+        "look",
+        "eggs",
+        "though",
+        "apparently"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +703,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "member",
+        "cowardly",
+        "missing",
+        "minute",
+        "nervous",
+        "re",
+        "six",
+        "group"
+      ]
     }
   ],
   "similarPokemonIds": [

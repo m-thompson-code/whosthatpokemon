@@ -9,6 +9,57 @@
   ],
   "imagePath": "/assets/pokemon/619.png",
   "entryCount": 12,
+  "entryTraits": [
+    "claws",
+    "mountain-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "combos",
+    "devote",
+    "greeted",
+    "dominate",
+    "onslaughts",
+    "poses",
+    "series",
+    "precise",
+    "chop",
+    "concentrate",
+    "quantity",
+    "seclude",
+    "continuous",
+    "mastered",
+    "swifter",
+    "differs",
+    "flurry",
+    "trained",
+    "carelessly",
+    "chops",
+    "flowing",
+    "graceful",
+    "minute",
+    "temperament",
+    "fierce",
+    "elegant",
+    "creature",
+    "slowly",
+    "morning",
+    "cut",
+    "packs",
+    "pride",
+    "approaches",
+    "training",
+    "loses",
+    "pack",
+    "themselves",
+    "kicks",
+    "fights",
+    "100",
+    "though",
+    "moving",
+    "well",
+    "takes"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +90,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "dominate",
+        "onslaughts",
+        "continuous",
+        "flowing",
+        "cut",
+        "fights"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +109,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "combos",
+        "precise",
+        "concentrate",
+        "mastered",
+        "swifter",
+        "elegant"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +126,14 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "quantity",
+        "pride",
+        "loses",
+        "takes"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +141,14 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "quantity",
+        "pride",
+        "loses",
+        "takes"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +156,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "quantity",
+        "pride",
+        "loses",
+        "takes"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +171,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "dominate",
+        "onslaughts",
+        "continuous",
+        "flowing",
+        "cut",
+        "fights"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +190,14 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "quantity",
+        "pride",
+        "loses",
+        "takes"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +205,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "dominate",
+        "onslaughts",
+        "continuous",
+        "flowing",
+        "cut",
+        "fights"
+      ]
     },
     {
       "versionId": 29,
@@ -103,7 +224,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They can often be seen in packs in the morning, slowly moving their bodies through a series of poses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "poses",
+        "series",
+        "slowly",
+        "morning",
+        "packs",
+        "moving"
+      ]
     },
     {
       "versionId": 30,
@@ -111,7 +241,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "devote",
+        "seclude",
+        "differs",
+        "chops",
+        "training",
+        "pack",
+        "themselves",
+        "kicks"
+      ]
     },
     {
       "versionId": 33,
@@ -119,7 +262,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "chop",
+        "trained",
+        "minute",
+        "100",
+        "well"
+      ]
     },
     {
       "versionId": 34,
@@ -127,7 +280,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Though small, Mienfoo’s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "greeted",
+        "flurry",
+        "carelessly",
+        "graceful",
+        "temperament",
+        "fierce",
+        "creature",
+        "approaches",
+        "though"
+      ]
     }
   ],
   "similarPokemonIds": [

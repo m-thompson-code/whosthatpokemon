@@ -10,6 +10,51 @@
   ],
   "imagePath": "/assets/pokemon/338.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sky-dwelling",
+    "luminous",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "expressionless",
+    "rotating",
+    "thus",
+    "read",
+    "rotates",
+    "rumored",
+    "sunny",
+    "thinking",
+    "blinding",
+    "facing",
+    "solar",
+    "possess",
+    "line",
+    "daytime",
+    "silently",
+    "fallen",
+    "intensely",
+    "source",
+    "shines",
+    "floats",
+    "spins",
+    "absorb",
+    "species",
+    "similar",
+    "intense",
+    "bright",
+    "releases",
+    "absorbs",
+    "space",
+    "groups",
+    "spinning",
+    "days",
+    "emotions",
+    "new",
+    "sense",
+    "heat",
+    "sun",
+    "sunlight"
+  ],
   "color": "red",
   "shape": "ball",
   "habitat": "cave",
@@ -39,7 +84,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SOLROCK is a new species of POKéMON that is said to have fallen from space. It floats in air and moves silently. In battle, this POKéMON releases intensely bright light.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "silently",
+        "fallen",
+        "intensely",
+        "floats",
+        "species",
+        "bright",
+        "releases",
+        "space",
+        "new"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +107,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Sunlight is the source of SOLROCK’s power. It is said to possess the ability to read the emotions of others. This POKéMON gives off intense heat while rotating its body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "rotating",
+        "read",
+        "possess",
+        "source",
+        "intense",
+        "emotions",
+        "heat",
+        "sunlight"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +128,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Solar energy is the source of this POKéMON’s power. On sunny days, groups of SOLROCK line up facing the sun and absorb its light.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "sunny",
+        "facing",
+        "solar",
+        "line",
+        "source",
+        "absorb",
+        "groups",
+        "days",
+        "sun"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +150,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "expressionless",
+        "thinking",
+        "solar",
+        "absorbs",
+        "sense"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +166,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "expressionless",
+        "thinking",
+        "solar",
+        "absorbs",
+        "sense"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +182,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "rumored",
+        "species",
+        "spinning",
+        "new",
+        "sun"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +200,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "rumored",
+        "species",
+        "spinning",
+        "new",
+        "sun"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +218,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "rumored",
+        "species",
+        "spinning",
+        "new",
+        "sun"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +236,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "thus",
+        "rotates",
+        "blinding",
+        "similar",
+        "sun"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +254,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "thus",
+        "rotates",
+        "blinding",
+        "similar",
+        "sun"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +272,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "rumored",
+        "species",
+        "spinning",
+        "new",
+        "sun"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +290,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "rumored",
+        "species",
+        "spinning",
+        "new",
+        "sun"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +308,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "solar",
+        "daytime",
+        "source",
+        "shines",
+        "spins"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +324,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "solar",
+        "daytime",
+        "source",
+        "shines",
+        "spins"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +340,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "solar",
+        "daytime",
+        "source",
+        "shines",
+        "spins"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +356,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "expressionless",
+        "thinking",
+        "solar",
+        "absorbs",
+        "sense"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +372,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Solrock is a new species of Pokémon that is said to have fallen from space. It floats in air and moves silently. In battle, this Pokémon releases intensely bright light.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "silently",
+        "fallen",
+        "intensely",
+        "floats",
+        "species",
+        "bright",
+        "releases",
+        "space",
+        "new"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +395,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sunlight is the source of Solrock’s power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "rotating",
+        "read",
+        "possess",
+        "source",
+        "intense",
+        "emotions",
+        "heat",
+        "sunlight"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +416,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "thus",
+        "rotates",
+        "blinding",
+        "similar",
+        "sun"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +434,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "solar",
+        "daytime",
+        "source",
+        "shines",
+        "spins"
+      ]
     }
   ],
   "similarPokemonIds": [

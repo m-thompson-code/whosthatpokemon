@@ -10,6 +10,73 @@
   ],
   "imagePath": "/assets/pokemon/046.png",
   "entryCount": 31,
+  "entryTraits": [
+    "forest-dwelling",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "oriental",
+    "powdered",
+    "sprouting",
+    "consumes",
+    "lack",
+    "present",
+    "doused",
+    "specimens",
+    "infant",
+    "matures",
+    "parasitic",
+    "sprout",
+    "dried",
+    "extract",
+    "gnaw",
+    "valued",
+    "trunks",
+    "juice",
+    "extend",
+    "controlling",
+    "named",
+    "whether",
+    "humid",
+    "orders",
+    "suck",
+    "drawing",
+    "tochukaso",
+    "emerge",
+    "bugs",
+    "extending",
+    "medicine",
+    "draw",
+    "ing",
+    "mushroom",
+    "start",
+    "nutrition",
+    "host",
+    "quite",
+    "alola",
+    "due",
+    "mushrooms",
+    "don",
+    "foot",
+    "roots",
+    "absorb",
+    "steal",
+    "growing",
+    "bug",
+    "instead",
+    "moisture",
+    "burrows",
+    "spores",
+    "right",
+    "tell",
+    "matter",
+    "called",
+    "forests",
+    "nutrients",
+    "highly",
+    "along",
+    "born"
+  ],
   "color": "red",
   "shape": "armor",
   "habitat": "forest",
@@ -40,7 +107,22 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "suck",
+        "draw",
+        "ing",
+        "host",
+        "mushrooms",
+        "roots",
+        "bug",
+        "burrows",
+        "nutrients"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +130,22 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "suck",
+        "draw",
+        "ing",
+        "host",
+        "mushrooms",
+        "roots",
+        "bug",
+        "burrows",
+        "nutrients"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +153,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "gnaw",
+        "nutrition",
+        "mushrooms",
+        "roots",
+        "absorb",
+        "burrows"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +173,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "doused",
+        "sprout",
+        "mushroom",
+        "mushrooms",
+        "spores",
+        "born"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +190,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "As its body grows large, oriental mushrooms named tochukaso start sprouting out of its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "oriental",
+        "sprouting",
+        "named",
+        "tochukaso",
+        "start",
+        "mushrooms"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +207,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The tochukaso growing on this POKéMON's back orders it to extract juice from tree trunks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "extract",
+        "trunks",
+        "juice",
+        "orders",
+        "tochukaso",
+        "growing"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +226,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PARAS has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from the BUG POKéMON host. They are highly valued as a medicine for extending life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parasitic",
+        "valued",
+        "drawing",
+        "tochukaso",
+        "extending",
+        "medicine",
+        "host",
+        "mushrooms",
+        "growing",
+        "bug",
+        "called",
+        "nutrients",
+        "highly"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +250,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "PARAS has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this BUG POKéMON host. They are highly valued as a medicine for extending life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parasitic",
+        "valued",
+        "drawing",
+        "tochukaso",
+        "extending",
+        "medicine",
+        "host",
+        "mushrooms",
+        "growing",
+        "bug",
+        "called",
+        "nutrients",
+        "highly"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +274,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A PARAS has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parasitic",
+        "valued",
+        "drawing",
+        "tochukaso",
+        "medicine",
+        "host",
+        "mushrooms",
+        "growing",
+        "nutrients"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +294,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Growing out of the bug’s back are mushrooms called tochukaso. The mushrooms grow with the bug host.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "growing",
+        "bug",
+        "called"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +311,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "suck",
+        "drawing",
+        "host",
+        "mushrooms",
+        "roots",
+        "bug",
+        "burrows",
+        "nutrients"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +333,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "named",
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "along"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +349,15 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "named",
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "along"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +365,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "named",
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "along"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +381,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "doused",
+        "sprout",
+        "mushroom",
+        "mushrooms",
+        "spores",
+        "born"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +398,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "As its body grows, large mushrooms named tochukaso start sprouting out of its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "sprouting",
+        "named",
+        "tochukaso",
+        "start",
+        "mushrooms"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +414,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "named",
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "along"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +430,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "named",
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "along"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +446,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "named",
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "along"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +462,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "named",
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "along"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +478,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Growing out of the bug’s back are mushrooms called tochukaso. The mushrooms grow with the bug host.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tochukaso",
+        "host",
+        "mushrooms",
+        "growing",
+        "bug",
+        "called"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +495,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "gnaw",
+        "nutrition",
+        "mushrooms",
+        "roots",
+        "absorb",
+        "burrows"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +515,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parasitic",
+        "valued",
+        "drawing",
+        "tochukaso",
+        "extending",
+        "medicine",
+        "host",
+        "mushrooms",
+        "growing",
+        "bug",
+        "called",
+        "nutrients",
+        "highly"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +539,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "parasitic",
+        "valued",
+        "drawing",
+        "tochukaso",
+        "extending",
+        "medicine",
+        "host",
+        "mushrooms",
+        "growing",
+        "bug",
+        "called",
+        "nutrients",
+        "highly"
+      ]
     },
     {
       "versionId": 27,
@@ -232,7 +563,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "No matter how much it eats, the mushrooms growing on its back steal away most of the nutrients it consumes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "consumes",
+        "mushrooms",
+        "steal",
+        "growing",
+        "matter",
+        "nutrients"
+      ]
     },
     {
       "versionId": 28,
@@ -240,7 +580,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Mushrooms called tochukaso sprout from its back. They can be dried and powdered to make a medicine used to extend life.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "powdered",
+        "sprout",
+        "dried",
+        "extend",
+        "tochukaso",
+        "medicine",
+        "mushrooms",
+        "called"
+      ]
     },
     {
       "versionId": 29,
@@ -248,7 +599,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Whether it’s due to a lack of moisture or a lack of nutrients, in Alola the mushrooms on Paras don’t grow up quite right.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "lack",
+        "whether",
+        "quite",
+        "alola",
+        "due",
+        "mushrooms",
+        "don",
+        "moisture",
+        "right",
+        "nutrients"
+      ]
     },
     {
       "versionId": 30,
@@ -256,7 +620,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The mushrooms, known as tochukaso, are controlling the bug. Even if the bug bugs the mushrooms, they tell it to bug off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "controlling",
+        "tochukaso",
+        "bugs",
+        "mushrooms",
+        "bug",
+        "tell"
+      ]
     },
     {
       "versionId": 31,
@@ -264,7 +637,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "gnaw",
+        "nutrition",
+        "mushrooms",
+        "roots",
+        "absorb",
+        "burrows"
+      ]
     },
     {
       "versionId": 32,
@@ -272,7 +657,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "gnaw",
+        "nutrition",
+        "mushrooms",
+        "roots",
+        "absorb",
+        "burrows"
+      ]
     },
     {
       "versionId": 39,
@@ -280,7 +677,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Sometimes seen at the foot of trees in humid forests. The mushrooms on its back—called tochukaso—are not present on infant specimens and instead emerge as Paras matures.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "present",
+        "specimens",
+        "infant",
+        "matures",
+        "humid",
+        "tochukaso",
+        "emerge",
+        "mushrooms",
+        "foot",
+        "instead",
+        "called",
+        "forests"
+      ]
     }
   ],
   "similarPokemonIds": [

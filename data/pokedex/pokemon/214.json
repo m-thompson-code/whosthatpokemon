@@ -10,6 +10,108 @@
   ],
   "imagePath": "/assets/pokemon/214.png",
   "entryCount": 26,
+  "entryTraits": [
+    "horns",
+    "forest-dwelling",
+    "claws",
+    "shell"
+  ],
+  "entryKeywords": [
+    "arou",
+    "nd",
+    "herculean",
+    "fling",
+    "heavier",
+    "rival",
+    "sipping",
+    "secure",
+    "bellies",
+    "demonstrates",
+    "rivals",
+    "vikavolt",
+    "flings",
+    "scents",
+    "war",
+    "planted",
+    "unparalleled",
+    "boasts",
+    "lifts",
+    "scoops",
+    "slips",
+    "throwing",
+    "hurls",
+    "grasp",
+    "intruder",
+    "trained",
+    "hurl",
+    "thrusts",
+    "traditional",
+    "tremendous",
+    "lift",
+    "fantastic",
+    "roams",
+    "firmly",
+    "footing",
+    "searching",
+    "topple",
+    "arts",
+    "physical",
+    "distances",
+    "nectar",
+    "biggest",
+    "forcefully",
+    "mighty",
+    "sap",
+    "clad",
+    "disturbed",
+    "prized",
+    "proud",
+    "throw",
+    "giving",
+    "weight",
+    "bark",
+    "object",
+    "solid",
+    "gathers",
+    "line",
+    "pride",
+    "allows",
+    "pick",
+    "several",
+    "chases",
+    "trouble",
+    "completely",
+    "alola",
+    "looking",
+    "searches",
+    "seeking",
+    "beneath",
+    "straight",
+    "docile",
+    "throws",
+    "massive",
+    "antennae",
+    "charges",
+    "generates",
+    "favorite",
+    "great",
+    "fighting",
+    "matter",
+    "far",
+    "forests",
+    "honey",
+    "100",
+    "strength",
+    "capable",
+    "search",
+    "good",
+    "although",
+    "usually",
+    "horn",
+    "takes",
+    "gather",
+    "heavy"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": "forest",
@@ -39,7 +141,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "This powerful POKéMON thrusts its prized horn under its enemies’ bellies then lifts and throws them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "bellies",
+        "lifts",
+        "thrusts",
+        "prized",
+        "throws",
+        "horn"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +160,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "sipping",
+        "intruder",
+        "disturbed",
+        "chases",
+        "docile",
+        "honey",
+        "usually",
+        "horn"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +181,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "With its Herculean powers, it can easily throw arou­ nd an object that is 100 times its own weight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "arou",
+        "nd",
+        "herculean",
+        "throw",
+        "weight",
+        "object",
+        "100"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +199,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "HERACROSS charges in a straight line at its foe, slips beneath the foe’s grasp, and then scoops up and hurls the opponent with its mighty horn. This POKéMON even has enough power to topple a massive tree.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "scoops",
+        "slips",
+        "hurls",
+        "grasp",
+        "topple",
+        "mighty",
+        "line",
+        "beneath",
+        "straight",
+        "massive",
+        "charges",
+        "horn"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +225,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "HERACROSS has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the POKéMON a secure and solid footing to forcefully fling away foes with its proud horn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws",
+        "horns"
+      ],
+      "keywords": [
+        "fling",
+        "secure",
+        "planted",
+        "firmly",
+        "footing",
+        "forcefully",
+        "proud",
+        "giving",
+        "bark",
+        "solid",
+        "horn"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +251,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "horns",
+        "shell"
+      ],
+      "keywords": [
+        "fling",
+        "sap",
+        "clad",
+        "proud",
+        "completely",
+        "seeking",
+        "forests",
+        "horn",
+        "gather"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +275,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "sipping",
+        "intruder",
+        "disturbed",
+        "chases",
+        "docile",
+        "honey",
+        "usually",
+        "horn"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +296,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "This powerful POKéMON thrusts its prized horn under its enemies’ bellies, then lifts and throws them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "bellies",
+        "lifts",
+        "thrusts",
+        "prized",
+        "throws",
+        "horn"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +315,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It gathers in forests to search for tree sap, its favorite food. It’s strong enough to hurl foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "hurl",
+        "sap",
+        "gathers",
+        "favorite",
+        "forests",
+        "search"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +334,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "With powerful legs and claws, it generates enough power to hurl foes over great distances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "hurl",
+        "distances",
+        "generates",
+        "great"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +351,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "rivals",
+        "hurls",
+        "prized",
+        "honey",
+        "horn"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +369,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This powerful Pokémon thrusts its prized horn under its enemies’ bellies, then lifts and throws them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "bellies",
+        "lifts",
+        "thrusts",
+        "prized",
+        "throws",
+        "horn"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +388,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is usually docile, but if it is disturbed while sipping honey, it chases off the intruder with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "sipping",
+        "intruder",
+        "disturbed",
+        "chases",
+        "docile",
+        "honey",
+        "usually",
+        "horn"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +409,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "rivals",
+        "hurls",
+        "prized",
+        "honey",
+        "horn"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +427,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "rivals",
+        "hurls",
+        "prized",
+        "honey",
+        "horn"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +445,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "No matter how heavy its opponents, it flings them far away with its prized horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "flings",
+        "prized",
+        "matter",
+        "far",
+        "horn",
+        "heavy"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +464,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "No matter how heavy its opponents, it flings them far away with its prized horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "flings",
+        "prized",
+        "matter",
+        "far",
+        "horn",
+        "heavy"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +483,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This powerful Pokémon thrusts its prized horn under its enemies’ bellies, then lifts and throws them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "bellies",
+        "lifts",
+        "thrusts",
+        "prized",
+        "throws",
+        "horn"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +502,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "herculean",
+        "throw",
+        "weight",
+        "object",
+        "100"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +518,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Heracross charges in a straight line at its foe, slips beneath the foe’s grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "scoops",
+        "slips",
+        "hurls",
+        "grasp",
+        "topple",
+        "mighty",
+        "line",
+        "beneath",
+        "straight",
+        "massive",
+        "charges",
+        "horn"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +544,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "claws",
+        "horns"
+      ],
+      "keywords": [
+        "fling",
+        "secure",
+        "planted",
+        "firmly",
+        "footing",
+        "forcefully",
+        "proud",
+        "giving",
+        "bark",
+        "solid",
+        "horn"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +570,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s proud of its thick horn. In Alola, its biggest rival is Vikavolt, which it’s always fighting with.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "rival",
+        "vikavolt",
+        "biggest",
+        "proud",
+        "alola",
+        "fighting",
+        "horn"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +590,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It roams through forests searching for sweet nectar. Although it boasts fantastic physical strength, it’s not that good at flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boasts",
+        "fantastic",
+        "roams",
+        "searching",
+        "physical",
+        "nectar",
+        "forests",
+        "strength",
+        "good",
+        "although"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +611,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Heracross loves sweet sap and will go looking through forests for it. The Pokémon uses its two antennae to pick up scents as it searches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "scents",
+        "sap",
+        "pick",
+        "looking",
+        "searches",
+        "antennae",
+        "forests"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +629,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon takes pride in its strength, which allows it to lift things 100 times heavier than itself with no trouble at all.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heavier",
+        "lift",
+        "pride",
+        "allows",
+        "trouble",
+        "100",
+        "strength",
+        "takes"
+      ]
     },
     {
       "versionId": 39,
@@ -239,7 +648,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "demonstrates",
+        "war",
+        "unparalleled",
+        "throwing",
+        "trained",
+        "traditional",
+        "tremendous",
+        "arts",
+        "several",
+        "capable",
+        "horn"
+      ]
     }
   ],
   "similarPokemonIds": [

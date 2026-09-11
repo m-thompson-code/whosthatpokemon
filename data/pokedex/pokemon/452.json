@@ -10,6 +10,72 @@
   ],
   "imagePath": "/assets/pokemon/452.png",
   "entryCount": 16,
+  "entryTraits": [
+    "arms",
+    "claws",
+    "poisonous",
+    "shell",
+    "desert-dwelling"
+  ],
+  "entryKeywords": [
+    "confronted",
+    "demon",
+    "wreaks",
+    "eliminating",
+    "furthered",
+    "profile",
+    "reputation",
+    "hippowdon",
+    "brutish",
+    "havoc",
+    "scrap",
+    "clawed",
+    "possessing",
+    "potent",
+    "blind",
+    "car",
+    "crushing",
+    "immense",
+    "cross",
+    "physical",
+    "180",
+    "encased",
+    "low",
+    "rampages",
+    "rotates",
+    "temperament",
+    "ferocious",
+    "swords",
+    "finishes",
+    "release",
+    "taking",
+    "going",
+    "tear",
+    "toxins",
+    "bad",
+    "bounce",
+    "pride",
+    "pick",
+    "sees",
+    "build",
+    "yet",
+    "vicious",
+    "apart",
+    "tips",
+    "instead",
+    "rarely",
+    "called",
+    "desert",
+    "prefers",
+    "spots",
+    "sturdy",
+    "keeps",
+    "sand",
+    "force",
+    "strength",
+    "though",
+    "takes"
+  ],
   "color": "purple",
   "shape": "armor",
   "habitat": null,
@@ -40,7 +106,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "claws",
+        "poisonous"
+      ],
+      "keywords": [
+        "scrap",
+        "clawed",
+        "car",
+        "release",
+        "tips"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +126,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "eliminating",
+        "blind",
+        "180",
+        "encased",
+        "rotates",
+        "spots",
+        "sturdy"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +146,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "possessing",
+        "taking",
+        "toxins",
+        "pride",
+        "build",
+        "sturdy",
+        "strength",
+        "takes"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +165,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It attacks people and Pokémon that cross the desert. This has only furthered its bad reputation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "furthered",
+        "reputation",
+        "cross",
+        "bad",
+        "desert"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +183,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It attacks people and Pokémon that cross the desert. This has only furthered its bad reputation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "furthered",
+        "reputation",
+        "cross",
+        "bad",
+        "desert"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +201,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "possessing",
+        "taking",
+        "toxins",
+        "pride",
+        "build",
+        "sturdy",
+        "strength",
+        "takes"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +220,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "possessing",
+        "taking",
+        "toxins",
+        "pride",
+        "build",
+        "sturdy",
+        "strength",
+        "takes"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +239,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "finishes",
+        "tear",
+        "pride",
+        "apart",
+        "strength",
+        "though",
+        "takes"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +259,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "finishes",
+        "tear",
+        "pride",
+        "apart",
+        "strength",
+        "though",
+        "takes"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +279,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "finishes",
+        "tear",
+        "pride",
+        "apart",
+        "strength",
+        "though",
+        "takes"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +299,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "claws",
+        "poisonous"
+      ],
+      "keywords": [
+        "scrap",
+        "clawed",
+        "car",
+        "release",
+        "tips"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +319,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "finishes",
+        "tear",
+        "pride",
+        "apart",
+        "strength",
+        "though",
+        "takes"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +339,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "claws",
+        "poisonous"
+      ],
+      "keywords": [
+        "scrap",
+        "clawed",
+        "car",
+        "release",
+        "tips"
+      ]
     },
     {
       "versionId": 33,
@@ -144,7 +359,24 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "potent",
+        "car",
+        "crushing",
+        "physical",
+        "rampages",
+        "going",
+        "sees",
+        "instead",
+        "rarely",
+        "prefers",
+        "force",
+        "strength"
+      ]
     },
     {
       "versionId": 34,
@@ -152,7 +384,23 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s so vicious that it’s called the Sand Demon. Yet when confronted by Hippowdon, Drapion keeps a low profile and will never pick a fight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "confronted",
+        "demon",
+        "profile",
+        "hippowdon",
+        "low",
+        "pick",
+        "yet",
+        "vicious",
+        "called",
+        "keeps",
+        "sand"
+      ]
     },
     {
       "versionId": 39,
@@ -160,7 +408,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Has a brutish, ferocious temperament. With immense strength and a sturdy shell off which swords will bounce, it rampages about and wreaks havoc.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "wreaks",
+        "brutish",
+        "havoc",
+        "immense",
+        "rampages",
+        "temperament",
+        "ferocious",
+        "swords",
+        "bounce",
+        "sturdy",
+        "strength"
+      ]
     }
   ],
   "similarPokemonIds": [

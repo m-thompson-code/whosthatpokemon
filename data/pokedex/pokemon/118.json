@@ -9,6 +9,114 @@
   ],
   "imagePath": "/assets/pokemon/118.png",
   "entryCount": 32,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "horns"
+  ],
+  "entryKeywords": [
+    "flittering",
+    "metes",
+    "pecto",
+    "princess",
+    "ral",
+    "spellbound",
+    "upriver",
+    "aquarium",
+    "arrived",
+    "billow",
+    "poetic",
+    "reminder",
+    "splendid",
+    "ballroom",
+    "sharpest",
+    "staggering",
+    "placed",
+    "billows",
+    "earned",
+    "nonstop",
+    "ram",
+    "unfurled",
+    "glass",
+    "dress",
+    "mate",
+    "thickest",
+    "dancer",
+    "lay",
+    "length",
+    "nickname",
+    "pectoral",
+    "spawning",
+    "steady",
+    "queen",
+    "springtime",
+    "compete",
+    "gracefully",
+    "fluttering",
+    "name",
+    "schools",
+    "knots",
+    "searching",
+    "free",
+    "wave",
+    "hour",
+    "jab",
+    "powerfully",
+    "streams",
+    "dorsal",
+    "raise",
+    "whose",
+    "ponds",
+    "per",
+    "perfect",
+    "elegant",
+    "giving",
+    "beauty",
+    "damage",
+    "strongly",
+    "elegantly",
+    "shatter",
+    "5",
+    "guard",
+    "five",
+    "season",
+    "serves",
+    "swimmer",
+    "why",
+    "don",
+    "fin",
+    "wild",
+    "strange",
+    "let",
+    "sight",
+    "spring",
+    "themselves",
+    "single",
+    "rivers",
+    "falls",
+    "escape",
+    "strike",
+    "nothing",
+    "groups",
+    "swim",
+    "fins",
+    "weather",
+    "beautiful",
+    "look",
+    "among",
+    "eggs",
+    "along",
+    "fast",
+    "capable",
+    "though",
+    "swims",
+    "although",
+    "swimming",
+    "horn",
+    "apparently",
+    "developed",
+    "muscles"
+  ],
   "color": "red",
   "shape": "fish",
   "habitat": "waters-edge",
@@ -38,7 +146,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "ballroom",
+        "billows",
+        "dress",
+        "nickname",
+        "queen",
+        "elegant",
+        "giving",
+        "fin"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +168,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "ballroom",
+        "billows",
+        "dress",
+        "nickname",
+        "queen",
+        "elegant",
+        "giving",
+        "fin"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +190,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "lay",
+        "rivers",
+        "falls",
+        "groups",
+        "eggs",
+        "swimming"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +209,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its dorsal, pecto­ ral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "pecto",
+        "ral",
+        "dancer",
+        "wave",
+        "dorsal",
+        "elegantly",
+        "why",
+        "fins"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +231,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "nonstop",
+        "steady",
+        "knots",
+        "streams",
+        "five",
+        "swimmer",
+        "fast",
+        "capable",
+        "swimming"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +253,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "During spawning season, they swim gracefully in the water, searching for their perfect mate.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "mate",
+        "spawning",
+        "gracefully",
+        "searching",
+        "perfect",
+        "season",
+        "swim"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +273,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GOLDEEN is a very beautiful POKéMON with fins that billow elegantly in water. However, don’t let your guard down around this POKéMON - it could ram you powerfully with its horn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "billow",
+        "ram",
+        "powerfully",
+        "elegantly",
+        "guard",
+        "don",
+        "let",
+        "fins",
+        "beautiful",
+        "horn"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +297,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GOLDEEN loves swimming wild and free in rivers and ponds. If one of these POKéMON is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "aquarium",
+        "placed",
+        "ram",
+        "glass",
+        "thickest",
+        "free",
+        "ponds",
+        "shatter",
+        "wild",
+        "rivers",
+        "escape",
+        "swimming",
+        "horn"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +324,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "In the springtime, schools of GOLDEEN can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "metes",
+        "staggering",
+        "springtime",
+        "schools",
+        "damage",
+        "single",
+        "rivers",
+        "falls",
+        "swimming",
+        "horn"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +348,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pectoral",
+        "knots",
+        "dorsal",
+        "strongly",
+        "five",
+        "swim",
+        "fins",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +370,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of “The Water Queen.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "ballroom",
+        "billows",
+        "dress",
+        "nickname",
+        "queen",
+        "elegant",
+        "giving",
+        "fin"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +392,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "flittering",
+        "dress",
+        "queen",
+        "elegantly",
+        "fin",
+        "look",
+        "swims"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +413,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "steady",
+        "knots",
+        "5",
+        "strike",
+        "swims",
+        "horn"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +433,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "unfurled",
+        "jab",
+        "powerfully",
+        "elegant",
+        "fins",
+        "though",
+        "swimming",
+        "horn"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +455,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "dancer",
+        "pectoral",
+        "wave",
+        "dorsal",
+        "elegantly",
+        "why",
+        "fins"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +476,23 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "nonstop",
+        "steady",
+        "knots",
+        "hour",
+        "streams",
+        "per",
+        "five",
+        "swimmer",
+        "fast",
+        "capable",
+        "swimming"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +500,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "unfurled",
+        "jab",
+        "powerfully",
+        "elegant",
+        "fins",
+        "though",
+        "swimming",
+        "horn"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +522,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "unfurled",
+        "jab",
+        "powerfully",
+        "elegant",
+        "fins",
+        "though",
+        "swimming",
+        "horn"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +544,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "unfurled",
+        "jab",
+        "powerfully",
+        "elegant",
+        "fins",
+        "though",
+        "swimming",
+        "horn"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +566,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "unfurled",
+        "jab",
+        "powerfully",
+        "elegant",
+        "fins",
+        "though",
+        "swimming",
+        "horn"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +588,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "steady",
+        "knots",
+        "5",
+        "strike",
+        "swims",
+        "horn"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +608,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the water dancer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "dancer",
+        "pectoral",
+        "wave",
+        "dorsal",
+        "elegantly",
+        "why",
+        "fins"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +629,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don’t let your guard down around this Pokémon—it could ram you powerfully with its horn.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "billow",
+        "ram",
+        "powerfully",
+        "elegantly",
+        "guard",
+        "don",
+        "let",
+        "fins",
+        "beautiful",
+        "horn"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +653,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pokémon is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "aquarium",
+        "placed",
+        "ram",
+        "glass",
+        "thickest",
+        "free",
+        "ponds",
+        "shatter",
+        "wild",
+        "rivers",
+        "escape",
+        "swimming",
+        "horn"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +680,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When the weather grows warm, they form groups and swim upriver. This sight serves as a poetic reminder that spring has arrived.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "upriver",
+        "arrived",
+        "poetic",
+        "reminder",
+        "serves",
+        "sight",
+        "spring",
+        "groups",
+        "swim",
+        "weather"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +703,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Spellbound by the length of its horn and the beauty of its fins, many strange Trainers raise Goldeen and nothing but Goldeen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "spellbound",
+        "length",
+        "raise",
+        "beauty",
+        "strange",
+        "nothing",
+        "fins",
+        "horn"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +724,24 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although known for their splendid tail fins, Goldeen apparently compete among themselves to see whose horn is thickest and sharpest.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns",
+        "tail"
+      ],
+      "keywords": [
+        "splendid",
+        "sharpest",
+        "thickest",
+        "compete",
+        "whose",
+        "themselves",
+        "fins",
+        "among",
+        "although",
+        "horn",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +749,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The way it swims along fluttering its dress-like fins has earned it the name “princess of the water.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "princess",
+        "earned",
+        "dress",
+        "fluttering",
+        "name",
+        "fins",
+        "along",
+        "swims"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +770,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "lay",
+        "rivers",
+        "falls",
+        "groups",
+        "eggs",
+        "swimming"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +789,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "lay",
+        "rivers",
+        "falls",
+        "groups",
+        "eggs",
+        "swimming"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +808,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "dancer",
+        "pectoral",
+        "wave",
+        "dorsal",
+        "elegantly",
+        "why",
+        "fins"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +829,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pectoral",
+        "knots",
+        "dorsal",
+        "strongly",
+        "five",
+        "swim",
+        "fins",
+        "developed",
+        "muscles"
+      ]
     }
   ],
   "similarPokemonIds": [

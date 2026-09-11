@@ -9,6 +9,90 @@
   ],
   "imagePath": "/assets/pokemon/173.png",
   "entryCount": 28,
+  "entryTraits": [
+    "sky-dwelling",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "daybreak",
+    "immediate",
+    "meteorites",
+    "minior",
+    "teors",
+    "incarnations",
+    "indeed",
+    "meteors",
+    "ridden",
+    "skyward",
+    "twinkling",
+    "meteorite",
+    "late",
+    "local",
+    "starlike",
+    "gazes",
+    "me",
+    "quench",
+    "illuminated",
+    "strangely",
+    "illuminate",
+    "thirst",
+    "silhouette",
+    "sunrise",
+    "happen",
+    "increase",
+    "unusual",
+    "reborn",
+    "sightings",
+    "site",
+    "disappear",
+    "numerous",
+    "resemble",
+    "starlight",
+    "arrive",
+    "intently",
+    "dew",
+    "here",
+    "struck",
+    "rumors",
+    "riding",
+    "ring",
+    "seem",
+    "meteor",
+    "fill",
+    "numbers",
+    "thinking",
+    "impact",
+    "star",
+    "circles",
+    "certain",
+    "morning",
+    "packs",
+    "believe",
+    "fallen",
+    "believed",
+    "skies",
+    "shooting",
+    "dancing",
+    "according",
+    "home",
+    "nights",
+    "break",
+    "past",
+    "filled",
+    "stars",
+    "area",
+    "came",
+    "rain",
+    "dance",
+    "reason",
+    "something",
+    "within",
+    "stop",
+    "places",
+    "though",
+    "good",
+    "gather"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +122,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "silhouette",
+        "unusual",
+        "here",
+        "meteor",
+        "star",
+        "believe",
+        "came"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +140,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "When numerous me­ teors illuminate the night sky, sightings of CLEFFA strangely increase.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "teors",
+        "me",
+        "strangely",
+        "illuminate",
+        "increase",
+        "sightings",
+        "numerous"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +161,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "If the impact site of a meteorite is found, this POKéMON is certain to be within the immediate area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "immediate",
+        "meteorite",
+        "site",
+        "impact",
+        "certain",
+        "area",
+        "within"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +179,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these POKéMON quench their thirst with the morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "quench",
+        "thirst",
+        "dew",
+        "ring",
+        "morning",
+        "shooting",
+        "dancing",
+        "nights",
+        "break",
+        "stars",
+        "dance",
+        "stop"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +204,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these POKéMON quench their thirst with the morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "quench",
+        "thirst",
+        "dew",
+        "ring",
+        "morning",
+        "shooting",
+        "dancing",
+        "nights",
+        "break",
+        "stars",
+        "dance",
+        "stop"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +229,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "daybreak",
+        "quench",
+        "thirst",
+        "dew",
+        "ring",
+        "morning",
+        "shooting",
+        "dancing",
+        "nights",
+        "stars",
+        "dance"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +253,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When numerous meteors illuminate the night sky, sightings of CLEFFA strangely increase.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "meteors",
+        "strangely",
+        "illuminate",
+        "increase",
+        "sightings",
+        "numerous"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +273,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "starlike",
+        "silhouette",
+        "unusual",
+        "here",
+        "meteor",
+        "believe",
+        "came"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +291,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its silhouette is like a star. It is believed to arrive riding on shooting stars.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "silhouette",
+        "arrive",
+        "riding",
+        "star",
+        "believed",
+        "shooting",
+        "stars"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +309,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sunrise",
+        "disappear",
+        "skies",
+        "shooting",
+        "filled",
+        "stars"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +328,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "arrive",
+        "riding",
+        "fill",
+        "star",
+        "skies",
+        "shooting",
+        "stars"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +348,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "starlike",
+        "silhouette",
+        "unusual",
+        "here",
+        "meteor",
+        "believe",
+        "came"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +366,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When numerous meteors illuminate the night sky, sightings of CLEFFA strangely increase.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "meteors",
+        "strangely",
+        "illuminate",
+        "increase",
+        "sightings",
+        "numerous"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +386,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "arrive",
+        "riding",
+        "fill",
+        "star",
+        "skies",
+        "shooting",
+        "stars"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +406,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "arrive",
+        "riding",
+        "fill",
+        "star",
+        "skies",
+        "shooting",
+        "stars"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +426,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "local",
+        "rumors",
+        "fallen",
+        "shooting",
+        "according",
+        "stars",
+        "places"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +444,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "local",
+        "rumors",
+        "fallen",
+        "shooting",
+        "according",
+        "stars",
+        "places"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +462,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "starlike",
+        "silhouette",
+        "unusual",
+        "here",
+        "meteor",
+        "believe",
+        "came"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +480,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "sunrise",
+        "disappear",
+        "skies",
+        "shooting",
+        "filled",
+        "stars"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +499,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "quench",
+        "thirst",
+        "dew",
+        "ring",
+        "morning",
+        "shooting",
+        "dancing",
+        "nights",
+        "break",
+        "stars",
+        "dance",
+        "stop"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +524,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "quench",
+        "thirst",
+        "dew",
+        "ring",
+        "morning",
+        "shooting",
+        "dancing",
+        "nights",
+        "break",
+        "stars",
+        "dance",
+        "stop"
+      ]
     },
     {
       "versionId": 27,
@@ -206,7 +549,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "On late nights illuminated by shooting stars, it gazes intently skyward, as if thinking of its home.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "skyward",
+        "late",
+        "gazes",
+        "illuminated",
+        "intently",
+        "thinking",
+        "shooting",
+        "home",
+        "nights",
+        "stars"
+      ]
     },
     {
       "versionId": 28,
@@ -214,7 +572,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Because of its silhouette, it’s believed to be a star reborn. For some reason, it loves Minior.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minior",
+        "silhouette",
+        "reborn",
+        "star",
+        "believed",
+        "reason"
+      ]
     },
     {
       "versionId": 29,
@@ -222,7 +589,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "On nights with many shooting stars, they gather in packs and dance in circles. If you should see them, something good will happen!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "happen",
+        "circles",
+        "packs",
+        "shooting",
+        "nights",
+        "stars",
+        "dance",
+        "something",
+        "good",
+        "gather"
+      ]
     },
     {
       "versionId": 30,
@@ -230,7 +612,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Said to have ridden here on a shooting star, Cleffa seem to appear in places where meteorites have struck in the past.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "meteorites",
+        "ridden",
+        "here",
+        "struck",
+        "seem",
+        "star",
+        "shooting",
+        "past",
+        "places"
+      ]
     },
     {
       "versionId": 33,
@@ -238,7 +632,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "local",
+        "rumors",
+        "fallen",
+        "shooting",
+        "according",
+        "stars",
+        "places"
+      ]
     },
     {
       "versionId": 34,
@@ -246,7 +650,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "starlike",
+        "silhouette",
+        "unusual",
+        "here",
+        "meteor",
+        "believe",
+        "came"
+      ]
     },
     {
       "versionId": 39,
@@ -254,7 +668,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "In silhouette, they resemble twinkling starlight. When shooting stars rain from the night sky, Cleffa gather in numbers and dance as though they are indeed incarnations of the stars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "incarnations",
+        "indeed",
+        "twinkling",
+        "silhouette",
+        "resemble",
+        "starlight",
+        "numbers",
+        "shooting",
+        "stars",
+        "rain",
+        "dance",
+        "though",
+        "gather"
+      ]
     }
   ],
   "similarPokemonIds": [

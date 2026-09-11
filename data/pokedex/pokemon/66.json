@@ -9,6 +9,106 @@
   ],
   "imagePath": "/assets/pokemon/066.png",
   "entryCount": 33,
+  "entryTraits": [
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "confidence",
+    "cramp",
+    "hoist",
+    "instincts",
+    "striving",
+    "superhuman",
+    "barbell",
+    "dedicated",
+    "efficiently",
+    "hefting",
+    "hefts",
+    "quest",
+    "sore",
+    "strenuous",
+    "swell",
+    "exercise",
+    "styles",
+    "gazes",
+    "lifting",
+    "brimming",
+    "stature",
+    "strengthen",
+    "sumo",
+    "exercises",
+    "types",
+    "shoulders",
+    "sufficient",
+    "makuhita",
+    "ups",
+    "wrestler",
+    "muscle",
+    "working",
+    "challenges",
+    "hurl",
+    "mastery",
+    "graveler",
+    "passes",
+    "undertakes",
+    "continue",
+    "heft",
+    "satisfied",
+    "arts",
+    "martial",
+    "nutritious",
+    "trains",
+    "built",
+    "geodude",
+    "spite",
+    "ease",
+    "continually",
+    "gained",
+    "adult",
+    "carrying",
+    "drive",
+    "throw",
+    "number",
+    "repeatedly",
+    "travel",
+    "hundred",
+    "master",
+    "composed",
+    "type",
+    "child",
+    "pick",
+    "kinds",
+    "training",
+    "build",
+    "doing",
+    "forms",
+    "work",
+    "grown",
+    "onto",
+    "ever",
+    "friends",
+    "size",
+    "humans",
+    "able",
+    "matter",
+    "likes",
+    "boulders",
+    "special",
+    "stronger",
+    "human",
+    "100",
+    "lets",
+    "highly",
+    "tough",
+    "strength",
+    "entire",
+    "though",
+    "same",
+    "well",
+    "whole",
+    "rocks",
+    "muscles"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +138,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "styles",
+        "arts",
+        "martial",
+        "trains",
+        "build",
+        "stronger",
+        "muscles"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +156,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "styles",
+        "arts",
+        "martial",
+        "trains",
+        "build",
+        "stronger",
+        "muscles"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +174,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "types",
+        "mastery",
+        "arts",
+        "martial",
+        "spite",
+        "size",
+        "tough"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +192,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lifting",
+        "brimming",
+        "passes",
+        "doing",
+        "boulders",
+        "stronger"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +209,15 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "satisfied",
+        "trains",
+        "build",
+        "work",
+        "muscles"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +225,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It trains by lifting rocks in the mountains. It can even pick up a GRAVELER with ease.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "lifting",
+        "graveler",
+        "trains",
+        "ease",
+        "pick",
+        "rocks"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +244,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MACHOP’s muscles are special - they never get sore no matter how much they are used in exercise. This POKéMON has sufficient power to hurl a hundred adult humans.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sore",
+        "exercise",
+        "sufficient",
+        "hurl",
+        "adult",
+        "hundred",
+        "humans",
+        "matter",
+        "special",
+        "muscles"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +265,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MACHOP exercises by hefting around a GRAVELER as if it were a barbell. There are some MACHOP that travel the world in a quest to master all kinds of martial arts.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "barbell",
+        "hefting",
+        "quest",
+        "exercises",
+        "graveler",
+        "arts",
+        "martial",
+        "travel",
+        "master",
+        "kinds"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +286,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hoist",
+        "strenuous",
+        "sumo",
+        "shoulders",
+        "wrestler",
+        "undertakes",
+        "arts",
+        "martial",
+        "continually",
+        "master",
+        "training",
+        "forms",
+        "onto",
+        "lets",
+        "strength"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +312,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ups",
+        "hurl",
+        "composed",
+        "child",
+        "grown",
+        "size",
+        "human",
+        "100",
+        "though",
+        "whole",
+        "muscles"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +334,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "styles",
+        "arts",
+        "martial",
+        "trains",
+        "build",
+        "stronger",
+        "muscles"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +352,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It hefts a GRAVELER repeatedly to strengthen its entire body. It uses every type of martial arts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hefts",
+        "strengthen",
+        "graveler",
+        "arts",
+        "martial",
+        "repeatedly",
+        "type",
+        "entire"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +371,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its muscles never cramp however much it trains. It lives in the mountains away from humans.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "cramp",
+        "trains",
+        "humans",
+        "muscles"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +388,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stature",
+        "heft",
+        "geodude",
+        "throw",
+        "number",
+        "though"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +405,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lifting",
+        "brimming",
+        "passes",
+        "doing",
+        "boulders",
+        "stronger"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +422,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "satisfied",
+        "trains",
+        "build",
+        "work",
+        "muscles"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +438,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stature",
+        "heft",
+        "geodude",
+        "throw",
+        "number",
+        "though"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +455,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stature",
+        "heft",
+        "geodude",
+        "throw",
+        "number",
+        "though"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +472,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stature",
+        "heft",
+        "geodude",
+        "throw",
+        "number",
+        "though"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +489,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stature",
+        "heft",
+        "geodude",
+        "throw",
+        "number",
+        "though"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +506,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hefts",
+        "strengthen",
+        "graveler",
+        "arts",
+        "martial",
+        "repeatedly",
+        "type",
+        "entire"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +525,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ups",
+        "hurl",
+        "composed",
+        "child",
+        "grown",
+        "size",
+        "human",
+        "100",
+        "though",
+        "whole",
+        "muscles"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +547,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Machop’s muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sore",
+        "exercise",
+        "sufficient",
+        "hurl",
+        "adult",
+        "hundred",
+        "humans",
+        "matter",
+        "special",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +568,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "barbell",
+        "hefting",
+        "quest",
+        "exercises",
+        "graveler",
+        "arts",
+        "martial",
+        "travel",
+        "master",
+        "kinds"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +589,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dedicated",
+        "swell",
+        "gazes",
+        "working",
+        "continue",
+        "training",
+        "muscles"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +607,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "With its superhuman strength, it’s able to throw a hundred people all at the same time. Its strength comes from lifting Graveler every day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "superhuman",
+        "lifting",
+        "graveler",
+        "throw",
+        "hundred",
+        "able",
+        "strength",
+        "same"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +626,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Once this Pokémon has gained enough confidence and muscle from training with its friends, it challenges Makuhita to a battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "confidence",
+        "makuhita",
+        "muscle",
+        "challenges",
+        "gained",
+        "training",
+        "friends"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +644,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It likes food that’s highly nutritious because its instincts drive it to build muscle efficiently.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "instincts",
+        "efficiently",
+        "muscle",
+        "nutritious",
+        "drive",
+        "build",
+        "likes",
+        "highly"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +663,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "types",
+        "mastery",
+        "arts",
+        "martial",
+        "spite",
+        "size",
+        "tough"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +681,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "types",
+        "mastery",
+        "arts",
+        "martial",
+        "spite",
+        "size",
+        "tough"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +699,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ups",
+        "hurl",
+        "composed",
+        "child",
+        "grown",
+        "size",
+        "human",
+        "100",
+        "though",
+        "whole",
+        "muscles"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +721,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lifting",
+        "brimming",
+        "passes",
+        "doing",
+        "boulders",
+        "stronger"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +738,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "striving",
+        "shoulders",
+        "graveler",
+        "trains",
+        "built",
+        "adult",
+        "carrying",
+        "throw",
+        "child",
+        "ever",
+        "stronger",
+        "strength",
+        "though",
+        "well"
+      ]
     }
   ],
   "similarPokemonIds": [

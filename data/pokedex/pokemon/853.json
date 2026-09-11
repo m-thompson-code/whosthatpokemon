@@ -9,6 +9,24 @@
   ],
   "imagePath": "/assets/pokemon/853.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "grappling",
+    "tremendously",
+    "emerges",
+    "performs",
+    "test",
+    "muscle",
+    "skills",
+    "searching",
+    "returns",
+    "onto",
+    "nothing",
+    "tentacles",
+    "against"
+  ],
   "color": "blue",
   "shape": "tentacles",
   "habitat": null,
@@ -39,7 +57,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grappling",
+        "tremendously",
+        "performs",
+        "muscle",
+        "nothing",
+        "tentacles"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +74,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "emerges",
+        "test",
+        "skills",
+        "searching",
+        "returns",
+        "onto",
+        "against"
+      ]
     }
   ],
   "similarPokemonIds": [

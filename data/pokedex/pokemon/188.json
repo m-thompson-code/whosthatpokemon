@@ -10,6 +10,51 @@
   ],
   "imagePath": "/assets/pokemon/188.png",
   "entryCount": 21,
+  "entryTraits": [
+    "sky-dwelling",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "fluc",
+    "tuates",
+    "fluctuates",
+    "64",
+    "blossoms",
+    "thermometer",
+    "depends",
+    "blooming",
+    "shade",
+    "rains",
+    "closer",
+    "rises",
+    "soak",
+    "blooms",
+    "warms",
+    "wet",
+    "closes",
+    "possible",
+    "spreads",
+    "opens",
+    "getting",
+    "soon",
+    "floats",
+    "absorb",
+    "bloom",
+    "f",
+    "above",
+    "top",
+    "petals",
+    "avoid",
+    "weather",
+    "reason",
+    "changes",
+    "flower",
+    "fahrenheit",
+    "hides",
+    "sun",
+    "sunlight",
+    "temperature"
+  ],
   "color": "green",
   "shape": "upright",
   "habitat": "grassland",
@@ -40,7 +85,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fluc",
+        "tuates",
+        "closes",
+        "opens",
+        "bloom",
+        "top",
+        "temperature"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +103,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "closer",
+        "spreads",
+        "floats",
+        "absorb",
+        "petals",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +123,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "shade",
+        "rains",
+        "wet",
+        "closes",
+        "getting",
+        "soon",
+        "avoid",
+        "flower",
+        "hides"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +145,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SKIPLOOM’s flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "64",
+        "blossoms",
+        "thermometer",
+        "depends",
+        "rises",
+        "opens",
+        "f",
+        "above",
+        "reason",
+        "flower",
+        "temperature"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +167,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SKIPLOOM’s flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "64",
+        "blossoms",
+        "thermometer",
+        "depends",
+        "rises",
+        "opens",
+        "f",
+        "above",
+        "reason",
+        "flower",
+        "temperature"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +189,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It blossoms when the temperature rises above 64 degrees F. Because its flower’s blooming changes with the temperature, it is sometimes used as a thermometer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "64",
+        "blossoms",
+        "thermometer",
+        "blooming",
+        "rises",
+        "f",
+        "above",
+        "changes",
+        "flower",
+        "temperature"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +210,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "closer",
+        "spreads",
+        "floats",
+        "absorb",
+        "petals",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +230,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fluctuates",
+        "closes",
+        "opens",
+        "bloom",
+        "top",
+        "temperature"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +247,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soak",
+        "blooms",
+        "warms",
+        "possible",
+        "floats",
+        "weather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +267,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soak",
+        "blooms",
+        "warms",
+        "possible",
+        "floats",
+        "weather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +287,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soak",
+        "blooms",
+        "warms",
+        "possible",
+        "floats",
+        "weather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +307,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fluctuates",
+        "closes",
+        "opens",
+        "bloom",
+        "top",
+        "temperature"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +324,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "closer",
+        "spreads",
+        "floats",
+        "absorb",
+        "petals",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +344,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soak",
+        "blooms",
+        "warms",
+        "possible",
+        "floats",
+        "weather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +364,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soak",
+        "blooms",
+        "warms",
+        "possible",
+        "floats",
+        "weather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +384,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soak",
+        "blooms",
+        "warms",
+        "possible",
+        "floats",
+        "weather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +404,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "soak",
+        "blooms",
+        "warms",
+        "possible",
+        "floats",
+        "weather",
+        "sunlight"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +424,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fluctuates",
+        "closes",
+        "opens",
+        "bloom",
+        "top",
+        "temperature"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +441,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "closer",
+        "spreads",
+        "floats",
+        "absorb",
+        "petals",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +461,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "64",
+        "blossoms",
+        "thermometer",
+        "depends",
+        "rises",
+        "opens",
+        "above",
+        "reason",
+        "flower",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +483,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "64",
+        "blossoms",
+        "thermometer",
+        "depends",
+        "rises",
+        "opens",
+        "above",
+        "reason",
+        "flower",
+        "fahrenheit",
+        "temperature"
+      ]
     }
   ],
   "similarPokemonIds": [

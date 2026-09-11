@@ -10,6 +10,45 @@
   ],
   "imagePath": "/assets/pokemon/730.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic",
+    "hunting",
+    "nocturnal",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "chief",
+    "fantastical",
+    "maintenance",
+    "mesmerize",
+    "prioritize",
+    "songstress",
+    "costs",
+    "generation",
+    "sonic",
+    "audience",
+    "stage",
+    "passed",
+    "moonlit",
+    "learned",
+    "balloons",
+    "melody",
+    "song",
+    "leads",
+    "throat",
+    "colony",
+    "weapon",
+    "daily",
+    "voice",
+    "next",
+    "singing",
+    "dancing",
+    "nights",
+    "controls",
+    "beautiful",
+    "look",
+    "takes"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": null,
@@ -40,7 +79,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "generation",
+        "passed",
+        "learned",
+        "balloons",
+        "melody",
+        "song",
+        "next",
+        "controls"
+      ]
     },
     {
       "versionId": 28,
@@ -48,7 +100,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its singing voice is its chief weapon in battle. This Pokémon’s Trainer must prioritize the daily maintenance of its throat at all costs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chief",
+        "maintenance",
+        "prioritize",
+        "costs",
+        "throat",
+        "weapon",
+        "daily",
+        "voice",
+        "singing"
+      ]
     },
     {
       "versionId": 29,
@@ -56,7 +120,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "stage",
+        "singing",
+        "dancing",
+        "beautiful",
+        "takes"
+      ]
     },
     {
       "versionId": 30,
@@ -64,7 +138,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Also known as a songstress, it has a fantastical look on moonlit nights when it leads its colony in song.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "fantastical",
+        "songstress",
+        "moonlit",
+        "song",
+        "leads",
+        "colony",
+        "nights",
+        "look"
+      ]
     },
     {
       "versionId": 33,
@@ -72,7 +159,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "sonic",
+        "balloons",
+        "singing",
+        "beautiful"
+      ]
     },
     {
       "versionId": 34,
@@ -80,7 +177,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "For Primarina, every battle’s a stage. Its singing and the dancing of its balloons will mesmerize the audience.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mesmerize",
+        "audience",
+        "stage",
+        "balloons",
+        "singing",
+        "dancing"
+      ]
     }
   ],
   "similarPokemonIds": [

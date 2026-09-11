@@ -9,6 +9,109 @@
   ],
   "imagePath": "/assets/pokemon/119.png",
   "entryCount": 32,
+  "entryTraits": [
+    "aquatic",
+    "horns",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "crazy",
+    "enthusiasts",
+    "flushes",
+    "hollowed",
+    "innovation",
+    "arrived",
+    "beds",
+    "courtship",
+    "hollowing",
+    "patrol",
+    "poetic",
+    "reminder",
+    "woo",
+    "carving",
+    "clever",
+    "creeks",
+    "job",
+    "performing",
+    "washing",
+    "guarding",
+    "month",
+    "propose",
+    "brilliant",
+    "coloring",
+    "fatty",
+    "patrolling",
+    "riverbed",
+    "riverbeds",
+    "mate",
+    "bores",
+    "divided",
+    "family",
+    "spawning",
+    "gracefully",
+    "defends",
+    "ones",
+    "autumn",
+    "females",
+    "prevents",
+    "coloration",
+    "stream",
+    "preparing",
+    "washed",
+    "powerfully",
+    "streams",
+    "current",
+    "males",
+    "dances",
+    "vivid",
+    "drill",
+    "male",
+    "female",
+    "floor",
+    "offspring",
+    "steadily",
+    "boulder",
+    "season",
+    "attract",
+    "protective",
+    "river",
+    "serves",
+    "hollow",
+    "fin",
+    "fully",
+    "prevent",
+    "hole",
+    "spins",
+    "harder",
+    "nests",
+    "causing",
+    "order",
+    "sight",
+    "colors",
+    "rivers",
+    "area",
+    "do",
+    "groups",
+    "dance",
+    "holes",
+    "weather",
+    "beautiful",
+    "turns",
+    "boulders",
+    "eggs",
+    "red",
+    "punches",
+    "attacked",
+    "along",
+    "well",
+    "whole",
+    "swimming",
+    "horn",
+    "takes",
+    "gather",
+    "rocks"
+  ],
   "color": "red",
   "shape": "fish",
   "habitat": "waters-edge",
@@ -38,7 +141,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "In the autumn spawning season, they can be seen swimming power­ fully up rivers and creeks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "creeks",
+        "spawning",
+        "autumn",
+        "season",
+        "fully",
+        "rivers",
+        "swimming"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +161,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "In the autumn spawning season, they can be seen swimming power­ fully up rivers and creeks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "creeks",
+        "spawning",
+        "autumn",
+        "season",
+        "fully",
+        "rivers",
+        "swimming"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +181,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "carving",
+        "job",
+        "stream",
+        "male",
+        "boulders",
+        "horn"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +201,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "During spawning season, SEAKING gather from all over, coloring the rivers a brilliant red.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "brilliant",
+        "coloring",
+        "spawning",
+        "season",
+        "rivers",
+        "red",
+        "gather"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +219,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "washing",
+        "riverbed",
+        "bores",
+        "prevent",
+        "nests",
+        "holes",
+        "boulders",
+        "eggs",
+        "horn"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +241,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When autumn comes, the males patrol the area around their nests in order to protect their offspring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "patrol",
+        "autumn",
+        "males",
+        "offspring",
+        "nests",
+        "order",
+        "area"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +259,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "In the autumn, SEAKING males can be seen performing courtship dances in riverbeds to woo females. During this season, this POKéMON’s body coloration is at its most beautiful.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "courtship",
+        "woo",
+        "performing",
+        "riverbeds",
+        "autumn",
+        "females",
+        "coloration",
+        "males",
+        "dances",
+        "season",
+        "beautiful"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +281,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SEAKING is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these POKéMON goes on for over a month.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "guarding",
+        "month",
+        "patrolling",
+        "male",
+        "female",
+        "protective",
+        "turns",
+        "eggs"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +300,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It punches holes in boulders on stream­ beds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "innovation",
+        "beds",
+        "clever",
+        "prevents",
+        "stream",
+        "washed",
+        "current",
+        "holes",
+        "boulders",
+        "eggs",
+        "punches",
+        "attacked"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +325,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "bores",
+        "drill",
+        "boulder",
+        "hole",
+        "horn"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +343,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "creeks",
+        "spawning",
+        "autumn",
+        "powerfully",
+        "season",
+        "rivers",
+        "swimming"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +363,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "hollowing",
+        "defends",
+        "streams",
+        "boulders",
+        "eggs",
+        "horn"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +382,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "hollowed",
+        "family",
+        "streams",
+        "drill",
+        "horn",
+        "rocks"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +401,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "propose",
+        "fatty",
+        "mate",
+        "autumn",
+        "preparing",
+        "colors",
+        "beautiful",
+        "takes"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +420,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "brilliant",
+        "spawning",
+        "season",
+        "causing",
+        "rivers",
+        "red",
+        "gather"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +438,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "washing",
+        "riverbed",
+        "bores",
+        "prevent",
+        "nests",
+        "holes",
+        "boulders",
+        "eggs",
+        "horn"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +460,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "propose",
+        "fatty",
+        "mate",
+        "autumn",
+        "preparing",
+        "colors",
+        "beautiful",
+        "takes"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +479,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "propose",
+        "fatty",
+        "mate",
+        "autumn",
+        "preparing",
+        "colors",
+        "beautiful",
+        "takes"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +498,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "propose",
+        "fatty",
+        "mate",
+        "autumn",
+        "preparing",
+        "colors",
+        "beautiful",
+        "takes"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +517,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "propose",
+        "fatty",
+        "mate",
+        "autumn",
+        "preparing",
+        "colors",
+        "beautiful",
+        "takes"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +536,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "creeks",
+        "spawning",
+        "autumn",
+        "powerfully",
+        "season",
+        "rivers",
+        "swimming"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +556,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "hollowing",
+        "defends",
+        "streams",
+        "boulders",
+        "eggs",
+        "horn"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +575,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon’s body coloration is at its most beautiful.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "courtship",
+        "woo",
+        "performing",
+        "riverbeds",
+        "autumn",
+        "females",
+        "coloration",
+        "males",
+        "dances",
+        "season",
+        "beautiful"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +597,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pokémon goes on for over a month.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "guarding",
+        "month",
+        "patrolling",
+        "male",
+        "female",
+        "protective",
+        "turns",
+        "eggs"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +616,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When the weather grows cold, its whole body flushes a deep red. This sight serves as a poetic reminder that autumn has arrived.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "flushes",
+        "arrived",
+        "poetic",
+        "reminder",
+        "autumn",
+        "serves",
+        "sight",
+        "weather",
+        "red",
+        "whole"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +640,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Trainers who are crazy for Seaking are divided into horn enthusiasts and fin enthusiasts. The two groups do not get along well.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "crazy",
+        "enthusiasts",
+        "divided",
+        "fin",
+        "do",
+        "groups",
+        "along",
+        "well",
+        "horn"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +662,23 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its horn spins like a drill to steadily hollow out rocks—even harder ones. The coloration of the male is more vivid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "ones",
+        "coloration",
+        "vivid",
+        "drill",
+        "male",
+        "steadily",
+        "hollow",
+        "spins",
+        "harder",
+        "horn",
+        "rocks"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +686,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "To attract females, males dance on the river’s floor. The females gather around the male that dances most gracefully.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gracefully",
+        "females",
+        "males",
+        "dances",
+        "male",
+        "floor",
+        "attract",
+        "river",
+        "dance",
+        "gather"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +709,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It is the male’s job to make a nest by carving out boulders in a stream using the horn on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "carving",
+        "job",
+        "stream",
+        "male",
+        "boulders",
+        "horn"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +729,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It is the male’s job to make a nest by carving out boulders in a stream using the horn on its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "horns"
+      ],
+      "keywords": [
+        "carving",
+        "job",
+        "stream",
+        "male",
+        "boulders",
+        "horn"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +749,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "propose",
+        "fatty",
+        "mate",
+        "autumn",
+        "preparing",
+        "colors",
+        "beautiful",
+        "takes"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +768,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "washing",
+        "riverbed",
+        "bores",
+        "prevent",
+        "nests",
+        "holes",
+        "boulders",
+        "eggs",
+        "horn"
+      ]
     }
   ],
   "similarPokemonIds": [

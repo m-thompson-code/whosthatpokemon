@@ -9,6 +9,50 @@
   ],
   "imagePath": "/assets/pokemon/728.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "snorts",
+    "acrobatic",
+    "fighter",
+    "deals",
+    "practice",
+    "worker",
+    "develop",
+    "pop",
+    "persistent",
+    "skills",
+    "bubbles",
+    "blowing",
+    "jump",
+    "balloons",
+    "sheer",
+    "bursting",
+    "diligently",
+    "higher",
+    "practices",
+    "learn",
+    "bouncy",
+    "smash",
+    "inflates",
+    "want",
+    "daily",
+    "damage",
+    "famous",
+    "quite",
+    "fluids",
+    "send",
+    "top",
+    "larger",
+    "special",
+    "force",
+    "nose",
+    "create",
+    "creates",
+    "takes",
+    "big"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": null,
@@ -39,7 +83,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "snorts",
+        "worker",
+        "blowing",
+        "balloons",
+        "smash",
+        "famous",
+        "fluids",
+        "nose"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +102,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon can control water bubbles. It practices diligently so it can learn to make big bubbles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bubbles",
+        "diligently",
+        "practices",
+        "learn",
+        "big"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +120,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "balloons",
+        "practices",
+        "inflates",
+        "larger",
+        "nose"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +136,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Popplio gets on top of its bouncy water balloons to jump higher. It’s quite the acrobatic fighter!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "acrobatic",
+        "fighter",
+        "jump",
+        "balloons",
+        "higher",
+        "bouncy",
+        "quite",
+        "top"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +157,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "deals",
+        "pop",
+        "balloons",
+        "sheer",
+        "bursting",
+        "bouncy",
+        "damage",
+        "send",
+        "special",
+        "force",
+        "creates"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +179,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "practice",
+        "develop",
+        "persistent",
+        "skills",
+        "balloons",
+        "want",
+        "daily",
+        "create",
+        "takes",
+        "big"
+      ]
     }
   ],
   "similarPokemonIds": [

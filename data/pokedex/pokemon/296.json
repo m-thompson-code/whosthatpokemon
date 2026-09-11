@@ -9,6 +9,81 @@
   ],
   "imagePath": "/assets/pokemon/296.png",
   "entryCount": 22,
+  "entryTraits": [
+    "sleeping",
+    "cave-dwelling",
+    "sonic",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "afternoon",
+    "flung",
+    "quaking",
+    "recipe",
+    "undertaking",
+    "rigorously",
+    "routine",
+    "stew",
+    "strenuous",
+    "tireless",
+    "dauntless",
+    "slapping",
+    "slaps",
+    "knocked",
+    "rumbles",
+    "napping",
+    "rumor",
+    "hope",
+    "snapped",
+    "exeggutor",
+    "tenacious",
+    "trunks",
+    "toughen",
+    "afterward",
+    "brought",
+    "toughens",
+    "gutsy",
+    "traditional",
+    "plenty",
+    "enduring",
+    "slamming",
+    "slap",
+    "practices",
+    "consists",
+    "else",
+    "lot",
+    "trains",
+    "cave",
+    "evolving",
+    "originally",
+    "raise",
+    "gains",
+    "now",
+    "daily",
+    "repeatedly",
+    "famous",
+    "morning",
+    "withstand",
+    "packs",
+    "getting",
+    "thing",
+    "hear",
+    "alola",
+    "training",
+    "attacking",
+    "harsh",
+    "above",
+    "region",
+    "first",
+    "near",
+    "stronger",
+    "sturdy",
+    "living",
+    "another",
+    "spirit",
+    "eating",
+    "stores"
+  ],
   "color": "yellow",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -38,7 +113,16 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this POKéMON stores more energy in its body for evolving.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "knocked",
+        "tenacious",
+        "evolving",
+        "getting",
+        "attacking",
+        "stores"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +130,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MAKUHITA has a tireless spirit - it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this POKéMON packs its body with energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "rigorously",
+        "tireless",
+        "hope",
+        "plenty",
+        "lot",
+        "trains",
+        "packs",
+        "living",
+        "spirit"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +152,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It loves to toughen up its body above all else. If you hear quaking rumbles in a cave, it is the sound of MAKUHITA undertaking strenuous training.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "quaking",
+        "undertaking",
+        "strenuous",
+        "rumbles",
+        "toughen",
+        "else",
+        "cave",
+        "hear",
+        "training",
+        "above"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +176,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It grows stronger by enduring harsh training. It is a gutsy POKéMON that can withstand any attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gutsy",
+        "enduring",
+        "withstand",
+        "training",
+        "harsh",
+        "stronger"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +193,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It grows stronger by enduring harsh training. It is a gutsy POKéMON that can withstand any attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gutsy",
+        "enduring",
+        "withstand",
+        "training",
+        "harsh",
+        "stronger"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +210,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "snapped",
+        "toughens",
+        "slamming",
+        "near"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +227,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "snapped",
+        "toughens",
+        "slamming",
+        "near"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +244,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "snapped",
+        "toughens",
+        "slamming",
+        "near"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +261,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dauntless",
+        "toughens",
+        "slamming",
+        "gains",
+        "sturdy",
+        "spirit"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +280,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dauntless",
+        "toughens",
+        "slamming",
+        "gains",
+        "sturdy",
+        "spirit"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +299,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "snapped",
+        "toughens",
+        "slamming",
+        "near"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +316,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "snapped",
+        "toughens",
+        "slamming",
+        "near"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +333,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "snapped",
+        "toughens",
+        "slamming",
+        "near"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +350,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "snapped",
+        "toughens",
+        "slamming",
+        "near"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +367,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "dauntless",
+        "toughens",
+        "slamming",
+        "gains",
+        "sturdy",
+        "spirit"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +386,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gutsy",
+        "enduring",
+        "withstand",
+        "training",
+        "harsh",
+        "stronger"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +403,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Makuhita is tenacious—it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this Pokémon stores more energy in its body for evolving.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "knocked",
+        "tenacious",
+        "evolving",
+        "getting",
+        "attacking",
+        "stores"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +420,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Makuhita has a tireless spirit—it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this Pokémon packs its body with energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "rigorously",
+        "tireless",
+        "hope",
+        "plenty",
+        "lot",
+        "trains",
+        "packs",
+        "living",
+        "spirit"
+      ]
     },
     {
       "versionId": 27,
@@ -182,7 +442,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It was originally brought in from another region, but now Makuhita from Alola are more famous.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "brought",
+        "originally",
+        "now",
+        "famous",
+        "alola",
+        "region",
+        "another"
+      ]
     },
     {
       "versionId": 28,
@@ -190,7 +460,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Their daily routine consists of training together first thing in the morning, eating and napping in the afternoon, and then more training afterward.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "afternoon",
+        "routine",
+        "napping",
+        "afterward",
+        "consists",
+        "daily",
+        "morning",
+        "thing",
+        "training",
+        "first",
+        "eating"
+      ]
     },
     {
       "versionId": 29,
@@ -198,7 +484,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It practices its slaps by repeatedly slapping tree trunks. It has been known to slap an Exeggutor and get flung away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "flung",
+        "slapping",
+        "slaps",
+        "exeggutor",
+        "trunks",
+        "slap",
+        "practices",
+        "repeatedly"
+      ]
     },
     {
       "versionId": 30,
@@ -206,7 +505,15 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "There’s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "recipe",
+        "stew",
+        "rumor",
+        "traditional",
+        "raise"
+      ]
     }
   ],
   "similarPokemonIds": [

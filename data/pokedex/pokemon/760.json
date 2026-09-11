@@ -10,6 +10,58 @@
   ],
   "imagePath": "/assets/pokemon/760.png",
   "entryCount": 6,
+  "entryTraits": [
+    "aquatic",
+    "arms",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "accepts",
+    "hugging",
+    "jealous",
+    "squashed",
+    "artist",
+    "subdued",
+    "limits",
+    "companions",
+    "immensely",
+    "overwhelming",
+    "tucks",
+    "affection",
+    "generally",
+    "boasts",
+    "friend",
+    "letting",
+    "tremendous",
+    "intimidation",
+    "hug",
+    "physical",
+    "call",
+    "martial",
+    "possesses",
+    "show",
+    "possible",
+    "shatter",
+    "wildly",
+    "spines",
+    "warning",
+    "habit",
+    "tries",
+    "alola",
+    "habitat",
+    "dangerous",
+    "left",
+    "carry",
+    "bones",
+    "do",
+    "region",
+    "hands",
+    "run",
+    "anyone",
+    "fast",
+    "strength",
+    "doesn"
+  ],
   "color": "pink",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +91,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "limits",
+        "immensely",
+        "overwhelming",
+        "generally",
+        "physical",
+        "possesses",
+        "habitat",
+        "dangerous",
+        "strength"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +111,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon has the habit of hugging its companions. Many Trainers have left this world after their spines were squashed by its hug.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hugging",
+        "squashed",
+        "companions",
+        "hug",
+        "spines",
+        "habit",
+        "left"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +129,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It waves its hands wildly in intimidation and warning. Life is over for anyone who doesn’t run away as fast as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "arms"
+      ],
+      "keywords": [
+        "intimidation",
+        "possible",
+        "wildly",
+        "warning",
+        "hands",
+        "run",
+        "anyone",
+        "fast",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +152,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It boasts tremendous physical strength. Many people call it the most dangerous Pokémon in the Alola region.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "boasts",
+        "tremendous",
+        "physical",
+        "call",
+        "alola",
+        "dangerous",
+        "region",
+        "strength"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +171,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "accepts",
+        "affection",
+        "friend",
+        "letting",
+        "hug",
+        "show",
+        "shatter",
+        "tries",
+        "dangerous",
+        "bones",
+        "do"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +193,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "hunting"
+      ],
+      "keywords": [
+        "jealous",
+        "artist",
+        "subdued",
+        "tucks",
+        "martial",
+        "carry"
+      ]
     }
   ],
   "similarPokemonIds": [

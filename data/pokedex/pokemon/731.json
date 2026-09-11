@@ -10,6 +10,41 @@
   ],
   "imagePath": "/assets/pokemon/731.png",
   "entryCount": 4,
+  "entryTraits": [
+    "forest-dwelling",
+    "beak"
+  ],
+  "entryKeywords": [
+    "ammunition",
+    "duty",
+    "pecking",
+    "spindly",
+    "storage",
+    "condition",
+    "leftover",
+    "idea",
+    "pecks",
+    "16",
+    "nesting",
+    "rate",
+    "mood",
+    "whose",
+    "drill",
+    "per",
+    "peck",
+    "seeds",
+    "second",
+    "rhythm",
+    "beak",
+    "feeds",
+    "fires",
+    "holes",
+    "neck",
+    "look",
+    "berries",
+    "heavy",
+    "muscles"
+  ],
   "color": "black",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +74,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It can peck at a rate of 16 times a second to drill holes in trees. It uses the holes for food storage and for nesting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "storage",
+        "16",
+        "nesting",
+        "rate",
+        "drill",
+        "peck",
+        "second",
+        "holes"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +95,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon feeds on berries, whose leftover seeds become the ammunition for the attacks it fires off from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ammunition",
+        "leftover",
+        "whose",
+        "seeds",
+        "feeds",
+        "fires",
+        "berries"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +113,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "beak"
+      ],
+      "keywords": [
+        "pecking",
+        "condition",
+        "idea",
+        "pecks",
+        "mood",
+        "rhythm",
+        "beak"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +134,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "duty",
+        "spindly",
+        "16",
+        "per",
+        "peck",
+        "second",
+        "neck",
+        "look",
+        "heavy",
+        "muscles"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,74 @@
   ],
   "imagePath": "/assets/pokemon/138.png",
   "entryCount": 30,
+  "entryTraits": [
+    "aquatic",
+    "sky-dwelling",
+    "shell"
+  ],
+  "entryKeywords": [
+    "excavated",
+    "gated",
+    "helix",
+    "navi",
+    "navigated",
+    "preyed",
+    "antiquity",
+    "bearing",
+    "paddles",
+    "genetically",
+    "plankton",
+    "archeops",
+    "member",
+    "manage",
+    "primordial",
+    "recovered",
+    "cases",
+    "adeptly",
+    "problem",
+    "revived",
+    "sink",
+    "modern",
+    "withdraws",
+    "prehistoric",
+    "drifting",
+    "released",
+    "fossils",
+    "resurrected",
+    "oceans",
+    "science",
+    "twisting",
+    "becoming",
+    "swam",
+    "marks",
+    "restored",
+    "regenerated",
+    "rise",
+    "floor",
+    "cleverly",
+    "looking",
+    "wild",
+    "extinct",
+    "species",
+    "escape",
+    "bite",
+    "lived",
+    "fossil",
+    "humans",
+    "areas",
+    "tentacles",
+    "rare",
+    "stored",
+    "since",
+    "10",
+    "attacked",
+    "along",
+    "eating",
+    "swims",
+    "although",
+    "apparently",
+    "seas"
+  ],
   "color": "blue",
   "shape": "tentacles",
   "habitat": "sea",
@@ -40,7 +108,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "genetically",
+        "cases",
+        "fossils",
+        "resurrected",
+        "extinct",
+        "rare",
+        "although"
+      ]
     },
     {
       "versionId": 2,
@@ -48,7 +126,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "genetically",
+        "cases",
+        "fossils",
+        "resurrected",
+        "extinct",
+        "rare",
+        "although"
+      ]
     },
     {
       "versionId": 3,
@@ -56,7 +144,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "An ancient POKéMON that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "recovered",
+        "twisting",
+        "cleverly",
+        "fossil",
+        "tentacles",
+        "10",
+        "swims"
+      ]
     },
     {
       "versionId": 4,
@@ -64,7 +164,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Revived from an ancient fossil, this POKéMON uses air stored in its shell to sink and rise in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "revived",
+        "sink",
+        "rise",
+        "fossil",
+        "stored"
+      ]
     },
     {
       "versionId": 5,
@@ -72,7 +184,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "This POKéMON from ancient times is said to have navi­ gated the sea by adeptly twisting its 10 tentacles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gated",
+        "navi",
+        "adeptly",
+        "twisting",
+        "tentacles",
+        "10"
+      ]
     },
     {
       "versionId": 6,
@@ -80,7 +203,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "In prehistoric times, it swam on the sea floor, eating plankton. Its fossils are sometimes found.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "plankton",
+        "prehistoric",
+        "fossils",
+        "swam",
+        "floor",
+        "eating"
+      ]
     },
     {
       "versionId": 7,
@@ -88,7 +222,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "OMANYTE is one of the ancient and long- since-extinct POKéMON that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "withdraws",
+        "fossils",
+        "regenerated",
+        "extinct",
+        "since",
+        "attacked"
+      ]
     },
     {
       "versionId": 8,
@@ -96,7 +241,18 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "OMANYTE is one of the ancient and long- since-extinct POKéMON that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "withdraws",
+        "fossils",
+        "regenerated",
+        "extinct",
+        "since",
+        "attacked"
+      ]
     },
     {
       "versionId": 9,
@@ -104,7 +260,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "One of the ancient and long-since-extinct POKéMON that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "withdraws",
+        "fossils",
+        "regenerated",
+        "extinct",
+        "humans",
+        "since",
+        "attacked"
+      ]
     },
     {
       "versionId": 10,
@@ -112,7 +280,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A prehistoric POKéMON that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "primordial",
+        "prehistoric",
+        "twisting",
+        "lived",
+        "tentacles",
+        "10",
+        "swims"
+      ]
     },
     {
       "versionId": 11,
@@ -120,7 +300,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Although long extinct, in rare cases, it can be genetically regenerated from fossils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "genetically",
+        "cases",
+        "fossils",
+        "regenerated",
+        "extinct",
+        "rare",
+        "although"
+      ]
     },
     {
       "versionId": 12,
@@ -128,7 +318,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "modern",
+        "resurrected",
+        "science",
+        "swam",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 13,
@@ -136,7 +335,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "modern",
+        "resurrected",
+        "science",
+        "swam",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 14,
@@ -144,7 +352,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "modern",
+        "resurrected",
+        "science",
+        "swam",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 15,
@@ -152,7 +369,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "revived",
+        "sink",
+        "rise",
+        "fossil",
+        "stored"
+      ]
     },
     {
       "versionId": 16,
@@ -160,7 +389,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "navigated",
+        "adeptly",
+        "twisting",
+        "tentacles",
+        "10"
+      ]
     },
     {
       "versionId": 17,
@@ -168,7 +407,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "modern",
+        "resurrected",
+        "science",
+        "swam",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 18,
@@ -176,7 +424,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "modern",
+        "resurrected",
+        "science",
+        "swam",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 21,
@@ -184,7 +441,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "modern",
+        "resurrected",
+        "science",
+        "swam",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 22,
@@ -192,7 +458,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "modern",
+        "resurrected",
+        "science",
+        "swam",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 23,
@@ -200,7 +475,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A prehistoric Pokémon that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "primordial",
+        "prehistoric",
+        "twisting",
+        "lived",
+        "tentacles",
+        "10",
+        "swims"
+      ]
     },
     {
       "versionId": 24,
@@ -208,7 +495,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "revived",
+        "sink",
+        "rise",
+        "fossil",
+        "stored"
+      ]
     },
     {
       "versionId": 25,
@@ -216,7 +515,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "withdraws",
+        "fossils",
+        "regenerated",
+        "extinct",
+        "since",
+        "attacked"
+      ]
     },
     {
       "versionId": 26,
@@ -224,7 +534,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "withdraws",
+        "fossils",
+        "regenerated",
+        "extinct",
+        "since",
+        "attacked"
+      ]
     },
     {
       "versionId": 29,
@@ -232,7 +553,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Omanyte lived in the seas of antiquity. Its fossils have been found bearing bite marks from Archeops, so apparently Archeops preyed on it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "preyed",
+        "antiquity",
+        "bearing",
+        "archeops",
+        "fossils",
+        "marks",
+        "bite",
+        "lived",
+        "apparently",
+        "seas"
+      ]
     },
     {
       "versionId": 30,
@@ -240,7 +574,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It was restored from an ancient fossil. Those Helix Fossils are excavated from areas that were once oceans long, long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "excavated",
+        "helix",
+        "fossils",
+        "oceans",
+        "restored",
+        "fossil",
+        "areas"
+      ]
     },
     {
       "versionId": 31,
@@ -248,7 +592,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recovered",
+        "twisting",
+        "swam",
+        "cleverly",
+        "fossil",
+        "tentacles",
+        "10"
+      ]
     },
     {
       "versionId": 32,
@@ -256,7 +610,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "recovered",
+        "twisting",
+        "swam",
+        "cleverly",
+        "fossil",
+        "tentacles",
+        "10"
+      ]
     },
     {
       "versionId": 33,
@@ -264,7 +628,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "manage",
+        "problem",
+        "released",
+        "becoming",
+        "restored",
+        "wild",
+        "species",
+        "escape"
+      ]
     },
     {
       "versionId": 34,
@@ -272,7 +647,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it’s just drifting along.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "paddles",
+        "member",
+        "drifting",
+        "looking",
+        "extinct",
+        "species",
+        "tentacles",
+        "10",
+        "along"
+      ]
     }
   ],
   "similarPokemonIds": [

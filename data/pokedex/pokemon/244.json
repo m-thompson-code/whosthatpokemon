@@ -9,6 +9,51 @@
   ],
   "imagePath": "/assets/pokemon/244.png",
   "entryCount": 21,
+  "entryTraits": [
+    "volcanic",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "consumes",
+    "restrain",
+    "un",
+    "brawny",
+    "passion",
+    "barks",
+    "eruption",
+    "utterly",
+    "sheer",
+    "spouting",
+    "erupt",
+    "bursts",
+    "consume",
+    "courses",
+    "erupts",
+    "headlong",
+    "roars",
+    "embodies",
+    "hotter",
+    "extreme",
+    "volcanoes",
+    "globe",
+    "touches",
+    "contain",
+    "somewhere",
+    "earth",
+    "races",
+    "sends",
+    "unable",
+    "volcano",
+    "blasts",
+    "massive",
+    "able",
+    "touch",
+    "magma",
+    "new",
+    "across",
+    "thought",
+    "born"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +83,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Volcanoes erupt when it barks. Un­ able to restrain its extreme power, it races headlong around the land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "restrain",
+        "un",
+        "barks",
+        "erupt",
+        "headlong",
+        "extreme",
+        "volcanoes",
+        "races",
+        "able"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +103,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "A POKéMON that races across the land. It is said that one is born every time a new volcano appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "races",
+        "volcano",
+        "new",
+        "across",
+        "born"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +121,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This brawny POKéMON courses around the earth, spouting flames hotter than a volcano's magma.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "brawny",
+        "spouting",
+        "courses",
+        "hotter",
+        "earth",
+        "volcano",
+        "magma"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +142,26 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "passion",
+        "eruption",
+        "utterly",
+        "bursts",
+        "consume",
+        "embodies",
+        "sends",
+        "volcano",
+        "massive",
+        "touch",
+        "magma",
+        "thought",
+        "born"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +169,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "passion",
+        "eruption",
+        "utterly",
+        "bursts",
+        "consume",
+        "embodies",
+        "sends",
+        "volcano",
+        "massive",
+        "touch",
+        "magma",
+        "thought",
+        "born"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +196,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "ENTEI embodies the passion of magma. It is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "consumes",
+        "passion",
+        "eruption",
+        "embodies",
+        "touches",
+        "volcano",
+        "blasts",
+        "magma",
+        "thought",
+        "born"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +220,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A POKéMON that races across the land. It is said that one is born every time a new volcano appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "races",
+        "volcano",
+        "new",
+        "across",
+        "born"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +238,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "restrain",
+        "barks",
+        "erupt",
+        "headlong",
+        "extreme",
+        "volcanoes",
+        "races",
+        "unable"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +257,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "erupts",
+        "roars",
+        "globe",
+        "somewhere",
+        "volcano"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +275,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "erupts",
+        "roars",
+        "globe",
+        "somewhere",
+        "volcano"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +293,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "erupts",
+        "roars",
+        "globe",
+        "somewhere",
+        "volcano"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +311,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Volcanoes erupt when it barks. Unable to contain its sheer power, it races headlong around the land.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "barks",
+        "sheer",
+        "erupt",
+        "headlong",
+        "volcanoes",
+        "contain",
+        "races",
+        "unable"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +330,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "races",
+        "volcano",
+        "new",
+        "across",
+        "born"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +348,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "erupts",
+        "roars",
+        "globe",
+        "somewhere",
+        "volcano"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +366,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "erupts",
+        "roars",
+        "globe",
+        "somewhere",
+        "volcano"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +384,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "erupts",
+        "roars",
+        "globe",
+        "somewhere",
+        "volcano"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +402,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "erupts",
+        "roars",
+        "globe",
+        "somewhere",
+        "volcano"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +420,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "races",
+        "volcano",
+        "new",
+        "across",
+        "born"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +438,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "erupts",
+        "roars",
+        "globe",
+        "somewhere",
+        "volcano"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +456,26 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "passion",
+        "eruption",
+        "utterly",
+        "bursts",
+        "consume",
+        "embodies",
+        "sends",
+        "volcano",
+        "massive",
+        "touch",
+        "magma",
+        "thought",
+        "born"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +483,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "passion",
+        "eruption",
+        "utterly",
+        "bursts",
+        "consume",
+        "embodies",
+        "sends",
+        "volcano",
+        "massive",
+        "touch",
+        "magma",
+        "thought",
+        "born"
+      ]
     }
   ],
   "similarPokemonIds": [

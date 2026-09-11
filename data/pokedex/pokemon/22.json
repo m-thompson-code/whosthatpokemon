@@ -10,6 +10,78 @@
   ],
   "imagePath": "/assets/pokemon/022.png",
   "entryCount": 30,
+  "entryTraits": [
+    "wings",
+    "sky-dwelling",
+    "hunting",
+    "beak",
+    "aquatic",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "drawings",
+    "plummets",
+    "snatch",
+    "history",
+    "resembling",
+    "conveniently",
+    "landing",
+    "murals",
+    "caution",
+    "dates",
+    "load",
+    "circling",
+    "swoop",
+    "treated",
+    "recognized",
+    "flash",
+    "problem",
+    "pluck",
+    "skinny",
+    "elongated",
+    "excellent",
+    "stamina",
+    "insects",
+    "searching",
+    "surprisingly",
+    "aloft",
+    "continuously",
+    "extended",
+    "ideal",
+    "carrying",
+    "fish",
+    "fell",
+    "remain",
+    "magnificent",
+    "cleverly",
+    "deftly",
+    "broad",
+    "catching",
+    "rest",
+    "alola",
+    "dangerous",
+    "having",
+    "suddenly",
+    "reach",
+    "beak",
+    "above",
+    "ever",
+    "fights",
+    "strike",
+    "instantly",
+    "shoots",
+    "neck",
+    "shaped",
+    "thin",
+    "ocean",
+    "soil",
+    "hide",
+    "tough",
+    "huge",
+    "whole",
+    "heavy",
+    "eat"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": "rough-terrain",
@@ -39,7 +111,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aloft",
+        "magnificent",
+        "rest",
+        "having",
+        "ever",
+        "huge"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +130,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aloft",
+        "magnificent",
+        "rest",
+        "having",
+        "ever",
+        "huge"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +149,12 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A POKéMON that dates back many years. If it senses danger, it flies high and away, instantly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dates",
+        "instantly"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +162,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "plummets",
+        "swoop",
+        "fell",
+        "suddenly",
+        "strike",
+        "shoots"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +182,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak"
+      ],
+      "keywords": [
+        "pluck",
+        "insects",
+        "cleverly",
+        "beak",
+        "thin",
+        "hide",
+        "eat"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +202,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It uses its long beak to attack. It has a surprisingly long reach, so it must be treated with caution.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak"
+      ],
+      "keywords": [
+        "caution",
+        "treated",
+        "surprisingly",
+        "reach",
+        "beak"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +220,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "FEAROW is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "conveniently",
+        "recognized",
+        "pluck",
+        "skinny",
+        "elongated",
+        "deftly",
+        "catching",
+        "beak",
+        "neck",
+        "shaped",
+        "soil"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +246,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "FEAROW is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "conveniently",
+        "recognized",
+        "pluck",
+        "skinny",
+        "elongated",
+        "deftly",
+        "catching",
+        "beak",
+        "neck",
+        "shaped",
+        "soil"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +272,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "pluck",
+        "skinny",
+        "elongated",
+        "extended",
+        "ideal",
+        "deftly",
+        "catching",
+        "beak",
+        "neck",
+        "soil"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +297,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its huge and magnificent wings can keep it aloft in the sky. It can remain flying a whole day without landing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "landing",
+        "aloft",
+        "remain",
+        "magnificent",
+        "huge",
+        "whole"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +317,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aloft",
+        "magnificent",
+        "rest",
+        "having",
+        "ever",
+        "huge"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +336,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "stamina",
+        "broad",
+        "beak",
+        "fights"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +354,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has the stamina to keep flying all day on its broad wings. It fights by using its sharp beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "stamina",
+        "broad",
+        "beak",
+        "fights"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +372,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "stamina",
+        "broad",
+        "beak",
+        "fights"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +390,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "plummets",
+        "swoop",
+        "fell",
+        "suddenly",
+        "strike",
+        "shoots"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +410,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak"
+      ],
+      "keywords": [
+        "pluck",
+        "insects",
+        "cleverly",
+        "beak",
+        "thin",
+        "hide",
+        "eat"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +430,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "stamina",
+        "broad",
+        "beak",
+        "fights"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +448,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "stamina",
+        "broad",
+        "beak",
+        "fights"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +466,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "stamina",
+        "broad",
+        "beak",
+        "fights"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +484,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "stamina",
+        "broad",
+        "beak",
+        "fights"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +502,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "aloft",
+        "magnificent",
+        "rest",
+        "having",
+        "ever",
+        "huge"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +521,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "beak",
+        "wings"
+      ],
+      "keywords": [
+        "stamina",
+        "broad",
+        "beak",
+        "fights"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +539,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "conveniently",
+        "recognized",
+        "pluck",
+        "skinny",
+        "elongated",
+        "deftly",
+        "catching",
+        "beak",
+        "neck",
+        "shaped",
+        "soil"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +565,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "beak",
+        "hunting"
+      ],
+      "keywords": [
+        "conveniently",
+        "recognized",
+        "pluck",
+        "skinny",
+        "elongated",
+        "deftly",
+        "catching",
+        "beak",
+        "neck",
+        "shaped",
+        "soil"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +591,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It’s tough and has excellent stamina. It has no problem flying continuously for a whole day carrying a heavy load.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "load",
+        "problem",
+        "excellent",
+        "stamina",
+        "continuously",
+        "carrying",
+        "tough",
+        "whole",
+        "heavy"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +611,14 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Drawings of a Pokémon resembling Fearow can be seen in murals from deep in ancient history.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drawings",
+        "history",
+        "resembling",
+        "murals"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +626,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Carrying food through Fearow’s territory is dangerous. It will snatch the food away from you in a flash!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "snatch",
+        "flash",
+        "carrying",
+        "dangerous"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +643,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "In Alola, fish Pokémon are its prey. It can be seen circling above the ocean searching for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "circling",
+        "searching",
+        "fish",
+        "alola",
+        "above",
+        "ocean"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +663,12 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dates",
+        "instantly"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +676,12 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dates",
+        "instantly"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/291.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sonic",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "darts",
+    "induces",
+    "refuse",
+    "distinctive",
+    "lasting",
+    "test",
+    "trained",
+    "congregates",
+    "unseeable",
+    "properly",
+    "quality",
+    "obey",
+    "continuously",
+    "headache",
+    "clearly",
+    "vigorously",
+    "sap",
+    "hearing",
+    "loudly",
+    "abilities",
+    "feed",
+    "heard",
+    "crying",
+    "puts",
+    "believed",
+    "difficult",
+    "invisible",
+    "quick",
+    "able",
+    "cannot",
+    "almost",
+    "cry",
+    "avoid",
+    "reason",
+    "quickly"
+  ],
   "color": "yellow",
   "shape": "bug-wings",
   "habitat": "forest",
@@ -39,7 +80,17 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "NINJASK moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this POKéMON was long believed to be invisible.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "clearly",
+        "heard",
+        "crying",
+        "believed",
+        "invisible",
+        "cannot",
+        "reason"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +98,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If NINJASK is not trained properly, it will refuse to obey the TRAINER and cry loudly continuously. Because of this quality, this POKéMON is said to be one that puts the TRAINER’s abilities to the test.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "refuse",
+        "test",
+        "trained",
+        "properly",
+        "quality",
+        "obey",
+        "continuously",
+        "loudly",
+        "abilities",
+        "puts",
+        "cry"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +120,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "darts",
+        "induces",
+        "distinctive",
+        "headache",
+        "vigorously",
+        "hearing",
+        "difficult"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +140,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "sap",
+        "feed",
+        "quick",
+        "able",
+        "avoid"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +158,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "sap",
+        "feed",
+        "quick",
+        "able",
+        "avoid"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +176,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "congregates",
+        "unseeable",
+        "sap",
+        "quickly"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +193,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "congregates",
+        "unseeable",
+        "sap",
+        "quickly"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +210,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "congregates",
+        "unseeable",
+        "sap",
+        "quickly"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +227,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lasting",
+        "headache",
+        "heard",
+        "invisible",
+        "almost",
+        "cry",
+        "quickly"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +245,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lasting",
+        "headache",
+        "heard",
+        "invisible",
+        "almost",
+        "cry",
+        "quickly"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +263,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "congregates",
+        "unseeable",
+        "sap",
+        "quickly"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +280,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "congregates",
+        "unseeable",
+        "sap",
+        "quickly"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +297,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "congregates",
+        "unseeable",
+        "sap",
+        "quickly"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +314,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "congregates",
+        "unseeable",
+        "sap",
+        "quickly"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +331,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lasting",
+        "headache",
+        "heard",
+        "invisible",
+        "almost",
+        "cry",
+        "quickly"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +349,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "congregates",
+        "unseeable",
+        "sap",
+        "quickly"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +366,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "clearly",
+        "heard",
+        "crying",
+        "believed",
+        "invisible",
+        "cannot",
+        "reason"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +384,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer’s abilities to the test.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "refuse",
+        "test",
+        "trained",
+        "properly",
+        "quality",
+        "obey",
+        "continuously",
+        "loudly",
+        "abilities",
+        "puts",
+        "cry"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +406,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lasting",
+        "headache",
+        "heard",
+        "invisible",
+        "almost",
+        "cry",
+        "quickly"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +424,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "sap",
+        "feed",
+        "quick",
+        "able",
+        "avoid"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,54 @@
   ],
   "imagePath": "/assets/pokemon/175.png",
   "entryCount": 24,
+  "entryTraits": [
+    "shell",
+    "sleeping",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "encountered",
+    "guileless",
+    "ovate",
+    "exuded",
+    "proverb",
+    "frequently",
+    "stuffed",
+    "treated",
+    "pleasure",
+    "compassion",
+    "kindness",
+    "kindly",
+    "transforms",
+    "luck",
+    "smile",
+    "soothes",
+    "soul",
+    "kindhearted",
+    "symbol",
+    "claims",
+    "mistaken",
+    "positive",
+    "creature",
+    "considered",
+    "happy",
+    "joy",
+    "share",
+    "egg",
+    "shares",
+    "sleeping",
+    "stand",
+    "fields",
+    "filled",
+    "seems",
+    "feelings",
+    "happiness",
+    "emotions",
+    "anyone",
+    "good",
+    "moving",
+    "stores"
+  ],
   "color": "white",
   "shape": "humanoid",
   "habitat": "forest",
@@ -38,7 +86,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "treated",
+        "kindly",
+        "luck",
+        "joy",
+        "share",
+        "filled",
+        "seems",
+        "good"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +107,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "A proverb claims that happiness will come to any­ one who can make a sleeping TOGEPI stand up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "proverb",
+        "claims",
+        "sleeping",
+        "stand",
+        "happiness"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +125,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "luck",
+        "symbol",
+        "considered",
+        "filled",
+        "happiness",
+        "good"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +144,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and POKéMON. This POKéMON stores up feelings of happiness inside its shell, then shares them with others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "exuded",
+        "pleasure",
+        "compassion",
+        "positive",
+        "shares",
+        "feelings",
+        "happiness",
+        "emotions",
+        "stores"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +166,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and POKéMON. This POKéMON stores up feelings of happiness inside its shell, then shares them with others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "exuded",
+        "pleasure",
+        "compassion",
+        "positive",
+        "shares",
+        "feelings",
+        "happiness",
+        "emotions",
+        "stores"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +188,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "As its energy, it uses the feelings of compassion and pleasure exuded by people and POKéMON. It stores up happy feelings in its shell, then shares them out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "exuded",
+        "pleasure",
+        "compassion",
+        "happy",
+        "shares",
+        "feelings",
+        "stores"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +208,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "proverb",
+        "claims",
+        "sleeping",
+        "stand",
+        "happiness",
+        "anyone"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +227,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "treated",
+        "kindly",
+        "luck",
+        "joy",
+        "share",
+        "filled",
+        "seems",
+        "good"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +248,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "stuffed",
+        "kindhearted",
+        "shares",
+        "happiness"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +265,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "stuffed",
+        "kindhearted",
+        "shares",
+        "happiness"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +282,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "kindness",
+        "transforms",
+        "joy",
+        "happiness",
+        "stores"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +300,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "treated",
+        "kindly",
+        "luck",
+        "joy",
+        "share",
+        "filled",
+        "seems",
+        "good"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +321,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "proverb",
+        "claims",
+        "sleeping",
+        "stand",
+        "happiness",
+        "anyone"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +340,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "kindness",
+        "transforms",
+        "joy",
+        "happiness",
+        "stores"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +358,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "kindness",
+        "transforms",
+        "joy",
+        "happiness",
+        "stores"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +376,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "kindness",
+        "transforms",
+        "joy",
+        "happiness",
+        "stores"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +394,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "kindness",
+        "transforms",
+        "joy",
+        "happiness",
+        "stores"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +412,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "treated",
+        "kindly",
+        "luck",
+        "joy",
+        "share",
+        "filled",
+        "seems",
+        "good"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +433,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "proverb",
+        "claims",
+        "sleeping",
+        "stand",
+        "happiness",
+        "anyone"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +452,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "exuded",
+        "pleasure",
+        "compassion",
+        "positive",
+        "shares",
+        "feelings",
+        "happiness",
+        "emotions",
+        "stores"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +474,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "exuded",
+        "pleasure",
+        "compassion",
+        "positive",
+        "shares",
+        "feelings",
+        "happiness",
+        "emotions",
+        "stores"
+      ]
     },
     {
       "versionId": 33,
@@ -206,7 +496,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "treated",
+        "kindly",
+        "luck",
+        "joy",
+        "share",
+        "filled",
+        "seems",
+        "good"
+      ]
     },
     {
       "versionId": 34,
@@ -214,7 +517,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "luck",
+        "symbol",
+        "considered",
+        "filled",
+        "happiness",
+        "good"
+      ]
     },
     {
       "versionId": 39,
@@ -222,7 +536,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "encountered",
+        "guileless",
+        "ovate",
+        "frequently",
+        "smile",
+        "soothes",
+        "soul",
+        "mistaken",
+        "creature",
+        "egg",
+        "fields",
+        "moving"
+      ]
     }
   ],
   "similarPokemonIds": [

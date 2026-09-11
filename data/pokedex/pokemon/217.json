@@ -9,6 +9,65 @@
   ],
   "imagePath": "/assets/pokemon/217.png",
   "entryCount": 22,
+  "entryTraits": [
+    "forest-dwelling",
+    "cave-dwelling",
+    "sleeping",
+    "territorial",
+    "cold-climate",
+    "mountain-dwelling",
+    "icy"
+  ],
+  "entryKeywords": [
+    "ingly",
+    "unfail",
+    "climber",
+    "stout",
+    "alike",
+    "climbing",
+    "bear",
+    "unfailingly",
+    "collecting",
+    "hunger",
+    "towering",
+    "distinguish",
+    "hisui",
+    "treetops",
+    "streams",
+    "fruits",
+    "scratches",
+    "inhabited",
+    "ferocious",
+    "gathering",
+    "arrives",
+    "wander",
+    "buried",
+    "season",
+    "gathers",
+    "forelegs",
+    "quite",
+    "fallen",
+    "snap",
+    "skilled",
+    "smell",
+    "delicious",
+    "favorite",
+    "fields",
+    "walks",
+    "finds",
+    "forest",
+    "forests",
+    "prefers",
+    "aroma",
+    "sleeps",
+    "berries",
+    "underground",
+    "search",
+    "good",
+    "although",
+    "gather",
+    "eat"
+  ],
   "color": "brown",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +97,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen BERRIES.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "climber",
+        "forelegs",
+        "fallen",
+        "snap",
+        "prefers",
+        "berries",
+        "good",
+        "although",
+        "eat"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +119,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "With its ability to distinguish any aroma, it unfail­ ingly finds all food buried deep underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "ingly",
+        "unfail",
+        "distinguish",
+        "buried",
+        "finds",
+        "aroma",
+        "underground"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +139,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "climbing",
+        "treetops",
+        "quite",
+        "skilled",
+        "sleeps",
+        "although"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +159,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This POKéMON walks through its forest gathering food every day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "towering",
+        "streams",
+        "inhabited",
+        "gathering",
+        "walks",
+        "forest",
+        "forests",
+        "gather"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +180,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This POKéMON walks through its forest gathering food every day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "towering",
+        "streams",
+        "inhabited",
+        "gathering",
+        "walks",
+        "forest",
+        "forests",
+        "gather"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +201,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "In forests, it is said that there are many streams and towering trees where an URSARING gathers food. It walks through its forest collecting food every day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "collecting",
+        "towering",
+        "streams",
+        "gathers",
+        "walks",
+        "forest",
+        "forests"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +221,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "With its ability to distinguish any smell, it unfailingly finds all food buried deep underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "unfailingly",
+        "distinguish",
+        "buried",
+        "smell",
+        "finds",
+        "underground"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +240,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Although it is a good climber, it prefers to snap stout trees with its forelegs and eat fallen BERRIES.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "climber",
+        "stout",
+        "forelegs",
+        "fallen",
+        "snap",
+        "prefers",
+        "berries",
+        "good",
+        "although",
+        "eat"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +263,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bear",
+        "fruits",
+        "scratches",
+        "delicious",
+        "berries"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +282,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bear",
+        "fruits",
+        "scratches",
+        "delicious",
+        "berries"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +301,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bear",
+        "fruits",
+        "scratches",
+        "delicious",
+        "berries"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +320,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen berries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "climber",
+        "forelegs",
+        "fallen",
+        "snap",
+        "prefers",
+        "berries",
+        "good",
+        "although",
+        "eat"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +342,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "unfailingly",
+        "distinguish",
+        "buried",
+        "finds",
+        "aroma",
+        "underground"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +361,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bear",
+        "fruits",
+        "scratches",
+        "delicious",
+        "berries"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +380,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bear",
+        "fruits",
+        "scratches",
+        "delicious",
+        "berries"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +399,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bear",
+        "fruits",
+        "scratches",
+        "delicious",
+        "berries"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +418,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "territorial"
+      ],
+      "keywords": [
+        "bear",
+        "fruits",
+        "scratches",
+        "delicious",
+        "berries"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +437,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "unfailingly",
+        "distinguish",
+        "buried",
+        "finds",
+        "aroma",
+        "underground"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +456,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "climbing",
+        "treetops",
+        "quite",
+        "skilled",
+        "sleeps",
+        "although"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +476,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "towering",
+        "streams",
+        "inhabited",
+        "gathering",
+        "walks",
+        "forest",
+        "forests",
+        "gather"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +497,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "towering",
+        "streams",
+        "inhabited",
+        "gathering",
+        "walks",
+        "forest",
+        "forests",
+        "gather"
+      ]
     },
     {
       "versionId": 39,
@@ -206,7 +518,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "When the cold season arrives in Hisui, this Pokémon will wander fields and mountains alike in search of its favorite berries. Ursaring's hunger during this time makes it a ferocious danger.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "mountain-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "alike",
+        "hunger",
+        "hisui",
+        "ferocious",
+        "arrives",
+        "wander",
+        "season",
+        "favorite",
+        "fields",
+        "berries",
+        "search"
+      ]
     }
   ],
   "similarPokemonIds": [

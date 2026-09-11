@@ -10,6 +10,98 @@
   ],
   "imagePath": "/assets/pokemon/461.png",
   "entryCount": 20,
+  "entryTraits": [
+    "cold-climate",
+    "hunting",
+    "icy",
+    "forest-dwelling",
+    "claws"
+  ],
+  "entryKeywords": [
+    "divide",
+    "frost",
+    "frostbite",
+    "guidance",
+    "scrapping",
+    "displays",
+    "speculate",
+    "case",
+    "coordination",
+    "devious",
+    "distinct",
+    "dwell",
+    "surround",
+    "carving",
+    "flip",
+    "carves",
+    "me",
+    "signal",
+    "deal",
+    "quarry",
+    "trip",
+    "vulpix",
+    "leading",
+    "mamoswine",
+    "forming",
+    "sandshrew",
+    "coordinated",
+    "clawing",
+    "cunning",
+    "increased",
+    "carefully",
+    "corners",
+    "further",
+    "development",
+    "main",
+    "500",
+    "teamwork",
+    "finishing",
+    "impressive",
+    "signs",
+    "caused",
+    "number",
+    "leaving",
+    "scratch",
+    "travel",
+    "thanks",
+    "snowy",
+    "five",
+    "packs",
+    "sends",
+    "communicates",
+    "thing",
+    "leader",
+    "hunt",
+    "signals",
+    "alola",
+    "source",
+    "intelligence",
+    "regions",
+    "work",
+    "species",
+    "blow",
+    "bring",
+    "pack",
+    "communicate",
+    "past",
+    "find",
+    "odd",
+    "fall",
+    "friends",
+    "groups",
+    "group",
+    "behind",
+    "four",
+    "among",
+    "boulders",
+    "patterns",
+    "brain",
+    "another",
+    "places",
+    "evolution",
+    "rocks",
+    "covered"
+  ],
   "color": "black",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +131,22 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "coordination",
+        "forming",
+        "impressive",
+        "five",
+        "hunt",
+        "regions",
+        "groups",
+        "four"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +154,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It sends signals to others by carving odd patterns in frost- covered trees and ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "forest-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "frost",
+        "carving",
+        "sends",
+        "signals",
+        "odd",
+        "patterns",
+        "covered"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +176,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "devious",
+        "clawing",
+        "signs",
+        "communicates",
+        "boulders",
+        "evolution"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +193,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "carves",
+        "signal",
+        "snowy",
+        "regions",
+        "patterns"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +212,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "carves",
+        "signal",
+        "snowy",
+        "regions",
+        "patterns"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +231,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "devious",
+        "clawing",
+        "signs",
+        "communicates",
+        "boulders",
+        "evolution"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +248,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "devious",
+        "clawing",
+        "signs",
+        "communicates",
+        "boulders",
+        "evolution"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +265,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "They communicate by clawing signs in boulders and work together to surround enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "surround",
+        "clawing",
+        "signs",
+        "work",
+        "communicate",
+        "boulders"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +282,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "They communicate by clawing signs in boulders and work together to surround enemies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "surround",
+        "clawing",
+        "signs",
+        "work",
+        "communicate",
+        "boulders"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +299,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "carves",
+        "signal",
+        "snowy",
+        "regions",
+        "patterns"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +318,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "coordination",
+        "forming",
+        "impressive",
+        "five",
+        "hunt",
+        "regions",
+        "groups",
+        "four"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +341,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "carves",
+        "signal",
+        "snowy",
+        "regions",
+        "patterns"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +360,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "hunting",
+        "icy"
+      ],
+      "keywords": [
+        "coordination",
+        "forming",
+        "impressive",
+        "five",
+        "hunt",
+        "regions",
+        "groups",
+        "four"
+      ]
     },
     {
       "versionId": 27,
@@ -143,7 +383,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "coordinated",
+        "signs",
+        "leaving",
+        "travel",
+        "five",
+        "bring",
+        "groups",
+        "four",
+        "another",
+        "rocks"
+      ]
     },
     {
       "versionId": 28,
@@ -151,7 +407,24 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "They dwell in cold places. This Pokémon’s main food source in Alola is Vulpix and Sandshrew, which they carefully divide among their group.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "divide",
+        "dwell",
+        "vulpix",
+        "sandshrew",
+        "carefully",
+        "main",
+        "alola",
+        "source",
+        "group",
+        "among",
+        "places"
+      ]
     },
     {
       "versionId": 29,
@@ -159,7 +432,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "One Weavile will trip a Sandshrew and flip it over, and then another Weavile will deal the finishing blow with its sharp claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "flip",
+        "deal",
+        "trip",
+        "sandshrew",
+        "finishing",
+        "blow",
+        "another"
+      ]
     },
     {
       "versionId": 30,
@@ -167,7 +452,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "frostbite",
+        "scrapping",
+        "case",
+        "increased",
+        "scratch",
+        "thanks",
+        "thing",
+        "intelligence",
+        "past"
+      ]
     },
     {
       "versionId": 33,
@@ -175,7 +474,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "They attack their quarry in packs. Prey as large as Mamoswine easily fall to the teamwork of a group of Weavile.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "quarry",
+        "mamoswine",
+        "teamwork",
+        "packs",
+        "fall",
+        "group"
+      ]
     },
     {
       "versionId": 34,
@@ -183,7 +493,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "distinct",
+        "500",
+        "signs",
+        "number",
+        "find",
+        "friends",
+        "behind"
+      ]
     },
     {
       "versionId": 39,
@@ -191,7 +513,28 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "guidance",
+        "displays",
+        "speculate",
+        "me",
+        "leading",
+        "cunning",
+        "increased",
+        "corners",
+        "further",
+        "development",
+        "caused",
+        "leader",
+        "species",
+        "pack",
+        "brain",
+        "evolution"
+      ]
     }
   ],
   "similarPokemonIds": [

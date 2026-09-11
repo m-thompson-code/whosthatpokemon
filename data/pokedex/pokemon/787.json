@@ -10,6 +10,46 @@
   ],
   "imagePath": "/assets/pokemon/787.png",
   "entryCount": 4,
+  "entryTraits": [
+    "forest-dwelling",
+    "horns",
+    "tail",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "unneeded",
+    "ula",
+    "conflicts",
+    "vegetation",
+    "deals",
+    "lazy",
+    "avoiding",
+    "growth",
+    "pulls",
+    "know",
+    "ringing",
+    "commands",
+    "immobilize",
+    "deity",
+    "guardian",
+    "savage",
+    "swings",
+    "crush",
+    "sees",
+    "roots",
+    "let",
+    "blow",
+    "sounds",
+    "violent",
+    "absorbs",
+    "called",
+    "controls",
+    "causes",
+    "plants",
+    "anyone",
+    "although",
+    "horns"
+  ],
   "color": "red",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +79,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "vegetation",
+        "growth",
+        "pulls",
+        "swings",
+        "roots",
+        "absorbs",
+        "causes"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +99,23 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The guardian deity of Ula’ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "horns"
+      ],
+      "keywords": [
+        "ula",
+        "deals",
+        "lazy",
+        "commands",
+        "immobilize",
+        "deity",
+        "guardian",
+        "savage",
+        "blow",
+        "plants",
+        "horns"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +123,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s called a guardian deity, it’s violent enough to crush anyone it sees as an enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "deity",
+        "guardian",
+        "crush",
+        "sees",
+        "violent",
+        "called",
+        "anyone",
+        "although"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +142,25 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "sonic"
+      ],
+      "keywords": [
+        "unneeded",
+        "ula",
+        "conflicts",
+        "avoiding",
+        "know",
+        "ringing",
+        "deity",
+        "guardian",
+        "let",
+        "sounds",
+        "controls",
+        "plants"
+      ]
     }
   ],
   "similarPokemonIds": [

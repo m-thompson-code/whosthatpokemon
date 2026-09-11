@@ -30,7 +30,7 @@ export const generateFreeModeRound = async (
     const answer = await getPokemonRecord(summary.id);
 
     if (answer?.entries.some((entry) =>
-      !entry.revealsName && (!selectedGames || selectedGames.has(entry.version)),
+      !selectedGames || selectedGames.has(entry.version),
     )) {
       return createFreeModeRound(
         answer,

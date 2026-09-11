@@ -10,6 +10,26 @@
   ],
   "imagePath": "/assets/pokemon/845.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "arrokuda",
+    "midfight",
+    "preferred",
+    "forget",
+    "mistake",
+    "swallow",
+    "battling",
+    "hungry",
+    "hit",
+    "tries",
+    "knock",
+    "occasionally",
+    "swallows",
+    "single",
+    "whole"
+  ],
   "color": "blue",
   "shape": "wings",
   "habitat": null,
@@ -40,7 +60,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "midfight",
+        "forget",
+        "battling",
+        "hit",
+        "knock",
+        "single"
+      ]
     },
     {
       "versionId": 34,
@@ -48,7 +77,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "arrokuda",
+        "preferred",
+        "mistake",
+        "swallow",
+        "hungry",
+        "tries",
+        "occasionally",
+        "swallows",
+        "whole"
+      ]
     }
   ],
   "similarPokemonIds": [

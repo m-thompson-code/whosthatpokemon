@@ -10,6 +10,116 @@
   ],
   "imagePath": "/assets/pokemon/040.png",
   "entryCount": 32,
+  "entryTraits": [
+    "sky-dwelling",
+    "fur",
+    "sleeping",
+    "arms"
+  ],
+  "entryKeywords": [
+    "luxuriousness",
+    "luxurious",
+    "saucerlike",
+    "yarn",
+    "heavenly",
+    "luxury",
+    "particular",
+    "snuggle",
+    "sought",
+    "divine",
+    "elasticity",
+    "exquisitely",
+    "limit",
+    "surfaces",
+    "elastic",
+    "expands",
+    "image",
+    "inflated",
+    "slam",
+    "balloon",
+    "curl",
+    "ultimate",
+    "spun",
+    "supple",
+    "lightly",
+    "accidentally",
+    "compete",
+    "sublime",
+    "seemingly",
+    "texture",
+    "expand",
+    "holding",
+    "continue",
+    "delicate",
+    "gathered",
+    "conveys",
+    "suck",
+    "alongside",
+    "mood",
+    "rubbery",
+    "simply",
+    "washed",
+    "gradually",
+    "inhales",
+    "inflate",
+    "bouncy",
+    "dense",
+    "flexible",
+    "inhaling",
+    "perfectly",
+    "inflates",
+    "separated",
+    "want",
+    "proud",
+    "rich",
+    "pleasant",
+    "20",
+    "deeply",
+    "thanks",
+    "intimidate",
+    "steadily",
+    "layer",
+    "tears",
+    "bad",
+    "angered",
+    "bounces",
+    "might",
+    "hit",
+    "forehead",
+    "touching",
+    "seasons",
+    "covers",
+    "enormous",
+    "sheds",
+    "dust",
+    "fluffy",
+    "fine",
+    "sleeping",
+    "great",
+    "soft",
+    "care",
+    "angry",
+    "size",
+    "hands",
+    "change",
+    "feels",
+    "cannot",
+    "end",
+    "touch",
+    "larger",
+    "thin",
+    "catch",
+    "stop",
+    "anyone",
+    "along",
+    "won",
+    "full",
+    "good",
+    "quickly",
+    "takes",
+    "covered",
+    "extremely"
+  ],
   "color": "pink",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -39,7 +149,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "suck",
+        "rubbery",
+        "inflate",
+        "angered",
+        "enormous",
+        "soft",
+        "size"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +169,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "suck",
+        "rubbery",
+        "inflate",
+        "angered",
+        "enormous",
+        "soft",
+        "size"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +189,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "elasticity",
+        "limit",
+        "continue",
+        "inflate",
+        "inhaling",
+        "deeply",
+        "full"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +207,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "snuggle",
+        "separated",
+        "want",
+        "feels",
+        "won",
+        "good"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +226,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a BODY SLAM.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "slam",
+        "inflate",
+        "steadily",
+        "hit",
+        "fine",
+        "care",
+        "angry"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +246,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "rich",
+        "touching",
+        "covers",
+        "fluffy",
+        "feels",
+        "stop",
+        "anyone",
+        "good"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +267,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WIGGLYTUFF has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this POKéMON’s eyes, it is quickly washed away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "saucerlike",
+        "surfaces",
+        "washed",
+        "layer",
+        "tears",
+        "dust",
+        "thin",
+        "quickly",
+        "covered"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +287,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WIGGLYTUFF’s body is very flexible. By inhaling deeply, this POKéMON can inflate itself seemingly without end. Once inflated, WIGGLYTUFF bounces along lightly like a balloon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "inflated",
+        "balloon",
+        "lightly",
+        "seemingly",
+        "inflate",
+        "flexible",
+        "inhaling",
+        "deeply",
+        "bounces",
+        "end",
+        "along"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +309,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its fur is the ultimate in luxuriousness. Sleeping alongside a WIGGLYTUFF is simply divine. Its body expands seemingly without end when it inhales.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "sleeping"
+      ],
+      "keywords": [
+        "luxuriousness",
+        "divine",
+        "expands",
+        "ultimate",
+        "seemingly",
+        "alongside",
+        "simply",
+        "inhales",
+        "sleeping",
+        "end"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +333,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its fur is extremely fine, dense, and supple. The exquisitely pleasant fur conveys an image of luxury.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "luxury",
+        "exquisitely",
+        "image",
+        "supple",
+        "conveys",
+        "dense",
+        "pleasant",
+        "fine",
+        "extremely"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +355,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "suck",
+        "rubbery",
+        "inflate",
+        "angered",
+        "enormous",
+        "soft",
+        "size"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +375,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "expand",
+        "inhaling",
+        "fine",
+        "feels",
+        "touch"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +395,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "expand",
+        "inhaling",
+        "fine",
+        "feels",
+        "touch"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +415,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "expand",
+        "inhaling",
+        "fine",
+        "feels",
+        "touch"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +435,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Their fur feels so good that if two of them snuggle together, they won’t want to be separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "snuggle",
+        "separated",
+        "want",
+        "feels",
+        "won",
+        "good"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +454,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "slam",
+        "inflate",
+        "steadily",
+        "hit",
+        "fine",
+        "care",
+        "angry"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +474,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "expand",
+        "inhaling",
+        "fine",
+        "feels",
+        "touch"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +494,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fur"
+      ],
+      "keywords": [
+        "sublime",
+        "expand",
+        "inhaling",
+        "fine",
+        "feels",
+        "touch"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +514,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "fur"
+      ],
+      "keywords": [
+        "accidentally",
+        "pleasant",
+        "fine",
+        "hands",
+        "feels",
+        "cannot",
+        "touch"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +535,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "fur"
+      ],
+      "keywords": [
+        "accidentally",
+        "pleasant",
+        "fine",
+        "hands",
+        "feels",
+        "cannot",
+        "touch"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +556,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Their fur feels so good that if two of them snuggle together, they won’t want to be separated.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "snuggle",
+        "separated",
+        "want",
+        "feels",
+        "won",
+        "good"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +575,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "suck",
+        "rubbery",
+        "inflate",
+        "angered",
+        "enormous",
+        "soft",
+        "size"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +595,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon’s eyes, it is quickly washed away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "saucerlike",
+        "surfaces",
+        "washed",
+        "layer",
+        "tears",
+        "dust",
+        "thin",
+        "quickly",
+        "covered"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +615,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wigglytuff’s body is very flexible. By inhaling deeply, this Pokémon can inflate itself seemingly without end. Once inflated, Wigglytuff bounces along lightly like a balloon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "inflated",
+        "balloon",
+        "lightly",
+        "seemingly",
+        "inflate",
+        "flexible",
+        "inhaling",
+        "deeply",
+        "bounces",
+        "end",
+        "along"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +637,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It sheds its fine fur when the seasons change. The fur is gathered and spun into a luxurious yarn.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "luxurious",
+        "yarn",
+        "spun",
+        "gathered",
+        "seasons",
+        "sheds",
+        "fine",
+        "change"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +658,14 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "As it inhales, it expands...and expands...and expands. Wigglytuff compete to see which one can inflate itself the most.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "expands",
+        "compete",
+        "inhales",
+        "inflate"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +673,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Thanks to its bouncy body and fine fur, this Pokémon is sought after. Holding one in your arms while you sleep feels great.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "fur",
+        "sleeping"
+      ],
+      "keywords": [
+        "sought",
+        "holding",
+        "bouncy",
+        "thanks",
+        "fine",
+        "great",
+        "feels"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +695,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When it gets angry, it inhales with all its might, and its body gradually inflates. Sometimes they can grow 20 times larger!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gradually",
+        "inhales",
+        "inflates",
+        "20",
+        "might",
+        "angry",
+        "larger"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +713,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its body is very elastic. By inhaling deeply, it can continue to inflate itself without limit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "limit",
+        "elastic",
+        "continue",
+        "inflate",
+        "inhaling",
+        "deeply"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +730,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Its body is very elastic. By inhaling deeply, it can continue to inflate itself without limit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "limit",
+        "elastic",
+        "continue",
+        "inflate",
+        "inhaling",
+        "deeply"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +747,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "mood",
+        "inflate",
+        "inflates",
+        "intimidate",
+        "bad",
+        "enormous",
+        "size",
+        "catch",
+        "takes"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +769,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It’s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that’s perfectly heavenly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "heavenly",
+        "particular",
+        "curl",
+        "texture",
+        "delicate",
+        "perfectly",
+        "proud",
+        "forehead",
+        "fine"
+      ]
     }
   ],
   "similarPokemonIds": [

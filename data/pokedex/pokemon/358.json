@@ -9,6 +9,71 @@
   ],
   "imagePath": "/assets/pokemon/358.png",
   "entryCount": 19,
+  "entryTraits": [
+    "aquatic",
+    "sonic",
+    "forest-dwelling",
+    "tail",
+    "fiery",
+    "sky-dwelling",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "hypothesize",
+    "shudder",
+    "taller",
+    "tones",
+    "cup",
+    "plucks",
+    "repelling",
+    "hang",
+    "amplifies",
+    "distinguishing",
+    "nuts",
+    "sucker",
+    "startling",
+    "converses",
+    "notes",
+    "pluck",
+    "actively",
+    "echo",
+    "emit",
+    "distances",
+    "riding",
+    "emerge",
+    "emitting",
+    "eaves",
+    "building",
+    "produce",
+    "suction",
+    "arrives",
+    "travel",
+    "faint",
+    "cleverly",
+    "travels",
+    "i",
+    "hangs",
+    "season",
+    "hollow",
+    "knock",
+    "enraged",
+    "floats",
+    "seven",
+    "themselves",
+    "communicate",
+    "great",
+    "branch",
+    "winds",
+    "wind",
+    "ultrasonic",
+    "beautiful",
+    "within",
+    "among",
+    "different",
+    "berries",
+    "hot",
+    "eat"
+  ],
   "color": "blue",
   "shape": "arms",
   "habitat": "grassland",
@@ -38,7 +103,18 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CHIMECHO makes its cries echo inside its hollow body. When this POKéMON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "echo",
+        "hollow",
+        "knock",
+        "enraged",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +122,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "In high winds, CHIMECHO cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This POKéMON plucks berries with its long tail and eats them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "tail",
+        "sonic"
+      ],
+      "keywords": [
+        "cup",
+        "plucks",
+        "eaves",
+        "building",
+        "suction",
+        "hangs",
+        "branch",
+        "winds",
+        "berries"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +146,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery",
+        "sonic"
+      ],
+      "keywords": [
+        "distinguishing",
+        "actively",
+        "arrives",
+        "season",
+        "seven",
+        "themselves",
+        "communicate",
+        "among",
+        "different",
+        "hot"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +170,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It travels by riding on winds. It cleverly uses its long tail to pluck nuts and berries, which it loves to eat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "nuts",
+        "pluck",
+        "riding",
+        "cleverly",
+        "travels",
+        "winds",
+        "berries",
+        "eat"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +191,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It travels by riding on winds. It cleverly uses its long tail to pluck nuts and berries, which it loves to eat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "nuts",
+        "pluck",
+        "riding",
+        "cleverly",
+        "travels",
+        "winds",
+        "berries",
+        "eat"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +212,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "To knock foes flying, it makes the air shudder with its cries. It converses using seven cries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "shudder",
+        "converses",
+        "knock",
+        "seven"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +230,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Emitting ultrasonic cries, it floats on winds to travel great distances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "distances",
+        "emitting",
+        "travel",
+        "floats",
+        "great",
+        "winds",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +250,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "repelling",
+        "startling",
+        "notes",
+        "echo",
+        "emerge",
+        "hollow",
+        "beautiful"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +270,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "tones",
+        "hang",
+        "sucker",
+        "eaves",
+        "produce",
+        "seven",
+        "different"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +290,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "tones",
+        "hang",
+        "sucker",
+        "eaves",
+        "produce",
+        "seven",
+        "different"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +310,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "repelling",
+        "startling",
+        "notes",
+        "echo",
+        "emerge",
+        "hollow",
+        "beautiful"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +330,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "repelling",
+        "startling",
+        "notes",
+        "echo",
+        "emerge",
+        "hollow",
+        "beautiful"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +350,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "repelling",
+        "startling",
+        "notes",
+        "echo",
+        "emerge",
+        "hollow",
+        "beautiful"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +370,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "repelling",
+        "startling",
+        "notes",
+        "echo",
+        "emerge",
+        "hollow",
+        "beautiful"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +390,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "tones",
+        "hang",
+        "sucker",
+        "eaves",
+        "produce",
+        "seven",
+        "different"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +410,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Emitting ultrasonic cries, it floats on winds to travel great distances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "distances",
+        "emitting",
+        "travel",
+        "floats",
+        "great",
+        "winds",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +430,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sonic"
+      ],
+      "keywords": [
+        "echo",
+        "hollow",
+        "knock",
+        "enraged",
+        "ultrasonic"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +449,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "tail",
+        "sonic"
+      ],
+      "keywords": [
+        "cup",
+        "plucks",
+        "eaves",
+        "building",
+        "suction",
+        "hangs",
+        "branch",
+        "winds",
+        "berries"
+      ]
     },
     {
       "versionId": 39,
@@ -182,7 +473,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Can emit waves of air powerful enough to knock out prey taller than itself. I hypothesize that it amplifies the faint sound of wind within its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "hunting",
+        "sonic"
+      ],
+      "keywords": [
+        "hypothesize",
+        "taller",
+        "amplifies",
+        "emit",
+        "faint",
+        "i",
+        "knock",
+        "wind",
+        "within"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,41 @@
   ],
   "imagePath": "/assets/pokemon/608.png",
   "entryCount": 10,
+  "entryTraits": [
+    "fiery"
+  ],
+  "entryKeywords": [
+    "emissary",
+    "lamp",
+    "trail",
+    "baleful",
+    "hospitals",
+    "ominous",
+    "pass",
+    "pretending",
+    "passes",
+    "fuel",
+    "searching",
+    "lurks",
+    "death",
+    "whose",
+    "arrives",
+    "cities",
+    "waiting",
+    "steals",
+    "wanders",
+    "moment",
+    "hangs",
+    "fallen",
+    "feared",
+    "quietly",
+    "someone",
+    "spirits",
+    "finds",
+    "absorbs",
+    "near",
+    "spirit"
+  ],
   "color": "black",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +74,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ominous",
+        "searching",
+        "cities",
+        "wanders",
+        "fallen",
+        "feared",
+        "spirits"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +92,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It arrives near the moment of death and steals spirit from the body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "death",
+        "arrives",
+        "steals",
+        "moment",
+        "near",
+        "spirit"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +109,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "baleful",
+        "hospitals",
+        "pass",
+        "fuel",
+        "waiting",
+        "hangs",
+        "spirits",
+        "absorbs"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +130,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "baleful",
+        "hospitals",
+        "pass",
+        "fuel",
+        "waiting",
+        "hangs",
+        "spirits",
+        "absorbs"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +151,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "baleful",
+        "hospitals",
+        "pass",
+        "fuel",
+        "waiting",
+        "hangs",
+        "spirits",
+        "absorbs"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +172,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It arrives near the moment of death and steals spirit from the body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "death",
+        "arrives",
+        "steals",
+        "moment",
+        "near",
+        "spirit"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +189,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "baleful",
+        "hospitals",
+        "pass",
+        "fuel",
+        "waiting",
+        "hangs",
+        "spirits",
+        "absorbs"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +210,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It arrives near the moment of death and steals spirit from the body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "death",
+        "arrives",
+        "steals",
+        "moment",
+        "near",
+        "spirit"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +227,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon appears just before someone passes away, so it’s feared as an emissary of death.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "emissary",
+        "passes",
+        "death",
+        "feared",
+        "someone"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +243,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lamp",
+        "trail",
+        "pretending",
+        "lurks",
+        "death",
+        "whose",
+        "cities",
+        "quietly",
+        "someone",
+        "finds",
+        "near"
+      ]
     }
   ],
   "similarPokemonIds": [

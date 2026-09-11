@@ -10,6 +10,24 @@
   ],
   "imagePath": "/assets/pokemon/1014.png",
   "entryCount": 2,
+  "entryTraits": [
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "temper",
+    "physique",
+    "stimulated",
+    "chain",
+    "ruffian",
+    "pulverize",
+    "gained",
+    "swinging",
+    "transformed",
+    "short",
+    "neck",
+    "toxic",
+    "muscles"
+  ],
   "color": "black",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +57,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "physique",
+        "stimulated",
+        "chain",
+        "gained",
+        "transformed",
+        "neck",
+        "toxic",
+        "muscles"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +78,17 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Okidogi is a ruffian with a short temper. It can pulverize anything by swinging around the chain on its neck.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "temper",
+        "chain",
+        "ruffian",
+        "pulverize",
+        "swinging",
+        "short",
+        "neck"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,36 @@
   ],
   "imagePath": "/assets/pokemon/607.png",
   "entryCount": 10,
+  "entryTraits": [
+    "luminous",
+    "fiery",
+    "arms"
+  ],
+  "entryKeywords": [
+    "eerier",
+    "leeches",
+    "younger",
+    "brighter",
+    "pretending",
+    "guide",
+    "fuel",
+    "follow",
+    "shining",
+    "shines",
+    "slightly",
+    "hand",
+    "children",
+    "absorbs",
+    "starts",
+    "lost",
+    "flame",
+    "keeps",
+    "force",
+    "burns",
+    "spirit",
+    "usually",
+    "takes"
+  ],
   "color": "white",
   "shape": "blob",
   "habitat": null,
@@ -39,7 +69,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "fuel",
+        "shines",
+        "absorbs",
+        "burns"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +86,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "leeches",
+        "pretending",
+        "guide",
+        "follow",
+        "shining",
+        "force"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +105,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shining",
+        "absorbs",
+        "starts",
+        "flame",
+        "force",
+        "usually"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +124,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "shining",
+        "absorbs",
+        "starts",
+        "flame",
+        "force",
+        "usually"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +143,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "leeches",
+        "pretending",
+        "guide",
+        "follow",
+        "shining",
+        "force"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +162,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "fuel",
+        "shines",
+        "absorbs",
+        "burns"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +179,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "leeches",
+        "pretending",
+        "guide",
+        "follow",
+        "shining",
+        "force"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +198,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "fuel",
+        "shines",
+        "absorbs",
+        "burns"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +215,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "fiery"
+      ],
+      "keywords": [
+        "guide",
+        "slightly",
+        "hand",
+        "children",
+        "lost",
+        "flame",
+        "keeps",
+        "spirit",
+        "takes"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +238,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "eerier",
+        "younger",
+        "brighter",
+        "absorbs",
+        "flame",
+        "burns"
+      ]
     }
   ],
   "similarPokemonIds": [

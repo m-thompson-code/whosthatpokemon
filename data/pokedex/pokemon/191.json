@@ -9,6 +9,56 @@
   ],
   "imagePath": "/assets/pokemon/191.png",
   "entryCount": 21,
+  "entryTraits": [
+    "sky-dwelling",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "knowing",
+    "plummet",
+    "dewdrops",
+    "possibly",
+    "subsisting",
+    "conserve",
+    "minimize",
+    "attacker",
+    "spearow",
+    "desperately",
+    "dew",
+    "population",
+    "else",
+    "summer",
+    "drinking",
+    "explodes",
+    "simply",
+    "defense",
+    "ing",
+    "shake",
+    "morning",
+    "drink",
+    "violently",
+    "drop",
+    "thing",
+    "means",
+    "tries",
+    "movement",
+    "suddenly",
+    "feeds",
+    "evolves",
+    "year",
+    "falls",
+    "nothing",
+    "try",
+    "little",
+    "stored",
+    "nutrients",
+    "weak",
+    "plants",
+    "attacked",
+    "evolution",
+    "eat"
+  ],
   "color": "yellow",
   "shape": "ball",
   "habitat": "grassland",
@@ -38,7 +88,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "spearow",
+        "shake",
+        "violently",
+        "drop",
+        "suddenly",
+        "attacked"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +107,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It lives by drink­ ing only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dewdrops",
+        "else",
+        "ing",
+        "drink",
+        "nothing",
+        "plants"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +124,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "attacker",
+        "desperately",
+        "defense",
+        "shake",
+        "means",
+        "weak"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +141,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "possibly",
+        "subsisting",
+        "conserve",
+        "dew",
+        "morning",
+        "thing",
+        "tries",
+        "little",
+        "stored",
+        "nutrients",
+        "evolution",
+        "eat"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +164,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "possibly",
+        "subsisting",
+        "conserve",
+        "dew",
+        "morning",
+        "thing",
+        "tries",
+        "little",
+        "stored",
+        "nutrients",
+        "evolution",
+        "eat"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +187,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "SUNKERN try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "subsisting",
+        "conserve",
+        "minimize",
+        "dew",
+        "morning",
+        "movement",
+        "try",
+        "stored",
+        "nutrients",
+        "evolution",
+        "eat"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +209,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dewdrops",
+        "else",
+        "drinking",
+        "nothing",
+        "plants"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +225,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "spearow",
+        "shake",
+        "violently",
+        "drop",
+        "suddenly",
+        "attacked"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +244,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "population",
+        "summer",
+        "explodes",
+        "morning",
+        "suddenly",
+        "year",
+        "falls"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +266,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "population",
+        "summer",
+        "explodes",
+        "morning",
+        "suddenly",
+        "year",
+        "falls"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +288,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "population",
+        "summer",
+        "explodes",
+        "morning",
+        "suddenly",
+        "year",
+        "falls"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +310,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It may plummet from the sky. If attacked by a SPEAROW, it will violently shake its leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "plummet",
+        "spearow",
+        "shake",
+        "violently",
+        "attacked"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +328,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dewdrops",
+        "else",
+        "drinking",
+        "nothing",
+        "plants"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +344,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "population",
+        "summer",
+        "explodes",
+        "morning",
+        "suddenly",
+        "year",
+        "falls"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +366,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "population",
+        "summer",
+        "explodes",
+        "morning",
+        "suddenly",
+        "year",
+        "falls"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +388,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It suddenly falls out of the sky in the morning. Knowing it’s weak, it simply feeds until it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "knowing",
+        "simply",
+        "morning",
+        "suddenly",
+        "feeds",
+        "evolves",
+        "falls",
+        "weak"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +409,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It suddenly falls out of the sky in the morning. Knowing it’s weak, it simply feeds until it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "knowing",
+        "simply",
+        "morning",
+        "suddenly",
+        "feeds",
+        "evolves",
+        "falls",
+        "weak"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +430,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It may plummet from the sky. If attacked by a Spearow, it will violently shake its leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "plummet",
+        "spearow",
+        "shake",
+        "violently",
+        "attacked"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +448,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dewdrops",
+        "else",
+        "drinking",
+        "nothing",
+        "plants"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +464,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "possibly",
+        "subsisting",
+        "conserve",
+        "dew",
+        "morning",
+        "thing",
+        "tries",
+        "little",
+        "stored",
+        "nutrients",
+        "evolution",
+        "eat"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +487,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "possibly",
+        "subsisting",
+        "conserve",
+        "dew",
+        "morning",
+        "thing",
+        "tries",
+        "little",
+        "stored",
+        "nutrients",
+        "evolution",
+        "eat"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,130 @@
   ],
   "imagePath": "/assets/pokemon/082.png",
   "entryCount": 33,
+  "entryTraits": [
+    "aquatic",
+    "sonic",
+    "sky-dwelling",
+    "electric"
+  ],
+  "entryKeywords": [
+    "6f",
+    "computers",
+    "disrupts",
+    "haywire",
+    "mag",
+    "netism",
+    "vexation",
+    "citizens",
+    "earaches",
+    "electronics",
+    "equipment",
+    "instruments",
+    "magnemites",
+    "mechanical",
+    "perature",
+    "sirens",
+    "tem",
+    "vicinities",
+    "dot",
+    "displaying",
+    "ful",
+    "malfunction",
+    "outbreaks",
+    "resulting",
+    "tv",
+    "united",
+    "frequently",
+    "occur",
+    "sunspots",
+    "my",
+    "devices",
+    "happen",
+    "putting",
+    "link",
+    "precision",
+    "flare",
+    "radius",
+    "scale",
+    "study",
+    "electromagnetic",
+    "mysteriously",
+    "vicinity",
+    "voltage",
+    "lots",
+    "properly",
+    "delicate",
+    "destroys",
+    "gathered",
+    "towns",
+    "warn",
+    "6",
+    "dries",
+    "fatal",
+    "radio",
+    "inhabited",
+    "raise",
+    "temperatures",
+    "linked",
+    "magnemite",
+    "cities",
+    "cluster",
+    "wait",
+    "dry",
+    "sends",
+    "surrounding",
+    "magnetism",
+    "several",
+    "part",
+    "signals",
+    "300",
+    "set",
+    "approaches",
+    "sets",
+    "source",
+    "research",
+    "foot",
+    "send",
+    "storm",
+    "strange",
+    "3",
+    "electrical",
+    "intelligent",
+    "discharges",
+    "brains",
+    "formed",
+    "generates",
+    "poke",
+    "moisture",
+    "clouds",
+    "raises",
+    "f",
+    "evolve",
+    "strike",
+    "do",
+    "magnetic",
+    "rain",
+    "areas",
+    "group",
+    "actually",
+    "reason",
+    "within",
+    "stronger",
+    "constantly",
+    "stop",
+    "mysterious",
+    "force",
+    "surroundings",
+    "fahrenheit",
+    "emits",
+    "places",
+    "lightning",
+    "gather",
+    "close",
+    "ball",
+    "sun",
+    "temperature"
+  ],
   "color": "gray",
   "shape": "heads",
   "habitat": "rough-terrain",
@@ -39,7 +163,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "magnemites",
+        "frequently",
+        "sunspots",
+        "flare",
+        "linked",
+        "several",
+        "formed"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +181,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "magnemites",
+        "frequently",
+        "sunspots",
+        "flare",
+        "linked",
+        "several",
+        "formed"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +199,21 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Generates strange radio signals. It raises the tem­ perature by 3.6F degrees within 3,300 feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "6f",
+        "perature",
+        "tem",
+        "radio",
+        "signals",
+        "300",
+        "strange",
+        "3",
+        "generates",
+        "raises",
+        "within"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +221,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Three MAGNEMITE are linked by a strong magnetic force. Earaches will occur if you get too close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "earaches",
+        "occur",
+        "linked",
+        "magnemite",
+        "magnetic",
+        "force",
+        "close"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +239,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The MAGNEMITE are united by a mag­ netism so power­ ful, it dries all moisture in its vicinities.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mag",
+        "netism",
+        "vicinities",
+        "ful",
+        "united",
+        "dries",
+        "magnemite",
+        "moisture"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +258,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When many MAGNETON gather together, the resulting magnetic storm disrupts radio waves.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "disrupts",
+        "resulting",
+        "radio",
+        "storm",
+        "magnetic",
+        "gather"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +277,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MAGNETON emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "citizens",
+        "mechanical",
+        "sirens",
+        "outbreaks",
+        "devices",
+        "scale",
+        "warn",
+        "fatal",
+        "cities",
+        "magnetic",
+        "force",
+        "emits"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +302,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MAGNETON emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this POKéMON inside a POKé BALL.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "electronics",
+        "instruments",
+        "precision",
+        "towns",
+        "warn",
+        "fatal",
+        "poke",
+        "magnetic",
+        "force",
+        "emits",
+        "ball"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +324,27 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is actually three MAGNEMITE linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "radius",
+        "6",
+        "radio",
+        "raise",
+        "temperatures",
+        "linked",
+        "magnemite",
+        "magnetism",
+        "300",
+        "foot",
+        "3",
+        "generates",
+        "f",
+        "actually",
+        "within"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +352,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A linked cluster formed of several MAGNEMITE. It discharges powerful magnetic waves at high voltage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "voltage",
+        "linked",
+        "magnemite",
+        "cluster",
+        "several",
+        "discharges",
+        "formed",
+        "magnetic"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +373,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Formed by several MAGNEMITE linked together. They frequently appear when sunspots flare up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "frequently",
+        "sunspots",
+        "flare",
+        "linked",
+        "magnemite",
+        "several",
+        "formed"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +391,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is actually three MAGNEMITE linked by magnetism. A group can set off a magnetic storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "linked",
+        "magnemite",
+        "magnetism",
+        "set",
+        "storm",
+        "magnetic",
+        "group",
+        "actually"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +410,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is actually three MAGNEMITE linked by magnetism. A group can set off a magnetic storm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "linked",
+        "magnemite",
+        "magnetism",
+        "set",
+        "storm",
+        "magnetic",
+        "group",
+        "actually"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +429,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dot",
+        "displaying",
+        "tv",
+        "sunspots",
+        "mysteriously",
+        "properly",
+        "sets",
+        "stop",
+        "sun"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +449,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Three MAGNEMITE are linked by a strong magnetic force. Earaches will occur if you get too close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "earaches",
+        "occur",
+        "linked",
+        "magnemite",
+        "magnetic",
+        "force",
+        "close"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +467,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The MAGNEMITE are united by a magnetism so powerful, it dries all moisture in its vicinity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "united",
+        "vicinity",
+        "dries",
+        "magnemite",
+        "magnetism",
+        "moisture"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +484,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dot",
+        "displaying",
+        "tv",
+        "sunspots",
+        "mysteriously",
+        "properly",
+        "sets",
+        "stop",
+        "sun"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +504,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dot",
+        "displaying",
+        "tv",
+        "sunspots",
+        "mysteriously",
+        "properly",
+        "sets",
+        "stop",
+        "sun"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +524,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "electromagnetic",
+        "linked",
+        "magnemite",
+        "dry",
+        "surrounding",
+        "moisture",
+        "stronger"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +544,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "electromagnetic",
+        "linked",
+        "magnemite",
+        "dry",
+        "surrounding",
+        "moisture",
+        "stronger"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +564,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "voltage",
+        "linked",
+        "magnemite",
+        "cluster",
+        "several",
+        "discharges",
+        "formed",
+        "magnetic"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +585,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "6",
+        "radio",
+        "signals",
+        "300",
+        "strange",
+        "3",
+        "generates",
+        "raises",
+        "within",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +607,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "citizens",
+        "mechanical",
+        "sirens",
+        "outbreaks",
+        "devices",
+        "scale",
+        "warn",
+        "fatal",
+        "cities",
+        "magnetic",
+        "force",
+        "emits"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +632,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "electronics",
+        "instruments",
+        "precision",
+        "towns",
+        "warn",
+        "fatal",
+        "poke",
+        "magnetic",
+        "force",
+        "emits",
+        "ball"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +654,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When three Magnemite link together, their brains also become one. They do not become three times more intelligent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "link",
+        "magnemite",
+        "intelligent",
+        "brains",
+        "do"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +670,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It has about three times the electrical power of Magnemite. For some reason, outbreaks of this Pokémon happen when lots of sunspots appear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "outbreaks",
+        "sunspots",
+        "happen",
+        "lots",
+        "magnemite",
+        "electrical",
+        "reason"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +688,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Delicate equipment can malfunction in areas inhabited by Magneton, which send out mysterious electrical signals.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "equipment",
+        "malfunction",
+        "delicate",
+        "inhabited",
+        "signals",
+        "send",
+        "electrical",
+        "areas",
+        "mysterious"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +708,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When rain clouds form, many Magneton gather in high places to wait for lightning to strike.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "wait",
+        "clouds",
+        "strike",
+        "rain",
+        "places",
+        "lightning",
+        "gather"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +729,21 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "6",
+        "radio",
+        "signals",
+        "300",
+        "strange",
+        "3",
+        "generates",
+        "raises",
+        "within",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +751,21 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "6",
+        "radio",
+        "signals",
+        "300",
+        "strange",
+        "3",
+        "generates",
+        "raises",
+        "within",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +773,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "study",
+        "radio",
+        "linked",
+        "magnemite",
+        "sends",
+        "surroundings"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +792,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "computers",
+        "haywire",
+        "putting",
+        "approaches",
+        "magnetic",
+        "constantly",
+        "force"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +810,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "vexation",
+        "equipment",
+        "my",
+        "destroys",
+        "gathered",
+        "magnemite",
+        "magnetism",
+        "part",
+        "source",
+        "research",
+        "evolve"
+      ]
     }
   ],
   "similarPokemonIds": [

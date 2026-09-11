@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/589.png",
   "entryCount": 10,
+  "entryTraits": [
+    "shell",
+    "arms"
+  ],
+  "entryKeywords": [
+    "sirfetch",
+    "duels",
+    "painting",
+    "spears",
+    "clashing",
+    "stole",
+    "lances",
+    "image",
+    "captured",
+    "stolen",
+    "ready",
+    "wearing",
+    "bravely",
+    "d",
+    "defend",
+    "pointed",
+    "ve",
+    "shelmet",
+    "shells",
+    "famous",
+    "striking",
+    "galar",
+    "trouble",
+    "arm",
+    "covering",
+    "charges",
+    "themselves",
+    "armor",
+    "evolve",
+    "region",
+    "protects",
+    "re",
+    "popular",
+    "whole",
+    "face"
+  ],
   "color": "gray",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +80,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spears",
+        "bravely",
+        "pointed",
+        "striking",
+        "trouble",
+        "face"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +97,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "wearing",
+        "shelmet",
+        "covering",
+        "armor",
+        "evolve",
+        "protects",
+        "whole"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +117,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "stole",
+        "lances",
+        "wearing",
+        "defend",
+        "shelmet",
+        "covering",
+        "themselves"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +137,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "stole",
+        "lances",
+        "wearing",
+        "defend",
+        "shelmet",
+        "covering",
+        "themselves"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +157,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "stole",
+        "lances",
+        "wearing",
+        "defend",
+        "shelmet",
+        "covering",
+        "themselves"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +177,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "wearing",
+        "shelmet",
+        "covering",
+        "armor",
+        "evolve",
+        "protects",
+        "whole"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +197,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "stole",
+        "lances",
+        "wearing",
+        "defend",
+        "shelmet",
+        "covering",
+        "themselves"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +217,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "wearing",
+        "shelmet",
+        "covering",
+        "armor",
+        "evolve",
+        "protects",
+        "whole"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +237,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "They use shells they’ve stolen from Shelmet to arm and protect themselves. They’re very popular Pokémon in the Galar region.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "shell"
+      ],
+      "keywords": [
+        "stolen",
+        "ve",
+        "shelmet",
+        "shells",
+        "galar",
+        "arm",
+        "themselves",
+        "region",
+        "re",
+        "popular"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +261,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sirfetch",
+        "duels",
+        "painting",
+        "clashing",
+        "lances",
+        "image",
+        "captured",
+        "ready",
+        "d",
+        "famous",
+        "charges"
+      ]
     }
   ],
   "similarPokemonIds": [

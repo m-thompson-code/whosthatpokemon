@@ -10,6 +10,56 @@
   ],
   "imagePath": "/assets/pokemon/625.png",
   "entryCount": 12,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "ensuring",
+    "minions",
+    "retinue",
+    "retire",
+    "sharpening",
+    "accompanied",
+    "chipped",
+    "conflicts",
+    "expression",
+    "hound",
+    "pitiless",
+    "deals",
+    "fraxure",
+    "immobility",
+    "company",
+    "keen",
+    "pursues",
+    "none",
+    "driven",
+    "boss",
+    "pawniard",
+    "position",
+    "erupt",
+    "finishing",
+    "blade",
+    "finish",
+    "commands",
+    "leads",
+    "crossing",
+    "stones",
+    "double",
+    "finishes",
+    "think",
+    "loses",
+    "eye",
+    "battles",
+    "blow",
+    "violent",
+    "between",
+    "change",
+    "matter",
+    "group",
+    "keeps",
+    "places",
+    "doesn"
+  ],
   "color": "red",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +89,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "driven",
+        "boss",
+        "pawniard",
+        "leads",
+        "loses",
+        "battles",
+        "group"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +107,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "company",
+        "pursues",
+        "pawniard",
+        "finishes",
+        "group"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +125,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "hound",
+        "pitiless",
+        "immobility",
+        "pawniard",
+        "finish",
+        "commands",
+        "group"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +145,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "hound",
+        "pitiless",
+        "immobility",
+        "pawniard",
+        "finish",
+        "commands",
+        "group"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +165,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "hound",
+        "pitiless",
+        "immobility",
+        "pawniard",
+        "finish",
+        "commands",
+        "group"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +185,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "company",
+        "pursues",
+        "pawniard",
+        "finishes",
+        "group"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +203,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "hound",
+        "pitiless",
+        "immobility",
+        "pawniard",
+        "finish",
+        "commands",
+        "group"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +223,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "company",
+        "pursues",
+        "pawniard",
+        "finishes",
+        "group"
+      ]
     },
     {
       "versionId": 29,
@@ -103,7 +241,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "No matter how strong the Bisharp, it’s said that if the blade on its head is chipped, it will retire from its position as the boss.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "retire",
+        "chipped",
+        "boss",
+        "position",
+        "blade",
+        "matter"
+      ]
     },
     {
       "versionId": 30,
@@ -111,7 +258,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It leads a group of Pawniard. Bisharp doesn’t even change its expression when it deals the finishing blow to an opponent.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "expression",
+        "deals",
+        "pawniard",
+        "finishing",
+        "leads",
+        "blow",
+        "change",
+        "group",
+        "doesn"
+      ]
     },
     {
       "versionId": 33,
@@ -119,7 +278,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ensuring",
+        "minions",
+        "retinue",
+        "accompanied",
+        "keen",
+        "none",
+        "pawniard",
+        "crossing",
+        "double",
+        "think",
+        "eye",
+        "keeps"
+      ]
     },
     {
       "versionId": 34,
@@ -127,7 +301,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sharpening",
+        "conflicts",
+        "fraxure",
+        "erupt",
+        "stones",
+        "violent",
+        "between",
+        "places"
+      ]
     }
   ],
   "similarPokemonIds": [

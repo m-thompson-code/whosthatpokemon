@@ -10,6 +10,133 @@
   ],
   "imagePath": "/assets/pokemon/075.png",
   "entryCount": 31,
+  "entryTraits": [
+    "mountain-dwelling",
+    "psychic",
+    "forest-dwelling",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "chipping",
+    "gasp",
+    "gouging",
+    "ling",
+    "rockfall",
+    "rol",
+    "upward",
+    "crunchingly",
+    "descend",
+    "footed",
+    "mossy",
+    "traversing",
+    "exceed",
+    "hiking",
+    "thunderous",
+    "tumbles",
+    "feasting",
+    "heedless",
+    "uncaring",
+    "brutal",
+    "cliff",
+    "crunching",
+    "difficulty",
+    "pays",
+    "aside",
+    "obstacle",
+    "summit",
+    "walker",
+    "climbs",
+    "horizontal",
+    "last",
+    "obstructing",
+    "momentum",
+    "obstacles",
+    "base",
+    "devour",
+    "peak",
+    "roads",
+    "moss",
+    "slopes",
+    "slowing",
+    "dwells",
+    "numerous",
+    "tumbling",
+    "attention",
+    "reaching",
+    "climb",
+    "path",
+    "sheer",
+    "paths",
+    "enjoys",
+    "reaches",
+    "steep",
+    "basis",
+    "trails",
+    "explode",
+    "free",
+    "curling",
+    "pieces",
+    "roll",
+    "tackles",
+    "smash",
+    "homes",
+    "ton",
+    "careful",
+    "gains",
+    "loudly",
+    "feeding",
+    "daily",
+    "faces",
+    "toward",
+    "changing",
+    "dug",
+    "travels",
+    "stone",
+    "boulder",
+    "object",
+    "parts",
+    "cliffs",
+    "mind",
+    "slow",
+    "river",
+    "stops",
+    "rolling",
+    "happens",
+    "soon",
+    "rolls",
+    "straight",
+    "eye",
+    "60",
+    "massive",
+    "instead",
+    "upon",
+    "builds",
+    "favorite",
+    "bottom",
+    "break",
+    "direction",
+    "falls",
+    "walking",
+    "came",
+    "holes",
+    "avoid",
+    "running",
+    "walls",
+    "mph",
+    "prefers",
+    "boulders",
+    "stop",
+    "huge",
+    "mountain",
+    "though",
+    "nature",
+    "doesn",
+    "rocks",
+    "apparently",
+    "covered",
+    "eat",
+    "heads"
+  ],
   "color": "brown",
   "shape": "humanoid",
   "habitat": "mountain",
@@ -39,7 +166,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "obstacle",
+        "slopes",
+        "slowing",
+        "changing",
+        "rolls",
+        "direction"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +183,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "obstacle",
+        "slopes",
+        "slowing",
+        "changing",
+        "rolls",
+        "direction"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +200,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "obstacles",
+        "trails",
+        "roll",
+        "rolling",
+        "straight",
+        "avoid",
+        "mountain"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +220,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "psychic"
+      ],
+      "keywords": [
+        "uncaring",
+        "free",
+        "pieces",
+        "mind",
+        "rolls",
+        "break",
+        "nature",
+        "doesn"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +242,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pays",
+        "walker",
+        "attention",
+        "path",
+        "object",
+        "slow",
+        "happens",
+        "rolls"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +261,22 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It travels by rol­ ling on mountain paths. If it gains too much speed, it stops by running into huge rocks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "ling",
+        "rol",
+        "paths",
+        "gains",
+        "travels",
+        "stops",
+        "running",
+        "huge",
+        "mountain",
+        "rocks"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +284,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GRAVELER grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This POKéMON eats its way through a ton of rocks on a daily basis.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "moss",
+        "basis",
+        "ton",
+        "feeding",
+        "daily",
+        "prefers",
+        "rocks",
+        "apparently",
+        "covered",
+        "eat"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +305,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Rocks are GRAVELER’s favorite food. This POKéMON will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "crunchingly",
+        "feasting",
+        "summit",
+        "base",
+        "peak",
+        "reaching",
+        "climb",
+        "rolls",
+        "upon",
+        "favorite",
+        "bottom",
+        "mountain",
+        "rocks"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +331,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and massive boulders with thunderous tackles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "descend",
+        "thunderous",
+        "brutal",
+        "aside",
+        "obstructing",
+        "slopes",
+        "tumbling",
+        "steep",
+        "tackles",
+        "smash",
+        "massive",
+        "boulders"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +357,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Be careful while hiking on mountain trails. GRAVELER may come rolling down the path without slowing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "hiking",
+        "slowing",
+        "path",
+        "trails",
+        "careful",
+        "rolling",
+        "mountain"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +377,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "obstacle",
+        "slopes",
+        "slowing",
+        "changing",
+        "rolls",
+        "direction"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +394,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "GRAVELER make their homes on sheer cliff faces by gouging out numerous horizontal holes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "gouging",
+        "cliff",
+        "horizontal",
+        "numerous",
+        "sheer",
+        "homes",
+        "faces",
+        "holes"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +415,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It tumbles down slopes, heedless of any body parts chipping off. It eats a ton of rocks daily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chipping",
+        "tumbles",
+        "heedless",
+        "slopes",
+        "ton",
+        "daily",
+        "parts",
+        "rocks"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +434,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "difficulty",
+        "momentum",
+        "paths",
+        "rolls",
+        "builds",
+        "stop",
+        "mountain"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +454,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "With a free and uncaring nature, it doesn’t mind if pieces break off while it rolls down mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "psychic"
+      ],
+      "keywords": [
+        "uncaring",
+        "free",
+        "pieces",
+        "mind",
+        "rolls",
+        "break",
+        "nature",
+        "doesn"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +476,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pays",
+        "walker",
+        "attention",
+        "path",
+        "object",
+        "slow",
+        "happens",
+        "rolls"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +495,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "difficulty",
+        "momentum",
+        "paths",
+        "rolls",
+        "builds",
+        "stop",
+        "mountain"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +515,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "difficulty",
+        "momentum",
+        "paths",
+        "rolls",
+        "builds",
+        "stop",
+        "mountain"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +535,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "difficulty",
+        "momentum",
+        "paths",
+        "rolls",
+        "builds",
+        "stop",
+        "mountain"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +555,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "difficulty",
+        "momentum",
+        "paths",
+        "rolls",
+        "builds",
+        "stop",
+        "mountain"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +575,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "With a free and uncaring nature, it doesn’t mind if pieces break off while it rolls down mountains.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "psychic"
+      ],
+      "keywords": [
+        "uncaring",
+        "free",
+        "pieces",
+        "mind",
+        "rolls",
+        "break",
+        "nature",
+        "doesn"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +597,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "obstacle",
+        "slopes",
+        "slowing",
+        "changing",
+        "rolls",
+        "direction"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +614,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "moss",
+        "basis",
+        "ton",
+        "feeding",
+        "daily",
+        "prefers",
+        "rocks",
+        "apparently",
+        "covered",
+        "eat"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +635,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rocks are Graveler’s favorite food. This Pokémon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "crunchingly",
+        "feasting",
+        "summit",
+        "base",
+        "peak",
+        "reaching",
+        "climb",
+        "rolls",
+        "upon",
+        "favorite",
+        "bottom",
+        "mountain",
+        "rocks"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +661,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Mossy rocks are its favorite food. It can devour a ton a day while crunching loudly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mossy",
+        "crunching",
+        "devour",
+        "ton",
+        "loudly",
+        "favorite",
+        "rocks"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +679,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This slow-footed Pokémon moves by curling up and rolling instead of walking. With enough momentum, its speed can exceed 60 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "footed",
+        "exceed",
+        "momentum",
+        "curling",
+        "slow",
+        "rolling",
+        "60",
+        "instead",
+        "walking",
+        "mph"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +700,23 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "summit",
+        "climbs",
+        "peak",
+        "reaches",
+        "toward",
+        "cliffs",
+        "soon",
+        "rolls",
+        "came",
+        "mountain",
+        "heads"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +724,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It travels by rolling down cliffs. If it falls into a river, it will explode with its last gasp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "gasp",
+        "last",
+        "explode",
+        "travels",
+        "cliffs",
+        "river",
+        "rolling",
+        "falls"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +746,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "obstacles",
+        "trails",
+        "roll",
+        "rolling",
+        "straight",
+        "avoid",
+        "mountain"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +766,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "obstacles",
+        "trails",
+        "roll",
+        "rolling",
+        "straight",
+        "avoid",
+        "mountain"
+      ]
     },
     {
       "versionId": 39,
@@ -279,7 +786,29 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "rockfall",
+        "upward",
+        "traversing",
+        "roads",
+        "slopes",
+        "dwells",
+        "sheer",
+        "enjoys",
+        "dug",
+        "stone",
+        "boulder",
+        "rolling",
+        "eye",
+        "holes",
+        "walls",
+        "mountain",
+        "though"
+      ]
     }
   ],
   "similarPokemonIds": [

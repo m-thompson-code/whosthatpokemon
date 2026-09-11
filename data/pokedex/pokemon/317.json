@@ -9,6 +9,52 @@
   ],
   "imagePath": "/assets/pokemon/317.png",
   "entryCount": 18,
+  "entryTraits": [
+    "hunting",
+    "poisonous",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "hideously",
+    "fits",
+    "spurts",
+    "yawns",
+    "digesting",
+    "cavernous",
+    "fit",
+    "digest",
+    "tire",
+    "automobile",
+    "follicles",
+    "widely",
+    "enzymes",
+    "pores",
+    "douse",
+    "sweats",
+    "gulps",
+    "gulp",
+    "swallow",
+    "weakened",
+    "horribly",
+    "acid",
+    "dissolve",
+    "teeth",
+    "target",
+    "thing",
+    "sprays",
+    "fluids",
+    "secretes",
+    "swallows",
+    "stomach",
+    "almost",
+    "matter",
+    "special",
+    "spots",
+    "capable",
+    "fluid",
+    "whole",
+    "toxic"
+  ],
   "color": "purple",
   "shape": "arms",
   "habitat": "grassland",
@@ -38,7 +84,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "When SWALOT spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this POKéMON gulps it down whole with its cavernous mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "hideously",
+        "spurts",
+        "cavernous",
+        "pores",
+        "gulps",
+        "weakened",
+        "target",
+        "sprays",
+        "spots",
+        "fluid",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +110,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SWALOT has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this POKéMON’s mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "yawns",
+        "cavernous",
+        "fit",
+        "tire",
+        "automobile",
+        "widely",
+        "teeth",
+        "swallows",
+        "matter",
+        "whole"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +133,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a SWALOT can’t digest is its own stomach.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "digesting",
+        "digest",
+        "acid",
+        "thing",
+        "stomach",
+        "almost",
+        "capable",
+        "whole"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +152,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "tire",
+        "pores",
+        "gulp",
+        "swallow",
+        "horribly",
+        "secretes",
+        "fluid",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +174,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "tire",
+        "pores",
+        "gulp",
+        "swallow",
+        "horribly",
+        "secretes",
+        "fluid",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +196,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "follicles",
+        "douse",
+        "sweats",
+        "fluids",
+        "swallows",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +216,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "follicles",
+        "douse",
+        "sweats",
+        "fluids",
+        "swallows",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +236,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "follicles",
+        "douse",
+        "sweats",
+        "fluids",
+        "swallows",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +256,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fits",
+        "enzymes",
+        "gulps",
+        "dissolve",
+        "special"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +272,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fits",
+        "enzymes",
+        "gulps",
+        "dissolve",
+        "special"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +288,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "follicles",
+        "douse",
+        "sweats",
+        "fluids",
+        "swallows",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +308,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "follicles",
+        "douse",
+        "sweats",
+        "fluids",
+        "swallows",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +328,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "follicles",
+        "douse",
+        "sweats",
+        "fluids",
+        "swallows",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +348,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "follicles",
+        "douse",
+        "sweats",
+        "fluids",
+        "swallows",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +368,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "follicles",
+        "douse",
+        "sweats",
+        "fluids",
+        "swallows",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +388,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fits",
+        "enzymes",
+        "gulps",
+        "dissolve",
+        "special"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +404,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pokémon gulps it down whole with its cavernous mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "hideously",
+        "spurts",
+        "cavernous",
+        "pores",
+        "gulps",
+        "weakened",
+        "target",
+        "sprays",
+        "spots",
+        "fluid",
+        "whole",
+        "toxic"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +430,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "yawns",
+        "cavernous",
+        "fit",
+        "tire",
+        "automobile",
+        "widely",
+        "teeth",
+        "swallows",
+        "matter",
+        "whole"
+      ]
     }
   ],
   "similarPokemonIds": [

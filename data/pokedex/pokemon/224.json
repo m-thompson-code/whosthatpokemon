@@ -9,6 +9,96 @@
   ],
   "imagePath": "/assets/pokemon/224.png",
   "entryCount": 26,
+  "entryTraits": [
+    "mountain-dwelling",
+    "sleeping",
+    "hunting",
+    "sky-dwelling",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "anatomical",
+    "difference",
+    "drastic",
+    "fel",
+    "latter",
+    "bury",
+    "instinct",
+    "meant",
+    "crags",
+    "cupped",
+    "sleepy",
+    "cups",
+    "dulls",
+    "pots",
+    "spitting",
+    "cooking",
+    "former",
+    "keen",
+    "nesting",
+    "instinctively",
+    "lurk",
+    "rocky",
+    "delivering",
+    "sticking",
+    "traps",
+    "obscures",
+    "smashes",
+    "substance",
+    "grabs",
+    "vision",
+    "escaping",
+    "fellow",
+    "finishing",
+    "tightly",
+    "ensnares",
+    "gaps",
+    "grip",
+    "low",
+    "tendency",
+    "cloud",
+    "immobilize",
+    "pitch",
+    "murky",
+    "spews",
+    "suction",
+    "want",
+    "sneaks",
+    "noses",
+    "steals",
+    "remoraid",
+    "ink",
+    "sprays",
+    "tries",
+    "spits",
+    "believed",
+    "seafloor",
+    "evolved",
+    "smell",
+    "attacking",
+    "blow",
+    "contains",
+    "onto",
+    "escape",
+    "between",
+    "holes",
+    "shoots",
+    "caves",
+    "tentacles",
+    "prefers",
+    "lost",
+    "turns",
+    "among",
+    "boulders",
+    "black",
+    "special",
+    "sleeps",
+    "still",
+    "sense",
+    "rock",
+    "usually",
+    "rocks"
+  ],
   "color": "red",
   "shape": "tentacles",
   "habitat": "sea",
@@ -39,7 +129,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It traps enemies with its suction- cupped tentacles then smashes them with its rock-hard head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cupped",
+        "traps",
+        "smashes",
+        "suction",
+        "tentacles",
+        "rock"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +146,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fel­ low OCTILLERY.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "fel",
+        "sleepy",
+        "instinctively",
+        "rocky",
+        "low",
+        "sneaks",
+        "steals",
+        "holes"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +167,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "bury",
+        "instinct",
+        "nesting",
+        "steals",
+        "holes"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +185,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "OCTILLERY grabs onto its foe using its tentacles. This POKéMON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "delivering",
+        "grabs",
+        "finishing",
+        "immobilize",
+        "spews",
+        "ink",
+        "tries",
+        "blow",
+        "onto",
+        "escape",
+        "tentacles",
+        "turns"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +208,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "OCTILLERY grabs onto its foe using its tentacles. This POKéMON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "delivering",
+        "grabs",
+        "finishing",
+        "immobilize",
+        "spews",
+        "ink",
+        "tries",
+        "blow",
+        "onto",
+        "escape",
+        "tentacles",
+        "turns"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +231,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It ensnares its foe with its suction- cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cupped",
+        "delivering",
+        "finishing",
+        "ensnares",
+        "spews",
+        "suction",
+        "ink",
+        "blow",
+        "escape",
+        "tentacles",
+        "turns"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +253,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "sleepy",
+        "instinctively",
+        "rocky",
+        "fellow",
+        "sneaks",
+        "steals",
+        "holes"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +273,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cupped",
+        "traps",
+        "smashes",
+        "suction",
+        "tentacles",
+        "rock"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +290,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "cups",
+        "tightly",
+        "gaps",
+        "grip",
+        "suction",
+        "seafloor",
+        "holes",
+        "boulders"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +311,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It obscures its foe’s vision by spitting a cloud of murky ink. It makes its nest among boulders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "spitting",
+        "obscures",
+        "vision",
+        "cloud",
+        "murky",
+        "ink",
+        "among",
+        "boulders"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +332,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "lurk",
+        "sticking",
+        "ink",
+        "sprays",
+        "holes",
+        "rocks"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +351,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cups",
+        "traps",
+        "smashes",
+        "suction",
+        "tentacles",
+        "rock"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +368,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "sleepy",
+        "instinctively",
+        "rocky",
+        "fellow",
+        "sneaks",
+        "steals",
+        "holes"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +388,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "lurk",
+        "sticking",
+        "ink",
+        "sprays",
+        "holes",
+        "rocks"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +407,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "lurk",
+        "sticking",
+        "ink",
+        "sprays",
+        "holes",
+        "rocks"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +426,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crags",
+        "pots",
+        "tendency",
+        "want",
+        "ink",
+        "sprays",
+        "attacking",
+        "holes",
+        "prefers",
+        "rock"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +447,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crags",
+        "pots",
+        "tendency",
+        "want",
+        "ink",
+        "sprays",
+        "attacking",
+        "holes",
+        "prefers",
+        "rock"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +468,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crags",
+        "pots",
+        "tendency",
+        "want",
+        "ink",
+        "sprays",
+        "attacking",
+        "holes",
+        "prefers",
+        "rock"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +489,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cups",
+        "traps",
+        "smashes",
+        "suction",
+        "tentacles",
+        "rock"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +506,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "delivering",
+        "grabs",
+        "finishing",
+        "immobilize",
+        "spews",
+        "ink",
+        "tries",
+        "blow",
+        "onto",
+        "escape",
+        "tentacles",
+        "turns"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +529,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "delivering",
+        "grabs",
+        "finishing",
+        "immobilize",
+        "spews",
+        "ink",
+        "tries",
+        "blow",
+        "onto",
+        "escape",
+        "tentacles",
+        "turns"
+      ]
     },
     {
       "versionId": 29,
@@ -207,7 +552,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The ink it spits when escaping is special. It contains a substance that dulls the sense of smell, so Pokémon with keen noses get lost.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dulls",
+        "keen",
+        "substance",
+        "escaping",
+        "noses",
+        "ink",
+        "spits",
+        "smell",
+        "contains",
+        "lost",
+        "special",
+        "sense"
+      ]
     },
     {
       "versionId": 30,
@@ -215,7 +575,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "cooking",
+        "pitch",
+        "ink",
+        "spits",
+        "caves",
+        "black",
+        "sleeps",
+        "usually"
+      ]
     },
     {
       "versionId": 33,
@@ -223,7 +596,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crags",
+        "pots",
+        "tendency",
+        "want",
+        "ink",
+        "sprays",
+        "attacking",
+        "holes",
+        "prefers",
+        "rock"
+      ]
     },
     {
       "versionId": 34,
@@ -231,7 +617,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cupped",
+        "traps",
+        "smashes",
+        "suction",
+        "tentacles",
+        "rock"
+      ]
     },
     {
       "versionId": 39,
@@ -239,7 +634,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "anatomical",
+        "difference",
+        "drastic",
+        "latter",
+        "meant",
+        "former",
+        "remoraid",
+        "believed",
+        "evolved",
+        "between",
+        "shoots",
+        "still"
+      ]
     }
   ],
   "similarPokemonIds": [

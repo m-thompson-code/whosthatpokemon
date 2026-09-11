@@ -24,6 +24,8 @@
     "test:room:watch": "tsx scripts/watch-room.ts"
   },
   "dependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "canvas-confetti": "^1.9.4",
     "firebase": "^12.18.0",
     "firebase-admin": "^14.3.0",
     "lucide-react": "^1.43.0",

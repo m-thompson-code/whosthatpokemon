@@ -9,6 +9,51 @@
   ],
   "imagePath": "/assets/pokemon/004.png",
   "entryCount": 28,
+  "entryTraits": [
+    "tail",
+    "fiery",
+    "sonic"
+  ],
+  "entryKeywords": [
+    "obviously",
+    "ously",
+    "vigor",
+    "enjoying",
+    "preference",
+    "weakly",
+    "indication",
+    "blazes",
+    "wavers",
+    "steam",
+    "indicates",
+    "measure",
+    "rains",
+    "spout",
+    "fiercely",
+    "bit",
+    "wet",
+    "brightly",
+    "happy",
+    "hear",
+    "intensely",
+    "healthy",
+    "shows",
+    "enraged",
+    "burn",
+    "quiet",
+    "end",
+    "prefers",
+    "weak",
+    "emotions",
+    "flame",
+    "force",
+    "burns",
+    "strength",
+    "places",
+    "hot",
+    "tip",
+    "born"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": "mountain",
@@ -39,7 +84,21 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "obviously",
+        "steam",
+        "rains",
+        "spout",
+        "prefers",
+        "places",
+        "hot",
+        "tip"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +106,21 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "obviously",
+        "steam",
+        "rains",
+        "spout",
+        "prefers",
+        "places",
+        "hot",
+        "tip"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +128,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery",
+        "sonic"
+      ],
+      "keywords": [
+        "hear",
+        "quiet",
+        "flame",
+        "burns",
+        "places",
+        "tip"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +149,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "weakly",
+        "shows",
+        "weak",
+        "flame",
+        "force",
+        "burns",
+        "strength"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +170,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The flame on its tail indicates CHARMANDER's life force. If it is healthy, the flame burns brightly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "indicates",
+        "brightly",
+        "healthy",
+        "flame",
+        "force",
+        "burns"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +190,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "If it's healthy, the flame on the tip of its tail will burn vigor­ ously, even if it gets a bit wet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "ously",
+        "vigor",
+        "bit",
+        "wet",
+        "healthy",
+        "burn",
+        "flame",
+        "tip"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +212,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "enjoying",
+        "indication",
+        "wavers",
+        "fiercely",
+        "enraged",
+        "emotions",
+        "flame",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +235,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "enjoying",
+        "indication",
+        "wavers",
+        "fiercely",
+        "enraged",
+        "emotions",
+        "flame",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +258,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is happy, and blazes when it is enraged.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "indication",
+        "blazes",
+        "wavers",
+        "happy",
+        "enraged",
+        "emotions",
+        "flame",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +281,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "end",
+        "flame",
+        "burns",
+        "tip",
+        "born"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +300,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "preference",
+        "steam",
+        "rains",
+        "spout",
+        "hot",
+        "tip"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +320,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "measure",
+        "intensely",
+        "healthy",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +339,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "measure",
+        "intensely",
+        "healthy",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +358,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "measure",
+        "intensely",
+        "healthy",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +377,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "weakly",
+        "shows",
+        "weak",
+        "flame",
+        "force",
+        "burns",
+        "strength"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +398,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The flame on its tail indicates CHARMANDER’s life force. If it is healthy, the flame burns brightly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "indicates",
+        "brightly",
+        "healthy",
+        "flame",
+        "force",
+        "burns"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +418,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "measure",
+        "intensely",
+        "healthy",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +437,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "measure",
+        "intensely",
+        "healthy",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +456,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "measure",
+        "intensely",
+        "healthy",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +475,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "measure",
+        "intensely",
+        "healthy",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +494,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The flame on its tail indicates Charmander’s life force. If it is healthy, the flame burns brightly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "indicates",
+        "brightly",
+        "healthy",
+        "flame",
+        "force",
+        "burns"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +514,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "end",
+        "flame",
+        "burns",
+        "tip",
+        "born"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +533,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "enjoying",
+        "indication",
+        "wavers",
+        "fiercely",
+        "enraged",
+        "emotions",
+        "flame",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +556,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "enjoying",
+        "indication",
+        "wavers",
+        "fiercely",
+        "enraged",
+        "emotions",
+        "flame",
+        "burns",
+        "tip"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +579,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery",
+        "sonic"
+      ],
+      "keywords": [
+        "hear",
+        "quiet",
+        "flame",
+        "burns",
+        "places",
+        "tip"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +600,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery",
+        "sonic"
+      ],
+      "keywords": [
+        "hear",
+        "quiet",
+        "flame",
+        "burns",
+        "places",
+        "tip"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +621,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "preference",
+        "steam",
+        "rains",
+        "spout",
+        "hot",
+        "tip"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +641,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "end",
+        "flame",
+        "burns",
+        "tip",
+        "born"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,65 @@
   ],
   "imagePath": "/assets/pokemon/071.png",
   "entryCount": 26,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "dissolving",
+    "tracts",
+    "attracting",
+    "dis",
+    "solved",
+    "flicked",
+    "ingested",
+    "horrifying",
+    "waved",
+    "hardest",
+    "honeylike",
+    "sweeter",
+    "dissolved",
+    "helpless",
+    "returned",
+    "animal",
+    "aromatic",
+    "effective",
+    "dissolves",
+    "melted",
+    "vine",
+    "swallowed",
+    "pools",
+    "lures",
+    "jungles",
+    "colonies",
+    "extending",
+    "acid",
+    "melts",
+    "unsuspecting",
+    "really",
+    "object",
+    "attract",
+    "draws",
+    "melt",
+    "thing",
+    "extends",
+    "attracts",
+    "approaches",
+    "swallows",
+    "victim",
+    "ever",
+    "nothing",
+    "bones",
+    "plant",
+    "near",
+    "honey",
+    "scent",
+    "living",
+    "aroma",
+    "huge",
+    "fluid",
+    "whole",
+    "although"
+  ],
   "color": "green",
   "shape": "blob",
   "habitat": "forest",
@@ -39,7 +98,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "returned",
+        "jungles",
+        "colonies",
+        "ever",
+        "huge",
+        "although"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +115,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "returned",
+        "jungles",
+        "colonies",
+        "ever",
+        "huge",
+        "although"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +132,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "melted",
+        "swallowed",
+        "lures",
+        "bones",
+        "honey",
+        "aroma",
+        "whole"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +152,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "ACID that has dis­ solved many prey becomes sweeter, making it even more effective at attracting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "attracting",
+        "dis",
+        "solved",
+        "sweeter",
+        "effective",
+        "acid"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +171,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "This horrifying plant POKéMON at­ tracts prey with aromatic honey, then melts them in its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tracts",
+        "horrifying",
+        "aromatic",
+        "melts",
+        "plant",
+        "honey"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +190,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Once ingested into this POKéMON's body, even the hardest object will melt into nothing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingested",
+        "hardest",
+        "object",
+        "melt",
+        "nothing"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +206,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flicked",
+        "waved",
+        "animal",
+        "vine",
+        "unsuspecting",
+        "attract",
+        "draws",
+        "extends",
+        "swallows",
+        "near",
+        "whole"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +230,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flicked",
+        "waved",
+        "animal",
+        "vine",
+        "unsuspecting",
+        "attract",
+        "draws",
+        "extends",
+        "swallows",
+        "near",
+        "whole"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +254,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "waved",
+        "vine",
+        "swallowed",
+        "extending",
+        "unsuspecting",
+        "attract",
+        "thing",
+        "approaches",
+        "victim",
+        "living",
+        "whole"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +278,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "dissolving",
+        "honeylike",
+        "helpless",
+        "melted",
+        "lures",
+        "aroma",
+        "fluid"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +298,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "returned",
+        "jungles",
+        "colonies",
+        "ever",
+        "huge",
+        "although"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +315,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "honeylike",
+        "dissolves",
+        "pools",
+        "acid",
+        "really",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +333,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "honeylike",
+        "dissolves",
+        "pools",
+        "acid",
+        "really",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +351,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "honeylike",
+        "dissolves",
+        "pools",
+        "acid",
+        "really",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +369,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "attracting",
+        "sweeter",
+        "dissolved",
+        "effective",
+        "acid"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +387,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "This horrifying plant Pokémon attracts prey with aromatic honey, then melts them in its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "horrifying",
+        "aromatic",
+        "melts",
+        "attracts",
+        "plant",
+        "honey"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +406,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "honeylike",
+        "dissolves",
+        "pools",
+        "acid",
+        "really",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +424,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "honeylike",
+        "dissolves",
+        "pools",
+        "acid",
+        "really",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +442,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dissolves",
+        "pools",
+        "acid",
+        "really",
+        "honey",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +460,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dissolves",
+        "pools",
+        "acid",
+        "really",
+        "honey",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +478,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "returned",
+        "jungles",
+        "colonies",
+        "ever",
+        "huge",
+        "although"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +495,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Once ingested into this Pokémon’s body, even the hardest object will melt into nothing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingested",
+        "hardest",
+        "object",
+        "melt",
+        "nothing"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +511,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flicked",
+        "waved",
+        "animal",
+        "vine",
+        "unsuspecting",
+        "attract",
+        "draws",
+        "extends",
+        "swallows",
+        "near",
+        "whole"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +535,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "flicked",
+        "waved",
+        "animal",
+        "vine",
+        "unsuspecting",
+        "attract",
+        "draws",
+        "extends",
+        "swallows",
+        "near",
+        "whole"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +559,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "dissolved",
+        "swallowed",
+        "lures",
+        "bones",
+        "honey",
+        "aroma",
+        "whole"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +579,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "dissolved",
+        "swallowed",
+        "lures",
+        "bones",
+        "honey",
+        "aroma",
+        "whole"
+      ]
     }
   ],
   "similarPokemonIds": [

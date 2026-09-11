@@ -10,6 +10,66 @@
   ],
   "imagePath": "/assets/pokemon/284.png",
   "entryCount": 22,
+  "entryTraits": [
+    "wings",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "absorbent",
+    "cope",
+    "eyespots",
+    "hollows",
+    "sunward",
+    "droopy",
+    "helicopter",
+    "winglike",
+    "fro",
+    "distinctive",
+    "shelters",
+    "antennas",
+    "sideways",
+    "eyelike",
+    "backwards",
+    "rainy",
+    "hover",
+    "rains",
+    "rainfall",
+    "eaves",
+    "intimidates",
+    "wet",
+    "faces",
+    "sad",
+    "deftly",
+    "dry",
+    "allow",
+    "set",
+    "don",
+    "flight",
+    "sign",
+    "eye",
+    "impossible",
+    "work",
+    "enable",
+    "waits",
+    "antennae",
+    "moisture",
+    "direction",
+    "flaps",
+    "escape",
+    "angry",
+    "rain",
+    "days",
+    "thin",
+    "four",
+    "look",
+    "patterns",
+    "highly",
+    "freely",
+    "well",
+    "usually",
+    "doesn",
+    "heavy"
+  ],
   "color": "blue",
   "shape": "bug-wings",
   "habitat": "waters-edge",
@@ -40,7 +100,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "helicopter",
+        "antennas",
+        "sideways",
+        "eyelike",
+        "backwards",
+        "intimidates",
+        "direction",
+        "flaps",
+        "four",
+        "patterns",
+        "freely"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +124,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MASQUERAIN’s antennas have eyelike patterns that usually give it an angry look. If the “eyes” are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "droopy",
+        "antennas",
+        "eyelike",
+        "rainfall",
+        "sad",
+        "sign",
+        "angry",
+        "look",
+        "patterns",
+        "usually",
+        "heavy"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +146,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It intimidates foes with the large eyelike patterns on its antennae. Because it can’t fly if its wings get wet, it shelters itself from rain under large trees and eaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "shelters",
+        "eyelike",
+        "eaves",
+        "intimidates",
+        "wet",
+        "antennae",
+        "rain",
+        "patterns"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +168,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "distinctive",
+        "rains",
+        "flight",
+        "impossible",
+        "antennae",
+        "look",
+        "patterns",
+        "heavy"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +187,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "distinctive",
+        "rains",
+        "flight",
+        "impossible",
+        "antennae",
+        "look",
+        "patterns",
+        "heavy"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +206,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hover",
+        "eye",
+        "enable",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +226,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hover",
+        "eye",
+        "enable",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +246,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hover",
+        "eye",
+        "enable",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +266,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flaps its four wings to hover and fly freely in any direction-- to and fro and sideways.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fro",
+        "sideways",
+        "hover",
+        "direction",
+        "flaps",
+        "four",
+        "freely"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +286,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flaps its four wings to hover and fly freely in any direction-- to and fro and sideways.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fro",
+        "sideways",
+        "hover",
+        "direction",
+        "flaps",
+        "four",
+        "freely"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +306,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hover",
+        "eye",
+        "enable",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +326,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hover",
+        "eye",
+        "enable",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +346,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hover",
+        "eye",
+        "enable",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +366,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hover",
+        "eye",
+        "enable",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +386,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "hover",
+        "eye",
+        "enable",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +406,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It flaps its four wings to hover and fly freely in any direction--to and fro and sideways.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "fro",
+        "sideways",
+        "hover",
+        "direction",
+        "flaps",
+        "four",
+        "freely"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +426,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Masquerain intimidates enemies with the eyelike patterns on its antennas. This Pokémon flaps its four wings to freely fly in any direction—even sideways and backwards—as if it were a helicopter.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "helicopter",
+        "antennas",
+        "sideways",
+        "eyelike",
+        "backwards",
+        "intimidates",
+        "direction",
+        "flaps",
+        "four",
+        "patterns",
+        "freely"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +450,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Masquerain’s antennas have eyelike patterns that usually give it an angry look. If the “eyes” are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "droopy",
+        "antennas",
+        "eyelike",
+        "rainfall",
+        "sad",
+        "sign",
+        "angry",
+        "look",
+        "patterns",
+        "usually",
+        "heavy"
+      ]
     },
     {
       "versionId": 27,
@@ -184,7 +472,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It intimidates enemies with the eye-like patterns on its antennae. Its four wings allow it to fly in any direction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "intimidates",
+        "allow",
+        "eye",
+        "antennae",
+        "direction",
+        "four",
+        "patterns"
+      ]
     },
     {
       "versionId": 28,
@@ -192,7 +492,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its wings and antennae don’t cope well with moisture. After a rain, it faces sunward to dry off.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "cope",
+        "sunward",
+        "faces",
+        "dry",
+        "don",
+        "antennae",
+        "moisture",
+        "rain",
+        "well"
+      ]
     },
     {
       "versionId": 29,
@@ -200,7 +514,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Masquerain intimidates enemies with the eyelike patterns of its eyespots. If that doesn’t work, it deftly makes its escape on its set of four wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "eyespots",
+        "eyelike",
+        "intimidates",
+        "deftly",
+        "set",
+        "work",
+        "escape",
+        "four",
+        "patterns",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -208,7 +537,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "absorbent",
+        "hollows",
+        "winglike",
+        "rainy",
+        "waits",
+        "antennae",
+        "days",
+        "thin",
+        "highly"
+      ]
     }
   ],
   "similarPokemonIds": [

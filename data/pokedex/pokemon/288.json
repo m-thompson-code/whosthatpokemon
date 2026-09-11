@@ -9,6 +9,59 @@
   ],
   "imagePath": "/assets/pokemon/288.png",
   "entryCount": 18,
+  "entryTraits": [
+    "sleeping",
+    "mountain-dwelling",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "boils",
+    "itching",
+    "sitting",
+    "veins",
+    "tolerate",
+    "remaining",
+    "settle",
+    "tenfold",
+    "heartbeat",
+    "compelling",
+    "rampaging",
+    "tempo",
+    "sit",
+    "stress",
+    "minute",
+    "beats",
+    "simply",
+    "rises",
+    "hungry",
+    "incapable",
+    "rampage",
+    "sick",
+    "agitated",
+    "throughout",
+    "moment",
+    "jungle",
+    "second",
+    "tries",
+    "level",
+    "wild",
+    "calm",
+    "fields",
+    "feel",
+    "blood",
+    "cannot",
+    "run",
+    "runs",
+    "heart",
+    "constantly",
+    "stop",
+    "fast",
+    "still",
+    "eating",
+    "won",
+    "moving",
+    "doesn"
+  ],
   "color": "white",
   "shape": "upright",
   "habitat": "forest",
@@ -38,7 +91,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This POKéMON’s stress level rises if it can’t be moving constantly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "itching",
+        "sitting",
+        "tolerate",
+        "stress",
+        "minute",
+        "simply",
+        "rises",
+        "rampage",
+        "agitated",
+        "level",
+        "wild",
+        "constantly",
+        "still",
+        "moving"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +116,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "VIGOROTH is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this POKéMON to run wild throughout the jungle before it can settle down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "veins",
+        "remaining",
+        "settle",
+        "compelling",
+        "simply",
+        "incapable",
+        "agitated",
+        "throughout",
+        "jungle",
+        "tries",
+        "wild",
+        "blood",
+        "run",
+        "still"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +143,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It can’t keep still because its blood boils with energy. It runs through the fields and mountains all day to calm itself. If it doesn’t, it can’t sleep at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "boils",
+        "calm",
+        "fields",
+        "blood",
+        "runs",
+        "still",
+        "doesn"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +165,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is always hungry because it won’t stop rampaging. Even while it is eating, it can’t keep still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rampaging",
+        "hungry",
+        "stop",
+        "still",
+        "eating",
+        "won"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +182,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is always hungry because it won’t stop rampaging. Even while it is eating, it can’t keep still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rampaging",
+        "hungry",
+        "stop",
+        "still",
+        "eating",
+        "won"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +199,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tenfold",
+        "tempo",
+        "sit",
+        "beats",
+        "moment",
+        "cannot",
+        "heart",
+        "still"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +218,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tenfold",
+        "tempo",
+        "sit",
+        "beats",
+        "moment",
+        "cannot",
+        "heart",
+        "still"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +237,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tenfold",
+        "tempo",
+        "sit",
+        "beats",
+        "moment",
+        "cannot",
+        "heart",
+        "still"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +256,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stress",
+        "rises",
+        "sick",
+        "level",
+        "feel",
+        "cannot",
+        "constantly",
+        "moving"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +275,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stress",
+        "rises",
+        "sick",
+        "level",
+        "feel",
+        "cannot",
+        "constantly",
+        "moving"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +294,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tenfold",
+        "tempo",
+        "sit",
+        "beats",
+        "moment",
+        "cannot",
+        "heart",
+        "still"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +313,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tenfold",
+        "tempo",
+        "sit",
+        "beats",
+        "moment",
+        "cannot",
+        "heart",
+        "still"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +332,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its heartbeat is fast and its blood so agitated that it can’t sit still for one second.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heartbeat",
+        "sit",
+        "agitated",
+        "second",
+        "blood",
+        "fast",
+        "still"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +350,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its heartbeat is fast and its blood so agitated that it can’t sit still for one second.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heartbeat",
+        "sit",
+        "agitated",
+        "second",
+        "blood",
+        "fast",
+        "still"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +368,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its heartbeat is fast and its blood so agitated that it can’t sit still for one second.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heartbeat",
+        "sit",
+        "agitated",
+        "second",
+        "blood",
+        "fast",
+        "still"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +386,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stress",
+        "rises",
+        "sick",
+        "level",
+        "feel",
+        "cannot",
+        "constantly",
+        "moving"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +405,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Vigoroth is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This Pokémon’s stress level rises if it can’t be moving constantly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "itching",
+        "sitting",
+        "tolerate",
+        "stress",
+        "minute",
+        "simply",
+        "rises",
+        "rampage",
+        "agitated",
+        "level",
+        "wild",
+        "constantly",
+        "still",
+        "moving"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +430,26 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokémon to run wild throughout the jungle before it can settle down.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "veins",
+        "remaining",
+        "settle",
+        "compelling",
+        "simply",
+        "incapable",
+        "agitated",
+        "throughout",
+        "jungle",
+        "tries",
+        "wild",
+        "blood",
+        "run",
+        "still"
+      ]
     }
   ],
   "similarPokemonIds": [

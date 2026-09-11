@@ -9,6 +9,33 @@
   ],
   "imagePath": "/assets/pokemon/807.png",
   "entryCount": 4,
+  "entryTraits": [
+    "claws",
+    "electric"
+  ],
+  "entryKeywords": [
+    "electrifies",
+    "limb",
+    "electrocuted",
+    "shredding",
+    "echoes",
+    "dodge",
+    "pads",
+    "voltage",
+    "thunder",
+    "flashes",
+    "wherever",
+    "tears",
+    "approaches",
+    "limbs",
+    "ll",
+    "apart",
+    "strikes",
+    "sparks",
+    "runs",
+    "fast",
+    "lightning"
+  ],
   "color": "yellow",
   "shape": "humanoid",
   "habitat": null,
@@ -38,7 +65,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "electrifies",
+        "electrocuted",
+        "dodge",
+        "tears",
+        "ll",
+        "apart",
+        "sparks"
+      ]
     },
     {
       "versionId": 30,
@@ -46,7 +85,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "electric"
+      ],
+      "keywords": [
+        "limb",
+        "tears",
+        "approaches",
+        "lightning"
+      ]
     },
     {
       "versionId": 33,
@@ -54,7 +103,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "electric"
+      ],
+      "keywords": [
+        "shredding",
+        "voltage",
+        "strikes",
+        "runs",
+        "fast",
+        "lightning"
+      ]
     },
     {
       "versionId": 34,
@@ -62,7 +123,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "echoes",
+        "pads",
+        "thunder",
+        "flashes",
+        "wherever",
+        "limbs",
+        "sparks",
+        "runs",
+        "lightning"
+      ]
     }
   ],
   "similarPokemonIds": [

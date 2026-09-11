@@ -10,6 +10,40 @@
   ],
   "imagePath": "/assets/pokemon/414.png",
   "entryCount": 14,
+  "entryTraits": [
+    "mountain-dwelling",
+    "nocturnal",
+    "wings"
+  ],
+  "entryKeywords": [
+    "primarily",
+    "observed",
+    "plots",
+    "floral",
+    "hive",
+    "gardens",
+    "collected",
+    "nectar",
+    "colored",
+    "combee",
+    "flutters",
+    "feeding",
+    "constant",
+    "steals",
+    "steal",
+    "instead",
+    "despite",
+    "scatters",
+    "fields",
+    "flaps",
+    "honey",
+    "flowers",
+    "scales",
+    "flower",
+    "won",
+    "search",
+    "gather"
+  ],
   "color": "yellow",
   "shape": "bug-wings",
   "habitat": null,
@@ -39,7 +73,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It loves the honey of flowers and steals honey collected by COMBEE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collected",
+        "combee",
+        "steals",
+        "honey",
+        "flowers"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +89,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It does not keep a nest. It flies over fields and mountains in constant search of floral honey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "floral",
+        "constant",
+        "fields",
+        "honey",
+        "search"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +107,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "plots",
+        "floral",
+        "combee",
+        "steal",
+        "instead",
+        "honey",
+        "won",
+        "gather"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +126,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flutters around at night and steals honey from the COMBEE hive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "hive",
+        "combee",
+        "flutters",
+        "steals",
+        "honey"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +144,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It flutters around at night and steals honey from the COMBEE hive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "hive",
+        "combee",
+        "flutters",
+        "steals",
+        "honey"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +162,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from Combee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "plots",
+        "floral",
+        "combee",
+        "steal",
+        "instead",
+        "honey",
+        "won",
+        "gather"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +181,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from Combee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "plots",
+        "floral",
+        "combee",
+        "steal",
+        "instead",
+        "honey",
+        "won",
+        "gather"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +200,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from Combee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "plots",
+        "floral",
+        "combee",
+        "steal",
+        "instead",
+        "honey",
+        "won",
+        "gather"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +219,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from Combee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "plots",
+        "floral",
+        "combee",
+        "steal",
+        "instead",
+        "honey",
+        "won",
+        "gather"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +238,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It loves the honey of flowers and steals honey collected by Combee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collected",
+        "combee",
+        "steals",
+        "honey",
+        "flowers"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +254,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It flutters around at night and steals honey from the Combee hive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "hive",
+        "combee",
+        "flutters",
+        "steals",
+        "honey"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +272,15 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It loves the honey of flowers and steals honey collected by Combee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "collected",
+        "combee",
+        "steals",
+        "honey",
+        "flowers"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +288,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It flutters around at night and steals honey from the Combee hive.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "hive",
+        "combee",
+        "flutters",
+        "steals",
+        "honey"
+      ]
     },
     {
       "versionId": 39,
@@ -143,7 +306,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "primarily",
+        "observed",
+        "gardens",
+        "nectar",
+        "colored",
+        "feeding",
+        "despite",
+        "scatters",
+        "flaps",
+        "flowers",
+        "scales",
+        "flower"
+      ]
     }
   ],
   "similarPokemonIds": [

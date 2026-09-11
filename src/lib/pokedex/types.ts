@@ -1,3 +1,5 @@
+import type { EntryTrait } from "@/lib/pokedex/traits";
+
 export type PokedexEntry = {
   versionId: number;
   version: string;
@@ -5,6 +7,8 @@ export type PokedexEntry = {
   versionGroup: string;
   text: string;
   revealsName: boolean;
+  traits: EntryTrait[];
+  keywords: string[];
 };
 
 export type PokemonSummary = {
@@ -16,6 +20,8 @@ export type PokemonSummary = {
   types: string[];
   imagePath: string;
   entryCount: number;
+  entryTraits: EntryTrait[];
+  entryKeywords: string[];
 };
 
 export const SimilarityStrategy = {
@@ -31,6 +37,13 @@ export type SimilarityStrategy =
 
 export type SimilarityPools = Record<SimilarityStrategy, number[]>;
 export type VersionPokemonIndex = Record<string, number[]>;
+
+export type EntryWordStatistics = {
+  frequency: number;
+  common: boolean;
+};
+
+export type EntryWordIndex = Record<string, EntryWordStatistics>;
 
 export type PokemonRecord = PokemonSummary & {
   color: string;

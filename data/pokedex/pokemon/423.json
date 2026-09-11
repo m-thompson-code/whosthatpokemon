@@ -10,6 +10,93 @@
   ],
   "imagePath": "/assets/pokemon/423.png",
   "entryCount": 20,
+  "entryTraits": [
+    "shell",
+    "aquatic",
+    "desert-dwelling"
+  ],
+  "entryKeywords": [
+    "disperse",
+    "inevitably",
+    "naked",
+    "periodically",
+    "vestigial",
+    "ensue",
+    "pliable",
+    "softness",
+    "uncommonly",
+    "plankton",
+    "plate",
+    "regenerative",
+    "trail",
+    "traces",
+    "impacts",
+    "encounter",
+    "resilient",
+    "squishy",
+    "slime",
+    "beach",
+    "capabilities",
+    "normal",
+    "main",
+    "nourishment",
+    "passes",
+    "purple",
+    "tidal",
+    "diet",
+    "pools",
+    "surprisingly",
+    "leads",
+    "shielded",
+    "escapes",
+    "return",
+    "shallow",
+    "fierce",
+    "fish",
+    "now",
+    "torn",
+    "bitten",
+    "helps",
+    "oozes",
+    "parts",
+    "natural",
+    "part",
+    "depending",
+    "source",
+    "shape",
+    "beaches",
+    "hours",
+    "sticky",
+    "few",
+    "calm",
+    "environment",
+    "invisible",
+    "eye",
+    "left",
+    "color",
+    "onto",
+    "protection",
+    "had",
+    "right",
+    "bones",
+    "change",
+    "cells",
+    "behind",
+    "reason",
+    "thin",
+    "within",
+    "sturdy",
+    "different",
+    "sand",
+    "another",
+    "force",
+    "huge",
+    "entire",
+    "fluid",
+    "search",
+    "although",
+    "apparently"
+  ],
   "color": "purple",
   "shape": "squiggle",
   "habitat": null,
@@ -40,7 +127,15 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a pliable body without any bones. If any part of its body is torn off, it grows right back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pliable",
+        "torn",
+        "part",
+        "right",
+        "bones"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +143,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tidal",
+        "pools",
+        "shallow",
+        "protection",
+        "had",
+        "huge",
+        "apparently"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +163,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "traces",
+        "shielded",
+        "left",
+        "cells",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +182,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When its natural enemy attacks, it oozes purple fluid and escapes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "purple",
+        "escapes",
+        "oozes",
+        "natural",
+        "fluid"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +198,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When its natural enemy attacks, it oozes purple fluid and escapes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "purple",
+        "escapes",
+        "oozes",
+        "natural",
+        "fluid"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +214,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "traces",
+        "shielded",
+        "left",
+        "cells",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +233,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "traces",
+        "shielded",
+        "left",
+        "cells",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +252,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "traces",
+        "shielded",
+        "left",
+        "cells",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +271,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "traces",
+        "shielded",
+        "left",
+        "cells",
+        "sturdy",
+        "entire"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +290,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When its natural enemy attacks, it oozes purple fluid and escapes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "purple",
+        "escapes",
+        "oozes",
+        "natural",
+        "fluid"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +306,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tidal",
+        "pools",
+        "shallow",
+        "protection",
+        "had",
+        "huge",
+        "apparently"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +326,15 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When its natural enemy attacks, it oozes purple fluid and escapes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "purple",
+        "escapes",
+        "oozes",
+        "natural",
+        "fluid"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +342,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tidal",
+        "pools",
+        "shallow",
+        "protection",
+        "had",
+        "huge",
+        "apparently"
+      ]
     },
     {
       "versionId": 27,
@@ -144,7 +362,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It has strong regenerative capabilities. Even if parts of it are bitten off by fish Pokémon, it will return to normal within a few hours.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "regenerative",
+        "capabilities",
+        "normal",
+        "return",
+        "fish",
+        "bitten",
+        "parts",
+        "hours",
+        "few",
+        "within"
+      ]
     },
     {
       "versionId": 28,
@@ -152,7 +383,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Plankton, invisible to the naked eye, is its main food source. It comes onto the land periodically, but the reason for this is not known.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "naked",
+        "periodically",
+        "plankton",
+        "main",
+        "source",
+        "invisible",
+        "eye",
+        "onto",
+        "reason"
+      ]
     },
     {
       "versionId": 29,
@@ -160,7 +403,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Long ago, it had a shell on its back. There’s now a vestigial plate on its back that’s hard but thin.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "vestigial",
+        "plate",
+        "now",
+        "had",
+        "thin"
+      ]
     },
     {
       "versionId": 30,
@@ -168,7 +421,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Their shape and color change, depending on their environment and diet. There are many of them at beaches where the waves are calm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "diet",
+        "depending",
+        "shape",
+        "beaches",
+        "calm",
+        "environment",
+        "color",
+        "change"
+      ]
     },
     {
       "versionId": 33,
@@ -176,7 +442,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its search for food sometimes leads it onto land, where it leaves behind a sticky trail of slime as it passes through.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trail",
+        "slime",
+        "passes",
+        "leads",
+        "sticky",
+        "onto",
+        "behind",
+        "search"
+      ]
     },
     {
       "versionId": 34,
@@ -184,7 +461,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The softness of its body helps disperse the force of impacts, so although its body is uncommonly squishy, it’s also surprisingly resilient.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disperse",
+        "softness",
+        "uncommonly",
+        "impacts",
+        "resilient",
+        "squishy",
+        "surprisingly",
+        "helps",
+        "force",
+        "although"
+      ]
     },
     {
       "versionId": 39,
@@ -192,7 +482,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Eats beach sand for nourishment. Should one Gastrodon encounter another of a different color, a fierce battle will inevitably ensue.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "inevitably",
+        "ensue",
+        "encounter",
+        "beach",
+        "nourishment",
+        "fierce",
+        "color",
+        "different",
+        "sand",
+        "another"
+      ]
     }
   ],
   "similarPokemonIds": [

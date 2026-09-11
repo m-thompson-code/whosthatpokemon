@@ -9,6 +9,45 @@
   ],
   "imagePath": "/assets/pokemon/556.png",
   "entryCount": 10,
+  "entryTraits": [
+    "hunting",
+    "sonic",
+    "desert-dwelling"
+  ],
+  "entryKeywords": [
+    "rattles",
+    "upbeat",
+    "hurry",
+    "jam",
+    "maracas",
+    "precious",
+    "surprised",
+    "tempo",
+    "startling",
+    "rhythmically",
+    "noises",
+    "song",
+    "packed",
+    "drive",
+    "mistaken",
+    "flee",
+    "seeds",
+    "rhythm",
+    "source",
+    "habitat",
+    "regions",
+    "arid",
+    "scatters",
+    "similar",
+    "year",
+    "dance",
+    "re",
+    "desert",
+    "nutrients",
+    "flower",
+    "creates",
+    "bird"
+  ],
   "color": "green",
   "shape": "blob",
   "habitat": null,
@@ -38,7 +77,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tempo",
+        "song",
+        "drive",
+        "seeds",
+        "dance",
+        "flower",
+        "bird"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +97,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "maracas",
+        "rhythmically",
+        "habitat",
+        "regions",
+        "arid",
+        "similar"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +116,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "maracas",
+        "surprised",
+        "rhythmically",
+        "flee",
+        "similar"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +134,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "maracas",
+        "surprised",
+        "rhythmically",
+        "flee",
+        "similar"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +152,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tempo",
+        "song",
+        "drive",
+        "seeds",
+        "dance",
+        "flower",
+        "bird"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +172,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "maracas",
+        "rhythmically",
+        "habitat",
+        "regions",
+        "arid",
+        "similar"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +191,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "tempo",
+        "song",
+        "drive",
+        "seeds",
+        "dance",
+        "flower",
+        "bird"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +211,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "maracas",
+        "rhythmically",
+        "habitat",
+        "regions",
+        "arid",
+        "similar"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +230,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rattles",
+        "upbeat",
+        "hurry",
+        "maracas",
+        "startling",
+        "noises",
+        "mistaken",
+        "rhythm",
+        "creates",
+        "bird"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +251,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "jam",
+        "precious",
+        "packed",
+        "seeds",
+        "source",
+        "scatters",
+        "year",
+        "re",
+        "desert",
+        "nutrients"
+      ]
     }
   ],
   "similarPokemonIds": [

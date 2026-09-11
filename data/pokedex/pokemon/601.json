@@ -9,6 +9,41 @@
   ],
   "imagePath": "/assets/pokemon/601.png",
   "entryCount": 10,
+  "entryTraits": [
+    "fiery",
+    "electric"
+  ],
+  "entryKeywords": [
+    "gears",
+    "rotated",
+    "spiked",
+    "tank",
+    "compose",
+    "rapid",
+    "minigear",
+    "functions",
+    "gear",
+    "ready",
+    "spin",
+    "creature",
+    "amount",
+    "charged",
+    "isn",
+    "enormous",
+    "blasts",
+    "launches",
+    "charge",
+    "spins",
+    "charges",
+    "contains",
+    "fires",
+    "area",
+    "core",
+    "red",
+    "new",
+    "living",
+    "spikes"
+  ],
   "color": "gray",
   "shape": "heads",
   "habitat": null,
@@ -38,7 +73,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tank",
+        "functions",
+        "charged",
+        "fires",
+        "area",
+        "core",
+        "red",
+        "spikes"
+      ]
     },
     {
       "versionId": 18,
@@ -46,7 +92,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The gear with the red core is rotated at high speed for a rapid energy charge.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rotated",
+        "rapid",
+        "gear",
+        "charge",
+        "core",
+        "red"
+      ]
     },
     {
       "versionId": 21,
@@ -54,7 +109,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "minigear",
+        "ready",
+        "spins",
+        "charges",
+        "core",
+        "red"
+      ]
     },
     {
       "versionId": 22,
@@ -62,7 +128,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "minigear",
+        "ready",
+        "spins",
+        "charges",
+        "core",
+        "red"
+      ]
     },
     {
       "versionId": 23,
@@ -70,7 +147,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The gear with the red core is rotated at high speed for a rapid energy charge.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rotated",
+        "rapid",
+        "gear",
+        "charge",
+        "core",
+        "red"
+      ]
     },
     {
       "versionId": 24,
@@ -78,7 +164,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tank",
+        "functions",
+        "charged",
+        "fires",
+        "area",
+        "core",
+        "red",
+        "spikes"
+      ]
     },
     {
       "versionId": 25,
@@ -86,7 +183,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The gear with the red core is rotated at high speed for a rapid energy charge.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rotated",
+        "rapid",
+        "gear",
+        "charge",
+        "core",
+        "red"
+      ]
     },
     {
       "versionId": 26,
@@ -94,7 +200,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "tank",
+        "functions",
+        "charged",
+        "fires",
+        "area",
+        "core",
+        "red",
+        "spikes"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +219,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "amount",
+        "enormous",
+        "blasts",
+        "launches",
+        "contains",
+        "core",
+        "red",
+        "spikes"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +240,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gears",
+        "spiked",
+        "compose",
+        "gear",
+        "spin",
+        "creature",
+        "isn",
+        "new",
+        "living"
+      ]
     }
   ],
   "similarPokemonIds": [

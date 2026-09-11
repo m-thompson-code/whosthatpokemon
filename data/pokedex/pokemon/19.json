@@ -9,6 +9,88 @@
   ],
   "imagePath": "/assets/pokemon/019.png",
   "entryCount": 30,
+  "entryTraits": [
+    "fangs",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "enges",
+    "file",
+    "frames",
+    "hazardous",
+    "multiplies",
+    "scav",
+    "starves",
+    "unchecked",
+    "table",
+    "vital",
+    "edibles",
+    "offer",
+    "scavenges",
+    "concern",
+    "door",
+    "ity",
+    "survival",
+    "picky",
+    "settle",
+    "whittle",
+    "wood",
+    "listens",
+    "multiply",
+    "available",
+    "capacity",
+    "gnaw",
+    "wear",
+    "ceaselessly",
+    "incisors",
+    "lifetime",
+    "continue",
+    "gnaws",
+    "anywhere",
+    "impressive",
+    "death",
+    "continuously",
+    "rapidly",
+    "extreme",
+    "numbers",
+    "vitality",
+    "wherever",
+    "produce",
+    "40",
+    "cautious",
+    "hardy",
+    "offspring",
+    "chew",
+    "throughout",
+    "certain",
+    "cut",
+    "unable",
+    "common",
+    "allows",
+    "thing",
+    "searches",
+    "dirty",
+    "objects",
+    "environment",
+    "bites",
+    "growing",
+    "left",
+    "sight",
+    "quick",
+    "right",
+    "asleep",
+    "area",
+    "constantly",
+    "living",
+    "lets",
+    "entire",
+    "places",
+    "ears",
+    "moving",
+    "quickly",
+    "doesn",
+    "eat"
+  ],
   "color": "purple",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +120,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "common",
+        "bites",
+        "sight",
+        "quick",
+        "places"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +136,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "common",
+        "bites",
+        "sight",
+        "quick",
+        "places"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +152,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Will chew on any­ thing with its fangs. If you see one, it is certain that 40 more live in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "40",
+        "chew",
+        "certain",
+        "thing",
+        "area"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +170,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It eats anything. Wherever food is available, it will settle down and produce offspring continuously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "settle",
+        "available",
+        "continuously",
+        "wherever",
+        "produce",
+        "offspring"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +187,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "enges",
+        "scav",
+        "edibles",
+        "available",
+        "ceaselessly",
+        "wherever",
+        "living",
+        "entire"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +206,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This POKéMON's impressive vital­ ity allows it to live anywhere. It also multiplies very quickly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "multiplies",
+        "vital",
+        "ity",
+        "anywhere",
+        "impressive",
+        "allows",
+        "quickly"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +224,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "RATTATA is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "picky",
+        "listens",
+        "anywhere",
+        "extreme",
+        "cautious",
+        "asleep",
+        "constantly",
+        "ears",
+        "moving"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +244,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "RATTATA is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "picky",
+        "listens",
+        "anywhere",
+        "extreme",
+        "cautious",
+        "asleep",
+        "constantly",
+        "ears",
+        "moving"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +264,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A RATTATA is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "listens",
+        "anywhere",
+        "extreme",
+        "cautious",
+        "asleep",
+        "constantly",
+        "ears"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +282,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "whittle",
+        "gnaws",
+        "continuously"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +298,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "common",
+        "bites",
+        "sight",
+        "quick",
+        "places"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +314,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extreme",
+        "vitality",
+        "cautious",
+        "hardy",
+        "environment",
+        "lets"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +331,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extreme",
+        "vitality",
+        "cautious",
+        "hardy",
+        "environment",
+        "lets"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +348,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extreme",
+        "vitality",
+        "cautious",
+        "hardy",
+        "environment",
+        "lets"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +365,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It eats anything. Wherever food is available, it will settle down and produce offspring continuously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "settle",
+        "available",
+        "continuously",
+        "wherever",
+        "produce",
+        "offspring"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +382,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "edibles",
+        "scavenges",
+        "available",
+        "ceaselessly",
+        "wherever",
+        "living",
+        "entire"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +400,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extreme",
+        "vitality",
+        "cautious",
+        "hardy",
+        "environment",
+        "lets"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +417,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "extreme",
+        "vitality",
+        "cautious",
+        "hardy",
+        "environment",
+        "lets"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +434,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "wear",
+        "lifetime",
+        "gnaws",
+        "searches",
+        "objects",
+        "constantly"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +453,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "wear",
+        "lifetime",
+        "gnaws",
+        "searches",
+        "objects",
+        "constantly"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +472,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "edibles",
+        "scavenges",
+        "available",
+        "ceaselessly",
+        "wherever",
+        "living",
+        "entire"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +490,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "whittle",
+        "gnaws",
+        "continuously"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +506,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "picky",
+        "listens",
+        "anywhere",
+        "extreme",
+        "cautious",
+        "asleep",
+        "constantly",
+        "ears",
+        "moving"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +526,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "picky",
+        "listens",
+        "anywhere",
+        "extreme",
+        "cautious",
+        "asleep",
+        "constantly",
+        "ears",
+        "moving"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +546,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its incisors continue growing until its death. If its Trainer doesn’t offer it a file to gnaw on, it will gnaw on door frames, table legs, and so on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "file",
+        "frames",
+        "table",
+        "offer",
+        "door",
+        "gnaw",
+        "incisors",
+        "continue",
+        "death",
+        "growing",
+        "doesn"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +568,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "With their strong capacity for survival, they can live in dirty places without concern. Left unchecked, their numbers multiply rapidly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unchecked",
+        "concern",
+        "survival",
+        "multiply",
+        "capacity",
+        "rapidly",
+        "numbers",
+        "dirty",
+        "left",
+        "places"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +589,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its incisors grow continuously throughout its life. If its incisors get too long, this Pokémon becomes unable to eat, and it starves to death.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "starves",
+        "incisors",
+        "death",
+        "continuously",
+        "throughout",
+        "unable",
+        "eat"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +607,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "hazardous",
+        "wood",
+        "incisors",
+        "cut",
+        "common",
+        "right"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +626,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "40",
+        "chew",
+        "certain",
+        "area"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +643,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "40",
+        "chew",
+        "certain",
+        "area"
+      ]
     }
   ],
   "similarPokemonIds": [

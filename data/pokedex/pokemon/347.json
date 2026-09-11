@@ -10,6 +10,71 @@
   ],
   "imagePath": "/assets/pokemon/347.png",
   "entryCount": 22,
+  "entryTraits": [
+    "claws",
+    "hunting",
+    "aquatic",
+    "wings"
+  ],
+  "entryKeywords": [
+    "oars",
+    "ancestral",
+    "predecessor",
+    "progenitor",
+    "undulating",
+    "primeval",
+    "primordial",
+    "pulling",
+    "primitive",
+    "thrive",
+    "era",
+    "expect",
+    "modern",
+    "adapted",
+    "d",
+    "prehistoric",
+    "swiftly",
+    "firmly",
+    "reanimated",
+    "released",
+    "lot",
+    "hunted",
+    "resurrected",
+    "science",
+    "boat",
+    "eight",
+    "hunting",
+    "grips",
+    "swam",
+    "extending",
+    "pair",
+    "hiding",
+    "restored",
+    "sides",
+    "composition",
+    "regenerated",
+    "ancestor",
+    "changed",
+    "transformed",
+    "type",
+    "don",
+    "seafloor",
+    "bug",
+    "faster",
+    "between",
+    "lived",
+    "fossil",
+    "swim",
+    "since",
+    "catch",
+    "among",
+    "ocean",
+    "100",
+    "swims",
+    "rocks",
+    "apparently",
+    "seas"
+  ],
   "color": "gray",
   "shape": "armor",
   "habitat": "waters-edge",
@@ -39,7 +104,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ANORITH was regenerated from a prehistoric fossil. This primitive POKéMON once lived in warm seas. It grips its prey firmly between its two large claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "primitive",
+        "prehistoric",
+        "firmly",
+        "grips",
+        "regenerated",
+        "between",
+        "lived",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +127,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ANORITH is said to be a type of POKéMON predecessor, with eight wings at the sides of its body. This POKéMON swam in the primordial sea by undulating these eight wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "predecessor",
+        "undulating",
+        "primordial",
+        "eight",
+        "swam",
+        "sides",
+        "type"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +148,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It was resurrected from a fossil using the power of science. It swims by undulating the eight wings at its sides. They were feet that adapted to life in the sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "undulating",
+        "adapted",
+        "resurrected",
+        "science",
+        "eight",
+        "sides",
+        "fossil",
+        "swims"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +170,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is a kind of POKéMON progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "progenitor",
+        "extending",
+        "hiding",
+        "seafloor",
+        "catch",
+        "among",
+        "rocks"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +191,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is a kind of POKéMON progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "progenitor",
+        "extending",
+        "hiding",
+        "seafloor",
+        "catch",
+        "among",
+        "rocks"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +212,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws"
+      ],
+      "keywords": [
+        "reanimated",
+        "hunted",
+        "ancestor",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +231,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws"
+      ],
+      "keywords": [
+        "reanimated",
+        "hunted",
+        "ancestor",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +250,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws"
+      ],
+      "keywords": [
+        "reanimated",
+        "hunted",
+        "ancestor",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +269,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "An ancestral Pokémon that lived in the ocean. Over time, its eight feet transformed into wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "ancestral",
+        "eight",
+        "transformed",
+        "lived",
+        "ocean"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +288,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "An ancestral Pokémon that lived in the ocean. Over time, its eight feet transformed into wings.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "ancestral",
+        "eight",
+        "transformed",
+        "lived",
+        "ocean"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +307,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws"
+      ],
+      "keywords": [
+        "reanimated",
+        "hunted",
+        "ancestor",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +326,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws"
+      ],
+      "keywords": [
+        "reanimated",
+        "hunted",
+        "ancestor",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +345,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws"
+      ],
+      "keywords": [
+        "reanimated",
+        "hunted",
+        "ancestor",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +364,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws"
+      ],
+      "keywords": [
+        "reanimated",
+        "hunted",
+        "ancestor",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +383,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is a kind of Pokémon progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "progenitor",
+        "extending",
+        "hiding",
+        "seafloor",
+        "catch",
+        "among",
+        "rocks"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +404,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "claws"
+      ],
+      "keywords": [
+        "reanimated",
+        "hunted",
+        "ancestor",
+        "lived",
+        "fossil"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +423,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Anorith was regenerated from a prehistoric fossil. This primitive Pokémon once lived in warm seas. It grips its prey firmly between its two large claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "primitive",
+        "prehistoric",
+        "firmly",
+        "grips",
+        "regenerated",
+        "between",
+        "lived",
+        "fossil",
+        "seas"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +446,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Anorith is said to be a type of Pokémon predecessor, with eight wings at the sides of its body. This Pokémon swam in the primordial sea by undulating these eight wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "predecessor",
+        "undulating",
+        "primordial",
+        "eight",
+        "swam",
+        "sides",
+        "type"
+      ]
     },
     {
       "versionId": 29,
@@ -183,7 +467,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When restored Anorith are released into the ocean, they don’t thrive, because the water composition has changed since their era.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "thrive",
+        "era",
+        "released",
+        "restored",
+        "composition",
+        "changed",
+        "don",
+        "since",
+        "ocean"
+      ]
     },
     {
       "versionId": 30,
@@ -191,7 +489,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This is one kind of primeval bug Pokémon. With eight wings, it could apparently swim a lot faster than you’d expect.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "primeval",
+        "expect",
+        "d",
+        "lot",
+        "eight",
+        "bug",
+        "faster",
+        "swim",
+        "apparently"
+      ]
     },
     {
       "versionId": 33,
@@ -199,7 +512,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon was restored from a fossil. Anorith lived in the ocean about 100,000,000 years ago, hunting with its pair of claws.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "hunting",
+        "pair",
+        "restored",
+        "lived",
+        "fossil",
+        "ocean",
+        "100"
+      ]
     },
     {
       "versionId": 34,
@@ -207,7 +534,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "wings"
+      ],
+      "keywords": [
+        "oars",
+        "pulling",
+        "modern",
+        "swiftly",
+        "boat",
+        "eight",
+        "ancestor",
+        "bug",
+        "swim"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,86 @@
   ],
   "imagePath": "/assets/pokemon/443.png",
   "entryCount": 20,
+  "entryTraits": [
+    "cave-dwelling",
+    "hunting",
+    "cold-climate",
+    "fiery",
+    "icy",
+    "fangs"
+  ],
+  "entryKeywords": [
+    "crevice",
+    "heating",
+    "injures",
+    "skulks",
+    "untouched",
+    "planning",
+    "reacts",
+    "huddle",
+    "regrow",
+    "pounced",
+    "soar",
+    "clumsiness",
+    "hurts",
+    "original",
+    "stray",
+    "drags",
+    "worn",
+    "blizzard",
+    "geothermal",
+    "heated",
+    "horizontal",
+    "lair",
+    "chips",
+    "pounces",
+    "warmed",
+    "expect",
+    "passes",
+    "tropics",
+    "hotter",
+    "narrow",
+    "chomps",
+    "bill",
+    "cave",
+    "sides",
+    "impact",
+    "bitten",
+    "teeth",
+    "whatever",
+    "leaps",
+    "stay",
+    "alola",
+    "catches",
+    "few",
+    "bites",
+    "nests",
+    "home",
+    "despite",
+    "care",
+    "right",
+    "stomach",
+    "area",
+    "fall",
+    "lived",
+    "re",
+    "holes",
+    "avoid",
+    "weather",
+    "caves",
+    "days",
+    "walls",
+    "prefers",
+    "catch",
+    "within",
+    "force",
+    "huge",
+    "heat",
+    "big",
+    "close",
+    "doesn",
+    "sunlight"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +120,22 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "stray",
+        "horizontal",
+        "pounces",
+        "cave",
+        "nests",
+        "holes",
+        "walls",
+        "catch",
+        "close"
+      ]
     },
     {
       "versionId": 13,
@@ -48,7 +143,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It once lived in the tropics. To avoid the cold, it lives in caves warmed by geothermal heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "geothermal",
+        "warmed",
+        "tropics",
+        "lived",
+        "avoid",
+        "caves",
+        "heat"
+      ]
     },
     {
       "versionId": 14,
@@ -56,7 +165,13 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clumsiness",
+        "hurts",
+        "huge"
+      ]
     },
     {
       "versionId": 15,
@@ -64,7 +179,22 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "pounced",
+        "geothermal",
+        "horizontal",
+        "warmed",
+        "expect",
+        "bitten",
+        "nests",
+        "holes",
+        "heat",
+        "close"
+      ]
     },
     {
       "versionId": 16,
@@ -72,7 +202,22 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "pounced",
+        "geothermal",
+        "horizontal",
+        "warmed",
+        "expect",
+        "bitten",
+        "nests",
+        "holes",
+        "heat",
+        "close"
+      ]
     },
     {
       "versionId": 17,
@@ -80,7 +225,13 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clumsiness",
+        "hurts",
+        "huge"
+      ]
     },
     {
       "versionId": 18,
@@ -88,7 +239,13 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clumsiness",
+        "hurts",
+        "huge"
+      ]
     },
     {
       "versionId": 21,
@@ -96,7 +253,13 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clumsiness",
+        "hurts",
+        "huge"
+      ]
     },
     {
       "versionId": 22,
@@ -104,7 +267,13 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "clumsiness",
+        "hurts",
+        "huge"
+      ]
     },
     {
       "versionId": 23,
@@ -112,7 +281,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "pounced",
+        "geothermal",
+        "horizontal",
+        "warmed",
+        "expect",
+        "bitten",
+        "nests",
+        "holes",
+        "heat",
+        "close"
+      ]
     },
     {
       "versionId": 24,
@@ -120,7 +304,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "stray",
+        "horizontal",
+        "pounces",
+        "cave",
+        "nests",
+        "holes",
+        "walls",
+        "catch",
+        "close"
+      ]
     },
     {
       "versionId": 25,
@@ -128,7 +327,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "pounced",
+        "geothermal",
+        "horizontal",
+        "warmed",
+        "expect",
+        "bitten",
+        "nests",
+        "holes",
+        "heat",
+        "close"
+      ]
     },
     {
       "versionId": 26,
@@ -136,7 +350,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "stray",
+        "horizontal",
+        "pounces",
+        "cave",
+        "nests",
+        "holes",
+        "walls",
+        "catch",
+        "close"
+      ]
     },
     {
       "versionId": 27,
@@ -144,7 +373,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It lives in caves warmed by geothermal heat. Even so, when the weather gets cold, it will huddle close with others of its kind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "huddle",
+        "geothermal",
+        "warmed",
+        "weather",
+        "caves",
+        "heat",
+        "close"
+      ]
     },
     {
       "versionId": 28,
@@ -152,7 +395,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "skulks",
+        "chips",
+        "passes",
+        "chomps",
+        "teeth",
+        "leaps",
+        "caves",
+        "force"
+      ]
     },
     {
       "versionId": 29,
@@ -160,7 +417,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It reacts to anything that moves—flies right at it and bites it. Sometimes it injures itself, but it doesn’t care too much.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "injures",
+        "reacts",
+        "bites",
+        "care",
+        "right",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -168,7 +434,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its original home is an area much hotter than Alola. If you’re planning to live with one, your heating bill will soar.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "heating",
+        "planning",
+        "soar",
+        "original",
+        "hotter",
+        "bill",
+        "alola",
+        "home",
+        "area",
+        "re"
+      ]
     },
     {
       "versionId": 33,
@@ -176,7 +455,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Gible prefers to stay in narrow holes in the sides of caves heated by geothermal energy. This way, Gible can stay warm even during a blizzard.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "blizzard",
+        "geothermal",
+        "heated",
+        "narrow",
+        "sides",
+        "stay",
+        "holes",
+        "caves",
+        "prefers"
+      ]
     },
     {
       "versionId": 34,
@@ -184,7 +475,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Gible attacks anything that moves, and it drags whatever it catches into the crevice that is its lair. Despite the big mouth, Gible’s stomach is small.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "crevice",
+        "drags",
+        "lair",
+        "whatever",
+        "catches",
+        "despite",
+        "stomach",
+        "big"
+      ]
     },
     {
       "versionId": 39,
@@ -192,7 +494,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It nests in caves untouched by sunlight. Its sharp teeth may fall out when worn away or after an impact, but they regrow within a few days.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "untouched",
+        "regrow",
+        "worn",
+        "impact",
+        "teeth",
+        "few",
+        "nests",
+        "fall",
+        "caves",
+        "days",
+        "within",
+        "sunlight"
+      ]
     }
   ],
   "similarPokemonIds": [

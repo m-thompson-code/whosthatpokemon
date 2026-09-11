@@ -10,6 +10,51 @@
   ],
   "imagePath": "/assets/pokemon/332.png",
   "entryCount": 18,
+  "entryTraits": [
+    "desert-dwelling",
+    "nocturnal",
+    "hunting",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "biding",
+    "ragtag",
+    "traveler",
+    "spending",
+    "substances",
+    "tire",
+    "travelers",
+    "unmoving",
+    "drops",
+    "deserts",
+    "hunts",
+    "follow",
+    "incapable",
+    "exhausted",
+    "thousands",
+    "nocturnal",
+    "waiting",
+    "lose",
+    "going",
+    "packs",
+    "transformed",
+    "daytime",
+    "longer",
+    "seeking",
+    "moisture",
+    "harsh",
+    "blood",
+    "group",
+    "remains",
+    "desert",
+    "active",
+    "sand",
+    "moving",
+    "same",
+    "heat",
+    "sun",
+    "temperature"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": "rough-terrain",
@@ -40,7 +85,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POKéMON becomes active at night when the temperature drops.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "unmoving",
+        "drops",
+        "lose",
+        "daytime",
+        "moisture",
+        "harsh",
+        "remains",
+        "desert",
+        "active",
+        "sun",
+        "temperature"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +110,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If a traveler is going through a desert in the thick of night, CACTURNE will follow in a ragtag group. The POKéMON are biding their time, waiting for the traveler to tire and become incapable of moving.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "biding",
+        "ragtag",
+        "traveler",
+        "tire",
+        "follow",
+        "incapable",
+        "waiting",
+        "going",
+        "group",
+        "desert",
+        "moving"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +135,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "After spending thousands of years in harsh deserts, its blood transformed into the same substances as sand. It is nocturnal, so it hunts at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "spending",
+        "substances",
+        "deserts",
+        "hunts",
+        "thousands",
+        "nocturnal",
+        "transformed",
+        "harsh",
+        "blood",
+        "sand",
+        "same"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +161,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert’s heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "deserts",
+        "hunts",
+        "exhausted",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +183,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert’s heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "deserts",
+        "hunts",
+        "exhausted",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +205,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "exhausted",
+        "seeking",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +226,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "exhausted",
+        "seeking",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +247,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "exhausted",
+        "seeking",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +268,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Packs of them follow travelers through the desert until the travelers can no longer move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "travelers",
+        "follow",
+        "packs",
+        "longer",
+        "desert"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +286,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Packs of them follow travelers through the desert until the travelers can no longer move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "travelers",
+        "follow",
+        "packs",
+        "longer",
+        "desert"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +304,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "exhausted",
+        "seeking",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +325,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "exhausted",
+        "seeking",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +346,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "exhausted",
+        "seeking",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +367,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "exhausted",
+        "seeking",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +388,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "hunting",
+        "nocturnal",
+        "fiery"
+      ],
+      "keywords": [
+        "exhausted",
+        "seeking",
+        "desert",
+        "active",
+        "heat"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +409,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Packs of them follow travelers through the desert until the travelers can no longer move.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "travelers",
+        "follow",
+        "packs",
+        "longer",
+        "desert"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +427,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "unmoving",
+        "drops",
+        "lose",
+        "daytime",
+        "moisture",
+        "harsh",
+        "remains",
+        "desert",
+        "active",
+        "sun",
+        "temperature"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +452,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "biding",
+        "ragtag",
+        "traveler",
+        "tire",
+        "follow",
+        "incapable",
+        "waiting",
+        "going",
+        "group",
+        "desert",
+        "moving"
+      ]
     }
   ],
   "similarPokemonIds": [

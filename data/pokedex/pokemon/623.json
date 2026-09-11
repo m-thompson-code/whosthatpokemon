@@ -10,6 +10,57 @@
   ],
   "imagePath": "/assets/pokemon/623.png",
   "entryCount": 12,
+  "entryTraits": [
+    "sky-dwelling",
+    "mountain-dwelling",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "artillery",
+    "invented",
+    "laborer",
+    "limitless",
+    "machine",
+    "platforms",
+    "proven",
+    "faithfully",
+    "rages",
+    "served",
+    "castles",
+    "ordered",
+    "perches",
+    "perpetual",
+    "removing",
+    "belief",
+    "seal",
+    "follows",
+    "hasn",
+    "theory",
+    "town",
+    "motion",
+    "indiscriminately",
+    "rubble",
+    "mach",
+    "removed",
+    "orders",
+    "built",
+    "produces",
+    "turning",
+    "serve",
+    "chest",
+    "master",
+    "beams",
+    "internal",
+    "speeds",
+    "created",
+    "say",
+    "run",
+    "walls",
+    "mysterious",
+    "across",
+    "mountain",
+    "whole"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": null,
@@ -39,7 +90,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "removing",
+        "seal",
+        "mach",
+        "chest",
+        "internal",
+        "speeds",
+        "across"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +110,11 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ordered"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +122,13 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "created",
+        "run",
+        "mysterious"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +136,13 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "created",
+        "run",
+        "mysterious"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +150,11 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ordered"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +162,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "removing",
+        "seal",
+        "mach",
+        "chest",
+        "internal",
+        "speeds",
+        "across"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +182,11 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ordered"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +194,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "removing",
+        "seal",
+        "mach",
+        "chest",
+        "internal",
+        "speeds",
+        "across"
+      ]
     },
     {
       "versionId": 29,
@@ -103,7 +214,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Some say that ancient people invented Golurk to serve as a laborer. It follows its master’s orders faithfully.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "invented",
+        "laborer",
+        "faithfully",
+        "follows",
+        "orders",
+        "serve",
+        "master",
+        "say"
+      ]
     },
     {
       "versionId": 30,
@@ -111,7 +233,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "rages",
+        "seal",
+        "town",
+        "indiscriminately",
+        "rubble",
+        "removed",
+        "turning",
+        "chest",
+        "mountain",
+        "whole"
+      ]
     },
     {
       "versionId": 33,
@@ -119,7 +256,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "artillery",
+        "platforms",
+        "served",
+        "castles",
+        "perches",
+        "built",
+        "beams",
+        "walls"
+      ]
     },
     {
       "versionId": 34,
@@ -127,7 +277,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "There’s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn’t been proven.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "limitless",
+        "machine",
+        "proven",
+        "perpetual",
+        "belief",
+        "hasn",
+        "theory",
+        "motion",
+        "produces"
+      ]
     }
   ],
   "similarPokemonIds": [

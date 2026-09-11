@@ -9,6 +9,113 @@
   ],
   "imagePath": "/assets/pokemon/117.png",
   "entryCount": 28,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "wings",
+    "sleeping",
+    "fiery",
+    "poisonous",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "numb",
+    "harvest",
+    "ness",
+    "stung",
+    "wriggling",
+    "approached",
+    "examination",
+    "winglike",
+    "slender",
+    "fend",
+    "herbal",
+    "gene",
+    "leak",
+    "ming",
+    "stout",
+    "wing",
+    "backs",
+    "horsea",
+    "valued",
+    "bristles",
+    "numbness",
+    "pectoral",
+    "intruder",
+    "mercy",
+    "carelessly",
+    "fail",
+    "ingredients",
+    "thicker",
+    "approaching",
+    "backwards",
+    "traditional",
+    "hooks",
+    "whirlpools",
+    "topic",
+    "weakens",
+    "boats",
+    "revealed",
+    "coral",
+    "provide",
+    "secrete",
+    "suck",
+    "swallow",
+    "rapidly",
+    "males",
+    "raise",
+    "instant",
+    "medicine",
+    "prized",
+    "raising",
+    "currents",
+    "presence",
+    "suction",
+    "male",
+    "fainting",
+    "offspring",
+    "opening",
+    "fishing",
+    "notice",
+    "spines",
+    "touching",
+    "stay",
+    "barbs",
+    "fin",
+    "shows",
+    "occasionally",
+    "trying",
+    "tips",
+    "swallows",
+    "sleeping",
+    "generates",
+    "raises",
+    "protection",
+    "branches",
+    "flapping",
+    "became",
+    "between",
+    "young",
+    "bones",
+    "spinning",
+    "touch",
+    "swim",
+    "cells",
+    "fins",
+    "larger",
+    "causes",
+    "poisonous",
+    "place",
+    "stronger",
+    "spikes",
+    "highly",
+    "sleeps",
+    "capable",
+    "whole",
+    "swimming",
+    "hot",
+    "toxic"
+  ],
   "color": "blue",
   "shape": "blob",
   "habitat": "sea",
@@ -39,7 +146,24 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "wings"
+      ],
+      "keywords": [
+        "ming",
+        "stout",
+        "wing",
+        "pectoral",
+        "backwards",
+        "rapidly",
+        "flapping",
+        "swim",
+        "fins",
+        "capable"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +171,24 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail",
+        "wings"
+      ],
+      "keywords": [
+        "ming",
+        "stout",
+        "wing",
+        "pectoral",
+        "backwards",
+        "rapidly",
+        "flapping",
+        "swim",
+        "fins",
+        "capable"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +196,23 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Touching the back fin causes numb­ ness. It hooks its tail to coral to stay in place while sleeping.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "sleeping"
+      ],
+      "keywords": [
+        "numb",
+        "ness",
+        "hooks",
+        "coral",
+        "touching",
+        "stay",
+        "fin",
+        "sleeping",
+        "causes",
+        "place"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +220,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "An examination of its cells revealed the presence of a gene not found in HORSEA. It became a hot topic.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "examination",
+        "gene",
+        "horsea",
+        "topic",
+        "revealed",
+        "presence",
+        "became",
+        "cells",
+        "hot"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +242,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its fin-tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "herbal",
+        "leak",
+        "valued",
+        "ingredients",
+        "medicine",
+        "fin",
+        "tips",
+        "bones",
+        "fins",
+        "highly"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +265,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The male raises the young. If it is approached, it uses its toxic spikes to fend off the intruder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "approached",
+        "fend",
+        "intruder",
+        "male",
+        "raises",
+        "young",
+        "spikes",
+        "toxic"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +286,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SEADRA sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this POKéMON’s poison barbs if they fail to notice it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping",
+        "poisonous"
+      ],
+      "keywords": [
+        "harvest",
+        "stung",
+        "wriggling",
+        "fail",
+        "coral",
+        "notice",
+        "barbs",
+        "occasionally",
+        "trying",
+        "branches",
+        "between",
+        "sleeps"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +312,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SEADRA generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This POKéMON weakens prey with these currents, then swallows it whole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "whirlpools",
+        "weakens",
+        "boats",
+        "swallow",
+        "currents",
+        "fishing",
+        "swallows",
+        "generates",
+        "spinning",
+        "whole"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +335,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "herbal",
+        "valued",
+        "mercy",
+        "ingredients",
+        "approaching",
+        "traditional",
+        "medicine",
+        "barbs",
+        "shows",
+        "poisonous",
+        "highly"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +359,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bristles",
+        "carelessly",
+        "fainting",
+        "trying",
+        "touch",
+        "spikes"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +376,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "winglike",
+        "stout",
+        "pectoral",
+        "backwards",
+        "rapidly",
+        "flapping",
+        "fins",
+        "capable",
+        "swimming"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +399,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingredients",
+        "traditional",
+        "provide",
+        "medicine",
+        "prized",
+        "spines",
+        "protection",
+        "bones",
+        "fins"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +419,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingredients",
+        "traditional",
+        "provide",
+        "medicine",
+        "prized",
+        "spines",
+        "protection",
+        "bones",
+        "fins"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +439,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingredients",
+        "traditional",
+        "provide",
+        "medicine",
+        "prized",
+        "spines",
+        "protection",
+        "bones",
+        "fins"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +459,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "An examination of its cells revealed the presence of a gene not found in HORSEA. It became a hot topic.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "examination",
+        "gene",
+        "horsea",
+        "topic",
+        "revealed",
+        "presence",
+        "became",
+        "cells",
+        "hot"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +481,22 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its fin-tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "herbal",
+        "leak",
+        "valued",
+        "ingredients",
+        "medicine",
+        "fin",
+        "tips",
+        "bones",
+        "fins",
+        "highly"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +504,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingredients",
+        "traditional",
+        "provide",
+        "medicine",
+        "prized",
+        "spines",
+        "protection",
+        "bones",
+        "fins"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +524,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingredients",
+        "traditional",
+        "provide",
+        "medicine",
+        "prized",
+        "spines",
+        "protection",
+        "bones",
+        "fins"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +544,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingredients",
+        "traditional",
+        "provide",
+        "medicine",
+        "prized",
+        "spines",
+        "protection",
+        "bones",
+        "fins"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +564,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ingredients",
+        "traditional",
+        "provide",
+        "medicine",
+        "prized",
+        "spines",
+        "protection",
+        "bones",
+        "fins"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +584,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bristles",
+        "carelessly",
+        "fainting",
+        "trying",
+        "touch",
+        "spikes"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +601,22 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "winglike",
+        "stout",
+        "pectoral",
+        "backwards",
+        "rapidly",
+        "flapping",
+        "fins",
+        "capable",
+        "swimming"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +624,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon’s poison barbs if they fail to notice it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping",
+        "poisonous"
+      ],
+      "keywords": [
+        "harvest",
+        "stung",
+        "wriggling",
+        "fail",
+        "coral",
+        "notice",
+        "barbs",
+        "occasionally",
+        "trying",
+        "branches",
+        "between",
+        "sleeps"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +650,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "whirlpools",
+        "weakens",
+        "boats",
+        "swallow",
+        "currents",
+        "fishing",
+        "swallows",
+        "generates",
+        "spinning",
+        "whole"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +673,22 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "sleeping"
+      ],
+      "keywords": [
+        "numbness",
+        "hooks",
+        "coral",
+        "touching",
+        "stay",
+        "fin",
+        "sleeping",
+        "causes",
+        "place"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +696,22 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "sleeping"
+      ],
+      "keywords": [
+        "numbness",
+        "hooks",
+        "coral",
+        "touching",
+        "stay",
+        "fin",
+        "sleeping",
+        "causes",
+        "place"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +719,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "backs",
+        "thicker",
+        "secrete",
+        "males",
+        "raise",
+        "raising",
+        "offspring",
+        "spines",
+        "young",
+        "stronger"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +742,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Seadra’s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that’s larger than the opening of its mouth.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "slender",
+        "suck",
+        "instant",
+        "suction",
+        "opening",
+        "larger"
+      ]
     }
   ],
   "similarPokemonIds": [

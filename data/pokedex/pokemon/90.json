@@ -9,6 +9,80 @@
   ],
   "imagePath": "/assets/pokemon/090.png",
   "entryCount": 32,
+  "entryTraits": [
+    "shell",
+    "aquatic",
+    "desert-dwelling",
+    "burrowing",
+    "nocturnal",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "closed",
+    "resort",
+    "surpasses",
+    "dexterity",
+    "grains",
+    "discards",
+    "gone",
+    "clamping",
+    "last",
+    "piece",
+    "reveals",
+    "yank",
+    "accumulates",
+    "seabed",
+    "shields",
+    "hardness",
+    "trapped",
+    "surprisingly",
+    "vulnerable",
+    "eventually",
+    "mix",
+    "encased",
+    "kept",
+    "pearls",
+    "closing",
+    "pearl",
+    "shells",
+    "closes",
+    "facing",
+    "hanging",
+    "backward",
+    "ing",
+    "opening",
+    "tender",
+    "withstand",
+    "broad",
+    "burrow",
+    "hangs",
+    "parts",
+    "repels",
+    "diamond",
+    "dig",
+    "fluids",
+    "spits",
+    "hole",
+    "seafloor",
+    "harder",
+    "exposed",
+    "sleeping",
+    "burrows",
+    "great",
+    "open",
+    "asleep",
+    "shock",
+    "tongue",
+    "beautiful",
+    "days",
+    "place",
+    "sand",
+    "fast",
+    "still",
+    "swims",
+    "search",
+    "good"
+  ],
   "color": "purple",
   "shape": "ball",
   "habitat": "sea",
@@ -38,7 +112,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "vulnerable",
+        "repels",
+        "open"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +128,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "vulnerable",
+        "repels",
+        "open"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +144,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tender",
+        "withstand",
+        "exposed",
+        "open"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +161,22 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It swims facing backward by open­ ing and closing its two-piece shell. It is surprisingly fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "piece",
+        "surprisingly",
+        "closing",
+        "facing",
+        "backward",
+        "ing",
+        "open",
+        "fast",
+        "swims"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +184,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "grains",
+        "trapped",
+        "mix",
+        "pearls",
+        "shells",
+        "fluids",
+        "beautiful",
+        "sand"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +206,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "resort",
+        "clamping",
+        "last",
+        "reveals",
+        "vulnerable",
+        "parts"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +223,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "shell",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "closes",
+        "hanging",
+        "broad",
+        "burrow",
+        "hole",
+        "seafloor",
+        "sleeping",
+        "tongue",
+        "sand"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +249,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "shell",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "closes",
+        "hanging",
+        "broad",
+        "burrow",
+        "hole",
+        "seafloor",
+        "sleeping",
+        "tongue",
+        "sand"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +275,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "closes",
+        "hanging",
+        "broad",
+        "hole",
+        "seafloor",
+        "burrows",
+        "asleep",
+        "tongue",
+        "place"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +300,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "surprisingly",
+        "encased",
+        "tender",
+        "diamond",
+        "harder"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +318,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "vulnerable",
+        "repels",
+        "open"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +334,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "kept",
+        "closing",
+        "shells",
+        "hanging",
+        "backward",
+        "opening",
+        "tongue",
+        "swims"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +356,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "kept",
+        "closing",
+        "shells",
+        "hanging",
+        "backward",
+        "opening",
+        "tongue",
+        "swims"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +378,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "kept",
+        "closing",
+        "shells",
+        "hanging",
+        "backward",
+        "opening",
+        "tongue",
+        "swims"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +400,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "piece",
+        "surprisingly",
+        "closing",
+        "facing",
+        "backward",
+        "opening",
+        "fast",
+        "swims"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +422,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "grains",
+        "trapped",
+        "mix",
+        "pearls",
+        "shells",
+        "fluids",
+        "beautiful",
+        "sand"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +444,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "kept",
+        "closing",
+        "shells",
+        "hanging",
+        "backward",
+        "opening",
+        "tongue",
+        "swims"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +466,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "kept",
+        "closing",
+        "shells",
+        "hanging",
+        "backward",
+        "opening",
+        "tongue",
+        "swims"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +488,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "kept",
+        "closing",
+        "shells",
+        "hanging",
+        "backward",
+        "opening",
+        "tongue",
+        "swims"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +510,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "kept",
+        "closing",
+        "shells",
+        "hanging",
+        "backward",
+        "opening",
+        "tongue",
+        "swims"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +532,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "vulnerable",
+        "repels",
+        "open"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +548,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "resort",
+        "clamping",
+        "last",
+        "reveals",
+        "vulnerable",
+        "parts"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +565,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "shell",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "closes",
+        "hanging",
+        "broad",
+        "burrow",
+        "hole",
+        "seafloor",
+        "sleeping",
+        "tongue",
+        "sand"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +591,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling",
+        "shell",
+        "burrowing",
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "closes",
+        "hanging",
+        "broad",
+        "burrow",
+        "hole",
+        "seafloor",
+        "sleeping",
+        "tongue",
+        "sand"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +617,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The hardness of its shell surpasses the hardness of a diamond. In days gone by, people used the shells to make shields.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "surpasses",
+        "gone",
+        "shields",
+        "hardness",
+        "shells",
+        "diamond",
+        "days"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +637,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon’s tongue is always hanging out. It uses its tongue with great dexterity to dig up sand from the seabed in its search for food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "dexterity",
+        "seabed",
+        "hanging",
+        "dig",
+        "great",
+        "tongue",
+        "sand",
+        "search"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +659,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The sand that accumulates inside its shell eventually becomes a pearl. But the pearl gets in the way, so it spits it out and discards it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "discards",
+        "accumulates",
+        "eventually",
+        "pearl",
+        "spits",
+        "sand"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +679,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "closed",
+        "yank",
+        "hangs",
+        "open",
+        "shock",
+        "tongue",
+        "still",
+        "good"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +700,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tender",
+        "withstand",
+        "exposed",
+        "open"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +717,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "tender",
+        "withstand",
+        "exposed",
+        "open"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +734,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "shell"
+      ],
+      "keywords": [
+        "piece",
+        "surprisingly",
+        "closing",
+        "facing",
+        "backward",
+        "opening",
+        "fast",
+        "swims"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +756,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "vulnerable",
+        "repels",
+        "open"
+      ]
     }
   ],
   "similarPokemonIds": [

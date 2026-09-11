@@ -9,6 +9,51 @@
   ],
   "imagePath": "/assets/pokemon/155.png",
   "entryCount": 22,
+  "entryTraits": [
+    "fiery"
+  ],
+  "entryKeywords": [
+    "hails",
+    "hottest",
+    "johto",
+    "sputters",
+    "firepower",
+    "hunched",
+    "fitfully",
+    "harbors",
+    "splutter",
+    "combustion",
+    "incomplete",
+    "flaring",
+    "vigorous",
+    "surprised",
+    "self",
+    "tremendous",
+    "curled",
+    "flares",
+    "vigorously",
+    "tired",
+    "intimidate",
+    "curls",
+    "startled",
+    "disposition",
+    "due",
+    "spouts",
+    "stays",
+    "burn",
+    "timid",
+    "protection",
+    "angry",
+    "region",
+    "protects",
+    "shoots",
+    "burns",
+    "attacked",
+    "though",
+    "nature",
+    "usually",
+    "ball"
+  ],
   "color": "yellow",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -38,7 +83,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is timid, and always curls it­ self up in a ball. If attacked, it flares up its back for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "self",
+        "flares",
+        "curls",
+        "timid",
+        "protection",
+        "attacked",
+        "ball"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +101,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hunched",
+        "surprised",
+        "stays",
+        "angry",
+        "shoots",
+        "usually"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +120,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hottest",
+        "flaring",
+        "intimidate",
+        "spouts",
+        "angry",
+        "burns"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +139,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "fitfully",
+        "splutter",
+        "combustion",
+        "incomplete",
+        "flaring",
+        "vigorous",
+        "tired",
+        "angry",
+        "protects"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +161,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "fitfully",
+        "splutter",
+        "combustion",
+        "incomplete",
+        "flaring",
+        "vigorous",
+        "tired",
+        "angry",
+        "protects"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +183,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It flares flames from its back to protect itself. The fire burns vigorously if the POKéMON is angry. When it is tired, it sputters with incomplete combustion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "sputters",
+        "combustion",
+        "incomplete",
+        "flares",
+        "vigorously",
+        "tired",
+        "angry",
+        "burns"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +204,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hunched",
+        "surprised",
+        "stays",
+        "angry",
+        "shoots",
+        "usually"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +223,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flares",
+        "curls",
+        "timid",
+        "protection",
+        "attacked",
+        "ball"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +240,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "vigorously",
+        "startled",
+        "burn",
+        "timid",
+        "nature"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +258,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "vigorously",
+        "startled",
+        "burn",
+        "timid",
+        "nature"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +276,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "vigorously",
+        "startled",
+        "burn",
+        "timid",
+        "nature"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +294,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flares",
+        "curls",
+        "timid",
+        "protection",
+        "attacked",
+        "ball"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +311,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "hunched",
+        "surprised",
+        "stays",
+        "angry",
+        "shoots",
+        "usually"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +330,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "vigorously",
+        "startled",
+        "burn",
+        "timid",
+        "nature"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +348,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "vigorously",
+        "startled",
+        "burn",
+        "timid",
+        "nature"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +366,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "vigorously",
+        "startled",
+        "burn",
+        "timid",
+        "nature"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +384,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "vigorously",
+        "startled",
+        "burn",
+        "timid",
+        "nature"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +402,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flares",
+        "curls",
+        "timid",
+        "protection",
+        "attacked",
+        "ball"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +419,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "vigorously",
+        "startled",
+        "burn",
+        "timid",
+        "nature"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +437,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "fitfully",
+        "splutter",
+        "combustion",
+        "incomplete",
+        "flaring",
+        "vigorous",
+        "tired",
+        "angry",
+        "protects"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +459,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "fitfully",
+        "splutter",
+        "combustion",
+        "incomplete",
+        "flaring",
+        "vigorous",
+        "tired",
+        "angry",
+        "protects"
+      ]
     },
     {
       "versionId": 39,
@@ -206,7 +481,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "hails",
+        "johto",
+        "firepower",
+        "harbors",
+        "tremendous",
+        "curled",
+        "disposition",
+        "due",
+        "timid",
+        "region",
+        "though",
+        "usually",
+        "ball"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,81 @@
   ],
   "imagePath": "/assets/pokemon/470.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sky-dwelling",
+    "tail",
+    "forest-dwelling",
+    "fur"
+  ],
+  "entryKeywords": [
+    "favor",
+    "galarians",
+    "crafted",
+    "sharpness",
+    "younger",
+    "patch",
+    "supply",
+    "basically",
+    "distinctive",
+    "exceeds",
+    "perfume",
+    "fresh",
+    "performs",
+    "sharpen",
+    "disputes",
+    "animal",
+    "stroke",
+    "sunshine",
+    "odor",
+    "perform",
+    "enveloped",
+    "fantastic",
+    "blade",
+    "cutting",
+    "know",
+    "closer",
+    "flow",
+    "sword",
+    "produce",
+    "cellular",
+    "composition",
+    "photosynthesis",
+    "fell",
+    "slice",
+    "nutrition",
+    "master",
+    "edge",
+    "clear",
+    "pure",
+    "drifts",
+    "age",
+    "fallen",
+    "fragrance",
+    "ll",
+    "quiet",
+    "smell",
+    "similar",
+    "leaf",
+    "clean",
+    "rivers",
+    "right",
+    "asleep",
+    "friends",
+    "cells",
+    "plant",
+    "popular",
+    "forests",
+    "plants",
+    "scent",
+    "aroma",
+    "eating",
+    "though",
+    "grass",
+    "creates",
+    "although",
+    "takes",
+    "doesn"
+  ],
   "color": "green",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +113,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "enveloped",
+        "photosynthesis",
+        "clear",
+        "plant"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +130,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "enveloped",
+        "photosynthesis",
+        "clear",
+        "plant"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +147,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "basically",
+        "perform",
+        "photosynthesis",
+        "similar",
+        "cells",
+        "plants"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +164,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "When you see LEAFEON asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "patch",
+        "sunshine",
+        "know",
+        "produce",
+        "photosynthesis",
+        "ll",
+        "clean",
+        "asleep"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +185,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When you see LEAFEON asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "patch",
+        "sunshine",
+        "know",
+        "produce",
+        "photosynthesis",
+        "ll",
+        "clean",
+        "asleep"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +206,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "basically",
+        "perform",
+        "photosynthesis",
+        "similar",
+        "cells",
+        "plants"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +223,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "basically",
+        "perform",
+        "photosynthesis",
+        "similar",
+        "cells",
+        "plants"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +240,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "performs",
+        "photosynthesis",
+        "pure",
+        "similar",
+        "cells",
+        "plants",
+        "creates"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +260,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "performs",
+        "photosynthesis",
+        "pure",
+        "similar",
+        "cells",
+        "plants",
+        "creates"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +280,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When you see Leafeon asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "patch",
+        "sunshine",
+        "know",
+        "produce",
+        "photosynthesis",
+        "ll",
+        "clean",
+        "asleep"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +301,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "enveloped",
+        "photosynthesis",
+        "clear",
+        "plant"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +318,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When you see Leafeon asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "patch",
+        "sunshine",
+        "know",
+        "produce",
+        "photosynthesis",
+        "ll",
+        "clean",
+        "asleep"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +339,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "enveloped",
+        "photosynthesis",
+        "clear",
+        "plant"
+      ]
     },
     {
       "versionId": 27,
@@ -142,7 +356,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its cellular composition is closer to that of a plant than an animal. It uses photosynthesis to produce its energy supply without eating food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "supply",
+        "animal",
+        "closer",
+        "produce",
+        "cellular",
+        "composition",
+        "photosynthesis",
+        "plant",
+        "eating"
+      ]
     },
     {
       "versionId": 28,
@@ -150,7 +376,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "younger",
+        "fresh",
+        "odor",
+        "age",
+        "fallen",
+        "fragrance",
+        "smell",
+        "grass",
+        "takes"
+      ]
     },
     {
       "versionId": 29,
@@ -158,7 +396,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it doesn’t like disputes, it will sharpen the leaf on its tail into a blade and fight if it has to protect its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "sharpen",
+        "disputes",
+        "blade",
+        "leaf",
+        "friends",
+        "although",
+        "doesn"
+      ]
     },
     {
       "versionId": 30,
@@ -166,7 +416,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It gets its nutrition from photosynthesis. It lives a quiet life deep in forests where clean rivers flow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "flow",
+        "photosynthesis",
+        "nutrition",
+        "quiet",
+        "clean",
+        "rivers",
+        "forests"
+      ]
     },
     {
       "versionId": 33,
@@ -174,7 +434,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Galarians favor the distinctive aroma that drifts from this Pokémon’s leaves. There’s a popular perfume made using that scent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "favor",
+        "galarians",
+        "distinctive",
+        "perfume",
+        "drifts",
+        "popular",
+        "scent",
+        "aroma"
+      ]
     },
     {
       "versionId": 34,
@@ -182,7 +453,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon’s tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "tail"
+      ],
+      "keywords": [
+        "fantastic",
+        "blade",
+        "cutting",
+        "slice",
+        "edge",
+        "right",
+        "though"
+      ]
     },
     {
       "versionId": 39,
@@ -190,7 +474,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Cells similar to those of plants have been found in its fur. Its hard tail can fell a large tree with one stroke, and the tail's sharpness exceeds even that of a sword crafted by a master.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "crafted",
+        "sharpness",
+        "exceeds",
+        "stroke",
+        "sword",
+        "fell",
+        "master",
+        "similar",
+        "cells",
+        "plants"
+      ]
     }
   ],
   "similarPokemonIds": [

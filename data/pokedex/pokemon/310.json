@@ -9,6 +9,53 @@
   ],
   "imagePath": "/assets/pokemon/310.png",
   "entryCount": 22,
+  "entryTraits": [
+    "forest-dwelling",
+    "electric"
+  ],
+  "entryKeywords": [
+    "unnatural",
+    "eases",
+    "recover",
+    "soreness",
+    "thunderbolt",
+    "vicinities",
+    "ignite",
+    "overhead",
+    "enters",
+    "thundercloud",
+    "collecting",
+    "stimulates",
+    "discharging",
+    "hits",
+    "thunderclouds",
+    "striking",
+    "drop",
+    "fallen",
+    "beneath",
+    "bolts",
+    "mane",
+    "atmosphere",
+    "discharges",
+    "sparks",
+    "fires",
+    "above",
+    "falls",
+    "say",
+    "rarely",
+    "forest",
+    "run",
+    "constantly",
+    "create",
+    "creates",
+    "thought",
+    "same",
+    "well",
+    "lightning",
+    "quickly",
+    "muscles",
+    "born"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +85,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "MANECTRIC is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this POKéMON creates thunderclouds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "ignite",
+        "enters",
+        "discharging",
+        "thunderclouds",
+        "mane",
+        "sparks",
+        "fires",
+        "forest",
+        "constantly",
+        "creates"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +109,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "MANECTRIC discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This POKéMON creates thunderclouds above its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "collecting",
+        "thunderclouds",
+        "mane",
+        "atmosphere",
+        "discharges",
+        "above",
+        "creates"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +129,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Because lightning falls in their vicinities, MANECTRIC were thought to have been born from lightning. In battle, they create thunderclouds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "vicinities",
+        "thunderclouds",
+        "falls",
+        "create",
+        "thought",
+        "lightning",
+        "born"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +149,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It rarely appears before people. It is said to nest where lightning has fallen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "fallen",
+        "rarely",
+        "lightning"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +165,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It rarely appears before people. It is said to nest where lightning has fallen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "fallen",
+        "rarely",
+        "lightning"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +181,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overhead",
+        "thundercloud",
+        "drop",
+        "bolts",
+        "mane",
+        "discharges",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +202,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overhead",
+        "thundercloud",
+        "drop",
+        "bolts",
+        "mane",
+        "discharges",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +223,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overhead",
+        "thundercloud",
+        "drop",
+        "bolts",
+        "mane",
+        "discharges",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +244,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "thunderbolt",
+        "discharging",
+        "hits",
+        "mane"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +261,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "thunderbolt",
+        "discharging",
+        "hits",
+        "mane"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +278,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overhead",
+        "thundercloud",
+        "drop",
+        "bolts",
+        "mane",
+        "discharges",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +299,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overhead",
+        "thundercloud",
+        "drop",
+        "bolts",
+        "mane",
+        "discharges",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +320,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overhead",
+        "thundercloud",
+        "drop",
+        "bolts",
+        "mane",
+        "discharges",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +341,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overhead",
+        "thundercloud",
+        "drop",
+        "bolts",
+        "mane",
+        "discharges",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +362,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It rarely appears before people. It is said to nest where lightning has fallen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "fallen",
+        "rarely",
+        "lightning"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +378,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overhead",
+        "thundercloud",
+        "drop",
+        "bolts",
+        "mane",
+        "discharges",
+        "creates",
+        "lightning"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +399,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pokémon creates thunderclouds.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "ignite",
+        "enters",
+        "discharging",
+        "thunderclouds",
+        "mane",
+        "sparks",
+        "fires",
+        "forest",
+        "constantly",
+        "creates"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +423,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pokémon creates thunderclouds above its head.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "collecting",
+        "thunderclouds",
+        "mane",
+        "atmosphere",
+        "discharges",
+        "above",
+        "creates"
+      ]
     },
     {
       "versionId": 29,
@@ -182,7 +443,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Manectric can be found beneath unnatural thunderclouds. People say it can run at the same speed as lightning striking.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "unnatural",
+        "thunderclouds",
+        "striking",
+        "beneath",
+        "say",
+        "run",
+        "same",
+        "lightning"
+      ]
     },
     {
       "versionId": 30,
@@ -190,7 +464,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "eases",
+        "recover",
+        "soreness",
+        "stimulates",
+        "well",
+        "quickly",
+        "muscles"
+      ]
     },
     {
       "versionId": 33,
@@ -198,7 +484,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "eases",
+        "recover",
+        "soreness",
+        "stimulates",
+        "well",
+        "quickly",
+        "muscles"
+      ]
     },
     {
       "versionId": 34,
@@ -206,7 +504,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It rarely appears before people. It is said to nest where lightning has fallen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "fallen",
+        "rarely",
+        "lightning"
+      ]
     }
   ],
   "similarPokemonIds": [

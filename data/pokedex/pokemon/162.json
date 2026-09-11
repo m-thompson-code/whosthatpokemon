@@ -9,6 +9,50 @@
   ],
   "imagePath": "/assets/pokemon/162.png",
   "entryCount": 21,
+  "entryTraits": [
+    "tail",
+    "hunting",
+    "burrowing",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "maze",
+    "telling",
+    "slickly",
+    "fit",
+    "fleet",
+    "deeper",
+    "nimble",
+    "spaces",
+    "squirm",
+    "corners",
+    "skinny",
+    "suit",
+    "slim",
+    "rattata",
+    "narrow",
+    "curling",
+    "hunting",
+    "spite",
+    "enter",
+    "ing",
+    "offspring",
+    "chase",
+    "hunt",
+    "limbs",
+    "puts",
+    "mother",
+    "build",
+    "begins",
+    "impossible",
+    "nests",
+    "despite",
+    "quick",
+    "burrows",
+    "tell",
+    "short",
+    "likes"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +82,14 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It makes a nest to suit its long and skinny body. The nest is impossible for other POKéMON to enter.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skinny",
+        "suit",
+        "enter",
+        "impossible"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +97,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "There is no tell­ ing where the tail begins. Despite its short legs, it is quick at hunt­ ing RATTATA.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "rattata",
+        "ing",
+        "hunt",
+        "begins",
+        "despite",
+        "quick",
+        "tell",
+        "short"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +119,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It lives in narrow burrows that fit its slim body. The deeper the nests go, the more maze­ like they become.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "burrowing"
+      ],
+      "keywords": [
+        "maze",
+        "fit",
+        "deeper",
+        "slim",
+        "narrow",
+        "nests",
+        "burrows"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +139,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "FURRET has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this POKéMON is very nimble and fleet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "slickly",
+        "fleet",
+        "nimble",
+        "spaces",
+        "squirm",
+        "slim",
+        "narrow",
+        "spite",
+        "limbs",
+        "build",
+        "short"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +161,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "FURRET has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this POKéMON is very nimble and fleet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "slickly",
+        "fleet",
+        "nimble",
+        "spaces",
+        "squirm",
+        "slim",
+        "narrow",
+        "spite",
+        "limbs",
+        "build",
+        "short"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +183,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A FURRET has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "fleet",
+        "nimble",
+        "spaces",
+        "squirm",
+        "slim",
+        "narrow",
+        "spite",
+        "limbs",
+        "build",
+        "short"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +204,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "There is no telling where its tail begins. Despite its short legs, it is quick at hunting RATTATA.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "hunting"
+      ],
+      "keywords": [
+        "telling",
+        "rattata",
+        "hunting",
+        "begins",
+        "despite",
+        "quick",
+        "short"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +225,14 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It makes a nest to suit its long and skinny body. The nest is impossible for other POKéMON to enter.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skinny",
+        "suit",
+        "enter",
+        "impossible"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +240,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "corners",
+        "curling",
+        "offspring",
+        "puts",
+        "mother"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +258,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "corners",
+        "curling",
+        "offspring",
+        "puts",
+        "mother"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +276,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "corners",
+        "curling",
+        "offspring",
+        "puts",
+        "mother"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +294,14 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skinny",
+        "suit",
+        "enter",
+        "impossible"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +309,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "There is no telling where the tail begins. Despite its short legs, it is quick and likes to chase RATTATA.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "telling",
+        "rattata",
+        "chase",
+        "begins",
+        "despite",
+        "quick",
+        "short",
+        "likes"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +330,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "corners",
+        "curling",
+        "offspring",
+        "puts",
+        "mother"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +348,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "corners",
+        "curling",
+        "offspring",
+        "puts",
+        "mother"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +366,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "corners",
+        "curling",
+        "offspring",
+        "puts",
+        "mother"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +384,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "corners",
+        "curling",
+        "offspring",
+        "puts",
+        "mother"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +402,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "corners",
+        "curling",
+        "offspring",
+        "puts",
+        "mother"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +420,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "skinny",
+        "suit",
+        "enter",
+        "impossible"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +435,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "slickly",
+        "fleet",
+        "nimble",
+        "spaces",
+        "squirm",
+        "slim",
+        "narrow",
+        "spite",
+        "limbs",
+        "build",
+        "short"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +457,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "slickly",
+        "fleet",
+        "nimble",
+        "spaces",
+        "squirm",
+        "slim",
+        "narrow",
+        "spite",
+        "limbs",
+        "build",
+        "short"
+      ]
     }
   ],
   "similarPokemonIds": [

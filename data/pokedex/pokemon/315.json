@@ -10,6 +10,76 @@
   ],
   "imagePath": "/assets/pokemon/315.png",
   "entryCount": 21,
+  "entryTraits": [
+    "arms",
+    "poisonous",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "wherein",
+    "duel",
+    "serenity",
+    "homeland",
+    "careless",
+    "projectiles",
+    "picking",
+    "tradition",
+    "separately",
+    "poisons",
+    "lovely",
+    "my",
+    "healthier",
+    "nutritionally",
+    "relaxes",
+    "springwater",
+    "unusual",
+    "vividly",
+    "reveal",
+    "relaxing",
+    "coloration",
+    "effect",
+    "challenge",
+    "drinking",
+    "drinks",
+    "raised",
+    "thorns",
+    "blooms",
+    "colored",
+    "occasions",
+    "rich",
+    "brings",
+    "pleasant",
+    "contain",
+    "deeply",
+    "drink",
+    "think",
+    "tries",
+    "don",
+    "fragrance",
+    "healthy",
+    "send",
+    "hand",
+    "vicious",
+    "bloom",
+    "steal",
+    "colors",
+    "clean",
+    "old",
+    "shoots",
+    "rare",
+    "beautiful",
+    "flowers",
+    "poisonous",
+    "stronger",
+    "different",
+    "scent",
+    "living",
+    "aroma",
+    "highly",
+    "though",
+    "toxic",
+    "extremely"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -40,7 +110,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this POKéMON brings serenity to living things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "serenity",
+        "projectiles",
+        "thorns",
+        "brings",
+        "tries",
+        "steal",
+        "shoots",
+        "flowers",
+        "living",
+        "aroma"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +133,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "On extremely rare occasions, a ROSELIA is said to appear with its flowers in unusual colors. The thorns on this POKéMON’s head contain a vicious poison.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "unusual",
+        "thorns",
+        "occasions",
+        "contain",
+        "vicious",
+        "colors",
+        "rare",
+        "flowers",
+        "extremely"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +155,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A ROSELIA that drinks nutritionally rich springwater blooms with lovely flowers. The fragrance of its flowers has the effect of making its foes careless.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "careless",
+        "lovely",
+        "nutritionally",
+        "springwater",
+        "effect",
+        "drinks",
+        "blooms",
+        "rich",
+        "fragrance",
+        "flowers"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +176,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the ROSELIA is.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "healthier",
+        "relaxing",
+        "fragrance",
+        "flowers",
+        "stronger",
+        "aroma"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +193,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the ROSELIA is.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "healthier",
+        "relaxing",
+        "fragrance",
+        "flowers",
+        "stronger",
+        "aroma"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +210,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "ROSELIA raised on clean drinking water are known to grow vividly colored flowers.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "vividly",
+        "drinking",
+        "raised",
+        "colored",
+        "clean",
+        "flowers"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +229,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The beautiful flowers on its arms have toxic thorns. Don’t even think about picking those flowers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "poisonous"
+      ],
+      "keywords": [
+        "picking",
+        "thorns",
+        "think",
+        "don",
+        "beautiful",
+        "flowers",
+        "toxic"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +250,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "relaxes",
+        "pleasant",
+        "deeply",
+        "healthy",
+        "flowers",
+        "scent",
+        "aroma"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +268,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "ROSELIA that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nutritionally",
+        "springwater",
+        "reveal",
+        "coloration",
+        "rich",
+        "drink",
+        "bloom",
+        "rare"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +287,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "ROSELIA that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nutritionally",
+        "springwater",
+        "reveal",
+        "coloration",
+        "rich",
+        "drink",
+        "bloom",
+        "rare"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +306,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "relaxes",
+        "pleasant",
+        "deeply",
+        "healthy",
+        "flowers",
+        "scent",
+        "aroma"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +324,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "relaxes",
+        "pleasant",
+        "deeply",
+        "healthy",
+        "flowers",
+        "scent",
+        "aroma"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +342,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "separately",
+        "poisons",
+        "healthier",
+        "hand",
+        "stronger",
+        "different",
+        "aroma"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +362,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "separately",
+        "poisons",
+        "healthier",
+        "hand",
+        "stronger",
+        "different",
+        "aroma"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +382,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "separately",
+        "poisons",
+        "healthier",
+        "hand",
+        "stronger",
+        "different",
+        "aroma"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +402,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nutritionally",
+        "springwater",
+        "reveal",
+        "coloration",
+        "rich",
+        "drink",
+        "bloom",
+        "rare"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +421,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Roselia shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this Pokémon brings serenity to living things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "serenity",
+        "projectiles",
+        "thorns",
+        "brings",
+        "tries",
+        "steal",
+        "shoots",
+        "flowers",
+        "living",
+        "aroma"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +444,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "On extremely rare occasions, a Roselia is said to appear with its flowers in unusual colors. The thorns on this Pokémon’s head contain a vicious poison.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "unusual",
+        "thorns",
+        "occasions",
+        "contain",
+        "vicious",
+        "colors",
+        "rare",
+        "flowers",
+        "extremely"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +466,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "healthier",
+        "relaxing",
+        "fragrance",
+        "flowers",
+        "stronger",
+        "aroma"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +483,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "separately",
+        "poisons",
+        "healthier",
+        "hand",
+        "stronger",
+        "different",
+        "aroma"
+      ]
     },
     {
       "versionId": 39,
@@ -200,7 +503,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "wherein",
+        "duel",
+        "homeland",
+        "tradition",
+        "my",
+        "challenge",
+        "thorns",
+        "send",
+        "old",
+        "beautiful",
+        "poisonous",
+        "highly",
+        "though"
+      ]
     }
   ],
   "similarPokemonIds": [

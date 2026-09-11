@@ -9,6 +9,62 @@
   ],
   "imagePath": "/assets/pokemon/736.png",
   "entryCount": 6,
+  "entryTraits": [
+    "cave-dwelling",
+    "forest-dwelling",
+    "electric",
+    "arms",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "frequented",
+    "rookidee",
+    "irritated",
+    "scrape",
+    "shouldn",
+    "slurp",
+    "mandibles",
+    "risk",
+    "thread",
+    "grabs",
+    "jaw",
+    "sap",
+    "caught",
+    "feed",
+    "tracks",
+    "bitten",
+    "floor",
+    "rather",
+    "stick",
+    "normally",
+    "flee",
+    "getting",
+    "natural",
+    "snap",
+    "dig",
+    "spits",
+    "ll",
+    "sticky",
+    "hand",
+    "enables",
+    "nests",
+    "order",
+    "branches",
+    "find",
+    "avoid",
+    "forest",
+    "jaws",
+    "near",
+    "electric",
+    "stop",
+    "sturdy",
+    "attacked",
+    "underground",
+    "places",
+    "bird",
+    "gather",
+    "big"
+  ],
   "color": "gray",
   "shape": "armor",
   "habitat": null,
@@ -38,7 +94,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "scrape",
+        "slurp",
+        "jaw",
+        "sap",
+        "normally",
+        "enables",
+        "underground"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +115,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "frequented",
+        "order",
+        "avoid",
+        "near",
+        "electric",
+        "attacked",
+        "places",
+        "bird",
+        "gather"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +137,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If you find its nest, you shouldn’t stick your hand inside. You’ll get bitten by an irritated Grubbin.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "irritated",
+        "shouldn",
+        "bitten",
+        "stick",
+        "ll",
+        "hand",
+        "find"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +157,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mandibles",
+        "thread",
+        "grabs",
+        "tracks",
+        "spits",
+        "sticky",
+        "stop",
+        "sturdy"
+      ]
     },
     {
       "versionId": 33,
@@ -70,7 +176,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "rookidee",
+        "mandibles",
+        "risk",
+        "caught",
+        "rather",
+        "flee",
+        "getting",
+        "natural",
+        "snap",
+        "branches"
+      ]
     },
     {
       "versionId": 34,
@@ -78,7 +199,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "sap",
+        "feed",
+        "floor",
+        "dig",
+        "nests",
+        "forest",
+        "jaws",
+        "big"
+      ]
     }
   ],
   "similarPokemonIds": [

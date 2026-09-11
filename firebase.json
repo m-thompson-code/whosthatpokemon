@@ -21,5 +21,25 @@
   },
   "storage": {
     "rules": "firebase/storage.rules"
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "https://whosthatpokemon--moosthatpokemon.us-east4.hosted.app",
+        "type": 302
+      },
+      {
+        "source": "/:path*",
+        "destination": "https://whosthatpokemon--moosthatpokemon.us-east4.hosted.app/:path",
+        "type": 302
+      }
+    ]
   }
 }

@@ -9,6 +9,121 @@
   ],
   "imagePath": "/assets/pokemon/054.png",
   "entryCount": 33,
+  "entryTraits": [
+    "psychic",
+    "sleeping",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "agony",
+    "befuddled",
+    "chic",
+    "ergo",
+    "intent",
+    "psy",
+    "puzzlement",
+    "recollection",
+    "subsides",
+    "am",
+    "beset",
+    "chronic",
+    "contrary",
+    "controversy",
+    "episode",
+    "exhibiting",
+    "experiencing",
+    "exploring",
+    "inactive",
+    "scholars",
+    "sleepers",
+    "spacing",
+    "spurred",
+    "stimulate",
+    "tilts",
+    "wracked",
+    "intends",
+    "latent",
+    "lulling",
+    "puzzled",
+    "wily",
+    "bewildered",
+    "overwhelm",
+    "perpetual",
+    "tormented",
+    "vacant",
+    "discovery",
+    "intensifies",
+    "overwhelmed",
+    "troubled",
+    "worsens",
+    "psychokinesis",
+    "recall",
+    "suffers",
+    "event",
+    "meaning",
+    "supposedly",
+    "done",
+    "worse",
+    "altered",
+    "enigmatic",
+    "happen",
+    "progressively",
+    "stressed",
+    "peaks",
+    "remembers",
+    "exhibit",
+    "passes",
+    "ways",
+    "erupt",
+    "wake",
+    "erupts",
+    "usual",
+    "whether",
+    "mystical",
+    "remember",
+    "headache",
+    "memory",
+    "ease",
+    "fierce",
+    "possible",
+    "abilities",
+    "constant",
+    "psychokinetic",
+    "normally",
+    "headaches",
+    "i",
+    "unable",
+    "state",
+    "why",
+    "strange",
+    "begins",
+    "doing",
+    "having",
+    "pain",
+    "sleeping",
+    "generates",
+    "intense",
+    "great",
+    "odd",
+    "seems",
+    "do",
+    "cry",
+    "cells",
+    "starts",
+    "little",
+    "look",
+    "turns",
+    "active",
+    "among",
+    "brain",
+    "constantly",
+    "mysterious",
+    "10",
+    "lets",
+    "usually",
+    "doesn",
+    "apparently"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -39,7 +154,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lulling",
+        "wily",
+        "vacant",
+        "psychokinetic",
+        "look"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +170,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lulling",
+        "wily",
+        "vacant",
+        "psychokinetic",
+        "look"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +186,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "intends",
+        "tormented",
+        "headaches",
+        "do"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +203,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puzzled",
+        "recall",
+        "mystical",
+        "why",
+        "doesn"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +219,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chronic",
+        "episode",
+        "recall",
+        "peaks",
+        "exhibit",
+        "headache",
+        "unable",
+        "odd",
+        "seems"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +239,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The only time it can use its psy­ chic power is when its sleeping brain cells happen to wake.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "chic",
+        "psy",
+        "happen",
+        "wake",
+        "sleeping",
+        "cells",
+        "brain"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +259,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "PSYDUCK uses a mysterious power. When it does so, this POKéMON generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "controversy",
+        "scholars",
+        "sleepers",
+        "spurred",
+        "discovery",
+        "supposedly",
+        "generates",
+        "among",
+        "brain",
+        "mysterious"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +282,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If it uses its mysterious power, PSYDUCK can’t remember having done so. It apparently can’t form a memory of such an event because it goes into an altered state that is much like deep sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "event",
+        "done",
+        "altered",
+        "remember",
+        "memory",
+        "state",
+        "having",
+        "mysterious",
+        "apparently"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +304,17 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "befuddled",
+        "recollection",
+        "bewildered",
+        "intensifies",
+        "headache",
+        "strange",
+        "starts"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +322,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wracked",
+        "headache",
+        "begins",
+        "intense",
+        "turns",
+        "constantly",
+        "mysterious"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +340,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lulling",
+        "wily",
+        "vacant",
+        "psychokinetic",
+        "look"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +356,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "If its usual headache worsens, it starts exhibiting odd powers. It can’t remember doing so, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exhibiting",
+        "worsens",
+        "usual",
+        "remember",
+        "headache",
+        "doing",
+        "odd",
+        "starts"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +375,14 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puzzlement",
+        "tilts",
+        "remembers",
+        "odd"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +390,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "overwhelmed",
+        "suffers",
+        "enigmatic",
+        "headache",
+        "abilities",
+        "constant",
+        "mysterious"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +408,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has mystical powers but doesn’t recall that it has used them. That is why it always looks puzzled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puzzled",
+        "recall",
+        "mystical",
+        "why",
+        "doesn"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +424,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chronic",
+        "episode",
+        "recall",
+        "peaks",
+        "exhibit",
+        "headache",
+        "unable",
+        "odd",
+        "seems"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +444,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "overwhelmed",
+        "suffers",
+        "enigmatic",
+        "headache",
+        "abilities",
+        "constant",
+        "mysterious"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +462,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "overwhelmed",
+        "suffers",
+        "enigmatic",
+        "headache",
+        "abilities",
+        "constant",
+        "mysterious"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +480,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inactive",
+        "stimulate",
+        "headaches",
+        "cells",
+        "brain",
+        "mysterious",
+        "usually"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +498,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inactive",
+        "stimulate",
+        "headaches",
+        "cells",
+        "brain",
+        "mysterious",
+        "usually"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +516,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wracked",
+        "headache",
+        "begins",
+        "intense",
+        "turns",
+        "constantly",
+        "mysterious"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +534,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has mystical powers but doesn’t recall that it has used them. That is why it always looks puzzled.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puzzled",
+        "recall",
+        "mystical",
+        "why",
+        "doesn"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +550,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "controversy",
+        "scholars",
+        "sleepers",
+        "spurred",
+        "discovery",
+        "supposedly",
+        "generates",
+        "among",
+        "brain",
+        "mysterious"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +573,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If it uses its mysterious power, Psyduck can’t remember having done so. It apparently can’t form a memory of such an event because it goes into an altered state that is much like deep sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "event",
+        "done",
+        "altered",
+        "remember",
+        "memory",
+        "state",
+        "having",
+        "mysterious",
+        "apparently"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +595,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "psychokinesis",
+        "meaning",
+        "fierce",
+        "headaches",
+        "cry"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +611,15 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon is troubled by constant headaches. The more pain it’s in, the more powerful its psychokinesis becomes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "troubled",
+        "psychokinesis",
+        "constant",
+        "headaches",
+        "pain"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +627,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "spacing",
+        "psychokinesis",
+        "passes",
+        "headache",
+        "possible",
+        "normally",
+        "doing",
+        "little"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +646,16 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "experiencing",
+        "headache",
+        "cells",
+        "active",
+        "brain",
+        "10"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +663,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "intends",
+        "tormented",
+        "whether",
+        "headaches",
+        "do"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +681,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "intends",
+        "tormented",
+        "whether",
+        "headaches",
+        "do"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +699,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "subsides",
+        "beset",
+        "erupt",
+        "headaches",
+        "strange",
+        "pain",
+        "constantly",
+        "lets",
+        "apparently"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +719,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "overwhelm",
+        "worse",
+        "progressively",
+        "stressed",
+        "headache",
+        "intense"
+      ]
     },
     {
       "versionId": 39,
@@ -295,7 +738,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Suffers perpetual headaches. If the agony grows too great, Psyduck's latent power erupts, contrary to Psyduck's intent. Ergo, I am exploring ways to ease the pain.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "agony",
+        "ergo",
+        "intent",
+        "am",
+        "contrary",
+        "exploring",
+        "latent",
+        "perpetual",
+        "suffers",
+        "ways",
+        "erupts",
+        "ease",
+        "headaches",
+        "i",
+        "pain",
+        "great"
+      ]
     }
   ],
   "similarPokemonIds": [

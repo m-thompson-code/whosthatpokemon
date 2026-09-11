@@ -10,6 +10,85 @@
   ],
   "imagePath": "/assets/pokemon/363.png",
   "entryCount": 21,
+  "entryTraits": [
+    "aquatic",
+    "cold-climate",
+    "icy",
+    "fur",
+    "hunting",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "impressively",
+    "informs",
+    "superbly",
+    "mealtimes",
+    "diving",
+    "plushy",
+    "fewer",
+    "clap",
+    "poorly",
+    "probes",
+    "walrein",
+    "crosses",
+    "pleasure",
+    "retains",
+    "resists",
+    "noisy",
+    "lurk",
+    "floes",
+    "drifting",
+    "blubber",
+    "oceans",
+    "herd",
+    "crossing",
+    "roll",
+    "show",
+    "drift",
+    "below",
+    "arrives",
+    "shore",
+    "rather",
+    "travels",
+    "happy",
+    "walk",
+    "season",
+    "drifts",
+    "completely",
+    "feeling",
+    "approaches",
+    "predators",
+    "rolling",
+    "freezing",
+    "yet",
+    "soon",
+    "rolls",
+    "fluffy",
+    "reach",
+    "faster",
+    "harsh",
+    "round",
+    "walking",
+    "groups",
+    "feels",
+    "re",
+    "swim",
+    "fins",
+    "shaped",
+    "prefers",
+    "among",
+    "spots",
+    "keeps",
+    "living",
+    "across",
+    "well",
+    "heat",
+    "swimming",
+    "ball",
+    "covered",
+    "temperature",
+    "eat"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "sea",
@@ -40,7 +119,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SPHEAL is much faster rolling than walking to get around. When groups of this POKéMON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mealtimes",
+        "clap",
+        "pleasure",
+        "noisy",
+        "show",
+        "rolling",
+        "faster",
+        "walking",
+        "groups",
+        "eat"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +140,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SPHEAL always travels by rolling around on its ball-like body. When the season for ice floes arrives, this POKéMON can be seen rolling about on ice and crossing the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "floes",
+        "crossing",
+        "arrives",
+        "travels",
+        "season",
+        "rolling",
+        "ball"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +162,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "diving",
+        "plushy",
+        "floes",
+        "completely",
+        "rolling",
+        "feels",
+        "covered"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +185,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "feeling",
+        "rolling",
+        "fluffy",
+        "keeps",
+        "covered"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +205,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "feeling",
+        "rolling",
+        "fluffy",
+        "keeps",
+        "covered"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +225,22 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "poorly",
+        "floes",
+        "shore",
+        "rolls",
+        "reach",
+        "shaped",
+        "across",
+        "swimming"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +248,22 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "poorly",
+        "floes",
+        "shore",
+        "rolls",
+        "reach",
+        "shaped",
+        "across",
+        "swimming"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +271,22 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "poorly",
+        "floes",
+        "shore",
+        "rolls",
+        "reach",
+        "shaped",
+        "across",
+        "swimming"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +294,23 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It crosses the oceans by rolling itself on drifting ice. Fluffy fur keeps it warm when the temperature is below freezing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "crosses",
+        "drifting",
+        "oceans",
+        "below",
+        "rolling",
+        "freezing",
+        "fluffy",
+        "keeps",
+        "temperature"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +318,23 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It crosses the oceans by rolling itself on drifting ice. Fluffy fur keeps it warm when the temperature is below freezing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "crosses",
+        "drifting",
+        "oceans",
+        "below",
+        "rolling",
+        "freezing",
+        "fluffy",
+        "keeps",
+        "temperature"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +342,22 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "poorly",
+        "floes",
+        "shore",
+        "rolls",
+        "reach",
+        "shaped",
+        "across",
+        "swimming"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +365,22 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "poorly",
+        "floes",
+        "shore",
+        "rolls",
+        "reach",
+        "shaped",
+        "across",
+        "swimming"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +388,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "They can’t swim well yet, and they move much faster by rolling. When they’re happy, they clap fins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "clap",
+        "happy",
+        "rolling",
+        "yet",
+        "faster",
+        "re",
+        "swim",
+        "fins",
+        "well"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +410,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "They can’t swim well yet, and they move much faster by rolling. When they’re happy, they clap fins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "clap",
+        "happy",
+        "rolling",
+        "yet",
+        "faster",
+        "re",
+        "swim",
+        "fins",
+        "well"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +432,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They can’t swim well yet, and they move much faster by rolling. When they’re happy, they clap fins.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "clap",
+        "happy",
+        "rolling",
+        "yet",
+        "faster",
+        "re",
+        "swim",
+        "fins",
+        "well"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +454,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "icy"
+      ],
+      "keywords": [
+        "feeling",
+        "rolling",
+        "fluffy",
+        "keeps",
+        "covered"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +474,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Spheal is much faster rolling than walking to get around. When groups of this Pokémon eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "mealtimes",
+        "clap",
+        "pleasure",
+        "noisy",
+        "show",
+        "rolling",
+        "faster",
+        "walking",
+        "groups",
+        "eat"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +495,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "floes",
+        "crossing",
+        "arrives",
+        "travels",
+        "season",
+        "rolling",
+        "ball"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +517,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon’s body is covered in blubber and impressively round. It’s faster for Spheal to roll around than walk.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "impressively",
+        "blubber",
+        "roll",
+        "walk",
+        "faster",
+        "round",
+        "covered"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +535,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "informs",
+        "probes",
+        "walrein",
+        "herd",
+        "drifts",
+        "soon",
+        "among",
+        "spots"
+      ]
     },
     {
       "versionId": 39,
@@ -200,7 +557,30 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "During the season when drift ice approaches the shore, Spheal prefers living on the ice—where fewer predators lurk—rather than the land. Its fur retains heat superbly and resists harsh cold.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "fur",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "superbly",
+        "fewer",
+        "retains",
+        "resists",
+        "lurk",
+        "drift",
+        "shore",
+        "rather",
+        "season",
+        "approaches",
+        "predators",
+        "harsh",
+        "prefers",
+        "living",
+        "heat"
+      ]
     }
   ],
   "similarPokemonIds": [

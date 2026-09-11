@@ -9,6 +9,27 @@
   ],
   "imagePath": "/assets/pokemon/828.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting",
+    "claws"
+  ],
+  "entryKeywords": [
+    "boltund",
+    "following",
+    "potential",
+    "stealing",
+    "stalks",
+    "lithe",
+    "secretly",
+    "least",
+    "expect",
+    "marks",
+    "targets",
+    "steals",
+    "natural",
+    "eggs",
+    "scent"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +59,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "following",
+        "potential",
+        "stalks",
+        "secretly",
+        "least",
+        "expect",
+        "marks",
+        "targets",
+        "steals",
+        "scent"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +82,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "boltund",
+        "stealing",
+        "lithe",
+        "natural",
+        "eggs"
+      ]
     }
   ],
   "similarPokemonIds": [

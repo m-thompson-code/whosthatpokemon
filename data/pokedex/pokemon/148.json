@@ -9,6 +9,79 @@
   ],
   "imagePath": "/assets/pokemon/148.png",
   "entryCount": 32,
+  "entryTraits": [
+    "tail",
+    "wings",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "agricultural",
+    "brightens",
+    "enshrouded",
+    "entity",
+    "offerings",
+    "peoples",
+    "venerated",
+    "immemorial",
+    "loosing",
+    "surrounded",
+    "witness",
+    "divine",
+    "pristine",
+    "crystalline",
+    "conditions",
+    "alter",
+    "vicinity",
+    "climate",
+    "exudes",
+    "discharging",
+    "imbued",
+    "mystical",
+    "gave",
+    "oceans",
+    "riding",
+    "twisting",
+    "orbs",
+    "gentle",
+    "begin",
+    "start",
+    "amount",
+    "crystals",
+    "gathers",
+    "aura",
+    "believe",
+    "enormous",
+    "healthy",
+    "lakes",
+    "slightly",
+    "ll",
+    "strange",
+    "occasionally",
+    "according",
+    "year",
+    "filled",
+    "say",
+    "change",
+    "able",
+    "called",
+    "controls",
+    "instantly",
+    "wind",
+    "appearance",
+    "weather",
+    "neck",
+    "look",
+    "changes",
+    "emits",
+    "freely",
+    "entire",
+    "though",
+    "thought",
+    "stores",
+    "whole",
+    "takes",
+    "seas"
+  ],
   "color": "blue",
   "shape": "squiggle",
   "habitat": "waters-edge",
@@ -39,7 +112,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conditions",
+        "climate",
+        "exudes",
+        "mystical",
+        "gentle",
+        "aura",
+        "change"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +130,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conditions",
+        "climate",
+        "exudes",
+        "mystical",
+        "gentle",
+        "aura",
+        "change"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +148,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "surrounded",
+        "witness",
+        "mystical",
+        "gave",
+        "aura",
+        "strange",
+        "according",
+        "look"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +167,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "begin",
+        "aura",
+        "say",
+        "change",
+        "instantly",
+        "weather",
+        "emits",
+        "whole"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +186,14 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its crystalline orbs appear to give this POKéMON the power to freely control the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crystalline",
+        "orbs",
+        "weather",
+        "freely"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +201,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "brightens",
+        "divine",
+        "slightly",
+        "called",
+        "weather",
+        "changes",
+        "entire"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +219,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "conditions",
+        "alter",
+        "vicinity",
+        "discharging",
+        "amount",
+        "crystals",
+        "enormous",
+        "weather",
+        "neck",
+        "stores"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +242,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "conditions",
+        "alter",
+        "vicinity",
+        "discharging",
+        "amount",
+        "crystals",
+        "enormous",
+        "weather",
+        "neck",
+        "stores"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +265,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "loosing",
+        "alter",
+        "amount",
+        "crystals",
+        "enormous",
+        "weather",
+        "neck",
+        "stores"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +286,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "lakes",
+        "occasionally",
+        "though",
+        "seas"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +303,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A mystical POKéMON that exudes a gentle aura. It is said to have the ability to change the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exudes",
+        "mystical",
+        "gentle",
+        "aura",
+        "change",
+        "weather"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +320,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "aura",
+        "lakes",
+        "instantly",
+        "weather",
+        "changes",
+        "takes",
+        "seas"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +338,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "aura",
+        "lakes",
+        "instantly",
+        "weather",
+        "changes",
+        "takes",
+        "seas"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +356,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "aura",
+        "lakes",
+        "instantly",
+        "weather",
+        "changes",
+        "takes",
+        "seas"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +374,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "begin",
+        "aura",
+        "say",
+        "change",
+        "instantly",
+        "weather",
+        "emits",
+        "whole"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +393,14 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crystalline",
+        "orbs",
+        "weather",
+        "freely"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +408,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "aura",
+        "lakes",
+        "instantly",
+        "weather",
+        "changes",
+        "takes",
+        "seas"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +426,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "aura",
+        "lakes",
+        "instantly",
+        "weather",
+        "changes",
+        "takes",
+        "seas"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +444,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "aura",
+        "lakes",
+        "instantly",
+        "weather",
+        "changes",
+        "takes",
+        "seas"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +462,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "aura",
+        "lakes",
+        "instantly",
+        "weather",
+        "changes",
+        "takes",
+        "seas"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +480,14 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crystalline",
+        "orbs",
+        "weather",
+        "freely"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +495,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exudes",
+        "mystical",
+        "gentle",
+        "aura",
+        "change",
+        "weather"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +512,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "conditions",
+        "alter",
+        "vicinity",
+        "discharging",
+        "amount",
+        "crystals",
+        "enormous",
+        "weather",
+        "neck",
+        "stores"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +535,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "conditions",
+        "alter",
+        "vicinity",
+        "discharging",
+        "amount",
+        "crystals",
+        "enormous",
+        "weather",
+        "neck",
+        "stores"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +558,15 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It has long been thought that its crystalline orbs are imbued with the power to control the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "crystalline",
+        "imbued",
+        "orbs",
+        "weather",
+        "thought"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +574,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "From time immemorial, it has been venerated by agricultural peoples as an entity able to control the weather.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "agricultural",
+        "entity",
+        "peoples",
+        "venerated",
+        "immemorial",
+        "able",
+        "weather"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +592,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Lakes where Dragonair live are filled with offerings from people, because they believe this Pokémon is able to control the weather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "offerings",
+        "believe",
+        "lakes",
+        "filled",
+        "able",
+        "weather"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +609,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Some say that if you see it at the start of the year, flying through the sky and twisting its body, you’ll be healthy all year long.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "twisting",
+        "start",
+        "healthy",
+        "ll",
+        "year",
+        "say"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +628,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "surrounded",
+        "witness",
+        "mystical",
+        "gave",
+        "aura",
+        "strange",
+        "according",
+        "look"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +647,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "surrounded",
+        "witness",
+        "mystical",
+        "gave",
+        "aura",
+        "strange",
+        "according",
+        "look"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +666,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "pristine",
+        "oceans",
+        "riding",
+        "lakes",
+        "wind",
+        "weather"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +685,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "enshrouded",
+        "mystical",
+        "orbs",
+        "gathers",
+        "aura",
+        "controls",
+        "appearance",
+        "weather"
+      ]
     }
   ],
   "similarPokemonIds": [

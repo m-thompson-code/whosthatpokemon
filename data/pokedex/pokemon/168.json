@@ -10,6 +10,75 @@
   ],
   "imagePath": "/assets/pokemon/168.png",
   "entryCount": 25,
+  "entryTraits": [
+    "claws",
+    "hunting",
+    "fangs",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "leisure",
+    "mak",
+    "restrains",
+    "sips",
+    "aggressively",
+    "strand",
+    "weaving",
+    "specific",
+    "resulting",
+    "cloth",
+    "webbing",
+    "bodily",
+    "scuttle",
+    "spewing",
+    "spun",
+    "string",
+    "endlessly",
+    "constricts",
+    "later",
+    "threads",
+    "vertical",
+    "hooked",
+    "thread",
+    "tipped",
+    "free",
+    "leads",
+    "whose",
+    "spews",
+    "web",
+    "ceilings",
+    "tracks",
+    "attaches",
+    "ing",
+    "rather",
+    "wanders",
+    "hunt",
+    "sets",
+    "fluids",
+    "bites",
+    "silk",
+    "spins",
+    "wraps",
+    "enable",
+    "spot",
+    "tiny",
+    "single",
+    "falls",
+    "tell",
+    "friends",
+    "areas",
+    "end",
+    "rear",
+    "popular",
+    "walls",
+    "thin",
+    "catch",
+    "special",
+    "movements",
+    "darkness",
+    "strength",
+    "search"
+  ],
   "color": "red",
   "shape": "armor",
   "habitat": "forest",
@@ -39,7 +108,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "string",
+        "spins",
+        "tell",
+        "end",
+        "rear"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +124,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "strand",
+        "spun",
+        "string",
+        "endlessly",
+        "leads",
+        "single",
+        "rear",
+        "special"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +143,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Rather than mak­ ing a nest in one specific spot, it wanders in search of food after darkness falls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mak",
+        "specific",
+        "ing",
+        "rather",
+        "wanders",
+        "spot",
+        "falls",
+        "darkness",
+        "search"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +163,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ARIADOS’s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "webbing",
+        "scuttle",
+        "constricts",
+        "vertical",
+        "hooked",
+        "tipped",
+        "ceilings",
+        "silk",
+        "enable",
+        "tiny",
+        "walls",
+        "thin"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +188,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "ARIADOS’s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "webbing",
+        "scuttle",
+        "constricts",
+        "vertical",
+        "hooked",
+        "tipped",
+        "ceilings",
+        "silk",
+        "enable",
+        "tiny",
+        "walls",
+        "thin"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +213,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "webbing",
+        "scuttle",
+        "constricts",
+        "vertical",
+        "hooked",
+        "tipped",
+        "ceilings",
+        "silk",
+        "enable",
+        "tiny",
+        "walls",
+        "thin"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +238,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "strand",
+        "spun",
+        "string",
+        "endlessly",
+        "leads",
+        "single",
+        "rear",
+        "special"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +257,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "string",
+        "spins",
+        "tell",
+        "end",
+        "rear"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +273,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "later",
+        "free",
+        "tracks",
+        "attaches",
+        "sets",
+        "silk",
+        "friends"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +293,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "later",
+        "free",
+        "tracks",
+        "attaches",
+        "sets",
+        "silk",
+        "friends"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +313,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "later",
+        "free",
+        "tracks",
+        "attaches",
+        "sets",
+        "silk",
+        "friends"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +333,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It spins string not only from its rear but also from its mouth. It’s hard to tell which end is which.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "string",
+        "spins",
+        "tell",
+        "end",
+        "rear"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +349,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "strand",
+        "spun",
+        "string",
+        "endlessly",
+        "leads",
+        "single",
+        "rear",
+        "special"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +368,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "later",
+        "free",
+        "tracks",
+        "attaches",
+        "sets",
+        "silk",
+        "friends"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +388,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "later",
+        "free",
+        "tracks",
+        "attaches",
+        "sets",
+        "silk",
+        "friends"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +408,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "later",
+        "free",
+        "tracks",
+        "attaches",
+        "sets",
+        "silk",
+        "friends"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +428,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "later",
+        "free",
+        "tracks",
+        "attaches",
+        "sets",
+        "silk",
+        "friends"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +448,15 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It spins string not only from its rear but also from its mouth. It’s hard to tell which end is which.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "string",
+        "spins",
+        "tell",
+        "end",
+        "rear"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +464,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "later",
+        "free",
+        "tracks",
+        "attaches",
+        "sets",
+        "silk",
+        "friends"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +484,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ariados’s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "webbing",
+        "scuttle",
+        "constricts",
+        "vertical",
+        "hooked",
+        "tipped",
+        "ceilings",
+        "silk",
+        "enable",
+        "tiny",
+        "walls",
+        "thin"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +509,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ariados’s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "webbing",
+        "scuttle",
+        "constricts",
+        "vertical",
+        "hooked",
+        "tipped",
+        "ceilings",
+        "silk",
+        "enable",
+        "tiny",
+        "walls",
+        "thin"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +534,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "There are some areas where people use the string Ariados spins for their own weaving. The resulting cloth is popular for its strength.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "weaving",
+        "resulting",
+        "cloth",
+        "string",
+        "spins",
+        "areas",
+        "popular",
+        "strength"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +553,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It spins thread from both its rear and its mouth. Then it wraps its prey up in thread and sips their bodily fluids at its leisure.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "leisure",
+        "sips",
+        "bodily",
+        "thread",
+        "fluids",
+        "spins",
+        "wraps",
+        "rear"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +574,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Every night, it wanders around in search of prey, whose movements it restrains by spewing threads before it bites into them with its fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "restrains",
+        "spewing",
+        "threads",
+        "whose",
+        "wanders",
+        "bites",
+        "movements",
+        "search"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +597,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "nocturnal"
+      ],
+      "keywords": [
+        "aggressively",
+        "threads",
+        "spews",
+        "web",
+        "hunt",
+        "falls",
+        "catch"
+      ]
     }
   ],
   "similarPokemonIds": [

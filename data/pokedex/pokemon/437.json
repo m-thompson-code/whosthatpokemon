@@ -10,6 +10,59 @@
   ],
   "imagePath": "/assets/pokemon/437.png",
   "entryCount": 16,
+  "entryTraits": [
+    "sleeping",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "originated",
+    "tolling",
+    "news",
+    "portals",
+    "summons",
+    "petitioning",
+    "harvests",
+    "bell",
+    "summon",
+    "plentiful",
+    "site",
+    "suspect",
+    "brought",
+    "bringer",
+    "outside",
+    "ages",
+    "revered",
+    "rains",
+    "sensation",
+    "construction",
+    "crops",
+    "based",
+    "deity",
+    "caused",
+    "dug",
+    "opening",
+    "scientists",
+    "rings",
+    "galar",
+    "buried",
+    "2",
+    "angered",
+    "opens",
+    "warning",
+    "believe",
+    "believed",
+    "clouds",
+    "year",
+    "past",
+    "region",
+    "rain",
+    "holes",
+    "cry",
+    "since",
+    "patterns",
+    "another",
+    "lets"
+  ],
   "color": "green",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +92,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "news",
+        "site",
+        "sensation",
+        "construction",
+        "caused",
+        "dug",
+        "2",
+        "year"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +113,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It can summon rain clouds. People long ago revered it as the bringer of plentiful harvests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "harvests",
+        "summon",
+        "plentiful",
+        "bringer",
+        "revered",
+        "clouds",
+        "rain"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +133,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "portals",
+        "harvests",
+        "plentiful",
+        "brought",
+        "bringer",
+        "revered",
+        "rains",
+        "opening",
+        "another"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +153,14 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Ancient people believed that petitioning BRONZONG for rain was the way to make crops grow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "petitioning",
+        "crops",
+        "believed",
+        "rain"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +168,14 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Ancient people believed that petitioning BRONZONG for rain was the way to make crops grow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "petitioning",
+        "crops",
+        "believed",
+        "rain"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +183,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "portals",
+        "harvests",
+        "plentiful",
+        "brought",
+        "bringer",
+        "revered",
+        "rains",
+        "opening",
+        "another"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +203,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "portals",
+        "harvests",
+        "plentiful",
+        "brought",
+        "bringer",
+        "revered",
+        "rains",
+        "opening",
+        "another"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +223,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bringer",
+        "ages",
+        "revered",
+        "buried",
+        "past",
+        "rain"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +240,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bringer",
+        "ages",
+        "revered",
+        "buried",
+        "past",
+        "rain"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +257,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bringer",
+        "ages",
+        "revered",
+        "buried",
+        "past",
+        "rain"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +274,14 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "petitioning",
+        "crops",
+        "believed",
+        "rain"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +289,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bringer",
+        "ages",
+        "revered",
+        "buried",
+        "past",
+        "rain"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +306,14 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "petitioning",
+        "crops",
+        "believed",
+        "rain"
+      ]
     },
     {
       "versionId": 33,
@@ -143,7 +321,24 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Some believe it to be a deity that summons rain clouds. When angered, it lets out a warning cry that rings out like the tolling of a bell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling"
+      ],
+      "keywords": [
+        "tolling",
+        "summons",
+        "bell",
+        "deity",
+        "rings",
+        "angered",
+        "warning",
+        "believe",
+        "clouds",
+        "rain",
+        "cry",
+        "lets"
+      ]
     },
     {
       "versionId": 34,
@@ -151,7 +346,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Many scientists suspect that this Pokémon originated outside the Galar region, based on the patterns on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "originated",
+        "suspect",
+        "outside",
+        "based",
+        "scientists",
+        "galar",
+        "region",
+        "patterns"
+      ]
     },
     {
       "versionId": 39,
@@ -159,7 +365,19 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Some believe that its bell-like cry opens holes to another world. It has been revered as a deity since ancient times.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bell",
+        "revered",
+        "deity",
+        "opens",
+        "believe",
+        "holes",
+        "cry",
+        "since",
+        "another"
+      ]
     }
   ],
   "similarPokemonIds": [

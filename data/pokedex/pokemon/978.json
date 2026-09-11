@@ -10,6 +10,21 @@
   ],
   "imagePath": "/assets/pokemon/978.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "dondozo",
+    "feigns",
+    "weakness",
+    "cunning",
+    "dragon",
+    "outside",
+    "partner",
+    "orders",
+    "lure",
+    "extremely"
+  ],
   "color": "pink",
   "shape": "fish",
   "habitat": null,
@@ -39,7 +54,13 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dondozo",
+        "dragon",
+        "outside"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +68,19 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "feigns",
+        "weakness",
+        "cunning",
+        "partner",
+        "orders",
+        "lure",
+        "extremely"
+      ]
     }
   ],
   "similarPokemonIds": [

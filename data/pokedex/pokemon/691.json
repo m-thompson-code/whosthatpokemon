@@ -10,6 +10,58 @@
   ],
   "imagePath": "/assets/pokemon/691.png",
   "entryCount": 8,
+  "entryTraits": [
+    "territorial",
+    "poisonous",
+    "hunting",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "corroding",
+    "plume",
+    "hull",
+    "tankers",
+    "dhelmise",
+    "ambush",
+    "tanker",
+    "enters",
+    "spit",
+    "bathing",
+    "blends",
+    "indiscriminately",
+    "told",
+    "dragon",
+    "sticking",
+    "tales",
+    "seaweed",
+    "return",
+    "ships",
+    "enter",
+    "wander",
+    "whatever",
+    "really",
+    "melt",
+    "sprays",
+    "send",
+    "liquid",
+    "metal",
+    "vicious",
+    "generates",
+    "bottom",
+    "above",
+    "near",
+    "reason",
+    "ocean",
+    "poisonous",
+    "surface",
+    "along",
+    "capable",
+    "well",
+    "takes",
+    "seas",
+    "sunlight",
+    "eat"
+  ],
   "color": "brown",
   "shape": "blob",
   "habitat": null,
@@ -40,7 +92,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial",
+        "poisonous"
+      ],
+      "keywords": [
+        "hull",
+        "tanker",
+        "enters",
+        "spit",
+        "indiscriminately",
+        "eat"
+      ]
     },
     {
       "versionId": 24,
@@ -48,7 +112,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Tales are told of ships that wander into seas where Dragalge live, never to return.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "told",
+        "tales",
+        "return",
+        "ships",
+        "wander",
+        "seas"
+      ]
     },
     {
       "versionId": 25,
@@ -56,7 +129,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial",
+        "poisonous"
+      ],
+      "keywords": [
+        "hull",
+        "tanker",
+        "enters",
+        "spit",
+        "indiscriminately",
+        "eat"
+      ]
     },
     {
       "versionId": 26,
@@ -64,7 +149,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Tales are told of ships that wander into seas where Dragalge live, never to return.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "told",
+        "tales",
+        "return",
+        "ships",
+        "wander",
+        "seas"
+      ]
     },
     {
       "versionId": 29,
@@ -72,7 +166,23 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This vicious Pokémon sprays a poisonous liquid on opponents that come near. For whatever reason, it gets along really well with Dhelmise.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "dhelmise",
+        "whatever",
+        "really",
+        "sprays",
+        "liquid",
+        "vicious",
+        "near",
+        "reason",
+        "poisonous",
+        "along",
+        "well"
+      ]
     },
     {
       "versionId": 30,
@@ -80,7 +190,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It blends in with seaweed to ambush its prey and then takes them down with a poisonous liquid strong enough to melt metal.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "poisonous"
+      ],
+      "keywords": [
+        "ambush",
+        "blends",
+        "seaweed",
+        "melt",
+        "liquid",
+        "metal",
+        "poisonous",
+        "takes"
+      ]
     },
     {
       "versionId": 33,
@@ -88,7 +212,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Dragalge uses a poisonous liquid capable of corroding metal to send tankers that enter its territory to the bottom of the sea.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "territorial",
+        "poisonous"
+      ],
+      "keywords": [
+        "corroding",
+        "tankers",
+        "enter",
+        "send",
+        "liquid",
+        "metal",
+        "bottom",
+        "poisonous",
+        "capable"
+      ]
     },
     {
       "versionId": 34,
@@ -96,7 +236,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Dragalge generates dragon energy by sticking the plume on its head out above the ocean’s surface and bathing it in sunlight.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "plume",
+        "bathing",
+        "dragon",
+        "sticking",
+        "generates",
+        "above",
+        "ocean",
+        "surface",
+        "sunlight"
+      ]
     }
   ],
   "similarPokemonIds": [

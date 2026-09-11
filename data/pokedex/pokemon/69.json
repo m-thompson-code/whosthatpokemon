@@ -10,6 +10,73 @@
   ],
   "imagePath": "/assets/pokemon/069.png",
   "entryCount": 26,
+  "entryTraits": [
+    "fiery",
+    "hunting",
+    "cave-dwelling",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "mandrake",
+    "wa",
+    "es",
+    "replenish",
+    "ter",
+    "carnivorous",
+    "corrosive",
+    "notices",
+    "bend",
+    "capturing",
+    "flings",
+    "rooted",
+    "sway",
+    "blindingly",
+    "cape",
+    "needed",
+    "root",
+    "skinny",
+    "traps",
+    "vine",
+    "ensnares",
+    "insects",
+    "devours",
+    "humid",
+    "environments",
+    "bugs",
+    "flexible",
+    "soak",
+    "rumored",
+    "immediately",
+    "melts",
+    "leaks",
+    "object",
+    "catching",
+    "type",
+    "bud",
+    "spits",
+    "vines",
+    "tiny",
+    "moisture",
+    "quick",
+    "escape",
+    "avoid",
+    "plant",
+    "prefers",
+    "thin",
+    "human",
+    "plants",
+    "lets",
+    "underground",
+    "fast",
+    "legendary",
+    "iron",
+    "fluid",
+    "places",
+    "though",
+    "face",
+    "hot",
+    "extremely"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": "forest",
@@ -39,7 +106,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "carnivorous",
+        "needed",
+        "root",
+        "traps",
+        "bugs",
+        "soak",
+        "moisture"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +124,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "carnivorous",
+        "needed",
+        "root",
+        "traps",
+        "bugs",
+        "soak",
+        "moisture"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +142,21 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Prefers hot and humid places. It ensnares tiny insects with its vines and devours them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "ensnares",
+        "insects",
+        "devours",
+        "humid",
+        "vines",
+        "tiny",
+        "prefers",
+        "places",
+        "hot"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +164,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blindingly",
+        "skinny",
+        "catching",
+        "fast",
+        "though",
+        "extremely"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +183,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It plants its feet deep underground to replenish wa­ ter. It can't es­ cape its enemy while it's rooted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "wa",
+        "es",
+        "replenish",
+        "ter",
+        "rooted",
+        "cape",
+        "plants",
+        "underground"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +204,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "If it notices anything that moves, it immediately flings its vine at the object.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "notices",
+        "flings",
+        "vine",
+        "immediately",
+        "object"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +220,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "BELLSPROUT’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "corrosive",
+        "bend",
+        "sway",
+        "flexible",
+        "melts",
+        "spits",
+        "avoid",
+        "thin",
+        "lets",
+        "iron",
+        "fluid"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +242,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "BELLSPROUT’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "corrosive",
+        "bend",
+        "sway",
+        "flexible",
+        "melts",
+        "spits",
+        "avoid",
+        "thin",
+        "lets",
+        "iron",
+        "fluid"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +264,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A BELLSPROUT’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bend",
+        "sway",
+        "flexible",
+        "melts",
+        "leaks",
+        "avoid",
+        "thin",
+        "lets",
+        "iron",
+        "fluid"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +285,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mandrake",
+        "rumored",
+        "type",
+        "bud",
+        "plant",
+        "human",
+        "legendary",
+        "face"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +304,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A carnivorous POKéMON that traps and eats bugs. It appears to use its root feet to replenish moisture.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "replenish",
+        "carnivorous",
+        "root",
+        "traps",
+        "bugs",
+        "moisture"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +321,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "capturing",
+        "humid",
+        "environments",
+        "vines",
+        "quick",
+        "prefers",
+        "hot"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +342,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "capturing",
+        "humid",
+        "environments",
+        "vines",
+        "quick",
+        "prefers",
+        "hot"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +363,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "capturing",
+        "humid",
+        "environments",
+        "vines",
+        "quick",
+        "prefers",
+        "hot"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +384,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blindingly",
+        "skinny",
+        "catching",
+        "fast",
+        "though",
+        "extremely"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +403,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It plants its feet deep underground to replenish water. It can’t escape its enemy while it’s rooted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "replenish",
+        "rooted",
+        "escape",
+        "plants",
+        "underground"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +422,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "capturing",
+        "humid",
+        "environments",
+        "vines",
+        "quick",
+        "prefers",
+        "hot"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +443,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "capturing",
+        "humid",
+        "environments",
+        "vines",
+        "quick",
+        "prefers",
+        "hot"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +464,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "capturing",
+        "humid",
+        "environments",
+        "vines",
+        "quick",
+        "prefers",
+        "hot"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +485,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "capturing",
+        "humid",
+        "environments",
+        "vines",
+        "quick",
+        "prefers",
+        "hot"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +506,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blindingly",
+        "skinny",
+        "catching",
+        "fast",
+        "though",
+        "extremely"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +525,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "mandrake",
+        "rumored",
+        "type",
+        "bud",
+        "plant",
+        "human",
+        "legendary",
+        "face"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +544,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Bellsprout’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "corrosive",
+        "bend",
+        "sway",
+        "flexible",
+        "melts",
+        "spits",
+        "avoid",
+        "thin",
+        "lets",
+        "iron",
+        "fluid"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +566,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Bellsprout’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "corrosive",
+        "bend",
+        "sway",
+        "flexible",
+        "melts",
+        "spits",
+        "avoid",
+        "thin",
+        "lets",
+        "iron",
+        "fluid"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +588,21 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "ensnares",
+        "devours",
+        "humid",
+        "bugs",
+        "vines",
+        "tiny",
+        "prefers",
+        "places",
+        "hot"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +610,21 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "ensnares",
+        "devours",
+        "humid",
+        "bugs",
+        "vines",
+        "tiny",
+        "prefers",
+        "places",
+        "hot"
+      ]
     }
   ],
   "similarPokemonIds": [

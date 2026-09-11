@@ -9,6 +9,109 @@
   ],
   "imagePath": "/assets/pokemon/058.png",
   "entryCount": 33,
+  "entryTraits": [
+    "territorial",
+    "volcanic",
+    "fur"
+  ],
+  "entryKeywords": [
+    "ensures",
+    "excavations",
+    "igneous",
+    "lessly",
+    "na",
+    "pairs",
+    "stranger",
+    "threateningly",
+    "faithful",
+    "patrol",
+    "nent",
+    "oppo",
+    "rockruff",
+    "ture",
+    "clever",
+    "detects",
+    "invade",
+    "invading",
+    "olfactory",
+    "barking",
+    "components",
+    "trustworthy",
+    "unexpectedly",
+    "fearlessly",
+    "activity",
+    "barks",
+    "intruders",
+    "town",
+    "intruder",
+    "advanced",
+    "forget",
+    "defend",
+    "ages",
+    "brave",
+    "roars",
+    "alongside",
+    "detect",
+    "ruins",
+    "fiercely",
+    "given",
+    "loyal",
+    "harm",
+    "fierce",
+    "loudly",
+    "motionless",
+    "superb",
+    "remain",
+    "toward",
+    "biting",
+    "friendly",
+    "stone",
+    "bark",
+    "i",
+    "repel",
+    "determine",
+    "volcanic",
+    "protective",
+    "approach",
+    "fear",
+    "quite",
+    "tries",
+    "unknown",
+    "age",
+    "believe",
+    "cute",
+    "habitat",
+    "stands",
+    "wild",
+    "smells",
+    "smell",
+    "bigger",
+    "species",
+    "order",
+    "grown",
+    "bite",
+    "bones",
+    "lived",
+    "space",
+    "humans",
+    "try",
+    "matter",
+    "controls",
+    "run",
+    "since",
+    "emotions",
+    "stronger",
+    "scent",
+    "living",
+    "another",
+    "force",
+    "sense",
+    "rock",
+    "won",
+    "nature",
+    "big",
+    "extremely"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +141,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "intruders",
+        "bark",
+        "repel",
+        "protective",
+        "bite",
+        "space"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +160,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "intruders",
+        "bark",
+        "repel",
+        "protective",
+        "bite",
+        "space"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +179,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A POKéMON with a friendly nature. However, it will bark fiercely at anything invading its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "invading",
+        "fiercely",
+        "friendly",
+        "bark",
+        "nature"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +197,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It has a brave and trustworthy na­ ture. It fear­ lessly stands up to bigger and stronger foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lessly",
+        "na",
+        "ture",
+        "trustworthy",
+        "brave",
+        "fear",
+        "stands",
+        "bigger",
+        "stronger"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +217,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Extremely loyal, it will fearlessly bark at any oppo­ nent to protect its own trainer from harm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nent",
+        "oppo",
+        "fearlessly",
+        "loyal",
+        "harm",
+        "bark",
+        "extremely"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +235,21 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It controls a big territory. If it detects an unknown smell, it roars loudly to force out the intruder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "detects",
+        "intruder",
+        "roars",
+        "loudly",
+        "unknown",
+        "smell",
+        "controls",
+        "force",
+        "big"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +257,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GROWLITHE has a superb sense of smell. Once it smells anything, this POKéMON won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "olfactory",
+        "advanced",
+        "forget",
+        "superb",
+        "determine",
+        "smells",
+        "smell",
+        "matter",
+        "emotions",
+        "scent",
+        "living",
+        "sense",
+        "won"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +281,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GROWLITHE has a superb sense of smell. Once it smells anything, this POKéMON won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "olfactory",
+        "advanced",
+        "forget",
+        "superb",
+        "determine",
+        "smells",
+        "smell",
+        "matter",
+        "emotions",
+        "scent",
+        "living",
+        "sense",
+        "won"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +305,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its superb sense of smell ensures that this POKéMON won’t forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ensures",
+        "forget",
+        "detect",
+        "superb",
+        "smell",
+        "matter",
+        "emotions",
+        "scent",
+        "sense",
+        "won"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +326,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Very friendly and faithful to people. It will try to repel enemies by barking and biting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "faithful",
+        "barking",
+        "biting",
+        "friendly",
+        "repel",
+        "try"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +343,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is very protective of its territory. It will bark and bite to repel intruders from its space.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "intruders",
+        "bark",
+        "repel",
+        "protective",
+        "bite",
+        "space"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +362,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "given",
+        "loyal",
+        "motionless",
+        "remain",
+        "order",
+        "nature"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +379,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "given",
+        "loyal",
+        "motionless",
+        "remain",
+        "order",
+        "nature"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +396,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "given",
+        "loyal",
+        "motionless",
+        "remain",
+        "order",
+        "nature"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +413,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trustworthy",
+        "fearlessly",
+        "brave",
+        "stands",
+        "bigger",
+        "stronger",
+        "nature"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +431,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fearlessly",
+        "loyal",
+        "harm",
+        "bark",
+        "extremely"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +447,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "given",
+        "loyal",
+        "motionless",
+        "remain",
+        "order",
+        "nature"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +464,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "given",
+        "loyal",
+        "motionless",
+        "remain",
+        "order",
+        "nature"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +481,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unexpectedly",
+        "town",
+        "loyal",
+        "bark",
+        "approach",
+        "run",
+        "extremely"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +499,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unexpectedly",
+        "town",
+        "loyal",
+        "bark",
+        "approach",
+        "run",
+        "extremely"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +517,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Very friendly and faithful to people. It will try to repel enemies by barking and biting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "faithful",
+        "barking",
+        "biting",
+        "friendly",
+        "repel",
+        "try"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +534,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trustworthy",
+        "fearlessly",
+        "brave",
+        "stands",
+        "bigger",
+        "stronger",
+        "nature"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +552,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "olfactory",
+        "advanced",
+        "forget",
+        "superb",
+        "determine",
+        "smells",
+        "smell",
+        "matter",
+        "emotions",
+        "scent",
+        "living",
+        "sense",
+        "won"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +576,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "olfactory",
+        "advanced",
+        "forget",
+        "superb",
+        "determine",
+        "smells",
+        "smell",
+        "matter",
+        "emotions",
+        "scent",
+        "living",
+        "sense",
+        "won"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +600,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It’s both clever and loyal, but if a stranger tries to invade its territory, it barks threateningly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "stranger",
+        "threateningly",
+        "clever",
+        "invade",
+        "barks",
+        "loyal",
+        "tries"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +620,15 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It looks cute, but when you approach another Trainer’s Growlithe, it will bark at you and bite.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bark",
+        "approach",
+        "cute",
+        "bite",
+        "another"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +636,21 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "While it’s quite friendly toward humans once it’s grown used to them, in the wild it must be quite fierce to defend its territory from Rockruff.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "rockruff",
+        "defend",
+        "fierce",
+        "toward",
+        "friendly",
+        "quite",
+        "wild",
+        "grown",
+        "humans"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +658,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It has lived alongside humans since ages ago. Its bones have been found in excavations of ruins from the Stone Age.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "excavations",
+        "ages",
+        "alongside",
+        "ruins",
+        "stone",
+        "age",
+        "bones",
+        "lived",
+        "humans",
+        "since"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +679,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Pokémon with a friendly nature. However, it will bark fiercely at anything invading its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "invading",
+        "fiercely",
+        "friendly",
+        "bark",
+        "nature"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +697,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A Pokémon with a friendly nature. However, it will bark fiercely at anything invading its territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial"
+      ],
+      "keywords": [
+        "invading",
+        "fiercely",
+        "friendly",
+        "bark",
+        "nature"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +715,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trustworthy",
+        "fearlessly",
+        "brave",
+        "stands",
+        "bigger",
+        "stronger",
+        "nature"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +733,15 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fearlessly",
+        "loyal",
+        "harm",
+        "bark",
+        "extremely"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +749,25 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fur",
+        "territorial"
+      ],
+      "keywords": [
+        "igneous",
+        "pairs",
+        "patrol",
+        "components",
+        "activity",
+        "i",
+        "volcanic",
+        "believe",
+        "habitat",
+        "species",
+        "rock"
+      ]
     }
   ],
   "similarPokemonIds": [

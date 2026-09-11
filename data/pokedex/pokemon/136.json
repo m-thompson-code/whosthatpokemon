@@ -9,6 +9,88 @@
   ],
   "imagePath": "/assets/pokemon/136.png",
   "entryCount": 33,
+  "entryTraits": [
+    "fiery",
+    "sky-dwelling",
+    "fur",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "000f",
+    "1700",
+    "saclike",
+    "1600",
+    "700",
+    "fluffs",
+    "ignites",
+    "average",
+    "collar",
+    "gobbles",
+    "bag",
+    "functional",
+    "soar",
+    "chamber",
+    "exhaled",
+    "purpose",
+    "thermal",
+    "maximum",
+    "done",
+    "excessively",
+    "heated",
+    "heats",
+    "prepare",
+    "650",
+    "carried",
+    "tops",
+    "reaching",
+    "500",
+    "inhaled",
+    "reaches",
+    "intensity",
+    "inhales",
+    "mighty",
+    "temperatures",
+    "inhaling",
+    "organ",
+    "600",
+    "cool",
+    "rise",
+    "deeply",
+    "agitated",
+    "breathes",
+    "storing",
+    "hit",
+    "blows",
+    "pouch",
+    "300",
+    "catches",
+    "nearly",
+    "3",
+    "sign",
+    "burn",
+    "fluffy",
+    "reach",
+    "internal",
+    "sac",
+    "intense",
+    "releases",
+    "f",
+    "1",
+    "between",
+    "finds",
+    "re",
+    "stored",
+    "within",
+    "flame",
+    "100",
+    "berries",
+    "fahrenheit",
+    "well",
+    "stores",
+    "heat",
+    "hot",
+    "temperature"
+  ],
   "color": "red",
   "shape": "quadruped",
   "habitat": "urban",
@@ -38,7 +120,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "1600",
+        "soar",
+        "thermal",
+        "storing",
+        "temperature"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +136,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "1600",
+        "soar",
+        "thermal",
+        "storing",
+        "temperature"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +152,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "000f",
+        "chamber",
+        "inhales",
+        "blows",
+        "3",
+        "flame"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +171,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "heats",
+        "inhales",
+        "pouch",
+        "3",
+        "internal",
+        "flame",
+        "stores"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +192,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "fluffs",
+        "collar",
+        "650",
+        "cool",
+        "reach",
+        "1",
+        "temperature"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +212,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Once it has stored up enough heat, this POKéMON's body temperature can reach up to 1700 degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "1700",
+        "reach",
+        "stored",
+        "heat",
+        "temperature"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +230,27 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "FLAREON’s fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This POKéMON’s body temperature can rise to a maximum of 1,650 degrees F.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "functional",
+        "purpose",
+        "maximum",
+        "excessively",
+        "650",
+        "rise",
+        "fluffy",
+        "releases",
+        "f",
+        "1",
+        "heat",
+        "hot",
+        "temperature"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +258,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "FLAREON’s fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This POKéMON’s body temperature can rise to a maximum of 1,650 degrees F.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "functional",
+        "purpose",
+        "maximum",
+        "excessively",
+        "650",
+        "rise",
+        "fluffy",
+        "releases",
+        "f",
+        "1",
+        "heat",
+        "hot",
+        "temperature"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +286,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "FLAREON’s fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "maximum",
+        "excessively",
+        "650",
+        "rise",
+        "fluffy",
+        "releases",
+        "f",
+        "1",
+        "heat",
+        "hot",
+        "temperature"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +312,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,100 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "bag",
+        "inhaling",
+        "deeply",
+        "blows",
+        "nearly",
+        "3",
+        "flame",
+        "100",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +334,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When storing thermal energy in its body, its temperature can soar to over 1,600 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soar",
+        "thermal",
+        "600",
+        "storing",
+        "1",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +352,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "650",
+        "tops",
+        "sac",
+        "1",
+        "flame",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +372,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "650",
+        "tops",
+        "sac",
+        "1",
+        "flame",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +392,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "heated",
+        "inhaled",
+        "3",
+        "sac",
+        "intense",
+        "flame",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +413,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "heats",
+        "inhales",
+        "pouch",
+        "3",
+        "internal",
+        "flame",
+        "fahrenheit",
+        "stores"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +435,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "fluffs",
+        "collar",
+        "650",
+        "cool",
+        "reach",
+        "1",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +456,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "heated",
+        "inhaled",
+        "3",
+        "sac",
+        "intense",
+        "flame",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +477,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "heated",
+        "inhaled",
+        "3",
+        "sac",
+        "intense",
+        "flame",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +498,22 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "exhaled",
+        "heated",
+        "carried",
+        "inhaled",
+        "reaches",
+        "3",
+        "sac",
+        "f",
+        "flame"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +521,22 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "exhaled",
+        "heated",
+        "carried",
+        "inhaled",
+        "reaches",
+        "3",
+        "sac",
+        "f",
+        "flame"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +544,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "650",
+        "tops",
+        "sac",
+        "1",
+        "flame",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +564,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,000 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "bag",
+        "inhaling",
+        "deeply",
+        "blows",
+        "nearly",
+        "3",
+        "flame",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +585,27 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Flareon’s fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon’s body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "functional",
+        "purpose",
+        "maximum",
+        "excessively",
+        "650",
+        "rise",
+        "fluffy",
+        "releases",
+        "1",
+        "fahrenheit",
+        "heat",
+        "hot",
+        "temperature"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +613,27 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Flareon’s fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon’s body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "fur",
+        "fiery"
+      ],
+      "keywords": [
+        "functional",
+        "purpose",
+        "maximum",
+        "excessively",
+        "650",
+        "rise",
+        "fluffy",
+        "releases",
+        "1",
+        "fahrenheit",
+        "heat",
+        "hot",
+        "temperature"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +641,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When it catches prey or finds berries, it breathes fire on them until they’re well done, and then it gobbles them up.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "gobbles",
+        "done",
+        "breathes",
+        "catches",
+        "finds",
+        "re",
+        "berries",
+        "well"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +663,25 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its average body temperature is between 1,300 and 1,500 degrees Fahrenheit. In its internal flame sac, temperatures reach 3,000 degrees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "average",
+        "500",
+        "temperatures",
+        "300",
+        "3",
+        "reach",
+        "internal",
+        "sac",
+        "1",
+        "between",
+        "flame",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +689,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If it inhales deeply, that’s a sign it’s about to attack. Prepare to be hit by flames of over 3,000 degrees Fahrenheit!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "prepare",
+        "inhales",
+        "deeply",
+        "hit",
+        "3",
+        "sign",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +709,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The flame chamber inside its body ignites when Flareon gets agitated, reaching temperatures of up to 1,650 degrees Fahrenheit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "ignites",
+        "chamber",
+        "650",
+        "reaching",
+        "temperatures",
+        "agitated",
+        "1",
+        "flame",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +731,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It has a flame chamber inside its body. It inhales, then breathes out fire that is over 3,000 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "chamber",
+        "inhales",
+        "breathes",
+        "3",
+        "flame",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +750,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "It has a flame chamber inside its body. It inhales, then breathes out fire that is over 3,000 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "chamber",
+        "inhales",
+        "breathes",
+        "3",
+        "flame",
+        "fahrenheit"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +769,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Once it has stored up enough heat, this Pokémon’s body temperature can reach up to 1,700 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "700",
+        "reach",
+        "1",
+        "stored",
+        "fahrenheit",
+        "heat",
+        "temperature"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +789,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "heats",
+        "inhales",
+        "pouch",
+        "3",
+        "internal",
+        "flame",
+        "fahrenheit",
+        "stores"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +811,22 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Flames burn within a saclike organ inside this Pokémon. When Flareon inhales, these flames grow in intensity, reaching a mighty 3,000 degrees Fahrenheit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "saclike",
+        "reaching",
+        "intensity",
+        "inhales",
+        "mighty",
+        "organ",
+        "3",
+        "burn",
+        "within",
+        "fahrenheit"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,119 @@
   ],
   "imagePath": "/assets/pokemon/125.png",
   "entryCount": 33,
+  "entryTraits": [
+    "electric",
+    "luminous",
+    "arms",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "blamed",
+    "gobbling",
+    "looming",
+    "permeates",
+    "scaling",
+    "outages",
+    "progressing",
+    "ting",
+    "meantime",
+    "windmills",
+    "gangs",
+    "error",
+    "outage",
+    "unleashing",
+    "boost",
+    "blackouts",
+    "competes",
+    "heights",
+    "occur",
+    "rods",
+    "tire",
+    "company",
+    "ly",
+    "occurs",
+    "stricken",
+    "likely",
+    "major",
+    "observe",
+    "showers",
+    "compete",
+    "scale",
+    "sit",
+    "whitish",
+    "truth",
+    "towns",
+    "greater",
+    "en",
+    "amounts",
+    "defense",
+    "gathering",
+    "currents",
+    "arrives",
+    "caused",
+    "cities",
+    "constant",
+    "feed",
+    "sudden",
+    "thunderclouds",
+    "wait",
+    "waiting",
+    "wander",
+    "normally",
+    "leaks",
+    "amount",
+    "certain",
+    "storing",
+    "swings",
+    "type",
+    "getting",
+    "part",
+    "eaten",
+    "tall",
+    "punch",
+    "approaches",
+    "coming",
+    "research",
+    "seeking",
+    "slightly",
+    "beneath",
+    "blue",
+    "bolts",
+    "storm",
+    "electrical",
+    "occasionally",
+    "charge",
+    "discharges",
+    "feeds",
+    "glows",
+    "half",
+    "communicate",
+    "round",
+    "stand",
+    "hair",
+    "escape",
+    "strike",
+    "feelings",
+    "end",
+    "touch",
+    "plant",
+    "near",
+    "far",
+    "runs",
+    "place",
+    "against",
+    "constantly",
+    "electric",
+    "surface",
+    "plants",
+    "across",
+    "punches",
+    "darkness",
+    "entire",
+    "lightning",
+    "gather",
+    "close"
+  ],
   "color": "yellow",
   "shape": "upright",
   "habitat": "grassland",
@@ -38,7 +151,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blackouts",
+        "major",
+        "cities",
+        "wander",
+        "normally",
+        "near",
+        "plants"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +169,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blackouts",
+        "major",
+        "cities",
+        "wander",
+        "normally",
+        "near",
+        "plants"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +187,18 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "If a major power outage occurs, it is certain that this POKéMON has eaten electricity at a power plant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "outage",
+        "occurs",
+        "major",
+        "certain",
+        "eaten",
+        "plant"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +206,22 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Electricity runs across the surface of its body. In darkness, its en­ tire body glows a whitish-blue.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "tire",
+        "whitish",
+        "en",
+        "blue",
+        "glows",
+        "runs",
+        "surface",
+        "across",
+        "darkness"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +229,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its body constant­ ly discharges electricity. Get­ ting close to it will make your hair stand on end.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "ting",
+        "ly",
+        "constant",
+        "discharges",
+        "stand",
+        "hair",
+        "end",
+        "close"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +250,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When two ELECTABUZZ touch, they control the electric currents to communicate their feelings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "currents",
+        "communicate",
+        "feelings",
+        "touch",
+        "electric"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +268,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "When a storm arrives, gangs of this POKéMON compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "gangs",
+        "heights",
+        "rods",
+        "stricken",
+        "likely",
+        "compete",
+        "scale",
+        "towns",
+        "arrives",
+        "bolts",
+        "storm",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +294,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When a storm arrives, gangs of this POKéMON compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "gangs",
+        "heights",
+        "rods",
+        "stricken",
+        "likely",
+        "compete",
+        "scale",
+        "towns",
+        "arrives",
+        "bolts",
+        "storm",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +320,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use ELECTABUZZ in place of lightning rods.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "competes",
+        "heights",
+        "rods",
+        "stricken",
+        "likely",
+        "scale",
+        "towns",
+        "approaches",
+        "storm",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +344,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "feed",
+        "occasionally",
+        "plants"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +360,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blackouts",
+        "major",
+        "cities",
+        "wander",
+        "normally",
+        "near",
+        "plants"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +378,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "blackouts",
+        "occur",
+        "half",
+        "plants"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +395,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "blackouts",
+        "occur",
+        "half",
+        "plants"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +412,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "meantime",
+        "windmills",
+        "boost",
+        "slightly",
+        "escape",
+        "punches"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +431,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "whitish",
+        "blue",
+        "glows",
+        "runs",
+        "surface",
+        "across",
+        "darkness",
+        "entire"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +453,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its body constantly discharges electricity. Getting close to it will make your hair stand on end.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "getting",
+        "discharges",
+        "stand",
+        "hair",
+        "end",
+        "constantly",
+        "close"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +473,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "meantime",
+        "windmills",
+        "boost",
+        "slightly",
+        "escape",
+        "punches"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +492,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "meantime",
+        "windmills",
+        "boost",
+        "slightly",
+        "escape",
+        "punches"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +511,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "progressing",
+        "storing",
+        "research",
+        "lightning"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +528,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "progressing",
+        "storing",
+        "research",
+        "lightning"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +545,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish blue.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "whitish",
+        "blue",
+        "glows",
+        "runs",
+        "surface",
+        "across",
+        "darkness",
+        "entire"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +567,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "feed",
+        "occasionally",
+        "plants"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +583,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "gangs",
+        "heights",
+        "rods",
+        "stricken",
+        "likely",
+        "compete",
+        "scale",
+        "towns",
+        "arrives",
+        "bolts",
+        "storm",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +609,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "gangs",
+        "heights",
+        "rods",
+        "stricken",
+        "likely",
+        "compete",
+        "scale",
+        "towns",
+        "arrives",
+        "bolts",
+        "storm",
+        "place",
+        "lightning"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +635,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Half of all sudden blackouts are caused by Electabuzz gathering at electric power plants and gobbling up electricity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "gobbling",
+        "blackouts",
+        "gathering",
+        "caused",
+        "sudden",
+        "half",
+        "electric",
+        "plants"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +656,17 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Electricity leaks from it in amounts far greater than the amount of electricity it eats.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "greater",
+        "amounts",
+        "leaks",
+        "amount",
+        "far"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +674,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Electricity permeates its body. It swings its arms round and round to charge up electricity before unleashing a punch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms",
+        "electric"
+      ],
+      "keywords": [
+        "permeates",
+        "unleashing",
+        "swings",
+        "punch",
+        "charge",
+        "round"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +694,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "While it’s often blamed for power outages, the truth is the cause of outages is more often an error on the part of the electric company.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "blamed",
+        "outages",
+        "error",
+        "company",
+        "truth",
+        "part",
+        "electric"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +714,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "outage",
+        "occurs",
+        "major",
+        "certain",
+        "eaten",
+        "plant"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +733,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "outage",
+        "occurs",
+        "major",
+        "certain",
+        "eaten",
+        "plant"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +752,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "defense",
+        "type",
+        "seeking",
+        "against",
+        "plants"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +770,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "With the coming of a storm, many of these Pokémon will gather under tall trees and sit there waiting for lightning to strike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "sit",
+        "waiting",
+        "tall",
+        "coming",
+        "storm",
+        "strike",
+        "lightning",
+        "gather"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +792,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "electric"
+      ],
+      "keywords": [
+        "looming",
+        "scaling",
+        "observe",
+        "showers",
+        "sudden",
+        "thunderclouds",
+        "wait",
+        "tall",
+        "beneath",
+        "electrical",
+        "feeds",
+        "strike",
+        "lightning"
+      ]
     }
   ],
   "similarPokemonIds": [

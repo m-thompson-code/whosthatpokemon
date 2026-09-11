@@ -4,6 +4,7 @@ import { resolve } from "node:path";
 import type {
   PokedexCatalog,
   PokedexEntry,
+  EntryWordIndex,
   PokemonRecord,
   PokemonSummary,
   SimilarityPools,
@@ -11,6 +12,8 @@ import type {
   VersionPokemonIndex,
 } from "../src/lib/pokedex/types.ts";
 import { SimilarityStrategy as Strategy } from "../src/lib/pokedex/types";
+import { extractEntryTraits } from "../src/lib/pokedex/traits";
+import { isCommonEntryWord, normalizeEntryWords } from "../src/lib/pokedex/keywords";
 
 const API_BASE_URL = "https://pokeapi.co/api/v2";
 const CACHE_DIRECTORY = resolve(".cache/pokeapi");
@@ -374,6 +377,8 @@ const main = async () => {
           versionGroup: version.group,
           text,
           revealsName: text.toLocaleLowerCase("en-US").includes(name.toLocaleLowerCase("en-US")),
+          traits: extractEntryTraits(text),
+          keywords: [],
         };
       })
       .sort((left, right) => {
@@ -392,6 +397,8 @@ const main = async () => {
       types: pokemon.types.sort((left, right) => left.slot - right.slot).map((item) => item.type.name),
       imagePath: `/assets/pokemon/${formatPokemonId(species.id)}.png`,
       entryCount: entries.length,
+      entryTraits: [...new Set(entries.flatMap((entry) => entry.traits))],
+      entryKeywords: [],
       color: species.color.name,
       shape: species.shape?.name ?? null,
       habitat: species.habitat?.name ?? null,
@@ -417,6 +424,34 @@ const main = async () => {
     };
   });
 
+  const entryDocumentCount = records.reduce((count, record) => count + record.entries.length, 0);
+  const wordFrequencies = new Map<string, number>();
+  records.forEach((record) => {
+    record.entries.forEach((entry) => {
+      new Set(normalizeEntryWords(entry.text)).forEach((word) => {
+        wordFrequencies.set(word, (wordFrequencies.get(word) ?? 0) + 1);
+      });
+    });
+  });
+  const wordIndex: EntryWordIndex = Object.fromEntries(
+    [...wordFrequencies.entries()]
+      .sort(([left], [right]) => left.localeCompare(right))
+      .map(([word, frequency]) => [word, {
+        frequency,
+        common: isCommonEntryWord(word, frequency, entryDocumentCount),
+      }]),
+  );
+  records.forEach((record) => {
+    const nameWords = new Set(normalizeEntryWords(record.name));
+    record.entries.forEach((entry) => {
+      entry.keywords = [...new Set(normalizeEntryWords(entry.text))]
+        .filter((word) => !nameWords.has(word) && !wordIndex[word].common)
+        .sort((left, right) => wordIndex[left].frequency - wordIndex[right].frequency || left.localeCompare(right));
+    });
+    record.entryKeywords = [...new Set(record.entries.flatMap((entry) => entry.keywords))]
+      .sort((left, right) => wordIndex[left].frequency - wordIndex[right].frequency || left.localeCompare(right));
+  });
+
   for (const record of records) {
     record.similarPokemonIds = records
       .filter((candidate) => candidate.id !== record.id && candidate.entryCount > 0)
@@ -440,11 +475,13 @@ const main = async () => {
     types: record.types,
     imagePath: record.imagePath,
     entryCount: record.entryCount,
+    entryTraits: record.entryTraits,
+    entryKeywords: record.entryKeywords,
   }));
   const generationIds = [...new Set(summaries.map((pokemon) => pokemon.generation))]
     .sort((left, right) => left - right);
   const catalog: PokedexCatalog = {
-    schemaVersion: 2,
+    schemaVersion: 4,
     generatedAt: new Date().toISOString(),
     source: API_BASE_URL,
     speciesCount: records.length,
@@ -457,6 +494,7 @@ const main = async () => {
   };
 
   await writeJson(resolve(OUTPUT_DIRECTORY, "index.json"), catalog);
+  await writeJson(resolve(OUTPUT_DIRECTORY, "word-index.json"), wordIndex);
   const versionPokemonIndex: VersionPokemonIndex = Object.fromEntries(
     versions.map((version) => [
       version.name,

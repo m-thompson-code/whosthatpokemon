@@ -9,6 +9,41 @@
   ],
   "imagePath": "/assets/pokemon/245.png",
   "entryCount": 21,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "reservoir",
+    "reincarnation",
+    "divine",
+    "gracefulness",
+    "embodiment",
+    "elegance",
+    "fouled",
+    "gliding",
+    "compassion",
+    "dashes",
+    "embodies",
+    "purify",
+    "filthy",
+    "somehow",
+    "murky",
+    "north",
+    "races",
+    "pure",
+    "blows",
+    "whenever",
+    "dirty",
+    "blow",
+    "spring",
+    "ever",
+    "winds",
+    "instantly",
+    "wind",
+    "runs",
+    "across",
+    "search"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +73,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "reincarnation",
+        "purify",
+        "filthy",
+        "murky",
+        "north",
+        "winds",
+        "instantly"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +93,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "This POKéMON races across the land. It is said that north winds will somehow blow when­ ever it appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "somehow",
+        "north",
+        "races",
+        "blow",
+        "ever",
+        "winds",
+        "across"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +111,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "This divine POKéMON blows around the world, always in search of a pure reservoir.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reservoir",
+        "divine",
+        "pure",
+        "blows",
+        "search"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +127,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This POKéMON has the power to purify dirty water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gracefulness",
+        "compassion",
+        "embodies",
+        "purify",
+        "pure",
+        "dirty",
+        "spring",
+        "runs",
+        "across"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +149,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This POKéMON has the power to purify dirty water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gracefulness",
+        "compassion",
+        "embodies",
+        "purify",
+        "pure",
+        "dirty",
+        "spring",
+        "runs",
+        "across"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +171,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "elegance",
+        "gliding",
+        "compassion",
+        "embodies",
+        "purify",
+        "pure",
+        "dirty",
+        "spring",
+        "runs",
+        "across"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +194,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "This POKéMON races across the land. It is said that north winds will somehow blow whenever it appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "somehow",
+        "north",
+        "races",
+        "whenever",
+        "blow",
+        "winds",
+        "across"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +212,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "reincarnation",
+        "purify",
+        "filthy",
+        "murky",
+        "north",
+        "winds",
+        "instantly"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +232,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It races around the world to purify fouled water. It dashes away with the north wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fouled",
+        "dashes",
+        "purify",
+        "north",
+        "races",
+        "wind"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +251,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It races around the world to purify fouled water. It dashes away with the north wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fouled",
+        "dashes",
+        "purify",
+        "north",
+        "races",
+        "wind"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +270,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It races around the world to purify fouled water. It dashes away with the north wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fouled",
+        "dashes",
+        "purify",
+        "north",
+        "races",
+        "wind"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +289,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "embodiment",
+        "purify",
+        "filthy",
+        "murky",
+        "north",
+        "winds",
+        "instantly"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +309,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "This Pokémon races across the land. It is said that north winds will somehow blow whenever it appears.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "somehow",
+        "north",
+        "races",
+        "whenever",
+        "blow",
+        "winds",
+        "across"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +327,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It races around the world to purify fouled water. It dashes away with the north wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fouled",
+        "dashes",
+        "purify",
+        "north",
+        "races",
+        "wind"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +346,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It races around the world to purify fouled water. It dashes away with the north wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fouled",
+        "dashes",
+        "purify",
+        "north",
+        "races",
+        "wind"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +365,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It races around the world to purify fouled water. It dashes away with the north wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fouled",
+        "dashes",
+        "purify",
+        "north",
+        "races",
+        "wind"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +384,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It races around the world to purify fouled water. It dashes away with the north wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fouled",
+        "dashes",
+        "purify",
+        "north",
+        "races",
+        "wind"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +403,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It races around the world to purify fouled water. It dashes away with the north wind.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "fouled",
+        "dashes",
+        "purify",
+        "north",
+        "races",
+        "wind"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +422,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "embodiment",
+        "purify",
+        "filthy",
+        "murky",
+        "north",
+        "winds",
+        "instantly"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +442,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gracefulness",
+        "compassion",
+        "embodies",
+        "purify",
+        "pure",
+        "dirty",
+        "spring",
+        "runs",
+        "across"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +464,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gracefulness",
+        "compassion",
+        "embodies",
+        "purify",
+        "pure",
+        "dirty",
+        "spring",
+        "runs",
+        "across"
+      ]
     }
   ],
   "similarPokemonIds": [

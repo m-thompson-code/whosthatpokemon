@@ -10,6 +10,33 @@
   ],
   "imagePath": "/assets/pokemon/850.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fiery",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "voraciously",
+    "coils",
+    "flammable",
+    "nibble",
+    "sections",
+    "morsel",
+    "cooking",
+    "done",
+    "heated",
+    "last",
+    "particularly",
+    "yellow",
+    "wraps",
+    "generate",
+    "gas",
+    "re",
+    "belly",
+    "well",
+    "stores",
+    "heat",
+    "hot"
+  ],
   "color": "red",
   "shape": "tentacles",
   "habitat": null,
@@ -39,7 +66,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "flammable",
+        "sections",
+        "particularly",
+        "yellow",
+        "generate",
+        "gas",
+        "belly",
+        "stores",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +89,23 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "voraciously",
+        "coils",
+        "nibble",
+        "morsel",
+        "cooking",
+        "done",
+        "heated",
+        "last",
+        "wraps",
+        "re",
+        "well"
+      ]
     }
   ],
   "similarPokemonIds": [

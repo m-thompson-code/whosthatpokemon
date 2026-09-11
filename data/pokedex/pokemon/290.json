@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/290.png",
   "entryCount": 20,
+  "entryTraits": [
+    "cave-dwelling",
+    "forest-dwelling",
+    "claws"
+  ],
+  "entryKeywords": [
+    "whiskerlike",
+    "carve",
+    "probes",
+    "complete",
+    "sensing",
+    "blind",
+    "avoids",
+    "pitch",
+    "mighty",
+    "motionless",
+    "virtually",
+    "withstand",
+    "stays",
+    "nearly",
+    "roots",
+    "absorb",
+    "entirely",
+    "instead",
+    "waits",
+    "antennae",
+    "moisture",
+    "bright",
+    "lived",
+    "absorbs",
+    "almost",
+    "nutrients",
+    "black",
+    "soil",
+    "10",
+    "surroundings",
+    "darkness",
+    "underground",
+    "evolution",
+    "sunlight"
+  ],
   "color": "gray",
   "shape": "armor",
   "habitat": "forest",
@@ -39,7 +80,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "complete",
+        "motionless",
+        "stays",
+        "roots",
+        "waits",
+        "absorbs",
+        "nutrients",
+        "darkness",
+        "underground",
+        "evolution"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +104,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "NINCADA lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This POKéMON can’t withstand bright sunlight so avoids it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "carve",
+        "avoids",
+        "withstand",
+        "roots",
+        "absorb",
+        "moisture",
+        "bright",
+        "nutrients",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +129,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "whiskerlike",
+        "probes",
+        "pitch",
+        "mighty",
+        "roots",
+        "antennae",
+        "black",
+        "soil",
+        "surroundings",
+        "darkness"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +152,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "blind",
+        "nearly",
+        "entirely",
+        "instead",
+        "antennae",
+        "lived",
+        "almost",
+        "underground"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +173,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "blind",
+        "nearly",
+        "entirely",
+        "instead",
+        "antennae",
+        "lived",
+        "almost",
+        "underground"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +194,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "sensing",
+        "blind",
+        "virtually",
+        "instead",
+        "antennae",
+        "surroundings",
+        "underground"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +214,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "sensing",
+        "blind",
+        "virtually",
+        "instead",
+        "antennae",
+        "surroundings",
+        "underground"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +234,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "sensing",
+        "blind",
+        "virtually",
+        "instead",
+        "antennae",
+        "surroundings",
+        "underground"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +254,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "roots",
+        "absorbs",
+        "nutrients",
+        "10",
+        "underground"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +273,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "roots",
+        "absorbs",
+        "nutrients",
+        "10",
+        "underground"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +292,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "sensing",
+        "blind",
+        "virtually",
+        "instead",
+        "antennae",
+        "surroundings",
+        "underground"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +312,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "sensing",
+        "blind",
+        "virtually",
+        "instead",
+        "antennae",
+        "surroundings",
+        "underground"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +332,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "sensing",
+        "blind",
+        "virtually",
+        "instead",
+        "antennae",
+        "surroundings",
+        "underground"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +352,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "sensing",
+        "blind",
+        "virtually",
+        "instead",
+        "antennae",
+        "surroundings",
+        "underground"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +372,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "blind",
+        "nearly",
+        "entirely",
+        "instead",
+        "antennae",
+        "lived",
+        "almost",
+        "underground"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +393,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "roots",
+        "absorbs",
+        "nutrients",
+        "10",
+        "underground"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +412,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Nincada lives underground for many years in complete darkness. This Pokémon absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "complete",
+        "motionless",
+        "stays",
+        "roots",
+        "waits",
+        "absorbs",
+        "nutrients",
+        "darkness",
+        "underground",
+        "evolution"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +436,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Nincada lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This Pokémon can’t withstand bright sunlight so avoids it.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "carve",
+        "avoids",
+        "withstand",
+        "roots",
+        "absorb",
+        "moisture",
+        "bright",
+        "nutrients",
+        "underground",
+        "sunlight"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +461,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "blind",
+        "nearly",
+        "entirely",
+        "instead",
+        "antennae",
+        "lived",
+        "almost",
+        "underground"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +482,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "forest-dwelling"
+      ],
+      "keywords": [
+        "roots",
+        "absorbs",
+        "nutrients",
+        "10",
+        "underground"
+      ]
     }
   ],
   "similarPokemonIds": [

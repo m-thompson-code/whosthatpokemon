@@ -9,6 +9,114 @@
   ],
   "imagePath": "/assets/pokemon/120.png",
   "entryCount": 32,
+  "entryTraits": [
+    "nocturnal",
+    "luminous",
+    "aquatic",
+    "sky-dwelling"
+  ],
+  "entryKeywords": [
+    "cen",
+    "folktales",
+    "mains",
+    "nibbled",
+    "previous",
+    "severed",
+    "stardust",
+    "twinkle",
+    "unconcerned",
+    "cores",
+    "nibble",
+    "seaside",
+    "twinkling",
+    "chopped",
+    "intact",
+    "regenerative",
+    "seashores",
+    "ter",
+    "visit",
+    "flickers",
+    "lumineon",
+    "radiates",
+    "regenerates",
+    "bother",
+    "effortlessly",
+    "heartbeat",
+    "snack",
+    "appendage",
+    "central",
+    "enigmatic",
+    "falling",
+    "unharmed",
+    "lighting",
+    "midnight",
+    "steady",
+    "middle",
+    "regenerate",
+    "beach",
+    "bits",
+    "missing",
+    "injuries",
+    "bothered",
+    "glowing",
+    "summer",
+    "section",
+    "simply",
+    "becoming",
+    "pieces",
+    "amazing",
+    "flashes",
+    "numbers",
+    "flashing",
+    "organ",
+    "return",
+    "center",
+    "fish",
+    "number",
+    "torn",
+    "toward",
+    "floor",
+    "thanks",
+    "slowly",
+    "communicates",
+    "gathers",
+    "parts",
+    "state",
+    "isn",
+    "part",
+    "rhythm",
+    "completely",
+    "limbs",
+    "shines",
+    "fully",
+    "ll",
+    "strange",
+    "loses",
+    "floats",
+    "apart",
+    "glow",
+    "half",
+    "home",
+    "bright",
+    "stars",
+    "groups",
+    "able",
+    "end",
+    "core",
+    "re",
+    "called",
+    "instantly",
+    "remains",
+    "look",
+    "ocean",
+    "red",
+    "human",
+    "fast",
+    "places",
+    "same",
+    "quickly",
+    "apparently"
+  ],
   "color": "brown",
   "shape": "blob",
   "habitat": "sea",
@@ -38,7 +146,15 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "effortlessly",
+        "appendage",
+        "enigmatic",
+        "regenerate",
+        "loses"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +162,15 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "effortlessly",
+        "appendage",
+        "enigmatic",
+        "regenerate",
+        "loses"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +178,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chopped",
+        "unharmed",
+        "bits",
+        "section",
+        "center",
+        "fully"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +195,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "At night, the cen­ ter of its body slowly flickers with the same rhythm as a human heartbeat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "cen",
+        "ter",
+        "flickers",
+        "heartbeat",
+        "slowly",
+        "rhythm",
+        "human",
+        "same"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +216,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Even if its body is torn, it can regenerate as long as the glowing central core re­ mains intact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "mains",
+        "intact",
+        "central",
+        "regenerate",
+        "glowing",
+        "torn",
+        "core",
+        "re"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +237,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When the stars twinkle at night, it floats up from the sea floor, and its body's center core flickers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "nocturnal"
+      ],
+      "keywords": [
+        "twinkle",
+        "flickers",
+        "center",
+        "floor",
+        "floats",
+        "stars",
+        "core"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +258,29 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "STARYU’s center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these POKéMON look like the stars in the sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "cores",
+        "beach",
+        "glowing",
+        "summer",
+        "section",
+        "organ",
+        "center",
+        "toward",
+        "shines",
+        "bright",
+        "stars",
+        "end",
+        "core",
+        "called",
+        "look",
+        "red"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +288,27 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "STARYU apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this POKéMON simply regenerates the missing pieces and limbs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "regenerates",
+        "missing",
+        "simply",
+        "pieces",
+        "flashing",
+        "center",
+        "torn",
+        "communicates",
+        "parts",
+        "limbs",
+        "stars",
+        "core",
+        "red",
+        "apparently"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +316,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "severed",
+        "twinkling",
+        "regenerate",
+        "gathers",
+        "limbs",
+        "glow",
+        "stars",
+        "core",
+        "red"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +339,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "seashores",
+        "central",
+        "flashes",
+        "numbers",
+        "core",
+        "red"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +359,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "effortlessly",
+        "appendage",
+        "enigmatic",
+        "regenerate",
+        "loses"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +375,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "midnight",
+        "flashes",
+        "torn",
+        "core",
+        "remains",
+        "red"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +392,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "midnight",
+        "flashes",
+        "torn",
+        "core",
+        "remains",
+        "red"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +409,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "midnight",
+        "flashes",
+        "torn",
+        "core",
+        "remains",
+        "red"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +426,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "At night, the middle of its body slowly flickers with the same rhythm as a human heartbeat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "flickers",
+        "heartbeat",
+        "middle",
+        "slowly",
+        "rhythm",
+        "human",
+        "same"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +446,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "intact",
+        "central",
+        "regenerate",
+        "glowing",
+        "torn",
+        "core",
+        "remains"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +466,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "midnight",
+        "flashes",
+        "torn",
+        "core",
+        "remains",
+        "red"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +483,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "midnight",
+        "flashes",
+        "torn",
+        "core",
+        "remains",
+        "red"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +500,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "As long as its red core remains, it can regenerate its body instantly, even if it’s torn apart.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "regenerate",
+        "torn",
+        "apart",
+        "core",
+        "instantly",
+        "remains",
+        "red"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +518,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "As long as its red core remains, it can regenerate its body instantly, even if it’s torn apart.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "regenerate",
+        "torn",
+        "apart",
+        "core",
+        "instantly",
+        "remains",
+        "red"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +536,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "intact",
+        "central",
+        "regenerate",
+        "glowing",
+        "torn",
+        "core",
+        "remains"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +556,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "seashores",
+        "central",
+        "flashes",
+        "numbers",
+        "core",
+        "red"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +576,29 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Staryu’s center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "luminous"
+      ],
+      "keywords": [
+        "cores",
+        "beach",
+        "glowing",
+        "summer",
+        "section",
+        "organ",
+        "center",
+        "toward",
+        "shines",
+        "bright",
+        "stars",
+        "end",
+        "core",
+        "called",
+        "look",
+        "red"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +606,27 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "nocturnal"
+      ],
+      "keywords": [
+        "regenerates",
+        "missing",
+        "simply",
+        "pieces",
+        "flashing",
+        "center",
+        "torn",
+        "communicates",
+        "parts",
+        "limbs",
+        "stars",
+        "core",
+        "red",
+        "apparently"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +634,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Large numbers of these Pokémon make their home at the seaside. At night, a strange red glow radiates from the center of their bodies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal",
+        "luminous"
+      ],
+      "keywords": [
+        "seaside",
+        "radiates",
+        "numbers",
+        "center",
+        "strange",
+        "glow",
+        "home",
+        "red"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +656,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "This Pokémon gets nibbled on by Lumineon and others. Thanks to its red core, it regenerates fast, so it’s unconcerned by their snack attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "nibbled",
+        "unconcerned",
+        "lumineon",
+        "regenerates",
+        "snack",
+        "thanks",
+        "core",
+        "red",
+        "fast"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +676,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "folktales",
+        "stardust",
+        "falling",
+        "becoming",
+        "ocean",
+        "places"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +695,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "No number of injuries can bother Staryu. Its amazing regenerative powers return it to its previous state in half a day!",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "previous",
+        "regenerative",
+        "bother",
+        "injuries",
+        "amazing",
+        "return",
+        "number",
+        "state",
+        "half"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +715,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chopped",
+        "unharmed",
+        "bits",
+        "section",
+        "center",
+        "fully"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +732,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "chopped",
+        "unharmed",
+        "bits",
+        "section",
+        "center",
+        "fully"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +749,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "visit",
+        "lighting",
+        "steady",
+        "beach",
+        "summer",
+        "rhythm",
+        "ll",
+        "groups",
+        "able",
+        "end"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +770,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "nibble",
+        "regenerates",
+        "bothered",
+        "fish",
+        "torn",
+        "isn",
+        "part",
+        "completely",
+        "quickly"
+      ]
     }
   ],
   "similarPokemonIds": [

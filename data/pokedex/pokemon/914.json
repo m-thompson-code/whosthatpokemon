@@ -10,6 +10,31 @@
   ],
   "imagePath": "/assets/pokemon/914.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "feathers"
+  ],
+  "entryKeywords": [
+    "decorative",
+    "evoke",
+    "flourishes",
+    "mesmerizes",
+    "perform",
+    "ways",
+    "dances",
+    "slice",
+    "striking",
+    "truck",
+    "kick",
+    "lands",
+    "rolling",
+    "send",
+    "dancing",
+    "feathers",
+    "single",
+    "far",
+    "places"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": null,
@@ -40,7 +65,20 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "perform",
+        "dances",
+        "striking",
+        "truck",
+        "kick",
+        "lands",
+        "rolling",
+        "send",
+        "single",
+        "far"
+      ]
     },
     {
       "versionId": 41,
@@ -48,7 +86,23 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "feathers"
+      ],
+      "keywords": [
+        "decorative",
+        "evoke",
+        "flourishes",
+        "mesmerizes",
+        "ways",
+        "slice",
+        "dancing",
+        "feathers",
+        "far",
+        "places"
+      ]
     }
   ],
   "similarPokemonIds": [

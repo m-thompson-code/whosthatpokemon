@@ -10,6 +10,83 @@
   ],
   "imagePath": "/assets/pokemon/044.png",
   "entryCount": 28,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "exude",
+    "pistil",
+    "pistils",
+    "repulsive",
+    "drips",
+    "stubbornly",
+    "horrid",
+    "overwhelming",
+    "secure",
+    "whiff",
+    "sniffs",
+    "worsens",
+    "faced",
+    "fumes",
+    "noxious",
+    "syrup",
+    "stink",
+    "25",
+    "curl",
+    "atrocious",
+    "loss",
+    "drools",
+    "bending",
+    "stinky",
+    "absolutely",
+    "odor",
+    "touched",
+    "usual",
+    "enjoy",
+    "horrible",
+    "drool",
+    "fans",
+    "nectar",
+    "distance",
+    "memory",
+    "sniffing",
+    "horribly",
+    "foul",
+    "clings",
+    "noses",
+    "fainting",
+    "release",
+    "faint",
+    "oozes",
+    "incredibly",
+    "thousand",
+    "bad",
+    "attract",
+    "isn",
+    "feeling",
+    "stench",
+    "fragrance",
+    "sticky",
+    "secretes",
+    "calm",
+    "smells",
+    "smell",
+    "mile",
+    "releases",
+    "1",
+    "pollen",
+    "petals",
+    "actually",
+    "honey",
+    "miles",
+    "aroma",
+    "flower",
+    "nose",
+    "fluid",
+    "although",
+    "close",
+    "apparently"
+  ],
   "color": "blue",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -39,7 +116,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "drool",
+        "nectar",
+        "oozes",
+        "attract",
+        "isn",
+        "fluid"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +135,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "drool",
+        "nectar",
+        "oozes",
+        "attract",
+        "isn",
+        "fluid"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +154,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose- bending stink.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stink",
+        "bending",
+        "enjoy",
+        "sniffing",
+        "foul",
+        "incredibly",
+        "smells",
+        "1",
+        "nose"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +174,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stubbornly",
+        "touched",
+        "drool",
+        "clings",
+        "sticky",
+        "actually",
+        "honey"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +192,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "repulsive",
+        "drool",
+        "sticky",
+        "secretes",
+        "smells",
+        "honey",
+        "although",
+        "close"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +211,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "syrup",
+        "drool",
+        "faint",
+        "bad",
+        "smell",
+        "pollen",
+        "petals"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +229,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GLOOM releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this POKéMON is feeling calm and secure, it does not release its usual stinky aroma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "pistil",
+        "secure",
+        "worsens",
+        "faced",
+        "stinky",
+        "usual",
+        "foul",
+        "release",
+        "feeling",
+        "stench",
+        "fragrance",
+        "calm",
+        "releases",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +255,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "From its mouth GLOOM drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drips",
+        "horrid",
+        "sniffs",
+        "fumes",
+        "noxious",
+        "drools",
+        "absolutely",
+        "horrible",
+        "stench",
+        "smells",
+        "honey",
+        "apparently"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +278,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "overwhelming",
+        "whiff",
+        "noxious",
+        "stink",
+        "loss",
+        "drools",
+        "enjoy",
+        "fans",
+        "memory",
+        "horribly",
+        "honey"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +300,22 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exude",
+        "pistils",
+        "horrid",
+        "25",
+        "odor",
+        "distance",
+        "foul",
+        "fainting",
+        "incredibly",
+        "stench",
+        "1",
+        "miles"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +323,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The fluid that oozes from its mouth isn’t drool. It is a nectar that is used to attract prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "drool",
+        "nectar",
+        "oozes",
+        "attract",
+        "isn",
+        "fluid"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +342,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curl",
+        "atrocious",
+        "drools",
+        "noses",
+        "smells",
+        "mile",
+        "honey"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +360,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curl",
+        "atrocious",
+        "drools",
+        "noses",
+        "smells",
+        "mile",
+        "honey"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +378,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curl",
+        "atrocious",
+        "drools",
+        "noses",
+        "smells",
+        "mile",
+        "honey"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +396,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stubbornly",
+        "touched",
+        "drool",
+        "clings",
+        "sticky",
+        "actually",
+        "honey"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +414,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "repulsive",
+        "drool",
+        "sticky",
+        "secretes",
+        "smells",
+        "honey",
+        "although",
+        "close"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +433,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curl",
+        "atrocious",
+        "drools",
+        "noses",
+        "smells",
+        "mile",
+        "honey"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +451,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curl",
+        "atrocious",
+        "drools",
+        "noses",
+        "smells",
+        "mile",
+        "honey"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +469,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curl",
+        "atrocious",
+        "drools",
+        "noses",
+        "smells",
+        "mile",
+        "honey"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +487,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curl",
+        "atrocious",
+        "drools",
+        "noses",
+        "smells",
+        "mile",
+        "honey"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +505,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stink",
+        "bending",
+        "enjoy",
+        "sniffing",
+        "foul",
+        "incredibly",
+        "thousand",
+        "smells",
+        "nose"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +525,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "curl",
+        "atrocious",
+        "drools",
+        "noses",
+        "smells",
+        "mile",
+        "honey"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +543,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "pistil",
+        "secure",
+        "worsens",
+        "faced",
+        "stinky",
+        "usual",
+        "foul",
+        "release",
+        "feeling",
+        "stench",
+        "fragrance",
+        "calm",
+        "releases",
+        "aroma",
+        "flower"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +569,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drips",
+        "horrid",
+        "sniffs",
+        "fumes",
+        "noxious",
+        "drools",
+        "absolutely",
+        "horrible",
+        "stench",
+        "smells",
+        "honey",
+        "apparently"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +592,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stink",
+        "bending",
+        "enjoy",
+        "sniffing",
+        "foul",
+        "incredibly",
+        "thousand",
+        "smells",
+        "nose"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +612,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stink",
+        "bending",
+        "enjoy",
+        "sniffing",
+        "foul",
+        "incredibly",
+        "thousand",
+        "smells",
+        "nose"
+      ]
     },
     {
       "versionId": 33,
@@ -247,7 +632,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "exude",
+        "pistils",
+        "horrid",
+        "25",
+        "odor",
+        "distance",
+        "foul",
+        "fainting",
+        "incredibly",
+        "stench",
+        "1",
+        "miles"
+      ]
     },
     {
       "versionId": 34,
@@ -255,7 +655,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stubbornly",
+        "touched",
+        "drool",
+        "clings",
+        "sticky",
+        "actually",
+        "honey"
+      ]
     }
   ],
   "similarPokemonIds": [

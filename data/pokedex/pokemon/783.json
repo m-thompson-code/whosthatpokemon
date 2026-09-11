@@ -10,6 +10,55 @@
   ],
   "imagePath": "/assets/pokemon/783.png",
   "entryCount": 6,
+  "entryTraits": [
+    "hunting",
+    "fiery",
+    "claws"
+  ],
+  "entryKeywords": [
+    "clanging",
+    "molded",
+    "opposition",
+    "pans",
+    "regrown",
+    "scaleless",
+    "conduct",
+    "defeated",
+    "reached",
+    "courageous",
+    "regrows",
+    "shreds",
+    "noise",
+    "scarred",
+    "shout",
+    "scaly",
+    "clashes",
+    "continuous",
+    "pots",
+    "processed",
+    "shred",
+    "item",
+    "peak",
+    "sharper",
+    "roars",
+    "basis",
+    "signs",
+    "tear",
+    "parts",
+    "leaps",
+    "rhythm",
+    "shows",
+    "sheds",
+    "harder",
+    "attacking",
+    "re",
+    "popular",
+    "scales",
+    "punches",
+    "strength",
+    "well",
+    "heat"
+  ],
   "color": "gray",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +88,19 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "courageous",
+        "shreds",
+        "shout",
+        "scaly",
+        "tear",
+        "leaps",
+        "punches"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +108,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they’re regrown.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "regrown",
+        "regrows",
+        "continuous",
+        "sharper",
+        "basis",
+        "sheds",
+        "harder",
+        "re",
+        "scales"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +128,16 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "clanging",
+        "reached",
+        "noise",
+        "peak",
+        "rhythm",
+        "scales"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +145,24 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they’re a popular item.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "molded",
+        "pans",
+        "conduct",
+        "pots",
+        "processed",
+        "item",
+        "sheds",
+        "re",
+        "popular",
+        "scales",
+        "well",
+        "heat"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +170,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scaleless",
+        "defeated",
+        "scarred",
+        "signs",
+        "parts",
+        "shows",
+        "strength"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +188,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws"
+      ],
+      "keywords": [
+        "opposition",
+        "clashes",
+        "shred",
+        "roars",
+        "attacking",
+        "scales"
+      ]
     }
   ],
   "similarPokemonIds": [

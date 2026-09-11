@@ -9,6 +9,123 @@
   ],
   "imagePath": "/assets/pokemon/126.png",
   "entryCount": 33,
+  "entryTraits": [
+    "fiery",
+    "luminous",
+    "volcanic",
+    "cold-climate",
+    "icy",
+    "aquatic",
+    "forest-dwelling",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "192",
+    "dispatches",
+    "sneezes",
+    "breather",
+    "charred",
+    "hardier",
+    "rippling",
+    "wavering",
+    "amidst",
+    "soaks",
+    "weariness",
+    "wound",
+    "crater",
+    "exhaled",
+    "realizes",
+    "regrets",
+    "shimmer",
+    "ash",
+    "cloaked",
+    "bathes",
+    "brilliant",
+    "frequently",
+    "ignite",
+    "wounded",
+    "dipping",
+    "crisp",
+    "intended",
+    "heal",
+    "scorching",
+    "suit",
+    "orange",
+    "suitable",
+    "bursts",
+    "burned",
+    "hotter",
+    "lava",
+    "rises",
+    "spout",
+    "clearly",
+    "soak",
+    "ease",
+    "perfectly",
+    "tired",
+    "200",
+    "burning",
+    "deeply",
+    "intimidate",
+    "breathes",
+    "glare",
+    "2",
+    "better",
+    "angered",
+    "leaps",
+    "blows",
+    "dislikes",
+    "habit",
+    "legend",
+    "volcano",
+    "feared",
+    "alola",
+    "intensely",
+    "spouts",
+    "nearly",
+    "shoot",
+    "calm",
+    "environment",
+    "forms",
+    "enables",
+    "fiery",
+    "glow",
+    "fires",
+    "similar",
+    "spring",
+    "intense",
+    "f",
+    "feel",
+    "area",
+    "able",
+    "areas",
+    "behind",
+    "near",
+    "active",
+    "among",
+    "magma",
+    "causes",
+    "place",
+    "constantly",
+    "hide",
+    "surface",
+    "burns",
+    "surroundings",
+    "fahrenheit",
+    "create",
+    "entire",
+    "places",
+    "grass",
+    "heat",
+    "hot",
+    "big",
+    "doesn",
+    "ball",
+    "sun",
+    "covered",
+    "temperature",
+    "born"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": "mountain",
@@ -38,7 +155,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery",
+        "luminous"
+      ],
+      "keywords": [
+        "orange",
+        "perfectly",
+        "enables",
+        "glow",
+        "among",
+        "hide",
+        "burns"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +176,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery",
+        "luminous"
+      ],
+      "keywords": [
+        "orange",
+        "perfectly",
+        "enables",
+        "glow",
+        "among",
+        "hide",
+        "burns"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +197,19 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "cloaked",
+        "volcano",
+        "active",
+        "big",
+        "ball",
+        "born"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +217,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It dislikes cold places, so it blows scorching flames to make the environment suit­ able for itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "scorching",
+        "suit",
+        "blows",
+        "dislikes",
+        "environment",
+        "able",
+        "places"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +239,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "rippling",
+        "wavering",
+        "glare",
+        "fiery",
+        "similar",
+        "surface",
+        "sun"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +259,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It moves more frequently in hot areas. It can heal itself by dipping its wound into lava.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "wound",
+        "frequently",
+        "dipping",
+        "heal",
+        "lava",
+        "areas",
+        "hot"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +280,25 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "In battle, MAGMAR blows out intensely hot flames from all over its body to intimidate its opponent. This POKéMON’s fiery bursts create heat waves that ignite grass and trees in its surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "ignite",
+        "bursts",
+        "intimidate",
+        "blows",
+        "intensely",
+        "fiery",
+        "surroundings",
+        "create",
+        "grass",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +306,25 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "In battle, MAGMAR blows out intensely hot flames from all over its body to intimidate its opponent. This POKéMON’s fiery bursts create heat waves that ignite grass and trees in its surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "ignite",
+        "bursts",
+        "intimidate",
+        "blows",
+        "intensely",
+        "fiery",
+        "surroundings",
+        "create",
+        "grass",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +332,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees in the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "ignite",
+        "bursts",
+        "intimidate",
+        "blows",
+        "fiery",
+        "intense",
+        "area",
+        "create",
+        "grass",
+        "heat"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +357,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Found near the mouth of a volcano. This fire-breather’s body temperature is nearly 2,200 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "breather",
+        "200",
+        "2",
+        "volcano",
+        "nearly",
+        "near",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +379,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its body always burns with an orange glow that enables it to hide perfectly amidst flames.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery",
+        "luminous"
+      ],
+      "keywords": [
+        "amidst",
+        "orange",
+        "perfectly",
+        "enables",
+        "glow",
+        "hide",
+        "burns"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +400,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "shimmer",
+        "spout",
+        "volcano",
+        "sun",
+        "covered",
+        "born"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +420,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "shimmer",
+        "spout",
+        "volcano",
+        "sun",
+        "covered",
+        "born"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +440,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "clearly",
+        "deeply",
+        "breathes",
+        "heat"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +458,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It dislikes cold places, so it blows scorching flames to make the environment suitable for itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "fiery",
+        "icy"
+      ],
+      "keywords": [
+        "scorching",
+        "suitable",
+        "blows",
+        "dislikes",
+        "environment",
+        "places"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +479,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "rippling",
+        "wavering",
+        "glare",
+        "fiery",
+        "similar",
+        "surface",
+        "sun"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +499,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "clearly",
+        "deeply",
+        "breathes",
+        "heat"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +517,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "clearly",
+        "deeply",
+        "breathes",
+        "heat"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +535,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "exhaled",
+        "scorching",
+        "clearly",
+        "forms",
+        "heat"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +554,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "exhaled",
+        "scorching",
+        "clearly",
+        "forms",
+        "heat"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +573,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Found near the mouth of a volcano. This fire-breather’s body temperature is nearly 2,200 degrees Fahrenheit.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "breather",
+        "200",
+        "2",
+        "volcano",
+        "nearly",
+        "near",
+        "fahrenheit",
+        "temperature"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +595,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "shimmer",
+        "spout",
+        "volcano",
+        "sun",
+        "covered",
+        "born"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +615,25 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon’s fiery bursts create heat waves that ignite grass and trees in its surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "ignite",
+        "bursts",
+        "intimidate",
+        "blows",
+        "intensely",
+        "fiery",
+        "surroundings",
+        "create",
+        "grass",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +641,25 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon’s fiery bursts create heat waves that ignite grass and trees in its surroundings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "forest-dwelling",
+        "fiery"
+      ],
+      "keywords": [
+        "ignite",
+        "bursts",
+        "intimidate",
+        "blows",
+        "intensely",
+        "fiery",
+        "surroundings",
+        "create",
+        "grass",
+        "heat",
+        "hot"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +667,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When it’s tired, it leaps into the mouth of a volcano and soaks its body in magma to ease its weariness. Its body burns at 2,192 degrees F.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic"
+      ],
+      "keywords": [
+        "192",
+        "soaks",
+        "weariness",
+        "ease",
+        "tired",
+        "2",
+        "leaps",
+        "volcano",
+        "f",
+        "magma",
+        "burns"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +691,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When angered, it spouts brilliant fire from all over its body. It doesn’t calm down until its opponent has burned to ash.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "ash",
+        "brilliant",
+        "burned",
+        "angered",
+        "spouts",
+        "calm",
+        "doesn"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +711,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its entire body is burning. When it breathes, the temperature rises. When it sneezes, flames shoot out!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "sneezes",
+        "rises",
+        "burning",
+        "breathes",
+        "shoot",
+        "entire",
+        "temperature"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +731,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The hotter the place, the better they feel. Magmar in Alola are said to be hardier than those in other areas.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "hardier",
+        "hotter",
+        "better",
+        "alola",
+        "feel",
+        "areas",
+        "place"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +749,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "cloaked",
+        "volcano",
+        "active",
+        "big",
+        "ball",
+        "born"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +769,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "cloaked",
+        "volcano",
+        "active",
+        "big",
+        "ball",
+        "born"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +789,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "dispatches",
+        "charred",
+        "realizes",
+        "regrets",
+        "crisp",
+        "intended",
+        "burned",
+        "habit"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +811,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "These Pokémon’s bodies are constantly burning. Magmar are feared as one of the causes behind fires.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "burning",
+        "feared",
+        "fires",
+        "behind",
+        "causes",
+        "constantly"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +828,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "volcanic",
+        "fiery"
+      ],
+      "keywords": [
+        "crater",
+        "bathes",
+        "wounded",
+        "heal",
+        "lava",
+        "soak",
+        "legend",
+        "volcano",
+        "spring",
+        "hot",
+        "born"
+      ]
     }
   ],
   "similarPokemonIds": [

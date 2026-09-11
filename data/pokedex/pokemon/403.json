@@ -9,6 +9,52 @@
   ],
   "imagePath": "/assets/pokemon/403.png",
   "entryCount": 16,
+  "entryTraits": [
+    "fur",
+    "electric",
+    "luminous",
+    "tail"
+  ],
+  "entryKeywords": [
+    "aggression",
+    "belies",
+    "contracting",
+    "trembling",
+    "dazzles",
+    "momentarily",
+    "blinded",
+    "tame",
+    "patient",
+    "sensed",
+    "stature",
+    "contraction",
+    "extension",
+    "muscle",
+    "tremendous",
+    "generating",
+    "endangered",
+    "based",
+    "shakes",
+    "flees",
+    "shaking",
+    "shining",
+    "system",
+    "excited",
+    "amount",
+    "brightly",
+    "sends",
+    "forelegs",
+    "signals",
+    "trouble",
+    "shines",
+    "sign",
+    "glow",
+    "glows",
+    "generates",
+    "generate",
+    "tip",
+    "muscles"
+  ],
   "color": "blue",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +84,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "dazzles",
+        "momentarily",
+        "blinded",
+        "sensed",
+        "flees"
+      ]
     },
     {
       "versionId": 13,
@@ -46,7 +102,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its forelegs have a muscle-based system of generating electricity. Its body shines if endangered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "muscle",
+        "generating",
+        "endangered",
+        "based",
+        "system",
+        "forelegs",
+        "shines"
+      ]
     },
     {
       "versionId": 14,
@@ -54,7 +122,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 15,
@@ -62,7 +142,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 16,
@@ -70,7 +163,20 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 17,
@@ -78,7 +184,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 18,
@@ -86,7 +204,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 21,
@@ -94,7 +224,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 22,
@@ -102,7 +244,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 23,
@@ -110,7 +264,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 24,
@@ -118,7 +284,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "dazzles",
+        "momentarily",
+        "blinded",
+        "sensed",
+        "flees"
+      ]
     },
     {
       "versionId": 25,
@@ -126,7 +302,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "contraction",
+        "extension",
+        "trouble",
+        "glows",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 26,
@@ -134,7 +322,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur"
+      ],
+      "keywords": [
+        "dazzles",
+        "momentarily",
+        "blinded",
+        "sensed",
+        "flees"
+      ]
     },
     {
       "versionId": 33,
@@ -142,7 +340,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "contracting",
+        "trembling",
+        "tremendous",
+        "generating",
+        "excited",
+        "amount",
+        "sign",
+        "generates",
+        "muscles"
+      ]
     },
     {
       "versionId": 34,
@@ -150,7 +362,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Electricity makes this Pokémon’s fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fur",
+        "tail",
+        "electric",
+        "luminous"
+      ],
+      "keywords": [
+        "shaking",
+        "shining",
+        "brightly",
+        "sends",
+        "signals",
+        "glow",
+        "tip"
+      ]
     },
     {
       "versionId": 39,
@@ -158,7 +385,19 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Shakes its body to generate electricity. Its stature belies its aggression—one must be patient to tame this Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "aggression",
+        "belies",
+        "tame",
+        "patient",
+        "stature",
+        "shakes",
+        "generate"
+      ]
     }
   ],
   "similarPokemonIds": [

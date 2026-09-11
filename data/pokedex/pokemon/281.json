@@ -10,6 +10,66 @@
   ],
   "imagePath": "/assets/pokemon/281.png",
   "entryCount": 21,
+  "entryTraits": [
+    "sky-dwelling",
+    "horns",
+    "psychic"
+  ],
+  "entryKeywords": [
+    "ornaments",
+    "project",
+    "crimson",
+    "maiden",
+    "mirages",
+    "mornings",
+    "nonexistent",
+    "paradise",
+    "perceptive",
+    "visions",
+    "joyously",
+    "overflows",
+    "scenery",
+    "pleasure",
+    "distort",
+    "suspect",
+    "cheerful",
+    "distorted",
+    "key",
+    "wields",
+    "dimensions",
+    "rip",
+    "creating",
+    "dances",
+    "sunny",
+    "positive",
+    "abilities",
+    "psychokinetic",
+    "amplify",
+    "resembles",
+    "happy",
+    "i",
+    "feeling",
+    "strange",
+    "spins",
+    "dancing",
+    "enables",
+    "future",
+    "exposed",
+    "space",
+    "feelings",
+    "spinning",
+    "dance",
+    "controls",
+    "appearance",
+    "beautiful",
+    "emotions",
+    "brain",
+    "highly",
+    "spirit",
+    "create",
+    "horns",
+    "developed"
+  ],
   "color": "white",
   "shape": "humanoid",
   "habitat": "urban",
@@ -40,7 +100,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "positive",
+        "psychokinetic",
+        "exposed",
+        "controls",
+        "beautiful",
+        "emotions",
+        "brain",
+        "highly",
+        "developed"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +120,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "KIRLIA uses the horns on its head to amplify its psychokinetic power. When the POKéMON uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "mirages",
+        "nonexistent",
+        "scenery",
+        "distorted",
+        "creating",
+        "psychokinetic",
+        "amplify",
+        "horns"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +142,20 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A KIRLIA has the psychic power to create a rip in the dimensions and see into the future. It is said to dance with pleasure on sunny mornings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "mornings",
+        "pleasure",
+        "dimensions",
+        "rip",
+        "sunny",
+        "future",
+        "dance",
+        "create"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +163,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheerful",
+        "dances",
+        "psychokinetic",
+        "happy",
+        "spins",
+        "spirit"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +180,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheerful",
+        "dances",
+        "psychokinetic",
+        "happy",
+        "spins",
+        "spirit"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +197,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is highly perceptive of its Trainer’s feelings. It dances when it is feeling happy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perceptive",
+        "dances",
+        "happy",
+        "feeling",
+        "feelings",
+        "highly"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +214,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is highly perceptive of its Trainer’s feelings. It dances when it is feeling happy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "perceptive",
+        "dances",
+        "happy",
+        "feeling",
+        "feelings",
+        "highly"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +231,15 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "joyously",
+        "overflows",
+        "happy",
+        "dancing",
+        "spinning"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +247,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a psychic power that enables it to distort the space around it and see into the future.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "distort",
+        "enables",
+        "future",
+        "space"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +264,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It has a psychic power that enables it to distort the space around it and see into the future.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "distort",
+        "enables",
+        "future",
+        "space"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +281,15 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "joyously",
+        "overflows",
+        "happy",
+        "dancing",
+        "spinning"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +297,15 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "joyously",
+        "overflows",
+        "happy",
+        "dancing",
+        "spinning"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +313,15 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "joyously",
+        "overflows",
+        "happy",
+        "dancing",
+        "spinning"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +329,15 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "joyously",
+        "overflows",
+        "happy",
+        "dancing",
+        "spinning"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +345,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cheerful",
+        "dances",
+        "psychokinetic",
+        "happy",
+        "spins",
+        "spirit"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +362,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It has a psychic power that enables it to distort the space around it and see into the future.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "distort",
+        "enables",
+        "future",
+        "space"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +379,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful. This Pokémon controls psychokinetic powers with its highly developed brain.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "positive",
+        "psychokinetic",
+        "exposed",
+        "controls",
+        "beautiful",
+        "emotions",
+        "brain",
+        "highly",
+        "developed"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +399,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pokémon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "horns"
+      ],
+      "keywords": [
+        "mirages",
+        "nonexistent",
+        "scenery",
+        "distorted",
+        "creating",
+        "psychokinetic",
+        "amplify",
+        "horns"
+      ]
     },
     {
       "versionId": 33,
@@ -184,7 +421,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "joyously",
+        "overflows",
+        "happy",
+        "dancing",
+        "spinning"
+      ]
     },
     {
       "versionId": 34,
@@ -192,7 +437,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It has a psychic power that enables it to distort the space around it and see into the future.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "distort",
+        "enables",
+        "future",
+        "space"
+      ]
     },
     {
       "versionId": 39,
@@ -200,7 +454,24 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ornaments",
+        "project",
+        "crimson",
+        "maiden",
+        "paradise",
+        "visions",
+        "suspect",
+        "key",
+        "wields",
+        "abilities",
+        "resembles",
+        "i",
+        "strange",
+        "appearance"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,30 @@
   ],
   "imagePath": "/assets/pokemon/1021.png",
   "entryCount": 2,
+  "entryTraits": [
+    "fur",
+    "electric",
+    "fiery"
+  ],
+  "entryKeywords": [
+    "incinerate",
+    "touted",
+    "bears",
+    "raikou",
+    "resemblance",
+    "launched",
+    "paranormal",
+    "topic",
+    "magazine",
+    "creature",
+    "ancestor",
+    "became",
+    "short",
+    "little",
+    "everything",
+    "lightning",
+    "hot"
+  ],
   "color": "yellow",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +63,19 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "electric"
+      ],
+      "keywords": [
+        "incinerate",
+        "launched",
+        "creature",
+        "little",
+        "everything",
+        "lightning"
+      ]
     },
     {
       "versionId": 41,
@@ -47,7 +83,23 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "touted",
+        "bears",
+        "raikou",
+        "resemblance",
+        "paranormal",
+        "topic",
+        "magazine",
+        "ancestor",
+        "became",
+        "short",
+        "hot"
+      ]
     }
   ],
   "similarPokemonIds": [

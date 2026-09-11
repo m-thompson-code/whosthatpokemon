@@ -10,6 +10,91 @@
   ],
   "imagePath": "/assets/pokemon/142.png",
   "entryCount": 32,
+  "entryTraits": [
+    "fangs",
+    "wings",
+    "sonic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "casualties",
+    "cient",
+    "exhibited",
+    "ferocity",
+    "specimen",
+    "continent",
+    "expected",
+    "historic",
+    "producing",
+    "accepted",
+    "ruled",
+    "sawlike",
+    "serrated",
+    "shrieking",
+    "tatters",
+    "flown",
+    "mon",
+    "pre",
+    "spreading",
+    "dinosaurs",
+    "extracted",
+    "fearlessly",
+    "roamed",
+    "shred",
+    "technology",
+    "gliding",
+    "pitched",
+    "widely",
+    "theory",
+    "dinosaur",
+    "era",
+    "resulted",
+    "amber",
+    "saw",
+    "modern",
+    "imagined",
+    "touched",
+    "prehistoric",
+    "died",
+    "flew",
+    "greater",
+    "material",
+    "resurrected",
+    "throat",
+    "meteor",
+    "ferocious",
+    "incapable",
+    "perfectly",
+    "taken",
+    "king",
+    "restored",
+    "impact",
+    "regenerated",
+    "distant",
+    "dna",
+    "went",
+    "savage",
+    "teeth",
+    "blades",
+    "walk",
+    "type",
+    "slow",
+    "genetic",
+    "age",
+    "due",
+    "skies",
+    "extinct",
+    "vicious",
+    "poke",
+    "past",
+    "open",
+    "matter",
+    "weak",
+    "freely",
+    "eating",
+    "skin",
+    "apparently"
+  ],
   "color": "purple",
   "shape": "wings",
   "habitat": "mountain",
@@ -39,7 +124,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "historic",
+        "serrated",
+        "pre",
+        "saw",
+        "throat",
+        "ferocious"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +143,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "historic",
+        "serrated",
+        "pre",
+        "saw",
+        "throat",
+        "ferocious"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +162,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "A savage POKéMON that died out in ancient times. It was resurrected using DNA taken from amber.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "amber",
+        "died",
+        "resurrected",
+        "taken",
+        "dna",
+        "savage"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +179,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "A vicious POKéMON from the distant past, it appears to have flown by spreading its wings and gliding.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "flown",
+        "spreading",
+        "gliding",
+        "distant",
+        "vicious",
+        "past"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +198,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "This vicious POKé­ MON is said to have flown in an­ cient skies while shrieking high- pitched cries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "cient",
+        "shrieking",
+        "flown",
+        "mon",
+        "pitched",
+        "skies",
+        "vicious",
+        "poke"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +219,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "In prehistoric times, this POKéMON flew freely and fearlessly through the skies.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fearlessly",
+        "prehistoric",
+        "flew",
+        "skies",
+        "freely"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +235,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "dinosaurs",
+        "extracted",
+        "amber",
+        "imagined",
+        "material",
+        "king",
+        "regenerated",
+        "genetic",
+        "age",
+        "skies"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +256,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "dinosaurs",
+        "extracted",
+        "amber",
+        "imagined",
+        "material",
+        "king",
+        "regenerated",
+        "genetic",
+        "age",
+        "skies"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +277,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from DNA extracted from amber. It is imagined to have been the king of the skies.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "dinosaurs",
+        "extracted",
+        "amber",
+        "imagined",
+        "king",
+        "regenerated",
+        "dna",
+        "age",
+        "skies"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +297,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It was regenerated from a dinosaur’s genetic matter that was found in amber. It flies with high-pitched cries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "pitched",
+        "dinosaur",
+        "amber",
+        "regenerated",
+        "genetic",
+        "matter"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +316,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "A ferocious, prehistoric POKéMON that goes for the enemy’s throat with its serrated, sawlike fangs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "sawlike",
+        "serrated",
+        "prehistoric",
+        "throat",
+        "ferocious"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +334,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "roamed",
+        "dinosaur",
+        "era",
+        "saw",
+        "teeth",
+        "blades",
+        "skies"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +354,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "roamed",
+        "dinosaur",
+        "era",
+        "saw",
+        "teeth",
+        "blades",
+        "skies"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +374,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "roamed",
+        "dinosaur",
+        "era",
+        "saw",
+        "teeth",
+        "blades",
+        "skies"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +394,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "A vicious Pokémon from the distant past, it appears to have flown by spreading its wings and gliding.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "flown",
+        "spreading",
+        "gliding",
+        "distant",
+        "vicious",
+        "past"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +413,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "shrieking",
+        "flown",
+        "pitched",
+        "skies",
+        "vicious"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +431,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "roamed",
+        "dinosaur",
+        "era",
+        "saw",
+        "teeth",
+        "blades",
+        "skies"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +451,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "roamed",
+        "dinosaur",
+        "era",
+        "saw",
+        "teeth",
+        "blades",
+        "skies"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +471,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "roamed",
+        "dinosaur",
+        "era",
+        "saw",
+        "teeth",
+        "blades",
+        "skies"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +491,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "roamed",
+        "dinosaur",
+        "era",
+        "saw",
+        "teeth",
+        "blades",
+        "skies"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +511,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It was regenerated from a dinosaur’s genetic matter that was found in amber. It flies with high-pitched cries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "pitched",
+        "dinosaur",
+        "amber",
+        "regenerated",
+        "genetic",
+        "matter"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +530,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "shrieking",
+        "flown",
+        "pitched",
+        "skies",
+        "vicious"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +548,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "dinosaurs",
+        "extracted",
+        "amber",
+        "imagined",
+        "material",
+        "king",
+        "regenerated",
+        "genetic",
+        "age",
+        "skies"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +569,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "dinosaurs",
+        "extracted",
+        "amber",
+        "imagined",
+        "material",
+        "king",
+        "regenerated",
+        "genetic",
+        "age",
+        "skies"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +590,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "A Pokémon from the age of the dinosaurs. It used its sawlike fangs to shred its prey before eating them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "sawlike",
+        "dinosaurs",
+        "shred",
+        "age",
+        "eating"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +609,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "In ancient times, it ruled the skies. A widely accepted theory is that it went extinct due to a large meteor impact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "accepted",
+        "ruled",
+        "widely",
+        "theory",
+        "meteor",
+        "impact",
+        "went",
+        "due",
+        "skies",
+        "extinct"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +630,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Restored from DNA found in amber, this Pokémon exhibited ferocity that was greater than expected. Some casualties resulted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "casualties",
+        "exhibited",
+        "ferocity",
+        "expected",
+        "resulted",
+        "amber",
+        "greater",
+        "restored",
+        "dna"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +650,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It flew through the open skies over the ancient continent as if they were its own. When it touched ground, its walk was weak and slow.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "continent",
+        "touched",
+        "flew",
+        "walk",
+        "slow",
+        "skies",
+        "open",
+        "weak"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +669,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A savage Pokémon that died out in ancient times. It was resurrected using DNA taken from amber.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "amber",
+        "died",
+        "resurrected",
+        "taken",
+        "dna",
+        "savage"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +686,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "A savage Pokémon that died out in ancient times. It was resurrected using DNA taken from amber.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "amber",
+        "died",
+        "resurrected",
+        "taken",
+        "dna",
+        "savage"
+      ]
     },
     {
       "versionId": 33,
@@ -279,7 +703,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "specimen",
+        "producing",
+        "technology",
+        "modern",
+        "ferocious",
+        "incapable",
+        "perfectly",
+        "restored",
+        "apparently"
+      ]
     },
     {
       "versionId": 34,
@@ -287,7 +723,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Aerodactyl’s sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "sawlike",
+        "tatters",
+        "shred",
+        "type",
+        "skin"
+      ]
     }
   ],
   "similarPokemonIds": [

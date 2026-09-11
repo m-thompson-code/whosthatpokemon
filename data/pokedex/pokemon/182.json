@@ -9,6 +9,64 @@
   ],
   "imagePath": "/assets/pokemon/182.png",
   "entryCount": 23,
+  "entryTraits": [
+    "sonic",
+    "nocturnal",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "stinkier",
+    "summoning",
+    "deepen",
+    "renowned",
+    "cloudy",
+    "persists",
+    "gloom",
+    "ritual",
+    "summon",
+    "rub",
+    "pretty",
+    "smelly",
+    "plentiful",
+    "stinky",
+    "relaxing",
+    "plenty",
+    "tropics",
+    "beautifully",
+    "rainfall",
+    "spin",
+    "ringing",
+    "seem",
+    "southern",
+    "dances",
+    "closes",
+    "pleasant",
+    "begin",
+    "ends",
+    "drawn",
+    "better",
+    "season",
+    "exposure",
+    "lands",
+    "evolved",
+    "dancing",
+    "exposed",
+    "color",
+    "sounds",
+    "open",
+    "say",
+    "petals",
+    "dance",
+    "weather",
+    "flowers",
+    "against",
+    "flower",
+    "thought",
+    "gather",
+    "heavy",
+    "sun",
+    "sunlight"
+  ],
   "color": "green",
   "shape": "humanoid",
   "habitat": "grassland",
@@ -38,7 +96,16 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ritual",
+        "summon",
+        "say",
+        "dance",
+        "gather",
+        "sun"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +113,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "rub",
+        "plentiful",
+        "tropics",
+        "ringing",
+        "dances",
+        "pleasant",
+        "petals"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +133,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When these dance together, their petals rub against each other, making pretty, relaxing sounds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "rub",
+        "pretty",
+        "relaxing",
+        "sounds",
+        "petals",
+        "dance",
+        "against"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +153,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "When BELLOSSOM gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This POKéMON’s dancing is renowned in the southern lands.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "renowned",
+        "plenty",
+        "spin",
+        "ringing",
+        "southern",
+        "begin",
+        "lands",
+        "dancing",
+        "exposed",
+        "sunlight"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +174,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "A BELLOSSOM grows flowers more beautifully if it has evolved from a smelly GLOOM - the stinkier the better. At night, this POKéMON closes its petals and goes to sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "stinkier",
+        "gloom",
+        "smelly",
+        "beautifully",
+        "closes",
+        "better",
+        "evolved",
+        "petals",
+        "flowers"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +197,24 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "summoning",
+        "deepen",
+        "cloudy",
+        "persists",
+        "ritual",
+        "exposure",
+        "color",
+        "petals",
+        "dance",
+        "weather",
+        "flower",
+        "thought",
+        "sun",
+        "sunlight"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +222,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "rub",
+        "plentiful",
+        "tropics",
+        "ringing",
+        "dances",
+        "pleasant",
+        "petals"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +242,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ritual",
+        "summon",
+        "say",
+        "dance",
+        "gather",
+        "sun"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +259,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainfall",
+        "ends",
+        "drawn",
+        "season",
+        "open",
+        "dance",
+        "heavy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +278,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainfall",
+        "ends",
+        "drawn",
+        "season",
+        "open",
+        "dance",
+        "heavy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +297,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainfall",
+        "ends",
+        "drawn",
+        "season",
+        "open",
+        "dance",
+        "heavy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +316,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "BELLOSSOM gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ritual",
+        "summon",
+        "seem",
+        "say",
+        "dance",
+        "gather",
+        "sun"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +334,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "rub",
+        "plentiful",
+        "tropics",
+        "ringing",
+        "dances",
+        "pleasant",
+        "petals"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +354,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainfall",
+        "ends",
+        "drawn",
+        "season",
+        "open",
+        "dance",
+        "heavy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +373,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainfall",
+        "ends",
+        "drawn",
+        "season",
+        "open",
+        "dance",
+        "heavy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +392,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainfall",
+        "ends",
+        "drawn",
+        "season",
+        "open",
+        "dance",
+        "heavy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +411,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainfall",
+        "ends",
+        "drawn",
+        "season",
+        "open",
+        "dance",
+        "heavy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +430,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Bellossom gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ritual",
+        "summon",
+        "seem",
+        "say",
+        "dance",
+        "gather",
+        "sun"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +448,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rainfall",
+        "ends",
+        "drawn",
+        "season",
+        "open",
+        "dance",
+        "heavy",
+        "sunlight"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +467,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon’s dancing is renowned in the southern lands.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "renowned",
+        "plenty",
+        "spin",
+        "ringing",
+        "southern",
+        "begin",
+        "lands",
+        "dancing",
+        "exposed",
+        "sunlight"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +488,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom—the more stinky the better. At night, this Pokémon closes its petals and goes to sleep.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "nocturnal",
+        "sleeping"
+      ],
+      "keywords": [
+        "gloom",
+        "smelly",
+        "stinky",
+        "beautifully",
+        "closes",
+        "better",
+        "evolved",
+        "petals",
+        "flowers"
+      ]
     },
     {
       "versionId": 33,
@@ -206,7 +511,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "rub",
+        "plentiful",
+        "tropics",
+        "ringing",
+        "dances",
+        "pleasant",
+        "petals"
+      ]
     },
     {
       "versionId": 34,
@@ -214,7 +531,16 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ritual",
+        "summon",
+        "say",
+        "dance",
+        "gather",
+        "sun"
+      ]
     }
   ],
   "similarPokemonIds": [

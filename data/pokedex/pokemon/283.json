@@ -10,6 +10,67 @@
   ],
   "imagePath": "/assets/pokemon/283.png",
   "entryCount": 22,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "bread",
+    "disgusts",
+    "scented",
+    "sugary",
+    "choked",
+    "weed",
+    "microscopic",
+    "dewpider",
+    "marshes",
+    "organisms",
+    "pinch",
+    "puddles",
+    "syrup",
+    "feature",
+    "gliding",
+    "downpours",
+    "evening",
+    "sliding",
+    "skating",
+    "taste",
+    "lots",
+    "diet",
+    "towns",
+    "secrete",
+    "tasty",
+    "shower",
+    "whose",
+    "gathering",
+    "ponds",
+    "oozes",
+    "walk",
+    "oil",
+    "draws",
+    "love",
+    "lakes",
+    "habitat",
+    "liquid",
+    "secretes",
+    "enables",
+    "tips",
+    "feeds",
+    "similar",
+    "fights",
+    "plant",
+    "honey",
+    "surface",
+    "scent",
+    "aroma",
+    "across",
+    "eating",
+    "fluid",
+    "usually",
+    "bird",
+    "tip",
+    "gather"
+  ],
   "color": "blue",
   "shape": "armor",
   "habitat": "waters-edge",
@@ -40,7 +101,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POKéMON feeds on microscopic organisms in ponds and lakes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "microscopic",
+        "organisms",
+        "skating",
+        "ponds",
+        "walk",
+        "oil",
+        "lakes",
+        "secretes",
+        "enables",
+        "tips",
+        "feeds"
+      ]
     },
     {
       "versionId": 8,
@@ -48,7 +125,16 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "If SURSKIT senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some POKéMON that love eating this syrup.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sugary",
+        "syrup",
+        "love",
+        "secretes",
+        "eating",
+        "tip"
+      ]
     },
     {
       "versionId": 9,
@@ -56,7 +142,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "They gather on puddles after evening downpours, gliding across the surface of water as if sliding. It secretes honey with a sweet aroma from its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "puddles",
+        "gliding",
+        "downpours",
+        "evening",
+        "sliding",
+        "secretes",
+        "honey",
+        "surface",
+        "aroma",
+        "across",
+        "gather"
+      ]
     },
     {
       "versionId": 10,
@@ -64,7 +166,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puddles",
+        "evening",
+        "towns",
+        "shower",
+        "ponds",
+        "usually"
+      ]
     },
     {
       "versionId": 11,
@@ -72,7 +183,16 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puddles",
+        "evening",
+        "towns",
+        "shower",
+        "ponds",
+        "usually"
+      ]
     },
     {
       "versionId": 12,
@@ -80,7 +200,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skating",
+        "draws",
+        "scent",
+        "tip"
+      ]
     },
     {
       "versionId": 13,
@@ -88,7 +218,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skating",
+        "draws",
+        "scent",
+        "tip"
+      ]
     },
     {
       "versionId": 14,
@@ -96,7 +236,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skating",
+        "draws",
+        "scent",
+        "tip"
+      ]
     },
     {
       "versionId": 15,
@@ -104,7 +254,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scented",
+        "choked",
+        "weed",
+        "syrup",
+        "ponds",
+        "secretes",
+        "tip"
+      ]
     },
     {
       "versionId": 16,
@@ -112,7 +272,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scented",
+        "choked",
+        "weed",
+        "syrup",
+        "ponds",
+        "secretes",
+        "tip"
+      ]
     },
     {
       "versionId": 17,
@@ -120,7 +290,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skating",
+        "draws",
+        "scent",
+        "tip"
+      ]
     },
     {
       "versionId": 18,
@@ -128,7 +308,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skating",
+        "draws",
+        "scent",
+        "tip"
+      ]
     },
     {
       "versionId": 21,
@@ -136,7 +326,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skating",
+        "draws",
+        "scent",
+        "tip"
+      ]
     },
     {
       "versionId": 22,
@@ -144,7 +344,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skating",
+        "draws",
+        "scent",
+        "tip"
+      ]
     },
     {
       "versionId": 23,
@@ -152,7 +362,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puddles",
+        "evening",
+        "towns",
+        "shower",
+        "ponds",
+        "usually"
+      ]
     },
     {
       "versionId": 24,
@@ -160,7 +379,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skating",
+        "draws",
+        "scent",
+        "tip"
+      ]
     },
     {
       "versionId": 25,
@@ -168,7 +397,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "From the tips of its feet, Surskit secretes an oil that enables it to walk on water as if it were skating. This Pokémon feeds on microscopic organisms in ponds and lakes.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "microscopic",
+        "organisms",
+        "skating",
+        "ponds",
+        "walk",
+        "oil",
+        "lakes",
+        "secretes",
+        "enables",
+        "tips",
+        "feeds"
+      ]
     },
     {
       "versionId": 26,
@@ -176,7 +421,16 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If Surskit senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some Pokémon that love eating this syrup.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "sugary",
+        "syrup",
+        "love",
+        "secretes",
+        "eating",
+        "tip"
+      ]
     },
     {
       "versionId": 27,
@@ -184,7 +438,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It moves as if skating on the surface of the water. It often fights with Dewpider over food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dewpider",
+        "skating",
+        "fights",
+        "surface"
+      ]
     },
     {
       "versionId": 28,
@@ -192,7 +455,16 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When this Pokémon senses danger, a sweet fluid oozes from the tip of its head. The taste of it disgusts bird Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "disgusts",
+        "taste",
+        "oozes",
+        "fluid",
+        "bird",
+        "tip"
+      ]
     },
     {
       "versionId": 29,
@@ -200,7 +472,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "If it’s in a pinch, it will secrete a sweet liquid from the tip of its head. Syrup made from gathering that liquid is tasty on bread.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bread",
+        "pinch",
+        "syrup",
+        "secrete",
+        "tasty",
+        "gathering",
+        "liquid",
+        "tip"
+      ]
     },
     {
       "versionId": 30,
@@ -208,7 +491,21 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "dewpider",
+        "marshes",
+        "feature",
+        "lots",
+        "diet",
+        "whose",
+        "ponds",
+        "habitat",
+        "similar",
+        "fights",
+        "plant"
+      ]
     }
   ],
   "similarPokemonIds": [

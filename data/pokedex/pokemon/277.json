@@ -10,6 +10,60 @@
   ],
   "imagePath": "/assets/pokemon/277.png",
   "entryCount": 18,
+  "entryTraits": [
+    "sky-dwelling",
+    "hunting",
+    "wings",
+    "feathers",
+    "tail",
+    "claws"
+  ],
+  "entryKeywords": [
+    "arcs",
+    "conscientious",
+    "grasped",
+    "upkeep",
+    "cleaning",
+    "our",
+    "preventing",
+    "misses",
+    "hapless",
+    "steeply",
+    "clawed",
+    "glossy",
+    "attention",
+    "graceful",
+    "climate",
+    "diligently",
+    "gathered",
+    "steep",
+    "tightly",
+    "angle",
+    "soars",
+    "standing",
+    "proof",
+    "targets",
+    "circles",
+    "dives",
+    "health",
+    "elegantly",
+    "lands",
+    "catches",
+    "soon",
+    "skies",
+    "feathers",
+    "upon",
+    "above",
+    "care",
+    "escape",
+    "far",
+    "catch",
+    "spots",
+    "search",
+    "good",
+    "takes",
+    "heads"
+  ],
   "color": "blue",
   "shape": "wings",
   "habitat": "grassland",
@@ -39,7 +93,29 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "arcs",
+        "grasped",
+        "our",
+        "preventing",
+        "hapless",
+        "clawed",
+        "graceful",
+        "steep",
+        "tightly",
+        "angle",
+        "dives",
+        "soon",
+        "above",
+        "escape",
+        "spots",
+        "heads"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +123,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other’s wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "conscientious",
+        "upkeep",
+        "cleaning",
+        "glossy",
+        "diligently",
+        "gathered",
+        "care"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +143,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "misses",
+        "climate",
+        "targets",
+        "dives",
+        "lands",
+        "skies",
+        "upon",
+        "above",
+        "far",
+        "search",
+        "takes"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +167,22 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "feathers",
+        "tail"
+      ],
+      "keywords": [
+        "attention",
+        "soars",
+        "standing",
+        "proof",
+        "health",
+        "elegantly",
+        "feathers",
+        "good"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +190,22 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "feathers",
+        "tail"
+      ],
+      "keywords": [
+        "attention",
+        "soars",
+        "standing",
+        "proof",
+        "health",
+        "elegantly",
+        "feathers",
+        "good"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +213,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "steeply",
+        "circles",
+        "dives",
+        "catch",
+        "spots",
+        "search"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +233,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "steeply",
+        "circles",
+        "dives",
+        "catch",
+        "spots",
+        "search"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +253,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "steeply",
+        "circles",
+        "dives",
+        "catch",
+        "spots",
+        "search"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +273,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "steep",
+        "angle",
+        "dives",
+        "catches",
+        "soon",
+        "spots"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +293,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "steep",
+        "angle",
+        "dives",
+        "catches",
+        "soon",
+        "spots"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +313,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "steeply",
+        "circles",
+        "dives",
+        "catch",
+        "spots",
+        "search"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +333,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "steeply",
+        "circles",
+        "dives",
+        "catch",
+        "spots",
+        "search"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +353,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "steeply",
+        "circles",
+        "dives",
+        "catch",
+        "spots",
+        "search"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +373,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "steeply",
+        "circles",
+        "dives",
+        "catch",
+        "spots",
+        "search"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +393,22 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "feathers",
+        "tail"
+      ],
+      "keywords": [
+        "attention",
+        "soars",
+        "standing",
+        "proof",
+        "health",
+        "elegantly",
+        "feathers",
+        "good"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +416,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "steep",
+        "angle",
+        "dives",
+        "catches",
+        "soon",
+        "spots"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +436,29 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow’s clawed feet, preventing escape.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sky-dwelling",
+        "hunting"
+      ],
+      "keywords": [
+        "arcs",
+        "grasped",
+        "our",
+        "preventing",
+        "hapless",
+        "clawed",
+        "graceful",
+        "steep",
+        "tightly",
+        "angle",
+        "dives",
+        "soon",
+        "above",
+        "escape",
+        "spots",
+        "heads"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +466,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "conscientious",
+        "upkeep",
+        "cleaning",
+        "glossy",
+        "diligently",
+        "gathered",
+        "care"
+      ]
     }
   ],
   "similarPokemonIds": [

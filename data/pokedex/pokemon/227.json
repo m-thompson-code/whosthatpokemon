@@ -10,6 +10,95 @@
   ],
   "imagePath": "/assets/pokemon/227.png",
   "entryCount": 27,
+  "entryTraits": [
+    "sky-dwelling",
+    "wings",
+    "luminous",
+    "feathers",
+    "territorial"
+  ],
+  "entryKeywords": [
+    "185",
+    "heraldic",
+    "190",
+    "bashed",
+    "battered",
+    "restoring",
+    "rust",
+    "chefs",
+    "draped",
+    "finest",
+    "knives",
+    "sharpness",
+    "warriors",
+    "bramble",
+    "corviknight",
+    "pristine",
+    "tattered",
+    "element",
+    "designs",
+    "bushes",
+    "processed",
+    "swordlike",
+    "viciously",
+    "wing",
+    "chicks",
+    "nesting",
+    "repeated",
+    "recognized",
+    "sharper",
+    "edges",
+    "rainy",
+    "slashes",
+    "pointed",
+    "cutting",
+    "180",
+    "encased",
+    "thorns",
+    "fashion",
+    "hour",
+    "allowing",
+    "scratches",
+    "whose",
+    "swords",
+    "clad",
+    "possess",
+    "rather",
+    "put",
+    "shed",
+    "state",
+    "protective",
+    "completely",
+    "fallen",
+    "stay",
+    "hollow",
+    "looking",
+    "sheds",
+    "metal",
+    "feathers",
+    "battles",
+    "entirely",
+    "speeds",
+    "despite",
+    "year",
+    "past",
+    "armor",
+    "bones",
+    "fall",
+    "popular",
+    "actually",
+    "days",
+    "mph",
+    "prefers",
+    "thin",
+    "look",
+    "miles",
+    "sturdy",
+    "freely",
+    "iron",
+    "close",
+    "heavy"
+  ],
   "color": "gray",
   "shape": "wings",
   "habitat": "rough-terrain",
@@ -39,7 +128,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "allowing",
+        "hollow",
+        "actually",
+        "look",
+        "sturdy",
+        "freely",
+        "heavy"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +150,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "bramble",
+        "bushes",
+        "chicks",
+        "nesting",
+        "thorns",
+        "scratches"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +169,15 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The feathers that it sheds are very sharp. It is said that people once used the feathers as swords.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "swords",
+        "sheds",
+        "feathers"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +185,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SKARMORY is entirely encased in hard, protective armor. This POKéMON flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "190",
+        "swordlike",
+        "edges",
+        "slashes",
+        "cutting",
+        "encased",
+        "possess",
+        "protective",
+        "entirely",
+        "armor",
+        "mph",
+        "close"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +210,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SKARMORY’s steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "bashed",
+        "battered",
+        "restoring",
+        "pristine",
+        "tattered",
+        "repeated",
+        "edges",
+        "cutting",
+        "state",
+        "completely",
+        "battles",
+        "year"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +235,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A POKéMON that has a body and wings of steel. People in the past used feathers fallen from SKARMORY to make swords and knives.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers",
+        "wings"
+      ],
+      "keywords": [
+        "knives",
+        "swords",
+        "fallen",
+        "feathers",
+        "past"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +254,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "bramble",
+        "bushes",
+        "chicks",
+        "nesting",
+        "thorns",
+        "scratches"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +273,21 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its sturdy wings look heavy, but its bones are hollow and light, allowing it to fly freely in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "allowing",
+        "hollow",
+        "bones",
+        "look",
+        "sturdy",
+        "freely",
+        "heavy"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +295,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "180",
+        "clad",
+        "entirely",
+        "speeds",
+        "despite",
+        "armor",
+        "mph",
+        "iron"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +314,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "180",
+        "clad",
+        "entirely",
+        "speeds",
+        "despite",
+        "armor",
+        "mph",
+        "iron"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +333,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "180",
+        "clad",
+        "entirely",
+        "speeds",
+        "despite",
+        "armor",
+        "mph",
+        "iron"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +352,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "wings",
+        "luminous"
+      ],
+      "keywords": [
+        "allowing",
+        "hollow",
+        "actually",
+        "look",
+        "sturdy",
+        "freely",
+        "heavy"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +374,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "bramble",
+        "bushes",
+        "chicks",
+        "nesting",
+        "thorns",
+        "scratches"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +393,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "180",
+        "clad",
+        "entirely",
+        "speeds",
+        "despite",
+        "armor",
+        "mph",
+        "iron"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +412,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "180",
+        "clad",
+        "entirely",
+        "speeds",
+        "despite",
+        "armor",
+        "mph",
+        "iron"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +431,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "180",
+        "looking",
+        "speeds",
+        "actually",
+        "mph",
+        "thin",
+        "iron",
+        "heavy"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +452,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "180",
+        "looking",
+        "speeds",
+        "actually",
+        "mph",
+        "thin",
+        "iron",
+        "heavy"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +473,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "bramble",
+        "bushes",
+        "chicks",
+        "nesting",
+        "thorns",
+        "scratches"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +492,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "180",
+        "clad",
+        "entirely",
+        "speeds",
+        "despite",
+        "armor",
+        "mph",
+        "iron"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +511,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "190",
+        "swordlike",
+        "edges",
+        "slashes",
+        "cutting",
+        "encased",
+        "possess",
+        "protective",
+        "entirely",
+        "armor",
+        "mph",
+        "close"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +536,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Skarmory’s steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "bashed",
+        "battered",
+        "restoring",
+        "pristine",
+        "tattered",
+        "repeated",
+        "edges",
+        "cutting",
+        "state",
+        "completely",
+        "battles",
+        "year"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +561,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its feathers, which fall off as it grows, are thin and sharp. In times long past, warriors used them as swords.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "warriors",
+        "swords",
+        "feathers",
+        "past",
+        "fall",
+        "thin"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +580,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "Its metal body is sturdy, but it does rust rather easily. So on rainy days, this Pokémon prefers to stay put in its nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "rust",
+        "rainy",
+        "rather",
+        "put",
+        "stay",
+        "metal",
+        "days",
+        "prefers",
+        "sturdy"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +600,23 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The wing feathers it sheds can be processed and made into knives whose sharpness is recognized by the finest chefs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "feathers",
+        "wings"
+      ],
+      "keywords": [
+        "chefs",
+        "finest",
+        "knives",
+        "sharpness",
+        "processed",
+        "wing",
+        "recognized",
+        "whose",
+        "sheds",
+        "feathers"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +624,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour!",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "185",
+        "draped",
+        "hour",
+        "speeds",
+        "armor",
+        "miles",
+        "heavy"
+      ]
     },
     {
       "versionId": 33,
@@ -239,7 +642,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "The pointed feathers of these Pokémon are sharper than swords. Skarmory and Corviknight fight viciously over territory.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers",
+        "territorial"
+      ],
+      "keywords": [
+        "corviknight",
+        "viciously",
+        "sharper",
+        "pointed",
+        "swords",
+        "feathers"
+      ]
     },
     {
       "versionId": 34,
@@ -247,7 +662,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "People fashion swords from Skarmory’s shed feathers, so this Pokémon is a popular element in heraldic designs.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "heraldic",
+        "element",
+        "designs",
+        "fashion",
+        "swords",
+        "shed",
+        "feathers",
+        "popular"
+      ]
     }
   ],
   "similarPokemonIds": [

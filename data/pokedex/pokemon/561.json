@@ -10,6 +10,34 @@
   ],
   "imagePath": "/assets/pokemon/561.png",
   "entryCount": 10,
+  "entryTraits": [
+    "territorial",
+    "psychic",
+    "desert-dwelling"
+  ],
+  "entryKeywords": [
+    "emissaries",
+    "steadfast",
+    "invade",
+    "invaders",
+    "discovery",
+    "vary",
+    "guarding",
+    "route",
+    "guardians",
+    "sands",
+    "city",
+    "memories",
+    "ruins",
+    "watch",
+    "remain",
+    "keeping",
+    "allows",
+    "beneath",
+    "say",
+    "desert",
+    "same"
+  ],
   "color": "black",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +67,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "steadfast",
+        "vary",
+        "guarding",
+        "route",
+        "city",
+        "memories",
+        "remain"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +85,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial",
+        "psychic"
+      ],
+      "keywords": [
+        "invade",
+        "guardians",
+        "city"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +102,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "invaders",
+        "route",
+        "guardians",
+        "city",
+        "watch",
+        "keeping",
+        "same"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +120,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "invaders",
+        "route",
+        "guardians",
+        "city",
+        "watch",
+        "keeping",
+        "same"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +138,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial",
+        "psychic"
+      ],
+      "keywords": [
+        "invade",
+        "guardians",
+        "city"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +155,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "invaders",
+        "route",
+        "guardians",
+        "city",
+        "watch",
+        "keeping",
+        "same"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +173,16 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "territorial",
+        "psychic"
+      ],
+      "keywords": [
+        "invade",
+        "guardians",
+        "city"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +190,17 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "invaders",
+        "route",
+        "guardians",
+        "city",
+        "watch",
+        "keeping",
+        "same"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +208,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians’ emissaries.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "emissaries",
+        "guardians",
+        "city",
+        "allows",
+        "say"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +226,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "desert-dwelling"
+      ],
+      "keywords": [
+        "discovery",
+        "sands",
+        "city",
+        "ruins",
+        "beneath",
+        "desert"
+      ]
     }
   ],
   "similarPokemonIds": [

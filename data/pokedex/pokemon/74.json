@@ -10,6 +10,125 @@
   ],
   "imagePath": "/assets/pokemon/074.png",
   "entryCount": 31,
+  "entryTraits": [
+    "mountain-dwelling",
+    "arms",
+    "sleeping"
+  ],
+  "entryKeywords": [
+    "bash",
+    "bouldering",
+    "climbers",
+    "road",
+    "smoothed",
+    "snowball",
+    "snowballs",
+    "contests",
+    "counted",
+    "halfway",
+    "precipitous",
+    "scholar",
+    "unwittingly",
+    "chipped",
+    "commonly",
+    "mountainous",
+    "downhill",
+    "etc",
+    "hikers",
+    "mistaking",
+    "noticing",
+    "stepping",
+    "route",
+    "trip",
+    "worn",
+    "accident",
+    "angrily",
+    "contest",
+    "craggy",
+    "troublesome",
+    "climbs",
+    "prove",
+    "rounded",
+    "slams",
+    "awaken",
+    "roads",
+    "action",
+    "carelessly",
+    "hurl",
+    "reveal",
+    "totally",
+    "hardness",
+    "climb",
+    "edges",
+    "lining",
+    "plenty",
+    "easy",
+    "paths",
+    "steep",
+    "buries",
+    "trails",
+    "closer",
+    "distinguish",
+    "free",
+    "rage",
+    "whose",
+    "fists",
+    "kicking",
+    "proud",
+    "deeply",
+    "remain",
+    "hundred",
+    "step",
+    "steadily",
+    "morning",
+    "buried",
+    "keeping",
+    "rough",
+    "notice",
+    "rest",
+    "swings",
+    "angered",
+    "cliffs",
+    "chase",
+    "pick",
+    "disposition",
+    "play",
+    "longer",
+    "regions",
+    "dangerous",
+    "swing",
+    "calm",
+    "rolls",
+    "eye",
+    "harder",
+    "impossible",
+    "quiet",
+    "half",
+    "home",
+    "harsh",
+    "round",
+    "single",
+    "fields",
+    "had",
+    "angry",
+    "lived",
+    "hands",
+    "re",
+    "appearance",
+    "near",
+    "look",
+    "boulders",
+    "heart",
+    "against",
+    "sturdy",
+    "sleeps",
+    "along",
+    "mountain",
+    "rock",
+    "search",
+    "heavy",
+    "rocks"
+  ],
   "color": "brown",
   "shape": "arms",
   "habitat": "mountain",
@@ -39,7 +158,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "mistaking",
+        "trip",
+        "step",
+        "fields",
+        "boulders"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +176,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "mistaking",
+        "trip",
+        "step",
+        "fields",
+        "boulders"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +194,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Commonly found near mountain trails, etc. If you step on one by accident, it gets angry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "commonly",
+        "etc",
+        "accident",
+        "trails",
+        "step",
+        "angry",
+        "near",
+        "mountain"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +215,14 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Most people may not notice, but a closer look should reveal that there are many GEODUDE around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reveal",
+        "closer",
+        "notice",
+        "look"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +230,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "climb",
+        "paths",
+        "steep",
+        "fists",
+        "steadily",
+        "swings",
+        "angered",
+        "mountain"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +252,18 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Proud of their sturdy bodies, they bash against each other in a contest to prove whose is harder.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bash",
+        "contest",
+        "prove",
+        "whose",
+        "proud",
+        "harder",
+        "against",
+        "sturdy"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +271,20 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "The longer a GEODUDE lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this POKéMON’s heart will remain hard, craggy, and rough always.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "chipped",
+        "worn",
+        "craggy",
+        "rounded",
+        "edges",
+        "remain",
+        "rough",
+        "longer",
+        "appearance",
+        "heart"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +292,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "When GEODUDE sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this POKéMON rolls downhill in search of food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "halfway",
+        "unwittingly",
+        "downhill",
+        "hikers",
+        "awaken",
+        "buries",
+        "deeply",
+        "step",
+        "morning",
+        "rolls",
+        "sleeps",
+        "search"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +317,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "hikers",
+        "noticing",
+        "climbs",
+        "lining",
+        "paths",
+        "step",
+        "look",
+        "boulders",
+        "mountain"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +340,15 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its round form makes it easy to pick up. Some people have used them to hurl at each other in a snowball fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "snowball",
+        "hurl",
+        "easy",
+        "pick",
+        "round"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +356,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "mistaking",
+        "trip",
+        "step",
+        "fields",
+        "boulders"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +374,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Many live on mountain trails and remain half buried while keeping an eye on climbers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "climbers",
+        "trails",
+        "remain",
+        "buried",
+        "keeping",
+        "eye",
+        "half",
+        "mountain"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +395,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is impossible to distinguish from rocks. It slams against others in contests of hardness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "contests",
+        "slams",
+        "hardness",
+        "distinguish",
+        "impossible",
+        "against",
+        "rocks"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +413,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stepping",
+        "angrily",
+        "carelessly",
+        "fists",
+        "rest",
+        "swing",
+        "rock"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +431,14 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Most people may not notice, but a closer look should reveal that there are many GEODUDE around.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "reveal",
+        "closer",
+        "notice",
+        "look"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +446,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "climb",
+        "paths",
+        "steep",
+        "fists",
+        "steadily",
+        "swings",
+        "angered",
+        "mountain"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +468,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stepping",
+        "angrily",
+        "carelessly",
+        "fists",
+        "rest",
+        "swing",
+        "rock"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +486,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stepping",
+        "angrily",
+        "carelessly",
+        "fists",
+        "rest",
+        "swing",
+        "rock"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +504,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stepping",
+        "angrily",
+        "carelessly",
+        "fists",
+        "rest",
+        "swing",
+        "rock"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +522,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stepping",
+        "angrily",
+        "carelessly",
+        "fists",
+        "rest",
+        "swing",
+        "rock"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +540,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "mistaking",
+        "trip",
+        "step",
+        "fields",
+        "boulders"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +558,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is impossible to distinguish from rocks. It slams against others in contests of hardness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "contests",
+        "slams",
+        "hardness",
+        "distinguish",
+        "impossible",
+        "against",
+        "rocks"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +576,20 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon’s heart will remain hard, craggy, and rough always.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "chipped",
+        "worn",
+        "craggy",
+        "rounded",
+        "edges",
+        "remain",
+        "rough",
+        "longer",
+        "appearance",
+        "heart"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +597,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pokémon rolls downhill in search of food.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "halfway",
+        "unwittingly",
+        "downhill",
+        "hikers",
+        "awaken",
+        "buries",
+        "deeply",
+        "step",
+        "morning",
+        "rolls",
+        "sleeps",
+        "search"
+      ]
     },
     {
       "versionId": 27,
@@ -231,7 +622,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its round body makes it easy to pick up, but it is hard and heavy. It’s dangerous to play with them as if they were snowballs.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "snowballs",
+        "easy",
+        "pick",
+        "play",
+        "dangerous",
+        "round",
+        "heavy"
+      ]
     },
     {
       "versionId": 28,
@@ -239,7 +640,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "There are plenty of them to be found along any road. A scholar with too much free time once counted a hundred of them along a single route.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "road",
+        "counted",
+        "scholar",
+        "route",
+        "plenty",
+        "free",
+        "hundred",
+        "single",
+        "along"
+      ]
     },
     {
       "versionId": 29,
@@ -247,7 +660,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Geodude that have lived a long life have had all their edges smoothed out until they’re totally round. They also have a calm, quiet disposition.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "smoothed",
+        "totally",
+        "edges",
+        "disposition",
+        "calm",
+        "quiet",
+        "round",
+        "had",
+        "lived",
+        "re"
+      ]
     },
     {
       "versionId": 30,
@@ -255,7 +681,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It uses both hands to climb precipitous cliffs. People who see it in action have been known to take up bouldering.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "bouldering",
+        "precipitous",
+        "action",
+        "climb",
+        "cliffs",
+        "hands"
+      ]
     },
     {
       "versionId": 31,
@@ -263,7 +701,19 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "commonly",
+        "accident",
+        "trails",
+        "step",
+        "angry",
+        "near",
+        "mountain"
+      ]
     },
     {
       "versionId": 32,
@@ -271,7 +721,19 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "commonly",
+        "accident",
+        "trails",
+        "step",
+        "angry",
+        "near",
+        "mountain"
+      ]
     },
     {
       "versionId": 39,
@@ -279,7 +741,26 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "mountainous",
+        "troublesome",
+        "roads",
+        "carelessly",
+        "climb",
+        "rage",
+        "kicking",
+        "chase",
+        "regions",
+        "home",
+        "harsh",
+        "along",
+        "mountain"
+      ]
     }
   ],
   "similarPokemonIds": [

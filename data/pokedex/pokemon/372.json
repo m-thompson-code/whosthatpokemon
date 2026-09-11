@@ -9,6 +9,79 @@
   ],
   "imagePath": "/assets/pokemon/372.png",
   "entryCount": 24,
+  "entryTraits": [
+    "shell",
+    "cave-dwelling"
+  ],
+  "entryKeywords": [
+    "bewildering",
+    "neither",
+    "nor",
+    "accumulate",
+    "cavern",
+    "hardier",
+    "outgrowths",
+    "surrounds",
+    "midst",
+    "hardly",
+    "ignores",
+    "begun",
+    "die",
+    "lurk",
+    "peels",
+    "bone",
+    "pace",
+    "substance",
+    "transformation",
+    "enduring",
+    "shut",
+    "armored",
+    "hunger",
+    "awaits",
+    "preparing",
+    "sluggish",
+    "dreaming",
+    "drinking",
+    "somewhat",
+    "explosive",
+    "instant",
+    "awaiting",
+    "motionless",
+    "composition",
+    "transform",
+    "changing",
+    "rugged",
+    "bounce",
+    "bounces",
+    "why",
+    "don",
+    "stays",
+    "begins",
+    "covering",
+    "evolves",
+    "entirely",
+    "armor",
+    "evolve",
+    "bones",
+    "able",
+    "cells",
+    "caves",
+    "within",
+    "new",
+    "movements",
+    "tough",
+    "iron",
+    "create",
+    "eating",
+    "hides",
+    "same",
+    "stores",
+    "evolution",
+    "heavy",
+    "apparently",
+    "covered",
+    "extremely"
+  ],
   "color": "white",
   "shape": "quadruped",
   "habitat": "rough-terrain",
@@ -38,7 +111,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Inside SHELGON’s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POKéMON’s shell is extremely heavy, making its movements sluggish.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "midst",
+        "transformation",
+        "sluggish",
+        "entirely",
+        "armor",
+        "cells",
+        "new",
+        "movements",
+        "create",
+        "heavy",
+        "extremely"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +135,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Covering SHELGON’s body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this POKéMON hides away in a cavern.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "cavern",
+        "outgrowths",
+        "awaiting",
+        "bounces",
+        "covering",
+        "bones",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +157,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "hardier",
+        "hardly",
+        "peels",
+        "enduring",
+        "hunger",
+        "awaits",
+        "instant",
+        "begins",
+        "evolve",
+        "evolution"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +180,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "armored",
+        "sluggish",
+        "somewhat",
+        "bounce",
+        "armor",
+        "tough",
+        "heavy"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +198,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "armored",
+        "sluggish",
+        "somewhat",
+        "bounce",
+        "armor",
+        "tough",
+        "heavy"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +216,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "begun",
+        "peels",
+        "instant",
+        "changing",
+        "rugged",
+        "evolves",
+        "cells",
+        "within"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +237,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "begun",
+        "peels",
+        "instant",
+        "changing",
+        "rugged",
+        "evolves",
+        "cells",
+        "within"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +258,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "begun",
+        "peels",
+        "instant",
+        "changing",
+        "rugged",
+        "evolves",
+        "cells",
+        "within"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +279,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "accumulate",
+        "surrounds",
+        "evolve",
+        "iron"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +296,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "accumulate",
+        "surrounds",
+        "evolve",
+        "iron"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +313,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "begun",
+        "peels",
+        "instant",
+        "changing",
+        "rugged",
+        "evolves",
+        "cells",
+        "within"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +334,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "begun",
+        "peels",
+        "instant",
+        "changing",
+        "rugged",
+        "evolves",
+        "cells",
+        "within"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +355,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "begun",
+        "peels",
+        "instant",
+        "changing",
+        "rugged",
+        "evolves",
+        "cells",
+        "within"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +376,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "begun",
+        "peels",
+        "instant",
+        "changing",
+        "rugged",
+        "evolves",
+        "cells",
+        "within"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +397,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "begun",
+        "peels",
+        "instant",
+        "changing",
+        "rugged",
+        "evolves",
+        "cells",
+        "within"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +418,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "armored",
+        "sluggish",
+        "somewhat",
+        "bounce",
+        "armor",
+        "tough",
+        "heavy"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +436,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Inside Shelgon’s armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pokémon’s shell is extremely heavy, making its movements sluggish.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "midst",
+        "transformation",
+        "sluggish",
+        "entirely",
+        "armor",
+        "cells",
+        "new",
+        "movements",
+        "create",
+        "heavy",
+        "extremely"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +460,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Covering Shelgon’s body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pokémon hides away in a cavern.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "shell"
+      ],
+      "keywords": [
+        "cavern",
+        "outgrowths",
+        "awaiting",
+        "bounces",
+        "covering",
+        "bones",
+        "hides",
+        "evolution"
+      ]
     },
     {
       "versionId": 27,
@@ -182,7 +482,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The cells within its shell transform with explosive speed, preparing it for evolution.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "preparing",
+        "explosive",
+        "transform",
+        "cells",
+        "within",
+        "evolution"
+      ]
     },
     {
       "versionId": 28,
@@ -190,7 +501,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "They lurk deep within caves—motionless, neither eating nor drinking. Why they don’t die is not known.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "neither",
+        "nor",
+        "die",
+        "lurk",
+        "drinking",
+        "motionless",
+        "why",
+        "don",
+        "caves",
+        "within",
+        "eating"
+      ]
     },
     {
       "versionId": 29,
@@ -198,7 +523,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The cells within its body are changing at a bewildering pace. Its hard shell is made from the same substance as bone.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "bewildering",
+        "bone",
+        "pace",
+        "substance",
+        "changing",
+        "cells",
+        "within",
+        "same"
+      ]
     },
     {
       "versionId": 30,
@@ -206,7 +544,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "shut",
+        "dreaming",
+        "stays",
+        "able",
+        "caves",
+        "within"
+      ]
     },
     {
       "versionId": 33,
@@ -214,7 +563,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "This Pokémon has covered its body in a hard shell that has the same composition as bone. Shelgon stores energy for evolution.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "bone",
+        "composition",
+        "same",
+        "stores",
+        "evolution",
+        "covered"
+      ]
     },
     {
       "versionId": 34,
@@ -222,7 +582,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "ignores",
+        "hunger",
+        "entirely",
+        "evolve",
+        "eating",
+        "stores",
+        "apparently"
+      ]
     }
   ],
   "similarPokemonIds": [

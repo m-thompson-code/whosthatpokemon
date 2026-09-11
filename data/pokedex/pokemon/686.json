@@ -10,6 +10,48 @@
   ],
   "imagePath": "/assets/pokemon/686.png",
   "entryCount": 8,
+  "entryTraits": [
+    "luminous",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "demoralizes",
+    "exchanging",
+    "seizes",
+    "blinking",
+    "dazed",
+    "information",
+    "exposing",
+    "scuttle",
+    "luminescent",
+    "flash",
+    "stare",
+    "complex",
+    "opportunity",
+    "emitting",
+    "flashes",
+    "flashing",
+    "drains",
+    "chance",
+    "lights",
+    "lose",
+    "flee",
+    "allow",
+    "draws",
+    "rhythm",
+    "spins",
+    "wraps",
+    "communicate",
+    "holds",
+    "near",
+    "tentacles",
+    "patterns",
+    "place",
+    "hide",
+    "spots",
+    "different",
+    "takes"
+  ],
   "color": "blue",
   "shape": "tentacles",
   "habitat": null,
@@ -40,7 +82,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "dazed",
+        "stare",
+        "emitting",
+        "flashing",
+        "lose",
+        "spots"
+      ]
     },
     {
       "versionId": 24,
@@ -48,7 +101,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It flashes the light-emitting spots on its body, which drains its opponent’s will to fight. It takes the opportunity to scuttle away and hide.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "scuttle",
+        "opportunity",
+        "emitting",
+        "flashes",
+        "drains",
+        "hide",
+        "spots",
+        "takes"
+      ]
     },
     {
       "versionId": 25,
@@ -56,7 +122,18 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "dazed",
+        "stare",
+        "emitting",
+        "flashing",
+        "lose",
+        "spots"
+      ]
     },
     {
       "versionId": 26,
@@ -64,7 +141,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It flashes the light-emitting spots on its body, which drains its opponent’s will to fight. It takes the opportunity to scuttle away and hide.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "scuttle",
+        "opportunity",
+        "emitting",
+        "flashes",
+        "drains",
+        "hide",
+        "spots",
+        "takes"
+      ]
     },
     {
       "versionId": 29,
@@ -72,7 +162,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It draws prey near with its blinking lights and then wraps them up in its long tentacles and holds them in place.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "blinking",
+        "lights",
+        "draws",
+        "wraps",
+        "holds",
+        "near",
+        "tentacles",
+        "place"
+      ]
     },
     {
       "versionId": 30,
@@ -80,7 +183,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "When exchanging information with others of its kind, it flashes the light-emitting spots on its body in a complex rhythm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "exchanging",
+        "information",
+        "complex",
+        "emitting",
+        "flashes",
+        "rhythm",
+        "spots"
+      ]
     },
     {
       "versionId": 33,
@@ -88,7 +203,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It spins while making its luminescent spots flash. These spots allow it to communicate with others by using different patterns of light.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "luminescent",
+        "flash",
+        "allow",
+        "spins",
+        "communicate",
+        "patterns",
+        "spots",
+        "different"
+      ]
     },
     {
       "versionId": 34,
@@ -96,7 +224,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "demoralizes",
+        "seizes",
+        "blinking",
+        "exposing",
+        "luminescent",
+        "chance",
+        "flee",
+        "spots"
+      ]
     }
   ],
   "similarPokemonIds": [

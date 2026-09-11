@@ -10,6 +10,50 @@
   ],
   "imagePath": "/assets/pokemon/195.png",
   "entryCount": 23,
+  "entryTraits": [
+    "aquatic",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "atti",
+    "tude",
+    "bangs",
+    "attitude",
+    "blunder",
+    "stray",
+    "carefree",
+    "dim",
+    "easygoing",
+    "relaxed",
+    "unaware",
+    "easy",
+    "boats",
+    "witted",
+    "sluggish",
+    "boat",
+    "hulls",
+    "hunts",
+    "hungry",
+    "lies",
+    "leaving",
+    "waiting",
+    "going",
+    "slimy",
+    "bumps",
+    "river",
+    "due",
+    "wide",
+    "bottom",
+    "seems",
+    "care",
+    "open",
+    "boulders",
+    "swims",
+    "nature",
+    "swimming",
+    "doesn",
+    "rocks"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "waters-edge",
@@ -40,7 +84,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "This carefree POKéMON has an easy-going nature. While swimming, it always bumps into boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "carefree",
+        "easy",
+        "boat",
+        "hulls",
+        "going",
+        "bumps",
+        "nature",
+        "swimming"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +105,22 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Due to its relaxed and carefree atti­ tude, it often bumps its head on boulders and boat hulls as it swims.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "atti",
+        "tude",
+        "carefree",
+        "relaxed",
+        "boat",
+        "hulls",
+        "bumps",
+        "due",
+        "boulders",
+        "swims"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +128,19 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bangs",
+        "slimy",
+        "river",
+        "bottom",
+        "seems",
+        "care",
+        "swims"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +148,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "blunder",
+        "unaware",
+        "hunts",
+        "hungry",
+        "leaving",
+        "waiting",
+        "wide",
+        "open"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +170,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "blunder",
+        "unaware",
+        "hunts",
+        "hungry",
+        "leaving",
+        "waiting",
+        "wide",
+        "open"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +192,21 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A QUAGSIRE hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn’t move, it does not get very hungry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "blunder",
+        "hunts",
+        "hungry",
+        "leaving",
+        "waiting",
+        "wide",
+        "open",
+        "doesn"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +214,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "attitude",
+        "carefree",
+        "relaxed",
+        "boat",
+        "hulls",
+        "bumps",
+        "due",
+        "boulders",
+        "swims"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +236,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "This carefree POKéMON has an easygoing nature. While swimming, it always bumps into boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "carefree",
+        "easygoing",
+        "boat",
+        "hulls",
+        "bumps",
+        "nature",
+        "swimming"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +256,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a sluggish nature. It lies at the river’s bottom, waiting for prey to stray into its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "stray",
+        "sluggish",
+        "lies",
+        "waiting",
+        "river",
+        "bottom",
+        "nature"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +277,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A dim-witted Pokémon. It doesn’t care if it bumps its head into boats or rocks while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dim",
+        "boats",
+        "witted",
+        "bumps",
+        "care",
+        "swimming",
+        "doesn",
+        "rocks"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +298,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "easygoing",
+        "boats",
+        "bumps",
+        "care",
+        "boulders",
+        "nature",
+        "swimming",
+        "doesn"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +319,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "carefree",
+        "easy",
+        "boat",
+        "hulls",
+        "going",
+        "bumps",
+        "nature",
+        "swimming"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +340,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "attitude",
+        "carefree",
+        "relaxed",
+        "boat",
+        "hulls",
+        "bumps",
+        "due",
+        "boulders",
+        "swims"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +362,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "easygoing",
+        "boats",
+        "bumps",
+        "care",
+        "boulders",
+        "nature",
+        "swimming",
+        "doesn"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +383,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "easygoing",
+        "boats",
+        "bumps",
+        "care",
+        "boulders",
+        "nature",
+        "swimming",
+        "doesn"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +404,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "easygoing",
+        "boats",
+        "bumps",
+        "care",
+        "boulders",
+        "nature",
+        "swimming",
+        "doesn"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +425,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "easygoing",
+        "boats",
+        "bumps",
+        "care",
+        "boulders",
+        "nature",
+        "swimming",
+        "doesn"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +446,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It has a sluggish nature. It lies at the river’s bottom, waiting for prey to stray into its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "stray",
+        "sluggish",
+        "lies",
+        "waiting",
+        "river",
+        "bottom",
+        "nature"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +467,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "This carefree Pokémon has an easygoing nature. While swimming, it always bumps into boat hulls.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "carefree",
+        "easygoing",
+        "boat",
+        "hulls",
+        "bumps",
+        "nature",
+        "swimming"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +487,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "blunder",
+        "unaware",
+        "hunts",
+        "hungry",
+        "leaving",
+        "waiting",
+        "wide",
+        "open"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +509,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "blunder",
+        "unaware",
+        "hunts",
+        "hungry",
+        "leaving",
+        "waiting",
+        "wide",
+        "open"
+      ]
     },
     {
       "versionId": 33,
@@ -208,7 +531,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "easygoing",
+        "boats",
+        "bumps",
+        "care",
+        "boulders",
+        "nature",
+        "swimming",
+        "doesn"
+      ]
     },
     {
       "versionId": 34,
@@ -216,7 +552,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bangs",
+        "slimy",
+        "river",
+        "bottom",
+        "seems",
+        "care",
+        "swims"
+      ]
     }
   ],
   "similarPokemonIds": [

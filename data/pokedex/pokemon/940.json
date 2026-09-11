@@ -10,6 +10,33 @@
   ],
   "imagePath": "/assets/pokemon/940.png",
   "entryCount": 2,
+  "entryTraits": [
+    "aquatic",
+    "wings",
+    "hunting",
+    "electric",
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "electrocuting",
+    "coastal",
+    "delicacy",
+    "crackling",
+    "texture",
+    "produce",
+    "dives",
+    "catching",
+    "cliffs",
+    "strange",
+    "nests",
+    "bones",
+    "re",
+    "wind",
+    "popular",
+    "catch",
+    "within",
+    "ocean"
+  ],
   "color": "black",
   "shape": "wings",
   "habitat": null,
@@ -40,7 +67,24 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "wings",
+        "hunting",
+        "electric"
+      ],
+      "keywords": [
+        "electrocuting",
+        "produce",
+        "dives",
+        "catching",
+        "bones",
+        "wind",
+        "catch",
+        "within",
+        "ocean"
+      ]
     },
     {
       "versionId": 41,
@@ -48,7 +92,21 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "coastal",
+        "delicacy",
+        "crackling",
+        "texture",
+        "cliffs",
+        "strange",
+        "nests",
+        "re",
+        "popular"
+      ]
     }
   ],
   "similarPokemonIds": [

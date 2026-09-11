@@ -9,6 +9,65 @@
   ],
   "imagePath": "/assets/pokemon/295.png",
   "entryCount": 20,
+  "entryTraits": [
+    "sonic"
+  ],
+  "entryKeywords": [
+    "bellow",
+    "tone",
+    "whistle",
+    "tubes",
+    "shout",
+    "communication",
+    "roar",
+    "tremor",
+    "bellowing",
+    "voices",
+    "earthquakes",
+    "adjusting",
+    "triggers",
+    "struck",
+    "generating",
+    "tremors",
+    "noises",
+    "emit",
+    "howls",
+    "preparing",
+    "earthquake",
+    "inhales",
+    "loud",
+    "ports",
+    "emitting",
+    "organs",
+    "shakes",
+    "sorts",
+    "variety",
+    "volume",
+    "cities",
+    "distant",
+    "heard",
+    "loose",
+    "voice",
+    "violently",
+    "communicates",
+    "means",
+    "ll",
+    "sign",
+    "let",
+    "sounds",
+    "raises",
+    "communicate",
+    "past",
+    "between",
+    "do",
+    "feelings",
+    "holes",
+    "six",
+    "miles",
+    "huge",
+    "emits",
+    "creates"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "cave",
@@ -39,7 +98,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bellow",
+        "bellowing",
+        "earthquakes",
+        "triggers",
+        "tremors",
+        "preparing",
+        "inhales",
+        "ports",
+        "loose",
+        "violently",
+        "sign",
+        "let",
+        "huge",
+        "creates"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +123,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "EXPLOUD communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This POKéMON only raises its voice when it is in battle.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "whistle",
+        "tubes",
+        "emitting",
+        "voice",
+        "communicates",
+        "sounds",
+        "raises",
+        "feelings"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +144,19 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "tone",
+        "adjusting",
+        "generating",
+        "organs",
+        "volume",
+        "communicates",
+        "emits"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +164,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "loud",
+        "variety",
+        "heard",
+        "sounds",
+        "holes",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +185,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "loud",
+        "variety",
+        "heard",
+        "sounds",
+        "holes",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +206,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noises",
+        "howls",
+        "ports",
+        "sorts",
+        "heard",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +225,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noises",
+        "howls",
+        "ports",
+        "sorts",
+        "heard",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +244,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noises",
+        "howls",
+        "ports",
+        "sorts",
+        "heard",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +263,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roar",
+        "tremor",
+        "struck",
+        "earthquake",
+        "shakes"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +279,15 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roar",
+        "tremor",
+        "struck",
+        "earthquake",
+        "shakes"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +295,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noises",
+        "howls",
+        "ports",
+        "sorts",
+        "heard",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +314,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noises",
+        "howls",
+        "ports",
+        "sorts",
+        "heard",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +333,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noises",
+        "howls",
+        "ports",
+        "sorts",
+        "heard",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +352,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noises",
+        "howls",
+        "ports",
+        "sorts",
+        "heard",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +371,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "noises",
+        "howls",
+        "ports",
+        "sorts",
+        "heard",
+        "six",
+        "miles",
+        "emits"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +390,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "roar",
+        "tremor",
+        "struck",
+        "earthquake",
+        "shakes"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +406,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bellow",
+        "bellowing",
+        "earthquakes",
+        "triggers",
+        "tremors",
+        "preparing",
+        "inhales",
+        "ports",
+        "loose",
+        "violently",
+        "sign",
+        "let",
+        "huge",
+        "creates"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +431,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pokémon only raises its voice when it is in battle.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "whistle",
+        "tubes",
+        "emitting",
+        "voice",
+        "communicates",
+        "sounds",
+        "raises",
+        "feelings"
+      ]
     },
     {
       "versionId": 33,
@@ -183,7 +452,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "In the past, people would use the loud voices of these Pokémon as a means of communication between distant cities.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "communication",
+        "voices",
+        "loud",
+        "cities",
+        "distant",
+        "means",
+        "past",
+        "between"
+      ]
     },
     {
       "versionId": 34,
@@ -191,7 +471,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon can do more than just shout. To communicate with others of its kind, it’ll emit all sorts of sounds from the holes in its body.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sonic"
+      ],
+      "keywords": [
+        "shout",
+        "emit",
+        "sorts",
+        "ll",
+        "sounds",
+        "communicate",
+        "do",
+        "holes"
+      ]
     }
   ],
   "similarPokemonIds": [

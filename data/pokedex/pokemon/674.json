@@ -9,6 +9,65 @@
   ],
   "imagePath": "/assets/pokemon/674.png",
   "entryCount": 10,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "glaring",
+    "henchman",
+    "smiling",
+    "grinning",
+    "imitates",
+    "inexperienced",
+    "pats",
+    "pretend",
+    "trademark",
+    "desperate",
+    "focusing",
+    "wanting",
+    "scared",
+    "seriously",
+    "suited",
+    "imitating",
+    "intimidating",
+    "pangoro",
+    "aside",
+    "nice",
+    "chewing",
+    "follows",
+    "sufficiently",
+    "actions",
+    "chooses",
+    "mischievous",
+    "mistake",
+    "pull",
+    "scary",
+    "learns",
+    "point",
+    "taken",
+    "cool",
+    "giving",
+    "behavior",
+    "ends",
+    "intimidate",
+    "best",
+    "master",
+    "glare",
+    "effort",
+    "leader",
+    "hunt",
+    "intensely",
+    "level",
+    "sure",
+    "leaf",
+    "help",
+    "catch",
+    "look",
+    "anyone",
+    "well",
+    "face",
+    "big"
+  ],
   "color": "white",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +98,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trademark",
+        "seriously",
+        "intimidating",
+        "chewing",
+        "sufficiently",
+        "taken",
+        "best",
+        "glare",
+        "leaf"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +118,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It does its level best to glare and pull a scary face, but it can’t help grinning if anyone pats its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grinning",
+        "pats",
+        "pull",
+        "scary",
+        "best",
+        "glare",
+        "level",
+        "help",
+        "anyone",
+        "face"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +139,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trademark",
+        "seriously",
+        "intimidating",
+        "chewing",
+        "sufficiently",
+        "taken",
+        "best",
+        "glare",
+        "leaf"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +159,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It does its level best to glare and pull a scary face, but it can’t help grinning if anyone pats its head.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "grinning",
+        "pats",
+        "pull",
+        "scary",
+        "best",
+        "glare",
+        "level",
+        "help",
+        "anyone",
+        "face"
+      ]
     },
     {
       "versionId": 27,
@@ -71,7 +180,14 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "imitating",
+        "pangoro",
+        "behavior",
+        "leader"
+      ]
     },
     {
       "versionId": 28,
@@ -79,7 +195,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "There’s no point to the leaf in its mouth, aside from an effort to look cool. It’s mischievous, so it’s not well suited to inexperienced Trainers.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inexperienced",
+        "suited",
+        "aside",
+        "mischievous",
+        "point",
+        "cool",
+        "effort",
+        "leaf",
+        "look",
+        "well"
+      ]
     },
     {
       "versionId": 29,
@@ -87,7 +216,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "henchman",
+        "pangoro",
+        "follows",
+        "mistake",
+        "taken",
+        "leaf",
+        "big"
+      ]
     },
     {
       "versionId": 30,
@@ -95,7 +234,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It’s desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "glaring",
+        "pretend",
+        "desperate",
+        "scared",
+        "nice",
+        "intimidate",
+        "intensely",
+        "catch"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +253,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It chooses a Pangoro as its master and then imitates its master’s actions. This is how it learns to battle and hunt for prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "imitates",
+        "pangoro",
+        "actions",
+        "chooses",
+        "learns",
+        "master",
+        "hunt"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +273,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "smiling",
+        "focusing",
+        "wanting",
+        "seriously",
+        "taken",
+        "giving",
+        "ends",
+        "glare",
+        "sure"
+      ]
     }
   ],
   "similarPokemonIds": [

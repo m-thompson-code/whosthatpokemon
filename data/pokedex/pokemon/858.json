@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/858.png",
   "entryCount": 2,
+  "entryTraits": [
+    "psychic",
+    "forest-dwelling",
+    "claws"
+  ],
+  "entryKeywords": [
+    "deterrent",
+    "tentacle",
+    "witch",
+    "risk",
+    "loud",
+    "torn",
+    "headaches",
+    "approach",
+    "apart",
+    "re",
+    "forest",
+    "emits"
+  ],
   "color": "pink",
   "shape": "blob",
   "habitat": null,
@@ -39,7 +58,16 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "deterrent",
+        "headaches",
+        "approach",
+        "emits"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +75,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "claws"
+      ],
+      "keywords": [
+        "tentacle",
+        "witch",
+        "risk",
+        "loud",
+        "torn",
+        "apart",
+        "re",
+        "forest"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -9,6 +9,46 @@
   ],
   "imagePath": "/assets/pokemon/418.png",
   "entryCount": 14,
+  "entryTraits": [
+    "aquatic",
+    "tail",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "inflatable",
+    "propulsion",
+    "steamboat",
+    "coincidental",
+    "collar",
+    "collapses",
+    "pokes",
+    "resemblance",
+    "forked",
+    "rotating",
+    "screw",
+    "clinging",
+    "propel",
+    "seaweed",
+    "watch",
+    "inflates",
+    "flotation",
+    "dives",
+    "slice",
+    "going",
+    "keeping",
+    "movement",
+    "floats",
+    "spins",
+    "sac",
+    "order",
+    "above",
+    "spinning",
+    "neck",
+    "freely",
+    "swims",
+    "tails",
+    "face"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": null,
@@ -39,7 +79,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "inflatable",
+        "collar",
+        "flotation",
+        "floats",
+        "sac"
+      ]
     },
     {
       "versionId": 13,
@@ -47,7 +97,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "collapses",
+        "rotating",
+        "screw",
+        "flotation",
+        "dives",
+        "sac",
+        "swims",
+        "tails"
+      ]
     },
     {
       "versionId": 14,
@@ -55,7 +119,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "screw",
+        "clinging",
+        "propel",
+        "seaweed",
+        "slice",
+        "spins",
+        "tails"
+      ]
     },
     {
       "versionId": 15,
@@ -63,7 +140,22 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "watch",
+        "inflates",
+        "flotation",
+        "keeping",
+        "movement",
+        "sac",
+        "order",
+        "above",
+        "face"
+      ]
     },
     {
       "versionId": 16,
@@ -71,7 +163,22 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "watch",
+        "inflates",
+        "flotation",
+        "keeping",
+        "movement",
+        "sac",
+        "order",
+        "above",
+        "face"
+      ]
     },
     {
       "versionId": 17,
@@ -79,7 +186,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "screw",
+        "clinging",
+        "propel",
+        "seaweed",
+        "slice",
+        "spins",
+        "tails"
+      ]
     },
     {
       "versionId": 18,
@@ -87,7 +207,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "screw",
+        "clinging",
+        "propel",
+        "seaweed",
+        "slice",
+        "spins",
+        "tails"
+      ]
     },
     {
       "versionId": 21,
@@ -95,7 +228,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pokes",
+        "inflates",
+        "flotation",
+        "going",
+        "sac",
+        "neck"
+      ]
     },
     {
       "versionId": 22,
@@ -103,7 +247,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pokes",
+        "inflates",
+        "flotation",
+        "going",
+        "sac",
+        "neck"
+      ]
     },
     {
       "versionId": 23,
@@ -111,7 +266,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "collapses",
+        "rotating",
+        "screw",
+        "flotation",
+        "dives",
+        "sac",
+        "swims",
+        "tails"
+      ]
     },
     {
       "versionId": 24,
@@ -119,7 +288,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pokes",
+        "inflates",
+        "flotation",
+        "going",
+        "sac",
+        "neck"
+      ]
     },
     {
       "versionId": 25,
@@ -127,7 +307,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "collapses",
+        "rotating",
+        "screw",
+        "flotation",
+        "dives",
+        "sac",
+        "swims",
+        "tails"
+      ]
     },
     {
       "versionId": 26,
@@ -135,7 +329,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "pokes",
+        "inflates",
+        "flotation",
+        "going",
+        "sac",
+        "neck"
+      ]
     },
     {
       "versionId": 39,
@@ -143,7 +348,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It moves freely in the water by spinning its forked tail for propulsion. The resemblance to the screw of a steamboat is coincidental.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "tail"
+      ],
+      "keywords": [
+        "propulsion",
+        "steamboat",
+        "coincidental",
+        "resemblance",
+        "forked",
+        "screw",
+        "spinning",
+        "freely"
+      ]
     }
   ],
   "similarPokemonIds": [

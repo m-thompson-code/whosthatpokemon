@@ -10,6 +10,93 @@
   ],
   "imagePath": "/assets/pokemon/319.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic",
+    "fangs",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "exceptions",
+    "foodstuff",
+    "gangster",
+    "hurtling",
+    "mishaps",
+    "overfishing",
+    "textured",
+    "accessories",
+    "sly",
+    "supertanker",
+    "backside",
+    "bandit",
+    "drawback",
+    "history",
+    "inability",
+    "crunch",
+    "entering",
+    "pursues",
+    "widely",
+    "calls",
+    "cruel",
+    "minimize",
+    "treasured",
+    "ruffian",
+    "specially",
+    "tops",
+    "jetting",
+    "propel",
+    "sheet",
+    "bully",
+    "discarded",
+    "ship",
+    "75",
+    "drag",
+    "nicknamed",
+    "rip",
+    "thoroughly",
+    "distances",
+    "drinks",
+    "hour",
+    "dorsal",
+    "jets",
+    "per",
+    "carrying",
+    "immediately",
+    "finishes",
+    "toward",
+    "sad",
+    "seawater",
+    "tear",
+    "target",
+    "believe",
+    "feared",
+    "catches",
+    "crush",
+    "waters",
+    "snap",
+    "fin",
+    "prevent",
+    "soon",
+    "vicious",
+    "apart",
+    "jet",
+    "sensitive",
+    "victim",
+    "home",
+    "speeds",
+    "past",
+    "became",
+    "blood",
+    "swim",
+    "rear",
+    "mph",
+    "miles",
+    "scent",
+    "attacked",
+    "iron",
+    "swims",
+    "skin",
+    "seas"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +126,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "Nicknamed “the bully of the sea,” SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POKéMON can thoroughly tear apart a supertanker.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "supertanker",
+        "widely",
+        "cruel",
+        "bully",
+        "nicknamed",
+        "thoroughly",
+        "immediately",
+        "tear",
+        "feared",
+        "snap",
+        "apart"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +151,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SHARPEDO can swim at speeds of up to 75 mph by jetting seawater out of its backside. This POKéMON’s drawback is its inability to swim long distances.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "backside",
+        "drawback",
+        "inability",
+        "jetting",
+        "75",
+        "distances",
+        "seawater",
+        "speeds",
+        "swim",
+        "mph"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +174,25 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 miles per hour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "gangster",
+        "textured",
+        "sly",
+        "minimize",
+        "specially",
+        "tops",
+        "75",
+        "drag",
+        "hour",
+        "per",
+        "vicious",
+        "miles",
+        "skin"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +200,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "crunch",
+        "ruffian",
+        "jetting",
+        "rear",
+        "iron",
+        "swims",
+        "seas"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +221,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "crunch",
+        "ruffian",
+        "jetting",
+        "rear",
+        "iron",
+        "swims",
+        "seas"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +242,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "sheet",
+        "bully",
+        "75",
+        "rip",
+        "mph",
+        "iron",
+        "swims"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +263,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "sheet",
+        "bully",
+        "75",
+        "rip",
+        "mph",
+        "iron",
+        "swims"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +284,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "sheet",
+        "bully",
+        "75",
+        "rip",
+        "mph",
+        "iron",
+        "swims"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +305,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bandit",
+        "jetting",
+        "75",
+        "seawater",
+        "speeds",
+        "swim",
+        "mph"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +325,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bandit",
+        "jetting",
+        "75",
+        "seawater",
+        "speeds",
+        "swim",
+        "mph"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +345,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "sheet",
+        "bully",
+        "75",
+        "rip",
+        "mph",
+        "iron",
+        "swims"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +366,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "sheet",
+        "bully",
+        "75",
+        "rip",
+        "mph",
+        "iron",
+        "swims"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +387,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "sheet",
+        "bully",
+        "75",
+        "rip",
+        "mph",
+        "iron",
+        "swims"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +408,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "sheet",
+        "bully",
+        "75",
+        "rip",
+        "mph",
+        "iron",
+        "swims"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +429,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "sheet",
+        "bully",
+        "75",
+        "rip",
+        "mph",
+        "iron",
+        "swims"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +450,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "bandit",
+        "jetting",
+        "75",
+        "seawater",
+        "speeds",
+        "swim",
+        "mph"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +470,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Nicknamed “the bully of the sea,” Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "supertanker",
+        "widely",
+        "cruel",
+        "bully",
+        "nicknamed",
+        "thoroughly",
+        "immediately",
+        "tear",
+        "feared",
+        "snap",
+        "apart"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +495,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon’s drawback is its inability to swim long distances.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "backside",
+        "drawback",
+        "inability",
+        "jetting",
+        "75",
+        "distances",
+        "seawater",
+        "speeds",
+        "swim",
+        "mph"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +518,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It pursues its prey at speeds of 75 mph and finishes them off with fangs that can crush iron. It is known as the bully of the sea.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs",
+        "hunting"
+      ],
+      "keywords": [
+        "pursues",
+        "bully",
+        "75",
+        "finishes",
+        "crush",
+        "speeds",
+        "mph",
+        "iron"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +541,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It has a sad history. In the past, its dorsal fin was a treasured foodstuff, so this Pokémon became a victim of overfishing.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "foodstuff",
+        "overfishing",
+        "history",
+        "treasured",
+        "dorsal",
+        "sad",
+        "fin",
+        "victim",
+        "past",
+        "became"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +562,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "People believe that carrying one of its discarded fangs will prevent mishaps at sea, so the fangs are made into accessories.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fangs"
+      ],
+      "keywords": [
+        "mishaps",
+        "accessories",
+        "discarded",
+        "carrying",
+        "believe",
+        "prevent"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +582,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It drinks in seawater and jets it from its rear to propel itself. It’s very sensitive to the scent of blood.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "propel",
+        "drinks",
+        "jets",
+        "seawater",
+        "sensitive",
+        "blood",
+        "rear",
+        "scent"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +601,23 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "As soon as it catches the scent of prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "hurtling",
+        "backside",
+        "75",
+        "toward",
+        "seawater",
+        "target",
+        "catches",
+        "soon",
+        "jet",
+        "mph",
+        "scent"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +625,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked—no exceptions.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "exceptions",
+        "entering",
+        "calls",
+        "bully",
+        "ship",
+        "waters",
+        "home",
+        "attacked"
+      ]
     }
   ],
   "similarPokemonIds": [

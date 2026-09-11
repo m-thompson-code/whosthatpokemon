@@ -9,6 +9,75 @@
   ],
   "imagePath": "/assets/pokemon/320.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "elevate",
+    "located",
+    "blowholes",
+    "filling",
+    "pods",
+    "excess",
+    "snorting",
+    "wash",
+    "dried",
+    "playful",
+    "wishiwashi",
+    "height",
+    "startle",
+    "playfully",
+    "higher",
+    "spraying",
+    "memories",
+    "forcefully",
+    "bouncy",
+    "jets",
+    "fills",
+    "sunny",
+    "ton",
+    "vitality",
+    "volume",
+    "nostrils",
+    "plays",
+    "shore",
+    "daily",
+    "transform",
+    "bouncing",
+    "seawater",
+    "solid",
+    "store",
+    "bounce",
+    "bounces",
+    "sucks",
+    "sprays",
+    "lands",
+    "due",
+    "spouts",
+    "play",
+    "shows",
+    "beaches",
+    "survive",
+    "loses",
+    "shooting",
+    "swallows",
+    "great",
+    "above",
+    "open",
+    "lived",
+    "rarely",
+    "days",
+    "stored",
+    "force",
+    "along",
+    "nose",
+    "swims",
+    "stores",
+    "although",
+    "usually",
+    "big",
+    "ball"
+  ],
   "color": "blue",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +108,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "WAILMER’s nostrils are located above its eyes. This playful POKéMON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "located",
+        "snorting",
+        "playful",
+        "startle",
+        "forcefully",
+        "nostrils",
+        "seawater",
+        "above",
+        "stores"
+      ]
     },
     {
       "versionId": 8,
@@ -47,7 +128,20 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WAILMER can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this POKéMON can elevate the height of its bounces.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "elevate",
+        "filling",
+        "height",
+        "transform",
+        "bouncing",
+        "store",
+        "bounces",
+        "ball"
+      ]
     },
     {
       "versionId": 9,
@@ -55,7 +149,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "While this POKéMON usually lives in the sea, it can survive on land, although not too long. It loses vitality if its body becomes dried out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "dried",
+        "vitality",
+        "survive",
+        "loses",
+        "although",
+        "usually"
+      ]
     },
     {
       "versionId": 10,
@@ -63,7 +168,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bouncy",
+        "ton",
+        "volume",
+        "daily",
+        "seawater",
+        "sucks",
+        "big",
+        "ball"
+      ]
     },
     {
       "versionId": 11,
@@ -71,7 +187,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bouncy",
+        "ton",
+        "volume",
+        "daily",
+        "seawater",
+        "sucks",
+        "big",
+        "ball"
+      ]
     },
     {
       "versionId": 12,
@@ -79,7 +206,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunny",
+        "bounce",
+        "lands",
+        "spouts",
+        "play",
+        "beaches",
+        "days",
+        "nose",
+        "ball"
+      ]
     },
     {
       "versionId": 13,
@@ -87,7 +228,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunny",
+        "bounce",
+        "lands",
+        "spouts",
+        "play",
+        "beaches",
+        "days",
+        "nose",
+        "ball"
+      ]
     },
     {
       "versionId": 14,
@@ -95,7 +250,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunny",
+        "bounce",
+        "lands",
+        "spouts",
+        "play",
+        "beaches",
+        "days",
+        "nose",
+        "ball"
+      ]
     },
     {
       "versionId": 15,
@@ -103,7 +272,16 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "playfully",
+        "higher",
+        "seawater",
+        "bounces",
+        "swallows",
+        "ball"
+      ]
     },
     {
       "versionId": 16,
@@ -111,7 +289,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "playfully",
+        "higher",
+        "seawater",
+        "bounces",
+        "swallows",
+        "ball"
+      ]
     },
     {
       "versionId": 17,
@@ -119,7 +306,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunny",
+        "bounce",
+        "lands",
+        "spouts",
+        "play",
+        "beaches",
+        "days",
+        "nose",
+        "ball"
+      ]
     },
     {
       "versionId": 18,
@@ -127,7 +328,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "sunny",
+        "bounce",
+        "lands",
+        "spouts",
+        "play",
+        "beaches",
+        "days",
+        "nose",
+        "ball"
+      ]
     },
     {
       "versionId": 21,
@@ -135,7 +350,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blowholes",
+        "ton",
+        "plays",
+        "seawater",
+        "shooting",
+        "great",
+        "stored",
+        "force"
+      ]
     },
     {
       "versionId": 22,
@@ -143,7 +369,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blowholes",
+        "ton",
+        "plays",
+        "seawater",
+        "shooting",
+        "great",
+        "stored",
+        "force"
+      ]
     },
     {
       "versionId": 23,
@@ -151,7 +388,16 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "playfully",
+        "higher",
+        "seawater",
+        "bounces",
+        "swallows",
+        "ball"
+      ]
     },
     {
       "versionId": 24,
@@ -159,7 +405,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "blowholes",
+        "ton",
+        "plays",
+        "seawater",
+        "shooting",
+        "great",
+        "stored",
+        "force"
+      ]
     },
     {
       "versionId": 25,
@@ -167,7 +424,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wailmer’s nostrils are located above its eyes. This playful Pokémon loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "located",
+        "snorting",
+        "playful",
+        "startle",
+        "forcefully",
+        "nostrils",
+        "seawater",
+        "above",
+        "stores"
+      ]
     },
     {
       "versionId": 26,
@@ -175,7 +444,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wailmer can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this Pokémon can elevate the height of its bounces.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "elevate",
+        "filling",
+        "height",
+        "transform",
+        "bouncing",
+        "store",
+        "bounces",
+        "ball"
+      ]
     },
     {
       "versionId": 27,
@@ -183,7 +465,16 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "It loves to startle people. It fills itself up with seawater and plays by bouncing around like a ball.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "startle",
+        "fills",
+        "plays",
+        "bouncing",
+        "seawater",
+        "ball"
+      ]
     },
     {
       "versionId": 28,
@@ -191,7 +482,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wishiwashi",
+        "spraying",
+        "jets",
+        "ton",
+        "nostrils",
+        "seawater",
+        "solid",
+        "shows",
+        "above"
+      ]
     },
     {
       "versionId": 29,
@@ -199,7 +502,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It swims along with its mouth open and swallows down seawater along with its food. It sprays excess water out of its nostrils.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "excess",
+        "nostrils",
+        "seawater",
+        "sprays",
+        "swallows",
+        "open",
+        "along",
+        "swims"
+      ]
     },
     {
       "versionId": 30,
@@ -207,7 +523,17 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Due to their memories of when they once lived on land, pods of them will, very rarely, wash up on shore.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "pods",
+        "wash",
+        "memories",
+        "shore",
+        "due",
+        "lived",
+        "rarely"
+      ]
     },
     {
       "versionId": 33,
@@ -215,7 +541,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "wishiwashi",
+        "spraying",
+        "jets",
+        "ton",
+        "nostrils",
+        "seawater",
+        "solid",
+        "shows",
+        "above"
+      ]
     },
     {
       "versionId": 34,
@@ -223,7 +561,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "bouncy",
+        "ton",
+        "volume",
+        "daily",
+        "seawater",
+        "sucks",
+        "big",
+        "ball"
+      ]
     }
   ],
   "similarPokemonIds": [

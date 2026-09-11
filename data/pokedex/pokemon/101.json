@@ -9,6 +9,81 @@
   ],
   "imagePath": "/assets/pokemon/101.png",
   "entryCount": 27,
+  "entryTraits": [
+    "electric"
+  ],
+  "entryKeywords": [
+    "apricorn",
+    "chaotic",
+    "curiously",
+    "tissue",
+    "amuses",
+    "irritated",
+    "minor",
+    "problematical",
+    "attraction",
+    "provocation",
+    "stimuli",
+    "characteristics",
+    "trigger",
+    "explosion",
+    "blackouts",
+    "response",
+    "bomb",
+    "bloated",
+    "exploding",
+    "nickname",
+    "likely",
+    "congregates",
+    "generated",
+    "overflowing",
+    "flowing",
+    "bursting",
+    "mostly",
+    "slightest",
+    "equal",
+    "explode",
+    "explodes",
+    "current",
+    "drift",
+    "numbers",
+    "cities",
+    "composition",
+    "feed",
+    "20",
+    "loose",
+    "pressure",
+    "amount",
+    "nearby",
+    "feared",
+    "dangerous",
+    "bolts",
+    "electrical",
+    "atmosphere",
+    "strikes",
+    "massive",
+    "faster",
+    "charges",
+    "similar",
+    "great",
+    "nothing",
+    "do",
+    "winds",
+    "shock",
+    "little",
+    "days",
+    "stored",
+    "place",
+    "electric",
+    "surface",
+    "plants",
+    "lets",
+    "huge",
+    "eating",
+    "stores",
+    "lightning",
+    "ball"
+  ],
   "color": "red",
   "shape": "ball",
   "habitat": "urban",
@@ -38,7 +113,18 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "provocation",
+        "explodes",
+        "pressure",
+        "little",
+        "electric",
+        "stores"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +132,18 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "provocation",
+        "explodes",
+        "pressure",
+        "little",
+        "electric",
+        "stores"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +151,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trigger",
+        "explosion",
+        "slightest",
+        "electrical",
+        "shock",
+        "huge",
+        "stores"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +169,17 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "amuses",
+        "exploding",
+        "dangerous",
+        "nothing",
+        "do"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +187,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It stores an over­ flowing amount of electric energy inside its body. Even a small shock makes it explode.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "flowing",
+        "explode",
+        "amount",
+        "shock",
+        "electric",
+        "stores"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +206,14 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "likely",
+        "explode",
+        "faster",
+        "charges"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +221,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "ELECTRODE eats electricity in the atmosphere. On days when lightning strikes, you can see this POKéMON exploding all over the place from eating too much electricity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "exploding",
+        "atmosphere",
+        "strikes",
+        "days",
+        "place",
+        "eating",
+        "lightning"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +241,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "One of ELECTRODE’s characteristics is its attraction to electricity. It is a problematical POKéMON that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "problematical",
+        "attraction",
+        "characteristics",
+        "congregates",
+        "generated",
+        "mostly",
+        "feed",
+        "electrical",
+        "plants"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +263,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "chaotic",
+        "blackouts",
+        "numbers",
+        "cities",
+        "feed",
+        "nearby",
+        "massive",
+        "great",
+        "electric",
+        "plants"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +286,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It explodes in response to even minor stimuli. It is feared, with the nickname of “The Bomb Ball.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minor",
+        "stimuli",
+        "response",
+        "bomb",
+        "nickname",
+        "explodes",
+        "feared",
+        "ball"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +305,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "provocation",
+        "explodes",
+        "pressure",
+        "little",
+        "electric",
+        "stores"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +324,17 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bloated",
+        "bursting",
+        "drift",
+        "winds",
+        "stored"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +342,17 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bloated",
+        "bursting",
+        "drift",
+        "winds",
+        "stored"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +360,17 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bloated",
+        "bursting",
+        "drift",
+        "winds",
+        "stored"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +378,17 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "amuses",
+        "exploding",
+        "dangerous",
+        "nothing",
+        "do"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +396,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overflowing",
+        "explode",
+        "amount",
+        "shock",
+        "electric",
+        "stores"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +415,17 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bloated",
+        "bursting",
+        "drift",
+        "winds",
+        "stored"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +433,17 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bloated",
+        "bursting",
+        "drift",
+        "winds",
+        "stored"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +451,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bloated",
+        "bursting",
+        "drift",
+        "winds",
+        "stored"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +469,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "bloated",
+        "bursting",
+        "drift",
+        "winds",
+        "stored"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +487,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It explodes in response to even minor stimuli. It is feared, with the nickname of “The Bomb Ball.”",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "minor",
+        "stimuli",
+        "response",
+        "bomb",
+        "nickname",
+        "explodes",
+        "feared",
+        "ball"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +506,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "overflowing",
+        "explode",
+        "amount",
+        "shock",
+        "electric",
+        "stores"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +525,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "exploding",
+        "atmosphere",
+        "strikes",
+        "days",
+        "place",
+        "eating",
+        "lightning"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +545,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "One of Electrode’s characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "problematical",
+        "attraction",
+        "characteristics",
+        "congregates",
+        "generated",
+        "mostly",
+        "feed",
+        "electrical",
+        "plants"
+      ]
     },
     {
       "versionId": 31,
@@ -230,7 +567,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trigger",
+        "explosion",
+        "slightest",
+        "electrical",
+        "shock",
+        "huge",
+        "stores"
+      ]
     },
     {
       "versionId": 32,
@@ -238,7 +585,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "trigger",
+        "explosion",
+        "slightest",
+        "electrical",
+        "shock",
+        "huge",
+        "stores"
+      ]
     },
     {
       "versionId": 39,
@@ -246,7 +603,27 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "apricorn",
+        "curiously",
+        "tissue",
+        "irritated",
+        "equal",
+        "current",
+        "composition",
+        "20",
+        "loose",
+        "bolts",
+        "similar",
+        "electric",
+        "surface",
+        "lets",
+        "lightning"
+      ]
     }
   ],
   "similarPokemonIds": [

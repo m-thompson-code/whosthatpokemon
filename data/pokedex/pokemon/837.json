@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/837.png",
   "entryCount": 2,
+  "entryTraits": [
+    "mountain-dwelling"
+  ],
+  "entryKeywords": [
+    "fittingly",
+    "sustains",
+    "unicycle",
+    "race",
+    "400",
+    "mines",
+    "terrain",
+    "rocky",
+    "coal",
+    "burning",
+    "composition",
+    "rough",
+    "discovered",
+    "first",
+    "same"
+  ],
   "color": "black",
   "shape": "ball",
   "habitat": null,
@@ -38,7 +58,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fittingly",
+        "400",
+        "mines",
+        "coal",
+        "composition",
+        "discovered",
+        "first",
+        "same"
+      ]
     },
     {
       "versionId": 34,
@@ -46,7 +77,20 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "mountain-dwelling"
+      ],
+      "keywords": [
+        "sustains",
+        "unicycle",
+        "race",
+        "terrain",
+        "rocky",
+        "coal",
+        "burning",
+        "rough"
+      ]
     }
   ],
   "similarPokemonIds": [

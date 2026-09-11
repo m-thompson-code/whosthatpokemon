@@ -9,6 +9,82 @@
   ],
   "imagePath": "/assets/pokemon/024.png",
   "entryCount": 28,
+  "entryTraits": [
+    "hunting",
+    "sky-dwelling",
+    "sonic",
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "arrangements",
+    "constricting",
+    "stunning",
+    "venge",
+    "transfixing",
+    "studied",
+    "ful",
+    "latest",
+    "drums",
+    "flatten",
+    "crunching",
+    "determined",
+    "poisons",
+    "confirmed",
+    "constrict",
+    "expelling",
+    "variations",
+    "differ",
+    "embrace",
+    "terrifically",
+    "frightening",
+    "constricts",
+    "markings",
+    "vengeful",
+    "binds",
+    "frightened",
+    "intimidation",
+    "escaping",
+    "eerie",
+    "ferocious",
+    "rumored",
+    "targets",
+    "possible",
+    "20",
+    "intimidate",
+    "flee",
+    "spreads",
+    "chest",
+    "oil",
+    "chase",
+    "frozen",
+    "warning",
+    "fear",
+    "research",
+    "wide",
+    "impossible",
+    "wraps",
+    "victim",
+    "order",
+    "sight",
+    "waits",
+    "sounds",
+    "stomach",
+    "area",
+    "pattern",
+    "matter",
+    "six",
+    "far",
+    "weak",
+    "patterns",
+    "stop",
+    "belly",
+    "won",
+    "moving",
+    "nature",
+    "face",
+    "quickly"
+  ],
   "color": "purple",
   "shape": "squiggle",
   "habitat": "grassland",
@@ -39,7 +115,17 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "differ",
+        "markings",
+        "ferocious",
+        "rumored",
+        "warning",
+        "area",
+        "belly"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +133,17 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "differ",
+        "markings",
+        "ferocious",
+        "rumored",
+        "warning",
+        "area",
+        "belly"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +151,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "studied",
+        "confirmed",
+        "variations",
+        "frightening",
+        "six",
+        "patterns",
+        "belly"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +169,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Transfixing prey with the face-like pattern on its belly, it binds and poisons the frightened victim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "transfixing",
+        "poisons",
+        "binds",
+        "frightened",
+        "victim",
+        "pattern",
+        "belly",
+        "face"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +190,20 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "With a very venge­ ful nature, it won't give up the chase, no matter how far, once it targets its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "venge",
+        "ful",
+        "targets",
+        "chase",
+        "matter",
+        "far",
+        "won",
+        "nature"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +211,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "expelling",
+        "eerie",
+        "intimidate",
+        "spreads",
+        "chest",
+        "wide",
+        "sounds"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +232,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once ARBOK wraps its body around its foe, escaping its crunching embrace is impossible.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drums",
+        "flatten",
+        "crunching",
+        "constrict",
+        "embrace",
+        "terrifically",
+        "escaping",
+        "oil",
+        "impossible",
+        "wraps",
+        "order"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +254,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once ARBOK wraps its body around its foe, escaping its crunching embrace is impossible.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drums",
+        "flatten",
+        "crunching",
+        "constrict",
+        "embrace",
+        "terrifically",
+        "escaping",
+        "oil",
+        "impossible",
+        "wraps",
+        "order"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +276,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "This POKéMON has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "constricting",
+        "drums",
+        "flatten",
+        "terrifically",
+        "escaping",
+        "oil",
+        "impossible",
+        "wraps"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +295,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "frightening",
+        "flee",
+        "sight",
+        "pattern",
+        "weak",
+        "belly",
+        "face"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +313,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "differ",
+        "markings",
+        "ferocious",
+        "rumored",
+        "warning",
+        "area",
+        "belly"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +331,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "constricts",
+        "intimidation",
+        "frozen",
+        "fear",
+        "pattern",
+        "belly"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +351,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "constricts",
+        "intimidation",
+        "frozen",
+        "fear",
+        "pattern",
+        "belly"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +371,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "constricts",
+        "intimidation",
+        "frozen",
+        "fear",
+        "pattern",
+        "belly"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +391,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Transfixing prey with the face-like pattern on its belly, it binds and poisons the frightened victim.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "transfixing",
+        "poisons",
+        "binds",
+        "frightened",
+        "victim",
+        "pattern",
+        "belly",
+        "face"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +412,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "With a very vengeful nature, it won’t give up the chase, no matter how far, once it targets its prey.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "vengeful",
+        "targets",
+        "chase",
+        "matter",
+        "far",
+        "won",
+        "nature"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +432,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "constricts",
+        "intimidation",
+        "frozen",
+        "fear",
+        "pattern",
+        "belly"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +452,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "constricts",
+        "intimidation",
+        "frozen",
+        "fear",
+        "pattern",
+        "belly"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +472,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "constricts",
+        "intimidation",
+        "frozen",
+        "fear",
+        "pattern",
+        "belly"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +492,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "constricts",
+        "intimidation",
+        "frozen",
+        "fear",
+        "pattern",
+        "belly"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +512,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "frightening",
+        "flee",
+        "sight",
+        "pattern",
+        "weak",
+        "belly",
+        "face"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +530,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sky-dwelling",
+        "sonic"
+      ],
+      "keywords": [
+        "expelling",
+        "eerie",
+        "intimidate",
+        "spreads",
+        "chest",
+        "wide",
+        "sounds"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +551,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drums",
+        "flatten",
+        "crunching",
+        "constrict",
+        "embrace",
+        "terrifically",
+        "escaping",
+        "oil",
+        "impossible",
+        "wraps",
+        "order"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +573,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "drums",
+        "flatten",
+        "crunching",
+        "constrict",
+        "embrace",
+        "terrifically",
+        "escaping",
+        "oil",
+        "impossible",
+        "wraps",
+        "order"
+      ]
     },
     {
       "versionId": 29,
@@ -231,7 +595,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "The latest research has determined that there are over 20 possible arrangements of the patterns on its stomach.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "arrangements",
+        "latest",
+        "determined",
+        "possible",
+        "20",
+        "research",
+        "stomach",
+        "patterns"
+      ]
     },
     {
       "versionId": 30,
@@ -239,7 +614,18 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "stunning",
+        "wraps",
+        "waits",
+        "stomach",
+        "pattern",
+        "stop",
+        "moving",
+        "quickly"
+      ]
     },
     {
       "versionId": 31,
@@ -247,7 +633,17 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "studied",
+        "confirmed",
+        "variations",
+        "frightening",
+        "six",
+        "patterns",
+        "belly"
+      ]
     },
     {
       "versionId": 32,
@@ -255,7 +651,17 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "studied",
+        "confirmed",
+        "variations",
+        "frightening",
+        "six",
+        "patterns",
+        "belly"
+      ]
     }
   ],
   "similarPokemonIds": [

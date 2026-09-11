@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/865.png",
   "entryCount": 2,
+  "entryTraits": [
+    "hunting"
+  ],
+  "entryKeywords": [
+    "attain",
+    "deflecting",
+    "leek",
+    "retire",
+    "survived",
+    "withers",
+    "farfetch",
+    "shield",
+    "combat",
+    "stalk",
+    "weapon",
+    "strikes",
+    "battles",
+    "leaf",
+    "evolution"
+  ],
   "color": "white",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +59,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "attain",
+        "leek",
+        "retire",
+        "survived",
+        "withers",
+        "farfetch",
+        "combat",
+        "battles",
+        "evolution"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +79,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "deflecting",
+        "leek",
+        "shield",
+        "stalk",
+        "weapon",
+        "strikes",
+        "leaf"
+      ]
     }
   ],
   "similarPokemonIds": [

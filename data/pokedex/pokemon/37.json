@@ -9,6 +9,98 @@
   ],
   "imagePath": "/assets/pokemon/037.png",
   "entryCount": 33,
+  "entryTraits": [
+    "tail",
+    "fur",
+    "fiery",
+    "cold-climate",
+    "hunting"
+  ],
+  "entryKeywords": [
+    "brushed",
+    "ious",
+    "luxur",
+    "cuddly",
+    "puppy",
+    "separates",
+    "feigns",
+    "lustrous",
+    "magnificently",
+    "spew",
+    "sprouted",
+    "ghost",
+    "manipulates",
+    "tangles",
+    "matures",
+    "mass",
+    "deceased",
+    "mistakenly",
+    "wisps",
+    "receives",
+    "injury",
+    "fool",
+    "develops",
+    "gorgeous",
+    "resemble",
+    "plenty",
+    "diligently",
+    "o",
+    "curled",
+    "know",
+    "seem",
+    "splits",
+    "orbs",
+    "escapes",
+    "raise",
+    "temperatures",
+    "gains",
+    "older",
+    "split",
+    "held",
+    "rise",
+    "balls",
+    "fireballs",
+    "daytime",
+    "several",
+    "love",
+    "quite",
+    "think",
+    "slightly",
+    "spits",
+    "prevent",
+    "tips",
+    "white",
+    "coat",
+    "fiery",
+    "growing",
+    "color",
+    "releases",
+    "single",
+    "birth",
+    "spirits",
+    "young",
+    "feels",
+    "controls",
+    "six",
+    "popular",
+    "snow",
+    "beautiful",
+    "larger",
+    "catch",
+    "stronger",
+    "new",
+    "flame",
+    "burns",
+    "attacked",
+    "freely",
+    "belly",
+    "tails",
+    "evolution",
+    "hot",
+    "tip",
+    "close",
+    "born"
+  ],
   "color": "brown",
   "shape": "quadruped",
   "habitat": "grassland",
@@ -38,7 +130,16 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "splits",
+        "older",
+        "birth",
+        "tip"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +147,16 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "splits",
+        "older",
+        "birth",
+        "tip"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +164,16 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "split",
+        "beautiful",
+        "tails"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +181,21 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "cuddly",
+        "develops",
+        "splits",
+        "gains",
+        "quite",
+        "white",
+        "color",
+        "single",
+        "six"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +203,16 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "feigns",
+        "injury",
+        "fool",
+        "escapes",
+        "stronger",
+        "attacked"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +220,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "As its body grows larger, its six warm tails become more beautiful, with a more luxur­ ious coat of fur.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "ious",
+        "luxur",
+        "coat",
+        "six",
+        "beautiful",
+        "larger",
+        "tails"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +241,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "At the time of its birth, VULPIX has one white tail. The tail separates into six if this POKéMON receives plenty of love from its TRAINER. The six tails become magnificently curled.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "separates",
+        "magnificently",
+        "receives",
+        "plenty",
+        "curled",
+        "love",
+        "white",
+        "birth",
+        "six",
+        "tails"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +264,21 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "Inside VULPIX’s body burns a flame that never goes out. During the daytime, when the temperatures rise, this POKéMON releases flames from its mouth to prevent its body from growing too hot.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "temperatures",
+        "rise",
+        "daytime",
+        "prevent",
+        "growing",
+        "releases",
+        "flame",
+        "burns",
+        "hot"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +286,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It can freely control fire, making fiery orbs fly like will-o’-the-wisps. Just before evolution, its six tails grow hot as if on fire.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "wisps",
+        "o",
+        "orbs",
+        "fiery",
+        "six",
+        "freely",
+        "tails",
+        "evolution",
+        "hot"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +309,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "sprouted",
+        "gorgeous",
+        "several",
+        "young",
+        "six",
+        "new",
+        "tails"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +329,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When it is born, it has just one snow- white tail. The tail splits from its tip as it grows older.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "tail"
+      ],
+      "keywords": [
+        "splits",
+        "older",
+        "white",
+        "snow",
+        "tip",
+        "born"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +349,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "split",
+        "balls",
+        "tips",
+        "controls",
+        "six",
+        "tails"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +369,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "split",
+        "balls",
+        "tips",
+        "controls",
+        "six",
+        "tails"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +389,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "split",
+        "balls",
+        "tips",
+        "controls",
+        "six",
+        "tails"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +409,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "cuddly",
+        "develops",
+        "splits",
+        "gains",
+        "quite",
+        "white",
+        "color",
+        "single",
+        "six"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +431,16 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "feigns",
+        "injury",
+        "fool",
+        "escapes",
+        "stronger",
+        "attacked"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +448,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "split",
+        "balls",
+        "tips",
+        "controls",
+        "six",
+        "tails"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +468,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "split",
+        "balls",
+        "tips",
+        "controls",
+        "six",
+        "tails"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +488,17 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "lustrous",
+        "held",
+        "slightly",
+        "feels"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +506,17 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "lustrous",
+        "held",
+        "slightly",
+        "feels"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +524,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "tail"
+      ],
+      "keywords": [
+        "splits",
+        "older",
+        "white",
+        "snow",
+        "tip",
+        "born"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +544,19 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "sprouted",
+        "gorgeous",
+        "several",
+        "young",
+        "six",
+        "new",
+        "tails"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +564,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "separates",
+        "magnificently",
+        "receives",
+        "plenty",
+        "curled",
+        "love",
+        "white",
+        "birth",
+        "six",
+        "tails"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +587,21 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Inside Vulpix’s body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pokémon releases flames from its mouth to prevent its body from growing too hot.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "temperatures",
+        "rise",
+        "daytime",
+        "prevent",
+        "growing",
+        "releases",
+        "flame",
+        "burns",
+        "hot"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +609,17 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its beautiful fur and tails have made it very popular. As it grows, its tails split to form more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "split",
+        "popular",
+        "beautiful",
+        "tails"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +627,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "From its mouth spew flames that seem to resemble the spirits of the deceased. Some people mistakenly think this fire is a ghost.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fiery"
+      ],
+      "keywords": [
+        "spew",
+        "ghost",
+        "deceased",
+        "mistakenly",
+        "resemble",
+        "seem",
+        "think",
+        "spirits"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +648,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its beautiful tails have made it very popular. However, if it’s not brushed diligently, it will be a mass of tangles before you know it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "brushed",
+        "tangles",
+        "mass",
+        "diligently",
+        "know",
+        "popular",
+        "beautiful",
+        "tails"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +669,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It manipulates balls of fire to catch its prey. If you raise one from when it’s young, it will grow close to you like a puppy Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting",
+        "fiery"
+      ],
+      "keywords": [
+        "puppy",
+        "manipulates",
+        "raise",
+        "balls",
+        "young",
+        "catch",
+        "close"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +690,16 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "split",
+        "beautiful",
+        "tails"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +707,16 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "split",
+        "beautiful",
+        "tails"
+      ]
     },
     {
       "versionId": 33,
@@ -278,7 +724,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "sprouted",
+        "gorgeous",
+        "several",
+        "young",
+        "six",
+        "new",
+        "tails"
+      ]
     },
     {
       "versionId": 34,
@@ -286,7 +744,17 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "tail"
+      ],
+      "keywords": [
+        "lustrous",
+        "held",
+        "slightly",
+        "feels"
+      ]
     },
     {
       "versionId": 39,
@@ -294,7 +762,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail",
+        "fiery"
+      ],
+      "keywords": [
+        "matures",
+        "splits",
+        "fireballs",
+        "spits",
+        "white",
+        "single",
+        "young",
+        "six",
+        "burns",
+        "belly"
+      ]
     }
   ],
   "similarPokemonIds": [

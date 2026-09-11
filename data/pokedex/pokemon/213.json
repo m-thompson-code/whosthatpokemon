@@ -10,6 +10,47 @@
   ],
   "imagePath": "/assets/pokemon/213.png",
   "entryCount": 23,
+  "entryTraits": [
+    "shell"
+  ],
+  "entryKeywords": [
+    "jar",
+    "vase",
+    "toes",
+    "decompose",
+    "pulpy",
+    "vaselike",
+    "carves",
+    "ferment",
+    "concealed",
+    "nesting",
+    "juice",
+    "mixed",
+    "gooey",
+    "juices",
+    "secreted",
+    "eventually",
+    "mix",
+    "drink",
+    "keeping",
+    "completely",
+    "quietly",
+    "fluids",
+    "beneath",
+    "liquid",
+    "delicious",
+    "holes",
+    "avoid",
+    "remains",
+    "stored",
+    "berries",
+    "still",
+    "eating",
+    "fluid",
+    "hides",
+    "stores",
+    "rocks"
+  ],
   "color": "yellow",
   "shape": "armor",
   "habitat": "mountain",
@@ -39,7 +80,18 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "The BERRIES it stores in its vase-like shell decompose and become a gooey liquid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "vase",
+        "decompose",
+        "gooey",
+        "liquid",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +99,21 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "completely",
+        "beneath",
+        "avoid",
+        "remains",
+        "berries",
+        "still",
+        "hides",
+        "stores",
+        "rocks"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +121,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with BERRIES to make a drink.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "toes",
+        "carves",
+        "nesting",
+        "mixed",
+        "secreted",
+        "drink",
+        "holes",
+        "berries",
+        "fluid",
+        "rocks"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +142,23 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "concealed",
+        "juice",
+        "mix",
+        "keeping",
+        "quietly",
+        "fluids",
+        "stored",
+        "berries",
+        "eating",
+        "hides",
+        "rocks"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +166,23 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "concealed",
+        "juice",
+        "mix",
+        "keeping",
+        "quietly",
+        "fluids",
+        "stored",
+        "berries",
+        "eating",
+        "hides",
+        "rocks"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +190,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A SHUCKLE hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "concealed",
+        "juice",
+        "mix",
+        "keeping",
+        "fluids",
+        "stored",
+        "berries",
+        "eating",
+        "hides",
+        "rocks"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +213,21 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "completely",
+        "beneath",
+        "avoid",
+        "remains",
+        "berries",
+        "still",
+        "hides",
+        "stores",
+        "rocks"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +235,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "The BERRIES it stores in its vaselike shell decompose and become a gooey liquid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "decompose",
+        "vaselike",
+        "gooey",
+        "liquid",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +254,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "ferment",
+        "juices",
+        "eventually",
+        "delicious",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +273,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "ferment",
+        "juices",
+        "eventually",
+        "delicious",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +292,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "ferment",
+        "juices",
+        "eventually",
+        "delicious",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +311,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "The berries it stores in its vase-like shell decompose and become a gooey liquid.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "vase",
+        "decompose",
+        "gooey",
+        "liquid",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +330,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "completely",
+        "beneath",
+        "avoid",
+        "remains",
+        "berries",
+        "still",
+        "hides",
+        "stores",
+        "rocks"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +352,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "ferment",
+        "juices",
+        "eventually",
+        "delicious",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +371,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "ferment",
+        "juices",
+        "eventually",
+        "delicious",
+        "berries",
+        "stores"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +390,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pulpy",
+        "vaselike",
+        "juice",
+        "eventually",
+        "stored",
+        "berries"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +409,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pulpy",
+        "vaselike",
+        "juice",
+        "eventually",
+        "stored",
+        "berries"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +428,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "The berries stored in its jar-like shell eventually become a thick, pulpy juice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "jar",
+        "pulpy",
+        "juice",
+        "eventually",
+        "stored",
+        "berries"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +447,21 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "completely",
+        "beneath",
+        "avoid",
+        "remains",
+        "berries",
+        "still",
+        "hides",
+        "stores",
+        "rocks"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +469,23 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "concealed",
+        "juice",
+        "mix",
+        "keeping",
+        "quietly",
+        "fluids",
+        "stored",
+        "berries",
+        "eating",
+        "hides",
+        "rocks"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +493,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "concealed",
+        "juice",
+        "mix",
+        "keeping",
+        "quietly",
+        "fluids",
+        "stored",
+        "berries",
+        "eating",
+        "hides",
+        "rocks"
+      ]
     },
     {
       "versionId": 33,
@@ -207,7 +517,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "completely",
+        "beneath",
+        "avoid",
+        "remains",
+        "berries",
+        "still",
+        "hides",
+        "stores",
+        "rocks"
+      ]
     },
     {
       "versionId": 34,
@@ -215,7 +539,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "shell"
+      ],
+      "keywords": [
+        "pulpy",
+        "vaselike",
+        "juice",
+        "eventually",
+        "stored",
+        "berries"
+      ]
     }
   ],
   "similarPokemonIds": [

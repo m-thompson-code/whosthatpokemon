@@ -9,6 +9,64 @@
   ],
   "imagePath": "/assets/pokemon/202.png",
   "entryCount": 23,
+  "entryTraits": [
+    "luminous",
+    "tail",
+    "cave-dwelling",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "ceal",
+    "destiny",
+    "outdo",
+    "longest",
+    "counter",
+    "counterstrike",
+    "endurance",
+    "pump",
+    "ed",
+    "competitive",
+    "lair",
+    "nightfall",
+    "con",
+    "endure",
+    "desperately",
+    "meet",
+    "ferociously",
+    "pitch",
+    "cave",
+    "secret",
+    "beware",
+    "bond",
+    "proof",
+    "inflates",
+    "hates",
+    "need",
+    "habit",
+    "tries",
+    "quietly",
+    "build",
+    "happens",
+    "turn",
+    "docile",
+    "strikes",
+    "hidden",
+    "order",
+    "waits",
+    "strike",
+    "nothing",
+    "try",
+    "first",
+    "shock",
+    "caves",
+    "black",
+    "dark",
+    "attacked",
+    "darkness",
+    "hides",
+    "won",
+    "usually"
+  ],
   "color": "blue",
   "shape": "blob",
   "habitat": "cave",
@@ -38,7 +96,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It hates light and shock. If attack­ ed, it inflates its body to pump up its counter­ strike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "counter",
+        "pump",
+        "ed",
+        "inflates",
+        "hates",
+        "strike",
+        "shock"
+      ]
     },
     {
       "versionId": 5,
@@ -46,7 +116,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "To keep its pitch- black tail hidden, it lives quietly in the darkness. It is never first to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pitch",
+        "quietly",
+        "hidden",
+        "first",
+        "black",
+        "darkness"
+      ]
     },
     {
       "versionId": 6,
@@ -54,7 +135,20 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "In order to con­ ceal its black tail, it lives in a dark cave and only moves about at night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling",
+        "tail",
+        "nocturnal"
+      ],
+      "keywords": [
+        "ceal",
+        "con",
+        "cave",
+        "order",
+        "black",
+        "dark"
+      ]
     },
     {
       "versionId": 7,
@@ -62,7 +156,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "outdo",
+        "longest",
+        "endurance",
+        "competitive",
+        "endure",
+        "meet",
+        "beware",
+        "need",
+        "habit",
+        "turn",
+        "try"
+      ]
     },
     {
       "versionId": 8,
@@ -70,7 +178,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "WOBBUFFET does nothing but endure attacks - it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the POKéMON will try to take the foe with it using DESTINY BOND.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "destiny",
+        "endure",
+        "bond",
+        "happens",
+        "nothing",
+        "try",
+        "won"
+      ]
     },
     {
       "versionId": 9,
@@ -78,7 +198,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "Usually docile, a WOBBUFFET strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "lair",
+        "nightfall",
+        "ferociously",
+        "docile",
+        "strikes",
+        "waits",
+        "caves",
+        "black",
+        "attacked",
+        "usually"
+      ]
     },
     {
       "versionId": 10,
@@ -86,7 +221,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pitch",
+        "quietly",
+        "hidden",
+        "first",
+        "black",
+        "darkness"
+      ]
     },
     {
       "versionId": 11,
@@ -94,7 +240,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "counterstrike",
+        "pump",
+        "inflates",
+        "hates",
+        "shock",
+        "attacked"
+      ]
     },
     {
       "versionId": 12,
@@ -102,7 +259,19 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "desperately",
+        "secret",
+        "proof",
+        "tries",
+        "hidden",
+        "black",
+        "hides"
+      ]
     },
     {
       "versionId": 13,
@@ -110,7 +279,19 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "desperately",
+        "secret",
+        "proof",
+        "tries",
+        "hidden",
+        "black",
+        "hides"
+      ]
     },
     {
       "versionId": 14,
@@ -118,7 +299,19 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "desperately",
+        "secret",
+        "proof",
+        "tries",
+        "hidden",
+        "black",
+        "hides"
+      ]
     },
     {
       "versionId": 15,
@@ -126,7 +319,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "counterstrike",
+        "inflates",
+        "hates",
+        "build",
+        "shock",
+        "attacked"
+      ]
     },
     {
       "versionId": 16,
@@ -134,7 +338,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pitch",
+        "quietly",
+        "hidden",
+        "first",
+        "black",
+        "darkness"
+      ]
     },
     {
       "versionId": 17,
@@ -142,7 +357,19 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "desperately",
+        "secret",
+        "proof",
+        "tries",
+        "hidden",
+        "black",
+        "hides"
+      ]
     },
     {
       "versionId": 18,
@@ -150,7 +377,19 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "desperately",
+        "secret",
+        "proof",
+        "tries",
+        "hidden",
+        "black",
+        "hides"
+      ]
     },
     {
       "versionId": 21,
@@ -158,7 +397,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "desperately",
+        "secret",
+        "proof",
+        "tries",
+        "hidden",
+        "black",
+        "hides"
+      ]
     },
     {
       "versionId": 22,
@@ -166,7 +417,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "desperately",
+        "secret",
+        "proof",
+        "tries",
+        "hidden",
+        "black",
+        "hides"
+      ]
     },
     {
       "versionId": 23,
@@ -174,7 +437,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "counterstrike",
+        "inflates",
+        "hates",
+        "build",
+        "shock",
+        "attacked"
+      ]
     },
     {
       "versionId": 24,
@@ -182,7 +456,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pitch",
+        "quietly",
+        "hidden",
+        "first",
+        "black",
+        "darkness"
+      ]
     },
     {
       "versionId": 25,
@@ -190,7 +475,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "outdo",
+        "longest",
+        "endurance",
+        "competitive",
+        "endure",
+        "meet",
+        "beware",
+        "need",
+        "habit",
+        "turn",
+        "try"
+      ]
     },
     {
       "versionId": 26,
@@ -198,7 +497,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Wobbuffet does nothing but endure attacks—it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "destiny",
+        "endure",
+        "bond",
+        "happens",
+        "nothing",
+        "try",
+        "won"
+      ]
     },
     {
       "versionId": 33,
@@ -206,7 +517,18 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "luminous"
+      ],
+      "keywords": [
+        "counterstrike",
+        "pump",
+        "inflates",
+        "hates",
+        "shock",
+        "attacked"
+      ]
     },
     {
       "versionId": 34,
@@ -214,7 +536,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "pitch",
+        "quietly",
+        "hidden",
+        "first",
+        "black",
+        "darkness"
+      ]
     }
   ],
   "similarPokemonIds": [

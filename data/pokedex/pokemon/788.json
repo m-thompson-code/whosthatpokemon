@@ -10,6 +10,42 @@
   ],
   "imagePath": "/assets/pokemon/788.png",
   "entryCount": 4,
+  "entryTraits": [
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "befall",
+    "calamities",
+    "downfall",
+    "poni",
+    "recklessly",
+    "uncleanness",
+    "confused",
+    "destruction",
+    "island",
+    "manipulates",
+    "wash",
+    "fog",
+    "terrible",
+    "revered",
+    "dense",
+    "deity",
+    "guardian",
+    "currents",
+    "brings",
+    "pure",
+    "approach",
+    "feared",
+    "source",
+    "say",
+    "came",
+    "called",
+    "within",
+    "ocean",
+    "create",
+    "creates",
+    "although"
+  ],
   "color": "purple",
   "shape": "arms",
   "habitat": null,
@@ -39,7 +75,22 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "downfall",
+        "confused",
+        "destruction",
+        "fog",
+        "dense",
+        "currents",
+        "brings",
+        "source",
+        "ocean",
+        "creates"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +98,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "The guardian deity of Poni, it can control water. People say it can create pure water that will wash away any uncleanness.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "poni",
+        "uncleanness",
+        "wash",
+        "deity",
+        "guardian",
+        "pure",
+        "say",
+        "create"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +119,22 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "poni",
+        "island",
+        "manipulates",
+        "fog",
+        "revered",
+        "deity",
+        "guardian",
+        "feared",
+        "came",
+        "within"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +142,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "befall",
+        "calamities",
+        "recklessly",
+        "terrible",
+        "deity",
+        "guardian",
+        "approach",
+        "called",
+        "although"
+      ]
     }
   ],
   "similarPokemonIds": [

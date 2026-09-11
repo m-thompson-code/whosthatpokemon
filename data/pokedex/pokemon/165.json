@@ -10,6 +10,63 @@
   ],
   "imagePath": "/assets/pokemon/165.png",
   "entryCount": 25,
+  "entryTraits": [
+    "cold-climate",
+    "icy"
+  ],
+  "entryKeywords": [
+    "convey",
+    "reflect",
+    "afraid",
+    "lively",
+    "odors",
+    "warmth",
+    "altering",
+    "bodily",
+    "backs",
+    "cowardly",
+    "join",
+    "sour",
+    "aromatic",
+    "differs",
+    "numerous",
+    "everywhere",
+    "odor",
+    "indicates",
+    "communicating",
+    "lots",
+    "conveys",
+    "secreted",
+    "uneasy",
+    "secrete",
+    "clusters",
+    "location",
+    "cluster",
+    "isn",
+    "alone",
+    "quite",
+    "alola",
+    "fluids",
+    "slightly",
+    "swarm",
+    "secretes",
+    "smells",
+    "timid",
+    "sensitive",
+    "communicate",
+    "angry",
+    "pattern",
+    "feelings",
+    "re",
+    "group",
+    "weather",
+    "turns",
+    "active",
+    "scent",
+    "another",
+    "fluid",
+    "gather"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": "forest",
@@ -39,7 +96,15 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "afraid",
+        "alone",
+        "timid",
+        "group",
+        "active"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +112,19 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "When the weather turns cold, lots of LEDYBA gather from everywhere to cluster and keep each other warm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "everywhere",
+        "lots",
+        "cluster",
+        "weather",
+        "turns",
+        "gather"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +132,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "indicates",
+        "secreted",
+        "clusters",
+        "location",
+        "timid",
+        "fluid"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +149,19 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This POKéMON conveys its feelings to others by altering the fluid’s scent.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "altering",
+        "join",
+        "aromatic",
+        "communicating",
+        "conveys",
+        "secretes",
+        "feelings",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +169,19 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This POKéMON conveys its feelings to others by altering the fluid’s scent.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "altering",
+        "join",
+        "aromatic",
+        "communicating",
+        "conveys",
+        "secretes",
+        "feelings",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +189,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "LEDYBA communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid’s scent.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "convey",
+        "altering",
+        "join",
+        "secrete",
+        "communicate",
+        "feelings",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +208,19 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "When the weather turns cold, numerous LEDYBA gather from everywhere to cluster and keep each other warm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "numerous",
+        "everywhere",
+        "cluster",
+        "weather",
+        "turns",
+        "gather"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +228,15 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "afraid",
+        "alone",
+        "timid",
+        "group",
+        "active"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +244,16 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conveys",
+        "isn",
+        "swarm",
+        "timid",
+        "feelings",
+        "scent"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +261,16 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conveys",
+        "isn",
+        "swarm",
+        "timid",
+        "feelings",
+        "scent"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +278,16 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conveys",
+        "isn",
+        "swarm",
+        "timid",
+        "feelings",
+        "scent"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +295,15 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "afraid",
+        "alone",
+        "timid",
+        "group",
+        "active"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +311,19 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "When the weather turns cold, lots of LEDYBA gather from everywhere to cluster and keep each other warm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "everywhere",
+        "lots",
+        "cluster",
+        "weather",
+        "turns",
+        "gather"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +331,16 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conveys",
+        "isn",
+        "swarm",
+        "timid",
+        "feelings",
+        "scent"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +348,16 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conveys",
+        "isn",
+        "swarm",
+        "timid",
+        "feelings",
+        "scent"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +365,16 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conveys",
+        "isn",
+        "swarm",
+        "timid",
+        "feelings",
+        "scent"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +382,16 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "conveys",
+        "isn",
+        "swarm",
+        "timid",
+        "feelings",
+        "scent"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +399,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "everywhere",
+        "lots",
+        "cluster",
+        "weather",
+        "turns",
+        "gather"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +419,16 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "indicates",
+        "secreted",
+        "clusters",
+        "location",
+        "timid",
+        "fluid"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +436,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid’s scent.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "altering",
+        "join",
+        "aromatic",
+        "communicating",
+        "conveys",
+        "secretes",
+        "feelings",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +456,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid’s scent.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "altering",
+        "join",
+        "aromatic",
+        "communicating",
+        "conveys",
+        "secretes",
+        "feelings",
+        "scent",
+        "fluid"
+      ]
     },
     {
       "versionId": 27,
@@ -207,7 +476,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "They are timid and grow uneasy when not in a swarm with others of their kind. The pattern on their backs differs slightly from one to another.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "backs",
+        "differs",
+        "uneasy",
+        "slightly",
+        "swarm",
+        "timid",
+        "pattern",
+        "another"
+      ]
     },
     {
       "versionId": 28,
@@ -215,7 +495,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "They communicate with one another using bodily fluids that give off odors. When they’re angry, their odor smells sour.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "odors",
+        "bodily",
+        "sour",
+        "odor",
+        "fluids",
+        "smells",
+        "communicate",
+        "angry",
+        "re",
+        "another"
+      ]
     },
     {
       "versionId": 29,
@@ -223,7 +516,18 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "This Pokémon is very sensitive to cold. In the warmth of Alola, it appears quite lively.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cold-climate",
+        "icy"
+      ],
+      "keywords": [
+        "lively",
+        "warmth",
+        "quite",
+        "alola",
+        "sensitive"
+      ]
     },
     {
       "versionId": 30,
@@ -231,7 +535,13 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "These very cowardly Pokémon join together and use Reflect to protect their nest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "reflect",
+        "cowardly",
+        "join"
+      ]
     }
   ],
   "similarPokemonIds": [

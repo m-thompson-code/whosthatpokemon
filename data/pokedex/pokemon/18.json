@@ -10,6 +10,70 @@
   ],
   "imagePath": "/assets/pokemon/018.png",
   "entryCount": 26,
+  "entryTraits": [
+    "aquatic",
+    "hunting",
+    "claws",
+    "wings",
+    "feathers",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "3300",
+    "gusty",
+    "windstorm",
+    "splashing",
+    "frighten",
+    "skims",
+    "compelling",
+    "gust",
+    "widely",
+    "captivated",
+    "glossy",
+    "talons",
+    "bending",
+    "choose",
+    "dazzling",
+    "mach",
+    "gorgeous",
+    "plumage",
+    "vision",
+    "outstanding",
+    "wicked",
+    "beautifully",
+    "magikarp",
+    "hunting",
+    "whip",
+    "unwary",
+    "beauty",
+    "intimidate",
+    "striking",
+    "spreads",
+    "chest",
+    "races",
+    "weapons",
+    "2",
+    "might",
+    "allows",
+    "pick",
+    "tall",
+    "feared",
+    "seeking",
+    "wide",
+    "few",
+    "skies",
+    "feathers",
+    "spot",
+    "flapping",
+    "flaps",
+    "wind",
+    "beautiful",
+    "surface",
+    "capable",
+    "well",
+    "developed",
+    "muscles"
+  ],
   "color": "brown",
   "shape": "wings",
   "habitat": "forest",
@@ -39,7 +103,19 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skims",
+        "magikarp",
+        "hunting",
+        "unwary",
+        "pick",
+        "surface"
+      ]
     },
     {
       "versionId": 2,
@@ -47,7 +123,19 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skims",
+        "magikarp",
+        "hunting",
+        "unwary",
+        "pick",
+        "surface"
+      ]
     },
     {
       "versionId": 3,
@@ -55,7 +143,20 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "This POKéMON flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "talons",
+        "mach",
+        "wicked",
+        "weapons",
+        "2",
+        "feared",
+        "seeking"
+      ]
     },
     {
       "versionId": 4,
@@ -63,7 +164,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gusty",
+        "windstorm",
+        "whip",
+        "chest",
+        "few",
+        "flaps",
+        "well",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 5,
@@ -71,7 +184,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "frighten",
+        "mach",
+        "spreads",
+        "2",
+        "wide",
+        "beautiful"
+      ]
     },
     {
       "versionId": 6,
@@ -79,7 +203,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Its outstanding vision allows it to spot splashing MAGIKARP, even while flying at 3300 feet.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "3300",
+        "splashing",
+        "vision",
+        "outstanding",
+        "magikarp",
+        "allows",
+        "spot"
+      ]
     },
     {
       "versionId": 7,
@@ -87,7 +221,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "compelling",
+        "captivated",
+        "glossy",
+        "choose",
+        "dazzling",
+        "plumage",
+        "beautifully",
+        "beauty",
+        "striking",
+        "feathers"
+      ]
     },
     {
       "versionId": 8,
@@ -95,7 +244,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "compelling",
+        "captivated",
+        "glossy",
+        "choose",
+        "dazzling",
+        "plumage",
+        "beautifully",
+        "beauty",
+        "striking",
+        "feathers"
+      ]
     },
     {
       "versionId": 9,
@@ -103,7 +267,18 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "This POKéMON has gorgeous, glossy feathers. Many TRAINERS are so captivated by the beautiful feathers on its head that they choose PIDGEOT as their POKéMON.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "captivated",
+        "glossy",
+        "choose",
+        "gorgeous",
+        "feathers",
+        "beautiful"
+      ]
     },
     {
       "versionId": 10,
@@ -111,7 +286,20 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "widely",
+        "mach",
+        "gorgeous",
+        "intimidate",
+        "spreads",
+        "races",
+        "2",
+        "skies"
+      ]
     },
     {
       "versionId": 11,
@@ -119,7 +307,19 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skims",
+        "magikarp",
+        "hunting",
+        "unwary",
+        "pick",
+        "surface"
+      ]
     },
     {
       "versionId": 12,
@@ -127,7 +327,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "gust",
+        "bending",
+        "might",
+        "tall",
+        "flapping",
+        "wind",
+        "capable"
+      ]
     },
     {
       "versionId": 13,
@@ -135,7 +348,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "gust",
+        "bending",
+        "might",
+        "tall",
+        "flapping",
+        "wind",
+        "capable"
+      ]
     },
     {
       "versionId": 14,
@@ -143,7 +369,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "gust",
+        "bending",
+        "might",
+        "tall",
+        "flapping",
+        "wind",
+        "capable"
+      ]
     },
     {
       "versionId": 15,
@@ -151,7 +390,19 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "gusty",
+        "windstorm",
+        "whip",
+        "chest",
+        "few",
+        "flaps",
+        "well",
+        "developed",
+        "muscles"
+      ]
     },
     {
       "versionId": 16,
@@ -159,7 +410,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "frighten",
+        "mach",
+        "spreads",
+        "2",
+        "wide",
+        "beautiful"
+      ]
     },
     {
       "versionId": 17,
@@ -167,7 +429,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "gust",
+        "bending",
+        "might",
+        "tall",
+        "flapping",
+        "wind",
+        "capable"
+      ]
     },
     {
       "versionId": 18,
@@ -175,7 +450,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "gust",
+        "bending",
+        "might",
+        "tall",
+        "flapping",
+        "wind",
+        "capable"
+      ]
     },
     {
       "versionId": 21,
@@ -183,7 +471,20 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "gust",
+        "bending",
+        "might",
+        "tall",
+        "flapping",
+        "wind",
+        "capable"
+      ]
     },
     {
       "versionId": 22,
@@ -191,7 +492,20 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "forest-dwelling",
+        "wings"
+      ],
+      "keywords": [
+        "gust",
+        "bending",
+        "might",
+        "tall",
+        "flapping",
+        "wind",
+        "capable"
+      ]
     },
     {
       "versionId": 23,
@@ -199,7 +513,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "hunting"
+      ],
+      "keywords": [
+        "skims",
+        "magikarp",
+        "hunting",
+        "unwary",
+        "pick",
+        "surface"
+      ]
     },
     {
       "versionId": 24,
@@ -207,7 +533,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "wings"
+      ],
+      "keywords": [
+        "widely",
+        "mach",
+        "gorgeous",
+        "intimidate",
+        "spreads",
+        "races",
+        "2",
+        "skies"
+      ]
     },
     {
       "versionId": 25,
@@ -215,7 +554,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "compelling",
+        "captivated",
+        "glossy",
+        "choose",
+        "dazzling",
+        "plumage",
+        "beautifully",
+        "beauty",
+        "striking",
+        "feathers"
+      ]
     },
     {
       "versionId": 26,
@@ -223,7 +577,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "feathers"
+      ],
+      "keywords": [
+        "compelling",
+        "captivated",
+        "glossy",
+        "choose",
+        "dazzling",
+        "plumage",
+        "beautifully",
+        "beauty",
+        "striking",
+        "feathers"
+      ]
     },
     {
       "versionId": 31,
@@ -231,7 +600,20 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "talons",
+        "mach",
+        "wicked",
+        "weapons",
+        "2",
+        "feared",
+        "seeking"
+      ]
     },
     {
       "versionId": 32,
@@ -239,7 +621,20 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "claws",
+        "hunting"
+      ],
+      "keywords": [
+        "talons",
+        "mach",
+        "wicked",
+        "weapons",
+        "2",
+        "feared",
+        "seeking"
+      ]
     }
   ],
   "similarPokemonIds": [

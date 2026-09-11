@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/826.png",
   "entryCount": 2,
+  "entryTraits": [
+    "psychic"
+  ],
+  "entryKeywords": [
+    "include",
+    "observe",
+    "study",
+    "immense",
+    "possesses",
+    "proof",
+    "famous",
+    "intelligence",
+    "level",
+    "size",
+    "six",
+    "miles",
+    "brain",
+    "emits"
+  ],
   "color": "red",
   "shape": "wings",
   "habitat": null,
@@ -39,7 +58,20 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It’s famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "immense",
+        "possesses",
+        "proof",
+        "famous",
+        "intelligence",
+        "level",
+        "size",
+        "brain"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +79,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "psychic"
+      ],
+      "keywords": [
+        "include",
+        "observe",
+        "study",
+        "six",
+        "miles",
+        "emits"
+      ]
     }
   ],
   "similarPokemonIds": [

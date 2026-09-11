@@ -10,6 +10,48 @@
   ],
   "imagePath": "/assets/pokemon/189.png",
   "entryCount": 21,
+  "entryTraits": [
+    "aquatic",
+    "cold-climate",
+    "sky-dwelling",
+    "icy"
+  ],
+  "entryKeywords": [
+    "fierc",
+    "fiercest",
+    "est",
+    "deft",
+    "ride",
+    "descends",
+    "ly",
+    "fluff",
+    "puff",
+    "foreign",
+    "seasonal",
+    "cross",
+    "wants",
+    "scattering",
+    "rides",
+    "southern",
+    "encounters",
+    "globe",
+    "blown",
+    "circles",
+    "floating",
+    "offspring",
+    "deftly",
+    "spreads",
+    "drifts",
+    "lands",
+    "catches",
+    "float",
+    "cotton",
+    "spores",
+    "winds",
+    "controls",
+    "wind",
+    "place"
+  ],
   "color": "blue",
   "shape": "upright",
   "habitat": "grassland",
@@ -40,7 +82,19 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "Once it catches the wind, it deft­ ly controls its cotton-puff spores to float, even around the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "deft",
+        "ly",
+        "puff",
+        "catches",
+        "float",
+        "cotton",
+        "spores",
+        "controls",
+        "wind"
+      ]
     },
     {
       "versionId": 5,
@@ -48,7 +102,17 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "offspring",
+        "spreads",
+        "drifts",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 6,
@@ -56,7 +120,16 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "Even in the fierc­ est wind, it can control its fluff to make its way to any place in the world it wants.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fierc",
+        "est",
+        "fluff",
+        "wants",
+        "wind",
+        "place"
+      ]
     },
     {
       "versionId": 7,
@@ -64,7 +137,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "descends",
+        "foreign",
+        "cross",
+        "rides",
+        "southern",
+        "encounters",
+        "floating",
+        "lands",
+        "winds"
+      ]
     },
     {
       "versionId": 8,
@@ -72,7 +162,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "descends",
+        "foreign",
+        "cross",
+        "rides",
+        "southern",
+        "encounters",
+        "floating",
+        "lands",
+        "winds"
+      ]
     },
     {
       "versionId": 9,
@@ -80,7 +187,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "JUMPLUFF ride warm southern winds to cross the sea and fly to foreign lands. This POKéMON lands when it encounters cold air while it is floating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "ride",
+        "foreign",
+        "cross",
+        "southern",
+        "encounters",
+        "floating",
+        "lands",
+        "winds"
+      ]
     },
     {
       "versionId": 10,
@@ -88,7 +211,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "offspring",
+        "spreads",
+        "drifts",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 11,
@@ -96,7 +229,18 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puff",
+        "deftly",
+        "catches",
+        "float",
+        "cotton",
+        "spores",
+        "controls",
+        "wind"
+      ]
     },
     {
       "versionId": 12,
@@ -104,7 +248,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "scattering",
+        "globe",
+        "blown",
+        "circles",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 13,
@@ -112,7 +267,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "scattering",
+        "globe",
+        "blown",
+        "circles",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 14,
@@ -120,7 +286,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "scattering",
+        "globe",
+        "blown",
+        "circles",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 15,
@@ -128,7 +305,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Once it catches the wind, it deftly controls its cotton-puff spores-- it can even float around the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "puff",
+        "deftly",
+        "catches",
+        "float",
+        "cotton",
+        "spores",
+        "controls",
+        "wind"
+      ]
     },
     {
       "versionId": 16,
@@ -136,7 +324,17 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "offspring",
+        "spreads",
+        "drifts",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 17,
@@ -144,7 +342,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "scattering",
+        "globe",
+        "blown",
+        "circles",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 18,
@@ -152,7 +361,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "scattering",
+        "globe",
+        "blown",
+        "circles",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 21,
@@ -160,7 +380,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "scattering",
+        "globe",
+        "blown",
+        "circles",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 22,
@@ -168,7 +399,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "scattering",
+        "globe",
+        "blown",
+        "circles",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 23,
@@ -176,7 +418,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "seasonal",
+        "scattering",
+        "globe",
+        "blown",
+        "circles",
+        "cotton",
+        "spores",
+        "winds"
+      ]
     },
     {
       "versionId": 24,
@@ -184,7 +437,15 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "fiercest",
+        "fluff",
+        "wants",
+        "wind",
+        "place"
+      ]
     },
     {
       "versionId": 25,
@@ -192,7 +453,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "descends",
+        "foreign",
+        "cross",
+        "rides",
+        "southern",
+        "encounters",
+        "floating",
+        "lands",
+        "winds"
+      ]
     },
     {
       "versionId": 26,
@@ -200,7 +478,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "cold-climate",
+        "sky-dwelling",
+        "icy"
+      ],
+      "keywords": [
+        "descends",
+        "foreign",
+        "cross",
+        "rides",
+        "southern",
+        "encounters",
+        "floating",
+        "lands",
+        "winds"
+      ]
     }
   ],
   "similarPokemonIds": [

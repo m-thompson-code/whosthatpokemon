@@ -10,6 +10,25 @@
   ],
   "imagePath": "/assets/pokemon/1011.png",
   "entryCount": 2,
+  "entryTraits": [
+    "tail"
+  ],
+  "entryKeywords": [
+    "wyrm",
+    "fore",
+    "triggered",
+    "belongs",
+    "apple",
+    "sticking",
+    "creatures",
+    "share",
+    "grown",
+    "help",
+    "core",
+    "special",
+    "place",
+    "evolution"
+  ],
   "color": "green",
   "shape": "heads",
   "habitat": null,
@@ -40,7 +59,17 @@
       "versionDisplayName": "Scarlet",
       "versionGroup": "scarlet-violet",
       "text": "Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "triggered",
+        "apple",
+        "creatures",
+        "grown",
+        "special",
+        "place",
+        "evolution"
+      ]
     },
     {
       "versionId": 41,
@@ -48,7 +77,20 @@
       "versionDisplayName": "Violet",
       "versionGroup": "scarlet-violet",
       "text": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "tail"
+      ],
+      "keywords": [
+        "wyrm",
+        "fore",
+        "belongs",
+        "apple",
+        "sticking",
+        "share",
+        "help",
+        "core"
+      ]
     }
   ],
   "similarPokemonIds": [

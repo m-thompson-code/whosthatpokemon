@@ -9,6 +9,126 @@
   ],
   "imagePath": "/assets/pokemon/089.png",
   "entryCount": 30,
+  "entryTraits": [
+    "poisonous",
+    "forest-dwelling"
+  ],
+  "entryKeywords": [
+    "cumulates",
+    "decline",
+    "extermination",
+    "gath",
+    "improvements",
+    "intensify",
+    "reek",
+    "scrunch",
+    "undetectable",
+    "barren",
+    "bendingly",
+    "decreased",
+    "environmental",
+    "habitats",
+    "pool",
+    "rancid",
+    "repugnantly",
+    "speculate",
+    "ac",
+    "declined",
+    "degeneration",
+    "kitchen",
+    "son",
+    "summertime",
+    "awful",
+    "elements",
+    "fever",
+    "litter",
+    "poisoning",
+    "requires",
+    "stagnant",
+    "thickly",
+    "poi",
+    "sources",
+    "hardly",
+    "kills",
+    "putrid",
+    "wilt",
+    "er",
+    "leading",
+    "recent",
+    "substances",
+    "worse",
+    "accumulates",
+    "streets",
+    "throwing",
+    "blends",
+    "smelly",
+    "terrible",
+    "accidentally",
+    "bed",
+    "seeps",
+    "stinky",
+    "vile",
+    "everywhere",
+    "footprints",
+    "passes",
+    "germs",
+    "population",
+    "steep",
+    "towns",
+    "targeted",
+    "humid",
+    "ve",
+    "horrible",
+    "built",
+    "fans",
+    "extinction",
+    "filthy",
+    "point",
+    "numbers",
+    "foul",
+    "ponds",
+    "now",
+    "garbage",
+    "scatter",
+    "sharply",
+    "sludge",
+    "contain",
+    "fainting",
+    "leaks",
+    "certain",
+    "contact",
+    "rest",
+    "drop",
+    "thing",
+    "touching",
+    "love",
+    "think",
+    "stench",
+    "dirty",
+    "prevent",
+    "turn",
+    "smells",
+    "extinct",
+    "smell",
+    "contains",
+    "favorite",
+    "nothing",
+    "areas",
+    "instantly",
+    "plant",
+    "prefers",
+    "lost",
+    "plants",
+    "nose",
+    "still",
+    "fluid",
+    "sense",
+    "good",
+    "usually",
+    "gather",
+    "toxic",
+    "covered"
+  ],
   "color": "purple",
   "shape": "arms",
   "habitat": "urban",
@@ -38,7 +158,20 @@
       "versionDisplayName": "Red",
       "versionGroup": "red-blue",
       "text": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "thickly",
+        "vile",
+        "footprints",
+        "filthy",
+        "sludge",
+        "contain",
+        "toxic",
+        "covered"
+      ]
     },
     {
       "versionId": 2,
@@ -46,7 +179,20 @@
       "versionDisplayName": "Blue",
       "versionGroup": "red-blue",
       "text": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "thickly",
+        "vile",
+        "footprints",
+        "filthy",
+        "sludge",
+        "contain",
+        "toxic",
+        "covered"
+      ]
     },
     {
       "versionId": 3,
@@ -54,7 +200,17 @@
       "versionDisplayName": "Yellow",
       "versionGroup": "yellow",
       "text": "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "degeneration",
+        "awful",
+        "fainting",
+        "smells",
+        "smell",
+        "lost",
+        "sense"
+      ]
     },
     {
       "versionId": 4,
@@ -62,7 +218,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "They love to gath­ er in smelly areas where sludge ac­ cumulates, making the stench around them worse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "cumulates",
+        "gath",
+        "ac",
+        "er",
+        "worse",
+        "smelly",
+        "sludge",
+        "love",
+        "stench",
+        "areas"
+      ]
     },
     {
       "versionId": 5,
@@ -70,7 +239,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "Its body is made of a powerful poi­ son. Touching it accidentally will cause a fever that requires bed rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "son",
+        "fever",
+        "requires",
+        "poi",
+        "accidentally",
+        "bed",
+        "rest",
+        "touching"
+      ]
     },
     {
       "versionId": 6,
@@ -78,7 +258,14 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "As it moves, a very strong poison leaks from it, making the ground there barren for three years.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "barren",
+        "leaks"
+      ]
     },
     {
       "versionId": 7,
@@ -86,7 +273,22 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "From MUK’s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this POKéMON’s body fluid can turn a pool stagnant and rancid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bendingly",
+        "pool",
+        "rancid",
+        "stagnant",
+        "seeps",
+        "horrible",
+        "foul",
+        "drop",
+        "stench",
+        "turn",
+        "nose",
+        "fluid"
+      ]
     },
     {
       "versionId": 8,
@@ -94,7 +296,22 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "This POKéMON’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, MUK are certain to gather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "repugnantly",
+        "litter",
+        "streets",
+        "throwing",
+        "towns",
+        "filthy",
+        "certain",
+        "think",
+        "dirty",
+        "favorite",
+        "nothing",
+        "gather"
+      ]
     },
     {
       "versionId": 9,
@@ -102,7 +319,23 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making MUK reek like putrid kitchen garbage.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "intensify",
+        "reek",
+        "habitats",
+        "kitchen",
+        "summertime",
+        "putrid",
+        "substances",
+        "humid",
+        "garbage",
+        "prefers",
+        "toxic"
+      ]
     },
     {
       "versionId": 10,
@@ -110,7 +343,16 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "It is usually undetectable because it blends in with the ground. Touching it can cause terrible poisoning.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "undetectable",
+        "poisoning",
+        "blends",
+        "terrible",
+        "touching",
+        "usually"
+      ]
     },
     {
       "versionId": 11,
@@ -118,7 +360,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "thickly",
+        "vile",
+        "footprints",
+        "filthy",
+        "sludge",
+        "contain",
+        "toxic",
+        "covered"
+      ]
     },
     {
       "versionId": 12,
@@ -126,7 +381,20 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "kills",
+        "seeps",
+        "contact",
+        "instantly",
+        "plants",
+        "fluid",
+        "toxic"
+      ]
     },
     {
       "versionId": 13,
@@ -134,7 +402,20 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "kills",
+        "seeps",
+        "contact",
+        "instantly",
+        "plants",
+        "fluid",
+        "toxic"
+      ]
     },
     {
       "versionId": 14,
@@ -142,7 +423,20 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "kills",
+        "seeps",
+        "contact",
+        "instantly",
+        "plants",
+        "fluid",
+        "toxic"
+      ]
     },
     {
       "versionId": 15,
@@ -150,7 +444,18 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "worse",
+        "accumulates",
+        "smelly",
+        "sludge",
+        "love",
+        "stench",
+        "areas",
+        "gather"
+      ]
     },
     {
       "versionId": 16,
@@ -158,7 +463,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "fever",
+        "requires",
+        "accidentally",
+        "bed",
+        "rest",
+        "touching"
+      ]
     },
     {
       "versionId": 17,
@@ -166,7 +482,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "kills",
+        "seeps",
+        "contact",
+        "instantly",
+        "plants",
+        "fluid",
+        "toxic"
+      ]
     },
     {
       "versionId": 18,
@@ -174,7 +503,20 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "kills",
+        "seeps",
+        "contact",
+        "instantly",
+        "plants",
+        "fluid",
+        "toxic"
+      ]
     },
     {
       "versionId": 21,
@@ -182,7 +524,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "elements",
+        "wilt",
+        "stinky",
+        "passes",
+        "contains",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 22,
@@ -190,7 +544,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "elements",
+        "wilt",
+        "stinky",
+        "passes",
+        "contains",
+        "plant",
+        "toxic"
+      ]
     },
     {
       "versionId": 23,
@@ -198,7 +564,18 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "worse",
+        "accumulates",
+        "smelly",
+        "sludge",
+        "love",
+        "stench",
+        "areas",
+        "gather"
+      ]
     },
     {
       "versionId": 24,
@@ -206,7 +583,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "poisonous"
+      ],
+      "keywords": [
+        "kills",
+        "seeps",
+        "contact",
+        "instantly",
+        "plants",
+        "fluid",
+        "toxic"
+      ]
     },
     {
       "versionId": 25,
@@ -214,7 +604,22 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "From Muk’s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon’s body fluid can turn a pool stagnant and rancid.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "bendingly",
+        "pool",
+        "rancid",
+        "stagnant",
+        "seeps",
+        "horrible",
+        "foul",
+        "drop",
+        "stench",
+        "turn",
+        "nose",
+        "fluid"
+      ]
     },
     {
       "versionId": 26,
@@ -222,7 +627,22 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "This Pokémon’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "repugnantly",
+        "litter",
+        "streets",
+        "throwing",
+        "towns",
+        "filthy",
+        "certain",
+        "think",
+        "dirty",
+        "favorite",
+        "nothing",
+        "gather"
+      ]
     },
     {
       "versionId": 27,
@@ -230,7 +650,18 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "The stench it gives off will make your nose scrunch up. Still, there are Muk fans who think that’s a good thing.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "scrunch",
+        "fans",
+        "thing",
+        "think",
+        "stench",
+        "nose",
+        "still",
+        "good"
+      ]
     },
     {
       "versionId": 28,
@@ -238,7 +669,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "After recent environmental improvements, this Pokémon is now hardly seen at all. People speculate that it may go extinct at some point.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "improvements",
+        "environmental",
+        "speculate",
+        "hardly",
+        "recent",
+        "point",
+        "now",
+        "extinct"
+      ]
     },
     {
       "versionId": 29,
@@ -246,7 +688,20 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Their food sources have decreased, and their numbers have declined sharply. Sludge ponds are being built to prevent their extinction.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decreased",
+        "declined",
+        "sources",
+        "built",
+        "extinction",
+        "numbers",
+        "ponds",
+        "sharply",
+        "sludge",
+        "prevent"
+      ]
     },
     {
       "versionId": 30,
@@ -254,7 +709,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Because they scatter germs everywhere, they’ve long been targeted for extermination, leading to a steep decline in their population.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "decline",
+        "extermination",
+        "leading",
+        "everywhere",
+        "germs",
+        "population",
+        "steep",
+        "targeted",
+        "ve",
+        "scatter"
+      ]
     },
     {
       "versionId": 31,
@@ -262,7 +730,18 @@
       "versionDisplayName": "Let’s Go, Pikachu!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "degeneration",
+        "awful",
+        "fainting",
+        "smells",
+        "smell",
+        "lost",
+        "nose",
+        "sense"
+      ]
     },
     {
       "versionId": 32,
@@ -270,7 +749,18 @@
       "versionDisplayName": "Let’s Go, Eevee!",
       "versionGroup": "lets-go-pikachu-lets-go-eevee",
       "text": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "degeneration",
+        "awful",
+        "fainting",
+        "smells",
+        "smell",
+        "lost",
+        "nose",
+        "sense"
+      ]
     }
   ],
   "similarPokemonIds": [

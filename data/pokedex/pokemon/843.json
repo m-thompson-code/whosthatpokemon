@@ -9,6 +9,26 @@
   ],
   "imagePath": "/assets/pokemon/843.png",
   "entryCount": 2,
+  "entryTraits": [
+    "desert-dwelling",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "17",
+    "blinded",
+    "pounds",
+    "hold",
+    "spews",
+    "nostrils",
+    "pouch",
+    "swallows",
+    "burrows",
+    "digs",
+    "neck",
+    "hide",
+    "sand",
+    "stores"
+  ],
   "color": "green",
   "shape": "squiggle",
   "habitat": null,
@@ -39,7 +59,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "17",
+        "pounds",
+        "hold",
+        "pouch",
+        "swallows",
+        "digs",
+        "neck",
+        "sand",
+        "stores"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +82,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing"
+      ],
+      "keywords": [
+        "blinded",
+        "spews",
+        "nostrils",
+        "burrows",
+        "hide",
+        "sand"
+      ]
     }
   ],
   "similarPokemonIds": [

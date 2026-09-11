@@ -10,6 +10,38 @@
   ],
   "imagePath": "/assets/pokemon/679.png",
   "entryCount": 6,
+  "entryTraits": [
+    "arms"
+  ],
+  "entryKeywords": [
+    "handguard",
+    "killed",
+    "belonged",
+    "hilt",
+    "inhabits",
+    "departed",
+    "cloth",
+    "dares",
+    "grab",
+    "soul",
+    "drinks",
+    "sword",
+    "drains",
+    "attaches",
+    "true",
+    "completely",
+    "blue",
+    "person",
+    "arm",
+    "eye",
+    "wraps",
+    "old",
+    "anyone",
+    "force",
+    "spirit",
+    "apparently",
+    "born"
+  ],
   "color": "brown",
   "shape": "blob",
   "habitat": null,
@@ -39,7 +71,19 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inhabits",
+        "departed",
+        "drinks",
+        "sword",
+        "attaches",
+        "force",
+        "spirit",
+        "apparently",
+        "born"
+      ]
     },
     {
       "versionId": 24,
@@ -47,7 +91,23 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "If anyone dares to grab its hilt, it wraps a blue cloth around that person’s arm and drains that person’s life energy completely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "hilt",
+        "cloth",
+        "dares",
+        "grab",
+        "drains",
+        "completely",
+        "blue",
+        "person",
+        "arm",
+        "wraps",
+        "anyone"
+      ]
     },
     {
       "versionId": 25,
@@ -55,7 +115,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inhabits",
+        "departed",
+        "drinks",
+        "sword",
+        "attaches",
+        "force",
+        "spirit",
+        "apparently",
+        "born"
+      ]
     },
     {
       "versionId": 26,
@@ -63,7 +135,23 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "If anyone dares to grab its hilt, it wraps a blue cloth around that person’s arm and drains that person’s life energy completely.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "hilt",
+        "cloth",
+        "dares",
+        "grab",
+        "drains",
+        "completely",
+        "blue",
+        "person",
+        "arm",
+        "wraps",
+        "anyone"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +159,15 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "Honedge’s soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge’s body.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "killed",
+        "belonged",
+        "soul",
+        "sword",
+        "person"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +175,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "handguard",
+        "cloth",
+        "sword",
+        "drains",
+        "true",
+        "blue",
+        "eye",
+        "old"
+      ]
     }
   ],
   "similarPokemonIds": [

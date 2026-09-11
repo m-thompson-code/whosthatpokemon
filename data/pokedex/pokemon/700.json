@@ -9,6 +9,65 @@
   ],
   "imagePath": "/assets/pokemon/700.png",
   "entryCount": 11,
+  "entryTraits": [
+    "arms",
+    "hunting",
+    "aquatic"
+  ],
+  "entryKeywords": [
+    "describes",
+    "distraction",
+    "dreadful",
+    "enmity",
+    "quarrelers",
+    "sights",
+    "swirls",
+    "unflinchingly",
+    "vanquishing",
+    "erasing",
+    "tale",
+    "appendages",
+    "beloved",
+    "galarian",
+    "ribbon",
+    "restore",
+    "pounces",
+    "fairy",
+    "hostility",
+    "soothing",
+    "later",
+    "ribbonlike",
+    "dragon",
+    "releasing",
+    "situation",
+    "conflict",
+    "weakens",
+    "breaks",
+    "read",
+    "organs",
+    "feelers",
+    "guard",
+    "moment",
+    "sends",
+    "aura",
+    "stops",
+    "arm",
+    "calm",
+    "charge",
+    "enables",
+    "wraps",
+    "let",
+    "causing",
+    "walks",
+    "fights",
+    "feelings",
+    "touch",
+    "instantly",
+    "shaped",
+    "beautiful",
+    "larger",
+    "emits"
+  ],
   "color": "pink",
   "shape": "quadruped",
   "habitat": null,
@@ -38,7 +97,17 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soothing",
+        "ribbonlike",
+        "feelers",
+        "sends",
+        "aura",
+        "calm",
+        "fights"
+      ]
     },
     {
       "versionId": 24,
@@ -46,7 +115,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "beloved",
+        "ribbonlike",
+        "feelers",
+        "arm",
+        "wraps",
+        "walks"
+      ]
     },
     {
       "versionId": 25,
@@ -54,7 +134,17 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "soothing",
+        "ribbonlike",
+        "feelers",
+        "sends",
+        "aura",
+        "calm",
+        "fights"
+      ]
     },
     {
       "versionId": 26,
@@ -62,7 +152,18 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "beloved",
+        "ribbonlike",
+        "feelers",
+        "arm",
+        "wraps",
+        "walks"
+      ]
     },
     {
       "versionId": 27,
@@ -70,7 +171,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "hostility",
+        "ribbonlike",
+        "weakens",
+        "feelers",
+        "guard",
+        "aura",
+        "let",
+        "causing"
+      ]
     },
     {
       "versionId": 28,
@@ -78,7 +192,20 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "When this Pokémon sights its prey, it swirls its ribbonlike feelers as a distraction. A moment later, it pounces.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "distraction",
+        "sights",
+        "swirls",
+        "pounces",
+        "later",
+        "ribbonlike",
+        "feelers",
+        "moment"
+      ]
     },
     {
       "versionId": 29,
@@ -86,7 +213,15 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Once a fight breaks out, it will unflinchingly charge at dragon Pokémon that are many times larger than itself.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "unflinchingly",
+        "dragon",
+        "breaks",
+        "charge",
+        "larger"
+      ]
     },
     {
       "versionId": 30,
@@ -94,7 +229,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Sylveon wraps its ribbonlike feelers around its Trainer’s arm because this touch enables it to read its Trainer’s feelings.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "arms"
+      ],
+      "keywords": [
+        "ribbonlike",
+        "read",
+        "feelers",
+        "arm",
+        "enables",
+        "wraps",
+        "feelings",
+        "touch"
+      ]
     },
     {
       "versionId": 33,
@@ -102,7 +250,19 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "enmity",
+        "erasing",
+        "ribbonlike",
+        "releasing",
+        "conflict",
+        "feelers",
+        "stops"
+      ]
     },
     {
       "versionId": 34,
@@ -110,7 +270,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "There’s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "describes",
+        "dreadful",
+        "vanquishing",
+        "tale",
+        "galarian",
+        "fairy",
+        "dragon",
+        "beautiful"
+      ]
     },
     {
       "versionId": 39,
@@ -118,7 +289,23 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "It emits a soothing aura from its ribbon-shaped organs. It wraps these appendages around quarrelers to instantly restore calm to the situation.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "quarrelers",
+        "appendages",
+        "ribbon",
+        "restore",
+        "soothing",
+        "situation",
+        "organs",
+        "aura",
+        "calm",
+        "wraps",
+        "instantly",
+        "shaped",
+        "emits"
+      ]
     }
   ],
   "similarPokemonIds": [

@@ -10,6 +10,28 @@
   ],
   "imagePath": "/assets/pokemon/848.png",
   "entryCount": 2,
+  "entryTraits": [
+    "poisonous",
+    "electric"
+  ],
+  "entryKeywords": [
+    "manipulates",
+    "tingling",
+    "follows",
+    "chemical",
+    "paralysis",
+    "makeup",
+    "voltage",
+    "sensation",
+    "produce",
+    "secretes",
+    "internal",
+    "sac",
+    "touch",
+    "weak",
+    "stores",
+    "skin"
+  ],
   "color": "purple",
   "shape": "upright",
   "habitat": null,
@@ -39,7 +61,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "tingling",
+        "follows",
+        "sensation",
+        "secretes",
+        "internal",
+        "sac",
+        "touch",
+        "stores",
+        "skin"
+      ]
     },
     {
       "versionId": 34,
@@ -47,7 +83,21 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric",
+        "poisonous"
+      ],
+      "keywords": [
+        "manipulates",
+        "tingling",
+        "chemical",
+        "paralysis",
+        "makeup",
+        "voltage",
+        "produce",
+        "weak"
+      ]
     }
   ],
   "similarPokemonIds": [

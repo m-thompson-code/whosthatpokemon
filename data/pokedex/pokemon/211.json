@@ -10,6 +10,57 @@
   ],
   "imagePath": "/assets/pokemon/211.png",
   "entryCount": 24,
+  "entryTraits": [
+    "aquatic",
+    "fiery",
+    "poisonous"
+  ],
+  "entryKeywords": [
+    "fishers",
+    "ject",
+    "detest",
+    "faced",
+    "troublesome",
+    "inflating",
+    "gallons",
+    "everywhere",
+    "quills",
+    "swallowed",
+    "inject",
+    "toxin",
+    "6",
+    "challenging",
+    "drinking",
+    "somewhat",
+    "inflate",
+    "poor",
+    "directions",
+    "match",
+    "fainting",
+    "pressure",
+    "2",
+    "spines",
+    "getting",
+    "sucks",
+    "sprays",
+    "swimmer",
+    "regions",
+    "shoot",
+    "covering",
+    "swallows",
+    "round",
+    "finds",
+    "size",
+    "shoots",
+    "larger",
+    "causes",
+    "scales",
+    "different",
+    "spikes",
+    "swimming",
+    "toxic",
+    "developed"
+  ],
   "color": "gray",
   "shape": "fish",
   "habitat": "sea",
@@ -39,7 +90,20 @@
       "versionDisplayName": "Gold",
       "versionGroup": "gold-silver",
       "text": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery",
+        "poisonous"
+      ],
+      "keywords": [
+        "gallons",
+        "6",
+        "drinking",
+        "inflate",
+        "2",
+        "spikes"
+      ]
     },
     {
       "versionId": 5,
@@ -47,7 +111,18 @@
       "versionDisplayName": "Silver",
       "versionGroup": "gold-silver",
       "text": "The small spikes covering its body developed from scales. They in­ ject a toxin that causes fainting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "ject",
+        "toxin",
+        "fainting",
+        "covering",
+        "causes",
+        "scales",
+        "spikes",
+        "developed"
+      ]
     },
     {
       "versionId": 6,
@@ -55,7 +130,17 @@
       "versionDisplayName": "Crystal",
       "versionGroup": "crystal",
       "text": "When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "faced",
+        "match",
+        "swallows",
+        "size",
+        "larger"
+      ]
     },
     {
       "versionId": 7,
@@ -63,7 +148,24 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "inflating",
+        "quills",
+        "swallowed",
+        "challenging",
+        "somewhat",
+        "pressure",
+        "sucks",
+        "shoot",
+        "finds",
+        "swimming",
+        "toxic"
+      ]
     },
     {
       "versionId": 8,
@@ -71,7 +173,24 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "inflating",
+        "quills",
+        "swallowed",
+        "challenging",
+        "somewhat",
+        "pressure",
+        "sucks",
+        "shoot",
+        "finds",
+        "swimming",
+        "toxic"
+      ]
     },
     {
       "versionId": 9,
@@ -79,7 +198,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "A QWILFISH uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "quills",
+        "challenging",
+        "somewhat",
+        "pressure",
+        "shoot",
+        "swallows",
+        "finds",
+        "swimming",
+        "toxic"
+      ]
     },
     {
       "versionId": 10,
@@ -87,7 +221,18 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inject",
+        "toxin",
+        "fainting",
+        "covering",
+        "causes",
+        "scales",
+        "spikes",
+        "developed"
+      ]
     },
     {
       "versionId": 11,
@@ -95,7 +240,20 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery",
+        "poisonous"
+      ],
+      "keywords": [
+        "gallons",
+        "6",
+        "drinking",
+        "inflate",
+        "2",
+        "spikes"
+      ]
     },
     {
       "versionId": 12,
@@ -103,7 +261,18 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "poor",
+        "directions",
+        "spines",
+        "swimmer",
+        "round",
+        "shoots"
+      ]
     },
     {
       "versionId": 13,
@@ -111,7 +280,18 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "poor",
+        "directions",
+        "spines",
+        "swimmer",
+        "round",
+        "shoots"
+      ]
     },
     {
       "versionId": 14,
@@ -119,7 +299,18 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "poor",
+        "directions",
+        "spines",
+        "swimmer",
+        "round",
+        "shoots"
+      ]
     },
     {
       "versionId": 15,
@@ -127,7 +318,20 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery",
+        "poisonous"
+      ],
+      "keywords": [
+        "gallons",
+        "6",
+        "drinking",
+        "inflate",
+        "2",
+        "spikes"
+      ]
     },
     {
       "versionId": 16,
@@ -135,7 +339,18 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inject",
+        "toxin",
+        "fainting",
+        "covering",
+        "causes",
+        "scales",
+        "spikes",
+        "developed"
+      ]
     },
     {
       "versionId": 17,
@@ -143,7 +358,18 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "poor",
+        "directions",
+        "spines",
+        "swimmer",
+        "round",
+        "shoots"
+      ]
     },
     {
       "versionId": 18,
@@ -151,7 +377,18 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "poor",
+        "directions",
+        "spines",
+        "swimmer",
+        "round",
+        "shoots"
+      ]
     },
     {
       "versionId": 21,
@@ -159,7 +396,18 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "poor",
+        "directions",
+        "spines",
+        "swimmer",
+        "round",
+        "shoots"
+      ]
     },
     {
       "versionId": 22,
@@ -167,7 +415,18 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "poor",
+        "directions",
+        "spines",
+        "swimmer",
+        "round",
+        "shoots"
+      ]
     },
     {
       "versionId": 23,
@@ -175,7 +434,20 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery",
+        "poisonous"
+      ],
+      "keywords": [
+        "gallons",
+        "6",
+        "drinking",
+        "inflate",
+        "2",
+        "spikes"
+      ]
     },
     {
       "versionId": 24,
@@ -183,7 +455,18 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inject",
+        "toxin",
+        "fainting",
+        "covering",
+        "causes",
+        "scales",
+        "spikes",
+        "developed"
+      ]
     },
     {
       "versionId": 25,
@@ -191,7 +474,24 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "inflating",
+        "quills",
+        "swallowed",
+        "challenging",
+        "somewhat",
+        "pressure",
+        "sucks",
+        "shoot",
+        "finds",
+        "swimming",
+        "toxic"
+      ]
     },
     {
       "versionId": 26,
@@ -199,7 +499,24 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "poisonous"
+      ],
+      "keywords": [
+        "inflating",
+        "quills",
+        "swallowed",
+        "challenging",
+        "somewhat",
+        "pressure",
+        "sucks",
+        "shoot",
+        "finds",
+        "swimming",
+        "toxic"
+      ]
     },
     {
       "versionId": 33,
@@ -207,7 +524,17 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "When faced with a larger opponent, it swallows as much water as it can to match the opponent’s size.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic"
+      ],
+      "keywords": [
+        "faced",
+        "match",
+        "swallows",
+        "size",
+        "larger"
+      ]
     },
     {
       "versionId": 34,
@@ -215,7 +542,18 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "inject",
+        "toxin",
+        "fainting",
+        "covering",
+        "causes",
+        "scales",
+        "spikes",
+        "developed"
+      ]
     },
     {
       "versionId": 39,
@@ -223,7 +561,21 @@
       "versionDisplayName": "Legends: Arceus",
       "versionGroup": "legends-arceus",
       "text": "Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "poisonous"
+      ],
+      "keywords": [
+        "fishers",
+        "detest",
+        "troublesome",
+        "everywhere",
+        "spines",
+        "getting",
+        "sprays",
+        "regions",
+        "different"
+      ]
     }
   ],
   "similarPokemonIds": [

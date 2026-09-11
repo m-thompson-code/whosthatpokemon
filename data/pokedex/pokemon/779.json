@@ -10,6 +10,42 @@
   ],
   "imagePath": "/assets/pokemon/779.png",
   "entryCount": 4,
+  "entryTraits": [
+    "fangs",
+    "psychic",
+    "sonic",
+    "shell",
+    "hunting",
+    "desert-dwelling",
+    "burrowing"
+  ],
+  "entryKeywords": [
+    "grating",
+    "grinds",
+    "radiating",
+    "surveys",
+    "crunches",
+    "grinding",
+    "mush",
+    "protuberance",
+    "fend",
+    "stuns",
+    "psychokinesis",
+    "robust",
+    "mareanie",
+    "echoes",
+    "unleashes",
+    "match",
+    "teeth",
+    "beneath",
+    "shellder",
+    "waits",
+    "burrows",
+    "area",
+    "spikes",
+    "sand",
+    "skin"
+  ],
   "color": "pink",
   "shape": "fish",
   "habitat": null,
@@ -39,7 +75,21 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "psychic",
+        "sonic"
+      ],
+      "keywords": [
+        "grating",
+        "grinding",
+        "protuberance",
+        "echoes",
+        "unleashes",
+        "teeth",
+        "area"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +97,21 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder’s shell is no match for it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fangs",
+        "shell",
+        "hunting"
+      ],
+      "keywords": [
+        "grinds",
+        "mush",
+        "stuns",
+        "psychokinesis",
+        "match",
+        "teeth",
+        "shellder"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +119,23 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "desert-dwelling",
+        "burrowing",
+        "hunting",
+        "psychic"
+      ],
+      "keywords": [
+        "radiating",
+        "surveys",
+        "protuberance",
+        "beneath",
+        "waits",
+        "burrows",
+        "area",
+        "sand"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +143,19 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "fangs"
+      ],
+      "keywords": [
+        "crunches",
+        "fend",
+        "robust",
+        "mareanie",
+        "teeth",
+        "spikes",
+        "skin"
+      ]
     }
   ],
   "similarPokemonIds": [

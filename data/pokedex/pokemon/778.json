@@ -10,6 +10,57 @@
   ],
   "imagePath": "/assets/pokemon/778.png",
   "entryCount": 6,
+  "entryTraits": [
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "costume",
+    "creepier",
+    "painfully",
+    "peeked",
+    "disease",
+    "scholar",
+    "unfortunately",
+    "fashioned",
+    "overwhelmed",
+    "lonely",
+    "rag",
+    "scientist",
+    "terror",
+    "gust",
+    "terrifying",
+    "actual",
+    "resist",
+    "passing",
+    "saw",
+    "less",
+    "name",
+    "died",
+    "pikachu",
+    "revealed",
+    "closer",
+    "scary",
+    "conceals",
+    "went",
+    "agitated",
+    "violently",
+    "effort",
+    "wears",
+    "unknown",
+    "research",
+    "beneath",
+    "quiet",
+    "home",
+    "old",
+    "try",
+    "wind",
+    "appearance",
+    "shock",
+    "look",
+    "mysterious",
+    "hides",
+    "although"
+  ],
   "color": "yellow",
   "shape": "squiggle",
   "habitat": null,
@@ -39,7 +90,20 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by terror and died from the shock.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "scholar",
+        "overwhelmed",
+        "rag",
+        "terror",
+        "actual",
+        "saw",
+        "died",
+        "unknown",
+        "appearance",
+        "shock"
+      ]
     },
     {
       "versionId": 28,
@@ -47,7 +111,18 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lonely",
+        "rag",
+        "terrifying",
+        "closer",
+        "conceals",
+        "beneath",
+        "old",
+        "appearance"
+      ]
     },
     {
       "versionId": 29,
@@ -55,7 +130,19 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s a quiet, lonely Pokémon, if you try to look at what’s under its rag, it will become agitated and resist violently.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "lonely",
+        "rag",
+        "resist",
+        "agitated",
+        "violently",
+        "quiet",
+        "try",
+        "look",
+        "although"
+      ]
     },
     {
       "versionId": 30,
@@ -63,7 +150,22 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "A gust of wind revealed what hides under this Pokémon’s rag to a passing Trainer, who went home and died painfully that very night.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "nocturnal"
+      ],
+      "keywords": [
+        "painfully",
+        "rag",
+        "gust",
+        "passing",
+        "died",
+        "revealed",
+        "went",
+        "home",
+        "wind",
+        "hides"
+      ]
     },
     {
       "versionId": 33,
@@ -71,7 +173,21 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It wears a rag fashioned into a Pikachu costume in an effort to look less scary. Unfortunately, the costume only makes it creepier.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "costume",
+        "creepier",
+        "unfortunately",
+        "fashioned",
+        "rag",
+        "less",
+        "pikachu",
+        "scary",
+        "effort",
+        "wears",
+        "look"
+      ]
     },
     {
       "versionId": 34,
@@ -79,7 +195,19 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "peeked",
+        "disease",
+        "rag",
+        "scientist",
+        "name",
+        "died",
+        "research",
+        "old",
+        "mysterious"
+      ]
     }
   ],
   "similarPokemonIds": [

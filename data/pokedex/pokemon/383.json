@@ -9,6 +9,71 @@
   ],
   "imagePath": "/assets/pokemon/383.png",
   "entryCount": 18,
+  "entryTraits": [
+    "sleeping",
+    "aquatic",
+    "sky-dwelling",
+    "fiery",
+    "luminous",
+    "cave-dwelling"
+  ],
+  "entryKeywords": [
+    "evaporate",
+    "floods",
+    "landmass",
+    "cataclysmic",
+    "personification",
+    "primal",
+    "reversion",
+    "savior",
+    "creator",
+    "evaporating",
+    "sought",
+    "titanically",
+    "awakening",
+    "dueling",
+    "clashes",
+    "continents",
+    "took",
+    "expanded",
+    "suffering",
+    "fought",
+    "raging",
+    "battled",
+    "terrible",
+    "represent",
+    "expand",
+    "erupt",
+    "mythology",
+    "gain",
+    "raised",
+    "described",
+    "kyogre",
+    "fiercely",
+    "appeared",
+    "volcanoes",
+    "scatter",
+    "went",
+    "true",
+    "legends",
+    "lands",
+    "clouds",
+    "ever",
+    "had",
+    "tell",
+    "asleep",
+    "came",
+    "rain",
+    "since",
+    "magma",
+    "against",
+    "sleeps",
+    "underground",
+    "legendary",
+    "full",
+    "heat",
+    "nature"
+  ],
   "color": "red",
   "shape": "upright",
   "habitat": "rough-terrain",
@@ -38,7 +103,21 @@
       "versionDisplayName": "Ruby",
       "versionGroup": "ruby-sapphire",
       "text": "GROUDON has long been described in mythology as the POKéMON that raised lands and expanded continents. This POKéMON took to sleep after a cataclysmic battle with KYOGRE.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "cataclysmic",
+        "continents",
+        "took",
+        "expanded",
+        "mythology",
+        "raised",
+        "described",
+        "kyogre",
+        "lands"
+      ]
     },
     {
       "versionId": 8,
@@ -46,7 +125,26 @@
       "versionDisplayName": "Sapphire",
       "versionGroup": "ruby-sapphire",
       "text": "GROUDON has the power to scatter rain clouds and make water evaporate with light and heat. It came as a savior to people who had been suffering from terrible floods.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "aquatic",
+        "sky-dwelling",
+        "fiery",
+        "luminous"
+      ],
+      "keywords": [
+        "evaporate",
+        "floods",
+        "savior",
+        "suffering",
+        "terrible",
+        "scatter",
+        "clouds",
+        "had",
+        "came",
+        "rain",
+        "heat"
+      ]
     },
     {
       "versionId": 9,
@@ -54,7 +152,22 @@
       "versionDisplayName": "Emerald",
       "versionGroup": "emerald",
       "text": "GROUDON has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [
+        "cave-dwelling",
+        "sleeping"
+      ],
+      "keywords": [
+        "creator",
+        "awakening",
+        "erupt",
+        "mythology",
+        "appeared",
+        "volcanoes",
+        "magma",
+        "sleeps",
+        "underground"
+      ]
     },
     {
       "versionId": 10,
@@ -62,7 +175,17 @@
       "versionDisplayName": "FireRed",
       "versionGroup": "firered-leafgreen",
       "text": "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "dueling",
+        "represent",
+        "kyogre",
+        "went",
+        "legendary"
+      ]
     },
     {
       "versionId": 11,
@@ -70,7 +193,17 @@
       "versionDisplayName": "LeafGreen",
       "versionGroup": "firered-leafgreen",
       "text": "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "dueling",
+        "represent",
+        "kyogre",
+        "went",
+        "legendary"
+      ]
     },
     {
       "versionId": 12,
@@ -78,7 +211,21 @@
       "versionDisplayName": "Diamond",
       "versionGroup": "diamond-pearl",
       "text": "It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "fought",
+        "kyogre",
+        "fiercely",
+        "ever",
+        "had",
+        "asleep",
+        "since",
+        "magma",
+        "underground"
+      ]
     },
     {
       "versionId": 13,
@@ -86,7 +233,21 @@
       "versionDisplayName": "Pearl",
       "versionGroup": "diamond-pearl",
       "text": "It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "fought",
+        "kyogre",
+        "fiercely",
+        "ever",
+        "had",
+        "asleep",
+        "since",
+        "magma",
+        "underground"
+      ]
     },
     {
       "versionId": 14,
@@ -94,7 +255,21 @@
       "versionDisplayName": "Platinum",
       "versionGroup": "platinum",
       "text": "It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "fought",
+        "kyogre",
+        "fiercely",
+        "ever",
+        "had",
+        "asleep",
+        "since",
+        "magma",
+        "underground"
+      ]
     },
     {
       "versionId": 15,
@@ -102,7 +277,21 @@
       "versionDisplayName": "HeartGold",
       "versionGroup": "heartgold-soulsilver",
       "text": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "evaporating",
+        "titanically",
+        "expanded",
+        "raging",
+        "battled",
+        "kyogre",
+        "lands",
+        "heat"
+      ]
     },
     {
       "versionId": 16,
@@ -110,7 +299,21 @@
       "versionDisplayName": "SoulSilver",
       "versionGroup": "heartgold-soulsilver",
       "text": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "evaporating",
+        "titanically",
+        "expanded",
+        "raging",
+        "battled",
+        "kyogre",
+        "lands",
+        "heat"
+      ]
     },
     {
       "versionId": 17,
@@ -118,7 +321,21 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "fought",
+        "kyogre",
+        "fiercely",
+        "ever",
+        "had",
+        "asleep",
+        "since",
+        "magma",
+        "underground"
+      ]
     },
     {
       "versionId": 18,
@@ -126,7 +343,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "fought",
+        "kyogre",
+        "fiercely",
+        "ever",
+        "had",
+        "asleep",
+        "since",
+        "magma",
+        "underground"
+      ]
     },
     {
       "versionId": 21,
@@ -134,7 +365,21 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "fought",
+        "kyogre",
+        "fiercely",
+        "ever",
+        "had",
+        "asleep",
+        "since",
+        "magma",
+        "underground"
+      ]
     },
     {
       "versionId": 22,
@@ -142,7 +387,21 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "cave-dwelling"
+      ],
+      "keywords": [
+        "fought",
+        "kyogre",
+        "fiercely",
+        "ever",
+        "had",
+        "asleep",
+        "since",
+        "magma",
+        "underground"
+      ]
     },
     {
       "versionId": 23,
@@ -150,7 +409,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "aquatic",
+        "fiery"
+      ],
+      "keywords": [
+        "evaporating",
+        "titanically",
+        "expanded",
+        "raging",
+        "battled",
+        "kyogre",
+        "lands",
+        "heat"
+      ]
     },
     {
       "versionId": 24,
@@ -158,7 +431,17 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "sleeping"
+      ],
+      "keywords": [
+        "dueling",
+        "represent",
+        "kyogre",
+        "went",
+        "legendary"
+      ]
     },
     {
       "versionId": 25,
@@ -166,7 +449,19 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
-      "revealsName": true
+      "revealsName": true,
+      "traits": [],
+      "keywords": [
+        "personification",
+        "sought",
+        "clashes",
+        "gain",
+        "kyogre",
+        "legends",
+        "tell",
+        "against",
+        "nature"
+      ]
     },
     {
       "versionId": 26,
@@ -174,7 +469,19 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "landmass",
+        "primal",
+        "reversion",
+        "expand",
+        "erupt",
+        "true",
+        "magma",
+        "full",
+        "nature"
+      ]
     }
   ],
   "similarPokemonIds": [

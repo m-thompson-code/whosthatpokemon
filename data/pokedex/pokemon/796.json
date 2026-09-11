@@ -9,6 +9,42 @@
   ],
   "imagePath": "/assets/pokemon/796.png",
   "entryCount": 4,
+  "entryTraits": [
+    "electric",
+    "forest-dwelling",
+    "arms"
+  ],
+  "entryKeywords": [
+    "energizes",
+    "raided",
+    "astonishing",
+    "dubbed",
+    "emanate",
+    "witnesses",
+    "organism",
+    "wormhole",
+    "beasts",
+    "shocks",
+    "unmoving",
+    "stuck",
+    "here",
+    "ve",
+    "alien",
+    "appeared",
+    "ultra",
+    "normally",
+    "common",
+    "think",
+    "forms",
+    "according",
+    "stand",
+    "plant",
+    "electric",
+    "mysterious",
+    "entire",
+    "although",
+    "apparently"
+  ],
   "color": "black",
   "shape": "upright",
   "habitat": null,
@@ -38,7 +74,23 @@
       "versionDisplayName": "Sun",
       "versionGroup": "sun-moon",
       "text": "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "astonishing",
+        "emanate",
+        "witnesses",
+        "beasts",
+        "shocks",
+        "ultra",
+        "forms",
+        "according",
+        "electric",
+        "mysterious",
+        "entire"
+      ]
     },
     {
       "versionId": 28,
@@ -46,7 +98,19 @@
       "versionDisplayName": "Moon",
       "versionGroup": "sun-moon",
       "text": "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "energizes",
+        "raided",
+        "wormhole",
+        "appeared",
+        "ultra",
+        "think",
+        "plant"
+      ]
     },
     {
       "versionId": 29,
@@ -54,7 +118,17 @@
       "versionDisplayName": "Ultra Sun",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "organism",
+        "here",
+        "alien",
+        "normally",
+        "common",
+        "although",
+        "apparently"
+      ]
     },
     {
       "versionId": 30,
@@ -62,7 +136,20 @@
       "versionDisplayName": "Ultra Moon",
       "versionGroup": "ultra-sun-ultra-moon",
       "text": "They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "forest-dwelling",
+        "arms"
+      ],
+      "keywords": [
+        "dubbed",
+        "beasts",
+        "unmoving",
+        "stuck",
+        "ve",
+        "ultra",
+        "stand"
+      ]
     }
   ],
   "similarPokemonIds": [

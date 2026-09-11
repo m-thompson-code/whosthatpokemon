@@ -10,6 +10,56 @@
   ],
   "imagePath": "/assets/pokemon/596.png",
   "entryCount": 10,
+  "entryTraits": [
+    "electric",
+    "hunting",
+    "fur",
+    "nocturnal"
+  ],
+  "entryKeywords": [
+    "snare",
+    "aiming",
+    "barriers",
+    "barrier",
+    "employ",
+    "leisurely",
+    "spitting",
+    "abdomen",
+    "electrified",
+    "stun",
+    "chicks",
+    "immobilized",
+    "paralysis",
+    "threads",
+    "traps",
+    "electrically",
+    "trap",
+    "works",
+    "consume",
+    "lays",
+    "defense",
+    "weapon",
+    "web",
+    "hit",
+    "charged",
+    "means",
+    "launches",
+    "yet",
+    "silk",
+    "nests",
+    "nights",
+    "shock",
+    "near",
+    "days",
+    "electric",
+    "attacked",
+    "create",
+    "creates",
+    "full",
+    "good",
+    "well",
+    "bird"
+  ],
   "color": "yellow",
   "shape": "armor",
   "habitat": null,
@@ -39,7 +89,20 @@
       "versionDisplayName": "Black",
       "versionGroup": "black-white",
       "text": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "barrier",
+        "spitting",
+        "threads",
+        "electrically",
+        "charged",
+        "electric",
+        "attacked",
+        "create"
+      ]
     },
     {
       "versionId": 18,
@@ -47,7 +110,21 @@
       "versionDisplayName": "White",
       "versionGroup": "black-white",
       "text": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "employ",
+        "leisurely",
+        "immobilized",
+        "electrically",
+        "trap",
+        "consume",
+        "web",
+        "charged",
+        "shock"
+      ]
     },
     {
       "versionId": 21,
@@ -55,7 +132,19 @@
       "versionDisplayName": "Black 2",
       "versionGroup": "black-2-white-2",
       "text": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "barriers",
+        "electrified",
+        "stun",
+        "works",
+        "defense",
+        "weapon",
+        "silk",
+        "creates",
+        "well"
+      ]
     },
     {
       "versionId": 22,
@@ -63,7 +152,19 @@
       "versionDisplayName": "White 2",
       "versionGroup": "black-2-white-2",
       "text": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "barriers",
+        "electrified",
+        "stun",
+        "works",
+        "defense",
+        "weapon",
+        "silk",
+        "creates",
+        "well"
+      ]
     },
     {
       "versionId": 23,
@@ -71,7 +172,21 @@
       "versionDisplayName": "X",
       "versionGroup": "x-y",
       "text": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "employ",
+        "leisurely",
+        "immobilized",
+        "electrically",
+        "trap",
+        "consume",
+        "web",
+        "charged",
+        "shock"
+      ]
     },
     {
       "versionId": 24,
@@ -79,7 +194,20 @@
       "versionDisplayName": "Y",
       "versionGroup": "x-y",
       "text": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "barrier",
+        "spitting",
+        "threads",
+        "electrically",
+        "charged",
+        "electric",
+        "attacked",
+        "create"
+      ]
     },
     {
       "versionId": 25,
@@ -87,7 +215,21 @@
       "versionDisplayName": "Omega Ruby",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "hunting"
+      ],
+      "keywords": [
+        "employ",
+        "leisurely",
+        "immobilized",
+        "electrically",
+        "trap",
+        "consume",
+        "web",
+        "charged",
+        "shock"
+      ]
     },
     {
       "versionId": 26,
@@ -95,7 +237,20 @@
       "versionDisplayName": "Alpha Sapphire",
       "versionGroup": "omega-ruby-alpha-sapphire",
       "text": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "electric"
+      ],
+      "keywords": [
+        "barrier",
+        "spitting",
+        "threads",
+        "electrically",
+        "charged",
+        "electric",
+        "attacked",
+        "create"
+      ]
     },
     {
       "versionId": 33,
@@ -103,7 +258,22 @@
       "versionDisplayName": "Sword",
       "versionGroup": "sword-shield",
       "text": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [
+        "fur",
+        "nocturnal"
+      ],
+      "keywords": [
+        "abdomen",
+        "electrified",
+        "paralysis",
+        "hit",
+        "means",
+        "launches",
+        "nights",
+        "days",
+        "full"
+      ]
     },
     {
       "versionId": 34,
@@ -111,7 +281,22 @@
       "versionDisplayName": "Shield",
       "versionGroup": "sword-shield",
       "text": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
-      "revealsName": false
+      "revealsName": false,
+      "traits": [],
+      "keywords": [
+        "snare",
+        "aiming",
+        "electrified",
+        "chicks",
+        "threads",
+        "traps",
+        "lays",
+        "yet",
+        "nests",
+        "near",
+        "good",
+        "bird"
+      ]
     }
   ],
   "similarPokemonIds": [
