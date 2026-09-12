@@ -1,4 +1,4 @@
-import { ArrowLeft, BookOpen } from "lucide-react";
+import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 
 import { PokedexBrowser } from "@/features/pokedex/pokedex-browser";
@@ -14,7 +14,7 @@ const PokedexPage = () => {
           <ArrowLeft aria-hidden="true" size={18} /> Back to game
         </Link>
         <div className="pokedex-title">
-          <BookOpen aria-hidden="true" />
+          <span aria-hidden="true" className="pokeball-icon" />
           <div>
             <p className="eyebrow">National archive</p>
             <h1>Pokédex</h1>

@@ -24,10 +24,15 @@ type RoomGameProps = {
 };
 
 export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
+  const briefingKey = `whosthatpokemon.room-briefing.${roomId}.${room.roundNumber}`;
+  const [isBriefingOpen, setIsBriefingOpen] = useState(() =>
+    typeof window !== "undefined" && room.roundNumber === 1 && !window.sessionStorage.getItem(briefingKey),
+  );
   const [submittingId, setSubmittingId] = useState<number | null>(null);
   const [isWorking, setIsWorking] = useState(false);
   const [error, setError] = useState("");
   const resolvedRoundRef = useRef<string | null>(null);
+  const celebratedRoundRef = useRef<number | null>(null);
   const isHost = room.hostId === uid;
   const answerSubmissions = room.answerSubmissions ?? {};
   const activePlayers = players.filter((player) => player.team === room.activeTeam && !player.eliminated);
@@ -47,13 +52,21 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
 
   useEffect(() => {
     if (room.status !== RoomStatus.Finished || room.winner === Winner.Tie) return;
-    confetti({
-      particleCount: 150,
-      spread: 80,
-      origin: { y: .65 },
-      colors: room.winner === Winner.TeamA ? ["#f0443b", "#f4c542", "#f5f2e8"] : ["#4387c6", "#f4c542", "#f5f2e8"],
-    });
+    const colors = room.winner === Winner.TeamA ? ["#f0443b", "#f4c542", "#f5f2e8"] : ["#4387c6", "#f4c542", "#f5f2e8"];
+    confetti({ particleCount: 380, spread: 120, origin: { x: .2, y: .72 }, colors });
+    confetti({ particleCount: 380, spread: 120, origin: { x: .8, y: .72 }, colors });
   }, [room.status, room.winner]);
+
+  useEffect(() => {
+    const result = room.lastResult;
+    if (room.roundPhase !== RoomPhase.Reveal || !result || celebratedRoundRef.current === result.roundNumber) return;
+    celebratedRoundRef.current = result.roundNumber;
+    if (!result.submissions.some((submission) => submission.correct)) return;
+
+    const colors = result.answeredTeam === Team.TeamA ? ["#f0443b", "#f4c542", "#f5f2e8"] : ["#4387c6", "#f4c542", "#f5f2e8"];
+    confetti({ particleCount: 240, spread: 105, origin: { x: .25, y: .72 }, colors });
+    confetti({ particleCount: 240, spread: 105, origin: { x: .75, y: .72 }, colors });
+  }, [room.lastResult, room.roundPhase]);
 
   const callHostAction = async (action: "resolve" | "next" | "restart" | "lobby") => {
     if (!firebaseAuth.currentUser) return;
@@ -116,7 +129,6 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
             <span>{teamLabel[result.answeredTeam]}</span>
           </div>
           <div className="free-answer-reveal" aria-live="polite">
-            <div className="result-mark"><Eye aria-hidden="true" /></div>
             <div className="free-answer-copy">
               <p className="eyebrow">{teamLabel[result.answeredTeam]}</p>
               <h1>Answer revealed</h1>
@@ -156,8 +168,9 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
     const winnerCopy = room.winner === Winner.Tie
       ? "It's a tie!"
       : room.winner === Winner.TeamA
-        ? "Team A wins!"
-        : "Team B wins!";
+        ? "Red Team wins!"
+        : "Blue Team wins!";
+    const result = room.lastResult;
 
     return (
       <main className="lobby-shell room-results-shell">
@@ -174,6 +187,25 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
             <Link className="secondary-button" href="/"><Home aria-hidden="true" /> Home</Link>
           </div>}
         </section>
+        {result && <section className="choice-section" aria-label="Final answer reveal">
+          <div className="choice-grid">
+            {result.choices.map((choice, index) => {
+              const isAnswer = choice.id === result.answerId;
+              const isSelected = result.submissions.some((submission) => choice.id === submission.selectedPokemonId);
+              const revealState = isAnswer ? "correct" : isSelected ? "incorrect" : "muted";
+
+              return (
+                <div className="free-choice" data-state={revealState} key={choice.id}>
+                  <span className="choice-letter">{String.fromCharCode(65 + index)}</span>
+                  <Image alt={choice.name} height={475} loading="eager" sizes="(max-width: 700px) 45vw, 22vw" src={choice.imagePath} width={475} />
+                  <span className="choice-name">{choice.name}</span>
+                  {isAnswer && <Check className="choice-result-icon" aria-hidden="true" />}
+                  {isSelected && !isAnswer && <X className="choice-result-icon" aria-hidden="true" />}
+                </div>
+              );
+            })}
+          </div>
+        </section>}
         {error && <p className="form-error" role="alert">{error}</p>}
       </main>
     );
@@ -190,9 +222,27 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
   const me = players.find((player) => player.id === uid);
   const hasSubmitted = Boolean(uid && answerSubmissions[uid] !== undefined);
   const canAnswer = Boolean(me) && me?.team === room.activeTeam && !me?.eliminated && !hasSubmitted;
+  const playerTeam = me?.team ?? Team.None;
+
+  const dismissBriefing = () => {
+    window.sessionStorage.setItem(briefingKey, "seen");
+    setIsBriefingOpen(false);
+  };
 
   return (
     <main className="lobby-shell room-game-shell">
+      {isBriefingOpen && <div className="game-briefing-backdrop" role="presentation">
+        <section aria-labelledby="game-briefing-title" aria-modal="true" className="game-briefing" data-team={playerTeam} role="dialog">
+          <h1 id="game-briefing-title">You are on {teamLabel[playerTeam]}.</h1>
+          <ul>
+            <li>One guess per player.</li>
+            <li>Wrong or missing guesses are out.</li>
+            <li>Host reveals when ready.</li>
+            <li>Last team standing wins.</li>
+          </ul>
+          <button className="primary-button" onClick={dismissBriefing} type="button">Start guessing</button>
+        </section>
+      </div>}
       <div className="team-status-bar">
         <div className="team-status" data-active={room.activeTeam === Team.TeamA} data-team={Team.TeamA}>
           <span>Red Team</span>
@@ -205,7 +255,7 @@ export const RoomGame = ({ players, room, roomId, uid }: RoomGameProps) => {
         </div>
       </div>
 
-      <section className="free-entry-panel">
+      <section className="free-entry-panel" data-team={room.activeTeam}>
         <div className="free-round-meta">
           <span>Round {room.roundNumber}</span>
           <span>{canAnswer ? "Your team's turn" : me?.eliminated ? <><Skull aria-hidden="true" size={14} /> Eliminated</> : <><Eye aria-hidden="true" size={14} /> Watching</>}</span>

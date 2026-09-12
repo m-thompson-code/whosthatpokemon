@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { ArrowLeft, Gamepad2 } from "lucide-react";
+import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { connection } from "next/server";
 
@@ -22,7 +22,7 @@ const FreeModePage = async () => {
           <ArrowLeft aria-hidden="true" size={18} /> Back home
         </Link>
         <div className="free-mode-title">
-          <Gamepad2 aria-hidden="true" />
+          <span aria-hidden="true" className="pokeball-icon" />
           <span>Free Mode</span>
         </div>
         <p>No lobby. No timer. Keep guessing.</p>

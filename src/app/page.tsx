@@ -1,10 +1,19 @@
-import { Gamepad2 } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 
 import { JoinRoomForm } from "@/features/rooms/join-room-form";
 
 const Home = () => (
   <main className="home-shell">
+    <Image
+      alt=""
+      aria-hidden="true"
+      className="regirice-peek"
+      height={512}
+      priority
+      src="/assets/regirice-nobackground.png"
+      width={512}
+    />
     <section className="entry-stage">
       <div className="entry-copy">
         <h1>
@@ -22,7 +31,7 @@ const Home = () => (
         <div className="free-mode-section">
           <Link className="free-mode-cta" href="/play">
             <span className="free-mode-cta__copy">
-              <Gamepad2 aria-hidden="true" />
+              <span aria-hidden="true" className="pokeball-icon" />
               <span><strong>Free Mode</strong><small>No lobby required</small></span>
             </span>
           </Link>

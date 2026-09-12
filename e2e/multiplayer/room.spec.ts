@@ -54,6 +54,7 @@ test("8 players can join a room, get shuffled into two teams, and the host can s
 
     for (const participant of [host, ...joiners]) {
       await expect(participant.page.locator(".team-status-bar")).toBeVisible({ timeout: 20_000 });
+      await participant.page.getByRole("button", { name: "Start guessing" }).click();
     }
   } finally {
     if (roomId) await cleanupRoom(roomId, joinCode || undefined);
@@ -94,6 +95,9 @@ test("teammates submit individual answers before the host reveals the round", as
 
     await host.page.click('button:has-text("Start game")');
     await expect(host.page.locator(".team-status-bar")).toBeVisible({ timeout: 20_000 });
+    for (const participant of [host, soloPlayer, allyA, allyB]) {
+      await participant.page.getByRole("button", { name: "Start guessing" }).click();
+    }
 
     const activeRoom = await getRoom(roomId);
     if (activeRoom?.activeTeam === "team-a" && activeRoom.currentRound) {
